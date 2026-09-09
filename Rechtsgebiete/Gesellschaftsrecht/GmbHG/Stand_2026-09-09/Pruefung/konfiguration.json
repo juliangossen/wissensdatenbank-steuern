@@ -1,0 +1,24 @@
+{
+  "kuerzel": "GmbHG",
+  "titel": "Gesetz betreffend die Gesellschaften mit beschränkter Haftung",
+  "rechtsgebiet": "Gesellschaftsrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/gmbhg/",
+  "quelle_html": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+  "lokale_pdf": "GmbHG_bereitgestellt.pdf",
+  "aktuelle_pdf": "GmbHG_aktuell.pdf",
+  "xml_datei": "Quellen/XML/BJNR004770892.xml",
+  "ausfertigungsdatum": "1892-04-20",
+  "stand": [
+    "Zuletzt geändert durch Art. 21 G v. 23.10.2024 I Nr. 323"
+  ],
+  "vollzitat": "\"Gesetz betreffend die Gesellschaften mit beschränkter Haftung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4123-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 21 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist\"",
+  "pdf_seiten": 36,
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "pdf_url": "https://www.gesetze-im-internet.de/gmbhg/GmbHG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/gmbhg/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+  "original_dateiname": "GmbHG.pdf",
+  "konverter_datei": "Pruefung/konvertieren.py"
+}

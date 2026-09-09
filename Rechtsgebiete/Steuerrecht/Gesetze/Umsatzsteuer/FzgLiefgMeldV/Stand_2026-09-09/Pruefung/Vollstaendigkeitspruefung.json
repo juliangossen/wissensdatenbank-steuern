@@ -1,0 +1,103 @@
+{
+  "kuerzel": "FzgLiefgMeldV",
+  "quellenabgleich": "2026-09-09",
+  "xml_normdatensaetze": 8,
+  "gliederungsteile": 0,
+  "vorschriften": 5,
+  "anlagen_anhaenge": 0,
+  "tabellen": 0,
+  "tabellenzeilen": 0,
+  "tabellenzellen": 0,
+  "aufzaehlungskennzeichnungen": 14,
+  "bilder": 0,
+  "gepruefte_textbloecke": 13,
+  "alle_textbloecke_identisch": true,
+  "interne_links": 8,
+  "alle_linkziele_vorhanden": true,
+  "sha256_markdown": "334d47c2438e39c811fd772707dfd71958e55f134d3cdd8258c7b2b6452644f7",
+  "sha256_xml": "742c3feae488dac4a190362ab49ebbd8752c4e3f2795e1ca3036d207a28bd427",
+  "sha256_pdf": "c39f7890556dd8e97c013a103c5b1905685a6975d9234eb0b952266bbc4bcd5c",
+  "bildassets": {},
+  "methode": "Vollständiger XML-Text je Inhalt, Fußnote und Überschrift gegen aus Markdown gerenderten Text. Nur NFC/Whitespace, generische Spaltenköpfe und ausdrücklich redaktionelle Fußnotenmarker ausgenommen. Alle übrigen Zeichen und Zahlen unverändert.",
+  "bloecke": [
+    {
+      "teil": "Dokumentkopf / fussnoten / Content",
+      "zeichen_ohne_whitespace": 31,
+      "sha256_normalisierter_text": "6fdde85adae379eb28e9599d5b1425465b57150ea6abad1077d2b4e8f93b0954",
+      "identisch": true
+    },
+    {
+      "teil": "Eingangsformel / text / Content",
+      "zeichen_ohne_whitespace": 155,
+      "sha256_normalisierter_text": "8454f15a027283bb10bfff151c6d9285bcef944e1798b72b7b507dca354a3179",
+      "identisch": true
+    },
+    {
+      "teil": "§ 1 / Überschrift",
+      "zeichen_ohne_whitespace": 33,
+      "sha256_normalisierter_text": "fc5c466b9dbac7f9c8ae468a9ac4ad78211f3e7b6dc5c5fe1f2e93e08e7ce0a1",
+      "identisch": true
+    },
+    {
+      "teil": "§ 1 / text / Content",
+      "zeichen_ohne_whitespace": 1176,
+      "sha256_normalisierter_text": "e6e1a2ea9102a31e43bc74fadf5ceafceb44b25cedeb466aebdfdfb7b9505a34",
+      "identisch": true
+    },
+    {
+      "teil": "§ 2 / Überschrift",
+      "zeichen_ohne_whitespace": 16,
+      "sha256_normalisierter_text": "c173ea81a4f6f2b88653a6215bbbe6863aa08048ad5d6c242594a0de1089f477",
+      "identisch": true
+    },
+    {
+      "teil": "§ 2 / text / Content",
+      "zeichen_ohne_whitespace": 906,
+      "sha256_normalisierter_text": "bd8b6510e4b4436b914aa0770969f45f52980e2277a88eeb94cf6de6768e73fa",
+      "identisch": true
+    },
+    {
+      "teil": "§ 3 / Überschrift",
+      "zeichen_ohne_whitespace": 16,
+      "sha256_normalisierter_text": "63a766c2522f077fd68b48f83124c8631fdd50bd3ba719b19d67250920e68ccc",
+      "identisch": true
+    },
+    {
+      "teil": "§ 3 / text / Content",
+      "zeichen_ohne_whitespace": 151,
+      "sha256_normalisierter_text": "40f41da0bc2db22f39becdd786e336a3eb2b58e28e54e6a7a7f7a18591c74410",
+      "identisch": true
+    },
+    {
+      "teil": "§ 4 / Überschrift",
+      "zeichen_ohne_whitespace": 18,
+      "sha256_normalisierter_text": "113d94167854bb8085d2743e88e9bec885612223a918f701562de1593b66b701",
+      "identisch": true
+    },
+    {
+      "teil": "§ 4 / text / Content",
+      "zeichen_ohne_whitespace": 195,
+      "sha256_normalisierter_text": "51ba75e30c94ded246c16fed437e4ca29db31417a3e05f71bf14d7aa44a6e989",
+      "identisch": true
+    },
+    {
+      "teil": "§ 5 / Überschrift",
+      "zeichen_ohne_whitespace": 13,
+      "sha256_normalisierter_text": "3d7a36f62db6bbd7c5c837353b58588d44b3366a339060fba45b42a7eb0b60fd",
+      "identisch": true
+    },
+    {
+      "teil": "§ 5 / text / Content",
+      "zeichen_ohne_whitespace": 40,
+      "sha256_normalisierter_text": "fc6397f15dd3fd7ed0b4be0342eec760a5a3bdd7ebc17a0974462188419530b3",
+      "identisch": true
+    },
+    {
+      "teil": "Schlussformel / text / Content",
+      "zeichen_ohne_whitespace": 26,
+      "sha256_normalisierter_text": "d7110473b63b08ac5584f429230b7cd15dcebe80962de1141ccc36c899de84ae",
+      "identisch": true
+    }
+  ],
+  "fussnotenmarker_aus_quellattributen": {}
+}

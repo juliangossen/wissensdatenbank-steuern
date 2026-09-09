@@ -1,0 +1,491 @@
+{
+  "kuerzel": "KStG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 309,
+      "xml_chars": 309,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 2661,
+      "xml_chars": 2661,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Erster TeilSteuerpflicht",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 2164,
+      "xml_chars": 2164,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 1a",
+      "pdf_chars": 6450,
+      "xml_chars": 6450,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 2",
+      "pdf_chars": 1311,
+      "xml_chars": 1311,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 3",
+      "pdf_chars": 682,
+      "xml_chars": 682,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 4",
+      "pdf_chars": 1478,
+      "xml_chars": 1478,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 5",
+      "pdf_chars": 18438,
+      "xml_chars": 18438,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 6",
+      "pdf_chars": 3415,
+      "xml_chars": 3415,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 6a",
+      "pdf_chars": 169,
+      "xml_chars": 169,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "Zweiter TeilEinkommen",
+      "pdf_chars": 20,
+      "xml_chars": 20,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "Erstes KapitelAllgemeine Vorschriften",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 7",
+      "pdf_chars": 1000,
+      "xml_chars": 1000,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 8",
+      "pdf_chars": 7224,
+      "xml_chars": 7224,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 8a",
+      "pdf_chars": 1865,
+      "xml_chars": 1865,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 8b",
+      "pdf_chars": 10871,
+      "xml_chars": 10871,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 8c",
+      "pdf_chars": 4262,
+      "xml_chars": 4262,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 8d",
+      "pdf_chars": 2474,
+      "xml_chars": 2474,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 9",
+      "pdf_chars": 4926,
+      "xml_chars": 4926,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 10",
+      "pdf_chars": 1052,
+      "xml_chars": 1052,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 11",
+      "pdf_chars": 1576,
+      "xml_chars": 1576,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 12",
+      "pdf_chars": 1691,
+      "xml_chars": 1691,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 13",
+      "pdf_chars": 1741,
+      "xml_chars": 1741,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "Zweites KapitelSondervorschriften für die\nOrganschaft",
+      "pdf_chars": 49,
+      "xml_chars": 49,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 14",
+      "pdf_chars": 7300,
+      "xml_chars": 7300,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 15",
+      "pdf_chars": 4664,
+      "xml_chars": 4664,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 16",
+      "pdf_chars": 369,
+      "xml_chars": 369,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 17",
+      "pdf_chars": 778,
+      "xml_chars": 778,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 18",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 19",
+      "pdf_chars": 1412,
+      "xml_chars": 1412,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "Drittes KapitelSondervorschriften für Versicherungen und Pensionsfonds",
+      "pdf_chars": 65,
+      "xml_chars": 65,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 20",
+      "pdf_chars": 1625,
+      "xml_chars": 1625,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 21",
+      "pdf_chars": 2285,
+      "xml_chars": 2285,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 21a",
+      "pdf_chars": 1096,
+      "xml_chars": 1096,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "Viertes KapitelSondervorschriften für\nGenossenschaften",
+      "pdf_chars": 51,
+      "xml_chars": 51,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 22",
+      "pdf_chars": 1284,
+      "xml_chars": 1284,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "Dritter TeilTarif, Besteuerung bei ausländischen\nEinkunftsteilen",
+      "pdf_chars": 59,
+      "xml_chars": 59,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 23",
+      "pdf_chars": 564,
+      "xml_chars": 564,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 24",
+      "pdf_chars": 668,
+      "xml_chars": 668,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 25",
+      "pdf_chars": 1227,
+      "xml_chars": 1227,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§ 26",
+      "pdf_chars": 1579,
+      "xml_chars": 1579,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "Vierter TeilNicht in das Nennkapital geleistete\nEinlagen und Entstehung und Veranlagung",
+      "pdf_chars": 77,
+      "xml_chars": 77,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 27",
+      "pdf_chars": 5917,
+      "xml_chars": 5917,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 28",
+      "pdf_chars": 1601,
+      "xml_chars": 1601,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 29",
+      "pdf_chars": 2576,
+      "xml_chars": 2576,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "§ 30",
+      "pdf_chars": 454,
+      "xml_chars": 454,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 31",
+      "pdf_chars": 1285,
+      "xml_chars": 1285,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 32",
+      "pdf_chars": 8533,
+      "xml_chars": 8533,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "§ 32a",
+      "pdf_chars": 1090,
+      "xml_chars": 1090,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "Fünfter TeilErmächtigungs- und Schlussvorschriften",
+      "pdf_chars": 47,
+      "xml_chars": 47,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 33",
+      "pdf_chars": 3107,
+      "xml_chars": 3107,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "§ 34",
+      "pdf_chars": 20702,
+      "xml_chars": 20702,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 35",
+      "pdf_chars": 706,
+      "xml_chars": 706,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "Sechster TeilSondervorschriften für den Übergang vom\nAnrechnungsverfahren zum Halbeinkünfteverfahren",
+      "pdf_chars": 92,
+      "xml_chars": 92,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 36",
+      "pdf_chars": 4323,
+      "xml_chars": 4323,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§ 37",
+      "pdf_chars": 6298,
+      "xml_chars": 6298,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 38",
+      "pdf_chars": 6268,
+      "xml_chars": 6268,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "§ 39",
+      "pdf_chars": 548,
+      "xml_chars": 548,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "§ 40",
+      "pdf_chars": 98,
+      "xml_chars": 98,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 60,
+  "gesamt": 60,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "84799bc3d379dd311ae2d1878f7a4b21b6f7c0793d9c1ecf15d0b1badb57aef4",
+  "xml_sha256": "26b626af4cdda0710b99b18cca7ea8e7be8e326117d424be18e93dd37c75f36e"
+}

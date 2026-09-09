@@ -1,0 +1,331 @@
+{
+  "kuerzel": "PStTG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 176,
+      "xml_chars": 176,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 1266,
+      "xml_chars": 1266,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Abschnitt 1Allgemeine Vorschriften",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "Unterabschnitt 1Anwendungsbereich",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 1",
+      "pdf_chars": 470,
+      "xml_chars": 470,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "Unterabschnitt 2Begriffsbestimmungen",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 2",
+      "pdf_chars": 77,
+      "xml_chars": 77,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 3",
+      "pdf_chars": 2220,
+      "xml_chars": 2220,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 4",
+      "pdf_chars": 2866,
+      "xml_chars": 2866,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 5",
+      "pdf_chars": 1770,
+      "xml_chars": 1770,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 6",
+      "pdf_chars": 3076,
+      "xml_chars": 3076,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 7",
+      "pdf_chars": 1618,
+      "xml_chars": 1618,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "Unterabschnitt 3Verfahrensvorschriften",
+      "pdf_chars": 37,
+      "xml_chars": 37,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 8",
+      "pdf_chars": 255,
+      "xml_chars": 255,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 9",
+      "pdf_chars": 4584,
+      "xml_chars": 4584,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 10",
+      "pdf_chars": 2308,
+      "xml_chars": 2308,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 11",
+      "pdf_chars": 3723,
+      "xml_chars": 3723,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 12",
+      "pdf_chars": 4111,
+      "xml_chars": 4111,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "Abschnitt 2Meldepflichten",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 13",
+      "pdf_chars": 2864,
+      "xml_chars": 2864,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 14",
+      "pdf_chars": 3918,
+      "xml_chars": 3918,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 15",
+      "pdf_chars": 2117,
+      "xml_chars": 2117,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "Abschnitt 3Sorgfaltspflichten",
+      "pdf_chars": 28,
+      "xml_chars": 28,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 16",
+      "pdf_chars": 175,
+      "xml_chars": 175,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 17",
+      "pdf_chars": 1315,
+      "xml_chars": 1315,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 18",
+      "pdf_chars": 2231,
+      "xml_chars": 2231,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 19",
+      "pdf_chars": 1089,
+      "xml_chars": 1089,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 20",
+      "pdf_chars": 719,
+      "xml_chars": 719,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 21",
+      "pdf_chars": 449,
+      "xml_chars": 449,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "Abschnitt 4Sonstige Pflichten für meldende Plattformbetreiber",
+      "pdf_chars": 56,
+      "xml_chars": 56,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 22",
+      "pdf_chars": 845,
+      "xml_chars": 845,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 23",
+      "pdf_chars": 830,
+      "xml_chars": 830,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 24",
+      "pdf_chars": 2249,
+      "xml_chars": 2249,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "Abschnitt 5Bußgeldvorschriften und weitere Maßnahmen",
+      "pdf_chars": 48,
+      "xml_chars": 48,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 25",
+      "pdf_chars": 1618,
+      "xml_chars": 1618,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 26",
+      "pdf_chars": 1098,
+      "xml_chars": 1098,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 27",
+      "pdf_chars": 723,
+      "xml_chars": 723,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "Abschnitt 6Rechtsweg und Anwendungsbestimmungen",
+      "pdf_chars": 44,
+      "xml_chars": 44,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 28",
+      "pdf_chars": 142,
+      "xml_chars": 142,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 29",
+      "pdf_chars": 395,
+      "xml_chars": 395,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 40,
+  "gesamt": 40,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "68faf85905d8db3bb1ae7f2c0ff140b2c397324e38e9315521db3773af5c2d71",
+  "xml_sha256": "303609e5ba009c30453c614083f00c51cdcabdc6e03e1865a572fbe16f411ee6"
+}

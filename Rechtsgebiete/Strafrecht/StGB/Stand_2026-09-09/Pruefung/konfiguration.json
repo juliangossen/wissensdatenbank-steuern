@@ -1,0 +1,22 @@
+{
+  "kuerzel": "StGB",
+  "titel": "Strafgesetzbuch",
+  "rechtsgebiet": "Strafrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/stgb/",
+  "lokale_pdf": "StGB_bereitgestellt.pdf",
+  "aktuelle_pdf": "StGB_aktuell.pdf",
+  "xml_datei": "Quellen/XML/BJNR001270871.xml",
+  "ausfertigungsdatum": "1871-05-15",
+  "stand": [
+    "Neugefasst durch Bek. v. 13.11.1998 I 3322;",
+    "zuletzt geändert durch Art. 1 G v. 20.3.2026 I Nr. 95"
+  ],
+  "vollzitat": "\"Strafgesetzbuch in der Fassung der Bekanntmachung vom 13. November 1998 (BGBl. I S. 3322), das zuletzt durch Artikel 1 des Gesetzes vom 20. März 2026 (BGBl. 2026 I Nr. 95) geändert worden ist\"",
+  "pdf_seiten": 173,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "pdf_text_identisch_aktuell": true,
+  "pdf_url": "https://www.gesetze-im-internet.de/stgb/StGB.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/stgb/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/stgb/BJNR001270871.html"
+}

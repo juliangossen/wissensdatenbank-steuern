@@ -1,0 +1,331 @@
+{
+  "kuerzel": "UmwStG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 341,
+      "xml_chars": 341,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 2128,
+      "xml_chars": 2128,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Erster TeilAllgemeine Vorschriften",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 4304,
+      "xml_chars": 4304,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 2",
+      "pdf_chars": 4096,
+      "xml_chars": 4096,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "Zweiter TeilVermögensübergang bei Verschmelzung auf eine\nPersonengesellschaft oder auf eine natürliche Person und Formwechsel\neiner Kapitalgesellschaft in eine Personengesellschaft",
+      "pdf_chars": 162,
+      "xml_chars": 162,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 3",
+      "pdf_chars": 2309,
+      "xml_chars": 2309,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 4",
+      "pdf_chars": 4924,
+      "xml_chars": 4924,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 5",
+      "pdf_chars": 1143,
+      "xml_chars": 1143,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 6",
+      "pdf_chars": 1340,
+      "xml_chars": 1340,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 7",
+      "pdf_chars": 525,
+      "xml_chars": 525,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 8",
+      "pdf_chars": 388,
+      "xml_chars": 388,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 9",
+      "pdf_chars": 640,
+      "xml_chars": 640,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 10",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "Dritter TeilVerschmelzung oder Vermögensübertragung\n(Vollübertragung) auf eine andere Körperschaft",
+      "pdf_chars": 90,
+      "xml_chars": 90,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 11",
+      "pdf_chars": 1388,
+      "xml_chars": 1388,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 12",
+      "pdf_chars": 1478,
+      "xml_chars": 1478,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 13",
+      "pdf_chars": 1344,
+      "xml_chars": 1344,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 14",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "Vierter TeilAufspaltung, Abspaltung und\nVermögensübertragung (Teilübertragung)",
+      "pdf_chars": 73,
+      "xml_chars": 73,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 15",
+      "pdf_chars": 2889,
+      "xml_chars": 2889,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 16",
+      "pdf_chars": 324,
+      "xml_chars": 324,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "Fünfter TeilGewerbesteuer",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 17",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 18",
+      "pdf_chars": 1702,
+      "xml_chars": 1702,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 19",
+      "pdf_chars": 332,
+      "xml_chars": 332,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "Sechster TeilEinbringung von Unternehmensteilen in eine\nKapitalgesellschaft oder Genossenschaft und Anteilstausch",
+      "pdf_chars": 103,
+      "xml_chars": 103,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 20",
+      "pdf_chars": 5696,
+      "xml_chars": 5696,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 21",
+      "pdf_chars": 3600,
+      "xml_chars": 3600,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 22",
+      "pdf_chars": 8009,
+      "xml_chars": 8009,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 23",
+      "pdf_chars": 2901,
+      "xml_chars": 2901,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "Siebter TeilEinbringung eines Betriebs, Teilbetriebs oder\nMitunternehmeranteils in eine Personengesellschaft",
+      "pdf_chars": 99,
+      "xml_chars": 99,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 24",
+      "pdf_chars": 2966,
+      "xml_chars": 2966,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "Achter TeilFormwechsel einer Personengesellschaft in eine\nKapitalgesellschaft oder Genossenschaft",
+      "pdf_chars": 89,
+      "xml_chars": 89,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 25",
+      "pdf_chars": 438,
+      "xml_chars": 438,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "Neunter TeilVerhinderung von Missbräuchen",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 26",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "Zehnter TeilAnwendungsvorschriften und Ermächtigung",
+      "pdf_chars": 48,
+      "xml_chars": 48,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 27",
+      "pdf_chars": 10258,
+      "xml_chars": 10258,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 28",
+      "pdf_chars": 293,
+      "xml_chars": 293,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 40,
+  "gesamt": 40,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "725d545b8586350d939f469800cc06015b572f6328c77c56fc70f486110e7daa",
+  "xml_sha256": "2010bf52001064f066c1a1347381f55201659d3e4e649fac5c86027b3a77046f"
+}

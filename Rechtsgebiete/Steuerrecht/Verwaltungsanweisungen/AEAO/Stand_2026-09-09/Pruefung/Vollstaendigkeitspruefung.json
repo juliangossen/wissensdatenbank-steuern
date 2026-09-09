@@ -1,0 +1,20 @@
+{
+  "pruefung_erfolgreich": true,
+  "sha256_original_quelle": "45a7025c74f2cd2ed12a5c74b850c8c7414cab48d6aef7adaeba71bb9cffe8ab",
+  "sha256_markdown": "73cdac11ba1b639ea1846a153ac6a156b7ae055b48bfbb1714cb9a657952563f",
+  "quellzeilen_gesamt": 18428,
+  "quellzeilen_sachinhalt_nichtleer": 10073,
+  "quellbloecke": 6084,
+  "gliederungspositionen": 224,
+  "anlagen": 3,
+  "fussnoten": 983,
+  "nummerierte_ueberschriften": 501,
+  "nummerierte_absaetze": 1688,
+  "zwischenueberschriften": 207,
+  "inhaltsuebersichten_je_position": 20,
+  "aufzaehlungen": 281,
+  "kurze_quellzeilenbloecke": 160,
+  "sprungmarken_nummerierte_punkte": 2152,
+  "uebernahme": "Alle nichtleeren Sachtextzeilen 87 bis 18404 genau einmal; vollständiger sichtbarer Textrückvergleich pro Quellblock.",
+  "einschraenkung": "Vollständigkeit der übernommenen Textkopie geprüft; kein Wortlautvergleich mit einer amtlichen Gesamtfassung. Gliederungsebenen nicht nummerierter Zwischenüberschriften und die Zuordnung abgeflachter Tabellenzeilen sind redaktionelle Strukturentscheidungen."
+}

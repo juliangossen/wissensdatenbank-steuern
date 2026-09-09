@@ -1,0 +1,875 @@
+{
+  "kuerzel": "UStDV",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 268,
+      "xml_chars": 268,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 4369,
+      "xml_chars": 4369,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "-Zu § 3a des Gesetzes",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "-Zu § 3b des Gesetzes",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 2",
+      "pdf_chars": 414,
+      "xml_chars": 414,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 3",
+      "pdf_chars": 334,
+      "xml_chars": 334,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 4",
+      "pdf_chars": 440,
+      "xml_chars": 440,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 5",
+      "pdf_chars": 15,
+      "xml_chars": 15,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 6",
+      "pdf_chars": 285,
+      "xml_chars": 285,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 7",
+      "pdf_chars": 1589,
+      "xml_chars": 1589,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "-Zu § 4 Nr. 1 Buchstabe a und den §§ 6 und 7 des Gesetzes",
+      "pdf_chars": 43,
+      "xml_chars": 43,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "-Ausfuhrnachweis und buchmäßiger Nachweis bei\nAusfuhrlieferungen und Lohnveredelungen an Gegenständen der\nAusfuhr",
+      "pdf_chars": 102,
+      "xml_chars": 102,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 8",
+      "pdf_chars": 541,
+      "xml_chars": 541,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 9",
+      "pdf_chars": 2572,
+      "xml_chars": 2572,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 10",
+      "pdf_chars": 2875,
+      "xml_chars": 2875,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 11",
+      "pdf_chars": 817,
+      "xml_chars": 817,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 12",
+      "pdf_chars": 226,
+      "xml_chars": 226,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 13",
+      "pdf_chars": 2293,
+      "xml_chars": 2293,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§§ 14 bis 16",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 17",
+      "pdf_chars": 511,
+      "xml_chars": 511,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "-Zu § 4 Nr. 1 Buchstabe b und § 6a des Gesetzes",
+      "pdf_chars": 36,
+      "xml_chars": 36,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 17a",
+      "pdf_chars": 2204,
+      "xml_chars": 2204,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 17b",
+      "pdf_chars": 6242,
+      "xml_chars": 6242,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 17c",
+      "pdf_chars": 549,
+      "xml_chars": 549,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 17d",
+      "pdf_chars": 2283,
+      "xml_chars": 2283,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "-Zu § 4 Nr. 2 und § 8 des Gesetzes",
+      "pdf_chars": 25,
+      "xml_chars": 25,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 18",
+      "pdf_chars": 294,
+      "xml_chars": 294,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "-Zu § 4 Nr. 3 des Gesetzes",
+      "pdf_chars": 20,
+      "xml_chars": 20,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 19",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 20",
+      "pdf_chars": 914,
+      "xml_chars": 914,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 21",
+      "pdf_chars": 875,
+      "xml_chars": 875,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "-Zu § 4 Nr. 5 des Gesetzes",
+      "pdf_chars": 20,
+      "xml_chars": 20,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 22",
+      "pdf_chars": 477,
+      "xml_chars": 477,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "-Zu § 4 Nr. 18 des Gesetzes",
+      "pdf_chars": 21,
+      "xml_chars": 21,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 23",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "-Zu § 4a des Gesetzes",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 24",
+      "pdf_chars": 1030,
+      "xml_chars": 1030,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "-Zu § 10 Abs. 6 des Gesetzes",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 25",
+      "pdf_chars": 116,
+      "xml_chars": 116,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "-Zu § 12 Abs. 2 Nr. 1 des Gesetzes",
+      "pdf_chars": 26,
+      "xml_chars": 26,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§§ 26 bis 29",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "-Zu § 12 Abs. 2 Nr. 7 Buchstabe d des Gesetzes",
+      "pdf_chars": 36,
+      "xml_chars": 36,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 30",
+      "pdf_chars": 219,
+      "xml_chars": 219,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "-Zu § 13b des Gesetzes",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 30a",
+      "pdf_chars": 692,
+      "xml_chars": 692,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "-Zu § 14 des Gesetzes",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 31",
+      "pdf_chars": 1416,
+      "xml_chars": 1416,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 32",
+      "pdf_chars": 360,
+      "xml_chars": 360,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "§ 33",
+      "pdf_chars": 814,
+      "xml_chars": 814,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "§ 34",
+      "pdf_chars": 1280,
+      "xml_chars": 1280,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 34a",
+      "pdf_chars": 1090,
+      "xml_chars": 1090,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "-Zu § 15 des Gesetzes",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 35",
+      "pdf_chars": 620,
+      "xml_chars": 620,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "§§ 36 bis 39a",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 40",
+      "pdf_chars": 953,
+      "xml_chars": 953,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§§ 41 bis 42",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 43",
+      "pdf_chars": 747,
+      "xml_chars": 747,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "-Zu § 15a des Gesetzes",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "§ 44",
+      "pdf_chars": 1524,
+      "xml_chars": 1524,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 60,
+      "name": "§ 45",
+      "pdf_chars": 311,
+      "xml_chars": 311,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 61,
+      "name": "-Zu den §§ 16 und 18 des Gesetzes",
+      "pdf_chars": 26,
+      "xml_chars": 26,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 62,
+      "name": "-Dauerfristverlängerung",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 63,
+      "name": "§ 46",
+      "pdf_chars": 321,
+      "xml_chars": 321,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 64,
+      "name": "§ 47",
+      "pdf_chars": 772,
+      "xml_chars": 772,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 65,
+      "name": "§ 48",
+      "pdf_chars": 1501,
+      "xml_chars": 1501,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 66,
+      "name": "-Verzicht auf die Steuererhebung",
+      "pdf_chars": 29,
+      "xml_chars": 29,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 67,
+      "name": "§ 49",
+      "pdf_chars": 476,
+      "xml_chars": 476,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 50",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 69,
+      "name": "-Besteuerung im Abzugsverfahren",
+      "pdf_chars": 29,
+      "xml_chars": 29,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 70,
+      "name": "§ 51",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 52",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 72,
+      "name": "§ 53",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 73,
+      "name": "§ 54",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 74,
+      "name": "§ 55",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 75,
+      "name": "§ 56",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 76,
+      "name": "§ 57",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 77,
+      "name": "§ 58",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 78,
+      "name": "-Vergütung der Vorsteuerbeträge in einem\nbesonderen Verfahren",
+      "pdf_chars": 55,
+      "xml_chars": 55,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 79,
+      "name": "§ 59",
+      "pdf_chars": 2354,
+      "xml_chars": 2354,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 80,
+      "name": "§ 60",
+      "pdf_chars": 800,
+      "xml_chars": 800,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 81,
+      "name": "§ 61",
+      "pdf_chars": 3976,
+      "xml_chars": 3976,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 82,
+      "name": "§ 61a",
+      "pdf_chars": 2241,
+      "xml_chars": 2241,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 83,
+      "name": "-Sondervorschriften für die Besteuerung bestimmter\nUnternehmer",
+      "pdf_chars": 57,
+      "xml_chars": 57,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 84,
+      "name": "§ 62",
+      "pdf_chars": 360,
+      "xml_chars": 360,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 85,
+      "name": "-Zu § 22 des Gesetzes",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 86,
+      "name": "§ 63",
+      "pdf_chars": 2690,
+      "xml_chars": 2690,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 87,
+      "name": "§ 64",
+      "pdf_chars": 206,
+      "xml_chars": 206,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 88,
+      "name": "§ 65",
+      "pdf_chars": 471,
+      "xml_chars": 471,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 89,
+      "name": "§ 66",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 90,
+      "name": "§ 66a",
+      "pdf_chars": 356,
+      "xml_chars": 356,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 91,
+      "name": "§ 67",
+      "pdf_chars": 427,
+      "xml_chars": 427,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 92,
+      "name": "§ 68",
+      "pdf_chars": 716,
+      "xml_chars": 716,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 93,
+      "name": "-Zu § 23 des Gesetzes",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 94,
+      "name": "§ 69",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 95,
+      "name": "§ 70",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 96,
+      "name": "-Zu § 24 Abs. 4 des Gesetzes",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 97,
+      "name": "§ 71",
+      "pdf_chars": 358,
+      "xml_chars": 358,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 98,
+      "name": "-Zu § 25 Abs. 2 des Gesetzes",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 99,
+      "name": "§ 72",
+      "pdf_chars": 664,
+      "xml_chars": 664,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 100,
+      "name": "-Zu § 26 Abs. 5 des Gesetzes",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 101,
+      "name": "§ 73",
+      "pdf_chars": 1325,
+      "xml_chars": 1325,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 102,
+      "name": "-Übergangs- und Schlussvorschriften",
+      "pdf_chars": 33,
+      "xml_chars": 33,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 103,
+      "name": "§ 74",
+      "pdf_chars": 30,
+      "xml_chars": 30,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 104,
+      "name": "§ 74a",
+      "pdf_chars": 810,
+      "xml_chars": 810,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 105,
+      "name": "§ 75",
+      "pdf_chars": 30,
+      "xml_chars": 30,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 106,
+      "name": "§ 76",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 107,
+      "name": "Anlage",
+      "pdf_chars": 19,
+      "xml_chars": 19,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 108,
+  "gesamt": 108,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "741ee8b7d88bbfece5344c55b32bd26703caf6d2eb302f5e4f0dc753a06a252b",
+  "xml_sha256": "612198591bd683762cfc2a4998a96978282a2ed8de294fd491c767bb77b5108b"
+}

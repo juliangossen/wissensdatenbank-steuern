@@ -1,0 +1,289 @@
+[
+  {
+    "id": "0001",
+    "kind": "briefkopf",
+    "page": 1,
+    "source": "Bundesministerium der Finanzen, 11016 Berlin\n                                                                     Wilhelm straße 97\nNur per E-Mail                                                       10117 Berlin\n                                                                     Tel. +49 30 18 682-0\nOberste Finanzbehörden\nder Länder                                                           poststelle@bmf.bund.de\n                                                                     www.bundesfinanzministerium.de\n                                                                     14. Juli 2025\n\n\n\n\nGrundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern,\nAufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff (GoBD);\n2. Änderung aufgrund verschiedener gesetzlicher Änderungen\n\nGZ: IV D 2 - S 0316/00128/005/088\nDOK: COO.7005.100.2.12452742\nSeite 1 von 4\n(bei Antwort bitte GZ und DOK angeben)",
+    "value": "```text\nBundesministerium der Finanzen, 11016 Berlin\n                                                                     Wilhelm straße 97\nNur per E-Mail                                                       10117 Berlin\n                                                                     Tel. +49 30 18 682-0\nOberste Finanzbehörden\nder Länder                                                           poststelle@bmf.bund.de\n                                                                     www.bundesfinanzministerium.de\n                                                                     14. Juli 2025\n\n\n\n\nGrundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern,\nAufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff (GoBD);\n2. Änderung aufgrund verschiedener gesetzlicher Änderungen\n\nGZ: IV D 2 - S 0316/00128/005/088\nDOK: COO.7005.100.2.12452742\nSeite 1 von 4\n(bei Antwort bitte GZ und DOK angeben)\n```"
+  },
+  {
+    "id": "0002",
+    "kind": "paragraph",
+    "page": 1,
+    "source": "Insbesondere aufgrund der Einführung der obligatorischen elektronischen Rechnung bei\nUmsätzen zwischen inländischen Unternehmern seit dem 1. Januar 2025 ergibt sich an\nverschiedenen Stellen Änderungsbedarf bei den GoBD.",
+    "value": "Insbesondere aufgrund der Einführung der obligatorischen elektronischen Rechnung bei Umsätzen zwischen inländischen Unternehmern seit dem 1. Januar 2025 ergibt sich an verschiedenen Stellen Änderungsbedarf bei den GoBD."
+  },
+  {
+    "id": "0003",
+    "kind": "paragraph",
+    "page": 1,
+    "source": "Nach Erörterung mit den obersten Finanzbehörden der Länder werden die GoBD, veröffentlicht\nmit BMF-Schreiben vom 28. November 2019, BStBl I S. 1269, geändert durch BMF-Schreiben\nvom 11. März 2024, BStBl I S. 374, mit sofortiger Wirkung wie folgt geändert:",
+    "value": "Nach Erörterung mit den obersten Finanzbehörden der Länder werden die GoBD, veröffentlicht mit BMF-Schreiben vom 28. November 2019, BStBl I S. 1269, geändert durch BMF-Schreiben vom 11. März 2024, BStBl I S. 374, mit sofortiger Wirkung wie folgt geändert:"
+  },
+  {
+    "id": "0004",
+    "kind": "heading",
+    "page": 1,
+    "source": "1.         Randziffer 76 wird wie folgt geändert:",
+    "value": "### 1. Randziffer 76 wird wie folgt geändert:"
+  },
+  {
+    "id": "0005",
+    "kind": "paragraph",
+    "page": 1,
+    "source": "a)     Im fünften Satz des ersten Absatzes wird nach dem Wort „Meldungen“ die Wörter „bzw.\nDatensätze“ ergänzt und das Wort „XML-File“ durch die Wörter „XML-Datei, strukturierter Teil\neiner E-Rechnung“ ersetzt.",
+    "value": "a) Im fünften Satz des ersten Absatzes wird nach dem Wort „Meldungen“ die Wörter „bzw. Datensätze“ ergänzt und das Wort „XML-File“ durch die Wörter „XML-Datei, strukturierter Teil einer E-Rechnung“ ersetzt."
+  },
+  {
+    "id": "0006",
+    "kind": "paragraph",
+    "page": 1,
+    "source": "b)     In dem letzten Satz des ersten Absatzes werden die Wörter „Kontoauszüge in PDF oder\nPapier“ durch die Wörter „Dateien im PDF-Format oder papierhaften Belegen“ und das Wort\n„Kontoumsatzdaten“ durch das Wort „Dateien“ ersetzt.",
+    "value": "b) In dem letzten Satz des ersten Absatzes werden die Wörter „Kontoauszüge in PDF oder Papier“ durch die Wörter „Dateien im PDF-Format oder papierhaften Belegen“ und das Wort „Kontoumsatzdaten“ durch das Wort „Dateien“ ersetzt."
+  },
+  {
+    "id": "0007",
+    "kind": "seitenlabel",
+    "page": 2,
+    "source": "Seite 2 von 4",
+    "value": "Seite 2 von 4"
+  },
+  {
+    "id": "0008",
+    "kind": "paragraph",
+    "page": 2,
+    "source": "c)     Der zweite Absatz wird wie folgt gefasst:",
+    "value": "c) Der zweite Absatz wird wie folgt gefasst:"
+  },
+  {
+    "id": "0009",
+    "kind": "paragraph",
+    "page": 2,
+    "source": "„Bei Einsatz eines Fakturierungsprogramms muss unter Berücksichtigung der vorgenannten\nVoraussetzungen keine bildhafte Kopie der Ausgangsrechnung (z. B. in Form einer PDF-Datei\noder des PDF-Teils eines hybriden Rechnungsformats) ab Erstellung gespeichert bzw. aufbewahrt\nwerden, wenn jederzeit auf Anforderung ein inhaltlich identisches Mehrstück der\nAusgangsrechnung erstellt werden kann.“",
+    "value": "„Bei Einsatz eines Fakturierungsprogramms muss unter Berücksichtigung der vorgenannten Voraussetzungen keine bildhafte Kopie der Ausgangsrechnung (z. B. in Form einer PDF-Datei oder des PDF-Teils eines hybriden Rechnungsformats) ab Erstellung gespeichert bzw. aufbewahrt werden, wenn jederzeit auf Anforderung ein inhaltlich identisches Mehrstück der Ausgangsrechnung erstellt werden kann.“"
+  },
+  {
+    "id": "0010",
+    "kind": "heading",
+    "page": 2,
+    "source": "2.     In Randziffer 118 wird folgender Satz angefügt:",
+    "value": "### 2. In Randziffer 118 wird folgender Satz angefügt:"
+  },
+  {
+    "id": "0011",
+    "kind": "paragraph",
+    "page": 2,
+    "source": "„Werden Buchungsbelege, Handels- oder Geschäftsbriefe in Form eines strukturierten\nDatensatzes (bspw. als E-Rechnungen) empfangen, bedarf es abweichend zu § 147 Absatz 2 Nr. 1\nAO keiner bildlichen, sondern nur einer inhaltlichen Übereinstimmung.“",
+    "value": "„Werden Buchungsbelege, Handels- oder Geschäftsbriefe in Form eines strukturierten Datensatzes (bspw. als E-Rechnungen) empfangen, bedarf es abweichend zu § 147 Absatz 2 Nr. 1 AO keiner bildlichen, sondern nur einer inhaltlichen Übereinstimmung.“"
+  },
+  {
+    "id": "0012",
+    "kind": "heading",
+    "page": 2,
+    "source": "3.     In Randziffer 119 wird folgende Sätze angefügt:",
+    "value": "### 3. In Randziffer 119 wird folgende Sätze angefügt:"
+  },
+  {
+    "id": "0013",
+    "kind": "paragraph",
+    "page": 2,
+    "source": "„Bei E-Rechnungen im Sinne des § 14 Absatz 1 Satz 3 und 6 UStG ist es ausreichend, wenn nur\nder strukturierte Teil aufbewahrt wird und die Anforderungen dieses Schreibens erfüllt werden.\nEine Aufbewahrung des menschenlesbaren Datenteils einer hybriden E-Rechnung (z. B. des PDF-\nTeils einer ZUGFeRD-Rechnung) ist nur dann erforderlich, wenn zusätzliche oder abweichende\nInformationen enthalten sind, die für die Besteuerung von Bedeutung sind (z. B.\nBuchungsvermerke).“",
+    "value": "„Bei E-Rechnungen im Sinne des § 14 Absatz 1 Satz 3 und 6 UStG ist es ausreichend, wenn nur der strukturierte Teil aufbewahrt wird und die Anforderungen dieses Schreibens erfüllt werden. Eine Aufbewahrung des menschenlesbaren Datenteils einer hybriden E-Rechnung (z. B. des PDF- Teils einer ZUGFeRD-Rechnung) ist nur dann erforderlich, wenn zusätzliche oder abweichende Informationen enthalten sind, die für die Besteuerung von Bedeutung sind (z. B. Buchungsvermerke).“"
+  },
+  {
+    "id": "0014",
+    "kind": "heading",
+    "page": 2,
+    "source": "4.     In Randziffer 121 wird folgender Absatz angefügt:",
+    "value": "### 4. In Randziffer 121 wird folgender Absatz angefügt:"
+  },
+  {
+    "id": "0015",
+    "kind": "paragraph",
+    "page": 2,
+    "source": "„Nicht aufbewahrungspflichtig ist auch der zur Dokumentation der technischen Abwicklung\neiner elektronischen Zahlung erzeugte Nachweis eines Zahlungsabwicklungsdienstes, sofern\ndieser nicht als Buchungsbeleg verwendet wird oder die einzige Form der Abrechnung mit dem\nZahlungsabwicklungsdienst darstellt oder nur mit ihm eine eindeutige Abgrenzung zwischen\nbaren und unbaren Geschäftsvorfällen in der Kassenbuchführung gewährleistet ist.“",
+    "value": "„Nicht aufbewahrungspflichtig ist auch der zur Dokumentation der technischen Abwicklung einer elektronischen Zahlung erzeugte Nachweis eines Zahlungsabwicklungsdienstes, sofern dieser nicht als Buchungsbeleg verwendet wird oder die einzige Form der Abrechnung mit dem Zahlungsabwicklungsdienst darstellt oder nur mit ihm eine eindeutige Abgrenzung zwischen baren und unbaren Geschäftsvorfällen in der Kassenbuchführung gewährleistet ist.“"
+  },
+  {
+    "id": "0016",
+    "kind": "heading",
+    "page": 2,
+    "source": "5.     In Randziffer 125 wird das Beispiel wie folgt gefasst:",
+    "value": "### 5. In Randziffer 125 wird das Beispiel wie folgt gefasst:"
+  },
+  {
+    "id": "0017",
+    "kind": "paragraph",
+    "page": 2,
+    "source": "„Beispiel 10:",
+    "value": "„Beispiel 10:"
+  },
+  {
+    "id": "0018",
+    "kind": "paragraph",
+    "page": 2,
+    "source": "E-Rechnungen in einem hybriden Format (z. B. Datenformat für elektronische Rechnungen\nZUGFeRD (Zentraler User Guide des Forums elektronische Rechnung Deutschland))",
+    "value": "E-Rechnungen in einem hybriden Format (z. B. Datenformat für elektronische Rechnungen ZUGFeRD (Zentraler User Guide des Forums elektronische Rechnung Deutschland))"
+  },
+  {
+    "id": "0019",
+    "kind": "paragraph",
+    "page": 2,
+    "source": "E-Rechnungen in einem hybriden Format bestehen neben dem strukturierten Datenteil (z. B.\nXML-Datei) auch aus einem Datenteil im Bildformat (z. B. PDF-Dokument). Entscheidend ist\nnicht, ob der Rechnungsempfänger nur das Rechnungsbild (PDF-Dokument) nutzt, sondern dass",
+    "value": "E-Rechnungen in einem hybriden Format bestehen neben dem strukturierten Datenteil (z. B. XML-Datei) auch aus einem Datenteil im Bildformat (z. B. PDF-Dokument). Entscheidend ist nicht, ob der Rechnungsempfänger nur das Rechnungsbild (PDF-Dokument) nutzt, sondern dass"
+  },
+  {
+    "id": "0020",
+    "kind": "seitenlabel",
+    "page": 3,
+    "source": "Seite 3 von 4",
+    "value": "Seite 3 von 4"
+  },
+  {
+    "id": "0021",
+    "kind": "paragraph",
+    "page": 3,
+    "source": "der strukturierte Datenteil (XML-Datei) vorhanden ist, der nicht durch eine Formatumwandlung\n(z. B. in TIFF) gelöscht werden darf. Entscheidend ist hier die Aufbewahrung des strukturieren\nDatenteils (z. B. XML-Datei).",
+    "value": "der strukturierte Datenteil (XML-Datei) vorhanden ist, der nicht durch eine Formatumwandlung (z. B. in TIFF) gelöscht werden darf. Entscheidend ist hier die Aufbewahrung des strukturieren Datenteils (z. B. XML-Datei)."
+  },
+  {
+    "id": "0022",
+    "kind": "paragraph",
+    "page": 3,
+    "source": "Sollte die PDF-Datei weitere, steuerlich relevante Informationen enthalten, z. B.\nBuchungsvermerke, so sind diese auch entsprechend aufzubewahren. Die maschinelle\nAuswertbarkeit in diesem Fall bezieht sich dann auch auf sämtliche Inhalte der PDF-Datei.“",
+    "value": "Sollte die PDF-Datei weitere, steuerlich relevante Informationen enthalten, z. B. Buchungsvermerke, so sind diese auch entsprechend aufzubewahren. Die maschinelle Auswertbarkeit in diesem Fall bezieht sich dann auch auf sämtliche Inhalte der PDF-Datei.“"
+  },
+  {
+    "id": "0023",
+    "kind": "heading",
+    "page": 3,
+    "source": "6.     Randziffer 127 wird wie folgt geändert:",
+    "value": "### 6. Randziffer 127 wird wie folgt geändert:"
+  },
+  {
+    "id": "0024",
+    "kind": "paragraph",
+    "page": 3,
+    "source": "a)     Im letzten Tiret wird der Punkt durch ein Komma ersetzt.",
+    "value": "a) Im letzten Tiret wird der Punkt durch ein Komma ersetzt."
+  },
+  {
+    "id": "0025",
+    "kind": "paragraph",
+    "page": 3,
+    "source": "b)     Folgender Tiret wird angefügt:",
+    "value": "b) Folgender Tiret wird angefügt:"
+  },
+  {
+    "id": "0026",
+    "kind": "paragraph",
+    "page": 3,
+    "source": "„-     Sonstigen strukturierten Dateien (z. B. E-Rechnungen im Sinne des § 14 Absatz 1 Satz 3\n       und 6 UStG).“",
+    "value": "„- Sonstigen strukturierten Dateien (z. B. E-Rechnungen im Sinne des § 14 Absatz 1 Satz 3 und 6 UStG).“"
+  },
+  {
+    "id": "0027",
+    "kind": "heading",
+    "page": 3,
+    "source": "7.     Randziffer 131 wird wie folgt gefasst:",
+    "value": "### 7. Randziffer 131 wird wie folgt gefasst:"
+  },
+  {
+    "id": "0028",
+    "kind": "paragraph",
+    "page": 3,
+    "source": "„Eingehende elektronische Handels- oder Geschäftsbriefe und Buchungsbelege müssen in dem\nFormat aufbewahrt werden, in dem sie empfangen wurden (z. B. Rechnungen im XML-Format\noder Kontoauszüge im PDF- oder Bildformat).",
+    "value": "„Eingehende elektronische Handels- oder Geschäftsbriefe und Buchungsbelege müssen in dem Format aufbewahrt werden, in dem sie empfangen wurden (z. B. Rechnungen im XML-Format oder Kontoauszüge im PDF- oder Bildformat)."
+  },
+  {
+    "id": "0029",
+    "kind": "paragraph",
+    "page": 3,
+    "source": "Eine Umwandlung (Konvertierung) in ein anderes Format (z. B. MSG in PDF) ist unter den\nVoraussetzungen der Rz. 135 zulässig. Erfolgt eine Anreicherung der Bildinformationen, z. B.\ndurch OCR (Beispiel: Erzeugung einer volltextrecherchierbaren PDF-Datei im\nErfassungsprozess), sind die dadurch gewonnenen Informationen nach Verifikation und\nKorrektur ebenfalls aufzubewahren.",
+    "value": "Eine Umwandlung (Konvertierung) in ein anderes Format (z. B. MSG in PDF) ist unter den Voraussetzungen der Rz. 135 zulässig. Erfolgt eine Anreicherung der Bildinformationen, z. B. durch OCR (Beispiel: Erzeugung einer volltextrecherchierbaren PDF-Datei im Erfassungsprozess), sind die dadurch gewonnenen Informationen nach Verifikation und Korrektur ebenfalls aufzubewahren."
+  },
+  {
+    "id": "0030",
+    "kind": "paragraph",
+    "page": 3,
+    "source": "Bei E-Rechnungen im Sinne des § 14 Absatz 1 Satz 3 und 6 UStG ist es ausreichend, wenn der\nstrukturierte Teil aufbewahrt wird und insbesondere die Anforderungen dieses Schreibens erfüllt\nwerden. Eine zusätzliche Aufbewahrung des menschenlesbaren Datenteils einer E-Rechnung ist\nnur dann erforderlich, wenn zusätzliche oder abweichende Informationen enthalten sind, die für\ndie Besteuerung von Bedeutung sind (z. B. Buchungsvermerke oder qualifizierte elektronische\nSignaturen).“",
+    "value": "Bei E-Rechnungen im Sinne des § 14 Absatz 1 Satz 3 und 6 UStG ist es ausreichend, wenn der strukturierte Teil aufbewahrt wird und insbesondere die Anforderungen dieses Schreibens erfüllt werden. Eine zusätzliche Aufbewahrung des menschenlesbaren Datenteils einer E-Rechnung ist nur dann erforderlich, wenn zusätzliche oder abweichende Informationen enthalten sind, die für die Besteuerung von Bedeutung sind (z. B. Buchungsvermerke oder qualifizierte elektronische Signaturen).“"
+  },
+  {
+    "id": "0031",
+    "kind": "heading",
+    "page": 3,
+    "source": "8.     In Randziffer 133 werden die Wörter „als Textdokumente“ gestrichen.",
+    "value": "### 8. In Randziffer 133 werden die Wörter „als Textdokumente“ gestrichen."
+  },
+  {
+    "id": "0032",
+    "kind": "seitenlabel",
+    "page": 4,
+    "source": "Seite 4 von 4",
+    "value": "Seite 4 von 4"
+  },
+  {
+    "id": "0033",
+    "kind": "heading",
+    "page": 4,
+    "source": "9.      Randziffer 166 wird wie folgt gefasst:",
+    "value": "### 9. Randziffer 166 wird wie folgt gefasst:"
+  },
+  {
+    "id": "0034",
+    "kind": "paragraph",
+    "page": 4,
+    "source": "„Mittelbarer Datenzugriff (Z2)",
+    "value": "„Mittelbarer Datenzugriff (Z2)"
+  },
+  {
+    "id": "0035",
+    "kind": "paragraph",
+    "page": 4,
+    "source": "Die Finanzbehörde kann vom Steuerpflichtigen auch verlangen, dass er an ihrer Stelle die\naufzeichnungs- und aufbewahrungspflichtigen Daten nach ihren Vorgaben maschinell auswertet\noder von einem beauftragten Dritten maschinell auswerten lässt und der Finanzbehörde die\nDatenauswertung im maschinell auswertbaren Format zur Verfügung stellt oder anschließend\neinen Nur-Lesezugriff ermöglicht. Es kann nur eine maschinelle Auswertung unter Verwendung\nder im DV-System des Steuerpflichtigen oder des beauftragten Dritten vorhandenen\nAuswertungsmöglichkeiten verlangt werden.“",
+    "value": "Die Finanzbehörde kann vom Steuerpflichtigen auch verlangen, dass er an ihrer Stelle die aufzeichnungs- und aufbewahrungspflichtigen Daten nach ihren Vorgaben maschinell auswertet oder von einem beauftragten Dritten maschinell auswerten lässt und der Finanzbehörde die Datenauswertung im maschinell auswertbaren Format zur Verfügung stellt oder anschließend einen Nur-Lesezugriff ermöglicht. Es kann nur eine maschinelle Auswertung unter Verwendung der im DV-System des Steuerpflichtigen oder des beauftragten Dritten vorhandenen Auswertungsmöglichkeiten verlangt werden.“"
+  },
+  {
+    "id": "0036",
+    "kind": "heading",
+    "page": 4,
+    "source": "10.    In Randziffer 175 Satz 1 wird nach den Wörtern „Hard- und Software“ das Wort „auch“\neingefügt.",
+    "value": "### 10. In Randziffer 175 Satz 1 wird nach den Wörtern „Hard- und Software“ das Wort „auch“ eingefügt."
+  },
+  {
+    "id": "0037",
+    "kind": "heading",
+    "page": 4,
+    "source": "11.     Nach Randziffer 184 wird folgende Randziffer 185 angefügt:",
+    "value": "### 11. Nach Randziffer 184 wird folgende Randziffer 185 angefügt:"
+  },
+  {
+    "id": "0038",
+    "kind": "paragraph",
+    "page": 4,
+    "source": "„185 Die GoBD in der Fassung vom 14. Juli 2025 sind mit Wirkung vom 14. Juli 2025\nanzuwenden.“",
+    "value": "„185 Die GoBD in der Fassung vom 14. Juli 2025 sind mit Wirkung vom 14. Juli 2025 anzuwenden.“"
+  },
+  {
+    "id": "0039",
+    "kind": "paragraph",
+    "page": 4,
+    "source": "Dieses Schreiben wird im Bundessteuerblatt Teil I veröffentlicht.",
+    "value": "Dieses Schreiben wird im Bundessteuerblatt Teil I veröffentlicht."
+  },
+  {
+    "id": "0040",
+    "kind": "paragraph",
+    "page": 4,
+    "source": "Im Auftrag",
+    "value": "Im Auftrag"
+  },
+  {
+    "id": "0041",
+    "kind": "paragraph",
+    "page": 4,
+    "source": "Die ses Dokument wurde elektronisch erstellt und ist ohne Unterschrift gültig.",
+    "value": "Die ses Dokument wurde elektronisch erstellt und ist ohne Unterschrift gültig."
+  }
+]

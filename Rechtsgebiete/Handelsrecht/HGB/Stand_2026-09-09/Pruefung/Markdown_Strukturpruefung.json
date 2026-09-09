@@ -1,0 +1,6516 @@
+{
+  "kuerzel": "HGB",
+  "methode": "Unabhängiger Vergleich jedes vollständigen Markdown-Normabschnitts einschließlich Überschrift, Fließtext und Fußnoten; zusätzlich jede Tabellenzelle in Reihenfolge, Tabellen- und Zeilenzahl. Gerendertes Gesamtdokument wird nach Normankern aufgeteilt. Ausnahmen nur NFC/Leerraum, redaktionelle Fußnotenmarker und generische Spaltenüberschriften.",
+  "gepruefte_normen_ohne_metadatenkopf": 813,
+  "normreihenfolge_vollstaendig": true,
+  "alle_normen_identisch": true,
+  "alle_tabellenzellen_identisch": true,
+  "alle_links_gueltig": true,
+  "sha256_markdown": "cbc92edd45443d33c48653a49237d9381dd356e613b8ff381eb5bcd21547f1e3",
+  "normen": [
+    {
+      "index": 1,
+      "norm": "010Erstes BuchHandelsstand",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 2,
+      "norm": "010010Erster AbschnittKaufleute",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 3,
+      "norm": "§ 1",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 4,
+      "norm": "§ 2",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 5,
+      "norm": "§ 3",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 6,
+      "norm": "§ 4",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 7,
+      "norm": "§ 5",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 8,
+      "norm": "§ 6",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 9,
+      "norm": "§ 7",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 10,
+      "norm": "010020Zweiter AbschnittHandelsregister; Unternehmensregister",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 11,
+      "norm": "§ 8",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 12,
+      "norm": "§ 8a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 13,
+      "norm": "§ 8b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 14,
+      "norm": "§ 9",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 15,
+      "norm": "§ 9a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 16,
+      "norm": "§ 9b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 17,
+      "norm": "§ 9c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 18,
+      "norm": "§ 9d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 19,
+      "norm": "§ 10",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 20,
+      "norm": "§ 10a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 21,
+      "norm": "§ 11",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 22,
+      "norm": "§ 12",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 23,
+      "norm": "§ 13",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 24,
+      "norm": "§ 13a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 25,
+      "norm": "§§ 13b u. 13c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 26,
+      "norm": "§ 13d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 27,
+      "norm": "§ 13e",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 28,
+      "norm": "§ 13f",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 29,
+      "norm": "§ 13g",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 30,
+      "norm": "§ 13h",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 31,
+      "norm": "§ 14",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 32,
+      "norm": "§ 15",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 33,
+      "norm": "§ 15a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 34,
+      "norm": "§ 16",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 35,
+      "norm": "010030Dritter AbschnittHandelsfirma",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 36,
+      "norm": "§ 17",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 37,
+      "norm": "§ 18",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 38,
+      "norm": "§ 19",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 39,
+      "norm": "§ 20",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 40,
+      "norm": "§ 21",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 41,
+      "norm": "§ 22",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 42,
+      "norm": "§ 23",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 43,
+      "norm": "§ 24",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 44,
+      "norm": "§ 25",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 45,
+      "norm": "§ 26",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 46,
+      "norm": "§ 27",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 47,
+      "norm": "§ 28",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 48,
+      "norm": "§ 29",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 49,
+      "norm": "§ 30",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 50,
+      "norm": "§ 31",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 51,
+      "norm": "§ 32",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 52,
+      "norm": "§ 33",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 53,
+      "norm": "§ 34",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 54,
+      "norm": "§ 35",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 55,
+      "norm": "§ 36",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 56,
+      "norm": "§ 37",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 57,
+      "norm": "§ 37a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 58,
+      "norm": "010040Vierter AbschnittHandelsbücher",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 59,
+      "norm": "§§ 38 bis 47b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 60,
+      "norm": "010050Fünfter AbschnittProkura und\nHandlungsvollmacht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 61,
+      "norm": "§ 48",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 62,
+      "norm": "§ 49",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 63,
+      "norm": "§ 50",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 64,
+      "norm": "§ 51",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 65,
+      "norm": "§ 52",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 66,
+      "norm": "§ 53",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 67,
+      "norm": "§ 54",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 68,
+      "norm": "§ 55",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 69,
+      "norm": "§ 56",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 70,
+      "norm": "§ 57",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 71,
+      "norm": "§ 58",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 72,
+      "norm": "010060Sechster AbschnittHandlungsgehilfen und\nHandlungslehrlinge",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 73,
+      "norm": "§ 59",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 74,
+      "norm": "§ 60",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 75,
+      "norm": "§ 61",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 76,
+      "norm": "§ 62",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 77,
+      "norm": "§ 63",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 78,
+      "norm": "§ 64",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 79,
+      "norm": "§ 65",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 80,
+      "norm": "§§ 66 bis 72",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 81,
+      "norm": "§ 73",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 82,
+      "norm": "§ 74",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 83,
+      "norm": "§ 74a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 84,
+      "norm": "§ 74b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 85,
+      "norm": "§ 74c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 86,
+      "norm": "§ 75",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 87,
+      "norm": "§ 75a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 88,
+      "norm": "§ 75b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 89,
+      "norm": "§ 75c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 90,
+      "norm": "§ 75d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 91,
+      "norm": "§ 75e",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 92,
+      "norm": "§ 75f",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 93,
+      "norm": "§ 75g",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 94,
+      "norm": "§ 75h",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 95,
+      "norm": "§§ 76 bis 82",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 96,
+      "norm": "§ 82a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 97,
+      "norm": "§ 83",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 98,
+      "norm": "010070Siebenter AbschnittHandelsvertreter",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 99,
+      "norm": "§ 84",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 100,
+      "norm": "§ 85",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 101,
+      "norm": "§ 86",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 102,
+      "norm": "§ 86a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 103,
+      "norm": "§ 86b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 104,
+      "norm": "§ 87",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 105,
+      "norm": "§ 87a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 106,
+      "norm": "§ 87b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 107,
+      "norm": "§ 87c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 108,
+      "norm": "§ 87d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 109,
+      "norm": "§ 88",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 110,
+      "norm": "§ 88a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 111,
+      "norm": "§ 89",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 112,
+      "norm": "§ 89a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 113,
+      "norm": "§ 89b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 114,
+      "norm": "§ 90",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 115,
+      "norm": "§ 90a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 116,
+      "norm": "§ 91",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 117,
+      "norm": "§ 91a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 118,
+      "norm": "§ 92",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 119,
+      "norm": "§ 92a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 120,
+      "norm": "§ 92b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 121,
+      "norm": "§ 92c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 122,
+      "norm": "010080Achter AbschnittHandelsmakler",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 123,
+      "norm": "§ 93",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 124,
+      "norm": "§ 94",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 125,
+      "norm": "§ 95",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 126,
+      "norm": "§ 96",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 127,
+      "norm": "§ 97",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 128,
+      "norm": "§ 98",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 129,
+      "norm": "§ 99",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 130,
+      "norm": "§ 100",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 131,
+      "norm": "§ 101",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 132,
+      "norm": "§ 102",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 133,
+      "norm": "§ 103",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 134,
+      "norm": "§ 104",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 135,
+      "norm": "010090Neunter AbschnittBußgeldvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 136,
+      "norm": "§ 104a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 137,
+      "norm": "020Zweites BuchHandelsgesellschaften und stille\nGesellschaft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 138,
+      "norm": "020010Erster AbschnittOffene Handelsgesellschaft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 139,
+      "norm": "020010010Erster TitelErrichtung der Gesellschaft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 140,
+      "norm": "§ 105",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 141,
+      "norm": "§ 106",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 142,
+      "norm": "§ 107",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 143,
+      "norm": "020010020Zweiter TitelRechtsverhältnis der Gesellschafter untereinander und der Gesellschafter zur Gesellschaft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 144,
+      "norm": "§ 108",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 145,
+      "norm": "§ 109",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 146,
+      "norm": "§ 110",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 147,
+      "norm": "§ 111",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 148,
+      "norm": "§ 112",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 149,
+      "norm": "§ 113",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 150,
+      "norm": "§ 114",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 151,
+      "norm": "§ 115",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 152,
+      "norm": "§ 116",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 153,
+      "norm": "§ 117",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 154,
+      "norm": "§ 118",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 155,
+      "norm": "§ 119",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 156,
+      "norm": "§ 120",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 157,
+      "norm": "§ 121",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 158,
+      "norm": "§ 122",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 159,
+      "norm": "020010030Dritter TitelRechtsverhältnis der Gesellschaft zu Dritten",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 160,
+      "norm": "§ 123",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 161,
+      "norm": "§ 124",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 162,
+      "norm": "§ 125",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 163,
+      "norm": "§ 126",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 164,
+      "norm": "§ 127",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 165,
+      "norm": "§ 128",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 166,
+      "norm": "§ 129",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 167,
+      "norm": "020010040Vierter TitelAusscheiden eines Gesellschafters",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 168,
+      "norm": "§ 130",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 169,
+      "norm": "§ 131",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 170,
+      "norm": "§ 132",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 171,
+      "norm": "§ 133",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 172,
+      "norm": "§ 134",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 173,
+      "norm": "§ 135",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 174,
+      "norm": "§ 136",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 175,
+      "norm": "§ 137",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 176,
+      "norm": "020010050Fünfter TitelAuflösung der Gesellschaft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 177,
+      "norm": "§ 138",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 178,
+      "norm": "§ 139",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 179,
+      "norm": "§ 140",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 180,
+      "norm": "§ 141",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 181,
+      "norm": "§ 142",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 182,
+      "norm": "020010060Sechster TitelLiquidation der Gesellschaft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 183,
+      "norm": "§ 143",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 184,
+      "norm": "§ 144",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 185,
+      "norm": "§ 145",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 186,
+      "norm": "§ 146",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 187,
+      "norm": "§ 147",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 188,
+      "norm": "§ 148",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 189,
+      "norm": "§ 149",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 190,
+      "norm": "§ 150",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 191,
+      "norm": "§ 151",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 192,
+      "norm": "§ 152",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 193,
+      "norm": "§§ 153 bis 160",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 194,
+      "norm": "020020Zweiter AbschnittKommanditgesellschaft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 195,
+      "norm": "§ 161",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 196,
+      "norm": "§ 162",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 197,
+      "norm": "§ 163",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 198,
+      "norm": "§ 164",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 199,
+      "norm": "§ 165",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 200,
+      "norm": "§ 166",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 201,
+      "norm": "§ 167",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 202,
+      "norm": "§ 168",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 203,
+      "norm": "§ 169",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 204,
+      "norm": "§ 170",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 205,
+      "norm": "§ 171",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 206,
+      "norm": "§ 172",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 207,
+      "norm": "§ 172a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 208,
+      "norm": "§ 173",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 209,
+      "norm": "§ 174",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 210,
+      "norm": "§ 175",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 211,
+      "norm": "§ 176",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 212,
+      "norm": "§ 177",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 213,
+      "norm": "§ 177a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 214,
+      "norm": "§ 178",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 215,
+      "norm": "§ 179",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 216,
+      "norm": "§§ 180 bis 229",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 217,
+      "norm": "020030Dritter AbschnittStille Gesellschaft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 218,
+      "norm": "§ 230",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 219,
+      "norm": "§ 231",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 220,
+      "norm": "§ 232",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 221,
+      "norm": "§ 233",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 222,
+      "norm": "§ 234",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 223,
+      "norm": "§ 235",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 224,
+      "norm": "§ 236",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 225,
+      "norm": "§ 237",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 226,
+      "norm": "030Drittes BuchHandelsbücher",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 227,
+      "norm": "030010Erster AbschnittVorschriften für alle\nKaufleute",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 228,
+      "norm": "030010010Erster UnterabschnittBuchführung. Inventar",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 229,
+      "norm": "§ 238",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 230,
+      "norm": "§ 239",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 231,
+      "norm": "§ 240",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 232,
+      "norm": "§ 241",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 233,
+      "norm": "§ 241a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 234,
+      "norm": "030010020Zweiter UnterabschnittEröffnungsbilanz.\nJahresabschluß",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 235,
+      "norm": "030010020010Erster TitelAllgemeine Vorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 236,
+      "norm": "§ 242",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 237,
+      "norm": "§ 243",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 238,
+      "norm": "§ 244",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 239,
+      "norm": "§ 245",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 240,
+      "norm": "030010020020Zweiter TitelAnsatzvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 241,
+      "norm": "§ 246",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 242,
+      "norm": "§ 247",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 243,
+      "norm": "§ 248",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 244,
+      "norm": "§ 249",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 245,
+      "norm": "§ 250",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 246,
+      "norm": "§ 251",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 247,
+      "norm": "030010020030Dritter TitelBewertungsvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 248,
+      "norm": "§ 252",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 249,
+      "norm": "§ 253",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 250,
+      "norm": "§ 254",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 251,
+      "norm": "§ 255",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 252,
+      "norm": "§ 256",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 253,
+      "norm": "§ 256a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 254,
+      "norm": "030010030Dritter UnterabschnittAufbewahrung und\nVorlage",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 255,
+      "norm": "§ 257",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 256,
+      "norm": "§ 258",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 257,
+      "norm": "§ 259",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 258,
+      "norm": "§ 260",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 259,
+      "norm": "§ 261",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 260,
+      "norm": "030010040Vierter UnterabschnittLandesrecht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 261,
+      "norm": "§ 262",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 262,
+      "norm": "§ 263",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 263,
+      "norm": "030020Zweiter AbschnittErgänzende Vorschriften\nfür Kapitalgesellschaften (Aktiengesellschaften,\nKommanditgesellschaften auf Aktien und Gesellschaften mit\nbeschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 264,
+      "norm": "030020010Erster UnterabschnittJahresabschluß\nder Kapitalgesellschaft und Lagebericht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 265,
+      "norm": "030020010010Erster TitelAllgemeine Vorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 266,
+      "norm": "§ 264",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 267,
+      "norm": "§ 264a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 268,
+      "norm": "§ 264b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 269,
+      "norm": "§ 264c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 270,
+      "norm": "§ 264d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 271,
+      "norm": "§ 265",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 272,
+      "norm": "030020010020Zweiter TitelBilanz",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 273,
+      "norm": "§ 266",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 274,
+      "norm": "§ 267",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 275,
+      "norm": "§ 267a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 276,
+      "norm": "§ 268",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 277,
+      "norm": "§ 269",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 278,
+      "norm": "§ 270",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 279,
+      "norm": "§ 271",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 280,
+      "norm": "§ 272",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 281,
+      "norm": "§ 273",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 282,
+      "norm": "§ 274",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 283,
+      "norm": "§ 274a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 284,
+      "norm": "030020010030Dritter TitelGewinn- und Verlustrechnung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 285,
+      "norm": "§ 275",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 286,
+      "norm": "§ 276",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 287,
+      "norm": "§ 277",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 288,
+      "norm": "§ 278",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 289,
+      "norm": "030020010040Vierter Titel(weggefallen)",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 290,
+      "norm": "§§ 279 bis 283",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 291,
+      "norm": "030020010050Fünfter TitelAnhang",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 292,
+      "norm": "§ 284",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 293,
+      "norm": "§ 285",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 294,
+      "norm": "§ 286",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 295,
+      "norm": "§ 287",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 296,
+      "norm": "§ 288",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 297,
+      "norm": "030020010060Sechster TitelLagebericht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 298,
+      "norm": "§ 289",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 299,
+      "norm": "§ 289a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 300,
+      "norm": "§ 289b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 301,
+      "norm": "§ 289c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 302,
+      "norm": "§ 289d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 303,
+      "norm": "§ 289e",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 304,
+      "norm": "§ 289f",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 305,
+      "norm": "030020020Zweiter UnterabschnittKonzernabschluß\nund Konzernlagebericht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 306,
+      "norm": "030020020010Erster TitelAnwendungsbereich",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 307,
+      "norm": "§ 290",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 308,
+      "norm": "§ 291",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 309,
+      "norm": "§ 292",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 310,
+      "norm": "§ 292a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 311,
+      "norm": "§ 293",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 312,
+      "norm": "030020020020Zweiter TitelKonsolidierungskreis",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 313,
+      "norm": "§ 294",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 314,
+      "norm": "§ 295",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 315,
+      "norm": "§ 296",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 316,
+      "norm": "030020020030Dritter TitelInhalt und Form des\nKonzernabschlusses",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 317,
+      "norm": "§ 297",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 318,
+      "norm": "§ 298",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 319,
+      "norm": "§ 299",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 320,
+      "norm": "030020020040Vierter TitelVollkonsolidierung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 321,
+      "norm": "§ 300",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 322,
+      "norm": "§ 301",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 323,
+      "norm": "§ 302",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 324,
+      "norm": "§ 303",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 325,
+      "norm": "§ 304",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 326,
+      "norm": "§ 305",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 327,
+      "norm": "§ 306",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 328,
+      "norm": "§ 307",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 329,
+      "norm": "030020020050Fünfter TitelBewertungsvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 330,
+      "norm": "§ 308",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 331,
+      "norm": "§ 308a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 332,
+      "norm": "§ 309",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 333,
+      "norm": "030020020060Sechster TitelAnteilmäßige Konsolidierung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 334,
+      "norm": "§ 310",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 335,
+      "norm": "030020020070Siebenter TitelAssoziierte Unternehmen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 336,
+      "norm": "§ 311",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 337,
+      "norm": "§ 312",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 338,
+      "norm": "030020020080Achter TitelKonzernanhang",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 339,
+      "norm": "§ 313",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 340,
+      "norm": "§ 314",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 341,
+      "norm": "030020020090Neunter TitelKonzernlagebericht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 342,
+      "norm": "§ 315",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 343,
+      "norm": "§ 315a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 344,
+      "norm": "§ 315b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 345,
+      "norm": "§ 315c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 346,
+      "norm": "§ 315d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 347,
+      "norm": "030020020100Zehnter TitelKonzernabschluss nach\ninternationalen Rechnungslegungsstandards",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 348,
+      "norm": "§ 315e",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 349,
+      "norm": "030020030Dritter UnterabschnittPrüfung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 350,
+      "norm": "§ 316",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 351,
+      "norm": "§ 316a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 352,
+      "norm": "§ 317",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 353,
+      "norm": "§ 318",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 354,
+      "norm": "§ 319",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 355,
+      "norm": "§ 319a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 356,
+      "norm": "§ 319b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 357,
+      "norm": "§ 320",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 358,
+      "norm": "§ 321",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 359,
+      "norm": "§ 321a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 360,
+      "norm": "§ 322",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 361,
+      "norm": "§ 323",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 362,
+      "norm": "§ 324",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 363,
+      "norm": "§ 324a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 364,
+      "norm": "030020040Vierter UnterabschnittOffenlegung. Prüfung durch die das Unternehmensregister führende Stelle",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 365,
+      "norm": "§ 325",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 366,
+      "norm": "§ 325a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 367,
+      "norm": "§ 326",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 368,
+      "norm": "§ 327",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 369,
+      "norm": "§ 327a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 370,
+      "norm": "§ 328",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 371,
+      "norm": "§ 329",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 372,
+      "norm": "030020050Fünfter UnterabschnittVerordnungsermächtigung für Formblätter und andere Vorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 373,
+      "norm": "§ 330",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 374,
+      "norm": "030020060Sechster UnterabschnittStraf- und BußgeldvorschriftenOrdnungsgelder",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 375,
+      "norm": "030020060010Erster TitelStraf- und Bußgeldvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 376,
+      "norm": "§ 331",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 377,
+      "norm": "§ 331a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 378,
+      "norm": "§ 332",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 379,
+      "norm": "§ 333",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 380,
+      "norm": "§ 333a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 381,
+      "norm": "§ 334",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 382,
+      "norm": "030020060020Zweiter TitelOrdnungsgelder",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 383,
+      "norm": "§ 335",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 384,
+      "norm": "§ 335a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 385,
+      "norm": "030020060020Dritter TitelGemeinsame Vorschriften für Straf-, Bußgeld- und Ordnungsgeldverfahren",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 386,
+      "norm": "§ 335b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 387,
+      "norm": "§ 335c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 388,
+      "norm": "030030Dritter AbschnittErgänzende Vorschriften\nfür eingetragene Genossenschaften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 389,
+      "norm": "§ 336",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 390,
+      "norm": "§ 337",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 391,
+      "norm": "§ 338",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 392,
+      "norm": "§ 339",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 393,
+      "norm": "030040Vierter AbschnittErgänzende Vorschriften für bestimmte Unternehmen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 394,
+      "norm": "030040010Erster UnterabschnittErgänzende Vorschriften für Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungsinstitute und E-Geld-Institute",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 395,
+      "norm": "030040010010Erster TitelAnwendungsbereich",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 396,
+      "norm": "§ 340",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 397,
+      "norm": "030040010020Zweiter TitelJahresabschluß, Lagebericht,\nZwischenabschluß",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 398,
+      "norm": "§ 340a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 399,
+      "norm": "§ 340b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 400,
+      "norm": "§ 340c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 401,
+      "norm": "§ 340d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 402,
+      "norm": "030040010030Dritter TitelBewertungsvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 403,
+      "norm": "§ 340e",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 404,
+      "norm": "§ 340f",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 405,
+      "norm": "§ 340g",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 406,
+      "norm": "030040010040Vierter TitelWährungsumrechnung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 407,
+      "norm": "§ 340h",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 408,
+      "norm": "030040010050Fünfter TitelKonzernabschluß, Konzernlagebericht,\nKonzernzwischenabschluß",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 409,
+      "norm": "§ 340i",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 410,
+      "norm": "§ 340j",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 411,
+      "norm": "030040010060Sechster TitelPrüfung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 412,
+      "norm": "§ 340k",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 413,
+      "norm": "030040010070Siebenter TitelOffenlegung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 414,
+      "norm": "§ 340l",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 415,
+      "norm": "030040010080Achter TitelStraf- und Bußgeldvorschriften, Ordnungsgelder",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 416,
+      "norm": "§ 340m",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 417,
+      "norm": "§ 340n",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 418,
+      "norm": "§ 340o",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 419,
+      "norm": "030040020Zweiter UnterabschnittErgänzende Vorschriften\nfür Versicherungsunternehmen und Pensionsfonds",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 420,
+      "norm": "030040020010Erster TitelAnwendungsbereich",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 421,
+      "norm": "§ 341",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 422,
+      "norm": "030040020020Zweiter TitelJahresabschluß, Lagebericht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 423,
+      "norm": "§ 341a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 424,
+      "norm": "030040020030Dritter TitelBewertungsvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 425,
+      "norm": "§ 341b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 426,
+      "norm": "§ 341c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 427,
+      "norm": "§ 341d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 428,
+      "norm": "030040020040Vierter TitelVersicherungstechnische\nRückstellungen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 429,
+      "norm": "§ 341e",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 430,
+      "norm": "§ 341f",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 431,
+      "norm": "§ 341g",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 432,
+      "norm": "§ 341h",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 433,
+      "norm": "030040020050Fünfter TitelKonzernabschluß, Konzernlagebericht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 434,
+      "norm": "§ 341i",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 435,
+      "norm": "§ 341j",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 436,
+      "norm": "030040020060Sechster TitelPrüfung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 437,
+      "norm": "§ 341k",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 438,
+      "norm": "030040020070Siebenter TitelOffenlegung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 439,
+      "norm": "§ 341l",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 440,
+      "norm": "030040020080Achter TitelStraf- und Bußgeldvorschriften, Ordnungsgelder",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 441,
+      "norm": "§ 341m",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 442,
+      "norm": "§ 341n",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 443,
+      "norm": "§ 341o",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 444,
+      "norm": "§ 341p",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 445,
+      "norm": "030040030Dritter UnterabschnittErgänzende Vorschriften für bestimmte Unternehmen des Rohstoffsektors",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 446,
+      "norm": "030040030010Erster TitelAnwendungsbereich; Begriffsbestimmungen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 447,
+      "norm": "§ 341q",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 448,
+      "norm": "§ 341r",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 449,
+      "norm": "030040030020Zweiter TitelZahlungsbericht, Konzernzahlungsbericht und Offenlegung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 450,
+      "norm": "§ 341s",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 451,
+      "norm": "§ 341t",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 452,
+      "norm": "§ 341u",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 453,
+      "norm": "§ 341v",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 454,
+      "norm": "§ 341w",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 455,
+      "norm": "030040030030Dritter TitelBußgeldvorschriften, Ordnungsgelder",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 456,
+      "norm": "§ 341x",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 457,
+      "norm": "§ 341y",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 458,
+      "norm": "030040040Vierter UnterabschnittErgänzende Vorschriften für bestimmte umsatzstarke multinationale Unternehmen und Konzerne",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 459,
+      "norm": "030040040010Erster TitelAnwendungsbereich; Begriffsbestimmungen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 460,
+      "norm": "§ 342",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 461,
+      "norm": "§ 342a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 462,
+      "norm": "030040040020Zweiter TitelPflicht zur Ertragsteuerinformationsberichterstattung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 463,
+      "norm": "§ 342b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 464,
+      "norm": "§ 342c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 465,
+      "norm": "§ 342d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 466,
+      "norm": "§ 342e",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 467,
+      "norm": "§ 342f",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 468,
+      "norm": "030040040030Dritter TitelEinzubeziehende Unternehmen; Inhalt und Form des Ertragsteuerinformationsberichts",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 469,
+      "norm": "§ 342g",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 470,
+      "norm": "§ 342h",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 471,
+      "norm": "§ 342i",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 472,
+      "norm": "§ 342j",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 473,
+      "norm": "§ 342k",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 474,
+      "norm": "§ 342l",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 475,
+      "norm": "030040040040Vierter TitelOffenlegung und Veröffentlichung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 476,
+      "norm": "§ 342m",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 477,
+      "norm": "§ 342n",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 478,
+      "norm": "030040040050Fünfter TitelBußgeldvorschriften; Ordnungsgelder",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 479,
+      "norm": "§ 342o",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 480,
+      "norm": "§ 342p",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 481,
+      "norm": "030050Fünfter AbschnittPrivates Rechnungslegungsgremium; Rechnungslegungsbeirat",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 482,
+      "norm": "§ 342q",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 483,
+      "norm": "§ 342r",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 484,
+      "norm": "040Viertes BuchHandelsgeschäfte",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 485,
+      "norm": "040010Erster AbschnittAllgemeine Vorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 486,
+      "norm": "§ 343",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 487,
+      "norm": "§ 344",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 488,
+      "norm": "§ 345",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 489,
+      "norm": "§ 346",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 490,
+      "norm": "§ 347",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 491,
+      "norm": "§ 348",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 492,
+      "norm": "§ 349",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 493,
+      "norm": "§ 350",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 494,
+      "norm": "§ 351",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 495,
+      "norm": "§ 352",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 496,
+      "norm": "§ 353",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 497,
+      "norm": "§ 354",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 498,
+      "norm": "§ 354a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 499,
+      "norm": "§ 355",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 500,
+      "norm": "§ 356",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 501,
+      "norm": "§ 357",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 502,
+      "norm": "§ 358",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 503,
+      "norm": "§ 359",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 504,
+      "norm": "§ 360",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 505,
+      "norm": "§ 361",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 506,
+      "norm": "§ 362",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 507,
+      "norm": "§ 363",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 508,
+      "norm": "§ 364",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 509,
+      "norm": "§ 365",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 510,
+      "norm": "§ 365a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 511,
+      "norm": "§ 366",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 512,
+      "norm": "§ 367",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 513,
+      "norm": "§ 368",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 514,
+      "norm": "§ 369",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 515,
+      "norm": "§ 370",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 516,
+      "norm": "§ 371",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 517,
+      "norm": "§ 372",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 518,
+      "norm": "040020Zweiter AbschnittHandelskauf",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 519,
+      "norm": "§ 373",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 520,
+      "norm": "§ 374",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 521,
+      "norm": "§ 375",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 522,
+      "norm": "§ 376",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 523,
+      "norm": "§ 377",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 524,
+      "norm": "§ 378",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 525,
+      "norm": "§ 379",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 526,
+      "norm": "§ 380",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 527,
+      "norm": "§ 381",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 528,
+      "norm": "§ 382",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 529,
+      "norm": "040030Dritter AbschnittKommissionsgeschäft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 530,
+      "norm": "§ 383",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 531,
+      "norm": "§ 384",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 532,
+      "norm": "§ 385",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 533,
+      "norm": "§ 386",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 534,
+      "norm": "§ 387",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 535,
+      "norm": "§ 388",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 536,
+      "norm": "§ 389",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 537,
+      "norm": "§ 390",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 538,
+      "norm": "§ 391",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 539,
+      "norm": "§ 392",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 540,
+      "norm": "§ 393",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 541,
+      "norm": "§ 394",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 542,
+      "norm": "§ 395",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 543,
+      "norm": "§ 396",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 544,
+      "norm": "§ 397",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 545,
+      "norm": "§ 398",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 546,
+      "norm": "§ 399",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 547,
+      "norm": "§ 400",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 548,
+      "norm": "§ 401",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 549,
+      "norm": "§ 402",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 550,
+      "norm": "§ 403",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 551,
+      "norm": "§ 404",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 552,
+      "norm": "§ 405",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 553,
+      "norm": "§ 406",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 554,
+      "norm": "040040Vierter AbschnittFrachtgeschäft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 555,
+      "norm": "040040010Erster UnterabschnittAllgemeine Vorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 556,
+      "norm": "§ 407",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 557,
+      "norm": "§ 408",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 558,
+      "norm": "§ 409",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 559,
+      "norm": "§ 410",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 560,
+      "norm": "§ 411",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 561,
+      "norm": "§ 412",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 562,
+      "norm": "§ 413",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 563,
+      "norm": "§ 414",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 564,
+      "norm": "§ 415",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 565,
+      "norm": "§ 416",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 566,
+      "norm": "§ 417",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 567,
+      "norm": "§ 418",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 568,
+      "norm": "§ 419",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 569,
+      "norm": "§ 420",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 570,
+      "norm": "§ 421",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 571,
+      "norm": "§ 422",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 572,
+      "norm": "§ 423",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 573,
+      "norm": "§ 424",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 574,
+      "norm": "§ 425",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 575,
+      "norm": "§ 426",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 576,
+      "norm": "§ 427",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 577,
+      "norm": "§ 428",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 578,
+      "norm": "§ 429",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 579,
+      "norm": "§ 430",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 580,
+      "norm": "§ 431",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 581,
+      "norm": "§ 432",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 582,
+      "norm": "§ 433",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 583,
+      "norm": "§ 434",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 584,
+      "norm": "§ 435",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 585,
+      "norm": "§ 436",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 586,
+      "norm": "§ 437",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 587,
+      "norm": "§ 438",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 588,
+      "norm": "§ 439",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 589,
+      "norm": "§ 440",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 590,
+      "norm": "§ 441",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 591,
+      "norm": "§ 442",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 592,
+      "norm": "§ 443",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 593,
+      "norm": "§ 444",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 594,
+      "norm": "§ 445",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 595,
+      "norm": "§ 446",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 596,
+      "norm": "§ 447",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 597,
+      "norm": "§ 448",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 598,
+      "norm": "§ 449",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 599,
+      "norm": "§ 450",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 600,
+      "norm": "040040020Zweiter UnterabschnittBeförderung von Umzugsgut",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 601,
+      "norm": "§ 451",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 602,
+      "norm": "§ 451a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 603,
+      "norm": "§ 451b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 604,
+      "norm": "§ 451c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 605,
+      "norm": "§ 451d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 606,
+      "norm": "§ 451e",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 607,
+      "norm": "§ 451f",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 608,
+      "norm": "§ 451g",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 609,
+      "norm": "§ 451h",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 610,
+      "norm": "040040030Dritter UnterabschnittBeförderung mit\nverschiedenartigen Beförderungsmitteln",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 611,
+      "norm": "§ 452",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 612,
+      "norm": "§ 452a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 613,
+      "norm": "§ 452b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 614,
+      "norm": "§ 452c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 615,
+      "norm": "§ 452d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 616,
+      "norm": "040050Fünfter AbschnittSpeditionsgeschäft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 617,
+      "norm": "§ 453",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 618,
+      "norm": "§ 454",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 619,
+      "norm": "§ 455",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 620,
+      "norm": "§ 456",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 621,
+      "norm": "§ 457",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 622,
+      "norm": "§ 458",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 623,
+      "norm": "§ 459",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 624,
+      "norm": "§ 460",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 625,
+      "norm": "§ 461",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 626,
+      "norm": "§ 462",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 627,
+      "norm": "§ 463",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 628,
+      "norm": "§ 464",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 629,
+      "norm": "§ 465",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 630,
+      "norm": "§ 466",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 631,
+      "norm": "040060Sechster AbschnittLagergeschäft",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 632,
+      "norm": "§ 467",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 633,
+      "norm": "§ 468",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 634,
+      "norm": "§ 469",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 635,
+      "norm": "§ 470",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 636,
+      "norm": "§ 471",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 637,
+      "norm": "§ 472",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 638,
+      "norm": "§ 473",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 639,
+      "norm": "§ 474",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 640,
+      "norm": "§ 475",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 641,
+      "norm": "§ 475a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 642,
+      "norm": "§ 475b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 643,
+      "norm": "§ 475c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 644,
+      "norm": "§ 475d",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 645,
+      "norm": "§ 475e",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 646,
+      "norm": "§ 475f",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 647,
+      "norm": "§ 475g",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 648,
+      "norm": "§ 475h",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 649,
+      "norm": "050Fünftes BuchSeehandel",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 650,
+      "norm": "050010Erster AbschnittPersonen der Schifffahrt",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 651,
+      "norm": "§ 476",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 652,
+      "norm": "§ 477",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 653,
+      "norm": "§ 478",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 654,
+      "norm": "§ 479",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 655,
+      "norm": "§ 480",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 656,
+      "norm": "050020Zweiter AbschnittBeförderungsverträge",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 657,
+      "norm": "050020010Erster UnterabschnittSeefrachtverträge",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 658,
+      "norm": "050020010010Erster TitelStückgutfrachtvertrag",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 659,
+      "norm": "050020010010010Erster UntertitelAllgemeine Vorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 660,
+      "norm": "§ 481",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 661,
+      "norm": "§ 482",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 662,
+      "norm": "§ 483",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 663,
+      "norm": "§ 484",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 664,
+      "norm": "§ 485",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 665,
+      "norm": "§ 486",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 666,
+      "norm": "§ 487",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 667,
+      "norm": "§ 488",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 668,
+      "norm": "§ 489",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 669,
+      "norm": "§ 490",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 670,
+      "norm": "§ 491",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 671,
+      "norm": "§ 492",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 672,
+      "norm": "§ 493",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 673,
+      "norm": "§ 494",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 674,
+      "norm": "§ 495",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 675,
+      "norm": "§ 496",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 676,
+      "norm": "§ 497",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 677,
+      "norm": "050020010010020Zweiter UntertitelHaftung wegen Verlust oder Beschädigung des Gutes",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 678,
+      "norm": "§ 498",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 679,
+      "norm": "§ 499",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 680,
+      "norm": "§ 500",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 681,
+      "norm": "§ 501",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 682,
+      "norm": "§ 502",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 683,
+      "norm": "§ 503",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 684,
+      "norm": "§ 504",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 685,
+      "norm": "§ 505",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 686,
+      "norm": "§ 506",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 687,
+      "norm": "§ 507",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 688,
+      "norm": "§ 508",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 689,
+      "norm": "§ 509",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 690,
+      "norm": "§ 510",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 691,
+      "norm": "§ 511",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 692,
+      "norm": "§ 512",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 693,
+      "norm": "050020010010030Dritter UntertitelBeförderungsdokumente",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 694,
+      "norm": "§ 513",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 695,
+      "norm": "§ 514",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 696,
+      "norm": "§ 515",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 697,
+      "norm": "§ 516",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 698,
+      "norm": "§ 517",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 699,
+      "norm": "§ 518",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 700,
+      "norm": "§ 519",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 701,
+      "norm": "§ 520",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 702,
+      "norm": "§ 521",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 703,
+      "norm": "§ 522",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 704,
+      "norm": "§ 523",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 705,
+      "norm": "§ 524",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 706,
+      "norm": "§ 525",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 707,
+      "norm": "§ 526",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 708,
+      "norm": "050020010020Zweiter TitelReisefrachtvertrag",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 709,
+      "norm": "§ 527",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 710,
+      "norm": "§ 528",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 711,
+      "norm": "§ 529",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 712,
+      "norm": "§ 530",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 713,
+      "norm": "§ 531",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 714,
+      "norm": "§ 532",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 715,
+      "norm": "§ 533",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 716,
+      "norm": "§ 534",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 717,
+      "norm": "§ 535",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 718,
+      "norm": "050020020Zweiter UnterabschnittPersonenbeförderungsverträge",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 719,
+      "norm": "§ 536",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 720,
+      "norm": "§ 537",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 721,
+      "norm": "§ 538",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 722,
+      "norm": "§ 539",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 723,
+      "norm": "§ 540",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 724,
+      "norm": "§ 541",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 725,
+      "norm": "§ 542",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 726,
+      "norm": "§ 543",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 727,
+      "norm": "§ 544",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 728,
+      "norm": "§ 545",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 729,
+      "norm": "§ 546",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 730,
+      "norm": "§ 547",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 731,
+      "norm": "§ 548",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 732,
+      "norm": "§ 549",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 733,
+      "norm": "§ 550",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 734,
+      "norm": "§ 551",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 735,
+      "norm": "§ 552",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 736,
+      "norm": "050030Dritter AbschnittSchiffsüberlassungsverträge",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 737,
+      "norm": "050030010Erster UnterabschnittSchiffsmiete",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 738,
+      "norm": "§ 553",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 739,
+      "norm": "§ 554",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 740,
+      "norm": "§ 555",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 741,
+      "norm": "§ 556",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 742,
+      "norm": "050030020Zweiter UnterabschnittZeitcharter",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 743,
+      "norm": "§ 557",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 744,
+      "norm": "§ 558",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 745,
+      "norm": "§ 559",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 746,
+      "norm": "§ 560",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 747,
+      "norm": "§ 561",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 748,
+      "norm": "§ 562",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 749,
+      "norm": "§ 563",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 750,
+      "norm": "§ 564",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 751,
+      "norm": "§ 565",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 752,
+      "norm": "§ 566",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 753,
+      "norm": "§ 567",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 754,
+      "norm": "§ 568",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 755,
+      "norm": "§ 569",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 756,
+      "norm": "050040Vierter AbschnittSchiffsnotlagen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 757,
+      "norm": "050040010Erster UnterabschnittSchiffszusammenstoß",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 758,
+      "norm": "§ 570",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 759,
+      "norm": "§ 571",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 760,
+      "norm": "§ 572",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 761,
+      "norm": "§ 573",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 762,
+      "norm": "050040020Zweiter UnterabschnittBergung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 763,
+      "norm": "§ 574",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 764,
+      "norm": "§ 575",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 765,
+      "norm": "§ 576",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 766,
+      "norm": "§ 577",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 767,
+      "norm": "§ 578",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 768,
+      "norm": "§ 579",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 769,
+      "norm": "§ 580",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 770,
+      "norm": "§ 581",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 771,
+      "norm": "§ 582",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 772,
+      "norm": "§ 583",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 773,
+      "norm": "§ 584",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 774,
+      "norm": "§ 585",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 775,
+      "norm": "§ 586",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 776,
+      "norm": "§ 587",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 777,
+      "norm": "050040030Dritter UnterabschnittGroße Haverei",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 778,
+      "norm": "§ 588",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 779,
+      "norm": "§ 589",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 780,
+      "norm": "§ 590",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 781,
+      "norm": "§ 591",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 782,
+      "norm": "§ 592",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 783,
+      "norm": "§ 593",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 784,
+      "norm": "§ 594",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 785,
+      "norm": "§ 595",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 786,
+      "norm": "050050Fünfter AbschnittSchiffsgläubiger",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 787,
+      "norm": "§ 596",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 788,
+      "norm": "§ 597",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 789,
+      "norm": "§ 598",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 790,
+      "norm": "§ 599",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 791,
+      "norm": "§ 600",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 792,
+      "norm": "§ 601",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 793,
+      "norm": "§ 602",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 794,
+      "norm": "§ 603",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 795,
+      "norm": "§ 604",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 796,
+      "norm": "050060Sechster AbschnittVerjährung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 797,
+      "norm": "§ 605",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 798,
+      "norm": "§ 606",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 799,
+      "norm": "§ 607",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 800,
+      "norm": "§ 608",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 801,
+      "norm": "§ 609",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 802,
+      "norm": "§ 610",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 803,
+      "norm": "050070Siebter AbschnittAllgemeine Haftungsbeschränkung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 804,
+      "norm": "§ 611",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 805,
+      "norm": "§ 612",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 806,
+      "norm": "§ 613",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 807,
+      "norm": "§ 614",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 808,
+      "norm": "§ 615",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 809,
+      "norm": "§ 616",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 810,
+      "norm": "§ 617",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 811,
+      "norm": "050080Achter AbschnittVerfahrensvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 812,
+      "norm": "§ 618",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 813,
+      "norm": "§ 619",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    }
+  ]
+}

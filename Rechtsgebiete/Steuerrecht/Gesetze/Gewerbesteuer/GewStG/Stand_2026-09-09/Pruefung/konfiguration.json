@@ -1,0 +1,34 @@
+{
+  "kuerzel": "GewStG",
+  "titel": "Gewerbesteuergesetz",
+  "rechtsgebiet": "Steuerrecht / Gewerbesteuer",
+  "quelle_url": "https://www.gesetze-im-internet.de/gewstg/",
+  "quelle_html": "https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/gewstg/GewStG.pdf",
+  "lokale_pdf": "GewStG.pdf",
+  "aktuelle_pdf": "GewStG_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR009790936.xml",
+  "ausfertigungsdatum": "1936-12-01",
+  "stand": [
+    "Neugefasst durch Bek. v. 15.10.2002 I 4167;",
+    "zuletzt geändert durch Art. 8 G v. 29.6.2026 I Nr. 197"
+  ],
+  "vollzitat": "\"Gewerbesteuergesetz in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4167), das zuletzt durch Artikel 8 des Gesetzes vom 29. Juni 2026 (BGBl. 2026 I Nr. 197) geändert worden ist\"",
+  "pdf_seiten": 23,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260804215507",
+  "sha256_lokale_pdf": "328b2785f254b851ef3541585045cfce3e9ea7ca9a167bb27617254cd13e9122",
+  "sha256_aktuelle_pdf": "328b2785f254b851ef3541585045cfce3e9ea7ca9a167bb27617254cd13e9122",
+  "sha256_xml": "351e91d7deba58833b187759959f48a9fe2dbe8bf6b7795ff28f4b7628262211",
+  "normenbestand": {
+    "normdatensaetze": 53,
+    "gliederungsteile": 10,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 41,
+    "anlagen": 0,
+    "tabellen": 1,
+    "tabellenzeilen": 60,
+    "tabellenzellen": 211,
+    "aufzaehlungskennzeichen": 143
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "kuerzel": "MiLoG",
+  "datum": "2026-09-09",
+  "methode": "Vollständige Normtexte in Reihenfolge. NFC/Whitespace und PDF-Seitenservice entfernt. XML-FnArea setzt die bezeichneten Fußnoten an die Druckposition; zentrale Footnotes-Definitionen werden dort einmal ausgegeben. Wiederholte XML-Gliederungsmetadaten werden wie in der PDF nur bei Gruppenwechsel ausgegeben; alleinstehendes technisches Gliederungskennzeichen Minus entfällt im PDF. XML-FILE repräsentiert den Druckverweis; referenzierte Originaldateien werden zusätzlich separat vollständig integriert. Verbleibende Abweichungen nur bei konkret benannter und einzeln geprüfter Layoutausnahme zugelassen.",
+  "normdatensaetze": 32,
+  "exakt_identisch": 32,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "sha256_pdf": "738f2e35b2c7c3a47b2f8dc31407420b8671ca0d0fdf04a24bdb833adf31949e",
+  "sha256_xml": "f9133387b010444d85b54e6473e3f5d57aab3553cc2125422aa2da49cbde51f3",
+  "normen": [
+    {
+      "index": 0,
+      "name": "Dokumentkopf",
+      "identisch": true,
+      "xml_zeichen": 598,
+      "pdf_zeichen": 598,
+      "sha256_xml_text": "7eef3af871b65e625d97ae87475057f06afb82ac637b8a7031eed31607f82bd9",
+      "sha256_pdf_text": "7eef3af871b65e625d97ae87475057f06afb82ac637b8a7031eed31607f82bd9"
+    },
+    {
+      "index": 1,
+      "name": "Inhaltsübersicht",
+      "identisch": true,
+      "xml_zeichen": 1024,
+      "pdf_zeichen": 1024,
+      "sha256_xml_text": "a347c3726f2260cca9ed4c72956741d85448e0a31f23cc3e308fbbf58b2e19d8",
+      "sha256_pdf_text": "a347c3726f2260cca9ed4c72956741d85448e0a31f23cc3e308fbbf58b2e19d8"
+    },
+    {
+      "index": 2,
+      "name": "Abschnitt 1Festsetzung des allgemeinen Mindestlohns",
+      "identisch": true,
+      "xml_zeichen": 47,
+      "pdf_zeichen": 47,
+      "sha256_xml_text": "1659e6a67978410e12e4c779313ec65676bffabd477d14860156dfe9972355f1",
+      "sha256_pdf_text": "1659e6a67978410e12e4c779313ec65676bffabd477d14860156dfe9972355f1"
+    },
+    {
+      "index": 3,
+      "name": "Unterabschnitt 1Inhalt des Mindestlohns",
+      "identisch": true,
+      "xml_zeichen": 36,
+      "pdf_zeichen": 36,
+      "sha256_xml_text": "a2a008b2066a7827c3265f3824f53ad74556b04394d34e6cdf313e0f271348e7",
+      "sha256_pdf_text": "a2a008b2066a7827c3265f3824f53ad74556b04394d34e6cdf313e0f271348e7"
+    },
+    {
+      "index": 4,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 784,
+      "pdf_zeichen": 784,
+      "sha256_xml_text": "6a645d408ff170f64d9ba605a6d26ff070c6a094a06495775d4e081a06a6f256",
+      "sha256_pdf_text": "6a645d408ff170f64d9ba605a6d26ff070c6a094a06495775d4e081a06a6f256"
+    },
+    {
+      "index": 5,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1414,
+      "pdf_zeichen": 1414,
+      "sha256_xml_text": "8699f8ade309193bc0d575a1d5f0d925d6b95fed3147bd2516646a0f996e592e",
+      "sha256_pdf_text": "8699f8ade309193bc0d575a1d5f0d925d6b95fed3147bd2516646a0f996e592e"
+    },
+    {
+      "index": 6,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 363,
+      "pdf_zeichen": 363,
+      "sha256_xml_text": "51c2018f2baec5dbe29bd6d75b601976bf04bd38a5cc452cdb1a49df3ee88af2",
+      "sha256_pdf_text": "51c2018f2baec5dbe29bd6d75b601976bf04bd38a5cc452cdb1a49df3ee88af2"
+    },
+    {
+      "index": 7,
+      "name": "Unterabschnitt 2Mindestlohnkommission",
+      "identisch": true,
+      "xml_zeichen": 36,
+      "pdf_zeichen": 36,
+      "sha256_xml_text": "b9c6d20ee8f587f55551d1ea8f920c3ac8704e419b20b4e71112159e2693251c",
+      "sha256_pdf_text": "b9c6d20ee8f587f55551d1ea8f920c3ac8704e419b20b4e71112159e2693251c"
+    },
+    {
+      "index": 8,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 365,
+      "pdf_zeichen": 365,
+      "sha256_xml_text": "0ce02d8465a71312ffb73863ce86d17785c2fd7eb098abaf46c842c79aec80d6",
+      "sha256_pdf_text": "0ce02d8465a71312ffb73863ce86d17785c2fd7eb098abaf46c842c79aec80d6"
+    },
+    {
+      "index": 9,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 887,
+      "pdf_zeichen": 887,
+      "sha256_xml_text": "3c3d63e165b3b2a0f7604477261a2cc487bd71b759ac8d52b6c54c83b2d6cb85",
+      "sha256_pdf_text": "3c3d63e165b3b2a0f7604477261a2cc487bd71b759ac8d52b6c54c83b2d6cb85"
+    },
+    {
+      "index": 10,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 635,
+      "pdf_zeichen": 635,
+      "sha256_xml_text": "d1405ec2ebe2429857af39e080b5ef3cdf6ac299b1db3891374e0e3d088bb3b7",
+      "sha256_pdf_text": "d1405ec2ebe2429857af39e080b5ef3cdf6ac299b1db3891374e0e3d088bb3b7"
+    },
+    {
+      "index": 11,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 849,
+      "pdf_zeichen": 849,
+      "sha256_xml_text": "d2aff5a0a6fe5d74d7acc1af459faaaf0b0a78900c8314d68928c98e9c8d0d93",
+      "sha256_pdf_text": "d2aff5a0a6fe5d74d7acc1af459faaaf0b0a78900c8314d68928c98e9c8d0d93"
+    },
+    {
+      "index": 12,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 587,
+      "pdf_zeichen": 587,
+      "sha256_xml_text": "10cb7de25c07f91d555143a5a56c8934f202973bd27600944a8dd2a63f30eab2",
+      "sha256_pdf_text": "10cb7de25c07f91d555143a5a56c8934f202973bd27600944a8dd2a63f30eab2"
+    },
+    {
+      "index": 13,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 1029,
+      "pdf_zeichen": 1029,
+      "sha256_xml_text": "cf1252c0e9d7a70397646b4c3e851771066fbc6a89c5edc801bff8daa5d1823e",
+      "sha256_pdf_text": "cf1252c0e9d7a70397646b4c3e851771066fbc6a89c5edc801bff8daa5d1823e"
+    },
+    {
+      "index": 14,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 1443,
+      "pdf_zeichen": 1443,
+      "sha256_xml_text": "3e8cd0d460b5f9509c4a7fd966bfccfb102a79d964fcdba0dca212ea48f87592",
+      "sha256_pdf_text": "3e8cd0d460b5f9509c4a7fd966bfccfb102a79d964fcdba0dca212ea48f87592"
+    },
+    {
+      "index": 15,
+      "name": "§ 11",
+      "identisch": true,
+      "xml_zeichen": 840,
+      "pdf_zeichen": 840,
+      "sha256_xml_text": "f78793a11826ce9b3cbe0eb8264c4357dade22cd7d56f6b55c43231d8f7265ee",
+      "sha256_pdf_text": "f78793a11826ce9b3cbe0eb8264c4357dade22cd7d56f6b55c43231d8f7265ee"
+    },
+    {
+      "index": 16,
+      "name": "§ 12",
+      "identisch": true,
+      "xml_zeichen": 625,
+      "pdf_zeichen": 625,
+      "sha256_xml_text": "0820b2ee923a8f9c081e90e1d81c9c624c482f459da8faf1337318bca49d4054",
+      "sha256_pdf_text": "0820b2ee923a8f9c081e90e1d81c9c624c482f459da8faf1337318bca49d4054"
+    },
+    {
+      "index": 17,
+      "name": "Abschnitt 2Zivilrechtliche Durchsetzung",
+      "identisch": true,
+      "xml_zeichen": 37,
+      "pdf_zeichen": 37,
+      "sha256_xml_text": "6bf72f01725b185c6ededeb572fb33e8381f10ed89437adcad16d691222ee0a0",
+      "sha256_pdf_text": "6bf72f01725b185c6ededeb572fb33e8381f10ed89437adcad16d691222ee0a0"
+    },
+    {
+      "index": 18,
+      "name": "§ 13",
+      "identisch": true,
+      "xml_zeichen": 90,
+      "pdf_zeichen": 90,
+      "sha256_xml_text": "812db18e9be90c4c597d930444ae910b7e73dbd55e1e3f4d0fb836df787fdf65",
+      "sha256_pdf_text": "812db18e9be90c4c597d930444ae910b7e73dbd55e1e3f4d0fb836df787fdf65"
+    },
+    {
+      "index": 19,
+      "name": "Abschnitt 3Kontrolle und Durchsetzung durch staatliche Behörden",
+      "identisch": true,
+      "xml_zeichen": 57,
+      "pdf_zeichen": 57,
+      "sha256_xml_text": "c1e8907f33fb4f5efca176dfb27adf3ffcbb61be94e64bb4722044b297dca3e8",
+      "sha256_pdf_text": "c1e8907f33fb4f5efca176dfb27adf3ffcbb61be94e64bb4722044b297dca3e8"
+    },
+    {
+      "index": 20,
+      "name": "§ 14",
+      "identisch": true,
+      "xml_zeichen": 120,
+      "pdf_zeichen": 120,
+      "sha256_xml_text": "8ee6fd99dae52fa34cf05484aac166be3b9dd86d8720592b515ba6e32b91b350",
+      "sha256_pdf_text": "8ee6fd99dae52fa34cf05484aac166be3b9dd86d8720592b515ba6e32b91b350"
+    },
+    {
+      "index": 21,
+      "name": "§ 15",
+      "identisch": true,
+      "xml_zeichen": 695,
+      "pdf_zeichen": 695,
+      "sha256_xml_text": "1a164c70e67857652c254e93365b3de8a995babdabd44a58d635635eb2d36bdf",
+      "sha256_pdf_text": "1a164c70e67857652c254e93365b3de8a995babdabd44a58d635635eb2d36bdf"
+    },
+    {
+      "index": 22,
+      "name": "§ 16",
+      "identisch": true,
+      "xml_zeichen": 5161,
+      "pdf_zeichen": 5161,
+      "sha256_xml_text": "beef3aff2a759296c887fe67dd72bab00339f2844e5101c352f00da10b338738",
+      "sha256_pdf_text": "beef3aff2a759296c887fe67dd72bab00339f2844e5101c352f00da10b338738"
+    },
+    {
+      "index": 23,
+      "name": "§ 17",
+      "identisch": true,
+      "xml_zeichen": 6141,
+      "pdf_zeichen": 6141,
+      "sha256_xml_text": "45e25f72d6fd7fb2bada2d4a872584c4577edfdfea53e70a5b79253bdfaca03d",
+      "sha256_pdf_text": "45e25f72d6fd7fb2bada2d4a872584c4577edfdfea53e70a5b79253bdfaca03d"
+    },
+    {
+      "index": 24,
+      "name": "§ 18",
+      "identisch": true,
+      "xml_zeichen": 976,
+      "pdf_zeichen": 976,
+      "sha256_xml_text": "edbafc5f85ee53cfa70ef57b75b835d72b33075a9f1e26c7860d4d554a9cba61",
+      "sha256_pdf_text": "edbafc5f85ee53cfa70ef57b75b835d72b33075a9f1e26c7860d4d554a9cba61"
+    },
+    {
+      "index": 25,
+      "name": "§ 19",
+      "identisch": true,
+      "xml_zeichen": 1666,
+      "pdf_zeichen": 1666,
+      "sha256_xml_text": "f25a784715e90c3ac1bf9baaf87ccd91b65d0c5f60c7f17b7c1f44048714650a",
+      "sha256_pdf_text": "f25a784715e90c3ac1bf9baaf87ccd91b65d0c5f60c7f17b7c1f44048714650a"
+    },
+    {
+      "index": 26,
+      "name": "§ 20",
+      "identisch": true,
+      "xml_zeichen": 288,
+      "pdf_zeichen": 288,
+      "sha256_xml_text": "09446cca759b8dd4bc15b2214ab403989f26c1c456d67b681f1351e0638afb6a",
+      "sha256_pdf_text": "09446cca759b8dd4bc15b2214ab403989f26c1c456d67b681f1351e0638afb6a"
+    },
+    {
+      "index": 27,
+      "name": "§ 21",
+      "identisch": true,
+      "xml_zeichen": 3357,
+      "pdf_zeichen": 3357,
+      "sha256_xml_text": "1d4027953b9b9b6e552fd8e0081dccb1c46da7bc9642df1559c6aa9f3f4aefed",
+      "sha256_pdf_text": "1d4027953b9b9b6e552fd8e0081dccb1c46da7bc9642df1559c6aa9f3f4aefed"
+    },
+    {
+      "index": 28,
+      "name": "Abschnitt 4Schlussvorschriften",
+      "identisch": true,
+      "xml_zeichen": 29,
+      "pdf_zeichen": 29,
+      "sha256_xml_text": "fb45b183138d52996b4adf64472e9c6d1f5fc48285d058131769683e5b6af21d",
+      "sha256_pdf_text": "fb45b183138d52996b4adf64472e9c6d1f5fc48285d058131769683e5b6af21d"
+    },
+    {
+      "index": 29,
+      "name": "§ 22",
+      "identisch": true,
+      "xml_zeichen": 2095,
+      "pdf_zeichen": 2095,
+      "sha256_xml_text": "866c9f38adae5d541ea14fd041464bc7fc1ce38d37aef2f74022bfaecbc5f6a8",
+      "sha256_pdf_text": "866c9f38adae5d541ea14fd041464bc7fc1ce38d37aef2f74022bfaecbc5f6a8"
+    },
+    {
+      "index": 30,
+      "name": "§ 23",
+      "identisch": true,
+      "xml_zeichen": 51,
+      "pdf_zeichen": 51,
+      "sha256_xml_text": "dde491899be488658459dfa145d54201e3e7af82c90281d87718ae4cfe8979d9",
+      "sha256_pdf_text": "dde491899be488658459dfa145d54201e3e7af82c90281d87718ae4cfe8979d9"
+    },
+    {
+      "index": 31,
+      "name": "§ 24",
+      "identisch": true,
+      "xml_zeichen": 16,
+      "pdf_zeichen": 16,
+      "sha256_xml_text": "41443843f11a0ed3a88f7fdcb4016d53e68230c74bdf1bc38b02cea575d04d33",
+      "sha256_pdf_text": "41443843f11a0ed3a88f7fdcb4016d53e68230c74bdf1bc38b02cea575d04d33"
+    }
+  ]
+}

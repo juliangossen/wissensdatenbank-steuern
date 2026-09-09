@@ -1,0 +1,57 @@
+{
+  "kuerzel": "SvEV",
+  "datum": "2026-09-09",
+  "methode": "Vollständige Normtexte in Reihenfolge. NFC/Whitespace und PDF-Seitenservice entfernt. XML-FnArea setzt die bezeichneten Fußnoten an die Druckposition; zentrale Footnotes-Definitionen werden dort einmal ausgegeben. Wiederholte XML-Gliederungsmetadaten werden wie in der PDF nur bei Gruppenwechsel ausgegeben; alleinstehendes technisches Gliederungskennzeichen Minus entfällt im PDF. XML-FILE repräsentiert den Druckverweis; referenzierte Originaldateien werden zusätzlich separat vollständig integriert. Verbleibende Abweichungen nur bei konkret benannter und einzeln geprüfter Layoutausnahme zugelassen.",
+  "normdatensaetze": 5,
+  "exakt_identisch": 5,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "sha256_pdf": "86636fe5ec430899b8599c8f0acdfb2b248c0f9e0470405aa545eccdb1629fd6",
+  "sha256_xml": "b91f7481b6632df8ed4fd12fc86da35697d8a27d57ccc46305228f300b39052c",
+  "normen": [
+    {
+      "index": 0,
+      "name": "Dokumentkopf",
+      "identisch": true,
+      "xml_zeichen": 318,
+      "pdf_zeichen": 318,
+      "sha256_xml_text": "2f9609bb4e43128b4edbaef433a560b5ac7e60dea93f1490697b6cc1dd6895cf",
+      "sha256_pdf_text": "2f9609bb4e43128b4edbaef433a560b5ac7e60dea93f1490697b6cc1dd6895cf"
+    },
+    {
+      "index": 1,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 4562,
+      "pdf_zeichen": 4562,
+      "sha256_xml_text": "15046075b82a142719e81baa4a390ca83cf64c36327727b699e847924bdf3427",
+      "sha256_pdf_text": "15046075b82a142719e81baa4a390ca83cf64c36327727b699e847924bdf3427"
+    },
+    {
+      "index": 2,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 3143,
+      "pdf_zeichen": 3143,
+      "sha256_xml_text": "4a4bb75933912c186640bc4d3540a07e1e25b2ea0d02af77a1c530bf8b8d1575",
+      "sha256_pdf_text": "4a4bb75933912c186640bc4d3540a07e1e25b2ea0d02af77a1c530bf8b8d1575"
+    },
+    {
+      "index": 3,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 1740,
+      "pdf_zeichen": 1740,
+      "sha256_xml_text": "1ba1da5cb531c87a5efb903234128735a71ada4cd4021b5a00c9fc292477e7be",
+      "sha256_pdf_text": "1ba1da5cb531c87a5efb903234128735a71ada4cd4021b5a00c9fc292477e7be"
+    },
+    {
+      "index": 4,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 16,
+      "pdf_zeichen": 16,
+      "sha256_xml_text": "293858c5f49fcb9d33f688d29b739339429311598cf12f3bea4829ec35ea6bd7",
+      "sha256_pdf_text": "293858c5f49fcb9d33f688d29b739339429311598cf12f3bea4829ec35ea6bd7"
+    }
+  ]
+}

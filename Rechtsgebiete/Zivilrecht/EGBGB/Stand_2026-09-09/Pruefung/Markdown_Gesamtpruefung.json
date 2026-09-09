@@ -1,0 +1,4201 @@
+{
+  "kuerzel": "EGBGB",
+  "pruefdatum": "2026-09-09",
+  "methode": "Fertige Markdown-Datei unabhängig normweise an Überschriftsankern zerlegt; alle sichtbaren Texte aus dem gerenderten Markdown gegen sämtliche XML-Normen in derselben Reihenfolge verglichen. Nur redaktionelle Metadaten und markierte Ergänzungen, PDF-technischer (XXXX)-Präfix, NFC/Whitespace ausgenommen. Aus XML-Attributen stammende Fußnotenmarker werden zusätzlich auf vollständige Zahl und Kennzeichnung geprüft.",
+  "sha256_markdown": "78a18f7715f2f0ecf177f21280676a256bc946d1d887bc90c0a6fbc8be446eb3",
+  "normen_erwartet": 519,
+  "normen_vorhanden": 519,
+  "alle_normtexte_identisch": true,
+  "alle_fussnotenverweise_erhalten": true,
+  "fussnoten": [
+    {
+      "id": "f799189_02_BJNR006049896BJNE244001360",
+      "kennzeichnung": "*",
+      "quellverweise": 2,
+      "markdown_verweise": 2,
+      "kennzeichnung_erhalten": true
+    },
+    {
+      "id": "f799189_03_BJNR006049896BJNE244101360",
+      "kennzeichnung": "*",
+      "quellverweise": 2,
+      "markdown_verweise": 2,
+      "kennzeichnung_erhalten": true
+    },
+    {
+      "id": "f799189_04_BJNR006049896BJNE244201360",
+      "kennzeichnung": "*",
+      "quellverweise": 2,
+      "markdown_verweise": 2,
+      "kennzeichnung_erhalten": true
+    },
+    {
+      "id": "f799189_05_BJNR006049896BJNE244501360",
+      "kennzeichnung": "*",
+      "quellverweise": 2,
+      "markdown_verweise": 2,
+      "kennzeichnung_erhalten": true
+    },
+    {
+      "id": "f799189_06_BJNR006049896BJNE244601360",
+      "kennzeichnung": "*",
+      "quellverweise": 2,
+      "markdown_verweise": 2,
+      "kennzeichnung_erhalten": true
+    }
+  ],
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR006049896",
+      "anzeige": "Dokumentkopf",
+      "identisch": true,
+      "zeichen": 171,
+      "sha256": "c6bac1386b57e62cef2a231cc759327b8c08e924fee53e38152f7f23b6d153b0"
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR006049896BJNG000103377",
+      "anzeige": "010Erster TeilAllgemeine Vorschriften",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "035fda46854af8950191742e642d9d69f5a6b136df9b1fe23dc9d1c4b029b869"
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR006049896BJNG001602377",
+      "anzeige": "010010Erstes KapitelInkrafttreten. Vorbehalt für Landesrecht. Gesetzesbegriff",
+      "identisch": true,
+      "zeichen": 66,
+      "sha256": "e0f0ab522d5d9b2c59ae6709e4ec3760717d7409a1b96f61eb4481d6b4dc715a"
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR006049896BJNG030900377",
+      "anzeige": "010010000010Art 1",
+      "identisch": true,
+      "zeichen": 622,
+      "sha256": "0708920544c4d8130c010286971396874ebc4d63e103ee2ffc54bccf0bb4fac0"
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR006049896BJNG031000377",
+      "anzeige": "010010000020Art 2",
+      "identisch": true,
+      "zeichen": 78,
+      "sha256": "84fe602a414793030764247c91baa95270ec458de6b4240506f12488cf94f52a"
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR006049896BJNG000702377",
+      "anzeige": "010020Zweites KapitelInternationales Privatrecht",
+      "identisch": true,
+      "zeichen": 40,
+      "sha256": "3f1203fec0ce0cc2b1b7d4265ad8a5923ac0e6da6be4bf61fcc89c2802a52cae"
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR006049896BJNG000803140",
+      "anzeige": "010020010Erster AbschnittAllgemeine Vorschriften",
+      "identisch": true,
+      "zeichen": 37,
+      "sha256": "17b81a00fac20501aa8dfba379ca5affc0e48aeba97b44f63b2ba1f585929342"
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR006049896BJNG031108360",
+      "anzeige": "010020010000030Art 3Anwendungsbereich; Verhältnis zu Regelungen der Europäischen Union und zu völkerrechtlichen Vereinbarungen",
+      "identisch": true,
+      "zeichen": 2021,
+      "sha256": "648d1f67ee6d193429ebdacaae368189361d4cc46f6dd589c5158e6d80024614"
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR006049896BJNG031201360",
+      "anzeige": "010020010000040Art 4Verweisung",
+      "identisch": true,
+      "zeichen": 779,
+      "sha256": "86663b45f0ca2c2cde4de15ff3ca8e52439071e2559fe2f274b719e91229798a"
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR006049896BJNG031300377",
+      "anzeige": "010020010000050Art 5Personalstatut",
+      "identisch": true,
+      "zeichen": 776,
+      "sha256": "4dd9d552fc42abfaa54538753be36d8aa18fc44419f6e4a3a0434d41185ae8fe"
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR006049896BJNG031400377",
+      "anzeige": "010020010000060Art 6Öffentliche Ordnung (ordre public)",
+      "identisch": true,
+      "zeichen": 341,
+      "sha256": "22a8db4b343f8d4d8d5a844e5104e4a183d2b31d16283bcca2de637c78e00031"
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR006049896BJNG000902377",
+      "anzeige": "010020020Zweiter AbschnittRecht der natürlichen Personen und der Rechtsgeschäfte",
+      "identisch": true,
+      "zeichen": 64,
+      "sha256": "fa523dbf8683bb965e2bbfffd51955180fd037fd06f29e5b9d2d49b68c3547ea"
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR006049896BJNG031501360",
+      "anzeige": "010020020000070Art 7Rechts- und Geschäftsfähigkeit",
+      "identisch": true,
+      "zeichen": 499,
+      "sha256": "ac1a878cbef536a726656021e1ada9a4de4f4a3a343a976957b785eb2f2ba483"
+    },
+    {
+      "xml_index": 13,
+      "doknr": "BJNR006049896BJNG055500360",
+      "anzeige": "010020020000071Art 7aGeschlechtszugehörigkeit",
+      "identisch": true,
+      "zeichen": 477,
+      "sha256": "42875596a9cf7cce81bf6f83ab6c8aa639e632540df6e0711ea1a664cbf2b93c"
+    },
+    {
+      "xml_index": 14,
+      "doknr": "BJNR006049896BJNG031601123",
+      "anzeige": "010020020000080Art 8Gewillkürte Stellvertretung",
+      "identisch": true,
+      "zeichen": 2446,
+      "sha256": "a79e25f53c26a4ffea1506ea504d97cd212e5d1eaa2f2dc085d507ee09e009ea"
+    },
+    {
+      "xml_index": 15,
+      "doknr": "BJNR006049896BJNG031700377",
+      "anzeige": "010020020000090Art 9Todeserklärung",
+      "identisch": true,
+      "zeichen": 395,
+      "sha256": "27c51ed5b04123db70750ccc4e00cbeba4ab238c7cc87a5cf1029cef152b11cd"
+    },
+    {
+      "xml_index": 16,
+      "doknr": "BJNR006049896BJNG031802360",
+      "anzeige": "010020020000100Art 10Name",
+      "identisch": true,
+      "zeichen": 1132,
+      "sha256": "335b00f0b0c7f4ad38d0c0a277eac7ea7dd6815a6bd7d0bb63b0b5ce40dc071f"
+    },
+    {
+      "xml_index": 17,
+      "doknr": "BJNR006049896BJNG031901140",
+      "anzeige": "010020020000110Art 11Form von Rechtsgeschäften",
+      "identisch": true,
+      "zeichen": 798,
+      "sha256": "355a3b6c40507aaa7c575b1dd400348f17191904a6662a88e47dc6014885934f"
+    },
+    {
+      "xml_index": 18,
+      "doknr": "BJNR006049896BJNG032000377",
+      "anzeige": "010020020000120Art 12Schutz des anderen Vertragsteils",
+      "identisch": true,
+      "zeichen": 593,
+      "sha256": "35e0ced9e40a3867e21f273a14ade5566b4acf36cf0964d509a96b37db05c65f"
+    },
+    {
+      "xml_index": 19,
+      "doknr": "BJNR006049896BJNG001002377",
+      "anzeige": "010020030Dritter AbschnittFamilienrecht",
+      "identisch": true,
+      "zeichen": 29,
+      "sha256": "8151affc2b779ee917c0bccc81c4ecbfe1ae4d9554ce1c4fb279950ad0865aec"
+    },
+    {
+      "xml_index": 20,
+      "doknr": "BJNR006049896BJNG032101123",
+      "anzeige": "010020030000130Art 13Eheschließung",
+      "identisch": true,
+      "zeichen": 1738,
+      "sha256": "391de17ccd5ca8607639b167346307a938d305609618dcafcb555f782dcba3e9"
+    },
+    {
+      "xml_index": 21,
+      "doknr": "BJNR006049896BJNG032201360",
+      "anzeige": "010020030000140Art 14Allgemeine Ehewirkungen",
+      "identisch": true,
+      "zeichen": 1162,
+      "sha256": "df05992f7e1f959aeb757ccf6d2c28f48fd8a1534384f36278037f209677760a"
+    },
+    {
+      "xml_index": 22,
+      "doknr": "BJNR006049896BJNG032302360",
+      "anzeige": "010020030000150Art 15Gegenseitige Vertretung von Ehegatten",
+      "identisch": true,
+      "zeichen": 226,
+      "sha256": "0b81b745f6bdd652fcd10899c9e58e8c885e7faf0d66dabac52c8b3605cac9e2"
+    },
+    {
+      "xml_index": 23,
+      "doknr": "BJNR006049896BJNG032401360",
+      "anzeige": "010020030000160Art 16(weggefallen)",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "71fe18b3696cca11d20d313beb9e2002fb1fa590400cc9102ad8b45d4d9a8d2d"
+    },
+    {
+      "xml_index": 24,
+      "doknr": "BJNR006049896BJNG032504360",
+      "anzeige": "010020030000170Art 17Sonderregelungen zur Scheidung",
+      "identisch": true,
+      "zeichen": 1986,
+      "sha256": "cf3c5f1e76668739a6965b53017b34432ef959965bcdde3168c47b9a7ff27c58"
+    },
+    {
+      "xml_index": 25,
+      "doknr": "BJNR006049896BJNG032602360",
+      "anzeige": "010020030000171Art 17aEhewohnung",
+      "identisch": true,
+      "zeichen": 149,
+      "sha256": "a05e9f01c545dd929511edf8b81f1018e3d9a30599466ccd2af3a736325c8e2f"
+    },
+    {
+      "xml_index": 26,
+      "doknr": "BJNR006049896BJNG032711360",
+      "anzeige": "010020030000172Art 17bEingetragene Lebenspartnerschaft und gleichgeschlechtliche Ehe",
+      "identisch": true,
+      "zeichen": 1890,
+      "sha256": "021e39b9c496e33a2448c448488fc874b1186041a03243587eb315af729c980a"
+    },
+    {
+      "xml_index": 27,
+      "doknr": "BJNR006049896BJNG032801160",
+      "anzeige": "010020030000180Art 18(weggefallen)",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "09cfa991b9f8c47e5ec72b25c4ed9c7585086824ae67df042ecdc0bfb1eaf8ec"
+    },
+    {
+      "xml_index": 28,
+      "doknr": "BJNR006049896BJNG032901360",
+      "anzeige": "010020030000190Art 19Abstammung",
+      "identisch": true,
+      "zeichen": 641,
+      "sha256": "52b44e7a115922bbac33c483c313bd3ecc7724e74050dffe7daa86e6a4cef769"
+    },
+    {
+      "xml_index": 29,
+      "doknr": "BJNR006049896BJNG033000377",
+      "anzeige": "010020030000200Art 20Anfechtung der Abstammung",
+      "identisch": true,
+      "zeichen": 220,
+      "sha256": "1f5a339b6dd0f673ae7daac1ace17f5bddb83e9c7fe87161c7b06eb03593475b"
+    },
+    {
+      "xml_index": 30,
+      "doknr": "BJNR006049896BJNG033100377",
+      "anzeige": "010020030000210Art 21Wirkungen des Eltern-Kind-Verhältnisses",
+      "identisch": true,
+      "zeichen": 166,
+      "sha256": "c9eb24ee5b30e6f834d1ec0ef0150158225b7dedda91ad17c285d69b6f80178a"
+    },
+    {
+      "xml_index": 31,
+      "doknr": "BJNR006049896BJNG033203360",
+      "anzeige": "010020030000220Art 22Annahme als Kind",
+      "identisch": true,
+      "zeichen": 938,
+      "sha256": "774637b6f75b1360844f85d3eec45cc3f3b8742268856006ef21106710edd99a"
+    },
+    {
+      "xml_index": 32,
+      "doknr": "BJNR006049896BJNG033302360",
+      "anzeige": "010020030000230Art 23Zustimmung",
+      "identisch": true,
+      "zeichen": 307,
+      "sha256": "6f15aaf073af2ddad3ad3af3782b710617f35e529b09459ffbf52dbd9578cabe"
+    },
+    {
+      "xml_index": 33,
+      "doknr": "BJNR006049896BJNG033401360",
+      "anzeige": "010020030000240Art 24Vormundschaft, Betreuung und Pflegschaft",
+      "identisch": true,
+      "zeichen": 691,
+      "sha256": "9e896b6797a3de37373bd9dbdabdc4a0555d6712ef0c4f8d5b26a01afaabdb4c"
+    },
+    {
+      "xml_index": 34,
+      "doknr": "BJNR006049896BJNG001102377",
+      "anzeige": "010020040Vierter AbschnittErbrecht",
+      "identisch": true,
+      "zeichen": 24,
+      "sha256": "dda832139c56c37dee865ceadef4628bde39acab4234c90da1a90a082541bee8"
+    },
+    {
+      "xml_index": 35,
+      "doknr": "BJNR006049896BJNG033501360",
+      "anzeige": "010020040000250Art 25Rechtsnachfolge von Todes wegen",
+      "identisch": true,
+      "zeichen": 195,
+      "sha256": "36da010f72c5418827b0f01200d54b118efb4d086d114ac7834d1b1a981d0918"
+    },
+    {
+      "xml_index": 36,
+      "doknr": "BJNR006049896BJNG033601360",
+      "anzeige": "010020040000260Art 26Form von Verfügungen von Todes wegen",
+      "identisch": true,
+      "zeichen": 659,
+      "sha256": "35eacc459ab82f93f239575395d7e8a5411b410e41d0597955dfa1cd36d8270c"
+    },
+    {
+      "xml_index": 37,
+      "doknr": "BJNR006049896BJNG001203140",
+      "anzeige": "010020050Fünfter AbschnittAußervertragliche Schuldverhältnisse",
+      "identisch": true,
+      "zeichen": 51,
+      "sha256": "79dc576c382bff536e8a5579da4b6b0da23d17377b09230bd33eb22d2e3fc3ed"
+    },
+    {
+      "xml_index": 38,
+      "doknr": "BJNR006049896BJNG033701140",
+      "anzeige": "010020050010000270Art 27 bis 37(weggefallen)",
+      "identisch": true,
+      "zeichen": 23,
+      "sha256": "237102d61fcf21e6f46ce364e82d6098076040fb9c97b2a2ad6522ad9605af33"
+    },
+    {
+      "xml_index": 39,
+      "doknr": "BJNR006049896BJNG034900377",
+      "anzeige": "010020050020000380Art 38Ungerechtfertigte Bereicherung",
+      "identisch": true,
+      "zeichen": 422,
+      "sha256": "55ca3d14d2071f8198608ecb16d36c44d177be6006efb2a276f391bb17b33be8"
+    },
+    {
+      "xml_index": 40,
+      "doknr": "BJNR006049896BJNG035000377",
+      "anzeige": "010020050020000390Art 39Geschäftsführung ohne Auftrag",
+      "identisch": true,
+      "zeichen": 268,
+      "sha256": "dc967f193194205626d43b8bace92780e48d644cee3bdaebb5776b0ada0ffc54"
+    },
+    {
+      "xml_index": 41,
+      "doknr": "BJNR006049896BJNG035100377",
+      "anzeige": "010020050020000400Art 40Unerlaubte Handlung",
+      "identisch": true,
+      "zeichen": 1292,
+      "sha256": "f722c23a1712fe98587c08e456d62d2b1e9e6365504548b31795a709c52fe855"
+    },
+    {
+      "xml_index": 42,
+      "doknr": "BJNR006049896BJNG035200377",
+      "anzeige": "010020050020000410Art 41Wesentlich engere Verbindung",
+      "identisch": true,
+      "zeichen": 545,
+      "sha256": "56bdec5257b511c3eb6e1e8654b83a7788016a481915f72ef7e38fc51946ceb4"
+    },
+    {
+      "xml_index": 43,
+      "doknr": "BJNR006049896BJNG035300377",
+      "anzeige": "010020050020000420Art 42Rechtswahl",
+      "identisch": true,
+      "zeichen": 184,
+      "sha256": "21dca9caa6eec70976f6f8dc72929afd38c7ba81273448254788d07e439a585c"
+    },
+    {
+      "xml_index": 44,
+      "doknr": "BJNR006049896BJNG029201377",
+      "anzeige": "010020060Sechster AbschnittSachenrecht",
+      "identisch": true,
+      "zeichen": 28,
+      "sha256": "e299353d8cf857294dbda0777bde22e57ee515910de17d1726e70edda6d1b2a2"
+    },
+    {
+      "xml_index": 45,
+      "doknr": "BJNR006049896BJNG035400377",
+      "anzeige": "010020060000430Art 43Rechte an einer Sache",
+      "identisch": true,
+      "zeichen": 422,
+      "sha256": "39f9d3add023abcb0bf037e5ff044e5998ca702423d69e8fcebbb7b3210bdee6"
+    },
+    {
+      "xml_index": 46,
+      "doknr": "BJNR006049896BJNG035502140",
+      "anzeige": "010020060000440Art 44Von Grundstücken ausgehende Einwirkungen",
+      "identisch": true,
+      "zeichen": 205,
+      "sha256": "e697b3be9b7f1262376b40d5e360f168b02681db48266d9d0e31990324df7f80"
+    },
+    {
+      "xml_index": 47,
+      "doknr": "BJNR006049896BJNG035601360",
+      "anzeige": "010020060000450Art 45Transportmittel",
+      "identisch": true,
+      "zeichen": 633,
+      "sha256": "4a24d25d0c82345f149890435c8d5f40fda6de1e06b3d39c8eab17d30d7d17c3"
+    },
+    {
+      "xml_index": 48,
+      "doknr": "BJNR006049896BJNG035702140",
+      "anzeige": "010020060000460Art 46Wesentlich engere Verbindung",
+      "identisch": true,
+      "zeichen": 171,
+      "sha256": "7c630e0981e698ef6b65389d3ae61c4fc4a9dccaadcef99b9c29eeff322c4327"
+    },
+    {
+      "xml_index": 49,
+      "doknr": "BJNR006049896BJNG052602123",
+      "anzeige": "010020070Siebter AbschnittBesondere Vorschriften zur Durchführung und Umsetzung international-privatrechtlicher Regelungen der Europäischen Union",
+      "identisch": true,
+      "zeichen": 125,
+      "sha256": "e94e5fb318522164769abaa141f3d0a658368b21974fab5b7d50b57dca201bcc"
+    },
+    {
+      "xml_index": 50,
+      "doknr": "BJNR006049896BJNG052800140",
+      "anzeige": "010020070010Erster UnterabschnittDurchführung der Verordnung (EG) Nr. 864/2007",
+      "identisch": true,
+      "zeichen": 60,
+      "sha256": "b0498e6c91f5c043403e58be633baa60fcd6cd1009d976bd895cc7a3e7857842"
+    },
+    {
+      "xml_index": 51,
+      "doknr": "BJNR006049896BJNG052702140",
+      "anzeige": "010020070010000461Art 46aUmweltschädigungen",
+      "identisch": true,
+      "zeichen": 304,
+      "sha256": "fc93ea467a79bba9c598a3a70ca55f1bc2e3ddf7f961e2ec1ffb9994dba19afc"
+    },
+    {
+      "xml_index": 52,
+      "doknr": "BJNR006049896BJNG052901123",
+      "anzeige": "010020070020Zweiter UnterabschnittUmsetzung international-privatrechtlicher Regelungen im Verbraucherschutz",
+      "identisch": true,
+      "zeichen": 90,
+      "sha256": "2ccd7e117bca3814eb543a6d347abde885299e5527ad4e26f842304864ba433f"
+    },
+    {
+      "xml_index": 53,
+      "doknr": "BJNR006049896BJNG053004129",
+      "anzeige": "010020070020000462Art 46bVerbraucherschutz für besondere Gebiete",
+      "identisch": true,
+      "zeichen": 2523,
+      "sha256": "b2e3ba943f9776a0011c2e342127272b3ac1d582b0f285e4285e9fa3002de617"
+    },
+    {
+      "xml_index": 54,
+      "doknr": "BJNR006049896BJNG054700123",
+      "anzeige": "010020070020000463Art 46cPauschalreisen und verbundene Reiseleistungen",
+      "identisch": true,
+      "zeichen": 2694,
+      "sha256": "1e6e31953663d58e6ea99ba558d2ecc5eeca60cf49faa84296f96162c8245e76"
+    },
+    {
+      "xml_index": 55,
+      "doknr": "BJNR006049896BJNG054800123",
+      "anzeige": "010020070030Dritter UnterabschnittDurchführung der Verordnung (EG) Nr. 593/2008",
+      "identisch": true,
+      "zeichen": 61,
+      "sha256": "d72c5dd10d4f939ca25b76430651efb592128eb39f226f7476a107ec2ad8107b"
+    },
+    {
+      "xml_index": 56,
+      "doknr": "BJNR006049896BJNG053101123",
+      "anzeige": "010020070030000464Art 46dPflichtversicherungsverträge",
+      "identisch": true,
+      "zeichen": 446,
+      "sha256": "42494e5d8d454704ec2e9c97e67c6632a40fa6d31fd7569515775dd056f1add6"
+    },
+    {
+      "xml_index": 57,
+      "doknr": "BJNR006049896BJNG053901123",
+      "anzeige": "010020070040Vierter UnterabschnittDurchführung der Verordnung (EU) Nr. 1259/2010",
+      "identisch": true,
+      "zeichen": 62,
+      "sha256": "7f6b293daca13b9dfb0061a502df04ea4388b35f322d8db636791dc5cd6f3174"
+    },
+    {
+      "xml_index": 58,
+      "doknr": "BJNR006049896BJNG054001123",
+      "anzeige": "010020070040000465Art 46eRechtswahl",
+      "identisch": true,
+      "zeichen": 276,
+      "sha256": "4e53e29549d41e924ffdd030b286122ea30c460562d00f05d806c2f622454056"
+    },
+    {
+      "xml_index": 59,
+      "doknr": "BJNR006049896BJNG052301377",
+      "anzeige": "010030Drittes KapitelAngleichung; Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens",
+      "identisch": true,
+      "zeichen": 98,
+      "sha256": "bd5f0add4030b9e12e5d553f9508e3059331c09c3a15dde18a321ce64c3acb49"
+    },
+    {
+      "xml_index": 60,
+      "doknr": "BJNR006049896BJNG052501377",
+      "anzeige": "010030000470Art 47Vor- und Familiennamen",
+      "identisch": true,
+      "zeichen": 1190,
+      "sha256": "bf73a3c69b17be1f9064df07b35f025cde904b87af3858f505d0cce75ea8b865"
+    },
+    {
+      "xml_index": 61,
+      "doknr": "BJNR006049896BJNG035804360",
+      "anzeige": "010030000480Art 48Namenswahl",
+      "identisch": true,
+      "zeichen": 730,
+      "sha256": "88c5efcbac49be451d117d9001e4b3306c11b6ca092ed6ab6626f7aa8eba2db6"
+    },
+    {
+      "xml_index": 62,
+      "doknr": "BJNR006049896BJNG054100377",
+      "anzeige": "010030000490Art 49(Änderung anderer Vorschriften)",
+      "identisch": true,
+      "zeichen": 34,
+      "sha256": "d0af1162f39de1380dcd1911fb092bd854175f5723640847fd37a5a4c0d6ac35"
+    },
+    {
+      "xml_index": 63,
+      "doknr": "BJNR006049896BJNG000203377",
+      "anzeige": "020Zweiter TeilVerhältnis des Bürgerlichen Gesetzbuchs zu den Reichsgesetzen",
+      "identisch": true,
+      "zeichen": 66,
+      "sha256": "cf4adb42da8e8db8d213da717eac25859426f173253af6ae49f8ca476703f409"
+    },
+    {
+      "xml_index": 64,
+      "doknr": "BJNR006049896BJNG035900377",
+      "anzeige": "020000500Art 50",
+      "identisch": true,
+      "zeichen": 158,
+      "sha256": "606f38faa21456ebb17df3187ef1614aa9129a441dc37543924e4fd9afd14a39"
+    },
+    {
+      "xml_index": 65,
+      "doknr": "BJNR006049896BJNG036000377",
+      "anzeige": "020000510Art 51",
+      "identisch": true,
+      "zeichen": 327,
+      "sha256": "5c313e584de4e1048d4ecf3773d96544f2b139b68703eaf0570cf83c262faf01"
+    },
+    {
+      "xml_index": 66,
+      "doknr": "BJNR006049896BJNG036100377",
+      "anzeige": "020000520Art 52",
+      "identisch": true,
+      "zeichen": 471,
+      "sha256": "2c2a5481a556d7569b96bdf67a8d4a650fc24d3dd7a944ee26dd2f9cb3a566f6"
+    },
+    {
+      "xml_index": 67,
+      "doknr": "BJNR006049896BJNG036200377",
+      "anzeige": "020000530Art 53",
+      "identisch": true,
+      "zeichen": 1032,
+      "sha256": "7d15f9eec7e56cfa218c922aff485f16476ad851347565550a6cc6bfaf6f7c33"
+    },
+    {
+      "xml_index": 68,
+      "doknr": "BJNR006049896BJNG036300377",
+      "anzeige": "020000531Art 53a",
+      "identisch": true,
+      "zeichen": 353,
+      "sha256": "a4940d831b018a370ea6c47a909a6b4aae48cb470124e5b639080c486e7d8c64"
+    },
+    {
+      "xml_index": 69,
+      "doknr": "BJNR006049896BJNG036400377",
+      "anzeige": "020000540Art 54(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "2b23840dfc8a7169ba4a0905bfd2ab4b746aeb13f688af3db73e8710c8ca6067"
+    },
+    {
+      "xml_index": 70,
+      "doknr": "BJNR006049896BJNG000303377",
+      "anzeige": "030Dritter TeilVerhältnis des Bürgerlichen Gesetzbuchs zu den Landesgesetzen",
+      "identisch": true,
+      "zeichen": 66,
+      "sha256": "225df9bf0dfde10a5737030bbb5b9ac11377775a232d26d7f6e9fda1bec16d8a"
+    },
+    {
+      "xml_index": 71,
+      "doknr": "BJNR006049896BJNG036500377",
+      "anzeige": "030000550Art 55",
+      "identisch": true,
+      "zeichen": 148,
+      "sha256": "4ef10aeed186e8c20e051c13efb4d1f38ac4165dd09272c2814f5062c004320c"
+    },
+    {
+      "xml_index": 72,
+      "doknr": "BJNR006049896BJNG036600377",
+      "anzeige": "030000560Art 56",
+      "identisch": true,
+      "zeichen": 157,
+      "sha256": "e965bdb1dd7e179e9dec3aa44e66358e807d1f44bd0538eb7f3523ee8599c94e"
+    },
+    {
+      "xml_index": 73,
+      "doknr": "BJNR006049896BJNG036700377",
+      "anzeige": "030000570Art 57 und 58(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 26,
+      "sha256": "2f1863f6a9bc178a0c0669685144e9db248f48d711a2c1790de8d60486a164d9"
+    },
+    {
+      "xml_index": 74,
+      "doknr": "BJNR006049896BJNG036800377",
+      "anzeige": "030000590Art 59",
+      "identisch": true,
+      "zeichen": 144,
+      "sha256": "e1a42711f3b04f0f361861a8ebe5efbcdc888e86447eeda1877216ade03724e3"
+    },
+    {
+      "xml_index": 75,
+      "doknr": "BJNR006049896BJNG036900377",
+      "anzeige": "030000600Art 60",
+      "identisch": true,
+      "zeichen": 327,
+      "sha256": "3800853e083717986bdae6a2f7a4de765cbfb42fdbef6682b557d479bfa38704"
+    },
+    {
+      "xml_index": 76,
+      "doknr": "BJNR006049896BJNG037000377",
+      "anzeige": "030000610Art 61",
+      "identisch": true,
+      "zeichen": 328,
+      "sha256": "51f058fa205e5703e07c66868ae0bf9199eb9730696f96a96cca577d4ccf863e"
+    },
+    {
+      "xml_index": 77,
+      "doknr": "BJNR006049896BJNG037100377",
+      "anzeige": "030000620Art 62",
+      "identisch": true,
+      "zeichen": 70,
+      "sha256": "3bc75c51fe0561bd5a00933fd059edf9a4e2b4773c4c6778e3e89cbb5df59dc7"
+    },
+    {
+      "xml_index": 78,
+      "doknr": "BJNR006049896BJNG037200377",
+      "anzeige": "030000630Art 63",
+      "identisch": true,
+      "zeichen": 270,
+      "sha256": "b4dbf8de3907d010f6f09893fcaf64e31a2bd9ed5eb575c7d2b9e0ca2c482386"
+    },
+    {
+      "xml_index": 79,
+      "doknr": "BJNR006049896BJNG037300377",
+      "anzeige": "030000640Art 64",
+      "identisch": true,
+      "zeichen": 292,
+      "sha256": "379d7fe7d13e4b8b1338e25b6b6917b87b98c9e41608f9fcbe038aee69ed78a6"
+    },
+    {
+      "xml_index": 80,
+      "doknr": "BJNR006049896BJNG037401140",
+      "anzeige": "030000650Art 65(weggefallen)",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "a1c3c772f4c519c0403f1bf2011b8c9480c0b31b1c1a40144f01c751ddddf2e6"
+    },
+    {
+      "xml_index": 81,
+      "doknr": "BJNR006049896BJNG037500377",
+      "anzeige": "030000660Art 66",
+      "identisch": true,
+      "zeichen": 92,
+      "sha256": "4006435a623af53cfe846a7634307cbc383449309280f626ab7f6051564a94e3"
+    },
+    {
+      "xml_index": 82,
+      "doknr": "BJNR006049896BJNG037600377",
+      "anzeige": "030000670Art 67",
+      "identisch": true,
+      "zeichen": 294,
+      "sha256": "e2534e68adf90eb8890106c5afb8f430cb4e64389b5205e24a26c0ead4bcb2ce"
+    },
+    {
+      "xml_index": 83,
+      "doknr": "BJNR006049896BJNG037700377",
+      "anzeige": "030000680Art 68",
+      "identisch": true,
+      "zeichen": 348,
+      "sha256": "f9cf9bc9baab3c3b51bdf21225f7f567684d2014aa8641113a4b9b6ec9efccb3"
+    },
+    {
+      "xml_index": 84,
+      "doknr": "BJNR006049896BJNG037800377",
+      "anzeige": "030000690Art 69",
+      "identisch": true,
+      "zeichen": 210,
+      "sha256": "1280f299b93e33b2eafa4631fbd5a36ead225cd179f3e8c9bd0ff10c074e15e1"
+    },
+    {
+      "xml_index": 85,
+      "doknr": "BJNR006049896BJNG037900377",
+      "anzeige": "030000700Art 70 bis 72(weggefallen)",
+      "identisch": true,
+      "zeichen": 23,
+      "sha256": "6847531f0cd7aa302f41aaf9a3b4a696ef89d1e22d655f4002959273fc9c2af2"
+    },
+    {
+      "xml_index": 86,
+      "doknr": "BJNR006049896BJNG038000377",
+      "anzeige": "030000730Art 73",
+      "identisch": true,
+      "zeichen": 67,
+      "sha256": "d2994e8b50e6a4481fcc65091382916185cff0642f21c75c330215ee6fab9d77"
+    },
+    {
+      "xml_index": 87,
+      "doknr": "BJNR006049896BJNG038100377",
+      "anzeige": "030000740Art 74",
+      "identisch": true,
+      "zeichen": 110,
+      "sha256": "0d3e86ba9b2710c147bfe39c17dcad7500dbb4d2cbaac76d7a724bb9dba203b2"
+    },
+    {
+      "xml_index": 88,
+      "doknr": "BJNR006049896BJNG038200377",
+      "anzeige": "030000750Art 75(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "7d7b49ad6fc3edfbbdde8f5b2efd3d0565d97df02e7d3aa7f9cf4bd8fee59fee"
+    },
+    {
+      "xml_index": 89,
+      "doknr": "BJNR006049896BJNG038300377",
+      "anzeige": "030000760Art 76",
+      "identisch": true,
+      "zeichen": 86,
+      "sha256": "f5e7bedd525ec66334c2a47d9b523db7739c32d87e0d97ca4bbd6f380af56a23"
+    },
+    {
+      "xml_index": 90,
+      "doknr": "BJNR006049896BJNG038400377",
+      "anzeige": "030000770Art 77",
+      "identisch": true,
+      "zeichen": 534,
+      "sha256": "8cca47f012c16dea1044d7f87e254a423468c7deccf2e955ab1b93ebde5beb60"
+    },
+    {
+      "xml_index": 91,
+      "doknr": "BJNR006049896BJNG038500377",
+      "anzeige": "030000780Art 78",
+      "identisch": true,
+      "zeichen": 295,
+      "sha256": "d4c2a79dc7e80d6e5a0e7898315dd7f45e6b84908fdc80f81ba8f0756e20f54a"
+    },
+    {
+      "xml_index": 92,
+      "doknr": "BJNR006049896BJNG038600377",
+      "anzeige": "030000790Art 79",
+      "identisch": true,
+      "zeichen": 259,
+      "sha256": "29e439f40f77b0dd7ecf09314c29ca5e9c6b5800ce4138ea9b56eeb71b745b9f"
+    },
+    {
+      "xml_index": 93,
+      "doknr": "BJNR006049896BJNG038700377",
+      "anzeige": "030000800Art 80",
+      "identisch": true,
+      "zeichen": 406,
+      "sha256": "99cd31b4e2f36435da20203c2656f914637103df8e71717b80a2d2c316c41018"
+    },
+    {
+      "xml_index": 94,
+      "doknr": "BJNR006049896BJNG038800377",
+      "anzeige": "030000810Art 81",
+      "identisch": true,
+      "zeichen": 343,
+      "sha256": "7d73da50217d0b5fc051917bc9d5dbf10562377759722cf938657bbcc7f9044a"
+    },
+    {
+      "xml_index": 95,
+      "doknr": "BJNR006049896BJNG038900377",
+      "anzeige": "030000820Art 82",
+      "identisch": true,
+      "zeichen": 135,
+      "sha256": "92f95c77a544fda20cc154e1c8e9453b84fcf3f34d57dd7558f6be667a3c2d4d"
+    },
+    {
+      "xml_index": 96,
+      "doknr": "BJNR006049896BJNG039000377",
+      "anzeige": "030000830Art 83",
+      "identisch": true,
+      "zeichen": 79,
+      "sha256": "c7c900a250ed2f2780ec01e9420168d729756f5e95587af015c1278bcd5058b6"
+    },
+    {
+      "xml_index": 97,
+      "doknr": "BJNR006049896BJNG039100377",
+      "anzeige": "030000840Art 84",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "1e6ca07b392e9ec3299ac35580f2c4c99b8ee21ba5095bbcd08c055b3b84bb15"
+    },
+    {
+      "xml_index": 98,
+      "doknr": "BJNR006049896BJNG039200377",
+      "anzeige": "030000850Art 85",
+      "identisch": true,
+      "zeichen": 225,
+      "sha256": "8d91473fc44a298c36f34e5ec4f27b3d5674a36542bb2cee010bde15fa52dd7f"
+    },
+    {
+      "xml_index": 99,
+      "doknr": "BJNR006049896BJNG039301123",
+      "anzeige": "030000860Art 86",
+      "identisch": true,
+      "zeichen": 791,
+      "sha256": "9433c42e0191da8a650a85c7650a67bc687070be2d8cb3317ccd3fdcf08ea674"
+    },
+    {
+      "xml_index": 100,
+      "doknr": "BJNR006049896BJNG039400377",
+      "anzeige": "030000870Art 87(weggefallen)",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "2acce8c33a2396c889d91c5091a83e309ac89d2ad5d027be1c134213e05ae8ce"
+    },
+    {
+      "xml_index": 101,
+      "doknr": "BJNR006049896BJNG039500377",
+      "anzeige": "030000880Art 88(weggefallen)",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "7eb0faff1be8e83a3e004f9a0d80e0ccd621acfd5f866949ee0681f09306fe26"
+    },
+    {
+      "xml_index": 102,
+      "doknr": "BJNR006049896BJNG039600377",
+      "anzeige": "030000890Art 89",
+      "identisch": true,
+      "zeichen": 216,
+      "sha256": "7a10d0921eeba790ae891fba775ee5330291bbd05fa39805fbd10fba7f56379c"
+    },
+    {
+      "xml_index": 103,
+      "doknr": "BJNR006049896BJNG039700377",
+      "anzeige": "030000900Art 90",
+      "identisch": true,
+      "zeichen": 217,
+      "sha256": "56b1649ef14aab5a74fb3c7f220689036686d8215d669363856801bbc2bedb95"
+    },
+    {
+      "xml_index": 104,
+      "doknr": "BJNR006049896BJNG039800377",
+      "anzeige": "030000910Art 91",
+      "identisch": true,
+      "zeichen": 479,
+      "sha256": "3ef800a1b7485751d50a97f967728f7ff1b9fc535bc2fe9984368e3dc60e4463"
+    },
+    {
+      "xml_index": 105,
+      "doknr": "BJNR006049896BJNG039900377",
+      "anzeige": "030000920Art 92(weggefallen)",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "5b21e5efea5852fd0094a173844b867bb5927cf61c441af55e2db913d07812b5"
+    },
+    {
+      "xml_index": 106,
+      "doknr": "BJNR006049896BJNG040000377",
+      "anzeige": "030000930Art 93",
+      "identisch": true,
+      "zeichen": 145,
+      "sha256": "fa11382e14b28ca5be0a003462de75baca34e44ed90c257d9f185474da7e46c5"
+    },
+    {
+      "xml_index": 107,
+      "doknr": "BJNR006049896BJNG040101140",
+      "anzeige": "030000940Art 94",
+      "identisch": true,
+      "zeichen": 328,
+      "sha256": "0ab24f8170df2a1801a1eacd928c01687d0f160da59ab51598dc0beec11cc813"
+    },
+    {
+      "xml_index": 108,
+      "doknr": "BJNR006049896BJNG040200377",
+      "anzeige": "030000950Art 95(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "f8fc21b92ac1b3727af3a8639a2874ba464f0b2e1eec1ca56cd66df85fc14f6e"
+    },
+    {
+      "xml_index": 109,
+      "doknr": "BJNR006049896BJNG040300377",
+      "anzeige": "030000960Art 96",
+      "identisch": true,
+      "zeichen": 290,
+      "sha256": "fe559d36210666df9e122d56b98ee943f8b6127842bb680138eb4a2eca0cf7d8"
+    },
+    {
+      "xml_index": 110,
+      "doknr": "BJNR006049896BJNG040400377",
+      "anzeige": "030000970Art 97",
+      "identisch": true,
+      "zeichen": 695,
+      "sha256": "fd514e89f716d4d19818c4797aeeaf6121f21c15115619b6c89f4db6fb6a805f"
+    },
+    {
+      "xml_index": 111,
+      "doknr": "BJNR006049896BJNG040500377",
+      "anzeige": "030000980Art 98",
+      "identisch": true,
+      "zeichen": 185,
+      "sha256": "aa93941c0cd3f5cbfda9ff2ec4ae588cbee847ee221d7b8a207330d2187041f1"
+    },
+    {
+      "xml_index": 112,
+      "doknr": "BJNR006049896BJNG040600377",
+      "anzeige": "030000990Art 99",
+      "identisch": true,
+      "zeichen": 216,
+      "sha256": "7bd155983cd372fcea60e1e339dbfaae4a1defa2c30df7ec3fe0d209e5e23fe9"
+    },
+    {
+      "xml_index": 113,
+      "doknr": "BJNR006049896BJNG040700377",
+      "anzeige": "030001000Art 100",
+      "identisch": true,
+      "zeichen": 489,
+      "sha256": "d6c1b5aaa2bf7816f80fd3915f75742d97057c1669a4fe5c9ad86f6582174562"
+    },
+    {
+      "xml_index": 114,
+      "doknr": "BJNR006049896BJNG040800377",
+      "anzeige": "030001010Art 101",
+      "identisch": true,
+      "zeichen": 519,
+      "sha256": "bbd5b43c735c65e9bcd0c020426a2460d38b99f97b11cea2ee377ff518088ebe"
+    },
+    {
+      "xml_index": 115,
+      "doknr": "BJNR006049896BJNG040900377",
+      "anzeige": "030001020Art 102",
+      "identisch": true,
+      "zeichen": 358,
+      "sha256": "e941dd92e08592fe5fb7aa37742afd66888ed7fe83b1c5a16605afac8c118a15"
+    },
+    {
+      "xml_index": 116,
+      "doknr": "BJNR006049896BJNG041000377",
+      "anzeige": "030001030Art 103(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "2ea0ce49a61908280fc8457b35eae31588b59402c330c13066a22ea5cefc466c"
+    },
+    {
+      "xml_index": 117,
+      "doknr": "BJNR006049896BJNG041100377",
+      "anzeige": "030001040Art 104",
+      "identisch": true,
+      "zeichen": 151,
+      "sha256": "1a66f03b7cf5efc17a145ef87d77f1653428d7a4ad9beb80e897c7fc2f700a07"
+    },
+    {
+      "xml_index": 118,
+      "doknr": "BJNR006049896BJNG041200377",
+      "anzeige": "030001050Art 105",
+      "identisch": true,
+      "zeichen": 419,
+      "sha256": "2ae8c14bedafdacdd4d6dfb048dd23536ecaa37ffb1616ee5905aebab6ec6bd1"
+    },
+    {
+      "xml_index": 119,
+      "doknr": "BJNR006049896BJNG041300377",
+      "anzeige": "030001060Art 106",
+      "identisch": true,
+      "zeichen": 321,
+      "sha256": "26859ad18bcc9a0193b347998c23c93ea7b290e0e143ac4d58621465f0f35c8f"
+    },
+    {
+      "xml_index": 120,
+      "doknr": "BJNR006049896BJNG041400377",
+      "anzeige": "030001070Art 107",
+      "identisch": true,
+      "zeichen": 189,
+      "sha256": "eb07425bbe0089d915a8e83e6901e7acc070be5fb9a3e818f8f72057777d5319"
+    },
+    {
+      "xml_index": 121,
+      "doknr": "BJNR006049896BJNG041500377",
+      "anzeige": "030001080Art 108",
+      "identisch": true,
+      "zeichen": 160,
+      "sha256": "3dca7b7dbd197af2ae82e0fcae0995fe0dd048beb92d8645b03e68740bf85cf8"
+    },
+    {
+      "xml_index": 122,
+      "doknr": "BJNR006049896BJNG041600377",
+      "anzeige": "030001090Art 109",
+      "identisch": true,
+      "zeichen": 534,
+      "sha256": "e17db59e06c4b880df86e73725f6b448da49d57f76067427172089c57fbe9c41"
+    },
+    {
+      "xml_index": 123,
+      "doknr": "BJNR006049896BJNG041700377",
+      "anzeige": "030001100Art 110",
+      "identisch": true,
+      "zeichen": 173,
+      "sha256": "6ad4611cce8a906d576666a38f7aa56eef4dd06a595f5fc635ee34599579bc76"
+    },
+    {
+      "xml_index": 124,
+      "doknr": "BJNR006049896BJNG041800377",
+      "anzeige": "030001110Art 111",
+      "identisch": true,
+      "zeichen": 142,
+      "sha256": "51ba35fcc0ec28df4057b8e04da6600b6a70c5e8712731fc476494703a2809cb"
+    },
+    {
+      "xml_index": 125,
+      "doknr": "BJNR006049896BJNG041900377",
+      "anzeige": "030001120Art 112",
+      "identisch": true,
+      "zeichen": 537,
+      "sha256": "0d89cf2fb4ace215ae5d1988bdd27eced1b4547e9f41660a3cd5081f9d7518ed"
+    },
+    {
+      "xml_index": 126,
+      "doknr": "BJNR006049896BJNG042000377",
+      "anzeige": "030001130Art 113",
+      "identisch": true,
+      "zeichen": 559,
+      "sha256": "19342863f5d0304bb4c930253e22d447bb4e86b546cc20b81f6df625630b651f"
+    },
+    {
+      "xml_index": 127,
+      "doknr": "BJNR006049896BJNG042100377",
+      "anzeige": "030001140Art 114",
+      "identisch": true,
+      "zeichen": 387,
+      "sha256": "28dc6bb133b30f1591a77619ea249a98041816237eed13b4598294624ef8eca1"
+    },
+    {
+      "xml_index": 128,
+      "doknr": "BJNR006049896BJNG042200377",
+      "anzeige": "030001150Art 115",
+      "identisch": true,
+      "zeichen": 298,
+      "sha256": "4df1679baef2cc977d1ac419b2b143b460e7feda047eed6dc9436526a726d35f"
+    },
+    {
+      "xml_index": 129,
+      "doknr": "BJNR006049896BJNG042300377",
+      "anzeige": "030001160Art 116",
+      "identisch": true,
+      "zeichen": 258,
+      "sha256": "e010b711f5a33622666cb5b1b61b97f31e3b1224795cedfc7ac4f94379290174"
+    },
+    {
+      "xml_index": 130,
+      "doknr": "BJNR006049896BJNG042400377",
+      "anzeige": "030001170Art 117",
+      "identisch": true,
+      "zeichen": 491,
+      "sha256": "4c00ff7be9e08a8b482dd8ea14b990fbd5cadcb6d23945d844ad6321d677b7eb"
+    },
+    {
+      "xml_index": 131,
+      "doknr": "BJNR006049896BJNG042500377",
+      "anzeige": "030001180Art 118",
+      "identisch": true,
+      "zeichen": 375,
+      "sha256": "0570a1f8e16a45a315c3e9dc4da3418b8719627100c81e30591d8341607268a5"
+    },
+    {
+      "xml_index": 132,
+      "doknr": "BJNR006049896BJNG042601360",
+      "anzeige": "030001190Art 119",
+      "identisch": true,
+      "zeichen": 245,
+      "sha256": "b78efd11febdd0eaa6a305597d8cc34147334b0e0711846c7ce3908291ca4f13"
+    },
+    {
+      "xml_index": 133,
+      "doknr": "BJNR006049896BJNG042700377",
+      "anzeige": "030001200Art 120",
+      "identisch": true,
+      "zeichen": 869,
+      "sha256": "bbd1c14d141c06d8aa7f9b44d6d9a2b7be0cb6d2d32b695e3a1e29347480c9f1"
+    },
+    {
+      "xml_index": 134,
+      "doknr": "BJNR006049896BJNG042800377",
+      "anzeige": "030001210Art 121",
+      "identisch": true,
+      "zeichen": 324,
+      "sha256": "eef88082bda92b1c0b0d5e6bfe7238f01830ea43f273349803f5244bb8153e73"
+    },
+    {
+      "xml_index": 135,
+      "doknr": "BJNR006049896BJNG042900377",
+      "anzeige": "030001220Art 122",
+      "identisch": true,
+      "zeichen": 257,
+      "sha256": "d8dd9816457d02d015280770a7eebc213850d1ee5e5b44698ee6c6a6f074afd4"
+    },
+    {
+      "xml_index": 136,
+      "doknr": "BJNR006049896BJNG043000377",
+      "anzeige": "030001230Art 123",
+      "identisch": true,
+      "zeichen": 165,
+      "sha256": "af1a0069f490e9f5cfc31a5b2c7b7e859297cdd2962c1cbca80ee9a2deab7ede"
+    },
+    {
+      "xml_index": 137,
+      "doknr": "BJNR006049896BJNG043100377",
+      "anzeige": "030001240Art 124",
+      "identisch": true,
+      "zeichen": 327,
+      "sha256": "1c396cfa3c609f44723f0cea27aec4e86bb6d562b6687c15d63eccd5fc9db7d9"
+    },
+    {
+      "xml_index": 138,
+      "doknr": "BJNR006049896BJNG043200377",
+      "anzeige": "030001250Art 125",
+      "identisch": true,
+      "zeichen": 173,
+      "sha256": "8378684c4f5e7786ca08527eaa72cd5fdfa94719199748795a3bc2afa98d7d0b"
+    },
+    {
+      "xml_index": 139,
+      "doknr": "BJNR006049896BJNG043300377",
+      "anzeige": "030001260Art 126",
+      "identisch": true,
+      "zeichen": 219,
+      "sha256": "5cccf6155a62afebc633288a256e4c50bcd53214d9d7a2f106abb2fe3a9822b7"
+    },
+    {
+      "xml_index": 140,
+      "doknr": "BJNR006049896BJNG043400377",
+      "anzeige": "030001270Art 127",
+      "identisch": true,
+      "zeichen": 231,
+      "sha256": "d23974d0eb30b828b1067448e8558fde0d49be6c7ed26f28f54e428446192ef8"
+    },
+    {
+      "xml_index": 141,
+      "doknr": "BJNR006049896BJNG043500377",
+      "anzeige": "030001280Art 128",
+      "identisch": true,
+      "zeichen": 226,
+      "sha256": "118c727f7768b2ddf4960364f7e6e5cba9a6bc0f1c1e77f7b4340823da35dd1c"
+    },
+    {
+      "xml_index": 142,
+      "doknr": "BJNR006049896BJNG043600377",
+      "anzeige": "030001290Art 129",
+      "identisch": true,
+      "zeichen": 202,
+      "sha256": "c7e19643176d834b44fff5fe0b3dfafe8173a09a814260f1adb291735555c4b8"
+    },
+    {
+      "xml_index": 143,
+      "doknr": "BJNR006049896BJNG043700377",
+      "anzeige": "030001300Art 130",
+      "identisch": true,
+      "zeichen": 131,
+      "sha256": "47274a0a1a9ff1b9be5d5e6f4c569c7392d76e2f64aaca31aca24bdad7ac4424"
+    },
+    {
+      "xml_index": 144,
+      "doknr": "BJNR006049896BJNG043800377",
+      "anzeige": "030001310Art 131",
+      "identisch": true,
+      "zeichen": 452,
+      "sha256": "fb86216fa5d5b1496d86302fc65c4e59143ea5151b39508d5f9db78a7e2b3ab6"
+    },
+    {
+      "xml_index": 145,
+      "doknr": "BJNR006049896BJNG043900377",
+      "anzeige": "030001320Art 132",
+      "identisch": true,
+      "zeichen": 95,
+      "sha256": "d34c55769dbf03872139f4ad694b7d7810bfa64d7450270e3b81a3e208fad8e0"
+    },
+    {
+      "xml_index": 146,
+      "doknr": "BJNR006049896BJNG044000377",
+      "anzeige": "030001330Art 133",
+      "identisch": true,
+      "zeichen": 182,
+      "sha256": "a35acdf25f4bdd84fca310e0ec6569cffc38d25bc74730334f2dfbe6bd0f036e"
+    },
+    {
+      "xml_index": 147,
+      "doknr": "BJNR006049896BJNG044100377",
+      "anzeige": "030001340Art 134 bis 136(weggefallen)",
+      "identisch": true,
+      "zeichen": 25,
+      "sha256": "5ff7ae7d8d2cf7509cf21252d1ae08739461354e627b48d716d642c25ef01dae"
+    },
+    {
+      "xml_index": 148,
+      "doknr": "BJNR006049896BJNG044200377",
+      "anzeige": "030001370Art 137",
+      "identisch": true,
+      "zeichen": 447,
+      "sha256": "a2a06dbcb4864950d6ca08039a1feb2b63b206e7f81ab120a7166017c7436f3d"
+    },
+    {
+      "xml_index": 149,
+      "doknr": "BJNR006049896BJNG044300377",
+      "anzeige": "030001380Art 138",
+      "identisch": true,
+      "zeichen": 202,
+      "sha256": "fc75ce257f56e16c0ef08d88052688177764e1650ce1a1c3d3629250a5e31ec7"
+    },
+    {
+      "xml_index": 150,
+      "doknr": "BJNR006049896BJNG044400377",
+      "anzeige": "030001390Art 139",
+      "identisch": true,
+      "zeichen": 245,
+      "sha256": "7d836851262e3d2aa568dd09682936b726428681a5faed8a1c70d7b5171a79ed"
+    },
+    {
+      "xml_index": 151,
+      "doknr": "BJNR006049896BJNG044500377",
+      "anzeige": "030001400Art 140",
+      "identisch": true,
+      "zeichen": 341,
+      "sha256": "b27d3bc077f25a9385a019b719d97017f23750777708325d704da34d9f86b53c"
+    },
+    {
+      "xml_index": 152,
+      "doknr": "BJNR006049896BJNG044600377",
+      "anzeige": "030001410Art 141 und 142(weggefallen)",
+      "identisch": true,
+      "zeichen": 25,
+      "sha256": "e0810c134a5bb03dced2e7da08175653c53c7cf468aa45c076a42125ee26d2eb"
+    },
+    {
+      "xml_index": 153,
+      "doknr": "BJNR006049896BJNG044700377",
+      "anzeige": "030001430Art 143",
+      "identisch": true,
+      "zeichen": 280,
+      "sha256": "d6f00718d82e089d64d7c48ab07a574ce6dd0225a2d6b1da14d5b15f1c82eaee"
+    },
+    {
+      "xml_index": 154,
+      "doknr": "BJNR006049896BJNG044801360",
+      "anzeige": "030001440Art 144",
+      "identisch": true,
+      "zeichen": 189,
+      "sha256": "f78c9211d5ce91758fc386c0b5cf3406f720adf55b28c906bbdbe0f211ceb2f2"
+    },
+    {
+      "xml_index": 155,
+      "doknr": "BJNR006049896BJNG044900377",
+      "anzeige": "030001450Art 145 und 146(weggefallen)",
+      "identisch": true,
+      "zeichen": 25,
+      "sha256": "cef1c64bb20cec4fbd57e5311a91643687898ad688a9e3b43a801ff3a5093c54"
+    },
+    {
+      "xml_index": 156,
+      "doknr": "BJNR006049896BJNG045002140",
+      "anzeige": "030001470Art 147",
+      "identisch": true,
+      "zeichen": 161,
+      "sha256": "2014c89aa7067324efb90079cbfc93fd0be1cb3253e9888823b99bd81f56a6a6"
+    },
+    {
+      "xml_index": 157,
+      "doknr": "BJNR006049896BJNG045101360",
+      "anzeige": "030001480Art 148(weggefallen)",
+      "identisch": true,
+      "zeichen": 19,
+      "sha256": "34e8065fe6a4ee82d5a924658980dbefd47fbd7abf192ea7a4e6c49183d76be2"
+    },
+    {
+      "xml_index": 158,
+      "doknr": "BJNR006049896BJNG045200377",
+      "anzeige": "030001490Art 149 bis 151(weggefallen)",
+      "identisch": true,
+      "zeichen": 25,
+      "sha256": "4036f9712d75c73d2f75f6d08e0a60ff75ce86406763ed5c3c7e78c78eca23e2"
+    },
+    {
+      "xml_index": 159,
+      "doknr": "BJNR006049896BJNG045300377",
+      "anzeige": "030001520Art 152",
+      "identisch": true,
+      "zeichen": 391,
+      "sha256": "c71a421472d4d8aa1daaf8e5881296c5c4f1b4fcd6da787489ccdd2ee4753b28"
+    },
+    {
+      "xml_index": 160,
+      "doknr": "BJNR006049896BJNG000403377",
+      "anzeige": "040Vierter TeilÜbergangsvorschriften",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "d826bb49e4b0a7f9e6516370985da88786ee30a839a9fc03ea3ae3513e33b11f"
+    },
+    {
+      "xml_index": 161,
+      "doknr": "BJNR006049896BJNG045400377",
+      "anzeige": "040001530Art 153 bis 156(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 28,
+      "sha256": "a9784ed4b1ad6a7bdd949110b5d64e2f7c7ad9988b782eaf81f2d559d0e51308"
+    },
+    {
+      "xml_index": 162,
+      "doknr": "BJNR006049896BJNG045500377",
+      "anzeige": "040001570Art 157",
+      "identisch": true,
+      "zeichen": 234,
+      "sha256": "d3e935230feb690ade55a9814361ea8964dc19cd0fccf7fa2548a901b97e585b"
+    },
+    {
+      "xml_index": 163,
+      "doknr": "BJNR006049896BJNG045600377",
+      "anzeige": "040001580Art 158 bis 162(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 28,
+      "sha256": "541fad7820a7a1e43bf7e41f46a78c46af16dcd05a10f744baa4543df394d2e4"
+    },
+    {
+      "xml_index": 164,
+      "doknr": "BJNR006049896BJNG045700377",
+      "anzeige": "040001630Art 163",
+      "identisch": true,
+      "zeichen": 242,
+      "sha256": "f72aa42477b60ae269ded0e78c304f982fe7f1b0fcad8899d43d6f9f8404c4be"
+    },
+    {
+      "xml_index": 165,
+      "doknr": "BJNR006049896BJNG045800377",
+      "anzeige": "040001640Art 164",
+      "identisch": true,
+      "zeichen": 451,
+      "sha256": "41206ad91d16dae5819406dd1a566281d5e4e7644ed21cb61fba8fdf21361551"
+    },
+    {
+      "xml_index": 166,
+      "doknr": "BJNR006049896BJNG045900377",
+      "anzeige": "040001650Art 165",
+      "identisch": true,
+      "zeichen": 308,
+      "sha256": "a92477895f1f9a5f119c725f5e16b0d176a60fc60117fac34c8b7f614d85fcb4"
+    },
+    {
+      "xml_index": 167,
+      "doknr": "BJNR006049896BJNG046000377",
+      "anzeige": "040001660Art 166",
+      "identisch": true,
+      "zeichen": 272,
+      "sha256": "6ecd4f4669b96e2b138c6af719f2ecfd05265218c76f2d641354587cffb2da73"
+    },
+    {
+      "xml_index": 168,
+      "doknr": "BJNR006049896BJNG046100377",
+      "anzeige": "040001670Art 167",
+      "identisch": true,
+      "zeichen": 187,
+      "sha256": "8712a31c077233cbc5f3ef1a323e3d2f6686b44682554286730e916962392df9"
+    },
+    {
+      "xml_index": 169,
+      "doknr": "BJNR006049896BJNG046200377",
+      "anzeige": "040001680Art 168",
+      "identisch": true,
+      "zeichen": 225,
+      "sha256": "3613ebf335e2a728e5c296f3fab4c3e455668be05caf95d4bf9f4bf9969f4850"
+    },
+    {
+      "xml_index": 170,
+      "doknr": "BJNR006049896BJNG046300377",
+      "anzeige": "040001690Art 169",
+      "identisch": true,
+      "zeichen": 669,
+      "sha256": "812295b964d4ac8d103b80ad92ae52f1b14d69a9219871e1dd8b9e39ca36304a"
+    },
+    {
+      "xml_index": 171,
+      "doknr": "BJNR006049896BJNG046400377",
+      "anzeige": "040001700Art 170",
+      "identisch": true,
+      "zeichen": 128,
+      "sha256": "af8bd65fee4eaa8e9a8992e6c84f14762daeac73690161695a8c1a78484dc62e"
+    },
+    {
+      "xml_index": 172,
+      "doknr": "BJNR006049896BJNG046500377",
+      "anzeige": "040001710Art 171",
+      "identisch": true,
+      "zeichen": 317,
+      "sha256": "772a2444734422b980264c29077d006dd289ac9d814917c082d269daba11ac12"
+    },
+    {
+      "xml_index": 173,
+      "doknr": "BJNR006049896BJNG046600377",
+      "anzeige": "040001720Art 172",
+      "identisch": true,
+      "zeichen": 396,
+      "sha256": "a25687739900d3e234186d4e2450e981740fd3c6601807b654b8e2566b4194a7"
+    },
+    {
+      "xml_index": 174,
+      "doknr": "BJNR006049896BJNG046700377",
+      "anzeige": "040001730Art 173",
+      "identisch": true,
+      "zeichen": 172,
+      "sha256": "8763cff312de38cefe38996d82c9f60b9f6e7d3432800867a96de8334ce3c5cc"
+    },
+    {
+      "xml_index": 175,
+      "doknr": "BJNR006049896BJNG046800377",
+      "anzeige": "040001740Art 174",
+      "identisch": true,
+      "zeichen": 705,
+      "sha256": "f4f43782df3337ed0790227f464288226cdf420d651c00c415394a1e0e257d2f"
+    },
+    {
+      "xml_index": 176,
+      "doknr": "BJNR006049896BJNG046900377",
+      "anzeige": "040001750Art 175",
+      "identisch": true,
+      "zeichen": 274,
+      "sha256": "e0bd1457fcd83a71d50d88848be6fa1e404f24a4caf61c8249f7952402b052b0"
+    },
+    {
+      "xml_index": 177,
+      "doknr": "BJNR006049896BJNG047000377",
+      "anzeige": "040001760Art 176",
+      "identisch": true,
+      "zeichen": 228,
+      "sha256": "1af06fc46ef7b46846edf7475c27b4f6a5ea53d600f74f6fd02d8cebacf23fc4"
+    },
+    {
+      "xml_index": 178,
+      "doknr": "BJNR006049896BJNG047100377",
+      "anzeige": "040001770Art 177",
+      "identisch": true,
+      "zeichen": 312,
+      "sha256": "87c6c4de05cc0a0e076f6a45c35be84c9de5e39831d7d3c7fc178498c967093a"
+    },
+    {
+      "xml_index": 179,
+      "doknr": "BJNR006049896BJNG047200377",
+      "anzeige": "040001780Art 178",
+      "identisch": true,
+      "zeichen": 381,
+      "sha256": "656cdbbb52336e8c09625645836d58d424b8eaa291fa8714a024652813f3621a"
+    },
+    {
+      "xml_index": 180,
+      "doknr": "BJNR006049896BJNG047300377",
+      "anzeige": "040001790Art 179",
+      "identisch": true,
+      "zeichen": 212,
+      "sha256": "6f4cc7f6426127e9dd643db18c5d126aa35925a0fa7dcb062fbc6a7dce71f310"
+    },
+    {
+      "xml_index": 181,
+      "doknr": "BJNR006049896BJNG047400377",
+      "anzeige": "040001800Art 180",
+      "identisch": true,
+      "zeichen": 188,
+      "sha256": "6be03ce770e7ee36edaeee2a9b1df33fe15c842ab08bff0f1a55ccc5a324c4aa"
+    },
+    {
+      "xml_index": 182,
+      "doknr": "BJNR006049896BJNG047500377",
+      "anzeige": "040001810Art 181",
+      "identisch": true,
+      "zeichen": 402,
+      "sha256": "07f5cdc9cffd6aa57a3a8a70306e972dcaa4d2a916ef38b2d314f08655cdba79"
+    },
+    {
+      "xml_index": 183,
+      "doknr": "BJNR006049896BJNG047600377",
+      "anzeige": "040001820Art 182",
+      "identisch": true,
+      "zeichen": 186,
+      "sha256": "cccd7746b246fd3ddc4df31d49afd9952465246c839e41025b97f9116f9afa37"
+    },
+    {
+      "xml_index": 184,
+      "doknr": "BJNR006049896BJNG047700377",
+      "anzeige": "040001830Art 183",
+      "identisch": true,
+      "zeichen": 404,
+      "sha256": "b24c1324745cda7a804dc8a0ac194f35bdd2ae8bc691270f45472cb6ce14e8fd"
+    },
+    {
+      "xml_index": 185,
+      "doknr": "BJNR006049896BJNG047800377",
+      "anzeige": "040001840Art 184",
+      "identisch": true,
+      "zeichen": 415,
+      "sha256": "bc02f33360f9be229c9193c0d62fa32984f76ae0e67bf03fbea1d2a89799e50f"
+    },
+    {
+      "xml_index": 186,
+      "doknr": "BJNR006049896BJNG047900377",
+      "anzeige": "040001850Art 185",
+      "identisch": true,
+      "zeichen": 269,
+      "sha256": "970d1ea0dfbc4d05ad6351a0792118c3d050e1dd3132ddf68fe7ca4c9295e2b0"
+    },
+    {
+      "xml_index": 187,
+      "doknr": "BJNR006049896BJNG048000377",
+      "anzeige": "040001860Art 186",
+      "identisch": true,
+      "zeichen": 442,
+      "sha256": "aabd01bbda58b69808d53d2cda141d1c5e628da8c3783bcbaafa957e06c8c827"
+    },
+    {
+      "xml_index": 188,
+      "doknr": "BJNR006049896BJNG048100377",
+      "anzeige": "040001870Art 187",
+      "identisch": true,
+      "zeichen": 686,
+      "sha256": "00444eca481f0256621c126f7a5f4d0a6f9e225c0066178cc57c70d0840df8e2"
+    },
+    {
+      "xml_index": 189,
+      "doknr": "BJNR006049896BJNG048200377",
+      "anzeige": "040001880Art 188",
+      "identisch": true,
+      "zeichen": 602,
+      "sha256": "83dd741da2e25615f3c9b6bb2357aca596733a67f0e47cba3acc7938546a3c83"
+    },
+    {
+      "xml_index": 190,
+      "doknr": "BJNR006049896BJNG048300377",
+      "anzeige": "040001890Art 189",
+      "identisch": true,
+      "zeichen": 980,
+      "sha256": "47bc5770b59c44f13d68f5a51776d0f3db3da93ad364883059b0bf8ced132b64"
+    },
+    {
+      "xml_index": 191,
+      "doknr": "BJNR006049896BJNG048400377",
+      "anzeige": "040001900Art 190",
+      "identisch": true,
+      "zeichen": 241,
+      "sha256": "45db586498f50f12795bc479cdb9da9a5f508cb66da2ece0c58701eab2355cf2"
+    },
+    {
+      "xml_index": 192,
+      "doknr": "BJNR006049896BJNG048500377",
+      "anzeige": "040001910Art 191",
+      "identisch": true,
+      "zeichen": 846,
+      "sha256": "fd8b098ac4ec43e17802e67c0c9e29d8d99141bb0b05ca9b1523f58b26882ddd"
+    },
+    {
+      "xml_index": 193,
+      "doknr": "BJNR006049896BJNG048600377",
+      "anzeige": "040001920Art 192",
+      "identisch": true,
+      "zeichen": 456,
+      "sha256": "a7641ce0344565ea4600a20169f5a22814b9615fbef170f4adb744c1b58a45cd"
+    },
+    {
+      "xml_index": 194,
+      "doknr": "BJNR006049896BJNG048700377",
+      "anzeige": "040001930Art 193",
+      "identisch": true,
+      "zeichen": 296,
+      "sha256": "316f8935f2a86aee84bff949cd70928a77b8f48a246290b9e53cacb7567c0ed1"
+    },
+    {
+      "xml_index": 195,
+      "doknr": "BJNR006049896BJNG048800377",
+      "anzeige": "040001940Art 194",
+      "identisch": true,
+      "zeichen": 351,
+      "sha256": "2a4383cc027d54da4049b77f3907ea202425a4eaa99c5693387710ce943e3011"
+    },
+    {
+      "xml_index": 196,
+      "doknr": "BJNR006049896BJNG048900377",
+      "anzeige": "040001950Art 195",
+      "identisch": true,
+      "zeichen": 559,
+      "sha256": "054a64a01681c8440f2ddbaf7e58da45124eaa0458a7ad90b658d9b603c4e2b3"
+    },
+    {
+      "xml_index": 197,
+      "doknr": "BJNR006049896BJNG049000377",
+      "anzeige": "040001960Art 196",
+      "identisch": true,
+      "zeichen": 304,
+      "sha256": "10f5a6efac1c52fd77d1e6f165b8394b08b5c234d65c557fb391bbde51558815"
+    },
+    {
+      "xml_index": 198,
+      "doknr": "BJNR006049896BJNG049100377",
+      "anzeige": "040001970Art 197",
+      "identisch": true,
+      "zeichen": 344,
+      "sha256": "66a0dadcde5c90a00251923afad8178f1dfecc35cf86f35646d65ff589517688"
+    },
+    {
+      "xml_index": 199,
+      "doknr": "BJNR006049896BJNG049200377",
+      "anzeige": "040001980Art 198",
+      "identisch": true,
+      "zeichen": 759,
+      "sha256": "147dbb75e550d3829a8727707a4626336b2d7d9e53a8807add739f44cac6a608"
+    },
+    {
+      "xml_index": 200,
+      "doknr": "BJNR006049896BJNG049300377",
+      "anzeige": "040001990Art 199",
+      "identisch": true,
+      "zeichen": 217,
+      "sha256": "bf44a20cac9c31ab8f3542b6c5e477ef7ec024f6afb5bd5b7db3fd4cd25a0fca"
+    },
+    {
+      "xml_index": 201,
+      "doknr": "BJNR006049896BJNG049400377",
+      "anzeige": "040002000Art 200",
+      "identisch": true,
+      "zeichen": 539,
+      "sha256": "5be7ee215c4555d1584109e73d73ceb2b4424b1f4753a090d087e6a746733327"
+    },
+    {
+      "xml_index": 202,
+      "doknr": "BJNR006049896BJNG049500377",
+      "anzeige": "040002010Art 201",
+      "identisch": true,
+      "zeichen": 154,
+      "sha256": "7635f013a9418814b505a9bf3157c8f88a578e3b5fb69a7957170b3c70618450"
+    },
+    {
+      "xml_index": 203,
+      "doknr": "BJNR006049896BJNG049600377",
+      "anzeige": "040002020Art 202",
+      "identisch": true,
+      "zeichen": 352,
+      "sha256": "1e00e0dfd0b98a5a6dc07f2f0afd3b3090c0f536d1c4cbdef886222c4fcbaf19"
+    },
+    {
+      "xml_index": 204,
+      "doknr": "BJNR006049896BJNG049700377",
+      "anzeige": "040002030Art 203",
+      "identisch": true,
+      "zeichen": 199,
+      "sha256": "4de9d66fe7d8f74550a37a42c6bf0cd46ad55d586c5e069e01b1518c5a1ae494"
+    },
+    {
+      "xml_index": 205,
+      "doknr": "BJNR006049896BJNG049800377",
+      "anzeige": "040002040Art 204 bis 206(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 28,
+      "sha256": "622d4e3b97c3f5e988a843cfeca6b6553e955173e75443550592231ba403e3f8"
+    },
+    {
+      "xml_index": 206,
+      "doknr": "BJNR006049896BJNG049900377",
+      "anzeige": "040002070Art 207",
+      "identisch": true,
+      "zeichen": 258,
+      "sha256": "a55cd8ec3f303cef98beb0a38503fa4bb968ed3f71898f7229e5b77db86efdff"
+    },
+    {
+      "xml_index": 207,
+      "doknr": "BJNR006049896BJNG050000377",
+      "anzeige": "040002080Art 208",
+      "identisch": true,
+      "zeichen": 792,
+      "sha256": "84b3da1c7ff82d0b498785bfb38a6ad006a8ad347fe57fe44333a4d60c2711c9"
+    },
+    {
+      "xml_index": 208,
+      "doknr": "BJNR006049896BJNG050100377",
+      "anzeige": "040002090Art 209",
+      "identisch": true,
+      "zeichen": 265,
+      "sha256": "1fd50e8afc41bc5bdb498d6259bfeb8a9a6e787594398e9ccfda48cf4cec7aa8"
+    },
+    {
+      "xml_index": 209,
+      "doknr": "BJNR006049896BJNG050200377",
+      "anzeige": "040002100Art 210",
+      "identisch": true,
+      "zeichen": 813,
+      "sha256": "e72d14b4a4002232da2abd4d6c872ffc50beac5cf28a408cb473171cac7b3d99"
+    },
+    {
+      "xml_index": 210,
+      "doknr": "BJNR006049896BJNG050300377",
+      "anzeige": "040002110Art 211(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "4ceb66d2c1538197da485fa9856d4a427e96dcda89e1bbc8b37d1ca106fe519c"
+    },
+    {
+      "xml_index": 211,
+      "doknr": "BJNR006049896BJNG050400377",
+      "anzeige": "040002120Art 212",
+      "identisch": true,
+      "zeichen": 130,
+      "sha256": "e631457b2be9fbd7d331e26f9b687efa88a84bd3c71806aa1076d6fe63c5f482"
+    },
+    {
+      "xml_index": 212,
+      "doknr": "BJNR006049896BJNG050500377",
+      "anzeige": "040002130Art 213",
+      "identisch": true,
+      "zeichen": 235,
+      "sha256": "d9a29a07e1305de4512851efc9b1dd678cf209002424f1331d6a4196398c83bd"
+    },
+    {
+      "xml_index": 213,
+      "doknr": "BJNR006049896BJNG050600377",
+      "anzeige": "040002140Art 214",
+      "identisch": true,
+      "zeichen": 424,
+      "sha256": "6bf1474b02279a43d202960c915253c3ad6d4caaddc61dbb1079c1a17fa8addd"
+    },
+    {
+      "xml_index": 214,
+      "doknr": "BJNR006049896BJNG050700377",
+      "anzeige": "040002150Art 215",
+      "identisch": true,
+      "zeichen": 437,
+      "sha256": "8a4c18cdccc67caa757c6f291a60f44db47b9e0541e95008f21a8f0b61b80384"
+    },
+    {
+      "xml_index": 215,
+      "doknr": "BJNR006049896BJNG050800377",
+      "anzeige": "040002160Art 216(gegenstandslos)",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "29d1520c78d566b5e9d7e3c8ea600f55be6be317b90fea4aceecc35876335df5"
+    },
+    {
+      "xml_index": 216,
+      "doknr": "BJNR006049896BJNG050900377",
+      "anzeige": "040002170Art 217",
+      "identisch": true,
+      "zeichen": 317,
+      "sha256": "6089c7334b972dbd5d6326128c5602c1bb701f4bfa62451a799bfa763b2a306e"
+    },
+    {
+      "xml_index": 217,
+      "doknr": "BJNR006049896BJNG051000377",
+      "anzeige": "040002180Art 218",
+      "identisch": true,
+      "zeichen": 181,
+      "sha256": "9ec6bf616e1e401d84ae97fbf9116edc18c800d2a89b2d03508d4b3a4609d94f"
+    },
+    {
+      "xml_index": 218,
+      "doknr": "BJNR006049896BJNG022702377",
+      "anzeige": "050Fünfter TeilÜbergangsvorschriften aus Anlaß jüngerer Änderungen des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes",
+      "identisch": true,
+      "zeichen": 112,
+      "sha256": "8e08ccbe6392d7b893ea3b022011e3f2e1d52f44077bc4fd4a11c03243292073"
+    },
+    {
+      "xml_index": 219,
+      "doknr": "BJNR006049896BJNG051100377",
+      "anzeige": "050002190Art 219Übergangsvorschrift zum Gesetz vom\n8. November 1985 zur Neuordnung des landwirtschaftlichen Pachtrechts",
+      "identisch": true,
+      "zeichen": 1040,
+      "sha256": "c4501c9539ea076566b549201d24ca21a02010ef564bd4803f33ce3c1433c710"
+    },
+    {
+      "xml_index": 220,
+      "doknr": "BJNR006049896BJNG051201360",
+      "anzeige": "050002200Art 220Übergangsvorschrift zum Gesetz vom 25. Juli 1986 zur Neuregelung des Internationalen Privatrechts",
+      "identisch": true,
+      "zeichen": 1555,
+      "sha256": "4c5c7e66b53ccb1d906f76a3500b63c500bda6d5cda92930bdf048b076a3beb5"
+    },
+    {
+      "xml_index": 221,
+      "doknr": "BJNR006049896BJNG051300377",
+      "anzeige": "050002210Art 221Übergangsvorschrift zum Gesetz vom 26. Juni 1990\nzur Änderung des Arbeitsgerichtsgesetzes und anderer arbeitsrechtlicher\nVorschriften",
+      "identisch": true,
+      "zeichen": 495,
+      "sha256": "536251d8783ff834093ddc288ea03461bd5d1ae71638ccae8180d14ba5b82ff6"
+    },
+    {
+      "xml_index": 222,
+      "doknr": "BJNR006049896BJNG051400377",
+      "anzeige": "050002220Art 222Übergangsvorschrift zum Kündigungsfristengesetz\nvom 7. Oktober 1993",
+      "identisch": true,
+      "zeichen": 1130,
+      "sha256": "6189db61042dcc99e703a3df647bc087dd57f6b53f8e50489ea835fa4e4c7bd1"
+    },
+    {
+      "xml_index": 223,
+      "doknr": "BJNR006049896BJNG051500377",
+      "anzeige": "050002230Art 223Übergangsvorschrift zum Beistandschaftsgesetz\nvom 4. Dezember 1997",
+      "identisch": true,
+      "zeichen": 1107,
+      "sha256": "ba921fb0a6d51a8f644a0b06a028e67edefcc8215725053280d0f9a6807b3bbe"
+    },
+    {
+      "xml_index": 224,
+      "doknr": "BJNR006049896BJNG051600377",
+      "anzeige": "050002231Art 223aÜbergangsvorschrift aus Anlaß der Aufhebung von\n§ 419 des Bürgerlichen Gesetzbuchs",
+      "identisch": true,
+      "zeichen": 236,
+      "sha256": "541287bbd72f7204439380172f020dfd54c30042a830b19e29e52ed20b3cff41"
+    },
+    {
+      "xml_index": 225,
+      "doknr": "BJNR006049896BJNG028401377",
+      "anzeige": "050002240Art 224Übergangsvorschrift zum Kindschaftsrechtsreformgesetz vom 16. Dezember 1997",
+      "identisch": true,
+      "zeichen": 75,
+      "sha256": "10567f0a0c6aa8d80b24a35ad4bcc3690d886ec9a53d9e487133ffdaec252b60"
+    },
+    {
+      "xml_index": 226,
+      "doknr": "BJNR006049896BJNE030901377",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 1200,
+      "sha256": "ad4639d57159252baf24ab2ba1cc4a3221aff585230f7224998ac0fe06d3521b"
+    },
+    {
+      "xml_index": 227,
+      "doknr": "BJNR006049896BJNE031003377",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 545,
+      "sha256": "a8a6bd9401423b29683bffb0c015df6f4a28458c1df4adc9ffc9431f557f9161"
+    },
+    {
+      "xml_index": 228,
+      "doknr": "BJNR006049896BJNE031101377",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 1821,
+      "sha256": "8486ada25290f0b402629f67d1444584035dd47d53c1f2bcdb6317a87d905479"
+    },
+    {
+      "xml_index": 229,
+      "doknr": "BJNR006049896BJNG051700377",
+      "anzeige": "050002250Art 225Überleitungsvorschrift zum\nWohnraummodernisierungssicherungsgesetz",
+      "identisch": true,
+      "zeichen": 458,
+      "sha256": "1f4c78dbfd805159bfcb5674530da8d7335ffeeb93f2a5327ae727d6fc776c71"
+    },
+    {
+      "xml_index": 230,
+      "doknr": "BJNR006049896BJNG051800377",
+      "anzeige": "050002260Art 226Überleitungsvorschrift zum Gesetz vom 4. Mai 1998\nzur Neuordnung des Eheschließungsrechts",
+      "identisch": true,
+      "zeichen": 558,
+      "sha256": "60f8b2a30b58dd89f1f6a20872687185e609eeec248712160e3fb883c14ede26"
+    },
+    {
+      "xml_index": 231,
+      "doknr": "BJNR006049896BJNG051900377",
+      "anzeige": "050002270Art 227Übergangsvorschrift zum Gesetz zur\nerbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997",
+      "identisch": true,
+      "zeichen": 614,
+      "sha256": "b104a4fe1e76bb0e94b4d251b0901e9f934c5e34410e2c68c27f32a02ded7350"
+    },
+    {
+      "xml_index": 232,
+      "doknr": "BJNR006049896BJNG052000377",
+      "anzeige": "050002280Art 228Übergangsvorschrift zum\nÜberweisungsgesetz",
+      "identisch": true,
+      "zeichen": 843,
+      "sha256": "f60797c42612e112414d0e894c8844f77ce48f17d1a8e2e40f062fdf7f6b6e40"
+    },
+    {
+      "xml_index": 233,
+      "doknr": "BJNR006049896BJNG030801377",
+      "anzeige": "050002290Art 229Weitere Überleitungsvorschriften",
+      "identisch": true,
+      "zeichen": 50,
+      "sha256": "af59ba86a5a88e1cf9ad26c4ba358bac3c1725307f74339eadd0f27a01304f21"
+    },
+    {
+      "xml_index": 234,
+      "doknr": "BJNR006049896BJNE031301377",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 829,
+      "sha256": "5aceea04e0bdce2e4ef0650a0cf69af42eb4443aded5fbe38de8bb0b5558d4ad"
+    },
+    {
+      "xml_index": 235,
+      "doknr": "BJNR006049896BJNE031203377",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 178,
+      "sha256": "b927eb1029883360ae1d644dd0c6ad2046c75cbe649d61da51969d4762776dc6"
+    },
+    {
+      "xml_index": 236,
+      "doknr": "BJNR006049896BJNE031503377",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 5543,
+      "sha256": "a479093c46c14d14306e1901434814159fceedf443de1c797b93186956edde71"
+    },
+    {
+      "xml_index": 237,
+      "doknr": "BJNR006049896BJNE031601377",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 669,
+      "sha256": "ae4d660f7d1fe190a00d18ff62d590fd4522c47ff290e923d5edceb87276ff75"
+    },
+    {
+      "xml_index": 238,
+      "doknr": "BJNR006049896BJNE230201377",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 937,
+      "sha256": "260c41ded5838294b4a5059ba23ac7613b60290d823d8c16c5d1e6aefcdc1491"
+    },
+    {
+      "xml_index": 239,
+      "doknr": "BJNR006049896BJNE230301377",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 2290,
+      "sha256": "4944c7a0e406e2ad66c03c7cee5e84484aa0963a3b76131765b961ea14b1d3c0"
+    },
+    {
+      "xml_index": 240,
+      "doknr": "BJNR006049896BJNE230401377",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 3716,
+      "sha256": "a7958d746fbe36bdf169d1cba162252f28e7bae08c8f4f52b50d86e21ea06cb4"
+    },
+    {
+      "xml_index": 241,
+      "doknr": "BJNR006049896BJNE230801377",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 1608,
+      "sha256": "8c7ba3a0540a6d1d236a1521a33bab2c740e910e7a3e4478051163ab031910f0"
+    },
+    {
+      "xml_index": 242,
+      "doknr": "BJNR006049896BJNE230901377",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 835,
+      "sha256": "74205230ab9a0a693da7dd1eebf0aef03fb772185c3707fe3d3001d9655b9222"
+    },
+    {
+      "xml_index": 243,
+      "doknr": "BJNR006049896BJNE023102377",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 417,
+      "sha256": "07e6b75403d58f2bf07c4e8e6f23458c800c53a76d8b1fed7fbadb5398a8b71b"
+    },
+    {
+      "xml_index": 244,
+      "doknr": "BJNR006049896BJNE231001377",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 765,
+      "sha256": "c28d791a82dff0f37927276f1180eb0118f4f32bc22c1be5ba62a33ef2285a4b"
+    },
+    {
+      "xml_index": 245,
+      "doknr": "BJNR006049896BJNE231101377",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 1894,
+      "sha256": "888b88d279dc429a62b9614096582a720eb4bd005f8b1c3dbe2ea079626cb980"
+    },
+    {
+      "xml_index": 246,
+      "doknr": "BJNR006049896BJNE231201377",
+      "anzeige": "§ 13",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "9ed8585b7db241faba06acaade276b21ed4146106c37e7859a2adac4876b96a8"
+    },
+    {
+      "xml_index": 247,
+      "doknr": "BJNR006049896BJNE231301377",
+      "anzeige": "§ 14",
+      "identisch": true,
+      "zeichen": 327,
+      "sha256": "8bfdaac70fdd36617e3957936bd8bd5399bfa84abcd7ed3ac4a78e2de4d04303"
+    },
+    {
+      "xml_index": 248,
+      "doknr": "BJNR006049896BJNE232000377",
+      "anzeige": "§ 15",
+      "identisch": true,
+      "zeichen": 355,
+      "sha256": "55fd706c3f8b6205a3bfe0d532cf0cea443c008edf1fb33bb3d95b33a18b168d"
+    },
+    {
+      "xml_index": 249,
+      "doknr": "BJNR006049896BJNE237001123",
+      "anzeige": "§ 16",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "d4c974cd76c69fed44af752f16ee20da2002a5bb56468f9b11227570cdabb0e6"
+    },
+    {
+      "xml_index": 250,
+      "doknr": "BJNR006049896BJNE237100140",
+      "anzeige": "§ 17",
+      "identisch": true,
+      "zeichen": 464,
+      "sha256": "f8b0e76960904f856ca2aa6d3378013f49c357b7956c3d38bb951869ed1d6f89"
+    },
+    {
+      "xml_index": 251,
+      "doknr": "BJNR006049896BJNE237200140",
+      "anzeige": "§ 18",
+      "identisch": true,
+      "zeichen": 653,
+      "sha256": "6f1f1810b3385a6b43a4d05ed6cdf02d52a507e35d2cb094a66fab568266160a"
+    },
+    {
+      "xml_index": 252,
+      "doknr": "BJNR006049896BJNE237300140",
+      "anzeige": "§ 19",
+      "identisch": true,
+      "zeichen": 389,
+      "sha256": "e2ec058f98eb7b4f0daeb2ad00f27fb3c13d30e88f502385d189828179e1c2c1"
+    },
+    {
+      "xml_index": 253,
+      "doknr": "BJNR006049896BJNE232101160",
+      "anzeige": "§ 20",
+      "identisch": true,
+      "zeichen": 788,
+      "sha256": "e2a2f3fc6234aa7c68dfaf2bce8b324e89d474bc1c5e8a65838d532b330f87f4"
+    },
+    {
+      "xml_index": 254,
+      "doknr": "BJNR006049896BJNE236701360",
+      "anzeige": "§ 21",
+      "identisch": true,
+      "zeichen": 2625,
+      "sha256": "775833f566b213be9c6ba39e1dfaf0f72808f5b608c36c0ac4ef48729f7cb983"
+    },
+    {
+      "xml_index": 255,
+      "doknr": "BJNR006049896BJNE232201140",
+      "anzeige": "§ 22",
+      "identisch": true,
+      "zeichen": 1063,
+      "sha256": "9defcda48b646c5a7a8d355bbae03310d36398022d9d7c2dd3832d7fef453ded"
+    },
+    {
+      "xml_index": 256,
+      "doknr": "BJNR006049896BJNE236800140",
+      "anzeige": "§ 23",
+      "identisch": true,
+      "zeichen": 1478,
+      "sha256": "994e5e2660d56ad6655112eaaf8ab9124050f16f7625837c1e69db30a8c1f5e0"
+    },
+    {
+      "xml_index": 257,
+      "doknr": "BJNR006049896BJNE236900140",
+      "anzeige": "§ 24",
+      "identisch": true,
+      "zeichen": 375,
+      "sha256": "5621379b9fdef9c8eec70499193177c61ec837a64839ff363a8f240da47821e0"
+    },
+    {
+      "xml_index": 258,
+      "doknr": "BJNR006049896BJNE237500140",
+      "anzeige": "§ 25",
+      "identisch": true,
+      "zeichen": 690,
+      "sha256": "73a7ddff38303e0bbcb349708a76b5887001ca89b83781d6489c34819f1b037e"
+    },
+    {
+      "xml_index": 259,
+      "doknr": "BJNR006049896BJNE237501140",
+      "anzeige": "§ 26",
+      "identisch": true,
+      "zeichen": 337,
+      "sha256": "4fc08c22c2f8f3e80f0d7fc3fdb6e17544e8f46ee3e07385d28a78ad3da39316"
+    },
+    {
+      "xml_index": 260,
+      "doknr": "BJNR006049896BJNE237800140",
+      "anzeige": "§ 27",
+      "identisch": true,
+      "zeichen": 580,
+      "sha256": "4e7a60d2b56325e1150ef438f07814180ea262847d14d42974e683a2fd229996"
+    },
+    {
+      "xml_index": 261,
+      "doknr": "BJNR006049896BJNE237900377",
+      "anzeige": "§ 28",
+      "identisch": true,
+      "zeichen": 552,
+      "sha256": "7f15c9a7278c757e0c5958c593734c8ce8b4b5e8615b0bda46c4fd0f0878cbdd"
+    },
+    {
+      "xml_index": 262,
+      "doknr": "BJNR006049896BJNE238000377",
+      "anzeige": "§ 29",
+      "identisch": true,
+      "zeichen": 666,
+      "sha256": "b74d0ad76693f9120b2cf02c2391dcc109066b68b4377c491dac852a2ccb5da2"
+    },
+    {
+      "xml_index": 263,
+      "doknr": "BJNR006049896BJNE238100377",
+      "anzeige": "§ 30",
+      "identisch": true,
+      "zeichen": 329,
+      "sha256": "65d02839b72f4970120eda681f06a1b84d212897774d8058cc9ebb5bd375b46f"
+    },
+    {
+      "xml_index": 264,
+      "doknr": "BJNR006049896BJNE238200360",
+      "anzeige": "§ 31",
+      "identisch": true,
+      "zeichen": 328,
+      "sha256": "aa14ce4501869d21aeec7b3f6f3f6614fa2bcd2576860c110bc5b05a435299f3"
+    },
+    {
+      "xml_index": 265,
+      "doknr": "BJNR006049896BJNE238300360",
+      "anzeige": "§ 32",
+      "identisch": true,
+      "zeichen": 2349,
+      "sha256": "f03017da0d060e12d43bbfb5b054fc0aa48e0e5c7a3f1f661ab1846fb6af24ff"
+    },
+    {
+      "xml_index": 266,
+      "doknr": "BJNR006049896BJNE238302360",
+      "anzeige": "§ 33",
+      "identisch": true,
+      "zeichen": 212,
+      "sha256": "4d9059b1ea57ba457a6878099b0eb9f36e0f24ec696f5432d8724f93bfc5e791"
+    },
+    {
+      "xml_index": 267,
+      "doknr": "BJNR006049896BJNE239100144",
+      "anzeige": "§ 34",
+      "identisch": true,
+      "zeichen": 418,
+      "sha256": "e718677337061071658851fb2a29fa50179f30b97d548509c006e053e2ea47f8"
+    },
+    {
+      "xml_index": 268,
+      "doknr": "BJNR006049896BJNE239200360",
+      "anzeige": "§ 35",
+      "identisch": true,
+      "zeichen": 647,
+      "sha256": "ae373616889c3ac9cba7757abbba330cc22174d37274390f6bba857a21726521"
+    },
+    {
+      "xml_index": 269,
+      "doknr": "BJNR006049896BJNE239300360",
+      "anzeige": "§ 36",
+      "identisch": true,
+      "zeichen": 431,
+      "sha256": "89ada872842a91915288ac9b8f0492c0c0d163fd94f8e1e1df969684e1dae60a"
+    },
+    {
+      "xml_index": 270,
+      "doknr": "BJNR006049896BJNE239400123",
+      "anzeige": "§ 37",
+      "identisch": true,
+      "zeichen": 301,
+      "sha256": "32d1a02846e58f23fa942db0a489c78dd386a05beb644810064890ba285715d3"
+    },
+    {
+      "xml_index": 271,
+      "doknr": "BJNR006049896BJNE239500123",
+      "anzeige": "§ 38",
+      "identisch": true,
+      "zeichen": 1896,
+      "sha256": "77a55970934e988e0fae0de1b503e46e83c4467bbe3a100179bb83fa08eac4af"
+    },
+    {
+      "xml_index": 272,
+      "doknr": "BJNR006049896BJNE240300123",
+      "anzeige": "§ 39",
+      "identisch": true,
+      "zeichen": 442,
+      "sha256": "0968f9fc0bffbec7796debe2016e7f004b29b25d01b4fa18eab100ca168ead2f"
+    },
+    {
+      "xml_index": 273,
+      "doknr": "BJNR006049896BJNE240800123",
+      "anzeige": "§ 40",
+      "identisch": true,
+      "zeichen": 624,
+      "sha256": "90a9acc084b9f5dac393b9d9fcdfe840e95031672c605e0e130a2a44732dd57d"
+    },
+    {
+      "xml_index": 274,
+      "doknr": "BJNR006049896BJNE240900123",
+      "anzeige": "§ 41",
+      "identisch": true,
+      "zeichen": 365,
+      "sha256": "60d1f165be4d4ddf7998771f0ca577bd567e2b3721d983ddf791692bcaa61d8b"
+    },
+    {
+      "xml_index": 275,
+      "doknr": "BJNR006049896BJNE242400123",
+      "anzeige": "§ 42",
+      "identisch": true,
+      "zeichen": 363,
+      "sha256": "2a90b8c3b05ffc4c38bb6ae262bcd45d69fe768a666d037f13b16274c2975148"
+    },
+    {
+      "xml_index": 276,
+      "doknr": "BJNR006049896BJNE241000123",
+      "anzeige": "§ 43",
+      "identisch": true,
+      "zeichen": 475,
+      "sha256": "d06dddbfe3debc3ca14e7a4a87e306f0a02116cfa161cab3013ff139bab659d2"
+    },
+    {
+      "xml_index": 277,
+      "doknr": "BJNR006049896BJNE242000123",
+      "anzeige": "§ 44",
+      "identisch": true,
+      "zeichen": 1227,
+      "sha256": "29b1f9b66bad7d2573358751f607b4e9e7c72eefe0ebce7237747fc5955b63cb"
+    },
+    {
+      "xml_index": 278,
+      "doknr": "BJNR006049896BJNE242100123",
+      "anzeige": "§ 45",
+      "identisch": true,
+      "zeichen": 1065,
+      "sha256": "2d69f8e67e2be3ae2ee4880c43437812b4b9e1d5b7aa9124badbd15c4653c35c"
+    },
+    {
+      "xml_index": 279,
+      "doknr": "BJNR006049896BJNE244800123",
+      "anzeige": "§ 46",
+      "identisch": true,
+      "zeichen": 367,
+      "sha256": "3bcf2c5ef7fa3eafed4c890f8338a5e24218c0a5b3b10ea05bce301c4773b03d"
+    },
+    {
+      "xml_index": 280,
+      "doknr": "BJNR006049896BJNE244900360",
+      "anzeige": "§ 47",
+      "identisch": true,
+      "zeichen": 1203,
+      "sha256": "fcb3f7addde07c00bbbc152b7ea215a728b29553c5173ed2e9320ef5720fb97f"
+    },
+    {
+      "xml_index": 281,
+      "doknr": "BJNR006049896BJNE245000360",
+      "anzeige": "§ 48",
+      "identisch": true,
+      "zeichen": 414,
+      "sha256": "67daeced072b280391913f213174268c855db4ab5db8f9b463797d79bbac1d8b"
+    },
+    {
+      "xml_index": 282,
+      "doknr": "BJNR006049896BJNE245100360",
+      "anzeige": "§ 49",
+      "identisch": true,
+      "zeichen": 1407,
+      "sha256": "d870b89e7aba34084cb387b5b4589b4c10a39c8caa81623e73bbc2feca46b498"
+    },
+    {
+      "xml_index": 283,
+      "doknr": "BJNR006049896BJNE245200360",
+      "anzeige": "§ 50",
+      "identisch": true,
+      "zeichen": 1055,
+      "sha256": "bafa0a3b7dda52044c89f52611679b7cdaf33b5c922739c7fcfa33c876d603c2"
+    },
+    {
+      "xml_index": 284,
+      "doknr": "BJNR006049896BJNE245300360",
+      "anzeige": "§ 51",
+      "identisch": true,
+      "zeichen": 259,
+      "sha256": "0437dc521e9ee8e3bec0947239f8ec05974ab2f1a95df0a04d5daf0017a2d99b"
+    },
+    {
+      "xml_index": 285,
+      "doknr": "BJNR006049896BJNE245800360",
+      "anzeige": "§ 52",
+      "identisch": true,
+      "zeichen": 261,
+      "sha256": "23e4850d1588ff261c86aeeae4be32d532a33bb83d9fca456b3d9f80f807594c"
+    },
+    {
+      "xml_index": 286,
+      "doknr": "BJNR006049896BJNE246000360",
+      "anzeige": "§ 53",
+      "identisch": true,
+      "zeichen": 280,
+      "sha256": "fcdd0c29d0c6214143f15bb7be26e46962656ef61f2eeb60874638b7df0b6af6"
+    },
+    {
+      "xml_index": 287,
+      "doknr": "BJNR006049896BJNE246301360",
+      "anzeige": "§ 54",
+      "identisch": true,
+      "zeichen": 1104,
+      "sha256": "624622a03ac94550bdddb999efd7012cb38caf58ad0f99a66b78b61412b9829b"
+    },
+    {
+      "xml_index": 288,
+      "doknr": "BJNR006049896BJNE246400125",
+      "anzeige": "§ 55",
+      "identisch": true,
+      "zeichen": 369,
+      "sha256": "d30720278aff4616785000a364b6ea184714b88673c6c7947e6f699e1522b3f8"
+    },
+    {
+      "xml_index": 289,
+      "doknr": "BJNR006049896BJNE246700360",
+      "anzeige": "§ 56",
+      "identisch": true,
+      "zeichen": 1379,
+      "sha256": "1d60485377c7cd125dc36eba0a6aa9055747e81d169452fdbb1cd3b171aba684"
+    },
+    {
+      "xml_index": 290,
+      "doknr": "BJNR006049896BJNE246800360",
+      "anzeige": "§ 57",
+      "identisch": true,
+      "zeichen": 1069,
+      "sha256": "d4a4bd9ed7dd4e9bb1cd307c78d08fa039acab777f78bbcbabdd2d1ede9d8314"
+    },
+    {
+      "xml_index": 291,
+      "doknr": "BJNR006049896BJNE246900360",
+      "anzeige": "§ 58",
+      "identisch": true,
+      "zeichen": 309,
+      "sha256": "a22193e234347634304e4a2a26814d53a49ccb4ede3100c453c7b1ca1da480c9"
+    },
+    {
+      "xml_index": 292,
+      "doknr": "BJNR006049896BJNE247000360",
+      "anzeige": "§ 59",
+      "identisch": true,
+      "zeichen": 334,
+      "sha256": "0dd29471328a08bde77fa7e5373cbd43e3350d3fad0af6d5eaf11208159a0612"
+    },
+    {
+      "xml_index": 293,
+      "doknr": "BJNR006049896BJNE247502360",
+      "anzeige": "§ 60",
+      "identisch": true,
+      "zeichen": 518,
+      "sha256": "ebc5d01ca0e18dc61e62bf22dcad6443e7b1dd0377500ae0c72335f0d4ce3399"
+    },
+    {
+      "xml_index": 294,
+      "doknr": "BJNR006049896BJNE247600360",
+      "anzeige": "§ 61",
+      "identisch": true,
+      "zeichen": 526,
+      "sha256": "626ee081142cb6c04e569e694e4fc211923acebe1d4cdc666581a0f691c3154f"
+    },
+    {
+      "xml_index": 295,
+      "doknr": "BJNR006049896BJNE247700360",
+      "anzeige": "§ 62",
+      "identisch": true,
+      "zeichen": 441,
+      "sha256": "bdfbb09584e108d4b4c86a7472bd56adade56ae5a22fa08bdd13e7324fc981ed"
+    },
+    {
+      "xml_index": 296,
+      "doknr": "BJNR006049896BJNE248200116",
+      "anzeige": "§ 63",
+      "identisch": true,
+      "zeichen": 384,
+      "sha256": "853b0463d38757105894e4c084f6639b59360e61e057c27911229556f788c442"
+    },
+    {
+      "xml_index": 297,
+      "doknr": "BJNR006049896BJNE248300125",
+      "anzeige": "§ 64",
+      "identisch": true,
+      "zeichen": 2427,
+      "sha256": "8915683031ed8c01dd327afd31f318e2079a164fa57ce8121621f2a87d817b15"
+    },
+    {
+      "xml_index": 298,
+      "doknr": "BJNR006049896BJNE248400360",
+      "anzeige": "§ 65",
+      "identisch": true,
+      "zeichen": 1186,
+      "sha256": "7fb2e047bad4799279fffa0ea75a0f2ce0c5e7a93439f11e0c03dc0376a861e0"
+    },
+    {
+      "xml_index": 299,
+      "doknr": "BJNR006049896BJNE248500360",
+      "anzeige": "§ 66",
+      "identisch": true,
+      "zeichen": 252,
+      "sha256": "861dc65f19e62ccf5c8d0baeae26c2bee86dcf376ec523b61818a1f0d500f3d2"
+    },
+    {
+      "xml_index": 300,
+      "doknr": "BJNR006049896BJNE248601360",
+      "anzeige": "§ 67",
+      "identisch": true,
+      "zeichen": 2874,
+      "sha256": "5fbb440d64658c3064330fa45138507212115f1e851379645fe43b40616f5072"
+    },
+    {
+      "xml_index": 301,
+      "doknr": "BJNR006049896BJNE248700360",
+      "anzeige": "§ 68",
+      "identisch": true,
+      "zeichen": 366,
+      "sha256": "6963c05214ffc52fa67cdf8bcdd65c7c039d80c44050a2c272bf5804db063037"
+    },
+    {
+      "xml_index": 302,
+      "doknr": "BJNR006049896BJNE248800125",
+      "anzeige": "§ 69",
+      "identisch": true,
+      "zeichen": 474,
+      "sha256": "f179bf661a9f5c4eb725d3f132a9cc2c485aa9fe633a84a362c0458e7c786e4e"
+    },
+    {
+      "xml_index": 303,
+      "doknr": "BJNR006049896BJNE248900125",
+      "anzeige": "§ 70",
+      "identisch": true,
+      "zeichen": 975,
+      "sha256": "53e8f86e7e5dfa816f031d4072041f72bbc48fe6ddb80b6f1fb641d32d8edce8"
+    },
+    {
+      "xml_index": 304,
+      "doknr": "BJNR006049896BJNE249700360",
+      "anzeige": "§ 72",
+      "identisch": true,
+      "zeichen": 565,
+      "sha256": "2dbda3cfc847801be692d866e007696e47c150c4e6f585bb2d84895c2cad4392"
+    },
+    {
+      "xml_index": 305,
+      "doknr": "BJNR006049896BJNG022802377",
+      "anzeige": "060Sechster TeilInkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet",
+      "identisch": true,
+      "zeichen": 164,
+      "sha256": "e8041790031b3c4a284e9399bdfc35adacc6676246ba7e1805c9b14f0727460c"
+    },
+    {
+      "xml_index": 306,
+      "doknr": "BJNR006049896BJNG052100377",
+      "anzeige": "060002300Art 230Inkrafttreten",
+      "identisch": true,
+      "zeichen": 213,
+      "sha256": "b27a608cd719ab40a30e6a002ca1aa8ba280e487cecea8965fd1c42d4a746752"
+    },
+    {
+      "xml_index": 307,
+      "doknr": "BJNR006049896BJNG023002377",
+      "anzeige": "060002310Art 231Erstes Buch. Allgemeiner Teil des Bürgerlichen Gesetzbuchs",
+      "identisch": true,
+      "zeichen": 58,
+      "sha256": "3a619ccded5dd58acb5a7505068552df0dfbc5ae92604f9e680b4d984f540c9d"
+    },
+    {
+      "xml_index": 308,
+      "doknr": "BJNR006049896BJNE231800377",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "11f5fda37da6877f9e1ed2a2c3e889969a528fac0b1c534324eecc658a81396e"
+    },
+    {
+      "xml_index": 309,
+      "doknr": "BJNR006049896BJNE023203377",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 651,
+      "sha256": "1c48029a77d5ff910a21000c90d828f9245ea1873f7a263f3dbcd47e009619e8"
+    },
+    {
+      "xml_index": 310,
+      "doknr": "BJNR006049896BJNE023302377",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 245,
+      "sha256": "49d8f1503d18c3f4f0583fd637de4dac811884adc4f531c7ea7550d74f55a37f"
+    },
+    {
+      "xml_index": 311,
+      "doknr": "BJNR006049896BJNE023402377",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 185,
+      "sha256": "d01a6a32075df492af19db1f078b788a61a5df2a372990207714f0499de6a36c"
+    },
+    {
+      "xml_index": 312,
+      "doknr": "BJNR006049896BJNE023506377",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 1729,
+      "sha256": "3e5bcbb2ff8a6154f4f16bb4e117ca42e210ad16402076f9b8c2b4d8cd93445e"
+    },
+    {
+      "xml_index": 313,
+      "doknr": "BJNR006049896BJNE023602377",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 984,
+      "sha256": "4b19e7264cb877abfaf53afdd4f8bd82be1f8813dbcb379f2149e6c512340f89"
+    },
+    {
+      "xml_index": 314,
+      "doknr": "BJNR006049896BJNE028003377",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 1230,
+      "sha256": "dbc4cb5be499c9a20b437665857d92175bda20e1a7a49a21520bb1bfccb8fa7a"
+    },
+    {
+      "xml_index": 315,
+      "doknr": "BJNR006049896BJNE030503377",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 2041,
+      "sha256": "d15107e49a5ab49c34303d361617049fecfff0e7ca6a935575c383f18a2c1656"
+    },
+    {
+      "xml_index": 316,
+      "doknr": "BJNR006049896BJNE030601377",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 2841,
+      "sha256": "d820c8e80e48983a17ddff2c5de5f42085565b9f3287917a357fe98450397d81"
+    },
+    {
+      "xml_index": 317,
+      "doknr": "BJNR006049896BJNE031402140",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 2216,
+      "sha256": "e55b6857f56b36a5b05fe1beda99ca62d2b17e1ccaa6f0b2c43ad2a24616c6a0"
+    },
+    {
+      "xml_index": 318,
+      "doknr": "BJNR006049896BJNG023702377",
+      "anzeige": "060002320Art 232Zweites Buch. Recht der Schuldverhältnisse",
+      "identisch": true,
+      "zeichen": 44,
+      "sha256": "df055a1e263d799be835a7a44f908abc66a2550d67646325eecfca6877fdb836"
+    },
+    {
+      "xml_index": 319,
+      "doknr": "BJNR006049896BJNE023802377",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 214,
+      "sha256": "ff52e77f198a1fa2cc228e51d601fc722b5a96690dac8b43e8f014440c04164b"
+    },
+    {
+      "xml_index": 320,
+      "doknr": "BJNR006049896BJNE030002377",
+      "anzeige": "§ 1a",
+      "identisch": true,
+      "zeichen": 387,
+      "sha256": "eaccc2c8b960dcb6a6711ecdb5fe4bd773d3c71a18205b0bfef9f61d9a51778c"
+    },
+    {
+      "xml_index": 321,
+      "doknr": "BJNR006049896BJNE023907377",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 190,
+      "sha256": "a86ea8bf66b11ffbd366e969e94c9f339e03f02aef778c9f39d4d4602d1c0477"
+    },
+    {
+      "xml_index": 322,
+      "doknr": "BJNR006049896BJNE024003377",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 293,
+      "sha256": "8135b9a8b964819b17d2731f2f68012f18e342d026887f001b96b3ac6c5953b8"
+    },
+    {
+      "xml_index": 323,
+      "doknr": "BJNR006049896BJNE024104377",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 1274,
+      "sha256": "5954174e78786015185db02bf0f4f4577b3158572aa11a3b97d35dd39134f4d2"
+    },
+    {
+      "xml_index": 324,
+      "doknr": "BJNR006049896BJNE030102377",
+      "anzeige": "§ 4a",
+      "identisch": true,
+      "zeichen": 2820,
+      "sha256": "fcc2decb2429f47d90125a726c344fa740fcd88fead3a0516d5d555adb2cc463"
+    },
+    {
+      "xml_index": 325,
+      "doknr": "BJNR006049896BJNE024205377",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 742,
+      "sha256": "1ddc452cd6800f6e5601c8adb53e5f016ba8c76a5dc2b13832d710ff5aafe280"
+    },
+    {
+      "xml_index": 326,
+      "doknr": "BJNR006049896BJNE024302377",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 242,
+      "sha256": "f8ef364823eb06ab3122fe5e84ba8789420fc3493ff9426fd03c0d5152246a5b"
+    },
+    {
+      "xml_index": 327,
+      "doknr": "BJNR006049896BJNE024402377",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 485,
+      "sha256": "f6c178b814a30f4af36c47384b738fbd121398c1811f5846635b6377a8f3f8ef"
+    },
+    {
+      "xml_index": 328,
+      "doknr": "BJNR006049896BJNE024502377",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 130,
+      "sha256": "878f85d552f0d2385bd76f65ae1670716cccc04c03bf670a6f9caf60404242e5"
+    },
+    {
+      "xml_index": 329,
+      "doknr": "BJNR006049896BJNE024602377",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 182,
+      "sha256": "7146e61055cd44e06b9454661d424f7b56723d1393f1767a099ec0b8d8b3d17b"
+    },
+    {
+      "xml_index": 330,
+      "doknr": "BJNR006049896BJNE024702377",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 177,
+      "sha256": "f340600bdffc04077ee00059dd0a6b72dac0cfb9206704380c683b9c71014a5a"
+    },
+    {
+      "xml_index": 331,
+      "doknr": "BJNR006049896BJNG024802377",
+      "anzeige": "060002330Art 233Drittes Buch. Sachenrecht",
+      "identisch": true,
+      "zeichen": 29,
+      "sha256": "217cb2cfc8185357ff0b2b2d49b1d363e627832b1c08cb144241ed0031db3cca"
+    },
+    {
+      "xml_index": 332,
+      "doknr": "BJNR006049896BJNG027801377",
+      "anzeige": "060002330010Erster AbschnittAllgemeine Vorschriften",
+      "identisch": true,
+      "zeichen": 37,
+      "sha256": "17b81a00fac20501aa8dfba379ca5affc0e48aeba97b44f63b2ba1f585929342"
+    },
+    {
+      "xml_index": 333,
+      "doknr": "BJNR006049896BJNE024902377",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 153,
+      "sha256": "444486a3ba936da395222005d0687bb9f911b8813a6cd23f4a51a83457386b2f"
+    },
+    {
+      "xml_index": 334,
+      "doknr": "BJNR006049896BJNE025004377",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1877,
+      "sha256": "a3e156458c9108af999350308b2b69ce59c6fac48f4dded136b9f581753e5ba3"
+    },
+    {
+      "xml_index": 335,
+      "doknr": "BJNR006049896BJNE028110301",
+      "anzeige": "§ 2a",
+      "identisch": true,
+      "zeichen": 7532,
+      "sha256": "f80fc0e01ffab913f850bc6155da4c3918fc1c837710386f790812e30a019cb0"
+    },
+    {
+      "xml_index": 336,
+      "doknr": "BJNR006049896BJNE028208377",
+      "anzeige": "§ 2b",
+      "identisch": true,
+      "zeichen": 2880,
+      "sha256": "d66317137c6177a4a80da55bad25163566488d6d36a95575d9169ddda1116a7e"
+    },
+    {
+      "xml_index": 337,
+      "doknr": "BJNR006049896BJNE030203377",
+      "anzeige": "§ 2c",
+      "identisch": true,
+      "zeichen": 1127,
+      "sha256": "969c032a9c8f16b7d2d5496084cdf36e89ee1fb193dd77cd248def5b384297e7"
+    },
+    {
+      "xml_index": 338,
+      "doknr": "BJNR006049896BJNE025104377",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 1420,
+      "sha256": "0acdd0a5606e6980fa1de8a28e771301b2b6f15a3314d283d72c3cafb28cbe45"
+    },
+    {
+      "xml_index": 339,
+      "doknr": "BJNR006049896BJNE025207377",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 4406,
+      "sha256": "b2b907225b0f733251025a7058998974c5af194637986141b9856cc71c3dc584"
+    },
+    {
+      "xml_index": 340,
+      "doknr": "BJNR006049896BJNE025306377",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 2648,
+      "sha256": "d08f99bea194bfc3a2fe436ccff5c765d58025e7465f70389b6bb4aaac53028c"
+    },
+    {
+      "xml_index": 341,
+      "doknr": "BJNR006049896BJNE025402377",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 788,
+      "sha256": "7cf1e9cbc06f2c691ee8504e784a8f5849a9b53d7a96dd40050cf12c60ca3c09"
+    },
+    {
+      "xml_index": 342,
+      "doknr": "BJNR006049896BJNE025503377",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 1205,
+      "sha256": "a52055f76827e4548bf099bec10b728d364c62a5cd87fecd0239953b1b7cbcb5"
+    },
+    {
+      "xml_index": 343,
+      "doknr": "BJNR006049896BJNE025604377",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 429,
+      "sha256": "85056f4af4954539b295bb9c15a4c165863ba29766fe3882003d4373afae1b3f"
+    },
+    {
+      "xml_index": 344,
+      "doknr": "BJNR006049896BJNE028402377",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 1039,
+      "sha256": "6ae92b7d09ef0a9ca04c186bc2dd22ee46bc0d7fb4cb7f5897ea99c7f0ceae66"
+    },
+    {
+      "xml_index": 345,
+      "doknr": "BJNR006049896BJNE028302377",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 1701,
+      "sha256": "896a29f8ffb173385c2a1ce71dfd93360aac3a128eb61b060bbbaa721239b675"
+    },
+    {
+      "xml_index": 346,
+      "doknr": "BJNR006049896BJNG027901377",
+      "anzeige": "060002330020Zweiter AbschnittAbwicklung der Bodenreform",
+      "identisch": true,
+      "zeichen": 40,
+      "sha256": "a7e3f2615f25c8bddc252a478c845ce1f80512e01733c0a44efd1d882cf847f6"
+    },
+    {
+      "xml_index": 347,
+      "doknr": "BJNR006049896BJNE028504377",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 3505,
+      "sha256": "f4035986de02be670d73b52ab99c1a83f387f68ad80df645d44852aaf548e48f"
+    },
+    {
+      "xml_index": 348,
+      "doknr": "BJNR006049896BJNE028603377",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 3807,
+      "sha256": "b4f3a4a979c780f0bee22b4cfb652652ad29df2ccbf361d58670dd28ade9d687"
+    },
+    {
+      "xml_index": 349,
+      "doknr": "BJNR006049896BJNE028704377",
+      "anzeige": "§ 13",
+      "identisch": true,
+      "zeichen": 338,
+      "sha256": "cab180cad421bd074d7abed8a3c9e44679c4376b4388bc678dddb6f7f33ce46d"
+    },
+    {
+      "xml_index": 350,
+      "doknr": "BJNR006049896BJNE030302377",
+      "anzeige": "§ 13a",
+      "identisch": true,
+      "zeichen": 241,
+      "sha256": "4ffe4caa5552c8c01dc43ae514250919fc1c04daa489106b0a74a54b405e0088"
+    },
+    {
+      "xml_index": 351,
+      "doknr": "BJNR006049896BJNE028803377",
+      "anzeige": "§ 14",
+      "identisch": true,
+      "zeichen": 276,
+      "sha256": "eea95e6ff055f630819ea91519d2da6550f8fba8686a874230f342f71016219d"
+    },
+    {
+      "xml_index": 352,
+      "doknr": "BJNR006049896BJNE028903140",
+      "anzeige": "§ 15",
+      "identisch": true,
+      "zeichen": 1769,
+      "sha256": "6762ac1179ff952e83b900fd97c888738dfe8d7a74ea4538dd5d2ff247f2e3e5"
+    },
+    {
+      "xml_index": 353,
+      "doknr": "BJNR006049896BJNE029003377",
+      "anzeige": "§ 16",
+      "identisch": true,
+      "zeichen": 1549,
+      "sha256": "a02e4cab1a9a75ad35881556ae439c3af8b3d5e3e2da0f2b1efe78f25809becc"
+    },
+    {
+      "xml_index": 354,
+      "doknr": "BJNR006049896BJNG025702377",
+      "anzeige": "060002340Art 234Viertes Buch. Familienrecht",
+      "identisch": true,
+      "zeichen": 31,
+      "sha256": "3b64a9d4ded4b2d7a6700dbc7a5213115f785bfd4b7993391c3ad7f345f54202"
+    },
+    {
+      "xml_index": 355,
+      "doknr": "BJNR006049896BJNE025802377",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 187,
+      "sha256": "72d82969688d2e5f7bb225f0782446674b4abee7b9e22f33d8c5af440edefe4e"
+    },
+    {
+      "xml_index": 356,
+      "doknr": "BJNR006049896BJNE025902377",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 130,
+      "sha256": "01b95fbbb7682c0c97e269486138d5d625e112cdf783c68a864a756d49e190c9"
+    },
+    {
+      "xml_index": 357,
+      "doknr": "BJNR006049896BJNE026003123",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "4baacc7959f66ab674d89a9c73ab836418019e5e2c7d5f426d6e454432bb6cd5"
+    },
+    {
+      "xml_index": 358,
+      "doknr": "BJNR006049896BJNE026105125",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 1964,
+      "sha256": "2c77a0f2c65743e276fd9e15bdd222d58e113436700dbaf39b689d1bb8d33f75"
+    },
+    {
+      "xml_index": 359,
+      "doknr": "BJNR006049896BJNE030404125",
+      "anzeige": "§ 4a",
+      "identisch": true,
+      "zeichen": 1292,
+      "sha256": "01fc8e11b3122488c509cbf8328f46e55f46d8dffdd4c67c2d3c5df212414bfc"
+    },
+    {
+      "xml_index": 360,
+      "doknr": "BJNR006049896BJNE026202377",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 214,
+      "sha256": "8db1fabc04f01ea070b0a7e2007a687ea63eb7053788a3165018c5d8469b5756"
+    },
+    {
+      "xml_index": 361,
+      "doknr": "BJNR006049896BJNE231900377",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 929,
+      "sha256": "1fd351ee88390aafbbb2266379fff46ade97fcb9440db1ddcafc61cc63874a87"
+    },
+    {
+      "xml_index": 362,
+      "doknr": "BJNR006049896BJNE026402377",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 1262,
+      "sha256": "06fd164d51ab15db0a184280de5829b81776122cb7968dc3b1fbe13ebc3b87aa"
+    },
+    {
+      "xml_index": 363,
+      "doknr": "BJNR006049896BJNE026503377",
+      "anzeige": "§§ 8 und 9",
+      "identisch": true,
+      "zeichen": 26,
+      "sha256": "bd1e60badf9d35e5d17a9e7acbe2c982940b761f1536bcb2ae88f3f414297402"
+    },
+    {
+      "xml_index": 364,
+      "doknr": "BJNR006049896BJNE026702377",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 246,
+      "sha256": "3495903bb591f2a36afa291768ae66d76bc0f62d88e62bd69d87c521e52aad97"
+    },
+    {
+      "xml_index": 365,
+      "doknr": "BJNR006049896BJNE026803377",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "5024a9aa218166b715d0a6be77b16fcd9d8100f49898d9428c386bf826640de1"
+    },
+    {
+      "xml_index": 366,
+      "doknr": "BJNR006049896BJNE026902377",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 139,
+      "sha256": "a27bdc27dc7f3a5a628477a50921902d41abf5206540bb98c8a5297061383848"
+    },
+    {
+      "xml_index": 367,
+      "doknr": "BJNR006049896BJNE027003377",
+      "anzeige": "§ 13",
+      "identisch": true,
+      "zeichen": 1949,
+      "sha256": "78546c338c294f5b8b0da7350d30cba1a43c847bd4ec3e965b4a23145460f0b0"
+    },
+    {
+      "xml_index": 368,
+      "doknr": "BJNR006049896BJNE027102377",
+      "anzeige": "§ 14",
+      "identisch": true,
+      "zeichen": 885,
+      "sha256": "83e57d9bc3d1508a3fda7d85293293d55d67a30cc9cee1db41d7e56b7936bf6a"
+    },
+    {
+      "xml_index": 369,
+      "doknr": "BJNR006049896BJNE027202377",
+      "anzeige": "§ 15",
+      "identisch": true,
+      "zeichen": 245,
+      "sha256": "6c38b2c5368d6fb1ac720faacac9ceffa5937334de40a2dcd1c5f48c282eb778"
+    },
+    {
+      "xml_index": 370,
+      "doknr": "BJNR006049896BJNG027302377",
+      "anzeige": "060002350Art 235Fünftes Buch. Erbrecht",
+      "identisch": true,
+      "zeichen": 26,
+      "sha256": "821ab7764cc3666bb8952fc53e6e77f05cbc427417f4019c33c497a389df6ba5"
+    },
+    {
+      "xml_index": 371,
+      "doknr": "BJNR006049896BJNE027404140",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 158,
+      "sha256": "42898bcb5185dd3633a8e008f27e89eedbec928e4a9d04e0627aca0006b0e2a3"
+    },
+    {
+      "xml_index": 372,
+      "doknr": "BJNR006049896BJNE027502377",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 353,
+      "sha256": "d7e1aba864cf17278328cadf7292c51fc5112ced73bf8fcbcfff1ae6900d7c9c"
+    },
+    {
+      "xml_index": 373,
+      "doknr": "BJNR006049896BJNG027602377",
+      "anzeige": "060002360Art 236Einführungsgesetz - Internationales Privatrecht",
+      "identisch": true,
+      "zeichen": 50,
+      "sha256": "292f9ee9b9627fd72a602a8ded9489f27b086d91f2666f42ce76574d35e6daed"
+    },
+    {
+      "xml_index": 374,
+      "doknr": "BJNR006049896BJNE027702377",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 139,
+      "sha256": "e8e710b79cf58b35b2e68b6d8e7fcc37a645a9469b28903da52b0a0e3cb6265e"
+    },
+    {
+      "xml_index": 375,
+      "doknr": "BJNR006049896BJNE027802377",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 195,
+      "sha256": "d9bbf113184a714ed4be3db877a6a54865fc072dae44e197bc0719ba969debf7"
+    },
+    {
+      "xml_index": 376,
+      "doknr": "BJNR006049896BJNE027903360",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 487,
+      "sha256": "97c3526fc437ba2a5f160125a180ea25c2812dbe305c7e5848108f57e6a8192b"
+    },
+    {
+      "xml_index": 377,
+      "doknr": "BJNR006049896BJNG028101377",
+      "anzeige": "060002370Art 237Bestandsschutz, Ausschlußfrist",
+      "identisch": true,
+      "zeichen": 35,
+      "sha256": "7a57da7a898ddad7fe8821065ecd4f85959e4de36155d1ebfd7924781c7812d5"
+    },
+    {
+      "xml_index": 378,
+      "doknr": "BJNR006049896BJNE030701377",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 1808,
+      "sha256": "041b6e27cb444024c5ab7aa28c15c97b84d53663643c42600bc6f672fff01f4f"
+    },
+    {
+      "xml_index": 379,
+      "doknr": "BJNR006049896BJNE030802140",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 2346,
+      "sha256": "7d2b1a853c0667ac3e6cec8224c8337f679d75f8242432ac61c95ba4720b614e"
+    },
+    {
+      "xml_index": 380,
+      "doknr": "BJNR006049896BJNG030003360",
+      "anzeige": "070Siebter TeilDurchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten",
+      "identisch": true,
+      "zeichen": 120,
+      "sha256": "7eccc8b46b80c7c3dfdf3ec9ca210c76a07fd348d80494f6aecb1cbeca53be82"
+    },
+    {
+      "xml_index": 381,
+      "doknr": "BJNR006049896BJNG052204360",
+      "anzeige": "070002380Art 238Datenverarbeitung und Auskunftspflichten für qualifizierte Mietspiegel",
+      "identisch": true,
+      "zeichen": 71,
+      "sha256": "402094110d41705e5ed4bb9e68e8301b86171c92c351dec4ddb7506530bec6ed"
+    },
+    {
+      "xml_index": 382,
+      "doknr": "BJNR006049896BJNE247800360",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 2863,
+      "sha256": "a5d7d472f6848f80563d97c13889826fc75cde5b0b40c8419b9558a2140c254a"
+    },
+    {
+      "xml_index": 383,
+      "doknr": "BJNR006049896BJNE247900360",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1454,
+      "sha256": "3c4d0f10ca395751e299b31f8bbe8eff510eac77277220a79a9f8c6084cbc21c"
+    },
+    {
+      "xml_index": 384,
+      "doknr": "BJNR006049896BJNE248000360",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 1280,
+      "sha256": "622c2ff2fe88d690ea1e12f3f77e8f1396ad8c1f05b01ed64b1d772200ae9c9e"
+    },
+    {
+      "xml_index": 385,
+      "doknr": "BJNR006049896BJNE248100360",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 291,
+      "sha256": "991b7e9c72200bd35fea96f27ff6e0d73e4205acd01bae12918d25510dd43991"
+    },
+    {
+      "xml_index": 386,
+      "doknr": "BJNR006049896BJNG030104360",
+      "anzeige": "070002390Art 239Länderöffnungsklausel",
+      "identisch": true,
+      "zeichen": 404,
+      "sha256": "c43648fb1939b3de5a46b1ec638acdc483ea303bf69408a90128f5ca60dec5d8"
+    },
+    {
+      "xml_index": 387,
+      "doknr": "BJNR006049896BJNG030207360",
+      "anzeige": "070002400Art 240(weggefallen)",
+      "identisch": true,
+      "zeichen": 19,
+      "sha256": "fbab12b56b42a8439c300db3a7d5841729150f9bcb222b32901aa2715b2d0e00"
+    },
+    {
+      "xml_index": 388,
+      "doknr": "BJNR006049896BJNE245301360",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "1861ceef2e503dfe2203c40637424c108713678b01e9f7095d60448080cc2e80"
+    },
+    {
+      "xml_index": 389,
+      "doknr": "BJNR006049896BJNE245401360",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "b1fba72f3b05ad98052ee15315ed789317146ebedc100012208d06c4fdf4c40a"
+    },
+    {
+      "xml_index": 390,
+      "doknr": "BJNR006049896BJNE245501360",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "33deb21beef884895a87a328e44066d9ccc530671850ddd51d64825f287c9e7b"
+    },
+    {
+      "xml_index": 391,
+      "doknr": "BJNR006049896BJNE245601360",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "17cea0d33f9736bf13035bb01b85ce572c6a9446019a998fe4c1cd7326510cc6"
+    },
+    {
+      "xml_index": 392,
+      "doknr": "BJNR006049896BJNE245901360",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "8f04714d2ae2fa8891d16e3cfd45e5463e2df90f7df2d82e8f14b039804b83bf"
+    },
+    {
+      "xml_index": 393,
+      "doknr": "BJNR006049896BJNE246101125",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "fd5d0387a03e140c695f3e773e6a9710962f73942f8eb8733e936ea2ef7c07d6"
+    },
+    {
+      "xml_index": 394,
+      "doknr": "BJNR006049896BJNE246201360",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "409f68d7adf3ea621081f2aab9ba55153f29bcb5fa1a1b476085435312d06877"
+    },
+    {
+      "xml_index": 395,
+      "doknr": "BJNR006049896BJNG030304123",
+      "anzeige": "070002410Art 241(weggefallen)",
+      "identisch": true,
+      "zeichen": 19,
+      "sha256": "d0f1c7c312b5f14f310ac46fe97fea996ec23df2288fa965e9b445eddad4cb3c"
+    },
+    {
+      "xml_index": 396,
+      "doknr": "BJNR006049896BJNG030402140",
+      "anzeige": "070002420Art 242Informationspflichten bei Teilzeit-Wohnrechteverträgen, Verträgen über langfristige Urlaubsprodukte, Vermittlungsverträgen sowie Tauschsystemverträgen",
+      "identisch": true,
+      "zeichen": 147,
+      "sha256": "e20a80cadcf0e3fd711011ac738b246a05fa40507731fc64f9f3429a2111b4ce"
+    },
+    {
+      "xml_index": 397,
+      "doknr": "BJNR006049896BJNE237600140",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 1259,
+      "sha256": "2029d8582591240bd4529e40770112a272b32661c24dca810a37aaa84099e9b0"
+    },
+    {
+      "xml_index": 398,
+      "doknr": "BJNR006049896BJNE237700140",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 627,
+      "sha256": "e084a6666d844a7835a9254477426e5e1fa9cf56254dfc544132074a86b34fae"
+    },
+    {
+      "xml_index": 399,
+      "doknr": "BJNR006049896BJNG030504301",
+      "anzeige": "070002430Art 243Ver- und Entsorgungsbedingungen",
+      "identisch": true,
+      "zeichen": 759,
+      "sha256": "8c6bd9daf8b9958803879f1dbc0bf8182108aa10334c8c010d0ce39cb701c6a6"
+    },
+    {
+      "xml_index": 400,
+      "doknr": "BJNR006049896BJNG030606123",
+      "anzeige": "070002440Art 244Abschlagszahlungen beim Hausbau",
+      "identisch": true,
+      "zeichen": 730,
+      "sha256": "93ff19e5c3cfbf439525d5178ac774eca39318972e0db6ac5e97e5b972740940"
+    },
+    {
+      "xml_index": 401,
+      "doknr": "BJNR006049896BJNG030705360",
+      "anzeige": "070002450Art 245Europäisches Formular für Reparaturinformationen",
+      "identisch": true,
+      "zeichen": 51,
+      "sha256": "b3e0428a5cfbe274879d5520bd65aa3fa72d5c81b8f02c439f084cd4df961c05"
+    },
+    {
+      "xml_index": 402,
+      "doknr": "BJNR006049896BJNE249800360",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 350,
+      "sha256": "cd48da41be4d1b5519385ca9b2b78d3314d4ade949670e8e3f2e5a6921c66969"
+    },
+    {
+      "xml_index": 403,
+      "doknr": "BJNR006049896BJNE249900360",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 879,
+      "sha256": "36e98bfa80f756da54f2b6eae0cd6c1052bd50060b91b1432a12d9db57f51e39"
+    },
+    {
+      "xml_index": 404,
+      "doknr": "BJNR006049896BJNE250000360",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 1502,
+      "sha256": "5b470031234427df8dd1d3e8971186af8f8b62272616176ca0102649a9a219f0"
+    },
+    {
+      "xml_index": 405,
+      "doknr": "BJNR006049896BJNE250100360",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 983,
+      "sha256": "0055fb74ae8767e6ea05b19e727c905e04b1921eca256c5cad130dc37121bd05"
+    },
+    {
+      "xml_index": 406,
+      "doknr": "BJNR006049896BJNE250200360",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 221,
+      "sha256": "a5e53c9f7eeff1fba4f85f347a6421f800d7930d081e8fdf26928e7de1118144"
+    },
+    {
+      "xml_index": 407,
+      "doknr": "BJNR006049896BJNG053203360",
+      "anzeige": "070002460Art 246Informationspflichten beim Verbrauchervertrag",
+      "identisch": true,
+      "zeichen": 2683,
+      "sha256": "a7edc1c65a982b5cd13a14f2b2198358da9e4451cea8f906a56553c2de1d9ea9"
+    },
+    {
+      "xml_index": 408,
+      "doknr": "BJNR006049896BJNG054200360",
+      "anzeige": "070002461Art 246aInformationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen",
+      "identisch": true,
+      "zeichen": 151,
+      "sha256": "262436b9ceccedb6f30431062f1ba906ce16a3694f02ee287f5c83a325062eb4"
+    },
+    {
+      "xml_index": 409,
+      "doknr": "BJNR006049896BJNE238403129",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 6073,
+      "sha256": "9ccfd451ada6d7bd99c22fa33a8fccba10cfc225d1b472977ae8f226d2d64811"
+    },
+    {
+      "xml_index": 410,
+      "doknr": "BJNR006049896BJNE238501360",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1296,
+      "sha256": "edaa06cd6098cfa6de15e3b101aa3eb8d766582126f823aa1bbd3c79477ab4c0"
+    },
+    {
+      "xml_index": 411,
+      "doknr": "BJNR006049896BJNE238601360",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 991,
+      "sha256": "9784226d0b3a32fd942490f7d079499c3736ee9078057984b7c4d3a8321ef6cf"
+    },
+    {
+      "xml_index": 412,
+      "doknr": "BJNR006049896BJNE238700360",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 1063,
+      "sha256": "0b51963537b0ba0bcbc8757f99b9def9bcecec3eba5c7ab16fb1c072d4cd915e"
+    },
+    {
+      "xml_index": 413,
+      "doknr": "BJNR006049896BJNG054301129",
+      "anzeige": "070002462Art 246bInformationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen über Finanzdienstleistungen; Gestaltung der Online-Benutzeroberfläche",
+      "identisch": true,
+      "zeichen": 167,
+      "sha256": "ac7441ffd89e18e579eadc2c50d9e3b5de6c73c89d9726a74a16b90202858ea0"
+    },
+    {
+      "xml_index": 414,
+      "doknr": "BJNR006049896BJNE238803129",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 5384,
+      "sha256": "d0a5334f30228718c47fbdc29e21f3c0f397369e5203a85daa50965534b50495"
+    },
+    {
+      "xml_index": 415,
+      "doknr": "BJNR006049896BJNE238902129",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1392,
+      "sha256": "d0daa7340aa7a18275b95524f9d78cc8b7f7d2d841111a0091f017b42d745dc8"
+    },
+    {
+      "xml_index": 416,
+      "doknr": "BJNR006049896BJNE238903129",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 1195,
+      "sha256": "77b90914717cc4d25c6d66a40b4ea58bdeb0765da130c3630ce0c570ee43fdc8"
+    },
+    {
+      "xml_index": 417,
+      "doknr": "BJNR006049896BJNE238904129",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 870,
+      "sha256": "9f14e6ca56f831b8bd75dd085366d27b0a5b4e23dc258a6342d73c8387be5743"
+    },
+    {
+      "xml_index": 418,
+      "doknr": "BJNR006049896BJNG054400360",
+      "anzeige": "070002463Art 246cInformationspflichten bei Verträgen im elektronischen Geschäftsverkehr",
+      "identisch": true,
+      "zeichen": 731,
+      "sha256": "253b7e77b973f1add4e9ff6b098162558024a1040dac3b5b0730d7de32db771c"
+    },
+    {
+      "xml_index": 419,
+      "doknr": "BJNR006049896BJNG055300360",
+      "anzeige": "070002464Art 246dAllgemeine Informationspflichten für Betreiber von Online-Marktplätzen",
+      "identisch": true,
+      "zeichen": 72,
+      "sha256": "cd31c932a43e5931db20a429a3a42e426a8076e68aaccd153fb05a9f49ddd580"
+    },
+    {
+      "xml_index": 420,
+      "doknr": "BJNR006049896BJNE247100360",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 1737,
+      "sha256": "8e925654006a108a25a2712f5e0b8b036f383ef188730e85bcecd0ad120ce416"
+    },
+    {
+      "xml_index": 421,
+      "doknr": "BJNR006049896BJNE247200360",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 469,
+      "sha256": "abbb84a74a5dd84577863a9dbb4883566f62e43be5a644dd60756ed4aad8e45c"
+    },
+    {
+      "xml_index": 422,
+      "doknr": "BJNR006049896BJNG055400360",
+      "anzeige": "070002465Art 246eVerbotene Verletzung von Verbraucherinteressen und Bußgeldvorschriften",
+      "identisch": true,
+      "zeichen": 72,
+      "sha256": "d94465923742f54bb30eb9d2c628e5654f25b3c48fb0f567a883e54098bf901c"
+    },
+    {
+      "xml_index": 423,
+      "doknr": "BJNR006049896BJNE247302129",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 4160,
+      "sha256": "5b7ab5ce8f9a2495fe45e5f21b957bb3d07083f480e157fa8d100f5fb490deaf"
+    },
+    {
+      "xml_index": 424,
+      "doknr": "BJNR006049896BJNE247403129",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1274,
+      "sha256": "0a8d80b733e3d92f5e45ee8b490d65b1fabca7212e80c49e1348828e142dc0db"
+    },
+    {
+      "xml_index": 425,
+      "doknr": "BJNR006049896BJNG053300140",
+      "anzeige": "070002470Art 247Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen",
+      "identisch": true,
+      "zeichen": 125,
+      "sha256": "5b3ee70555f3c50aed968b387dffe1b2d1d4131a695b2626762421d529d7b2ce"
+    },
+    {
+      "xml_index": 426,
+      "doknr": "BJNR006049896BJNE232602129",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 1894,
+      "sha256": "b26585bd240b8504fda122a2c21689d29d6d9d461ae36ab1de6402f693385bbc"
+    },
+    {
+      "xml_index": 427,
+      "doknr": "BJNR006049896BJNE232704129",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1414,
+      "sha256": "44e327c9a0055f8b4dba3d1c358a56767703f4e6d2978cbb1fdfa992fc4c76c8"
+    },
+    {
+      "xml_index": 428,
+      "doknr": "BJNR006049896BJNE232803360",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 2424,
+      "sha256": "ae309d429a2ba55c3a3893826feb424e6beef6aca6e87c9091233a0cace6571c"
+    },
+    {
+      "xml_index": 429,
+      "doknr": "BJNR006049896BJNE232902123",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 1486,
+      "sha256": "d815bf4cecf608be3b5812f954ef19071044ca4288b7e820d4dfc433e215f9c2"
+    },
+    {
+      "xml_index": 430,
+      "doknr": "BJNR006049896BJNE233003129",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 711,
+      "sha256": "d2bc67944e76dd2de40d767be5899823abde32d14dd6aebfb73c46e5fac5d15c"
+    },
+    {
+      "xml_index": 431,
+      "doknr": "BJNR006049896BJNE233104123",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 2030,
+      "sha256": "4cb56a92817caf6657688fed38e7203c028bf3c028f2086bbe74a78edff1d353"
+    },
+    {
+      "xml_index": 432,
+      "doknr": "BJNR006049896BJNE233201123",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 1289,
+      "sha256": "f1fa1d7c11970189797e6fc1b20ac6cdf1694b0e9c2592801555ece7580bf7dc"
+    },
+    {
+      "xml_index": 433,
+      "doknr": "BJNR006049896BJNE233301123",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 1336,
+      "sha256": "720df24542105322c41e7ce04e81922b768b3e2d8c01f51fe513294d72958d13"
+    },
+    {
+      "xml_index": 434,
+      "doknr": "BJNR006049896BJNE233401123",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "f85e5b69a748bae8ef0153ebadb52d0a7b4899274c6b7bc7e15b33f2fa2256e6"
+    },
+    {
+      "xml_index": 435,
+      "doknr": "BJNR006049896BJNE233504129",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 1164,
+      "sha256": "bb2b0b692ac43693bda2bb2a0ce7d8a728efdf09675f81f89dcdd99c3b61f9a8"
+    },
+    {
+      "xml_index": 436,
+      "doknr": "BJNR006049896BJNE233604129",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 1008,
+      "sha256": "6faa5fd939ebcc9a19b35bbfaad642c41674a8a6f11525d5f82df565d55865d2"
+    },
+    {
+      "xml_index": 437,
+      "doknr": "BJNR006049896BJNE233704123",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 1960,
+      "sha256": "c303fafe7c86d18445617a458d87d31282ddb89772c913bba5510e8b3a26bca6"
+    },
+    {
+      "xml_index": 438,
+      "doknr": "BJNR006049896BJNE233803123",
+      "anzeige": "§ 13",
+      "identisch": true,
+      "zeichen": 1788,
+      "sha256": "2e44143d7fc264a96ffa80f0b0727264766c50bccb1673ce0d1a27ad687c7aa6"
+    },
+    {
+      "xml_index": 439,
+      "doknr": "BJNR006049896BJNE239600123",
+      "anzeige": "§ 13a",
+      "identisch": true,
+      "zeichen": 399,
+      "sha256": "4012418fc69465e534ee9e6f5118f74b41302115c0709ec7f1d13c4eca79954c"
+    },
+    {
+      "xml_index": 440,
+      "doknr": "BJNR006049896BJNE239700123",
+      "anzeige": "§ 13b",
+      "identisch": true,
+      "zeichen": 1793,
+      "sha256": "f996156cd489123320d4a932693fd65a33b1c657150e09baea12f7614045965b"
+    },
+    {
+      "xml_index": 441,
+      "doknr": "BJNR006049896BJNE233901360",
+      "anzeige": "§ 14",
+      "identisch": true,
+      "zeichen": 766,
+      "sha256": "21adbbc7a2bd36a75b9eea334c3348758f892abfa1e48e1e9623f5f148375518"
+    },
+    {
+      "xml_index": 442,
+      "doknr": "BJNR006049896BJNE234001123",
+      "anzeige": "§ 15",
+      "identisch": true,
+      "zeichen": 1378,
+      "sha256": "bd89d5b0671bc7bafaba576f6f233ace13990a15ac00d0f8ab9355f05be9c946"
+    },
+    {
+      "xml_index": 443,
+      "doknr": "BJNR006049896BJNE234100140",
+      "anzeige": "§ 16",
+      "identisch": true,
+      "zeichen": 454,
+      "sha256": "1ac40a7b4d0ec55706a882b52578798fc7259ab12c05b66f892ff42a780e8a82"
+    },
+    {
+      "xml_index": 444,
+      "doknr": "BJNR006049896BJNE234200140",
+      "anzeige": "§ 17",
+      "identisch": true,
+      "zeichen": 591,
+      "sha256": "1246b77255b62095fb25f1f1be77bdee9e67edf4a87803d245dc1de1b6570f0e"
+    },
+    {
+      "xml_index": 445,
+      "doknr": "BJNR006049896BJNE239800123",
+      "anzeige": "§ 18",
+      "identisch": true,
+      "zeichen": 839,
+      "sha256": "4e10f41909b7afc2405bd0e098d2481f81b897625ad6dade71e0b5fbb0a06ebc"
+    },
+    {
+      "xml_index": 446,
+      "doknr": "BJNR006049896BJNG054500123",
+      "anzeige": "070002471Art 247aAllgemeine Informationspflichten bei Verbraucherdarlehensverträgen, Verträgen über entgeltliche Finanzierungshilfen und deren Vermittlung",
+      "identisch": true,
+      "zeichen": 134,
+      "sha256": "1841ce80e0dc57e4135d9d40bda4bb99890019a5d0158958ffc8861f72472bed"
+    },
+    {
+      "xml_index": 447,
+      "doknr": "BJNR006049896BJNE239902125",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 3555,
+      "sha256": "9660dd2b9c9cc9db575130a6d8b827dbdfcb4b6f8f0d4443242225bc45ac9304"
+    },
+    {
+      "xml_index": 448,
+      "doknr": "BJNR006049896BJNE240001125",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1119,
+      "sha256": "f51f315c8cf406c48c3ee2afa3440169288cf79549d1dd769339109b202a0af0"
+    },
+    {
+      "xml_index": 449,
+      "doknr": "BJNR006049896BJNG053400140",
+      "anzeige": "070002480Art 248Informationspflichten bei der Erbringung von Zahlungsdienstleistungen",
+      "identisch": true,
+      "zeichen": 70,
+      "sha256": "be1026f89c44d097f721a57300923faa90c953241cfb54ad187ceb336be5c130"
+    },
+    {
+      "xml_index": 450,
+      "doknr": "BJNR006049896BJNG053500140",
+      "anzeige": "070002480010Abschnitt 1Allgemeine Vorschriften",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "4118b00d9b4fe9f16d9c932860f7991e88765df35df33c5efe48984ffd111370"
+    },
+    {
+      "xml_index": 451,
+      "doknr": "BJNR006049896BJNE234304129",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 483,
+      "sha256": "574181b552fd03a1bcdb5b37654cfa166ee175404c3cfa5f148495a2331c4419"
+    },
+    {
+      "xml_index": 452,
+      "doknr": "BJNR006049896BJNE234401123",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 350,
+      "sha256": "3aa4f376647d13e6cc39a59f0467c189327ab30b345f37e19273b94594957f1d"
+    },
+    {
+      "xml_index": 453,
+      "doknr": "BJNR006049896BJNG053600140",
+      "anzeige": "070002480020Abschnitt 2Zahlungsdiensterahmenverträge",
+      "identisch": true,
+      "zeichen": 39,
+      "sha256": "5535557c034d26a7ef68c0d0ccc123efb0b1e4577300ca060734f35549a17592"
+    },
+    {
+      "xml_index": 454,
+      "doknr": "BJNR006049896BJNE234501360",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 243,
+      "sha256": "081f0755c2065a8e4694d77fc617816a20501de800bcd769465c8d02cb39383d"
+    },
+    {
+      "xml_index": 455,
+      "doknr": "BJNR006049896BJNE234603123",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 5923,
+      "sha256": "efd845fd1f02a35fb59b12e7113721e3a01c87184e4d68dc193f81f827d38e86"
+    },
+    {
+      "xml_index": 456,
+      "doknr": "BJNR006049896BJNE234701360",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 289,
+      "sha256": "4728fa85d5ff2d92eadb7dd4ab77736c43dd814406c4ef4465179e9547ec4efd"
+    },
+    {
+      "xml_index": 457,
+      "doknr": "BJNR006049896BJNE234801123",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 320,
+      "sha256": "5094b13ecd29546c4c0a8a13aeee4d0eaebd9a28621ed9331c27d64e7d193f85"
+    },
+    {
+      "xml_index": 458,
+      "doknr": "BJNR006049896BJNE234901123",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 1001,
+      "sha256": "75ecde3bb75ade969e3dc3b28e594c951dd86bb6f1d6ce42d36dd78ea344c247"
+    },
+    {
+      "xml_index": 459,
+      "doknr": "BJNR006049896BJNE235001123",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 882,
+      "sha256": "dc8c4710e79d027469d5b7ece2a0ff3ea529ef17916a0cf316e5bb2dbfd82b92"
+    },
+    {
+      "xml_index": 460,
+      "doknr": "BJNR006049896BJNE235100140",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 331,
+      "sha256": "44e159aff91aef2cbb75e2b3eac0dbcdc5ceeefb92c01b5311fe074113b4efc3"
+    },
+    {
+      "xml_index": 461,
+      "doknr": "BJNR006049896BJNE235200140",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 417,
+      "sha256": "ee2e9703b6b217928a0cd4c3287e3ee44bfb1c52514d4099427ffd93ad21fb4d"
+    },
+    {
+      "xml_index": 462,
+      "doknr": "BJNR006049896BJNE235302123",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 1555,
+      "sha256": "5717037e92e16a99b8dd379c8f33b8bc18e75134c3acec047b246616b415e207"
+    },
+    {
+      "xml_index": 463,
+      "doknr": "BJNR006049896BJNG053700140",
+      "anzeige": "070002480030Abschnitt 3Einzelzahlungsverträge",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "710def2b2a0eb24812a778fa9b2ce04eaf6f80f4f9253ea2601a3672417a1eb8"
+    },
+    {
+      "xml_index": 464,
+      "doknr": "BJNR006049896BJNE235402123",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 479,
+      "sha256": "907232055887b473e6333f7fc484dd891c7cad77c31964fa81d992e70179ab22"
+    },
+    {
+      "xml_index": 465,
+      "doknr": "BJNR006049896BJNE235501123",
+      "anzeige": "§ 13",
+      "identisch": true,
+      "zeichen": 1850,
+      "sha256": "c395e93b219cf260f914a4ee1f3d929b2966930a20ed7f1db09fd392d535c36c"
+    },
+    {
+      "xml_index": 466,
+      "doknr": "BJNR006049896BJNE242200123",
+      "anzeige": "§ 13a",
+      "identisch": true,
+      "zeichen": 771,
+      "sha256": "f8bc9e242b434395028260ea522b27af43a4f1966259417a2840958d4cff6897"
+    },
+    {
+      "xml_index": 467,
+      "doknr": "BJNR006049896BJNE235601123",
+      "anzeige": "§ 14",
+      "identisch": true,
+      "zeichen": 838,
+      "sha256": "3a97953c3a1ec3d7637f15f666f22044c9066f99ff17b15754197554658a8305"
+    },
+    {
+      "xml_index": 468,
+      "doknr": "BJNR006049896BJNE235701123",
+      "anzeige": "§ 15",
+      "identisch": true,
+      "zeichen": 867,
+      "sha256": "f6adaf407c98f7ce2456512a0e7d268222d7a12eed4dd22ccbf30341528fb66b"
+    },
+    {
+      "xml_index": 469,
+      "doknr": "BJNR006049896BJNE235801123",
+      "anzeige": "§ 16",
+      "identisch": true,
+      "zeichen": 351,
+      "sha256": "a689ae69af5ce2d06657c1d644d3a53dfaf0abadd55c7634500ab646cbe36a47"
+    },
+    {
+      "xml_index": 470,
+      "doknr": "BJNR006049896BJNG053801123",
+      "anzeige": "070002480040Abschnitt 4Informationspflichten von Zahlungsempfängern, Bargeldabhebungsdienstleistern und Dritten",
+      "identisch": true,
+      "zeichen": 93,
+      "sha256": "1a7e8f4a1995e573806e27c78442bf60d91c4a36479af17db9491e1fe0a5846e"
+    },
+    {
+      "xml_index": 471,
+      "doknr": "BJNR006049896BJNE235901123",
+      "anzeige": "§ 17",
+      "identisch": true,
+      "zeichen": 531,
+      "sha256": "67d55e45a609bfd3132e8df56a694e92898650c017b8a25284e38b54344c1834"
+    },
+    {
+      "xml_index": 472,
+      "doknr": "BJNR006049896BJNE242300123",
+      "anzeige": "§ 17a",
+      "identisch": true,
+      "zeichen": 308,
+      "sha256": "a2c43f4c554afd12890855dd6305d1b0fbd154b6897ad8edf1c8e1929fc1bfc9"
+    },
+    {
+      "xml_index": 473,
+      "doknr": "BJNR006049896BJNE236001123",
+      "anzeige": "§ 18",
+      "identisch": true,
+      "zeichen": 264,
+      "sha256": "a625ce50f868e522a08fbf8b37a793f10e2ace1f1de1e5f2dcd612d5ebd9c37f"
+    },
+    {
+      "xml_index": 474,
+      "doknr": "BJNR006049896BJNE236100140",
+      "anzeige": "§ 19",
+      "identisch": true,
+      "zeichen": 181,
+      "sha256": "21c51fee689c861118fe65708c3f7a3902fbc275292772090cf687249ce8c765"
+    },
+    {
+      "xml_index": 475,
+      "doknr": "BJNR006049896BJNG054600123",
+      "anzeige": "070002490Art 249Informationspflichten bei Verbraucherbauverträgen",
+      "identisch": true,
+      "zeichen": 53,
+      "sha256": "86b95de1a03c99cc7d1526b34ffbc885ded5a4fe0f30181fa9eb02af67154ebd"
+    },
+    {
+      "xml_index": 476,
+      "doknr": "BJNR006049896BJNE240500123",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 231,
+      "sha256": "df542d5742059abdcaae5c0f349c5a918c3e2bdc886caa604e61a3fff9037b92"
+    },
+    {
+      "xml_index": 477,
+      "doknr": "BJNR006049896BJNE240600123",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1153,
+      "sha256": "8f585ea4942272a953e89e3e1224519c63f16631afa9688dab52d4fa1ac091f4"
+    },
+    {
+      "xml_index": 478,
+      "doknr": "BJNR006049896BJNE240701360",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 1215,
+      "sha256": "00b2ffe1a5b74e9c5dfba60526c9f8f1892e7f552a89e153181068c28f5238b7"
+    },
+    {
+      "xml_index": 479,
+      "doknr": "BJNR006049896BJNG054900123",
+      "anzeige": "070002500Art 250Informationspflichten bei Pauschalreiseverträgen",
+      "identisch": true,
+      "zeichen": 52,
+      "sha256": "761a66ed1364517f3b2175439b7e1f26c81886fd8023adf7de622aa64930f026"
+    },
+    {
+      "xml_index": 480,
+      "doknr": "BJNR006049896BJNE242500123",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 461,
+      "sha256": "23f44e2522b709087f0feb46bcb35ca2ecca88cbd3c14d91f01b90a470f22870"
+    },
+    {
+      "xml_index": 481,
+      "doknr": "BJNR006049896BJNE242600123",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 526,
+      "sha256": "50b48a6661d70e807de921c30f8c8b30eb1d2244cfb5a58d9c7f647055564643"
+    },
+    {
+      "xml_index": 482,
+      "doknr": "BJNR006049896BJNE242700123",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 2985,
+      "sha256": "e8233789da0de96ae6c150887a4aa36f646cec1c278baf08037467b11f6ffa6f"
+    },
+    {
+      "xml_index": 483,
+      "doknr": "BJNR006049896BJNE242800123",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 666,
+      "sha256": "9822cad749ec4e10c32334e3794c0a45bc0e0c56840c026d97b8f8fa4f955c87"
+    },
+    {
+      "xml_index": 484,
+      "doknr": "BJNR006049896BJNE242900123",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 153,
+      "sha256": "6b443c69fd27ae1e48a5d3e513ab008362f73e524e31489646f4d3b027e3b996"
+    },
+    {
+      "xml_index": 485,
+      "doknr": "BJNR006049896BJNE243001360",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 2721,
+      "sha256": "ec634b4f011a1ee9028ed19808316a69cf3c32c7912f46b5ccd4f9b3c43b9bf1"
+    },
+    {
+      "xml_index": 486,
+      "doknr": "BJNR006049896BJNE243100123",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 770,
+      "sha256": "703e53dd0b767ceca05445617620dc597bd92b5a970fb791f88e1f36ba8951dd"
+    },
+    {
+      "xml_index": 487,
+      "doknr": "BJNR006049896BJNE243200123",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 843,
+      "sha256": "e55e16fe5de9cabfe1db2f3a85f3cae72973f45ab6ead0761e2e6b9618ae7601"
+    },
+    {
+      "xml_index": 488,
+      "doknr": "BJNR006049896BJNE243300123",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 532,
+      "sha256": "89cfba86528fc37554809edfb76c780471194e56b7b1c7e50d2bb6aa1b0e19f9"
+    },
+    {
+      "xml_index": 489,
+      "doknr": "BJNR006049896BJNE243400123",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 863,
+      "sha256": "24e4f03aed53aa329946b2278328f15aa01ee65107489f684f1340183e1a7e52"
+    },
+    {
+      "xml_index": 490,
+      "doknr": "BJNR006049896BJNG055000123",
+      "anzeige": "070002510Art 251Informationspflichten bei Vermittlung verbundener Reiseleistungen",
+      "identisch": true,
+      "zeichen": 67,
+      "sha256": "dfe9ea251daf0699619dbf2239d60aa56c857e50072bea3af863dec077466af8"
+    },
+    {
+      "xml_index": 491,
+      "doknr": "BJNR006049896BJNE243500123",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 363,
+      "sha256": "2edb9aefccac85c49b294246b986e10e47e3d5040de906657ae0515ddf7705d6"
+    },
+    {
+      "xml_index": 492,
+      "doknr": "BJNR006049896BJNE243600123",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1516,
+      "sha256": "b131ec1109a26ef509b2dc6f06ca1aa576b51d8ead24721d14d0121015705c6e"
+    },
+    {
+      "xml_index": 493,
+      "doknr": "BJNR006049896BJNG055101360",
+      "anzeige": "070002520Art 252Sicherungsschein; Mitteilungspflicht des Absicherers",
+      "identisch": true,
+      "zeichen": 1525,
+      "sha256": "6e49f686225efd08dc71d6279389e98ba3a01bcee67f45f7da5f1548be004638"
+    },
+    {
+      "xml_index": 494,
+      "doknr": "BJNR006049896BJNG055200123",
+      "anzeige": "070002530Art 253Zentrale Kontaktstelle",
+      "identisch": true,
+      "zeichen": 27,
+      "sha256": "45eebcac59995151ef330850a71128805f3be12900b0e170a5fc683e2704d0bc"
+    },
+    {
+      "xml_index": 495,
+      "doknr": "BJNR006049896BJNE243700123",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 566,
+      "sha256": "bdc860bbe9a32780d0aa9617cbbf0420cc5991d7f409977cdc51b234f175aaae"
+    },
+    {
+      "xml_index": 496,
+      "doknr": "BJNR006049896BJNE243800123",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 448,
+      "sha256": "3f31d5b40baed7c8e2206de49138d0179d4af20d1c347e9d843c8fe2e5707a6d"
+    },
+    {
+      "xml_index": 497,
+      "doknr": "BJNR006049896BJNE243900123",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 888,
+      "sha256": "4796a22fd533337303c04f5983edd054618bf9fa8d5d34646ed7f02b362bc1b5"
+    },
+    {
+      "xml_index": 498,
+      "doknr": "BJNR006049896BJNE236206129",
+      "anzeige": "Anlage 1",
+      "identisch": true,
+      "zeichen": 6164,
+      "sha256": "9072d4eb1d5f9ed5239446f24abbaa766fa8780ed528acdcd41eec098a49b647"
+    },
+    {
+      "xml_index": 499,
+      "doknr": "BJNR006049896BJNE236303360",
+      "anzeige": "Anlage 2",
+      "identisch": true,
+      "zeichen": 694,
+      "sha256": "d47bf1b3bad61812eadb265c73b786b34d16508379eed65e5ee65459e4d775d8"
+    },
+    {
+      "xml_index": 500,
+      "doknr": "BJNR006049896BJNE239003129",
+      "anzeige": "Anlage 3",
+      "identisch": true,
+      "zeichen": 20,
+      "sha256": "a233d5ba9db073aebd7f844c6abcbbd9180d770d532ab498880ac579f3a74ae0"
+    },
+    {
+      "xml_index": 501,
+      "doknr": "BJNR006049896BJNE246502129",
+      "anzeige": "Anlage 3a",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "9e215502e593ef514d875a4f3eb21395b1f902f404211a1dc681325cd2925797"
+    },
+    {
+      "xml_index": 502,
+      "doknr": "BJNR006049896BJNE246602129",
+      "anzeige": "Anlage 3b",
+      "identisch": true,
+      "zeichen": 21,
+      "sha256": "00417533c2bdb7382997abeca8acaf276c82bcd864d61aa2b4cbddb0a1b90a95"
+    },
+    {
+      "xml_index": 503,
+      "doknr": "BJNR006049896BJNE236403360",
+      "anzeige": "Anlage 4",
+      "identisch": true,
+      "zeichen": 6177,
+      "sha256": "a539edfb9ff9d216bf5101ad3d95d7b7879a022a4e44b21650d2ee92288d3ebd"
+    },
+    {
+      "xml_index": 504,
+      "doknr": "BJNR006049896BJNE236503360",
+      "anzeige": "Anlage 5",
+      "identisch": true,
+      "zeichen": 5084,
+      "sha256": "a5a5b5166330a1e86f0065bf5c5490534fb30efde17bd2e2acdbc9ce093f0c71"
+    },
+    {
+      "xml_index": 505,
+      "doknr": "BJNR006049896BJNE236605129",
+      "anzeige": "Anlage 6",
+      "identisch": true,
+      "zeichen": 38242,
+      "sha256": "7a21735a633ee35a2c6bc0df1f13e96fa83249a0112825fbab9c56f8f6d453f6"
+    },
+    {
+      "xml_index": 506,
+      "doknr": "BJNR006049896BJNE237405360",
+      "anzeige": "Anlage 7",
+      "identisch": true,
+      "zeichen": 19267,
+      "sha256": "cc648458e364c8f15d25c8f6f88d5785e0bc3bd06f6b4b91087dc9efc24a4149"
+    },
+    {
+      "xml_index": 507,
+      "doknr": "BJNR006049896BJNE240101360",
+      "anzeige": "Anlage 8",
+      "identisch": true,
+      "zeichen": 12405,
+      "sha256": "d76958379df79a09ec9cd43a1ad2c8056e7c189f783f5074f9bfe228123aed8d"
+    },
+    {
+      "xml_index": 508,
+      "doknr": "BJNR006049896BJNE240201360",
+      "anzeige": "Anlage 9",
+      "identisch": true,
+      "zeichen": 10312,
+      "sha256": "b039f56810f7fbdb5ab8bf75ee18373d3d9ba76b0a362d88baf48ba284c6f62d"
+    },
+    {
+      "xml_index": 509,
+      "doknr": "BJNR006049896BJNE240400123",
+      "anzeige": "Anlage 10",
+      "identisch": true,
+      "zeichen": 1200,
+      "sha256": "7c7833b61a77fcd79e352e6b028c48b795b9a04cce0b7f9bb64bcbcbf35ce6cc"
+    },
+    {
+      "xml_index": 510,
+      "doknr": "BJNR006049896BJNE244001360",
+      "anzeige": "Anlage 11",
+      "identisch": true,
+      "zeichen": 6306,
+      "sha256": "f6b64045ad1eec8ec1a5a5b7f7e7d35d0e1b2469c6f7a55d679f2e820a218de8"
+    },
+    {
+      "xml_index": 511,
+      "doknr": "BJNR006049896BJNE244101360",
+      "anzeige": "Anlage 12",
+      "identisch": true,
+      "zeichen": 6443,
+      "sha256": "1705abae8eaf0a623d96c7ee5a86382904b7a9c911e4b7b31715da81f3ed3211"
+    },
+    {
+      "xml_index": 512,
+      "doknr": "BJNR006049896BJNE244201360",
+      "anzeige": "Anlage 13",
+      "identisch": true,
+      "zeichen": 5724,
+      "sha256": "673ef8c4e3da24cf8a54b94ad2aacb3b33baf3e53d8848573c846b34293a573b"
+    },
+    {
+      "xml_index": 513,
+      "doknr": "BJNR006049896BJNE244301360",
+      "anzeige": "Anlage 14",
+      "identisch": true,
+      "zeichen": 3032,
+      "sha256": "84dd0e019f9f762d5202867cf7050422dcc6564fb6e9191c8f8e170375c596cc"
+    },
+    {
+      "xml_index": 514,
+      "doknr": "BJNR006049896BJNE244401360",
+      "anzeige": "Anlage 15",
+      "identisch": true,
+      "zeichen": 2923,
+      "sha256": "99a5f3cf128da90b5bc15f3746f39a1a8e043760e2a3bb31083a8ad6235c00ce"
+    },
+    {
+      "xml_index": 515,
+      "doknr": "BJNR006049896BJNE244501360",
+      "anzeige": "Anlage 16",
+      "identisch": true,
+      "zeichen": 4558,
+      "sha256": "49435ffebbb9f8eed83643392ebc0113d8cde3d287027706b4c05c5f34945321"
+    },
+    {
+      "xml_index": 516,
+      "doknr": "BJNR006049896BJNE244601360",
+      "anzeige": "Anlage 17",
+      "identisch": true,
+      "zeichen": 3308,
+      "sha256": "bf9296748628c40591638c0d474224b7f88854cf89cad2c4dd653ecbff1bdf63"
+    },
+    {
+      "xml_index": 517,
+      "doknr": "BJNR006049896BJNE244701360",
+      "anzeige": "Anlage 18",
+      "identisch": true,
+      "zeichen": 2589,
+      "sha256": "8f0569d7e06ef1348f0f912a558c057f1a8729503b5dae9ace2ed0e9d9b70d72"
+    },
+    {
+      "xml_index": 518,
+      "doknr": "BJNR006049896BJNE250400360",
+      "anzeige": "Anlage 19",
+      "identisch": true,
+      "zeichen": 1977,
+      "sha256": "9afbb9af5bf0a2da6d21c3a4e9f8f6812dce50f6f49725522a390f522c240294"
+    }
+  ]
+}

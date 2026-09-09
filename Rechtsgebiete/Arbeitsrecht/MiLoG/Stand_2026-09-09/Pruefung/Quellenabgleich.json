@@ -1,0 +1,42 @@
+{
+  "kuerzel": "MiLoG",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/milog/",
+  "pdf_url": "https://www.gesetze-im-internet.de/milog/MiLoG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/milog/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/milog/BJNR134810014.html",
+  "original_dateiname": "MiLoG.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 11,
+  "dateien": [
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "41a97e1f8504374023e3711f710ebc1a560de845c0cde4c7fdd3567869b5a574"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "7fb6ee1f4d1402013775454b4ebd1a54648971a9e6c8ff4bf0243db4126be876"
+    },
+    {
+      "datei": "Quellen/MiLoG_aktuell.pdf",
+      "sha256": "738f2e35b2c7c3a47b2f8dc31407420b8671ca0d0fdf04a24bdb833adf31949e"
+    },
+    {
+      "datei": "Quellen/MiLoG_bereitgestellt.pdf",
+      "sha256": "738f2e35b2c7c3a47b2f8dc31407420b8671ca0d0fdf04a24bdb833adf31949e"
+    },
+    {
+      "datei": "Quellen/MiLoG_PDF_Rohtext.txt",
+      "sha256": "bd99bb73b83aeef479f3e234e65c3ac070fc5784101663b9d848a521957f1f77"
+    },
+    {
+      "datei": "Quellen/XML/BJNR134810014.xml",
+      "sha256": "f9133387b010444d85b54e6473e3f5d57aab3553cc2125422aa2da49cbde51f3"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "0e8af5c6c3065a64ba2766d3a7489b3352f2b4438f954dd3f01029043f82532b"
+    }
+  ]
+}

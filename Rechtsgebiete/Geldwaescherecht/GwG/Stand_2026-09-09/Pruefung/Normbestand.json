@@ -1,0 +1,1538 @@
+{
+  "kuerzel": "GwG",
+  "quellenabgleich": "2026-09-09",
+  "normdatensaetze": 84,
+  "bestand_nach_typ": {
+    "Anlage/Anhang": 2,
+    "Dokumentkopf": 1,
+    "Gliederung": 7,
+    "Sonstiger Text": 1,
+    "Vorschrift": 73
+  },
+  "tabellen": 8,
+  "tabellenzeilen": 74,
+  "tabellenzellen": 148,
+  "gliederungsmarken_dt": 763,
+  "fussnotenverweise": 0,
+  "eingebettete_fussnoten": 0,
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR182210017",
+      "typ": "Dokumentkopf",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 433,
+          "sha256_text": "1baf36cf8a542046b3e930e0504331f37d4774ddde47fa119220610210501fbe"
+        }
+      }
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR182210017BJNE007702128",
+      "typ": "Sonstiger Text",
+      "bezeichnung_original": "Inhaltsübersicht",
+      "bezeichnung_anzeige": "Inhaltsübersicht",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4184,
+          "sha256_text": "e4d47ebac42aadce2f360fd366f613a847aac99a6d90de4071999711a28d8f70"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR182210017BJNG000101123",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "010Abschnitt 1Begriffsbestimmungen, Verpflichtete und risikobasierter Ansatz",
+      "inhalte": {
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR182210017BJNE000205128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 1",
+      "bezeichnung_anzeige": "§ 1",
+      "titel": "Begriffsbestimmungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 14940,
+          "sha256_text": "8903eadd02fce0a0c243135562d473df79b50f37deb3294ad0c731ca93c71658"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR182210017BJNE000307128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 2",
+      "bezeichnung_anzeige": "§ 2",
+      "titel": "Verpflichtete, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 8527,
+          "sha256_text": "54067f2c7ea72939bec5d1bf69ea425e90de7ba218c2679d6a16bc1a87dd5d38"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR182210017BJNE000403123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 3",
+      "bezeichnung_anzeige": "§ 3",
+      "titel": "Wirtschaftlich Berechtigter",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3063,
+          "sha256_text": "6cba45ce29f9d0ff83bfa418d4e0529e19243e1f47cc9149a91096ee83ec41a1"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 209,
+          "sha256_text": "bef45908f06dc2a0d078a677104d447bda3cb303e0004b1327c133ba4b1f4836"
+        }
+      }
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR182210017BJNE006801125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 3a",
+      "bezeichnung_anzeige": "§ 3a",
+      "titel": "Risikobasierter Ansatz, nationale Risikoanalyse",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 755,
+          "sha256_text": "977a1fa12c0bb2bf8020ba6419c2d6ca70704730ebad8343391857edc589e574"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR182210017BJNG000200000",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020Abschnitt 2Risikomanagement",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR182210017BJNE000502123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 4",
+      "bezeichnung_anzeige": "§ 4",
+      "titel": "Risikomanagement",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1482,
+          "sha256_text": "eddc789e6413d973ab52dd2c0afbe629e7f6baafa94c7771c528983d044f084d"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR182210017BJNE000600000",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 5",
+      "bezeichnung_anzeige": "§ 5",
+      "titel": "Risikoanalyse",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 988,
+          "sha256_text": "a705fe36cb87be8b1acc520ceb6fed643633ea3ad13aec74fe5ce0d71214c448"
+        }
+      }
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR182210017BJNE000702128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 6",
+      "bezeichnung_anzeige": "§ 6",
+      "titel": "Interne Sicherungsmaßnahmen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4977,
+          "sha256_text": "9b29d581021233f36383a991f2f4fbd296037b8d42bd026007e53ef24b4eb91e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR182210017BJNE000801311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 7",
+      "bezeichnung_anzeige": "§ 7",
+      "titel": "Geldwäschebeauftragter",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3023,
+          "sha256_text": "45a8165d4338973da9938f2d238e37d0bbc57c7e18199b3782ab61ac328067fd"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR182210017BJNE000905128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 8",
+      "bezeichnung_anzeige": "§ 8",
+      "titel": "Aufzeichnungs- und Aufbewahrungspflicht",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4544,
+          "sha256_text": "7a0a2a442d0e4c58c23cf3a3e655f573557f2b6704bdb3b8b5364f979217808f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 47,
+          "sha256_text": "83737dcb1d4999bd650ca438a5c0de8424ff951039370886b25c7f4721062d79"
+        }
+      }
+    },
+    {
+      "xml_index": 13,
+      "doknr": "BJNR182210017BJNE001002123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 9",
+      "bezeichnung_anzeige": "§ 9",
+      "titel": "Gruppenweite Pflichten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3675,
+          "sha256_text": "bd642199693925914277e43105fb5021753a3e6c67478d11fbbef8d0f93c9118"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 14,
+      "doknr": "BJNR182210017BJNG000300000",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "030Abschnitt 3Sorgfaltspflichten in Bezug auf Kunden",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 15,
+      "doknr": "BJNR182210017BJNE001104128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 10",
+      "bezeichnung_anzeige": "§ 10",
+      "titel": "Allgemeine Sorgfaltspflichten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 7919,
+          "sha256_text": "7596f3905775d22d243d08a445973b4a3935fe77ff2f97dbbf3e0b775bf86e92"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 133,
+          "sha256_text": "97a9ceeffa21dc93c23ca86d72fadf113ac6800f73172c6c519a2cb5ea6aeca8"
+        }
+      }
+    },
+    {
+      "xml_index": 16,
+      "doknr": "BJNR182210017BJNE001202123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 11",
+      "bezeichnung_anzeige": "§ 11",
+      "titel": "Identifizierung; Erhebung von Angaben zum Zweck der Identifizierung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4640,
+          "sha256_text": "fe5207a3bb19aac4106c8b9993015c23d9226614048bca6b0b2a399f5e475f0f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 17,
+      "doknr": "BJNR182210017BJNE006300311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 11a",
+      "bezeichnung_anzeige": "§ 11a",
+      "titel": "Verarbeitung personenbezogener Daten durch Verpflichtete",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 867,
+          "sha256_text": "363cbf2b655d80b43ff42f7d21cb9401e892230c6287845b7276ce3eabf86db3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 18,
+      "doknr": "BJNR182210017BJNE001307128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 12",
+      "bezeichnung_anzeige": "§ 12",
+      "titel": "Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4694,
+          "sha256_text": "0ff3f556b371fd2e2058d6e3e6aab6f6d37df80f8c3b3fb4026a8abe4e16181b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 269,
+          "sha256_text": "9c074229149fa5b20141be34b64d9c28166945efe2a0dae55914ac186af16857"
+        }
+      }
+    },
+    {
+      "xml_index": 19,
+      "doknr": "BJNR182210017BJNE001402123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 13",
+      "bezeichnung_anzeige": "§ 13",
+      "titel": "Verfahren zur Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1413,
+          "sha256_text": "ff4f28764377b42e6b84beabd3c7cb68e1089d91640d39ac47434ebd1a115258"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 20,
+      "doknr": "BJNR182210017BJNE001503128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 14",
+      "bezeichnung_anzeige": "§ 14",
+      "titel": "Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2521,
+          "sha256_text": "733ca2952c1d3233da10e05c71482975d5a5cb5ad9986faaa4562a27decd0079"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 21,
+      "doknr": "BJNR182210017BJNE001602128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 15",
+      "bezeichnung_anzeige": "§ 15",
+      "titel": "Verstärkte Sorgfaltspflichten, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 9543,
+          "sha256_text": "0debdcf5cbdff3a4e4e2628b4dcfec8aec81e8b9682550ebd633b65c400c7e73"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 22,
+      "doknr": "BJNR182210017BJNE008100128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 15a",
+      "bezeichnung_anzeige": "§ 15a",
+      "titel": "Verstärkte Sorgfaltspflichten bei der Übertragung von Kryptowerten von einer selbst gehosteten oder an eine selbst gehostete Adresse",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1154,
+          "sha256_text": "44576524c42edd9d85d4a08fc99f3a6946c69c4ddafec7e58f984df5bb1c203a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 23,
+      "doknr": "BJNR182210017BJNE001701311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 16",
+      "bezeichnung_anzeige": "§ 16",
+      "titel": "Besondere Vorschriften für das Glücksspiel im Internet",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3209,
+          "sha256_text": "f0f39837121d45f8ce1b378173a5b382dcd101ff4606070a553c1a450cd80bf7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 24,
+      "doknr": "BJNR182210017BJNE007300125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 16a",
+      "bezeichnung_anzeige": "§ 16a",
+      "titel": "Verbot der Barzahlung beim Erwerb von Immobilien",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3961,
+          "sha256_text": "7e527108206fe426413dd0d5356ce432ef51257fc07bfe8a9d0ac00ec881fffb"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 25,
+      "doknr": "BJNR182210017BJNE001803128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 17",
+      "bezeichnung_anzeige": "§ 17",
+      "titel": "Ausführung der Sorgfaltspflichten durch Dritte, vertragliche Auslagerung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5168,
+          "sha256_text": "c6e107fdd6e2fcb29b9f163ed408cf0fefc1522b9aa7d465d9de8b0964a5c71b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 26,
+      "doknr": "BJNR182210017BJNG000400000",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "040Abschnitt 4Transparenzregister",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 27,
+      "doknr": "BJNR182210017BJNE001904125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 18",
+      "bezeichnung_anzeige": "§ 18",
+      "titel": "Einrichtung des Transparenzregisters und registerführende Stelle",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2257,
+          "sha256_text": "52a66a61e0204da6f3a5a913d30383a74f1f64a452f9a024435711587b38a8f4"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 28,
+      "doknr": "BJNR182210017BJNE002003125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 19",
+      "bezeichnung_anzeige": "§ 19",
+      "titel": "Angaben zum wirtschaftlich Berechtigten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1669,
+          "sha256_text": "525bd237d564b6fbbb004cc3c44548eb45b8d1fd01a948c6d91526d40808a54d"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 29,
+      "doknr": "BJNR182210017BJNE007400125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 19a",
+      "bezeichnung_anzeige": "§ 19a",
+      "titel": "Angaben zu Immobilien",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 444,
+          "sha256_text": "36e55ce57322da01c8f3174fc05160af7fe68666adab40ad59ab93271d12b609"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 30,
+      "doknr": "BJNR182210017BJNE007500125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 19b",
+      "bezeichnung_anzeige": "§ 19b",
+      "titel": "Erfassung und Zuordnung von Immobilien",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1513,
+          "sha256_text": "5a024b6df10f9aed30f0a329cb99a25c0c0706857f39ebab60c753610f22cafe"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 31,
+      "doknr": "BJNR182210017BJNE002107128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 20",
+      "bezeichnung_anzeige": "§ 20",
+      "titel": "Transparenzpflichten im Hinblick auf bestimmte Vereinigungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3716,
+          "sha256_text": "eeb0512580320ebebafd483395155b27d66d298e5286fd61e66d370609fc8ec7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 32,
+      "doknr": "BJNR182210017BJNE006900123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 20a",
+      "bezeichnung_anzeige": "§ 20a",
+      "titel": "Automatische Eintragung für Vereine",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1922,
+          "sha256_text": "80c45ec727d6450458acdba8e03ca00717b912854fae9113f092267ab0782f41"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 33,
+      "doknr": "BJNR182210017BJNE002202123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 21",
+      "bezeichnung_anzeige": "§ 21",
+      "titel": "Transparenzpflichten im Hinblick auf bestimmte Rechtsgestaltungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2687,
+          "sha256_text": "709380db036c2dd99d6e30fff5dc4739ba9360fcc8a00e63de1680a6e8605a11"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 34,
+      "doknr": "BJNR182210017BJNE002305125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 22",
+      "bezeichnung_anzeige": "§ 22",
+      "titel": "Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2729,
+          "sha256_text": "935cd92f2d6751d74f7be6906c8284264d02f96b06f31011edaed7f6c8e0642f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 35,
+      "doknr": "BJNR182210017BJNE002405128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 23",
+      "bezeichnung_anzeige": "§ 23",
+      "titel": "Einsichtnahme in das Transparenzregister, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 7255,
+          "sha256_text": "ced4da09ee42e0de9e1588a4c3833c67c5fdfea6c5ac6cae924bb873e11617e9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 55,
+          "sha256_text": "dee6b00010fad150eeac4a01fe30f73e50f361a13abf9bb7769e2edd9691d0cb"
+        }
+      }
+    },
+    {
+      "xml_index": 36,
+      "doknr": "BJNR182210017BJNE006402125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 23a",
+      "bezeichnung_anzeige": "§ 23a",
+      "titel": "Meldung von Unstimmigkeiten an die registerführende Stelle",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3680,
+          "sha256_text": "1a853b07b969c15a3a9e14e94f79af2d95d1e189e55244737c2159a650dd3923"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 37,
+      "doknr": "BJNR182210017BJNE007600125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 23b",
+      "bezeichnung_anzeige": "§ 23b",
+      "titel": "Meldung von Unstimmigkeiten bei der Zuordnung von Immobilien",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1039,
+          "sha256_text": "9fa40a56b546487dd793bf58888d6b1aa32ca1031cc59aa59a20da191127d0cf"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 38,
+      "doknr": "BJNR182210017BJNE002503125",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 24",
+      "bezeichnung_anzeige": "§ 24",
+      "titel": "Gebühren und Auslagen, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2011,
+          "sha256_text": "0e7539b2c0eda2dfaf89b867f40f7a1bf064a845497f2e5b6923116f98094575"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 39,
+      "doknr": "BJNR182210017BJNE002601123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 25",
+      "bezeichnung_anzeige": "§ 25",
+      "titel": "Übertragung der Führung des Transparenzregisters, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3543,
+          "sha256_text": "d4f169cb99d91f2f280026dfbc304ba07877dde19355f108422e0579b1a42940"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 40,
+      "doknr": "BJNR182210017BJNE002702123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 26",
+      "bezeichnung_anzeige": "§ 26",
+      "titel": "Europäisches System der Registervernetzung, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2855,
+          "sha256_text": "9af255cba541aaae8a1b0185583c7b97d0eae4ff3bfee05ea5769288764e740f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 41,
+      "doknr": "BJNR182210017BJNE006504128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 26a",
+      "bezeichnung_anzeige": "§ 26a",
+      "titel": "Abruf durch bestimmte Behörden",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2393,
+          "sha256_text": "e02b3f6e662f8dff814c862730ba92379aa1f81fb34e07cb986e20194afbd494"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 42,
+      "doknr": "BJNR182210017BJNG000500000",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "050Abschnitt 5Zentralstelle für Finanztransaktionsuntersuchungen",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 43,
+      "doknr": "BJNR182210017BJNE002800000",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 27",
+      "bezeichnung_anzeige": "§ 27",
+      "titel": "Zentrale Meldestelle",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 367,
+          "sha256_text": "d3add81252f0eccf39b614e2c20bf658be4917817b7a3b62a2bc61c80e44878a"
+        }
+      }
+    },
+    {
+      "xml_index": 44,
+      "doknr": "BJNR182210017BJNE002903128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 28",
+      "bezeichnung_anzeige": "§ 28",
+      "titel": "Aufgaben, Aufsicht und Zusammenarbeit",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3464,
+          "sha256_text": "d36b372bf246238749a7a683dd4a6154553d1cf9bb6625b4109f0bbc03954311"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 45,
+      "doknr": "BJNR182210017BJNE007800128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 28a",
+      "bezeichnung_anzeige": "§ 28a",
+      "titel": "Unterrichtung des Deutschen Bundestages",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 740,
+          "sha256_text": "be3ffe876e786d591a0801a66d3880076191e2737a26eee350d59e25ba515625"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 46,
+      "doknr": "BJNR182210017BJNE003003128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 29",
+      "bezeichnung_anzeige": "§ 29",
+      "titel": "Verarbeitung personenbezogener Daten durch die Zentralstelle für Finanztransaktionsuntersuchungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5151,
+          "sha256_text": "788dfad25d5ea095335b233e429a43ace48f1a9a770fda99360f205a809fe853"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 47,
+      "doknr": "BJNR182210017BJNE003102128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 30",
+      "bezeichnung_anzeige": "§ 30",
+      "titel": "Analyse von Meldungen und Informationen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3605,
+          "sha256_text": "9f8c0216194ef3a71123b0fc83a45eb47d9b7e2e61416e41f3e33800fdee5eb6"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 64,
+          "sha256_text": "8e90b908cb6fcfeb6c3b44dd36401c4831e6998eb35b09e4f6003288b70c8bbf"
+        }
+      }
+    },
+    {
+      "xml_index": 48,
+      "doknr": "BJNR182210017BJNE006703128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 31",
+      "bezeichnung_anzeige": "§ 31",
+      "titel": "Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 9395,
+          "sha256_text": "10afa0e77624d228d9c2cc484d94c5a8ad0681060d9e2dbb196715db97cb770c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 49,
+      "doknr": "BJNR182210017BJNE003304128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 32",
+      "bezeichnung_anzeige": "§ 32",
+      "titel": "Datenübermittlungsverpflichtung an inländische öffentliche Stellen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5643,
+          "sha256_text": "85c49c02027de48948410c35a4de75e08496d7c1b3532b3f786908c6217281f5"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 50,
+      "doknr": "BJNR182210017BJNE007000123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 32a",
+      "bezeichnung_anzeige": "§ 32a",
+      "titel": "Datenübermittlung an Europol",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1500,
+          "sha256_text": "b3ffeaa3d214b28574120b4ccbec7844d3de45edaad842b6eb333a5594ece7f0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 51,
+      "doknr": "BJNR182210017BJNE003402123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33",
+      "bezeichnung_anzeige": "§ 33",
+      "titel": "Datenaustausch mit Mitgliedstaaten der Europäischen Union",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4736,
+          "sha256_text": "ca567cc99f29ffd83d44d6db66a49e006fe232ec64386525598f54140a16e091"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 52,
+      "doknr": "BJNR182210017BJNE003500000",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34",
+      "bezeichnung_anzeige": "§ 34",
+      "titel": "Informationsersuchen im Rahmen der internationalen Zusammenarbeit",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1347,
+          "sha256_text": "f4fa90366204544fef5f18d009ed4b8606a21c449fcb9bddcccec9125013ff11"
+        }
+      }
+    },
+    {
+      "xml_index": 53,
+      "doknr": "BJNR182210017BJNE003602123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 35",
+      "bezeichnung_anzeige": "§ 35",
+      "titel": "Datenübermittlung im Rahmen der internationalen Zusammenarbeit",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5027,
+          "sha256_text": "c40ffcbcf6a876f08641fa7aa02de89548a583eeb33bcb79cf32c72ca8a48dc3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 45,
+          "sha256_text": "ce95ca204ce74b9ef3d2a96402d1eddd4013fea606aa7133c26d538bdad7d201"
+        }
+      }
+    },
+    {
+      "xml_index": 54,
+      "doknr": "BJNR182210017BJNE003700000",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 36",
+      "bezeichnung_anzeige": "§ 36",
+      "titel": "Automatisierter Datenabgleich im europäischen Verbund",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 547,
+          "sha256_text": "76f0a922df474e1ec27708b403e013ee3f7bbdbfdd16b610b99473156602a089"
+        }
+      }
+    },
+    {
+      "xml_index": 55,
+      "doknr": "BJNR182210017BJNE003800000",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 37",
+      "bezeichnung_anzeige": "§ 37",
+      "titel": "Berichtigung, Einschränkung der Verarbeitung und Löschung personenbezogener Daten aus automatisierter Verarbeitung und bei Speicherung in automatisierten Dateien",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2158,
+          "sha256_text": "f79872425c7e8a64e535fb8407cb24a715a752be301abca7a0615a114e3780c8"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 49,
+          "sha256_text": "3ac2ba0eedaec4a8b696179f29774f9f33a1203011313194a8b8bc91d2799b34"
+        }
+      }
+    },
+    {
+      "xml_index": 56,
+      "doknr": "BJNR182210017BJNE003901123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 38",
+      "bezeichnung_anzeige": "§ 38",
+      "titel": "Berichtigung, Einschränkung der Verarbeitung und Vernichtung personenbezogener Daten, die weder automatisiert verarbeitet werden noch in einer automatisierten Datei gespeichert sind",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2019,
+          "sha256_text": "418b271ab175bf9b08dc90f549991a8b4b6295ee30bd722c0f6f1e0e15b309d1"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 57,
+      "doknr": "BJNR182210017BJNE007100123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 38a",
+      "bezeichnung_anzeige": "§ 38a",
+      "titel": "Protokollierung von Informationsersuchen, Statistik, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1801,
+          "sha256_text": "ce53ba49c0e598c779832f2b670140e6d43d521e6d509e6c5f9bf5ecca3c0fff"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 58,
+      "doknr": "BJNR182210017BJNE004001128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 39",
+      "bezeichnung_anzeige": "§ 39",
+      "titel": "Errichtungsanordnung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1394,
+          "sha256_text": "65cc980f395963565823fa2549fea19a852b69918780006df94ce282b2533e5a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 59,
+      "doknr": "BJNR182210017BJNE007200128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 40",
+      "bezeichnung_anzeige": "§ 40",
+      "titel": "Sofortmaßnahmen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2224,
+          "sha256_text": "8a94f833be979f4ac9593ca3b14f9d4ec66e92d69b12dce16bb63570e24d8723"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 60,
+      "doknr": "BJNR182210017BJNE004201128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 41",
+      "bezeichnung_anzeige": "§ 41",
+      "titel": "Rückmeldung an Verpflichtete und Behörden",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 693,
+          "sha256_text": "7bcb9876a0a4484c338c023cee233402473ee802fbf4949c845ea478ad2cbb22"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 61,
+      "doknr": "BJNR182210017BJNE004301311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42",
+      "bezeichnung_anzeige": "§ 42",
+      "titel": "Benachrichtigung von inländischen öffentlichen Stellen an die Zentralstelle für Finanztransaktionsuntersuchungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 895,
+          "sha256_text": "590163e6527cd001632a3df87e97ce60f65c354815efb2a100c17ac46bcc4efc"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 114,
+          "sha256_text": "2543e0a4f848889a0d2fe1f121861087119589df4bffd36a83a73a0b18408691"
+        }
+      }
+    },
+    {
+      "xml_index": 62,
+      "doknr": "BJNR182210017BJNG000600000",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "060Abschnitt 6Pflichten im Zusammenhang mit Meldungen von Sachverhalten",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 63,
+      "doknr": "BJNR182210017BJNE004404128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 43",
+      "bezeichnung_anzeige": "§ 43",
+      "titel": "Meldepflicht von Verpflichteten, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2800,
+          "sha256_text": "ada995386c3c00f8183c1c50b22baf3026a44abb58f9e20ee186bdb7cc8f27aa"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 90,
+          "sha256_text": "553a3ed274e6b1367c293b286da99922d564dcf239c8dfe2636f7552d25318b3"
+        }
+      }
+    },
+    {
+      "xml_index": 64,
+      "doknr": "BJNR182210017BJNE004501123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 44",
+      "bezeichnung_anzeige": "§ 44",
+      "titel": "Meldepflicht von Aufsichtsbehörden",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 488,
+          "sha256_text": "7aa014f9230e6eb0253e417f0c01da4d095272eb43b469f93980fd2f5bcc654a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 65,
+      "doknr": "BJNR182210017BJNE004602128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 45",
+      "bezeichnung_anzeige": "§ 45",
+      "titel": "Form der Meldung, Registrierungspflicht, Ausführung durch Dritte, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1071,
+          "sha256_text": "457cff5b29093cfd7eaaba6622dc9459d2d4ce308a0c63e7ffba4eef280ac5bf"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 66,
+      "doknr": "BJNR182210017BJNE004701128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 46",
+      "bezeichnung_anzeige": "§ 46",
+      "titel": "Durchführung von Transaktionen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1220,
+          "sha256_text": "78e2d24f756acc22a16fd596abc75257073ac6158154bd322db1934ff01eaea6"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 67,
+      "doknr": "BJNR182210017BJNE004802128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 47",
+      "bezeichnung_anzeige": "§ 47",
+      "titel": "Verbot der Informationsweitergabe, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4463,
+          "sha256_text": "56cacc3c67e5a2e0d2e693136d7e0af1a8c2a157bf6cec6a12dd6791a38b334c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 53,
+          "sha256_text": "1082ff607ead0fdf097a284a732bf880647dcfc9806cadcfa0a0f00955d166b5"
+        }
+      }
+    },
+    {
+      "xml_index": 68,
+      "doknr": "BJNR182210017BJNE004901123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 48",
+      "bezeichnung_anzeige": "§ 48",
+      "titel": "Freistellung von der Verantwortlichkeit",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 651,
+          "sha256_text": "d290a2b5e2684f19501f812dc537b4f7e213b9c9a2ef7c6dfed74f26dca8b4ef"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 69,
+      "doknr": "BJNR182210017BJNE005001311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 49",
+      "bezeichnung_anzeige": "§ 49",
+      "titel": "Informationszugang und Schutz der meldenden Beschäftigten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2448,
+          "sha256_text": "ab5c14f8d11f9369e093b1c88ef2c9d75ac86f75578b53170ee2d9698580f590"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 70,
+      "doknr": "BJNR182210017BJNG000700000",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "070Abschnitt 7Aufsicht, Zusammenarbeit, Bußgeldvorschriften, Datenschutz",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 71,
+      "doknr": "BJNR182210017BJNE007901128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 50",
+      "bezeichnung_anzeige": "§ 50",
+      "titel": "Zuständige Aufsichtsbehörde",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2761,
+          "sha256_text": "0a899cf6e2af3ca1676635e598b3675c22c803a80a6cce3cd909107f3e7ae269"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 72,
+      "doknr": "BJNR182210017BJNE005204128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51",
+      "bezeichnung_anzeige": "§ 51",
+      "titel": "Aufsicht, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 11332,
+          "sha256_text": "d61e274a212308facb811d4233c1d5a910d79563e45c60cd62b8163d1713f63d"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 73,
+      "doknr": "BJNR182210017BJNE006600311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51a",
+      "bezeichnung_anzeige": "§ 51a",
+      "titel": "Verarbeitung personenbezogener Daten durch Aufsichtsbehörden",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2429,
+          "sha256_text": "760c9e145224fb3aaf23d22b5255383de87df90ad46c56d5a91cd9984d944beb"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 74,
+      "doknr": "BJNR182210017BJNE005302128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 52",
+      "bezeichnung_anzeige": "§ 52",
+      "titel": "Mitwirkungspflichten; Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3336,
+          "sha256_text": "e317b0daaa8fb1c524c43ba34fc97b141015c9c1ee6180e757d02528174c5554"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 75,
+      "doknr": "BJNR182210017BJNE005402128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 53",
+      "bezeichnung_anzeige": "§ 53",
+      "titel": "Hinweise auf Verstöße",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3238,
+          "sha256_text": "d0f564b70b5f8ba96c745011ae0d31f15a535cdf3b2680c0ae9d26a86116a8af"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 76,
+      "doknr": "BJNR182210017BJNE005502128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 54",
+      "bezeichnung_anzeige": "§ 54",
+      "titel": "Verschwiegenheitspflicht",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2784,
+          "sha256_text": "9b032dbe66b8f03561b632c83314d0a70844a96c30ecd927101b45f4a9f2353b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 77,
+      "doknr": "BJNR182210017BJNE005603128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 55",
+      "bezeichnung_anzeige": "§ 55",
+      "titel": "Zusammenarbeit mit anderen Behörden",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5008,
+          "sha256_text": "a6fdcac8961d1f198357bf8d419b7a5786679018389b9f746ee6fa9e483acf84"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 78,
+      "doknr": "BJNR182210017BJNE008001128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 56",
+      "bezeichnung_anzeige": "§ 56",
+      "titel": "Bußgeldvorschriften",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 15944,
+          "sha256_text": "97928b09c0fb3650d055be9fd0ed77048b90cb736a8b0c2518649cd94349aae3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 79,
+      "doknr": "BJNR182210017BJNE005802128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 57",
+      "bezeichnung_anzeige": "§ 57",
+      "titel": "Bekanntmachung von bestandskräftigen Maßnahmen und von unanfechtbaren Bußgeldentscheidungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1937,
+          "sha256_text": "4150d387700af78be775b210d545c802c619fa7220736d507773c2e44600692a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 80,
+      "doknr": "BJNR182210017BJNE005901311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 58",
+      "bezeichnung_anzeige": "§ 58",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 81,
+      "doknr": "BJNR182210017BJNE006005128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 59",
+      "bezeichnung_anzeige": "§ 59",
+      "titel": "Übergangsregelung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 6119,
+          "sha256_text": "2e6662404efdf40bccc6d78aa7572e873d5f9f83dbd04b2e8b5210ca523feb54"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 82,
+      "doknr": "BJNR182210017BJNE006101311",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anlage 1",
+      "bezeichnung_anzeige": "Anlage 1",
+      "titel": "(zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell geringeres Risiko",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2199,
+          "sha256_text": "7a474357cdd87197641efb2c8c07dd39932acb713cd59bbf00dce5ac9ae10f89"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 83,
+      "doknr": "BJNR182210017BJNE006201311",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anlage 2",
+      "bezeichnung_anzeige": "Anlage 2",
+      "titel": "(zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell höheres Risiko",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2707,
+          "sha256_text": "c596a9f320c41e7f409609e2e7d01953fa1e4759996e124bb64597e56229cf1e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 138,
+          "sha256_text": "f1e5087ce3c0743505072a86f35c46bf3ab427aaa47425de41df19abe4e996d3"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "kuerzel": "GewO",
+  "titel": "Gewerbeordnung",
+  "rechtsgebiet": "Gewerberecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/gewo/",
+  "lokale_pdf": "GewO_bereitgestellt.pdf",
+  "aktuelle_pdf": "GewO_aktuell.pdf",
+  "xml_datei": "Quellen/XML/BJNR002450869.xml",
+  "ausfertigungsdatum": "1869-06-21",
+  "stand": [
+    "Neugefasst durch Bek. v. 22.2.1999 I 202",
+    "Zuletzt geändert durch Art. 1 G v. 20.7.2026 I Nr. 215"
+  ],
+  "vollzitat": "\"Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 1 des Gesetzes vom 20. Juli 2026 (BGBl. 2026 I Nr. 215) geändert worden ist\"",
+  "pdf_seiten": 86,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "pdf_text_identisch_aktuell": true,
+  "pdf_url": "https://www.gesetze-im-internet.de/gewo/GewO.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html"
+}

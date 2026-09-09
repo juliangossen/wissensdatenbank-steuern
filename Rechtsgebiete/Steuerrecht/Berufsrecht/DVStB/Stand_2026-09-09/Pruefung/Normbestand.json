@@ -1,0 +1,514 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR019220979",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "78b0efab3cef1f8e6f580e59d75db152172beb7c49089d9e7532af435f4ac241"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR019220979BJNE000700314",
+    "enbez": "Eingangsformel",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "d6c3dc0e5d08d0b96196559f739e69000017431137f8ab91abb329ffe735b39a"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR019220979BJNE007100123",
+    "enbez": "Inhaltsübersicht",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "4e3c896f506754c041d7e48a63fa8949edc2b1d075d3a78a574acfc116740714"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR019220979BJNG000100314",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010",
+      "gliederungsbez": "Erster Teil",
+      "gliederungstitel": "Prüfungsordnung für Steuerberater\nund Steuerbevollmächtigte"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR019220979BJNE000804140",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Zulassungsverfahren",
+    "sha256_xml_text": "ded335f91bd8146571ce910f3d9967992ef739fbec724450d6e899dd72b92150"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR019220979BJNE000902301",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR019220979BJNE001001301",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR019220979BJNE001104123",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Antrag auf Zulassung zur Prüfung",
+    "sha256_xml_text": "6454676cabe95b862126932ad9ce093083a07ae6a6549bbdc357d6b5d61ab327"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR019220979BJNE001210123",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Sonstige Nachweise",
+    "sha256_xml_text": "05ebf6d436662e68571c08eb8ba0c2a5e8956a243cedcc66c56071948fcd46fc"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR019220979BJNE001303140",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Zulassung zur Prüfung",
+    "sha256_xml_text": "9a906f5f663c5a70dfc277485c7949ab11959d0ab8b299e32de5ace2320900af"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR019220979BJNE001403301",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Antrag auf Erteilung einer verbindlichen Auskunft",
+    "sha256_xml_text": "95ddfc43dbe5c78b5ea3c59015487a92bf08627108998c12772abf5f5b94e5d4"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR019220979BJNE001503123",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Antrag auf Befreiung von der Prüfung",
+    "sha256_xml_text": "2d0248c1811291d931a9253ac183f491252598ec231616cdd52d7585c6a65958"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR019220979BJNE001601301",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR019220979BJNE001705123",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Berufung der Mitglieder der Prüfungsausschüsse",
+    "sha256_xml_text": "8cb7916ca29288a42a26d8ab09a1dfb688af980e9658c9af4643add4b044a9cd"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR019220979BJNE001802123",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Ende der Amtszeit der Mitglieder der Prüfungsausschüsse",
+    "sha256_xml_text": "af140e3ed6df4a5ab0e319b7fa7de299b16add6f5780bf36bf3b5dbb457e84d9"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR019220979BJNE001902123",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Rechtsstellung der Mitglieder der Prüfungsausschüsse",
+    "sha256_xml_text": "10c85504a46b85f4d836f32d0c46073a511c2624fb9174d20a8131946a6f4d6a"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR019220979BJNE002002123",
+    "enbez": "§ 13",
+    "gliederung": null,
+    "titel": "Entscheidungen der Prüfungsausschüsse",
+    "sha256_xml_text": "e177f086b0acf668a677887015bc45d4744f022b8a4df28b16a170aaf89a0aea"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR019220979BJNE002103140",
+    "enbez": "§ 14",
+    "gliederung": null,
+    "titel": "Durchführung der Prüfungen",
+    "sha256_xml_text": "983407af10255a1448488edc6d759dee6cdd718589ad4e68fdadd5771a57b07f"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR019220979BJNE002202301",
+    "enbez": "§ 15",
+    "gliederung": null,
+    "titel": "Prüfungsnoten, Gesamtnoten",
+    "sha256_xml_text": "6c3c8ff6c793e9e9aee191a2025144dd6aa9188a523a1e51178ca8ba27fdf4d5"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR019220979BJNE002303123",
+    "enbez": "§ 16",
+    "gliederung": null,
+    "titel": "Schriftliche Prüfung",
+    "sha256_xml_text": "8ee671ba5ca02a7b30760f923c2237dc237cf7b4887873316d975b7d0d68f164"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR019220979BJNE002402140",
+    "enbez": "§ 17",
+    "gliederung": null,
+    "titel": "Ladung zur schriftlichen Prüfung",
+    "sha256_xml_text": "f21125b176348d49003df2232a2ed9c11937db98645cecc058f21e5b816ff925"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR019220979BJNE002506123",
+    "enbez": "§ 18",
+    "gliederung": null,
+    "titel": "Fertigung der Aufsichtsarbeiten",
+    "sha256_xml_text": "f9cc9f49e7270528ff664f8985c61cfb7623e78d29188ded622db180c205d001"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR019220979BJNE002602140",
+    "enbez": "§ 19",
+    "gliederung": null,
+    "titel": "Aufsicht",
+    "sha256_xml_text": "dcca08d4f2ea3e52f2fbe7afd72ed8f39339fbd8ec56e802be7b35b17e12102d"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR019220979BJNE002703140",
+    "enbez": "§ 20",
+    "gliederung": null,
+    "titel": "Verhalten während der schriftlichen Prüfung",
+    "sha256_xml_text": "f7d6b74b4fb7bf5add4a5f24b0ca2e49ae63a3ed7afead7029c3528ac83fe57c"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR019220979BJNE002802140",
+    "enbez": "§ 21",
+    "gliederung": null,
+    "titel": "Rücktritt von der Prüfung",
+    "sha256_xml_text": "4474ed1026bdff36dea519af7a3042b4befc505cfba3526cd5a14619ac9841f4"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR019220979BJNE002901301",
+    "enbez": "§ 22",
+    "gliederung": null,
+    "titel": "Niederschrift über die Aufsichtsarbeit",
+    "sha256_xml_text": "d51a64db4af96ebb3f33d8a011042ea7e92a15412fb8239b0acbb4a477a6faee"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR019220979BJNE003001301",
+    "enbez": "§ 23",
+    "gliederung": null,
+    "titel": "Täuschungsversuche, Ordnungsverstöße",
+    "sha256_xml_text": "880f435e684a892096c69334223349e7c4c22d90658aedfbfdd1f3ade938fd43"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR019220979BJNE003102140",
+    "enbez": "§ 24",
+    "gliederung": null,
+    "titel": "Bewertung der Aufsichtsarbeiten",
+    "sha256_xml_text": "35a86df83a9cdab13a44767d616a436e979f2ad63d65751a4901388944881fdc"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR019220979BJNE003205123",
+    "enbez": "§ 25",
+    "gliederung": null,
+    "titel": "Ergebnis der schriftlichen Prüfung und Ausschluss von der mündlichen Prüfung",
+    "sha256_xml_text": "0b1fa09b97a2e61745f06338c6eb32d919fd8c8e01a0406db973c3d3e56417df"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR019220979BJNE003305123",
+    "enbez": "§ 26",
+    "gliederung": null,
+    "titel": "Mündliche Prüfung",
+    "sha256_xml_text": "9558cb6f10e37a70f0a64a57b29ff37ee317b627af56ae9698126f0dca13b1ab"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR019220979BJNE003400314",
+    "enbez": "§ 27",
+    "gliederung": null,
+    "titel": "Bewertung der mündlichen Prüfung",
+    "sha256_xml_text": "a0a88036d4c22e8a20ef06212c0a48a5341af3de5d2b51e7553af7aa129cc5a3"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR019220979BJNE003502140",
+    "enbez": "§ 28",
+    "gliederung": null,
+    "titel": "Ergebnis der Prüfung, Wiederholung der Prüfung",
+    "sha256_xml_text": "f2c523b4a79e666c05eb85e8769613825c2f4e750ae0586836ecd9cc437ce54d"
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR019220979BJNE006901140",
+    "enbez": "§ 29",
+    "gliederung": null,
+    "titel": "Überdenken der Prüfungsbewertung",
+    "sha256_xml_text": "075aec1f14a1bd09d9d60d84955dc8ed9f1e0b93f154432c34740ec006c3181e"
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR019220979BJNE003601301",
+    "enbez": "§ 30",
+    "gliederung": null,
+    "titel": "Nichtteilnahme an der mündlichen Prüfung",
+    "sha256_xml_text": "f4ba5615e4746300d138f789593b99569ce8a9e1cd3498af2fa0bdcdc1ba7162"
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR019220979BJNE003702123",
+    "enbez": "§ 31",
+    "gliederung": null,
+    "titel": "Niederschrift über die mündliche Prüfung",
+    "sha256_xml_text": "7a60aace8e59ddafd96b92014c3e4c9de4ac148c851e5526fa56a4847c520f74"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR019220979BJNE003905123",
+    "enbez": "§ 32",
+    "gliederung": null,
+    "titel": "Aufbewahrungspflichten",
+    "sha256_xml_text": "8467f22f3b7727dfa26809cc64de0d3c3c109ccb35b208496bd03489c7c1d8b2"
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR019220979BJNE004001301",
+    "enbez": "§ 33",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR019220979BJNG000200314",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020",
+      "gliederungsbez": "Zweiter Teil",
+      "gliederungstitel": "Bestellung als Steuerberater oder\nSteuerbevollmächtigter"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR019220979BJNE004105123",
+    "enbez": "§ 34",
+    "gliederung": null,
+    "titel": "Bestellungsverfahren",
+    "sha256_xml_text": "08969c1849b4aff19d1f558de19925dbf128847f9d2df62de003e64ae4b0225a"
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR019220979BJNE004202301",
+    "enbez": "§ 35",
+    "gliederung": null,
+    "titel": "Berufsurkunde",
+    "sha256_xml_text": "2358a41fed2575270247c635d010ec60e7e48dcae729da88a4fa98f7f479f3dd"
+  },
+  {
+    "index": 40,
+    "doknr": "BJNR019220979BJNE004301301",
+    "enbez": "§ 36",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+  },
+  {
+    "index": 41,
+    "doknr": "BJNR019220979BJNE004403301",
+    "enbez": "§ 37",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+  },
+  {
+    "index": 42,
+    "doknr": "BJNR019220979BJNE004504123",
+    "enbez": "§ 38",
+    "gliederung": null,
+    "titel": "Wiederbestellung",
+    "sha256_xml_text": "6b2b2831f95462b5a251888066f3307017a439163e719dfe12eeae97975420a9"
+  },
+  {
+    "index": 43,
+    "doknr": "BJNR019220979BJNE004601301",
+    "enbez": "§ 39",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+  },
+  {
+    "index": 44,
+    "doknr": "BJNR019220979BJNG000301123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030",
+      "gliederungsbez": "Dritter Teil",
+      "gliederungstitel": "Anerkennung als Berufsausübungsgesellschaft"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 45,
+    "doknr": "BJNR019220979BJNE004703123",
+    "enbez": "§ 40",
+    "gliederung": null,
+    "titel": "Verfahren",
+    "sha256_xml_text": "95f2f9393f6be5a5b5b2a5d8e82737a464df0423683f15158145341170463f11"
+  },
+  {
+    "index": 46,
+    "doknr": "BJNR019220979BJNE004804123",
+    "enbez": "§ 41",
+    "gliederung": null,
+    "titel": "Anerkennungsurkunde",
+    "sha256_xml_text": "20488d9529b23900326cd5fafb84c07661b5294d24023a47bbb912324da5dc37"
+  },
+  {
+    "index": 47,
+    "doknr": "BJNR019220979BJNG000401301",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040",
+      "gliederungsbez": "Vierter Teil",
+      "gliederungstitel": "Verleihung der Berechtigung zur Führung\nder Bezeichnung \"Landwirtschaftliche Buchstelle\""
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 48,
+    "doknr": "BJNR019220979BJNE007001123",
+    "enbez": "§ 42",
+    "gliederung": null,
+    "titel": "Nachweis der besonderen Sachkunde",
+    "sha256_xml_text": "3bf53257c521e9ee3d1d2a919b6f78dd6b430ac40e4394a527a2d3846c84b161"
+  },
+  {
+    "index": 49,
+    "doknr": "BJNR019220979BJNE005003123",
+    "enbez": "§ 43",
+    "gliederung": null,
+    "titel": "Sachkunde-Ausschuss",
+    "sha256_xml_text": "cf24580411e2135796a7cc2e3876e39e65329027b6d1891d6935fef10abe56fb"
+  },
+  {
+    "index": 50,
+    "doknr": "BJNR019220979BJNE005102301",
+    "enbez": "§ 44",
+    "gliederung": null,
+    "titel": "Verleihung, Verleihungsurkunde",
+    "sha256_xml_text": "2d41ee5d6a798ba3554d29bbe5f03e7e66534a511b9d66055d488cb2af71cc0d"
+  },
+  {
+    "index": 51,
+    "doknr": "BJNR019220979BJNG000501123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050",
+      "gliederungsbez": "Fünfter Teil",
+      "gliederungstitel": "(weggefallen)"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 52,
+    "doknr": "BJNR019220979BJNE005203123",
+    "enbez": "(XXXX) §§ 45 bis 50",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 53,
+    "doknr": "BJNR019220979BJNG000700301",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060",
+      "gliederungsbez": "Sechster Teil",
+      "gliederungstitel": "Berufshaftpflichtversicherung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 54,
+    "doknr": "BJNR019220979BJNE006106123",
+    "enbez": "§ 51",
+    "gliederung": null,
+    "titel": "Versicherungspflicht",
+    "sha256_xml_text": "50ec51c779498afefb398d612854c04bef66d5b0fc3bb19e40793765c6224125"
+  },
+  {
+    "index": 55,
+    "doknr": "BJNR019220979BJNE006203123",
+    "enbez": "§ 52",
+    "gliederung": null,
+    "titel": "Mindestversicherungssumme",
+    "sha256_xml_text": "98f4d0897bc60feeeb091840c89a8a89d8519e99b3a669587a170f5bb988d07a"
+  },
+  {
+    "index": 56,
+    "doknr": "BJNR019220979BJNE006303123",
+    "enbez": "§ 53",
+    "gliederung": null,
+    "titel": "Weiterer Inhalt des Versicherungsvertrages",
+    "sha256_xml_text": "4229d1fa57dfae01ab40cbc74dae38dd3fba4ed82fbfe482a5cdd9196738c3f5"
+  },
+  {
+    "index": 57,
+    "doknr": "BJNR019220979BJNE006803123",
+    "enbez": "§ 53a",
+    "gliederung": null,
+    "titel": "Ausschlüsse",
+    "sha256_xml_text": "fecc7d4a09365f49686598962f8897a03dcbdf355e8a058b5a5333d205060ea0"
+  },
+  {
+    "index": 58,
+    "doknr": "BJNR019220979BJNE006406123",
+    "enbez": "§ 54",
+    "gliederung": null,
+    "titel": "Anerkennung anderer Berufshaftpflichtversicherungen",
+    "sha256_xml_text": "13256dec8dfc843e9068ff419e7aed8414c9ae57e420e4136f755546509315fa"
+  },
+  {
+    "index": 59,
+    "doknr": "BJNR019220979BJNE006504123",
+    "enbez": "§ 55",
+    "gliederung": null,
+    "titel": "Nachweis des Versicherungsabschlusses",
+    "sha256_xml_text": "26a76de009ec57291f2bdbc3103ea751d0f7f85dce7cd47b46359f88139ed759"
+  },
+  {
+    "index": 60,
+    "doknr": "BJNR019220979BJNE006602123",
+    "enbez": "§ 56",
+    "gliederung": null,
+    "titel": "Anzeige von Veränderungen",
+    "sha256_xml_text": "14025f568261edfcd6ad8971f21700a612e938a290b42974173a43d5c3353d74"
+  }
+]

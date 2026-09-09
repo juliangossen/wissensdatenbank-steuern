@@ -1,0 +1,50 @@
+{
+  "kuerzel": "PAngV",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/pangv_2022/",
+  "pdf_url": "https://www.gesetze-im-internet.de/pangv_2022/PAngV.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/pangv_2022/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html",
+  "original_dateiname": "PAngV.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 13,
+  "dateien": [
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "904ad323ebe4d1b63cbeb882dcf4e16984ff95d7385d6779a5e5acd84fbc17f4"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "cb63043ed9026301baf249abe4e005d290b59697e5e4378088630f644570447b"
+    },
+    {
+      "datei": "Quellen/PAngV_aktuell.pdf",
+      "sha256": "fc8d84968214be8c50bf637e6ddf528b6bc09c48f9d599e8df0910287c9f7142"
+    },
+    {
+      "datei": "Quellen/PAngV_bereitgestellt.pdf",
+      "sha256": "fc8d84968214be8c50bf637e6ddf528b6bc09c48f9d599e8df0910287c9f7142"
+    },
+    {
+      "datei": "Quellen/PAngV_PDF_Rohtext.txt",
+      "sha256": "69414228776f56b4f429d53b1dbd74c8f574deaf5af304d17a1277ca9807d5b9"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_j4921-1_0010.jpg",
+      "sha256": "afeab9e21e6d73edc1a075aaa96b0e016b0e62a0e5db5b67b1cbfc558d1842e2"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_j4921-1_0020.jpg",
+      "sha256": "2dd6604527e601b16f1e24fd223801c374edc7d608d896cbef7b09fd7dd7f097"
+    },
+    {
+      "datei": "Quellen/XML/BJNR492110021.xml",
+      "sha256": "cdb0bf043b6faa14745c9aa868758b91ee3fc9da2186fe5973436cb80cb42679"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "666e263f08325de809e11211e1f942ae2b34a9e866a5a94e82cc50a830e9f229"
+    }
+  ]
+}

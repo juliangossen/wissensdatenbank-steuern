@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 09 Sep 2026 17:39:14 GMT
+Server: Apache
+Last-Modified: Tue, 30 Jun 2026 19:56:06 GMT
+ETag: "15c86-6557df72ea778"
+Accept-Ranges: bytes
+Content-Length: 89222
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-XSS-Protection: 1; mode=block
+Content-Type: application/zip
+

@@ -1,0 +1,468 @@
+{
+  "kuerzel": "StBVV",
+  "methode": "Unabhängiger Vergleich jedes vollständigen Markdown-Normabschnitts einschließlich Überschrift, Fließtext und Fußnoten; zusätzlich jede Tabellenzelle in Reihenfolge, Tabellen- und Zeilenzahl. Gerendertes Gesamtdokument wird nach Normankern aufgeteilt. Ausnahmen nur NFC/Leerraum, redaktionelle Fußnotenmarker und generische Spaltenüberschriften.",
+  "gepruefte_normen_ohne_metadatenkopf": 57,
+  "normreihenfolge_vollstaendig": true,
+  "alle_normen_identisch": true,
+  "alle_tabellenzellen_identisch": true,
+  "alle_links_gueltig": true,
+  "sha256_markdown": "6512e74b49dfe8c940b1133527481535fd69bf4eb3e2697ce16045fe2f824aea",
+  "normen": [
+    {
+      "index": 1,
+      "norm": "Eingangsformel",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 2,
+      "norm": "Inhaltsübersicht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 3,
+      "norm": "010Erster AbschnittAllgemeine Vorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 4,
+      "norm": "§ 1",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 5,
+      "norm": "§ 2",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 6,
+      "norm": "§ 3",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 7,
+      "norm": "§ 4",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 8,
+      "norm": "§ 4a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 9,
+      "norm": "§ 4b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 10,
+      "norm": "§ 5",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 11,
+      "norm": "§ 6",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 12,
+      "norm": "§ 7",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 13,
+      "norm": "§ 8",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 14,
+      "norm": "§ 9",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 15,
+      "norm": "020Zweiter AbschnittGebührenberechnung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 16,
+      "norm": "§ 10",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 17,
+      "norm": "§ 11",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 18,
+      "norm": "§ 12",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 19,
+      "norm": "§ 13",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 20,
+      "norm": "§ 14",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 21,
+      "norm": "030Dritter AbschnittUmsatzsteuer, Ersatz von\nAuslagen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 22,
+      "norm": "§ 15",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 23,
+      "norm": "§ 16",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 24,
+      "norm": "§ 17",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 25,
+      "norm": "§ 18",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 26,
+      "norm": "§ 19",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 27,
+      "norm": "§ 20",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 28,
+      "norm": "040Vierter AbschnittGebühren für die Beratung\nund für die Hilfeleistung bei der Erfüllung allgemeiner\nSteuerpflichten",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 29,
+      "norm": "§ 21",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 30,
+      "norm": "§ 22",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 31,
+      "norm": "§ 23",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 32,
+      "norm": "§ 24",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 33,
+      "norm": "§ 25",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 34,
+      "norm": "§ 26",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 35,
+      "norm": "§ 27",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 36,
+      "norm": "§ 28",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 37,
+      "norm": "§ 29",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 38,
+      "norm": "§ 30",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 39,
+      "norm": "§ 31",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 40,
+      "norm": "050Fünfter AbschnittGebühren für die Hilfeleistung\nbei der Erfüllung steuerlicher Buchführungs- und\nAufzeichnungspflichten",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 41,
+      "norm": "§ 32",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 42,
+      "norm": "§ 33",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 43,
+      "norm": "§ 34",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 44,
+      "norm": "§ 35",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 45,
+      "norm": "§ 36",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 46,
+      "norm": "§ 37",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 47,
+      "norm": "§ 38",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 48,
+      "norm": "§ 39",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 49,
+      "norm": "060Sechster AbschnittVergütung für die Vertretung in außergerichtlichen Rechtsbehelfsverfahren, gerichtlichen und anderen Verfahren",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 50,
+      "norm": "§ 40",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 51,
+      "norm": "070Siebenter AbschnittÜbergangsvorschrift",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 52,
+      "norm": "§ 41",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 53,
+      "norm": "Schlußformel",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 54,
+      "norm": "Anlage 1",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 55,
+      "norm": "Anlage 2",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 56,
+      "norm": "Anlage 3",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 57,
+      "norm": "Anlage 4",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    }
+  ]
+}

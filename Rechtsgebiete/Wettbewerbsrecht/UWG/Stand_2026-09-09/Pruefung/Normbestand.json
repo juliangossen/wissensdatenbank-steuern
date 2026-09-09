@@ -1,0 +1,703 @@
+{
+  "kuerzel": "UWG",
+  "quellenabgleich": "2026-09-09",
+  "normdatensaetze": 36,
+  "bestand_nach_typ": {
+    "Anlage/Anhang": 1,
+    "Dokumentkopf": 1,
+    "Gliederung": 4,
+    "Vorschrift": 30
+  },
+  "tabellen": 0,
+  "tabellenzeilen": 0,
+  "tabellenzellen": 0,
+  "gliederungsmarken_dt": 160,
+  "fussnotenverweise": 0,
+  "eingebettete_fussnoten": 0,
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR141400004",
+      "typ": "Dokumentkopf",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1306,
+          "sha256_text": "26ccb2e87f395c61f1efca752dcbc14f1f4a34d90e0d7f264f556fd590135169"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 435,
+          "sha256_text": "0de54e9fd862878c82440dddfd78891ae590ae9ef069a5f662345844c0f257a3"
+        }
+      }
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR141400004BJNG000101140",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "010Kapitel 1Allgemeine Bestimmungen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR141400004BJNE000103360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 1",
+      "bezeichnung_anzeige": "§ 1",
+      "titel": "Zweck des Gesetzes; Anwendungsbereich",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 381,
+          "sha256_text": "472fea62520a8f30f288b87bb1a074a7e8d2539b7e63ca171d634071224b57d9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR141400004BJNE000204360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 2",
+      "bezeichnung_anzeige": "§ 2",
+      "titel": "Begriffsbestimmungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3195,
+          "sha256_text": "ea30695cb4cee89ac8a0eadc142933e507b50f1817e8d6b3316fecec83d1dceb"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR141400004BJNE000303123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 3",
+      "bezeichnung_anzeige": "§ 3",
+      "titel": "Verbot unlauterer geschäftlicher Handlungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1064,
+          "sha256_text": "1cdfe4e3b1ea7f720cb0cdb58b209620300fb4da52a017be18165e2fc1c49a5f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR141400004BJNE002500123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 3a",
+      "bezeichnung_anzeige": "§ 3a",
+      "titel": "Rechtsbruch",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 259,
+          "sha256_text": "0e430d516a8f35e2d547ea2eca686b04006909e173e0baccb33fd61bfe597cd0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR141400004BJNE000403123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 4",
+      "bezeichnung_anzeige": "§ 4",
+      "titel": "Mitbewerberschutz",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1046,
+          "sha256_text": "a5779d4ca591a97cda4cd82ae391fd6da2b0f99670b627e2cc96f264d4ddc7a0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR141400004BJNE002600123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 4a",
+      "bezeichnung_anzeige": "§ 4a",
+      "titel": "Aggressive geschäftliche Handlungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1831,
+          "sha256_text": "37add158544e3d19cd7af79d8ee6c22506b8b2756c57ab78d1a64d7a752e3490"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR141400004BJNE000506129",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 5",
+      "bezeichnung_anzeige": "§ 5",
+      "titel": "Irreführende geschäftliche Handlungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2929,
+          "sha256_text": "c53f9fc7a3195c8bf19181ca8e05f19626862c47ffac1e48eee690469fb2a9f5"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR141400004BJNE002304360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 5a",
+      "bezeichnung_anzeige": "§ 5a",
+      "titel": "Irreführung durch Unterlassen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1693,
+          "sha256_text": "d99b2793edcc45651665a8e09a05310514d2a22a271f8082c475382b6a816378"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR141400004BJNE003500360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 5b",
+      "bezeichnung_anzeige": "§ 5b",
+      "titel": "Wesentliche Informationen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2782,
+          "sha256_text": "680ae1162aa0c930c64c357c1261168e8b1768368f3f1f98b3d0156529af4235"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR141400004BJNE003600360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 5c",
+      "bezeichnung_anzeige": "§ 5c",
+      "titel": "Verbotene Verletzung von Verbraucherinteressen durch unlautere geschäftliche Handlungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1707,
+          "sha256_text": "47a7c9daeb4e77e296463ce2bd8bae2d625132d2a08040b0e403013f5998a5f3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR141400004BJNE000602140",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 6",
+      "bezeichnung_anzeige": "§ 6",
+      "titel": "Vergleichende Werbung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1014,
+          "sha256_text": "36fcf7d17dcea55d5847d2fbd4085c35af5d096329d1140899276c0e51b17d2a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 13,
+      "doknr": "BJNR141400004BJNE000706360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 7",
+      "bezeichnung_anzeige": "§ 7",
+      "titel": "Unzumutbare Belästigungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1709,
+          "sha256_text": "74458fa09cac53403eff90f1581f11c846eb62d41b013975727bb62eed66f58a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 14,
+      "doknr": "BJNR141400004BJNE003400360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 7a",
+      "bezeichnung_anzeige": "§ 7a",
+      "titel": "Einwilligung in Telefonwerbung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 481,
+          "sha256_text": "e644c08f2ea11725b557afd1c0e734f2c9505fb27dda03d9e1c11a6354bb470f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 15,
+      "doknr": "BJNR141400004BJNG000201140",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020Kapitel 2Rechtsfolgen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 16,
+      "doknr": "BJNR141400004BJNE002801360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 8",
+      "bezeichnung_anzeige": "§ 8",
+      "titel": "Beseitigung und Unterlassung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2311,
+          "sha256_text": "08a96bd873b5f3cbdbd37fa0b2b0ebae953150e23b65b5789e21879a45e954b5"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 17,
+      "doknr": "BJNR141400004BJNE002700360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 8a",
+      "bezeichnung_anzeige": "§ 8a",
+      "titel": "Anspruchsberechtigte bei einem Verstoß gegen die Verordnung (EU) 2019/1150",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 397,
+          "sha256_text": "0dee01300280a7797d3611f08cfbca9effd3d65d76c4afe4bda7aea695a3c8d8"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 18,
+      "doknr": "BJNR141400004BJNE002901360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 8b",
+      "bezeichnung_anzeige": "§ 8b",
+      "titel": "Liste der qualifizierten Wirtschaftsverbände",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1509,
+          "sha256_text": "a118018666712356596e6e4a02307dfd8a1c89b2376c70ab8585b0b8ebd32b9b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 19,
+      "doknr": "BJNR141400004BJNE003000360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 8c",
+      "bezeichnung_anzeige": "§ 8c",
+      "titel": "Verbot der missbräuchlichen Geltendmachung von Ansprüchen; Haftung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1433,
+          "sha256_text": "e96b77faf44473fac3b5c1d9c305de879478e83ec113c9fff4bd80566e1d946c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 20,
+      "doknr": "BJNR141400004BJNE000903360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 9",
+      "bezeichnung_anzeige": "§ 9",
+      "titel": "Schadensersatz",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 667,
+          "sha256_text": "3d96f31f881932c82285d0c094fbeb00d9f18d1d573d1886c60588d35d979239"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 21,
+      "doknr": "BJNR141400004BJNE001004360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 10",
+      "bezeichnung_anzeige": "§ 10",
+      "titel": "Gewinnabschöpfung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1910,
+          "sha256_text": "c90022f78030c8148bcbeffeda6ad3c3b95ad44c4416e395fc07f57f20572e08"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 22,
+      "doknr": "BJNR141400004BJNE001103360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 11",
+      "bezeichnung_anzeige": "§ 11",
+      "titel": "Verjährung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 611,
+          "sha256_text": "cd4529a09497ad898ee9db7fa3e3912e07291ad859c9e999c1d61a7b58a6010a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 23,
+      "doknr": "BJNR141400004BJNG000301140",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "030Kapitel 3Verfahrensvorschriften",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 24,
+      "doknr": "BJNR141400004BJNE001203360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 12",
+      "bezeichnung_anzeige": "§ 12",
+      "titel": "Einstweiliger Rechtsschutz; Veröffentlichungsbefugnis; Streitwertminderung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1919,
+          "sha256_text": "69ba2ce4a4fd6e621999fd222e6e3e281a118bce935f8bd941a27ddcf5b543ca"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 25,
+      "doknr": "BJNR141400004BJNE001303360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 13",
+      "bezeichnung_anzeige": "§ 13",
+      "titel": "Abmahnung; Unterlassungsverpflichtung; Haftung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2195,
+          "sha256_text": "ad0bf69cd2a7dd2f420e6d66a2ac075c39cea978310ab24d78241bbf6c491900"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 26,
+      "doknr": "BJNR141400004BJNE003100360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 13a",
+      "bezeichnung_anzeige": "§ 13a",
+      "titel": "Vertragsstrafe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1435,
+          "sha256_text": "400c1bebe9d486b7ee37a1e7e7db57b5e63f0baf18a53d40d4c5bd0b31744f38"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 27,
+      "doknr": "BJNR141400004BJNE001404360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 14",
+      "bezeichnung_anzeige": "§ 14",
+      "titel": "Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1537,
+          "sha256_text": "aba35738d81487e699bb8627788dd1d779cd310a6a75d8a7f2445bdc3b8d2df0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 28,
+      "doknr": "BJNR141400004BJNE001503360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 15",
+      "bezeichnung_anzeige": "§ 15",
+      "titel": "Einigungsstellen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4811,
+          "sha256_text": "74f4e57e75b6f4aaa155373b0a190656ae8f57ca41c5325a5fe544c66c464e93"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 29,
+      "doknr": "BJNR141400004BJNE003300360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 15a",
+      "bezeichnung_anzeige": "§ 15a",
+      "titel": "Überleitungsvorschrift zum Gesetz zur Stärkung des fairen Wettbewerbs",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 200,
+          "sha256_text": "d7424699f2f8a372bb84de01c1d18342fe33638662de6600ca11258d4fdbc0f7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 30,
+      "doknr": "BJNR141400004BJNG000402140",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "040Kapitel 4Straf- und Bußgeldvorschriften",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 31,
+      "doknr": "BJNR141400004BJNE001601140",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 16",
+      "bezeichnung_anzeige": "§ 16",
+      "titel": "Strafbare Werbung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 719,
+          "sha256_text": "54a0d22d7e41ca9a36cf5a16c0c0eae5df76b4f1c5a48449b479b4aeaa9f0ec9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 32,
+      "doknr": "BJNR141400004BJNE001703360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 17 u. 18",
+      "bezeichnung_anzeige": "§§ 17 u. 18",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 33,
+      "doknr": "BJNR141400004BJNE003702129",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 19",
+      "bezeichnung_anzeige": "§ 19",
+      "titel": "Bußgeldvorschriften bei einem weitverbreiteten Verstoß und einem weitverbreiteten Verstoß mit Unions-Dimension",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1695,
+          "sha256_text": "c8ddde046ce667a17ba7af97cc27f5e62573d381571e15e8021327d51c7e34dd"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 34,
+      "doknr": "BJNR141400004BJNE002007360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 20",
+      "bezeichnung_anzeige": "§ 20",
+      "titel": "Bußgeldvorschriften",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1580,
+          "sha256_text": "fd776920d2bc535cb9757f0a29cd7e9c97e6663a21a4487da8b94676d436c352"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 35,
+      "doknr": "BJNR141400004BJNE002404360",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anhang",
+      "bezeichnung_anzeige": "Anhang",
+      "titel": "(zu § 3 Absatz 3)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 9895,
+          "sha256_text": "6d013f4c34ba44fe8cd99a355362ea79aada55020ee804f8b01a16fb667ce4ad"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+[
+  {
+    "zeile": 2,
+    "art": "dokumentkopf",
+    "ebene": 2,
+    "sprungmarke": null,
+    "text": "Erbschaftsteuer-Durchführungsverordnung"
+  },
+  {
+    "zeile": 12,
+    "art": "gliederungsgruppe",
+    "ebene": 3,
+    "sprungmarke": "zu-33-erbstg",
+    "text": "Zu § 33 ErbStG"
+  },
+  {
+    "zeile": 13,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-1",
+    "text": "§ 1 Anzeigepflicht der Vermögensverwahrer und der Vermögensverwalter"
+  },
+  {
+    "zeile": 32,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-2",
+    "text": "§ 2[1] Anzeigepflicht derjenigen, die auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben haben"
+  },
+  {
+    "zeile": 54,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-3",
+    "text": "§ 3 Anzeigepflicht der Versicherungsunternehmen"
+  },
+  {
+    "zeile": 67,
+    "art": "gliederungsgruppe",
+    "ebene": 3,
+    "sprungmarke": "zu-34-erbstg",
+    "text": "Zu § 34 ErbStG"
+  },
+  {
+    "zeile": 68,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-4",
+    "text": "§ 4 Anzeigepflicht der Standesämter"
+  },
+  {
+    "zeile": 101,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-5",
+    "text": "§ 5 Verzeichnis der Standesämter"
+  },
+  {
+    "zeile": 106,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-6",
+    "text": "§ 6 Anzeigepflicht der Gerichte bei Todeserklärungen"
+  },
+  {
+    "zeile": 111,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-7",
+    "text": "§ 7 Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen in Erbfällen"
+  },
+  {
+    "zeile": 195,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-8",
+    "text": "§ 8[1] Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen bei Schenkungen und Zweckzuwendungen unter Lebenden"
+  },
+  {
+    "zeile": 222,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-9",
+    "text": "§ 9[1] Anzeigepflicht der Auslandsstellen"
+  },
+  {
+    "zeile": 234,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-10",
+    "text": "§ 10[1] Anzeigepflicht der Genehmigungsbehörden"
+  },
+  {
+    "zeile": 260,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-11",
+    "text": "§ 11 Anzeigen im automatisierten Verfahren"
+  },
+  {
+    "zeile": 263,
+    "art": "gliederungsgruppe",
+    "ebene": 3,
+    "sprungmarke": "schlussvorschriften",
+    "text": "Schlußvorschriften"
+  },
+  {
+    "zeile": 264,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-12",
+    "text": "§ 12[1] Anwendung der Verordnung"
+  },
+  {
+    "zeile": 282,
+    "art": "paragraph",
+    "ebene": 4,
+    "sprungmarke": "par-13",
+    "text": "§ 13 Inkrafttreten, Außerkrafttreten"
+  },
+  {
+    "zeile": 285,
+    "art": "anlage",
+    "ebene": 3,
+    "sprungmarke": "muster-1",
+    "text": "Muster 1[1]"
+  },
+  {
+    "zeile": 288,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 298,
+    "zellen": 6,
+    "text": "..............."
+  },
+  {
+    "zeile": 302,
+    "art": "formulartitel",
+    "ebene": 4,
+    "sprungmarke": null,
+    "text": "Anzeige"
+  },
+  {
+    "zeile": 304,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 304,
+    "zellen": 1,
+    "text": "über die Verwahrung oder Verwaltung fremden Vermögens (§ 33 Abs. 1 ErbStG und § 1 ErbStDV)"
+  },
+  {
+    "zeile": 308,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 338,
+    "zellen": 16,
+    "text": "1."
+  },
+  {
+    "zeile": 340,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 368,
+    "zellen": 15,
+    "text": "2."
+  },
+  {
+    "zeile": 370,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 404,
+    "zellen": 18,
+    "text": "3."
+  },
+  {
+    "zeile": 406,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 412,
+    "zellen": 4,
+    "text": "4."
+  },
+  {
+    "zeile": 414,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 428,
+    "zellen": 8,
+    "text": "5."
+  },
+  {
+    "zeile": 433,
+    "art": "anlage",
+    "ebene": 3,
+    "sprungmarke": "muster-2",
+    "text": "Muster 2[1]"
+  },
+  {
+    "zeile": 436,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 446,
+    "zellen": 6,
+    "text": "..............."
+  },
+  {
+    "zeile": 450,
+    "art": "formulartitel",
+    "ebene": 4,
+    "sprungmarke": null,
+    "text": "Anzeige"
+  },
+  {
+    "zeile": 452,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 452,
+    "zellen": 1,
+    "text": "über die Auszahlung oder Zurverfügungstellung von Versicherungssummen oder Leibrenten an einen anderen als den Versicherungsnehmer (§ 33 Abs. 3 ErbStG und § 3 ErbStDV)"
+  },
+  {
+    "zeile": 456,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 516,
+    "zellen": 30,
+    "text": "1."
+  },
+  {
+    "zeile": 518,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 520,
+    "zellen": 2,
+    "text": "2."
+  },
+  {
+    "zeile": 522,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 538,
+    "zellen": 9,
+    "text": "3."
+  },
+  {
+    "zeile": 540,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 562,
+    "zellen": 12,
+    "text": "4."
+  },
+  {
+    "zeile": 564,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 566,
+    "zellen": 2,
+    "text": "5."
+  },
+  {
+    "zeile": 568,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 574,
+    "zellen": 4,
+    "text": "6."
+  },
+  {
+    "zeile": 576,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 592,
+    "zellen": 9,
+    "text": "7."
+  },
+  {
+    "zeile": 597,
+    "art": "anlage",
+    "ebene": 3,
+    "sprungmarke": "muster-3",
+    "text": "Muster 3[1]"
+  },
+  {
+    "zeile": 600,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 604,
+    "zellen": 3,
+    "text": "..............."
+  },
+  {
+    "zeile": 606,
+    "art": "formulartitel",
+    "ebene": 4,
+    "sprungmarke": null,
+    "text": "Totenliste"
+  },
+  {
+    "zeile": 608,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 616,
+    "zellen": 5,
+    "text": "des Standesamtsbezirks ..............."
+  },
+  {
+    "zeile": 620,
+    "art": "formulartitel",
+    "ebene": 4,
+    "sprungmarke": null,
+    "text": "Anleitung für die Aufstellung und Einsendung der Totenliste"
+  },
+  {
+    "zeile": 622,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 624,
+    "zellen": 2,
+    "text": "1."
+  },
+  {
+    "zeile": 626,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 636,
+    "zellen": 6,
+    "text": "2."
+  },
+  {
+    "zeile": 638,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 660,
+    "zellen": 12,
+    "text": "3."
+  },
+  {
+    "zeile": 662,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 664,
+    "zellen": 2,
+    "text": "4."
+  },
+  {
+    "zeile": 666,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 696,
+    "zellen": 16,
+    "text": "5."
+  },
+  {
+    "zeile": 698,
+    "art": "seitenmarker",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "(Seite 2)"
+  },
+  {
+    "zeile": 702,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 738,
+    "zellen": 19,
+    "text": "Nummer des"
+  },
+  {
+    "zeile": 744,
+    "art": "seitenmarker",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "(Seite 3)"
+  },
+  {
+    "zeile": 748,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 784,
+    "zellen": 19,
+    "text": "Lebten von dem Verstorbenen am Todestag"
+  },
+  {
+    "zeile": 789,
+    "art": "anlage",
+    "ebene": 3,
+    "sprungmarke": "muster-4",
+    "text": "Muster 4[1]"
+  },
+  {
+    "zeile": 792,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 802,
+    "zellen": 6,
+    "text": "..............."
+  },
+  {
+    "zeile": 806,
+    "art": "formulartitel",
+    "ebene": 4,
+    "sprungmarke": null,
+    "text": "Fehlanzeige"
+  },
+  {
+    "zeile": 810,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 834,
+    "zellen": 13,
+    "text": "Im Standesamtsbezirk ..............."
+  },
+  {
+    "zeile": 839,
+    "art": "anlage",
+    "ebene": 3,
+    "sprungmarke": "muster-5",
+    "text": "Muster 5[1]"
+  },
+  {
+    "zeile": 842,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 1006,
+    "zellen": 82,
+    "text": "..............."
+  },
+  {
+    "zeile": 1011,
+    "art": "anlage",
+    "ebene": 3,
+    "sprungmarke": "muster-6",
+    "text": "Muster 6[1]"
+  },
+  {
+    "zeile": 1014,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 1028,
+    "zellen": 7,
+    "text": "..............."
+  },
+  {
+    "zeile": 1030,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 1042,
+    "zellen": 7,
+    "text": "1."
+  },
+  {
+    "zeile": 1044,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 1056,
+    "zellen": 7,
+    "text": "2."
+  },
+  {
+    "zeile": 1058,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 1064,
+    "zellen": 4,
+    "text": "3."
+  },
+  {
+    "zeile": 1066,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 1084,
+    "zellen": 10,
+    "text": "4."
+  },
+  {
+    "zeile": 1086,
+    "art": "formularblock",
+    "ebene": null,
+    "sprungmarke": null,
+    "zeile_bis": 1110,
+    "zellen": 13,
+    "text": "5."
+  }
+]

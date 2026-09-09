@@ -1,0 +1,42 @@
+{
+  "kuerzel": "DVStB",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/stbdv/",
+  "pdf_url": "https://www.gesetze-im-internet.de/stbdv/DVStB.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/stbdv/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html",
+  "original_dateiname": "DVStB.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 16,
+  "dateien": [
+    {
+      "datei": "Quellen/DVStB_aktuell.pdf",
+      "sha256": "ca5e29edaa78e107e69280dd1c5fb635a9bd2e685c5a20b259bd949fe10dcc26"
+    },
+    {
+      "datei": "Quellen/DVStB_bereitgestellt.pdf",
+      "sha256": "ca5e29edaa78e107e69280dd1c5fb635a9bd2e685c5a20b259bd949fe10dcc26"
+    },
+    {
+      "datei": "Quellen/DVStB_PDF_Rohtext.txt",
+      "sha256": "3472b6738af789e639091bf39509870d87d1764ef1a87191793809f825a9145c"
+    },
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "093b720883e58970dc91c68b818a90a5d86dbd01a2ac95c274d87753af83a0ef"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "3d4f638585d3c5928cc2f78f93916d8affefa7102d47810596ff0c9e51b30884"
+    },
+    {
+      "datei": "Quellen/XML/BJNR019220979.xml",
+      "sha256": "60be3d993c0c2bb649659db5ab99396acc8ba0efdacd324a299efed4260e76af"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "155aa889e396750631346aae52cca4fe4015219017ee3acd79b4411226a736c3"
+    }
+  ]
+}

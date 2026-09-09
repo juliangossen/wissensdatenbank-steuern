@@ -1,0 +1,149 @@
+{
+  "kuerzel": "Pkw-EnVKV",
+  "datum": "2026-09-09",
+  "methode": "Normweise Vergleich aller Überschriften, Texte und Fußnoten einschließlich aus XML-Attributen rekonstruierter Fußnotenmarker; NFC und Entfernung nur von Whitespace, PDF-Servicezeilen und Seitenzählern. Abweichungen einzeln dokumentiert.",
+  "normdatensaetze": 19,
+  "exakt_identisch": 19,
+  "abweichend": 0,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "technische_xml_praefixe": {
+    "regel": "Nur das GII-interne Kennzeichen (XXXX) vor enbez wird beim PDF-Vergleich entfernt. Die Vorschrift und ihr Wegfallhinweis bleiben erhalten.",
+    "anzahl": 0
+  },
+  "pdf_leertext_platzhalter": [],
+  "normen": [
+    {
+      "norm_index": 0,
+      "name": "Gesetzeskopf",
+      "pdf_zeichen": 821,
+      "xml_zeichen": 821,
+      "identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Eingangsformel",
+      "pdf_zeichen": 373,
+      "xml_zeichen": 373,
+      "identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "§ 1",
+      "pdf_zeichen": 2924,
+      "xml_zeichen": 2924,
+      "identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 2",
+      "pdf_zeichen": 9173,
+      "xml_zeichen": 9173,
+      "identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 3",
+      "pdf_zeichen": 2658,
+      "xml_zeichen": 2658,
+      "identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3a",
+      "pdf_zeichen": 721,
+      "xml_zeichen": 721,
+      "identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 4",
+      "pdf_zeichen": 3199,
+      "xml_zeichen": 3199,
+      "identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 5",
+      "pdf_zeichen": 1322,
+      "xml_zeichen": 1322,
+      "identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 6",
+      "pdf_zeichen": 864,
+      "xml_zeichen": 864,
+      "identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 7",
+      "pdf_zeichen": 749,
+      "xml_zeichen": 749,
+      "identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 8",
+      "pdf_zeichen": 757,
+      "xml_zeichen": 757,
+      "identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 9",
+      "pdf_zeichen": 584,
+      "xml_zeichen": 584,
+      "identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 10",
+      "pdf_zeichen": 342,
+      "xml_zeichen": 342,
+      "identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 11",
+      "pdf_zeichen": 934,
+      "xml_zeichen": 934,
+      "identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "Schlussformel",
+      "pdf_zeichen": 39,
+      "xml_zeichen": 39,
+      "identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "Anlage 1",
+      "pdf_zeichen": 11756,
+      "xml_zeichen": 11756,
+      "identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "Anlage 2",
+      "pdf_zeichen": 5209,
+      "xml_zeichen": 5209,
+      "identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "Anlage 3",
+      "pdf_zeichen": 5214,
+      "xml_zeichen": 5214,
+      "identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "Anlage 4",
+      "pdf_zeichen": 3682,
+      "xml_zeichen": 3682,
+      "identisch": true
+    }
+  ]
+}

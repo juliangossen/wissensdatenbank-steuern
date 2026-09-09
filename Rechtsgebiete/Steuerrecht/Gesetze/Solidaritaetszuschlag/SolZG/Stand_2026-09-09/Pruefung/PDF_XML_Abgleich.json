@@ -1,0 +1,59 @@
+{
+  "kuerzel": "SolZG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 160,
+      "xml_chars": 160,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "§ 1",
+      "pdf_chars": 132,
+      "xml_chars": 132,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "§ 2",
+      "pdf_chars": 314,
+      "xml_chars": 314,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 3",
+      "pdf_chars": 1403,
+      "xml_chars": 1403,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 4",
+      "pdf_chars": 199,
+      "xml_chars": 199,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 5",
+      "pdf_chars": 219,
+      "xml_chars": 219,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 6,
+  "gesamt": 6,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "0c64c0645c09da7d310c5cd3303ee9f320964cba3196ecb5c0b1143c3f1d815b",
+  "xml_sha256": "9203f15ea09e52fa99ac272b208ed675f092365338aacf9917d48aa71d71a738"
+}

@@ -1,0 +1,264 @@
+{
+  "kuerzel": "PAngV",
+  "datum": "2026-09-09",
+  "methode": "Vollständige Normtexte in Reihenfolge. NFC/Whitespace und PDF-Seitenservice entfernt. XML-FnArea setzt die bezeichneten Fußnoten an die Druckposition; zentrale Footnotes-Definitionen werden dort einmal ausgegeben. Wiederholte XML-Gliederungsmetadaten werden wie in der PDF nur bei Gruppenwechsel ausgegeben; alleinstehendes technisches Gliederungskennzeichen Minus entfällt im PDF. XML-FILE repräsentiert den Druckverweis; referenzierte Originaldateien werden zusätzlich separat vollständig integriert. Verbleibende Abweichungen nur bei konkret benannter und einzeln geprüfter Layoutausnahme zugelassen.",
+  "normdatensaetze": 28,
+  "exakt_identisch": 28,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "sha256_pdf": "fc8d84968214be8c50bf637e6ddf528b6bc09c48f9d599e8df0910287c9f7142",
+  "sha256_xml": "cdb0bf043b6faa14745c9aa868758b91ee3fc9da2186fe5973436cb80cb42679",
+  "normen": [
+    {
+      "index": 0,
+      "name": "Dokumentkopf",
+      "identisch": true,
+      "xml_zeichen": 375,
+      "pdf_zeichen": 375,
+      "sha256_xml_text": "2b9acccb50140dbc6980b972990181c2d189efe06d366ab6674833dc48489c1a",
+      "sha256_pdf_text": "2b9acccb50140dbc6980b972990181c2d189efe06d366ab6674833dc48489c1a"
+    },
+    {
+      "index": 1,
+      "name": "Inhaltsübersicht",
+      "identisch": true,
+      "xml_zeichen": 872,
+      "pdf_zeichen": 872,
+      "sha256_xml_text": "0ed3b2da59e36440524c4e5506c222d1c3846e54b19d4b27e48350fc627f8f22",
+      "sha256_pdf_text": "0ed3b2da59e36440524c4e5506c222d1c3846e54b19d4b27e48350fc627f8f22"
+    },
+    {
+      "index": 2,
+      "name": "Abschnitt 1Allgemeine Bestimmungen",
+      "identisch": true,
+      "xml_zeichen": 32,
+      "pdf_zeichen": 32,
+      "sha256_xml_text": "bf292bb94cc4efcbcaac2bd413e7ed61f34aecf60a2f8f6409f9e8cdda461f81",
+      "sha256_pdf_text": "bf292bb94cc4efcbcaac2bd413e7ed61f34aecf60a2f8f6409f9e8cdda461f81"
+    },
+    {
+      "index": 3,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 795,
+      "pdf_zeichen": 795,
+      "sha256_xml_text": "aa0ead71f4b159c405f72abf86e5898dd3d1b595f8ad2607f88e28993b8267a7",
+      "sha256_pdf_text": "aa0ead71f4b159c405f72abf86e5898dd3d1b595f8ad2607f88e28993b8267a7"
+    },
+    {
+      "index": 4,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1269,
+      "pdf_zeichen": 1269,
+      "sha256_xml_text": "129231389520079542af6be5249bef5b6b84e5cad1856b971251acb365ecf620",
+      "sha256_pdf_text": "129231389520079542af6be5249bef5b6b84e5cad1856b971251acb365ecf620"
+    },
+    {
+      "index": 5,
+      "name": "Abschnitt 2Grundvorschriften",
+      "identisch": true,
+      "xml_zeichen": 27,
+      "pdf_zeichen": 27,
+      "sha256_xml_text": "f5d71820c77a171a16ec0a795e6fca0192cd1d051ca1309669f2d2b5a7ba3f41",
+      "sha256_pdf_text": "f5d71820c77a171a16ec0a795e6fca0192cd1d051ca1309669f2d2b5a7ba3f41"
+    },
+    {
+      "index": 6,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 587,
+      "pdf_zeichen": 587,
+      "sha256_xml_text": "b4edb522e906aeac03d2d308ae380c1aa2eb1430ba1c13911cf9b23cfcff917e",
+      "sha256_pdf_text": "b4edb522e906aeac03d2d308ae380c1aa2eb1430ba1c13911cf9b23cfcff917e"
+    },
+    {
+      "index": 7,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 1586,
+      "pdf_zeichen": 1586,
+      "sha256_xml_text": "d4c0f7cd59beeb84d9db1c2b7bf3da1ae031f9dc4e3746536fc0127bf0079e69",
+      "sha256_pdf_text": "d4c0f7cd59beeb84d9db1c2b7bf3da1ae031f9dc4e3746536fc0127bf0079e69"
+    },
+    {
+      "index": 8,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 1063,
+      "pdf_zeichen": 1063,
+      "sha256_xml_text": "a510d6e31768a4c00837763373d6a2bdb91ff687e94d063d20347e5192bf9b62",
+      "sha256_pdf_text": "a510d6e31768a4c00837763373d6a2bdb91ff687e94d063d20347e5192bf9b62"
+    },
+    {
+      "index": 9,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 675,
+      "pdf_zeichen": 675,
+      "sha256_xml_text": "2a6ec22a391d41150c485e3b5a02fac605d89c3f846fac6a343d836e17e2d838",
+      "sha256_pdf_text": "2a6ec22a391d41150c485e3b5a02fac605d89c3f846fac6a343d836e17e2d838"
+    },
+    {
+      "index": 10,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 322,
+      "pdf_zeichen": 322,
+      "sha256_xml_text": "7161c7a34659ebe0a88f0463460fc661e22921be51b4ef2acd1a720e27ff7d01",
+      "sha256_pdf_text": "7161c7a34659ebe0a88f0463460fc661e22921be51b4ef2acd1a720e27ff7d01"
+    },
+    {
+      "index": 11,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 606,
+      "pdf_zeichen": 606,
+      "sha256_xml_text": "ef08006e9f1d6110fdaa637eed6c14f9e6bc275795a69b92df46153923cf24e9",
+      "sha256_pdf_text": "ef08006e9f1d6110fdaa637eed6c14f9e6bc275795a69b92df46153923cf24e9"
+    },
+    {
+      "index": 12,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 713,
+      "pdf_zeichen": 713,
+      "sha256_xml_text": "3ab8e9d7ec9b4a6b925b5b14532d848ccde9a5a453935e993a9a8f09c83dd6ca",
+      "sha256_pdf_text": "3ab8e9d7ec9b4a6b925b5b14532d848ccde9a5a453935e993a9a8f09c83dd6ca"
+    },
+    {
+      "index": 13,
+      "name": "Abschnitt 3Besondere Bestimmungen",
+      "identisch": true,
+      "xml_zeichen": 31,
+      "pdf_zeichen": 31,
+      "sha256_xml_text": "a6d7d9cac9266cb2760326b76673159a8c6f3ffe878f10eaeefba2fff431cee8",
+      "sha256_pdf_text": "a6d7d9cac9266cb2760326b76673159a8c6f3ffe878f10eaeefba2fff431cee8"
+    },
+    {
+      "index": 14,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 1803,
+      "pdf_zeichen": 1803,
+      "sha256_xml_text": "32a8c8b78bceba61a566f4a5a038cfa34ca9fd6e70c302eb0b3eac238ec26565",
+      "sha256_pdf_text": "32a8c8b78bceba61a566f4a5a038cfa34ca9fd6e70c302eb0b3eac238ec26565"
+    },
+    {
+      "index": 15,
+      "name": "§ 11",
+      "identisch": true,
+      "xml_zeichen": 1029,
+      "pdf_zeichen": 1029,
+      "sha256_xml_text": "095d7578fffe26e03ccbc612da383807202fef9efdceda4fdcd9ef938b9776bc",
+      "sha256_pdf_text": "095d7578fffe26e03ccbc612da383807202fef9efdceda4fdcd9ef938b9776bc"
+    },
+    {
+      "index": 16,
+      "name": "§ 12",
+      "identisch": true,
+      "xml_zeichen": 1471,
+      "pdf_zeichen": 1471,
+      "sha256_xml_text": "15ab73fc25363f0c045fcc0d83c5b2a7fb56b76db1f7b5734bdfb3b2ac80d06f",
+      "sha256_pdf_text": "15ab73fc25363f0c045fcc0d83c5b2a7fb56b76db1f7b5734bdfb3b2ac80d06f"
+    },
+    {
+      "index": 17,
+      "name": "§ 13",
+      "identisch": true,
+      "xml_zeichen": 1584,
+      "pdf_zeichen": 1584,
+      "sha256_xml_text": "5bc6e647ce58028ebd539692c5a4056c35762cc147b631f6759c1b845c604992",
+      "sha256_pdf_text": "5bc6e647ce58028ebd539692c5a4056c35762cc147b631f6759c1b845c604992"
+    },
+    {
+      "index": 18,
+      "name": "§ 14",
+      "identisch": true,
+      "xml_zeichen": 1473,
+      "pdf_zeichen": 1473,
+      "sha256_xml_text": "11ff4bd954c15bda2fccf50b54b3291d823f5ec27f77825d47619c5b1d8310a5",
+      "sha256_pdf_text": "11ff4bd954c15bda2fccf50b54b3291d823f5ec27f77825d47619c5b1d8310a5"
+    },
+    {
+      "index": 19,
+      "name": "§ 15",
+      "identisch": true,
+      "xml_zeichen": 572,
+      "pdf_zeichen": 572,
+      "sha256_xml_text": "6cf705bf2d3f8607cab50821298fc3a66a7bfc339aef81ab36b52a2f77e304e5",
+      "sha256_pdf_text": "6cf705bf2d3f8607cab50821298fc3a66a7bfc339aef81ab36b52a2f77e304e5"
+    },
+    {
+      "index": 20,
+      "name": "Abschnitt 4Bestimmungen zu Finanzdienstleistungen",
+      "identisch": true,
+      "xml_zeichen": 46,
+      "pdf_zeichen": 46,
+      "sha256_xml_text": "9485fb516786f4229f94622375bcdcbc0d9eb7e205a535c53e1e32f560c14de1",
+      "sha256_pdf_text": "9485fb516786f4229f94622375bcdcbc0d9eb7e205a535c53e1e32f560c14de1"
+    },
+    {
+      "index": 21,
+      "name": "§ 16",
+      "identisch": true,
+      "xml_zeichen": 4135,
+      "pdf_zeichen": 4135,
+      "sha256_xml_text": "c570816769b00434306e6807f7dc1b7bdd0aae13119a817cee445d937f3fd181",
+      "sha256_pdf_text": "c570816769b00434306e6807f7dc1b7bdd0aae13119a817cee445d937f3fd181"
+    },
+    {
+      "index": 22,
+      "name": "§ 17",
+      "identisch": true,
+      "xml_zeichen": 2496,
+      "pdf_zeichen": 2496,
+      "sha256_xml_text": "589806df348c5b151acef97c27b62dcb68da237fce79a1eb3e05ce42b9c5dd54",
+      "sha256_pdf_text": "589806df348c5b151acef97c27b62dcb68da237fce79a1eb3e05ce42b9c5dd54"
+    },
+    {
+      "index": 23,
+      "name": "§ 18",
+      "identisch": true,
+      "xml_zeichen": 314,
+      "pdf_zeichen": 314,
+      "sha256_xml_text": "43880ce0e7f7ef990e6c5c739562b681916d8541ef4a252b9b68c90f386cea06",
+      "sha256_pdf_text": "43880ce0e7f7ef990e6c5c739562b681916d8541ef4a252b9b68c90f386cea06"
+    },
+    {
+      "index": 24,
+      "name": "§ 19",
+      "identisch": true,
+      "xml_zeichen": 250,
+      "pdf_zeichen": 250,
+      "sha256_xml_text": "f1a4b314eab13af392c587ffaec3b946c66c09b0785eb339cd4afb01886fbf0d",
+      "sha256_pdf_text": "f1a4b314eab13af392c587ffaec3b946c66c09b0785eb339cd4afb01886fbf0d"
+    },
+    {
+      "index": 25,
+      "name": "Abschnitt 5Ordnungswidrigkeiten",
+      "identisch": true,
+      "xml_zeichen": 30,
+      "pdf_zeichen": 30,
+      "sha256_xml_text": "64e3aed2c4ef9e68ef930f153a59af5a67874e424447c9976a1ea206c063630d",
+      "sha256_pdf_text": "64e3aed2c4ef9e68ef930f153a59af5a67874e424447c9976a1ea206c063630d"
+    },
+    {
+      "index": 26,
+      "name": "§ 20",
+      "identisch": true,
+      "xml_zeichen": 994,
+      "pdf_zeichen": 994,
+      "sha256_xml_text": "e557b57ba9c5fd75097ef598cc61b94a440f8623fb8e401283002755cdc5c90f",
+      "sha256_pdf_text": "e557b57ba9c5fd75097ef598cc61b94a440f8623fb8e401283002755cdc5c90f"
+    },
+    {
+      "index": 27,
+      "name": "Anlage",
+      "identisch": true,
+      "xml_zeichen": 10553,
+      "pdf_zeichen": 10553,
+      "sha256_xml_text": "d6ad7528ab90b0293dbe8036d3cde386fc77faf3edda96c614289f5558b09d96",
+      "sha256_pdf_text": "d6ad7528ab90b0293dbe8036d3cde386fc77faf3edda96c614289f5558b09d96"
+    }
+  ]
+}

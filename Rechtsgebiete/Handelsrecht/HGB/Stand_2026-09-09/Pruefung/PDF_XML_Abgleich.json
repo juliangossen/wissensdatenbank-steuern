@@ -1,0 +1,5716 @@
+{
+  "kuerzel": "HGB",
+  "datum": "2026-09-09",
+  "methode": "Normweise Vergleich aller Überschriften, Texte und Fußnoten einschließlich aus XML-Attributen rekonstruierter Fußnotenmarker; NFC und Entfernung nur von Whitespace, PDF-Servicezeilen und Seitenzählern. Abweichungen einzeln dokumentiert.",
+  "normdatensaetze": 814,
+  "exakt_identisch": 814,
+  "abweichend": 0,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "technische_xml_praefixe": {
+    "regel": "Nur das GII-interne Kennzeichen (XXXX) vor enbez wird beim PDF-Vergleich entfernt. Die Vorschrift und ihr Wegfallhinweis bleiben erhalten.",
+    "anzahl": 7
+  },
+  "pdf_leertext_platzhalter": [
+    "(XXXX) §§ 153 bis 160"
+  ],
+  "normen": [
+    {
+      "norm_index": 0,
+      "name": "Gesetzeskopf",
+      "pdf_zeichen": 2023,
+      "xml_zeichen": 2023,
+      "identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Erstes BuchHandelsstand",
+      "pdf_zeichen": 22,
+      "xml_zeichen": 22,
+      "identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Erster AbschnittKaufleute",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_zeichen": 225,
+      "xml_zeichen": 225,
+      "identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 2",
+      "pdf_zeichen": 476,
+      "xml_zeichen": 476,
+      "identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3",
+      "pdf_zeichen": 638,
+      "xml_zeichen": 638,
+      "identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 4",
+      "pdf_zeichen": 15,
+      "xml_zeichen": 15,
+      "identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 5",
+      "pdf_zeichen": 187,
+      "xml_zeichen": 187,
+      "identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 6",
+      "pdf_zeichen": 294,
+      "xml_zeichen": 294,
+      "identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 7",
+      "pdf_zeichen": 232,
+      "xml_zeichen": 232,
+      "identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "Zweiter AbschnittHandelsregister; Unternehmensregister",
+      "pdf_zeichen": 52,
+      "xml_zeichen": 52,
+      "identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 8",
+      "pdf_zeichen": 198,
+      "xml_zeichen": 198,
+      "identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 8a",
+      "pdf_zeichen": 960,
+      "xml_zeichen": 960,
+      "identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 8b",
+      "pdf_zeichen": 5170,
+      "xml_zeichen": 5170,
+      "identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 9",
+      "pdf_zeichen": 2425,
+      "xml_zeichen": 2425,
+      "identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 9a",
+      "pdf_zeichen": 2689,
+      "xml_zeichen": 2689,
+      "identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 9b",
+      "pdf_zeichen": 5006,
+      "xml_zeichen": 5006,
+      "identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 9c",
+      "pdf_zeichen": 3415,
+      "xml_zeichen": 3415,
+      "identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 9d",
+      "pdf_zeichen": 1418,
+      "xml_zeichen": 1418,
+      "identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 10",
+      "pdf_zeichen": 1123,
+      "xml_zeichen": 1123,
+      "identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 10a",
+      "pdf_zeichen": 1535,
+      "xml_zeichen": 1535,
+      "identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 11",
+      "pdf_zeichen": 574,
+      "xml_zeichen": 574,
+      "identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 12",
+      "pdf_zeichen": 945,
+      "xml_zeichen": 945,
+      "identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 13",
+      "pdf_zeichen": 916,
+      "xml_zeichen": 916,
+      "identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 13a",
+      "pdf_zeichen": 1072,
+      "xml_zeichen": 1072,
+      "identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "(XXXX) §§ 13b u. 13c",
+      "pdf_zeichen": 23,
+      "xml_zeichen": 23,
+      "identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 13d",
+      "pdf_zeichen": 1060,
+      "xml_zeichen": 1060,
+      "identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 13e",
+      "pdf_zeichen": 3846,
+      "xml_zeichen": 3846,
+      "identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 13f",
+      "pdf_zeichen": 2322,
+      "xml_zeichen": 2322,
+      "identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 13g",
+      "pdf_zeichen": 2114,
+      "xml_zeichen": 2114,
+      "identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 13h",
+      "pdf_zeichen": 1385,
+      "xml_zeichen": 1385,
+      "identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 14",
+      "pdf_zeichen": 234,
+      "xml_zeichen": 234,
+      "identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 15",
+      "pdf_zeichen": 1132,
+      "xml_zeichen": 1132,
+      "identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 15a",
+      "pdf_zeichen": 630,
+      "xml_zeichen": 630,
+      "identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 16",
+      "pdf_zeichen": 691,
+      "xml_zeichen": 691,
+      "identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "Dritter AbschnittHandelsfirma",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 17",
+      "pdf_zeichen": 154,
+      "xml_zeichen": 154,
+      "identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 18",
+      "pdf_zeichen": 337,
+      "xml_zeichen": 337,
+      "identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 19",
+      "pdf_zeichen": 813,
+      "xml_zeichen": 813,
+      "identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 20",
+      "pdf_zeichen": 16,
+      "xml_zeichen": 16,
+      "identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 21",
+      "pdf_zeichen": 153,
+      "xml_zeichen": 153,
+      "identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§ 22",
+      "pdf_zeichen": 496,
+      "xml_zeichen": 496,
+      "identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "§ 23",
+      "pdf_zeichen": 84,
+      "xml_zeichen": 84,
+      "identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 24",
+      "pdf_zeichen": 604,
+      "xml_zeichen": 604,
+      "identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 25",
+      "pdf_zeichen": 859,
+      "xml_zeichen": 859,
+      "identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 26",
+      "pdf_zeichen": 1035,
+      "xml_zeichen": 1035,
+      "identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "§ 27",
+      "pdf_zeichen": 650,
+      "xml_zeichen": 650,
+      "identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 28",
+      "pdf_zeichen": 1008,
+      "xml_zeichen": 1008,
+      "identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 29",
+      "pdf_zeichen": 212,
+      "xml_zeichen": 212,
+      "identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "§ 30",
+      "pdf_zeichen": 824,
+      "xml_zeichen": 824,
+      "identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "§ 31",
+      "pdf_zeichen": 431,
+      "xml_zeichen": 431,
+      "identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 32",
+      "pdf_zeichen": 767,
+      "xml_zeichen": 767,
+      "identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "§ 33",
+      "pdf_zeichen": 822,
+      "xml_zeichen": 822,
+      "identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 34",
+      "pdf_zeichen": 834,
+      "xml_zeichen": 834,
+      "identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "§ 35",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 36",
+      "pdf_zeichen": 16,
+      "xml_zeichen": 16,
+      "identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§ 37",
+      "pdf_zeichen": 402,
+      "xml_zeichen": 402,
+      "identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 37a",
+      "pdf_zeichen": 776,
+      "xml_zeichen": 776,
+      "identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "Vierter AbschnittHandelsbücher",
+      "pdf_zeichen": 29,
+      "xml_zeichen": 29,
+      "identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "(XXXX) §§ 38 bis 47b",
+      "pdf_zeichen": 23,
+      "xml_zeichen": 23,
+      "identisch": true
+    },
+    {
+      "norm_index": 60,
+      "name": "Fünfter AbschnittProkura und\nHandlungsvollmacht",
+      "pdf_zeichen": 44,
+      "xml_zeichen": 44,
+      "identisch": true
+    },
+    {
+      "norm_index": 61,
+      "name": "§ 48",
+      "pdf_zeichen": 212,
+      "xml_zeichen": 212,
+      "identisch": true
+    },
+    {
+      "norm_index": 62,
+      "name": "§ 49",
+      "pdf_zeichen": 265,
+      "xml_zeichen": 265,
+      "identisch": true
+    },
+    {
+      "norm_index": 63,
+      "name": "§ 50",
+      "pdf_zeichen": 634,
+      "xml_zeichen": 634,
+      "identisch": true
+    },
+    {
+      "norm_index": 64,
+      "name": "§ 51",
+      "pdf_zeichen": 107,
+      "xml_zeichen": 107,
+      "identisch": true
+    },
+    {
+      "norm_index": 65,
+      "name": "§ 52",
+      "pdf_zeichen": 258,
+      "xml_zeichen": 258,
+      "identisch": true
+    },
+    {
+      "norm_index": 66,
+      "name": "§ 53",
+      "pdf_zeichen": 269,
+      "xml_zeichen": 269,
+      "identisch": true
+    },
+    {
+      "norm_index": 67,
+      "name": "§ 54",
+      "pdf_zeichen": 743,
+      "xml_zeichen": 743,
+      "identisch": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 55",
+      "pdf_zeichen": 751,
+      "xml_zeichen": 751,
+      "identisch": true
+    },
+    {
+      "norm_index": 69,
+      "name": "§ 56",
+      "pdf_zeichen": 164,
+      "xml_zeichen": 164,
+      "identisch": true
+    },
+    {
+      "norm_index": 70,
+      "name": "§ 57",
+      "pdf_zeichen": 166,
+      "xml_zeichen": 166,
+      "identisch": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 58",
+      "pdf_zeichen": 132,
+      "xml_zeichen": 132,
+      "identisch": true
+    },
+    {
+      "norm_index": 72,
+      "name": "Sechster AbschnittHandlungsgehilfen und\nHandlungslehrlinge",
+      "pdf_zeichen": 55,
+      "xml_zeichen": 55,
+      "identisch": true
+    },
+    {
+      "norm_index": 73,
+      "name": "§ 59",
+      "pdf_zeichen": 432,
+      "xml_zeichen": 432,
+      "identisch": true
+    },
+    {
+      "norm_index": 74,
+      "name": "§ 60",
+      "pdf_zeichen": 372,
+      "xml_zeichen": 372,
+      "identisch": true
+    },
+    {
+      "norm_index": 75,
+      "name": "§ 61",
+      "pdf_zeichen": 622,
+      "xml_zeichen": 622,
+      "identisch": true
+    },
+    {
+      "norm_index": 76,
+      "name": "§ 62",
+      "pdf_zeichen": 1062,
+      "xml_zeichen": 1062,
+      "identisch": true
+    },
+    {
+      "norm_index": 77,
+      "name": "§ 63",
+      "pdf_zeichen": 16,
+      "xml_zeichen": 16,
+      "identisch": true
+    },
+    {
+      "norm_index": 78,
+      "name": "§ 64",
+      "pdf_zeichen": 163,
+      "xml_zeichen": 163,
+      "identisch": true
+    },
+    {
+      "norm_index": 79,
+      "name": "§ 65",
+      "pdf_zeichen": 211,
+      "xml_zeichen": 211,
+      "identisch": true
+    },
+    {
+      "norm_index": 80,
+      "name": "(XXXX) §§ 66 bis 72",
+      "pdf_zeichen": 22,
+      "xml_zeichen": 22,
+      "identisch": true
+    },
+    {
+      "norm_index": 81,
+      "name": "§ 73",
+      "pdf_zeichen": 16,
+      "xml_zeichen": 16,
+      "identisch": true
+    },
+    {
+      "norm_index": 82,
+      "name": "§ 74",
+      "pdf_zeichen": 555,
+      "xml_zeichen": 555,
+      "identisch": true
+    },
+    {
+      "norm_index": 83,
+      "name": "§ 74a",
+      "pdf_zeichen": 904,
+      "xml_zeichen": 904,
+      "identisch": true
+    },
+    {
+      "norm_index": 84,
+      "name": "§ 74b",
+      "pdf_zeichen": 617,
+      "xml_zeichen": 617,
+      "identisch": true
+    },
+    {
+      "norm_index": 85,
+      "name": "§ 74c",
+      "pdf_zeichen": 697,
+      "xml_zeichen": 697,
+      "identisch": true
+    },
+    {
+      "norm_index": 86,
+      "name": "§ 75",
+      "pdf_zeichen": 816,
+      "xml_zeichen": 816,
+      "identisch": true
+    },
+    {
+      "norm_index": 87,
+      "name": "§ 75a",
+      "pdf_zeichen": 228,
+      "xml_zeichen": 228,
+      "identisch": true
+    },
+    {
+      "norm_index": 88,
+      "name": "§ 75b",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 89,
+      "name": "§ 75c",
+      "pdf_zeichen": 680,
+      "xml_zeichen": 680,
+      "identisch": true
+    },
+    {
+      "norm_index": 90,
+      "name": "§ 75d",
+      "pdf_zeichen": 292,
+      "xml_zeichen": 292,
+      "identisch": true
+    },
+    {
+      "norm_index": 91,
+      "name": "§ 75e",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 92,
+      "name": "§ 75f",
+      "pdf_zeichen": 296,
+      "xml_zeichen": 296,
+      "identisch": true
+    },
+    {
+      "norm_index": 93,
+      "name": "§ 75g",
+      "pdf_zeichen": 233,
+      "xml_zeichen": 233,
+      "identisch": true
+    },
+    {
+      "norm_index": 94,
+      "name": "§ 75h",
+      "pdf_zeichen": 598,
+      "xml_zeichen": 598,
+      "identisch": true
+    },
+    {
+      "norm_index": 95,
+      "name": "(XXXX) §§ 76 bis 82",
+      "pdf_zeichen": 22,
+      "xml_zeichen": 22,
+      "identisch": true
+    },
+    {
+      "norm_index": 96,
+      "name": "§ 82a",
+      "pdf_zeichen": 296,
+      "xml_zeichen": 296,
+      "identisch": true
+    },
+    {
+      "norm_index": 97,
+      "name": "§ 83",
+      "pdf_zeichen": 177,
+      "xml_zeichen": 177,
+      "identisch": true
+    },
+    {
+      "norm_index": 98,
+      "name": "Siebenter AbschnittHandelsvertreter",
+      "pdf_zeichen": 34,
+      "xml_zeichen": 34,
+      "identisch": true
+    },
+    {
+      "norm_index": 99,
+      "name": "§ 84",
+      "pdf_zeichen": 660,
+      "xml_zeichen": 660,
+      "identisch": true
+    },
+    {
+      "norm_index": 100,
+      "name": "§ 85",
+      "pdf_zeichen": 191,
+      "xml_zeichen": 191,
+      "identisch": true
+    },
+    {
+      "norm_index": 101,
+      "name": "§ 86",
+      "pdf_zeichen": 432,
+      "xml_zeichen": 432,
+      "identisch": true
+    },
+    {
+      "norm_index": 102,
+      "name": "§ 86a",
+      "pdf_zeichen": 721,
+      "xml_zeichen": 721,
+      "identisch": true
+    },
+    {
+      "norm_index": 103,
+      "name": "§ 86b",
+      "pdf_zeichen": 706,
+      "xml_zeichen": 706,
+      "identisch": true
+    },
+    {
+      "norm_index": 104,
+      "name": "§ 87",
+      "pdf_zeichen": 1582,
+      "xml_zeichen": 1582,
+      "identisch": true
+    },
+    {
+      "norm_index": 105,
+      "name": "§ 87a",
+      "pdf_zeichen": 1072,
+      "xml_zeichen": 1072,
+      "identisch": true
+    },
+    {
+      "norm_index": 106,
+      "name": "§ 87b",
+      "pdf_zeichen": 840,
+      "xml_zeichen": 840,
+      "identisch": true
+    },
+    {
+      "norm_index": 107,
+      "name": "§ 87c",
+      "pdf_zeichen": 1037,
+      "xml_zeichen": 1037,
+      "identisch": true
+    },
+    {
+      "norm_index": 108,
+      "name": "§ 87d",
+      "pdf_zeichen": 134,
+      "xml_zeichen": 134,
+      "identisch": true
+    },
+    {
+      "norm_index": 109,
+      "name": "§ 88",
+      "pdf_zeichen": 16,
+      "xml_zeichen": 16,
+      "identisch": true
+    },
+    {
+      "norm_index": 110,
+      "name": "§ 88a",
+      "pdf_zeichen": 331,
+      "xml_zeichen": 331,
+      "identisch": true
+    },
+    {
+      "norm_index": 111,
+      "name": "§ 89",
+      "pdf_zeichen": 959,
+      "xml_zeichen": 959,
+      "identisch": true
+    },
+    {
+      "norm_index": 112,
+      "name": "§ 89a",
+      "pdf_zeichen": 341,
+      "xml_zeichen": 341,
+      "identisch": true
+    },
+    {
+      "norm_index": 113,
+      "name": "§ 89b",
+      "pdf_zeichen": 2379,
+      "xml_zeichen": 2379,
+      "identisch": true
+    },
+    {
+      "norm_index": 114,
+      "name": "§ 90",
+      "pdf_zeichen": 320,
+      "xml_zeichen": 320,
+      "identisch": true
+    },
+    {
+      "norm_index": 115,
+      "name": "§ 90a",
+      "pdf_zeichen": 1229,
+      "xml_zeichen": 1229,
+      "identisch": true
+    },
+    {
+      "norm_index": 116,
+      "name": "§ 91",
+      "pdf_zeichen": 611,
+      "xml_zeichen": 611,
+      "identisch": true
+    },
+    {
+      "norm_index": 117,
+      "name": "§ 91a",
+      "pdf_zeichen": 569,
+      "xml_zeichen": 569,
+      "identisch": true
+    },
+    {
+      "norm_index": 118,
+      "name": "§ 92",
+      "pdf_zeichen": 735,
+      "xml_zeichen": 735,
+      "identisch": true
+    },
+    {
+      "norm_index": 119,
+      "name": "§ 92a",
+      "pdf_zeichen": 1398,
+      "xml_zeichen": 1398,
+      "identisch": true
+    },
+    {
+      "norm_index": 120,
+      "name": "§ 92b",
+      "pdf_zeichen": 736,
+      "xml_zeichen": 736,
+      "identisch": true
+    },
+    {
+      "norm_index": 121,
+      "name": "§ 92c",
+      "pdf_zeichen": 499,
+      "xml_zeichen": 499,
+      "identisch": true
+    },
+    {
+      "norm_index": 122,
+      "name": "Achter AbschnittHandelsmakler",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 123,
+      "name": "§ 93",
+      "pdf_zeichen": 741,
+      "xml_zeichen": 741,
+      "identisch": true
+    },
+    {
+      "norm_index": 124,
+      "name": "§ 94",
+      "pdf_zeichen": 709,
+      "xml_zeichen": 709,
+      "identisch": true
+    },
+    {
+      "norm_index": 125,
+      "name": "§ 95",
+      "pdf_zeichen": 716,
+      "xml_zeichen": 716,
+      "identisch": true
+    },
+    {
+      "norm_index": 126,
+      "name": "§ 96",
+      "pdf_zeichen": 377,
+      "xml_zeichen": 377,
+      "identisch": true
+    },
+    {
+      "norm_index": 127,
+      "name": "§ 97",
+      "pdf_zeichen": 112,
+      "xml_zeichen": 112,
+      "identisch": true
+    },
+    {
+      "norm_index": 128,
+      "name": "§ 98",
+      "pdf_zeichen": 93,
+      "xml_zeichen": 93,
+      "identisch": true
+    },
+    {
+      "norm_index": 129,
+      "name": "§ 99",
+      "pdf_zeichen": 161,
+      "xml_zeichen": 161,
+      "identisch": true
+    },
+    {
+      "norm_index": 130,
+      "name": "§ 100",
+      "pdf_zeichen": 470,
+      "xml_zeichen": 470,
+      "identisch": true
+    },
+    {
+      "norm_index": 131,
+      "name": "§ 101",
+      "pdf_zeichen": 200,
+      "xml_zeichen": 200,
+      "identisch": true
+    },
+    {
+      "norm_index": 132,
+      "name": "§ 102",
+      "pdf_zeichen": 171,
+      "xml_zeichen": 171,
+      "identisch": true
+    },
+    {
+      "norm_index": 133,
+      "name": "§ 103",
+      "pdf_zeichen": 350,
+      "xml_zeichen": 350,
+      "identisch": true
+    },
+    {
+      "norm_index": 134,
+      "name": "§ 104",
+      "pdf_zeichen": 271,
+      "xml_zeichen": 271,
+      "identisch": true
+    },
+    {
+      "norm_index": 135,
+      "name": "Neunter AbschnittBußgeldvorschriften",
+      "pdf_zeichen": 35,
+      "xml_zeichen": 35,
+      "identisch": true
+    },
+    {
+      "norm_index": 136,
+      "name": "§ 104a",
+      "pdf_zeichen": 382,
+      "xml_zeichen": 382,
+      "identisch": true
+    },
+    {
+      "norm_index": 137,
+      "name": "Zweites BuchHandelsgesellschaften und stille\nGesellschaft",
+      "pdf_zeichen": 53,
+      "xml_zeichen": 53,
+      "identisch": true
+    },
+    {
+      "norm_index": 138,
+      "name": "Erster AbschnittOffene Handelsgesellschaft",
+      "pdf_zeichen": 40,
+      "xml_zeichen": 40,
+      "identisch": true
+    },
+    {
+      "norm_index": 139,
+      "name": "Erster TitelErrichtung der Gesellschaft",
+      "pdf_zeichen": 36,
+      "xml_zeichen": 36,
+      "identisch": true
+    },
+    {
+      "norm_index": 140,
+      "name": "§ 105",
+      "pdf_zeichen": 562,
+      "xml_zeichen": 562,
+      "identisch": true
+    },
+    {
+      "norm_index": 141,
+      "name": "§ 106",
+      "pdf_zeichen": 2553,
+      "xml_zeichen": 2553,
+      "identisch": true
+    },
+    {
+      "norm_index": 142,
+      "name": "§ 107",
+      "pdf_zeichen": 1004,
+      "xml_zeichen": 1004,
+      "identisch": true
+    },
+    {
+      "norm_index": 143,
+      "name": "Zweiter TitelRechtsverhältnis der Gesellschafter untereinander und der Gesellschafter zur Gesellschaft",
+      "pdf_zeichen": 93,
+      "xml_zeichen": 93,
+      "identisch": true
+    },
+    {
+      "norm_index": 144,
+      "name": "§ 108",
+      "pdf_zeichen": 141,
+      "xml_zeichen": 141,
+      "identisch": true
+    },
+    {
+      "norm_index": 145,
+      "name": "§ 109",
+      "pdf_zeichen": 643,
+      "xml_zeichen": 643,
+      "identisch": true
+    },
+    {
+      "norm_index": 146,
+      "name": "§ 110",
+      "pdf_zeichen": 590,
+      "xml_zeichen": 590,
+      "identisch": true
+    },
+    {
+      "norm_index": 147,
+      "name": "§ 111",
+      "pdf_zeichen": 398,
+      "xml_zeichen": 398,
+      "identisch": true
+    },
+    {
+      "norm_index": 148,
+      "name": "§ 112",
+      "pdf_zeichen": 696,
+      "xml_zeichen": 696,
+      "identisch": true
+    },
+    {
+      "norm_index": 149,
+      "name": "§ 113",
+      "pdf_zeichen": 1070,
+      "xml_zeichen": 1070,
+      "identisch": true
+    },
+    {
+      "norm_index": 150,
+      "name": "§ 114",
+      "pdf_zeichen": 221,
+      "xml_zeichen": 221,
+      "identisch": true
+    },
+    {
+      "norm_index": 151,
+      "name": "§ 115",
+      "pdf_zeichen": 418,
+      "xml_zeichen": 418,
+      "identisch": true
+    },
+    {
+      "norm_index": 152,
+      "name": "§ 116",
+      "pdf_zeichen": 1803,
+      "xml_zeichen": 1803,
+      "identisch": true
+    },
+    {
+      "norm_index": 153,
+      "name": "§ 117",
+      "pdf_zeichen": 570,
+      "xml_zeichen": 570,
+      "identisch": true
+    },
+    {
+      "norm_index": 154,
+      "name": "§ 118",
+      "pdf_zeichen": 1018,
+      "xml_zeichen": 1018,
+      "identisch": true
+    },
+    {
+      "norm_index": 155,
+      "name": "§ 119",
+      "pdf_zeichen": 677,
+      "xml_zeichen": 677,
+      "identisch": true
+    },
+    {
+      "norm_index": 156,
+      "name": "§ 120",
+      "pdf_zeichen": 460,
+      "xml_zeichen": 460,
+      "identisch": true
+    },
+    {
+      "norm_index": 157,
+      "name": "§ 121",
+      "pdf_zeichen": 118,
+      "xml_zeichen": 118,
+      "identisch": true
+    },
+    {
+      "norm_index": 158,
+      "name": "§ 122",
+      "pdf_zeichen": 318,
+      "xml_zeichen": 318,
+      "identisch": true
+    },
+    {
+      "norm_index": 159,
+      "name": "Dritter TitelRechtsverhältnis der Gesellschaft zu Dritten",
+      "pdf_zeichen": 52,
+      "xml_zeichen": 52,
+      "identisch": true
+    },
+    {
+      "norm_index": 160,
+      "name": "§ 123",
+      "pdf_zeichen": 411,
+      "xml_zeichen": 411,
+      "identisch": true
+    },
+    {
+      "norm_index": 161,
+      "name": "§ 124",
+      "pdf_zeichen": 1572,
+      "xml_zeichen": 1572,
+      "identisch": true
+    },
+    {
+      "norm_index": 162,
+      "name": "§ 125",
+      "pdf_zeichen": 1049,
+      "xml_zeichen": 1049,
+      "identisch": true
+    },
+    {
+      "norm_index": 163,
+      "name": "§ 126",
+      "pdf_zeichen": 203,
+      "xml_zeichen": 203,
+      "identisch": true
+    },
+    {
+      "norm_index": 164,
+      "name": "§ 127",
+      "pdf_zeichen": 271,
+      "xml_zeichen": 271,
+      "identisch": true
+    },
+    {
+      "norm_index": 165,
+      "name": "§ 128",
+      "pdf_zeichen": 528,
+      "xml_zeichen": 528,
+      "identisch": true
+    },
+    {
+      "norm_index": 166,
+      "name": "§ 129",
+      "pdf_zeichen": 314,
+      "xml_zeichen": 314,
+      "identisch": true
+    },
+    {
+      "norm_index": 167,
+      "name": "Vierter TitelAusscheiden eines Gesellschafters",
+      "pdf_zeichen": 43,
+      "xml_zeichen": 43,
+      "identisch": true
+    },
+    {
+      "norm_index": 168,
+      "name": "§ 130",
+      "pdf_zeichen": 879,
+      "xml_zeichen": 879,
+      "identisch": true
+    },
+    {
+      "norm_index": 169,
+      "name": "§ 131",
+      "pdf_zeichen": 1447,
+      "xml_zeichen": 1447,
+      "identisch": true
+    },
+    {
+      "norm_index": 170,
+      "name": "§ 132",
+      "pdf_zeichen": 1811,
+      "xml_zeichen": 1811,
+      "identisch": true
+    },
+    {
+      "norm_index": 171,
+      "name": "§ 133",
+      "pdf_zeichen": 627,
+      "xml_zeichen": 627,
+      "identisch": true
+    },
+    {
+      "norm_index": 172,
+      "name": "§ 134",
+      "pdf_zeichen": 595,
+      "xml_zeichen": 595,
+      "identisch": true
+    },
+    {
+      "norm_index": 173,
+      "name": "§ 135",
+      "pdf_zeichen": 674,
+      "xml_zeichen": 674,
+      "identisch": true
+    },
+    {
+      "norm_index": 174,
+      "name": "§ 136",
+      "pdf_zeichen": 314,
+      "xml_zeichen": 314,
+      "identisch": true
+    },
+    {
+      "norm_index": 175,
+      "name": "§ 137",
+      "pdf_zeichen": 1495,
+      "xml_zeichen": 1495,
+      "identisch": true
+    },
+    {
+      "norm_index": 176,
+      "name": "Fünfter TitelAuflösung der Gesellschaft",
+      "pdf_zeichen": 36,
+      "xml_zeichen": 36,
+      "identisch": true
+    },
+    {
+      "norm_index": 177,
+      "name": "§ 138",
+      "pdf_zeichen": 853,
+      "xml_zeichen": 853,
+      "identisch": true
+    },
+    {
+      "norm_index": 178,
+      "name": "§ 139",
+      "pdf_zeichen": 642,
+      "xml_zeichen": 642,
+      "identisch": true
+    },
+    {
+      "norm_index": 179,
+      "name": "§ 140",
+      "pdf_zeichen": 227,
+      "xml_zeichen": 227,
+      "identisch": true
+    },
+    {
+      "norm_index": 180,
+      "name": "§ 141",
+      "pdf_zeichen": 693,
+      "xml_zeichen": 693,
+      "identisch": true
+    },
+    {
+      "norm_index": 181,
+      "name": "§ 142",
+      "pdf_zeichen": 418,
+      "xml_zeichen": 418,
+      "identisch": true
+    },
+    {
+      "norm_index": 182,
+      "name": "Sechster TitelLiquidation der Gesellschaft",
+      "pdf_zeichen": 39,
+      "xml_zeichen": 39,
+      "identisch": true
+    },
+    {
+      "norm_index": 183,
+      "name": "§ 143",
+      "pdf_zeichen": 1031,
+      "xml_zeichen": 1031,
+      "identisch": true
+    },
+    {
+      "norm_index": 184,
+      "name": "§ 144",
+      "pdf_zeichen": 624,
+      "xml_zeichen": 624,
+      "identisch": true
+    },
+    {
+      "norm_index": 185,
+      "name": "§ 145",
+      "pdf_zeichen": 978,
+      "xml_zeichen": 978,
+      "identisch": true
+    },
+    {
+      "norm_index": 186,
+      "name": "§ 146",
+      "pdf_zeichen": 433,
+      "xml_zeichen": 433,
+      "identisch": true
+    },
+    {
+      "norm_index": 187,
+      "name": "§ 147",
+      "pdf_zeichen": 661,
+      "xml_zeichen": 661,
+      "identisch": true
+    },
+    {
+      "norm_index": 188,
+      "name": "§ 148",
+      "pdf_zeichen": 1904,
+      "xml_zeichen": 1904,
+      "identisch": true
+    },
+    {
+      "norm_index": 189,
+      "name": "§ 149",
+      "pdf_zeichen": 432,
+      "xml_zeichen": 432,
+      "identisch": true
+    },
+    {
+      "norm_index": 190,
+      "name": "§ 150",
+      "pdf_zeichen": 157,
+      "xml_zeichen": 157,
+      "identisch": true
+    },
+    {
+      "norm_index": 191,
+      "name": "§ 151",
+      "pdf_zeichen": 749,
+      "xml_zeichen": 749,
+      "identisch": true
+    },
+    {
+      "norm_index": 192,
+      "name": "§ 152",
+      "pdf_zeichen": 412,
+      "xml_zeichen": 412,
+      "identisch": true
+    },
+    {
+      "norm_index": 193,
+      "name": "(XXXX) §§ 153 bis 160",
+      "pdf_zeichen": 114,
+      "xml_zeichen": 114,
+      "identisch": true
+    },
+    {
+      "norm_index": 194,
+      "name": "Zweiter AbschnittKommanditgesellschaft",
+      "pdf_zeichen": 37,
+      "xml_zeichen": 37,
+      "identisch": true
+    },
+    {
+      "norm_index": 195,
+      "name": "§ 161",
+      "pdf_zeichen": 583,
+      "xml_zeichen": 583,
+      "identisch": true
+    },
+    {
+      "norm_index": 196,
+      "name": "§ 162",
+      "pdf_zeichen": 355,
+      "xml_zeichen": 355,
+      "identisch": true
+    },
+    {
+      "norm_index": 197,
+      "name": "§ 163",
+      "pdf_zeichen": 157,
+      "xml_zeichen": 157,
+      "identisch": true
+    },
+    {
+      "norm_index": 198,
+      "name": "§ 164",
+      "pdf_zeichen": 128,
+      "xml_zeichen": 128,
+      "identisch": true
+    },
+    {
+      "norm_index": 199,
+      "name": "§ 165",
+      "pdf_zeichen": 59,
+      "xml_zeichen": 59,
+      "identisch": true
+    },
+    {
+      "norm_index": 200,
+      "name": "§ 166",
+      "pdf_zeichen": 586,
+      "xml_zeichen": 586,
+      "identisch": true
+    },
+    {
+      "norm_index": 201,
+      "name": "§ 167",
+      "pdf_zeichen": 117,
+      "xml_zeichen": 117,
+      "identisch": true
+    },
+    {
+      "norm_index": 202,
+      "name": "§ 168",
+      "pdf_zeichen": 109,
+      "xml_zeichen": 109,
+      "identisch": true
+    },
+    {
+      "norm_index": 203,
+      "name": "§ 169",
+      "pdf_zeichen": 349,
+      "xml_zeichen": 349,
+      "identisch": true
+    },
+    {
+      "norm_index": 204,
+      "name": "§ 170",
+      "pdf_zeichen": 383,
+      "xml_zeichen": 383,
+      "identisch": true
+    },
+    {
+      "norm_index": 205,
+      "name": "§ 171",
+      "pdf_zeichen": 368,
+      "xml_zeichen": 368,
+      "identisch": true
+    },
+    {
+      "norm_index": 206,
+      "name": "§ 172",
+      "pdf_zeichen": 1388,
+      "xml_zeichen": 1388,
+      "identisch": true
+    },
+    {
+      "norm_index": 207,
+      "name": "§ 172a",
+      "pdf_zeichen": 19,
+      "xml_zeichen": 19,
+      "identisch": true
+    },
+    {
+      "norm_index": 208,
+      "name": "§ 173",
+      "pdf_zeichen": 288,
+      "xml_zeichen": 288,
+      "identisch": true
+    },
+    {
+      "norm_index": 209,
+      "name": "§ 174",
+      "pdf_zeichen": 305,
+      "xml_zeichen": 305,
+      "identisch": true
+    },
+    {
+      "norm_index": 210,
+      "name": "§ 175",
+      "pdf_zeichen": 156,
+      "xml_zeichen": 156,
+      "identisch": true
+    },
+    {
+      "norm_index": 211,
+      "name": "§ 176",
+      "pdf_zeichen": 651,
+      "xml_zeichen": 651,
+      "identisch": true
+    },
+    {
+      "norm_index": 212,
+      "name": "§ 177",
+      "pdf_zeichen": 114,
+      "xml_zeichen": 114,
+      "identisch": true
+    },
+    {
+      "norm_index": 213,
+      "name": "§ 177a",
+      "pdf_zeichen": 211,
+      "xml_zeichen": 211,
+      "identisch": true
+    },
+    {
+      "norm_index": 214,
+      "name": "§ 178",
+      "pdf_zeichen": 91,
+      "xml_zeichen": 91,
+      "identisch": true
+    },
+    {
+      "norm_index": 215,
+      "name": "§ 179",
+      "pdf_zeichen": 662,
+      "xml_zeichen": 662,
+      "identisch": true
+    },
+    {
+      "norm_index": 216,
+      "name": "(XXXX) §§ 180 bis 229",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 217,
+      "name": "Dritter AbschnittStille Gesellschaft",
+      "pdf_zeichen": 34,
+      "xml_zeichen": 34,
+      "identisch": true
+    },
+    {
+      "norm_index": 218,
+      "name": "§ 230",
+      "pdf_zeichen": 288,
+      "xml_zeichen": 288,
+      "identisch": true
+    },
+    {
+      "norm_index": 219,
+      "name": "§ 231",
+      "pdf_zeichen": 291,
+      "xml_zeichen": 291,
+      "identisch": true
+    },
+    {
+      "norm_index": 220,
+      "name": "§ 232",
+      "pdf_zeichen": 545,
+      "xml_zeichen": 545,
+      "identisch": true
+    },
+    {
+      "norm_index": 221,
+      "name": "§ 233",
+      "pdf_zeichen": 124,
+      "xml_zeichen": 124,
+      "identisch": true
+    },
+    {
+      "norm_index": 222,
+      "name": "§ 234",
+      "pdf_zeichen": 243,
+      "xml_zeichen": 243,
+      "identisch": true
+    },
+    {
+      "norm_index": 223,
+      "name": "§ 235",
+      "pdf_zeichen": 521,
+      "xml_zeichen": 521,
+      "identisch": true
+    },
+    {
+      "norm_index": 224,
+      "name": "§ 236",
+      "pdf_zeichen": 402,
+      "xml_zeichen": 402,
+      "identisch": true
+    },
+    {
+      "norm_index": 225,
+      "name": "§ 237",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 226,
+      "name": "Drittes BuchHandelsbücher",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 227,
+      "name": "Erster AbschnittVorschriften für alle\nKaufleute",
+      "pdf_zeichen": 43,
+      "xml_zeichen": 43,
+      "identisch": true
+    },
+    {
+      "norm_index": 228,
+      "name": "Erster UnterabschnittBuchführung. Inventar",
+      "pdf_zeichen": 40,
+      "xml_zeichen": 40,
+      "identisch": true
+    },
+    {
+      "norm_index": 229,
+      "name": "§ 238",
+      "pdf_zeichen": 663,
+      "xml_zeichen": 663,
+      "identisch": true
+    },
+    {
+      "norm_index": 230,
+      "name": "§ 239",
+      "pdf_zeichen": 1181,
+      "xml_zeichen": 1181,
+      "identisch": true
+    },
+    {
+      "norm_index": 231,
+      "name": "§ 240",
+      "pdf_zeichen": 1162,
+      "xml_zeichen": 1162,
+      "identisch": true
+    },
+    {
+      "norm_index": 232,
+      "name": "§ 241",
+      "pdf_zeichen": 1517,
+      "xml_zeichen": 1517,
+      "identisch": true
+    },
+    {
+      "norm_index": 233,
+      "name": "§ 241a",
+      "pdf_zeichen": 470,
+      "xml_zeichen": 470,
+      "identisch": true
+    },
+    {
+      "norm_index": 234,
+      "name": "Zweiter UnterabschnittEröffnungsbilanz.\nJahresabschluß",
+      "pdf_zeichen": 52,
+      "xml_zeichen": 52,
+      "identisch": true
+    },
+    {
+      "norm_index": 235,
+      "name": "Erster TitelAllgemeine Vorschriften",
+      "pdf_zeichen": 33,
+      "xml_zeichen": 33,
+      "identisch": true
+    },
+    {
+      "norm_index": 236,
+      "name": "§ 242",
+      "pdf_zeichen": 782,
+      "xml_zeichen": 782,
+      "identisch": true
+    },
+    {
+      "norm_index": 237,
+      "name": "§ 243",
+      "pdf_zeichen": 237,
+      "xml_zeichen": 237,
+      "identisch": true
+    },
+    {
+      "norm_index": 238,
+      "name": "§ 244",
+      "pdf_zeichen": 87,
+      "xml_zeichen": 87,
+      "identisch": true
+    },
+    {
+      "norm_index": 239,
+      "name": "§ 245",
+      "pdf_zeichen": 168,
+      "xml_zeichen": 168,
+      "identisch": true
+    },
+    {
+      "norm_index": 240,
+      "name": "Zweiter TitelAnsatzvorschriften",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 241,
+      "name": "§ 246",
+      "pdf_zeichen": 1488,
+      "xml_zeichen": 1488,
+      "identisch": true
+    },
+    {
+      "norm_index": 242,
+      "name": "§ 247",
+      "pdf_zeichen": 298,
+      "xml_zeichen": 298,
+      "identisch": true
+    },
+    {
+      "norm_index": 243,
+      "name": "§ 248",
+      "pdf_zeichen": 522,
+      "xml_zeichen": 522,
+      "identisch": true
+    },
+    {
+      "norm_index": 244,
+      "name": "§ 249",
+      "pdf_zeichen": 559,
+      "xml_zeichen": 559,
+      "identisch": true
+    },
+    {
+      "norm_index": 245,
+      "name": "§ 250",
+      "pdf_zeichen": 635,
+      "xml_zeichen": 635,
+      "identisch": true
+    },
+    {
+      "norm_index": 246,
+      "name": "§ 251",
+      "pdf_zeichen": 451,
+      "xml_zeichen": 451,
+      "identisch": true
+    },
+    {
+      "norm_index": 247,
+      "name": "Dritter TitelBewertungsvorschriften",
+      "pdf_zeichen": 34,
+      "xml_zeichen": 34,
+      "identisch": true
+    },
+    {
+      "norm_index": 248,
+      "name": "§ 252",
+      "pdf_zeichen": 1107,
+      "xml_zeichen": 1107,
+      "identisch": true
+    },
+    {
+      "norm_index": 249,
+      "name": "§ 253",
+      "pdf_zeichen": 4578,
+      "xml_zeichen": 4578,
+      "identisch": true
+    },
+    {
+      "norm_index": 250,
+      "name": "§ 254",
+      "pdf_zeichen": 556,
+      "xml_zeichen": 556,
+      "identisch": true
+    },
+    {
+      "norm_index": 251,
+      "name": "§ 255",
+      "pdf_zeichen": 2739,
+      "xml_zeichen": 2739,
+      "identisch": true
+    },
+    {
+      "norm_index": 252,
+      "name": "§ 256",
+      "pdf_zeichen": 355,
+      "xml_zeichen": 355,
+      "identisch": true
+    },
+    {
+      "norm_index": 253,
+      "name": "§ 256a",
+      "pdf_zeichen": 249,
+      "xml_zeichen": 249,
+      "identisch": true
+    },
+    {
+      "norm_index": 254,
+      "name": "Dritter UnterabschnittAufbewahrung und\nVorlage",
+      "pdf_zeichen": 43,
+      "xml_zeichen": 43,
+      "identisch": true
+    },
+    {
+      "norm_index": 255,
+      "name": "§ 257",
+      "pdf_zeichen": 2242,
+      "xml_zeichen": 2242,
+      "identisch": true
+    },
+    {
+      "norm_index": 256,
+      "name": "§ 258",
+      "pdf_zeichen": 379,
+      "xml_zeichen": 379,
+      "identisch": true
+    },
+    {
+      "norm_index": 257,
+      "name": "§ 259",
+      "pdf_zeichen": 327,
+      "xml_zeichen": 327,
+      "identisch": true
+    },
+    {
+      "norm_index": 258,
+      "name": "§ 260",
+      "pdf_zeichen": 232,
+      "xml_zeichen": 232,
+      "identisch": true
+    },
+    {
+      "norm_index": 259,
+      "name": "§ 261",
+      "pdf_zeichen": 401,
+      "xml_zeichen": 401,
+      "identisch": true
+    },
+    {
+      "norm_index": 260,
+      "name": "Vierter UnterabschnittLandesrecht",
+      "pdf_zeichen": 32,
+      "xml_zeichen": 32,
+      "identisch": true
+    },
+    {
+      "norm_index": 261,
+      "name": "§ 262",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 262,
+      "name": "§ 263",
+      "pdf_zeichen": 235,
+      "xml_zeichen": 235,
+      "identisch": true
+    },
+    {
+      "norm_index": 263,
+      "name": "Zweiter AbschnittErgänzende Vorschriften\nfür Kapitalgesellschaften (Aktiengesellschaften,\nKommanditgesellschaften auf Aktien und Gesellschaften mit\nbeschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften",
+      "pdf_zeichen": 199,
+      "xml_zeichen": 199,
+      "identisch": true
+    },
+    {
+      "norm_index": 264,
+      "name": "Erster UnterabschnittJahresabschluß\nder Kapitalgesellschaft und Lagebericht",
+      "pdf_zeichen": 70,
+      "xml_zeichen": 70,
+      "identisch": true
+    },
+    {
+      "norm_index": 265,
+      "name": "Erster TitelAllgemeine Vorschriften",
+      "pdf_zeichen": 33,
+      "xml_zeichen": 33,
+      "identisch": true
+    },
+    {
+      "norm_index": 266,
+      "name": "§ 264",
+      "pdf_zeichen": 5688,
+      "xml_zeichen": 5688,
+      "identisch": true
+    },
+    {
+      "norm_index": 267,
+      "name": "§ 264a",
+      "pdf_zeichen": 734,
+      "xml_zeichen": 734,
+      "identisch": true
+    },
+    {
+      "norm_index": 268,
+      "name": "§ 264b",
+      "pdf_zeichen": 1236,
+      "xml_zeichen": 1236,
+      "identisch": true
+    },
+    {
+      "norm_index": 269,
+      "name": "§ 264c",
+      "pdf_zeichen": 2881,
+      "xml_zeichen": 2881,
+      "identisch": true
+    },
+    {
+      "norm_index": 270,
+      "name": "§ 264d",
+      "pdf_zeichen": 348,
+      "xml_zeichen": 348,
+      "identisch": true
+    },
+    {
+      "norm_index": 271,
+      "name": "§ 265",
+      "pdf_zeichen": 2333,
+      "xml_zeichen": 2333,
+      "identisch": true
+    },
+    {
+      "norm_index": 272,
+      "name": "Zweiter TitelBilanz",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 273,
+      "name": "§ 266",
+      "pdf_zeichen": 3032,
+      "xml_zeichen": 3032,
+      "identisch": true
+    },
+    {
+      "norm_index": 274,
+      "name": "§ 267",
+      "pdf_zeichen": 1868,
+      "xml_zeichen": 1868,
+      "identisch": true
+    },
+    {
+      "norm_index": 275,
+      "name": "§ 267a",
+      "pdf_zeichen": 1156,
+      "xml_zeichen": 1156,
+      "identisch": true
+    },
+    {
+      "norm_index": 276,
+      "name": "§ 268",
+      "pdf_zeichen": 2985,
+      "xml_zeichen": 2985,
+      "identisch": true
+    },
+    {
+      "norm_index": 277,
+      "name": "§ 269",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 278,
+      "name": "§ 270",
+      "pdf_zeichen": 471,
+      "xml_zeichen": 471,
+      "identisch": true
+    },
+    {
+      "norm_index": 279,
+      "name": "§ 271",
+      "pdf_zeichen": 1018,
+      "xml_zeichen": 1018,
+      "identisch": true
+    },
+    {
+      "norm_index": 280,
+      "name": "§ 272",
+      "pdf_zeichen": 2995,
+      "xml_zeichen": 2995,
+      "identisch": true
+    },
+    {
+      "norm_index": 281,
+      "name": "§ 273",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 282,
+      "name": "§ 274",
+      "pdf_zeichen": 1776,
+      "xml_zeichen": 1776,
+      "identisch": true
+    },
+    {
+      "norm_index": 283,
+      "name": "§ 274a",
+      "pdf_zeichen": 407,
+      "xml_zeichen": 407,
+      "identisch": true
+    },
+    {
+      "norm_index": 284,
+      "name": "Dritter TitelGewinn- und Verlustrechnung",
+      "pdf_zeichen": 37,
+      "xml_zeichen": 37,
+      "identisch": true
+    },
+    {
+      "norm_index": 285,
+      "name": "§ 275",
+      "pdf_zeichen": 2602,
+      "xml_zeichen": 2602,
+      "identisch": true
+    },
+    {
+      "norm_index": 286,
+      "name": "§ 276",
+      "pdf_zeichen": 376,
+      "xml_zeichen": 376,
+      "identisch": true
+    },
+    {
+      "norm_index": 287,
+      "name": "§ 277",
+      "pdf_zeichen": 1407,
+      "xml_zeichen": 1407,
+      "identisch": true
+    },
+    {
+      "norm_index": 288,
+      "name": "§ 278",
+      "pdf_zeichen": 69,
+      "xml_zeichen": 69,
+      "identisch": true
+    },
+    {
+      "norm_index": 289,
+      "name": "Vierter Titel(weggefallen)",
+      "pdf_zeichen": 25,
+      "xml_zeichen": 25,
+      "identisch": true
+    },
+    {
+      "norm_index": 290,
+      "name": "(XXXX) §§ 279 bis 283",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 291,
+      "name": "Fünfter TitelAnhang",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 292,
+      "name": "§ 284",
+      "pdf_zeichen": 1889,
+      "xml_zeichen": 1889,
+      "identisch": true
+    },
+    {
+      "norm_index": 293,
+      "name": "§ 285",
+      "pdf_zeichen": 11378,
+      "xml_zeichen": 11378,
+      "identisch": true
+    },
+    {
+      "norm_index": 294,
+      "name": "§ 286",
+      "pdf_zeichen": 1530,
+      "xml_zeichen": 1530,
+      "identisch": true
+    },
+    {
+      "norm_index": 295,
+      "name": "§ 287",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 296,
+      "name": "§ 288",
+      "pdf_zeichen": 1009,
+      "xml_zeichen": 1009,
+      "identisch": true
+    },
+    {
+      "norm_index": 297,
+      "name": "Sechster TitelLagebericht",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 298,
+      "name": "§ 289",
+      "pdf_zeichen": 2496,
+      "xml_zeichen": 2496,
+      "identisch": true
+    },
+    {
+      "norm_index": 299,
+      "name": "§ 289a",
+      "pdf_zeichen": 1840,
+      "xml_zeichen": 1840,
+      "identisch": true
+    },
+    {
+      "norm_index": 300,
+      "name": "§ 289b",
+      "pdf_zeichen": 2956,
+      "xml_zeichen": 2956,
+      "identisch": true
+    },
+    {
+      "norm_index": 301,
+      "name": "§ 289c",
+      "pdf_zeichen": 2990,
+      "xml_zeichen": 2990,
+      "identisch": true
+    },
+    {
+      "norm_index": 302,
+      "name": "§ 289d",
+      "pdf_zeichen": 376,
+      "xml_zeichen": 376,
+      "identisch": true
+    },
+    {
+      "norm_index": 303,
+      "name": "§ 289e",
+      "pdf_zeichen": 834,
+      "xml_zeichen": 834,
+      "identisch": true
+    },
+    {
+      "norm_index": 304,
+      "name": "§ 289f",
+      "pdf_zeichen": 4179,
+      "xml_zeichen": 4179,
+      "identisch": true
+    },
+    {
+      "norm_index": 305,
+      "name": "Zweiter UnterabschnittKonzernabschluß\nund Konzernlagebericht",
+      "pdf_zeichen": 57,
+      "xml_zeichen": 57,
+      "identisch": true
+    },
+    {
+      "norm_index": 306,
+      "name": "Erster TitelAnwendungsbereich",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 307,
+      "name": "§ 290",
+      "pdf_zeichen": 3497,
+      "xml_zeichen": 3497,
+      "identisch": true
+    },
+    {
+      "norm_index": 308,
+      "name": "§ 291",
+      "pdf_zeichen": 3821,
+      "xml_zeichen": 3821,
+      "identisch": true
+    },
+    {
+      "norm_index": 309,
+      "name": "§ 292",
+      "pdf_zeichen": 4384,
+      "xml_zeichen": 4384,
+      "identisch": true
+    },
+    {
+      "norm_index": 310,
+      "name": "§ 292a",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 311,
+      "name": "§ 293",
+      "pdf_zeichen": 2179,
+      "xml_zeichen": 2179,
+      "identisch": true
+    },
+    {
+      "norm_index": 312,
+      "name": "Zweiter TitelKonsolidierungskreis",
+      "pdf_zeichen": 32,
+      "xml_zeichen": 32,
+      "identisch": true
+    },
+    {
+      "norm_index": 313,
+      "name": "§ 294",
+      "pdf_zeichen": 1182,
+      "xml_zeichen": 1182,
+      "identisch": true
+    },
+    {
+      "norm_index": 314,
+      "name": "§ 295",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 315,
+      "name": "§ 296",
+      "pdf_zeichen": 1043,
+      "xml_zeichen": 1043,
+      "identisch": true
+    },
+    {
+      "norm_index": 316,
+      "name": "Dritter TitelInhalt und Form des\nKonzernabschlusses",
+      "pdf_zeichen": 46,
+      "xml_zeichen": 46,
+      "identisch": true
+    },
+    {
+      "norm_index": 317,
+      "name": "§ 297",
+      "pdf_zeichen": 1792,
+      "xml_zeichen": 1792,
+      "identisch": true
+    },
+    {
+      "norm_index": 318,
+      "name": "§ 298",
+      "pdf_zeichen": 881,
+      "xml_zeichen": 881,
+      "identisch": true
+    },
+    {
+      "norm_index": 319,
+      "name": "§ 299",
+      "pdf_zeichen": 1020,
+      "xml_zeichen": 1020,
+      "identisch": true
+    },
+    {
+      "norm_index": 320,
+      "name": "Vierter TitelVollkonsolidierung",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 321,
+      "name": "§ 300",
+      "pdf_zeichen": 1308,
+      "xml_zeichen": 1308,
+      "identisch": true
+    },
+    {
+      "norm_index": 322,
+      "name": "§ 301",
+      "pdf_zeichen": 2046,
+      "xml_zeichen": 2046,
+      "identisch": true
+    },
+    {
+      "norm_index": 323,
+      "name": "§ 302",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 324,
+      "name": "§ 303",
+      "pdf_zeichen": 431,
+      "xml_zeichen": 431,
+      "identisch": true
+    },
+    {
+      "norm_index": 325,
+      "name": "§ 304",
+      "pdf_zeichen": 700,
+      "xml_zeichen": 700,
+      "identisch": true
+    },
+    {
+      "norm_index": 326,
+      "name": "§ 305",
+      "pdf_zeichen": 825,
+      "xml_zeichen": 825,
+      "identisch": true
+    },
+    {
+      "norm_index": 327,
+      "name": "§ 306",
+      "pdf_zeichen": 1113,
+      "xml_zeichen": 1113,
+      "identisch": true
+    },
+    {
+      "norm_index": 328,
+      "name": "§ 307",
+      "pdf_zeichen": 630,
+      "xml_zeichen": 630,
+      "identisch": true
+    },
+    {
+      "norm_index": 329,
+      "name": "Fünfter TitelBewertungsvorschriften",
+      "pdf_zeichen": 34,
+      "xml_zeichen": 34,
+      "identisch": true
+    },
+    {
+      "norm_index": 330,
+      "name": "§ 308",
+      "pdf_zeichen": 1735,
+      "xml_zeichen": 1735,
+      "identisch": true
+    },
+    {
+      "norm_index": 331,
+      "name": "§ 308a",
+      "pdf_zeichen": 609,
+      "xml_zeichen": 609,
+      "identisch": true
+    },
+    {
+      "norm_index": 332,
+      "name": "§ 309",
+      "pdf_zeichen": 432,
+      "xml_zeichen": 432,
+      "identisch": true
+    },
+    {
+      "norm_index": 333,
+      "name": "Sechster TitelAnteilmäßige Konsolidierung",
+      "pdf_zeichen": 39,
+      "xml_zeichen": 39,
+      "identisch": true
+    },
+    {
+      "norm_index": 334,
+      "name": "§ 310",
+      "pdf_zeichen": 482,
+      "xml_zeichen": 482,
+      "identisch": true
+    },
+    {
+      "norm_index": 335,
+      "name": "Siebenter TitelAssoziierte Unternehmen",
+      "pdf_zeichen": 36,
+      "xml_zeichen": 36,
+      "identisch": true
+    },
+    {
+      "norm_index": 336,
+      "name": "§ 311",
+      "pdf_zeichen": 760,
+      "xml_zeichen": 760,
+      "identisch": true
+    },
+    {
+      "norm_index": 337,
+      "name": "§ 312",
+      "pdf_zeichen": 2491,
+      "xml_zeichen": 2491,
+      "identisch": true
+    },
+    {
+      "norm_index": 338,
+      "name": "Achter TitelKonzernanhang",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 339,
+      "name": "§ 313",
+      "pdf_zeichen": 4341,
+      "xml_zeichen": 4341,
+      "identisch": true
+    },
+    {
+      "norm_index": 340,
+      "name": "§ 314",
+      "pdf_zeichen": 10931,
+      "xml_zeichen": 10931,
+      "identisch": true
+    },
+    {
+      "norm_index": 341,
+      "name": "Neunter TitelKonzernlagebericht",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 342,
+      "name": "§ 315",
+      "pdf_zeichen": 2774,
+      "xml_zeichen": 2774,
+      "identisch": true
+    },
+    {
+      "norm_index": 343,
+      "name": "§ 315a",
+      "pdf_zeichen": 1871,
+      "xml_zeichen": 1871,
+      "identisch": true
+    },
+    {
+      "norm_index": 344,
+      "name": "§ 315b",
+      "pdf_zeichen": 3327,
+      "xml_zeichen": 3327,
+      "identisch": true
+    },
+    {
+      "norm_index": 345,
+      "name": "§ 315c",
+      "pdf_zeichen": 413,
+      "xml_zeichen": 413,
+      "identisch": true
+    },
+    {
+      "norm_index": 346,
+      "name": "§ 315d",
+      "pdf_zeichen": 274,
+      "xml_zeichen": 274,
+      "identisch": true
+    },
+    {
+      "norm_index": 347,
+      "name": "Zehnter TitelKonzernabschluss nach\ninternationalen Rechnungslegungsstandards",
+      "pdf_zeichen": 72,
+      "xml_zeichen": 72,
+      "identisch": true
+    },
+    {
+      "norm_index": 348,
+      "name": "§ 315e",
+      "pdf_zeichen": 1523,
+      "xml_zeichen": 1523,
+      "identisch": true
+    },
+    {
+      "norm_index": 349,
+      "name": "Dritter UnterabschnittPrüfung",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 350,
+      "name": "§ 316",
+      "pdf_zeichen": 1073,
+      "xml_zeichen": 1073,
+      "identisch": true
+    },
+    {
+      "norm_index": 351,
+      "name": "§ 316a",
+      "pdf_zeichen": 1314,
+      "xml_zeichen": 1314,
+      "identisch": true
+    },
+    {
+      "norm_index": 352,
+      "name": "§ 317",
+      "pdf_zeichen": 5045,
+      "xml_zeichen": 5045,
+      "identisch": true
+    },
+    {
+      "norm_index": 353,
+      "name": "§ 318",
+      "pdf_zeichen": 5388,
+      "xml_zeichen": 5388,
+      "identisch": true
+    },
+    {
+      "norm_index": 354,
+      "name": "§ 319",
+      "pdf_zeichen": 4301,
+      "xml_zeichen": 4301,
+      "identisch": true
+    },
+    {
+      "norm_index": 355,
+      "name": "§ 319a",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 356,
+      "name": "§ 319b",
+      "pdf_zeichen": 660,
+      "xml_zeichen": 660,
+      "identisch": true
+    },
+    {
+      "norm_index": 357,
+      "name": "§ 320",
+      "pdf_zeichen": 3028,
+      "xml_zeichen": 3028,
+      "identisch": true
+    },
+    {
+      "norm_index": 358,
+      "name": "§ 321",
+      "pdf_zeichen": 3314,
+      "xml_zeichen": 3314,
+      "identisch": true
+    },
+    {
+      "norm_index": 359,
+      "name": "§ 321a",
+      "pdf_zeichen": 1578,
+      "xml_zeichen": 1578,
+      "identisch": true
+    },
+    {
+      "norm_index": 360,
+      "name": "§ 322",
+      "pdf_zeichen": 5109,
+      "xml_zeichen": 5109,
+      "identisch": true
+    },
+    {
+      "norm_index": 361,
+      "name": "§ 323",
+      "pdf_zeichen": 2429,
+      "xml_zeichen": 2429,
+      "identisch": true
+    },
+    {
+      "norm_index": 362,
+      "name": "§ 324",
+      "pdf_zeichen": 2523,
+      "xml_zeichen": 2523,
+      "identisch": true
+    },
+    {
+      "norm_index": 363,
+      "name": "§ 324a",
+      "pdf_zeichen": 483,
+      "xml_zeichen": 483,
+      "identisch": true
+    },
+    {
+      "norm_index": 364,
+      "name": "Vierter UnterabschnittOffenlegung. Prüfung durch die das Unternehmensregister führende Stelle",
+      "pdf_zeichen": 85,
+      "xml_zeichen": 85,
+      "identisch": true
+    },
+    {
+      "norm_index": 365,
+      "name": "§ 325",
+      "pdf_zeichen": 4652,
+      "xml_zeichen": 4652,
+      "identisch": true
+    },
+    {
+      "norm_index": 366,
+      "name": "§ 325a",
+      "pdf_zeichen": 2418,
+      "xml_zeichen": 2418,
+      "identisch": true
+    },
+    {
+      "norm_index": 367,
+      "name": "§ 326",
+      "pdf_zeichen": 932,
+      "xml_zeichen": 932,
+      "identisch": true
+    },
+    {
+      "norm_index": 368,
+      "name": "§ 327",
+      "pdf_zeichen": 1451,
+      "xml_zeichen": 1451,
+      "identisch": true
+    },
+    {
+      "norm_index": 369,
+      "name": "§ 327a",
+      "pdf_zeichen": 377,
+      "xml_zeichen": 377,
+      "identisch": true
+    },
+    {
+      "norm_index": 370,
+      "name": "§ 328",
+      "pdf_zeichen": 3964,
+      "xml_zeichen": 3964,
+      "identisch": true
+    },
+    {
+      "norm_index": 371,
+      "name": "§ 329",
+      "pdf_zeichen": 1620,
+      "xml_zeichen": 1620,
+      "identisch": true
+    },
+    {
+      "norm_index": 372,
+      "name": "Fünfter UnterabschnittVerordnungsermächtigung für Formblätter und andere Vorschriften",
+      "pdf_zeichen": 79,
+      "xml_zeichen": 79,
+      "identisch": true
+    },
+    {
+      "norm_index": 373,
+      "name": "§ 330",
+      "pdf_zeichen": 5070,
+      "xml_zeichen": 5070,
+      "identisch": true
+    },
+    {
+      "norm_index": 374,
+      "name": "Sechster UnterabschnittStraf- und BußgeldvorschriftenOrdnungsgelder",
+      "pdf_zeichen": 64,
+      "xml_zeichen": 64,
+      "identisch": true
+    },
+    {
+      "norm_index": 375,
+      "name": "Erster TitelStraf- und Bußgeldvorschriften",
+      "pdf_zeichen": 39,
+      "xml_zeichen": 39,
+      "identisch": true
+    },
+    {
+      "norm_index": 376,
+      "name": "§ 331",
+      "pdf_zeichen": 2045,
+      "xml_zeichen": 2045,
+      "identisch": true
+    },
+    {
+      "norm_index": 377,
+      "name": "§ 331a",
+      "pdf_zeichen": 431,
+      "xml_zeichen": 431,
+      "identisch": true
+    },
+    {
+      "norm_index": 378,
+      "name": "§ 332",
+      "pdf_zeichen": 1074,
+      "xml_zeichen": 1074,
+      "identisch": true
+    },
+    {
+      "norm_index": 379,
+      "name": "§ 333",
+      "pdf_zeichen": 914,
+      "xml_zeichen": 914,
+      "identisch": true
+    },
+    {
+      "norm_index": 380,
+      "name": "§ 333a",
+      "pdf_zeichen": 350,
+      "xml_zeichen": 350,
+      "identisch": true
+    },
+    {
+      "norm_index": 381,
+      "name": "§ 334",
+      "pdf_zeichen": 8870,
+      "xml_zeichen": 8870,
+      "identisch": true
+    },
+    {
+      "norm_index": 382,
+      "name": "Zweiter TitelOrdnungsgelder",
+      "pdf_zeichen": 26,
+      "xml_zeichen": 26,
+      "identisch": true
+    },
+    {
+      "norm_index": 383,
+      "name": "§ 335",
+      "pdf_zeichen": 11601,
+      "xml_zeichen": 11601,
+      "identisch": true
+    },
+    {
+      "norm_index": 384,
+      "name": "§ 335a",
+      "pdf_zeichen": 3095,
+      "xml_zeichen": 3095,
+      "identisch": true
+    },
+    {
+      "norm_index": 385,
+      "name": "Dritter TitelGemeinsame Vorschriften für Straf-, Bußgeld- und Ordnungsgeldverfahren",
+      "pdf_zeichen": 76,
+      "xml_zeichen": 76,
+      "identisch": true
+    },
+    {
+      "norm_index": 386,
+      "name": "§ 335b",
+      "pdf_zeichen": 696,
+      "xml_zeichen": 696,
+      "identisch": true
+    },
+    {
+      "norm_index": 387,
+      "name": "§ 335c",
+      "pdf_zeichen": 556,
+      "xml_zeichen": 556,
+      "identisch": true
+    },
+    {
+      "norm_index": 388,
+      "name": "Dritter AbschnittErgänzende Vorschriften\nfür eingetragene Genossenschaften",
+      "pdf_zeichen": 69,
+      "xml_zeichen": 69,
+      "identisch": true
+    },
+    {
+      "norm_index": 389,
+      "name": "§ 336",
+      "pdf_zeichen": 1255,
+      "xml_zeichen": 1255,
+      "identisch": true
+    },
+    {
+      "norm_index": 390,
+      "name": "§ 337",
+      "pdf_zeichen": 1630,
+      "xml_zeichen": 1630,
+      "identisch": true
+    },
+    {
+      "norm_index": 391,
+      "name": "§ 338",
+      "pdf_zeichen": 1343,
+      "xml_zeichen": 1343,
+      "identisch": true
+    },
+    {
+      "norm_index": 392,
+      "name": "§ 339",
+      "pdf_zeichen": 1670,
+      "xml_zeichen": 1670,
+      "identisch": true
+    },
+    {
+      "norm_index": 393,
+      "name": "Vierter AbschnittErgänzende Vorschriften für bestimmte Unternehmen",
+      "pdf_zeichen": 61,
+      "xml_zeichen": 61,
+      "identisch": true
+    },
+    {
+      "norm_index": 394,
+      "name": "Erster UnterabschnittErgänzende Vorschriften für Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungsinstitute und E-Geld-Institute",
+      "pdf_zeichen": 148,
+      "xml_zeichen": 148,
+      "identisch": true
+    },
+    {
+      "norm_index": 395,
+      "name": "Erster TitelAnwendungsbereich",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 396,
+      "name": "§ 340",
+      "pdf_zeichen": 2656,
+      "xml_zeichen": 2656,
+      "identisch": true
+    },
+    {
+      "norm_index": 397,
+      "name": "Zweiter TitelJahresabschluß, Lagebericht,\nZwischenabschluß",
+      "pdf_zeichen": 55,
+      "xml_zeichen": 55,
+      "identisch": true
+    },
+    {
+      "norm_index": 398,
+      "name": "§ 340a",
+      "pdf_zeichen": 3270,
+      "xml_zeichen": 3270,
+      "identisch": true
+    },
+    {
+      "norm_index": 399,
+      "name": "§ 340b",
+      "pdf_zeichen": 2080,
+      "xml_zeichen": 2080,
+      "identisch": true
+    },
+    {
+      "norm_index": 400,
+      "name": "§ 340c",
+      "pdf_zeichen": 1191,
+      "xml_zeichen": 1191,
+      "identisch": true
+    },
+    {
+      "norm_index": 401,
+      "name": "§ 340d",
+      "pdf_zeichen": 175,
+      "xml_zeichen": 175,
+      "identisch": true
+    },
+    {
+      "norm_index": 402,
+      "name": "Dritter TitelBewertungsvorschriften",
+      "pdf_zeichen": 34,
+      "xml_zeichen": 34,
+      "identisch": true
+    },
+    {
+      "norm_index": 403,
+      "name": "§ 340e",
+      "pdf_zeichen": 3022,
+      "xml_zeichen": 3022,
+      "identisch": true
+    },
+    {
+      "norm_index": 404,
+      "name": "§ 340f",
+      "pdf_zeichen": 1576,
+      "xml_zeichen": 1576,
+      "identisch": true
+    },
+    {
+      "norm_index": 405,
+      "name": "§ 340g",
+      "pdf_zeichen": 443,
+      "xml_zeichen": 443,
+      "identisch": true
+    },
+    {
+      "norm_index": 406,
+      "name": "Vierter TitelWährungsumrechnung",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 407,
+      "name": "§ 340h",
+      "pdf_zeichen": 304,
+      "xml_zeichen": 304,
+      "identisch": true
+    },
+    {
+      "norm_index": 408,
+      "name": "Fünfter TitelKonzernabschluß, Konzernlagebericht,\nKonzernzwischenabschluß",
+      "pdf_zeichen": 70,
+      "xml_zeichen": 70,
+      "identisch": true
+    },
+    {
+      "norm_index": 409,
+      "name": "§ 340i",
+      "pdf_zeichen": 3545,
+      "xml_zeichen": 3545,
+      "identisch": true
+    },
+    {
+      "norm_index": 410,
+      "name": "§ 340j",
+      "pdf_zeichen": 484,
+      "xml_zeichen": 484,
+      "identisch": true
+    },
+    {
+      "norm_index": 411,
+      "name": "Sechster TitelPrüfung",
+      "pdf_zeichen": 20,
+      "xml_zeichen": 20,
+      "identisch": true
+    },
+    {
+      "norm_index": 412,
+      "name": "§ 340k",
+      "pdf_zeichen": 4907,
+      "xml_zeichen": 4907,
+      "identisch": true
+    },
+    {
+      "norm_index": 413,
+      "name": "Siebenter TitelOffenlegung",
+      "pdf_zeichen": 25,
+      "xml_zeichen": 25,
+      "identisch": true
+    },
+    {
+      "norm_index": 414,
+      "name": "§ 340l",
+      "pdf_zeichen": 4391,
+      "xml_zeichen": 4391,
+      "identisch": true
+    },
+    {
+      "norm_index": 415,
+      "name": "Achter TitelStraf- und Bußgeldvorschriften, Ordnungsgelder",
+      "pdf_zeichen": 54,
+      "xml_zeichen": 54,
+      "identisch": true
+    },
+    {
+      "norm_index": 416,
+      "name": "§ 340m",
+      "pdf_zeichen": 1792,
+      "xml_zeichen": 1792,
+      "identisch": true
+    },
+    {
+      "norm_index": 417,
+      "name": "§ 340n",
+      "pdf_zeichen": 10213,
+      "xml_zeichen": 10213,
+      "identisch": true
+    },
+    {
+      "norm_index": 418,
+      "name": "§ 340o",
+      "pdf_zeichen": 1957,
+      "xml_zeichen": 1957,
+      "identisch": true
+    },
+    {
+      "norm_index": 419,
+      "name": "Zweiter UnterabschnittErgänzende Vorschriften\nfür Versicherungsunternehmen und Pensionsfonds",
+      "pdf_zeichen": 86,
+      "xml_zeichen": 86,
+      "identisch": true
+    },
+    {
+      "norm_index": 420,
+      "name": "Erster TitelAnwendungsbereich",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 421,
+      "name": "§ 341",
+      "pdf_zeichen": 1912,
+      "xml_zeichen": 1912,
+      "identisch": true
+    },
+    {
+      "norm_index": 422,
+      "name": "Zweiter TitelJahresabschluß, Lagebericht",
+      "pdf_zeichen": 38,
+      "xml_zeichen": 38,
+      "identisch": true
+    },
+    {
+      "norm_index": 423,
+      "name": "§ 341a",
+      "pdf_zeichen": 3226,
+      "xml_zeichen": 3226,
+      "identisch": true
+    },
+    {
+      "norm_index": 424,
+      "name": "Dritter TitelBewertungsvorschriften",
+      "pdf_zeichen": 34,
+      "xml_zeichen": 34,
+      "identisch": true
+    },
+    {
+      "norm_index": 425,
+      "name": "§ 341b",
+      "pdf_zeichen": 1725,
+      "xml_zeichen": 1725,
+      "identisch": true
+    },
+    {
+      "norm_index": 426,
+      "name": "§ 341c",
+      "pdf_zeichen": 859,
+      "xml_zeichen": 859,
+      "identisch": true
+    },
+    {
+      "norm_index": 427,
+      "name": "§ 341d",
+      "pdf_zeichen": 296,
+      "xml_zeichen": 296,
+      "identisch": true
+    },
+    {
+      "norm_index": 428,
+      "name": "Vierter TitelVersicherungstechnische\nRückstellungen",
+      "pdf_zeichen": 49,
+      "xml_zeichen": 49,
+      "identisch": true
+    },
+    {
+      "norm_index": 429,
+      "name": "§ 341e",
+      "pdf_zeichen": 1639,
+      "xml_zeichen": 1639,
+      "identisch": true
+    },
+    {
+      "norm_index": 430,
+      "name": "§ 341f",
+      "pdf_zeichen": 1319,
+      "xml_zeichen": 1319,
+      "identisch": true
+    },
+    {
+      "norm_index": 431,
+      "name": "§ 341g",
+      "pdf_zeichen": 1314,
+      "xml_zeichen": 1314,
+      "identisch": true
+    },
+    {
+      "norm_index": 432,
+      "name": "§ 341h",
+      "pdf_zeichen": 791,
+      "xml_zeichen": 791,
+      "identisch": true
+    },
+    {
+      "norm_index": 433,
+      "name": "Fünfter TitelKonzernabschluß, Konzernlagebericht",
+      "pdf_zeichen": 46,
+      "xml_zeichen": 46,
+      "identisch": true
+    },
+    {
+      "norm_index": 434,
+      "name": "§ 341i",
+      "pdf_zeichen": 1680,
+      "xml_zeichen": 1680,
+      "identisch": true
+    },
+    {
+      "norm_index": 435,
+      "name": "§ 341j",
+      "pdf_zeichen": 2517,
+      "xml_zeichen": 2517,
+      "identisch": true
+    },
+    {
+      "norm_index": 436,
+      "name": "Sechster TitelPrüfung",
+      "pdf_zeichen": 20,
+      "xml_zeichen": 20,
+      "identisch": true
+    },
+    {
+      "norm_index": 437,
+      "name": "§ 341k",
+      "pdf_zeichen": 1195,
+      "xml_zeichen": 1195,
+      "identisch": true
+    },
+    {
+      "norm_index": 438,
+      "name": "Siebenter TitelOffenlegung",
+      "pdf_zeichen": 25,
+      "xml_zeichen": 25,
+      "identisch": true
+    },
+    {
+      "norm_index": 439,
+      "name": "§ 341l",
+      "pdf_zeichen": 1490,
+      "xml_zeichen": 1490,
+      "identisch": true
+    },
+    {
+      "norm_index": 440,
+      "name": "Achter TitelStraf- und Bußgeldvorschriften, Ordnungsgelder",
+      "pdf_zeichen": 54,
+      "xml_zeichen": 54,
+      "identisch": true
+    },
+    {
+      "norm_index": 441,
+      "name": "§ 341m",
+      "pdf_zeichen": 783,
+      "xml_zeichen": 783,
+      "identisch": true
+    },
+    {
+      "norm_index": 442,
+      "name": "§ 341n",
+      "pdf_zeichen": 8968,
+      "xml_zeichen": 8968,
+      "identisch": true
+    },
+    {
+      "norm_index": 443,
+      "name": "§ 341o",
+      "pdf_zeichen": 1350,
+      "xml_zeichen": 1350,
+      "identisch": true
+    },
+    {
+      "norm_index": 444,
+      "name": "§ 341p",
+      "pdf_zeichen": 245,
+      "xml_zeichen": 245,
+      "identisch": true
+    },
+    {
+      "norm_index": 445,
+      "name": "Dritter UnterabschnittErgänzende Vorschriften für bestimmte Unternehmen des Rohstoffsektors",
+      "pdf_zeichen": 153,
+      "xml_zeichen": 153,
+      "identisch": true
+    },
+    {
+      "norm_index": 446,
+      "name": "Erster TitelAnwendungsbereich; Begriffsbestimmungen",
+      "pdf_zeichen": 118,
+      "xml_zeichen": 118,
+      "identisch": true
+    },
+    {
+      "norm_index": 447,
+      "name": "§ 341q",
+      "pdf_zeichen": 439,
+      "xml_zeichen": 439,
+      "identisch": true
+    },
+    {
+      "norm_index": 448,
+      "name": "§ 341r",
+      "pdf_zeichen": 3232,
+      "xml_zeichen": 3232,
+      "identisch": true
+    },
+    {
+      "norm_index": 449,
+      "name": "Zweiter TitelZahlungsbericht, Konzernzahlungsbericht und Offenlegung",
+      "pdf_zeichen": 133,
+      "xml_zeichen": 133,
+      "identisch": true
+    },
+    {
+      "norm_index": 450,
+      "name": "§ 341s",
+      "pdf_zeichen": 1013,
+      "xml_zeichen": 1013,
+      "identisch": true
+    },
+    {
+      "norm_index": 451,
+      "name": "§ 341t",
+      "pdf_zeichen": 2293,
+      "xml_zeichen": 2293,
+      "identisch": true
+    },
+    {
+      "norm_index": 452,
+      "name": "§ 341u",
+      "pdf_zeichen": 1582,
+      "xml_zeichen": 1582,
+      "identisch": true
+    },
+    {
+      "norm_index": 453,
+      "name": "§ 341v",
+      "pdf_zeichen": 1855,
+      "xml_zeichen": 1855,
+      "identisch": true
+    },
+    {
+      "norm_index": 454,
+      "name": "§ 341w",
+      "pdf_zeichen": 722,
+      "xml_zeichen": 722,
+      "identisch": true
+    },
+    {
+      "norm_index": 455,
+      "name": "Dritter TitelBußgeldvorschriften, Ordnungsgelder",
+      "pdf_zeichen": 115,
+      "xml_zeichen": 115,
+      "identisch": true
+    },
+    {
+      "norm_index": 456,
+      "name": "§ 341x",
+      "pdf_zeichen": 966,
+      "xml_zeichen": 966,
+      "identisch": true
+    },
+    {
+      "norm_index": 457,
+      "name": "§ 341y",
+      "pdf_zeichen": 1152,
+      "xml_zeichen": 1152,
+      "identisch": true
+    },
+    {
+      "norm_index": 458,
+      "name": "Vierter UnterabschnittErgänzende Vorschriften für bestimmte umsatzstarke multinationale Unternehmen und Konzerne",
+      "pdf_zeichen": 103,
+      "xml_zeichen": 103,
+      "identisch": true
+    },
+    {
+      "norm_index": 459,
+      "name": "Erster TitelAnwendungsbereich; Begriffsbestimmungen",
+      "pdf_zeichen": 49,
+      "xml_zeichen": 49,
+      "identisch": true
+    },
+    {
+      "norm_index": 460,
+      "name": "§ 342",
+      "pdf_zeichen": 1344,
+      "xml_zeichen": 1344,
+      "identisch": true
+    },
+    {
+      "norm_index": 461,
+      "name": "§ 342a",
+      "pdf_zeichen": 779,
+      "xml_zeichen": 779,
+      "identisch": true
+    },
+    {
+      "norm_index": 462,
+      "name": "Zweiter TitelPflicht zur Ertragsteuerinformationsberichterstattung",
+      "pdf_zeichen": 63,
+      "xml_zeichen": 63,
+      "identisch": true
+    },
+    {
+      "norm_index": 463,
+      "name": "§ 342b",
+      "pdf_zeichen": 1807,
+      "xml_zeichen": 1807,
+      "identisch": true
+    },
+    {
+      "norm_index": 464,
+      "name": "§ 342c",
+      "pdf_zeichen": 1542,
+      "xml_zeichen": 1542,
+      "identisch": true
+    },
+    {
+      "norm_index": 465,
+      "name": "§ 342d",
+      "pdf_zeichen": 2965,
+      "xml_zeichen": 2965,
+      "identisch": true
+    },
+    {
+      "norm_index": 466,
+      "name": "§ 342e",
+      "pdf_zeichen": 3071,
+      "xml_zeichen": 3071,
+      "identisch": true
+    },
+    {
+      "norm_index": 467,
+      "name": "§ 342f",
+      "pdf_zeichen": 3384,
+      "xml_zeichen": 3384,
+      "identisch": true
+    },
+    {
+      "norm_index": 468,
+      "name": "Dritter TitelEinzubeziehende Unternehmen; Inhalt und Form des Ertragsteuerinformationsberichts",
+      "pdf_zeichen": 87,
+      "xml_zeichen": 87,
+      "identisch": true
+    },
+    {
+      "norm_index": 469,
+      "name": "§ 342g",
+      "pdf_zeichen": 331,
+      "xml_zeichen": 331,
+      "identisch": true
+    },
+    {
+      "norm_index": 470,
+      "name": "§ 342h",
+      "pdf_zeichen": 3533,
+      "xml_zeichen": 3533,
+      "identisch": true
+    },
+    {
+      "norm_index": 471,
+      "name": "§ 342i",
+      "pdf_zeichen": 1689,
+      "xml_zeichen": 1689,
+      "identisch": true
+    },
+    {
+      "norm_index": 472,
+      "name": "§ 342j",
+      "pdf_zeichen": 481,
+      "xml_zeichen": 481,
+      "identisch": true
+    },
+    {
+      "norm_index": 473,
+      "name": "§ 342k",
+      "pdf_zeichen": 591,
+      "xml_zeichen": 591,
+      "identisch": true
+    },
+    {
+      "norm_index": 474,
+      "name": "§ 342l",
+      "pdf_zeichen": 440,
+      "xml_zeichen": 440,
+      "identisch": true
+    },
+    {
+      "norm_index": 475,
+      "name": "Vierter TitelOffenlegung und Veröffentlichung",
+      "pdf_zeichen": 42,
+      "xml_zeichen": 42,
+      "identisch": true
+    },
+    {
+      "norm_index": 476,
+      "name": "§ 342m",
+      "pdf_zeichen": 3731,
+      "xml_zeichen": 3731,
+      "identisch": true
+    },
+    {
+      "norm_index": 477,
+      "name": "§ 342n",
+      "pdf_zeichen": 2344,
+      "xml_zeichen": 2344,
+      "identisch": true
+    },
+    {
+      "norm_index": 478,
+      "name": "Fünfter TitelBußgeldvorschriften; Ordnungsgelder",
+      "pdf_zeichen": 46,
+      "xml_zeichen": 46,
+      "identisch": true
+    },
+    {
+      "norm_index": 479,
+      "name": "§ 342o",
+      "pdf_zeichen": 662,
+      "xml_zeichen": 662,
+      "identisch": true
+    },
+    {
+      "norm_index": 480,
+      "name": "§ 342p",
+      "pdf_zeichen": 1117,
+      "xml_zeichen": 1117,
+      "identisch": true
+    },
+    {
+      "norm_index": 481,
+      "name": "Fünfter AbschnittPrivates Rechnungslegungsgremium; Rechnungslegungsbeirat",
+      "pdf_zeichen": 70,
+      "xml_zeichen": 70,
+      "identisch": true
+    },
+    {
+      "norm_index": 482,
+      "name": "§ 342q",
+      "pdf_zeichen": 1181,
+      "xml_zeichen": 1181,
+      "identisch": true
+    },
+    {
+      "norm_index": 483,
+      "name": "§ 342r",
+      "pdf_zeichen": 1312,
+      "xml_zeichen": 1312,
+      "identisch": true
+    },
+    {
+      "norm_index": 484,
+      "name": "Viertes BuchHandelsgeschäfte",
+      "pdf_zeichen": 27,
+      "xml_zeichen": 27,
+      "identisch": true
+    },
+    {
+      "norm_index": 485,
+      "name": "Erster AbschnittAllgemeine Vorschriften",
+      "pdf_zeichen": 37,
+      "xml_zeichen": 37,
+      "identisch": true
+    },
+    {
+      "norm_index": 486,
+      "name": "§ 343",
+      "pdf_zeichen": 114,
+      "xml_zeichen": 114,
+      "identisch": true
+    },
+    {
+      "norm_index": 487,
+      "name": "§ 344",
+      "pdf_zeichen": 259,
+      "xml_zeichen": 259,
+      "identisch": true
+    },
+    {
+      "norm_index": 488,
+      "name": "§ 345",
+      "pdf_zeichen": 203,
+      "xml_zeichen": 203,
+      "identisch": true
+    },
+    {
+      "norm_index": 489,
+      "name": "§ 346",
+      "pdf_zeichen": 158,
+      "xml_zeichen": 158,
+      "identisch": true
+    },
+    {
+      "norm_index": 490,
+      "name": "§ 347",
+      "pdf_zeichen": 387,
+      "xml_zeichen": 387,
+      "identisch": true
+    },
+    {
+      "norm_index": 491,
+      "name": "§ 348",
+      "pdf_zeichen": 172,
+      "xml_zeichen": 172,
+      "identisch": true
+    },
+    {
+      "norm_index": 492,
+      "name": "§ 349",
+      "pdf_zeichen": 200,
+      "xml_zeichen": 200,
+      "identisch": true
+    },
+    {
+      "norm_index": 493,
+      "name": "§ 350",
+      "pdf_zeichen": 296,
+      "xml_zeichen": 296,
+      "identisch": true
+    },
+    {
+      "norm_index": 494,
+      "name": "§ 351",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 495,
+      "name": "§ 352",
+      "pdf_zeichen": 390,
+      "xml_zeichen": 390,
+      "identisch": true
+    },
+    {
+      "norm_index": 496,
+      "name": "§ 353",
+      "pdf_zeichen": 197,
+      "xml_zeichen": 197,
+      "identisch": true
+    },
+    {
+      "norm_index": 497,
+      "name": "§ 354",
+      "pdf_zeichen": 305,
+      "xml_zeichen": 305,
+      "identisch": true
+    },
+    {
+      "norm_index": 498,
+      "name": "§ 354a",
+      "pdf_zeichen": 595,
+      "xml_zeichen": 595,
+      "identisch": true
+    },
+    {
+      "norm_index": 499,
+      "name": "§ 355",
+      "pdf_zeichen": 778,
+      "xml_zeichen": 778,
+      "identisch": true
+    },
+    {
+      "norm_index": 500,
+      "name": "§ 356",
+      "pdf_zeichen": 480,
+      "xml_zeichen": 480,
+      "identisch": true
+    },
+    {
+      "norm_index": 501,
+      "name": "§ 357",
+      "pdf_zeichen": 478,
+      "xml_zeichen": 478,
+      "identisch": true
+    },
+    {
+      "norm_index": 502,
+      "name": "§ 358",
+      "pdf_zeichen": 103,
+      "xml_zeichen": 103,
+      "identisch": true
+    },
+    {
+      "norm_index": 503,
+      "name": "§ 359",
+      "pdf_zeichen": 252,
+      "xml_zeichen": 252,
+      "identisch": true
+    },
+    {
+      "norm_index": 504,
+      "name": "§ 360",
+      "pdf_zeichen": 97,
+      "xml_zeichen": 97,
+      "identisch": true
+    },
+    {
+      "norm_index": 505,
+      "name": "§ 361",
+      "pdf_zeichen": 148,
+      "xml_zeichen": 148,
+      "identisch": true
+    },
+    {
+      "norm_index": 506,
+      "name": "§ 362",
+      "pdf_zeichen": 606,
+      "xml_zeichen": 606,
+      "identisch": true
+    },
+    {
+      "norm_index": 507,
+      "name": "§ 363",
+      "pdf_zeichen": 587,
+      "xml_zeichen": 587,
+      "identisch": true
+    },
+    {
+      "norm_index": 508,
+      "name": "§ 364",
+      "pdf_zeichen": 394,
+      "xml_zeichen": 394,
+      "identisch": true
+    },
+    {
+      "norm_index": 509,
+      "name": "§ 365",
+      "pdf_zeichen": 540,
+      "xml_zeichen": 540,
+      "identisch": true
+    },
+    {
+      "norm_index": 510,
+      "name": "§ 365a",
+      "pdf_zeichen": 683,
+      "xml_zeichen": 683,
+      "identisch": true
+    },
+    {
+      "norm_index": 511,
+      "name": "§ 366",
+      "pdf_zeichen": 1005,
+      "xml_zeichen": 1005,
+      "identisch": true
+    },
+    {
+      "norm_index": 512,
+      "name": "§ 367",
+      "pdf_zeichen": 1130,
+      "xml_zeichen": 1130,
+      "identisch": true
+    },
+    {
+      "norm_index": 513,
+      "name": "§ 368",
+      "pdf_zeichen": 494,
+      "xml_zeichen": 494,
+      "identisch": true
+    },
+    {
+      "norm_index": 514,
+      "name": "§ 369",
+      "pdf_zeichen": 1200,
+      "xml_zeichen": 1200,
+      "identisch": true
+    },
+    {
+      "norm_index": 515,
+      "name": "§ 370",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 516,
+      "name": "§ 371",
+      "pdf_zeichen": 1156,
+      "xml_zeichen": 1156,
+      "identisch": true
+    },
+    {
+      "norm_index": 517,
+      "name": "§ 372",
+      "pdf_zeichen": 613,
+      "xml_zeichen": 613,
+      "identisch": true
+    },
+    {
+      "norm_index": 518,
+      "name": "Zweiter AbschnittHandelskauf",
+      "pdf_zeichen": 27,
+      "xml_zeichen": 27,
+      "identisch": true
+    },
+    {
+      "norm_index": 519,
+      "name": "§ 373",
+      "pdf_zeichen": 1140,
+      "xml_zeichen": 1140,
+      "identisch": true
+    },
+    {
+      "norm_index": 520,
+      "name": "§ 374",
+      "pdf_zeichen": 156,
+      "xml_zeichen": 156,
+      "identisch": true
+    },
+    {
+      "norm_index": 521,
+      "name": "§ 375",
+      "pdf_zeichen": 715,
+      "xml_zeichen": 715,
+      "identisch": true
+    },
+    {
+      "norm_index": 522,
+      "name": "§ 376",
+      "pdf_zeichen": 1369,
+      "xml_zeichen": 1369,
+      "identisch": true
+    },
+    {
+      "norm_index": 523,
+      "name": "§ 377",
+      "pdf_zeichen": 714,
+      "xml_zeichen": 714,
+      "identisch": true
+    },
+    {
+      "norm_index": 524,
+      "name": "§ 378",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 525,
+      "name": "§ 379",
+      "pdf_zeichen": 294,
+      "xml_zeichen": 294,
+      "identisch": true
+    },
+    {
+      "norm_index": 526,
+      "name": "§ 380",
+      "pdf_zeichen": 572,
+      "xml_zeichen": 572,
+      "identisch": true
+    },
+    {
+      "norm_index": 527,
+      "name": "§ 381",
+      "pdf_zeichen": 227,
+      "xml_zeichen": 227,
+      "identisch": true
+    },
+    {
+      "norm_index": 528,
+      "name": "§ 382",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 529,
+      "name": "Dritter AbschnittKommissionsgeschäft",
+      "pdf_zeichen": 35,
+      "xml_zeichen": 35,
+      "identisch": true
+    },
+    {
+      "norm_index": 530,
+      "name": "§ 383",
+      "pdf_zeichen": 537,
+      "xml_zeichen": 537,
+      "identisch": true
+    },
+    {
+      "norm_index": 531,
+      "name": "§ 384",
+      "pdf_zeichen": 648,
+      "xml_zeichen": 648,
+      "identisch": true
+    },
+    {
+      "norm_index": 532,
+      "name": "§ 385",
+      "pdf_zeichen": 249,
+      "xml_zeichen": 249,
+      "identisch": true
+    },
+    {
+      "norm_index": 533,
+      "name": "§ 386",
+      "pdf_zeichen": 595,
+      "xml_zeichen": 595,
+      "identisch": true
+    },
+    {
+      "norm_index": 534,
+      "name": "§ 387",
+      "pdf_zeichen": 366,
+      "xml_zeichen": 366,
+      "identisch": true
+    },
+    {
+      "norm_index": 535,
+      "name": "§ 388",
+      "pdf_zeichen": 662,
+      "xml_zeichen": 662,
+      "identisch": true
+    },
+    {
+      "norm_index": 536,
+      "name": "§ 389",
+      "pdf_zeichen": 152,
+      "xml_zeichen": 152,
+      "identisch": true
+    },
+    {
+      "norm_index": 537,
+      "name": "§ 390",
+      "pdf_zeichen": 390,
+      "xml_zeichen": 390,
+      "identisch": true
+    },
+    {
+      "norm_index": 538,
+      "name": "§ 391",
+      "pdf_zeichen": 570,
+      "xml_zeichen": 570,
+      "identisch": true
+    },
+    {
+      "norm_index": 539,
+      "name": "§ 392",
+      "pdf_zeichen": 312,
+      "xml_zeichen": 312,
+      "identisch": true
+    },
+    {
+      "norm_index": 540,
+      "name": "§ 393",
+      "pdf_zeichen": 633,
+      "xml_zeichen": 633,
+      "identisch": true
+    },
+    {
+      "norm_index": 541,
+      "name": "§ 394",
+      "pdf_zeichen": 467,
+      "xml_zeichen": 467,
+      "identisch": true
+    },
+    {
+      "norm_index": 542,
+      "name": "§ 395",
+      "pdf_zeichen": 147,
+      "xml_zeichen": 147,
+      "identisch": true
+    },
+    {
+      "norm_index": 543,
+      "name": "§ 396",
+      "pdf_zeichen": 581,
+      "xml_zeichen": 581,
+      "identisch": true
+    },
+    {
+      "norm_index": 544,
+      "name": "§ 397",
+      "pdf_zeichen": 631,
+      "xml_zeichen": 631,
+      "identisch": true
+    },
+    {
+      "norm_index": 545,
+      "name": "§ 398",
+      "pdf_zeichen": 176,
+      "xml_zeichen": 176,
+      "identisch": true
+    },
+    {
+      "norm_index": 546,
+      "name": "§ 399",
+      "pdf_zeichen": 201,
+      "xml_zeichen": 201,
+      "identisch": true
+    },
+    {
+      "norm_index": 547,
+      "name": "§ 400",
+      "pdf_zeichen": 1542,
+      "xml_zeichen": 1542,
+      "identisch": true
+    },
+    {
+      "norm_index": 548,
+      "name": "§ 401",
+      "pdf_zeichen": 480,
+      "xml_zeichen": 480,
+      "identisch": true
+    },
+    {
+      "norm_index": 549,
+      "name": "§ 402",
+      "pdf_zeichen": 112,
+      "xml_zeichen": 112,
+      "identisch": true
+    },
+    {
+      "norm_index": 550,
+      "name": "§ 403",
+      "pdf_zeichen": 193,
+      "xml_zeichen": 193,
+      "identisch": true
+    },
+    {
+      "norm_index": 551,
+      "name": "§ 404",
+      "pdf_zeichen": 105,
+      "xml_zeichen": 105,
+      "identisch": true
+    },
+    {
+      "norm_index": 552,
+      "name": "§ 405",
+      "pdf_zeichen": 642,
+      "xml_zeichen": 642,
+      "identisch": true
+    },
+    {
+      "norm_index": 553,
+      "name": "§ 406",
+      "pdf_zeichen": 576,
+      "xml_zeichen": 576,
+      "identisch": true
+    },
+    {
+      "norm_index": 554,
+      "name": "Vierter AbschnittFrachtgeschäft",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 555,
+      "name": "Erster UnterabschnittAllgemeine Vorschriften",
+      "pdf_zeichen": 42,
+      "xml_zeichen": 42,
+      "identisch": true
+    },
+    {
+      "norm_index": 556,
+      "name": "§ 407",
+      "pdf_zeichen": 719,
+      "xml_zeichen": 719,
+      "identisch": true
+    },
+    {
+      "norm_index": 557,
+      "name": "§ 408",
+      "pdf_zeichen": 1925,
+      "xml_zeichen": 1925,
+      "identisch": true
+    },
+    {
+      "norm_index": 558,
+      "name": "§ 409",
+      "pdf_zeichen": 1264,
+      "xml_zeichen": 1264,
+      "identisch": true
+    },
+    {
+      "norm_index": 559,
+      "name": "§ 410",
+      "pdf_zeichen": 546,
+      "xml_zeichen": 546,
+      "identisch": true
+    },
+    {
+      "norm_index": 560,
+      "name": "§ 411",
+      "pdf_zeichen": 578,
+      "xml_zeichen": 578,
+      "identisch": true
+    },
+    {
+      "norm_index": 561,
+      "name": "§ 412",
+      "pdf_zeichen": 1143,
+      "xml_zeichen": 1143,
+      "identisch": true
+    },
+    {
+      "norm_index": 562,
+      "name": "§ 413",
+      "pdf_zeichen": 597,
+      "xml_zeichen": 597,
+      "identisch": true
+    },
+    {
+      "norm_index": 563,
+      "name": "§ 414",
+      "pdf_zeichen": 824,
+      "xml_zeichen": 824,
+      "identisch": true
+    },
+    {
+      "norm_index": 564,
+      "name": "§ 415",
+      "pdf_zeichen": 1190,
+      "xml_zeichen": 1190,
+      "identisch": true
+    },
+    {
+      "norm_index": 565,
+      "name": "§ 416",
+      "pdf_zeichen": 825,
+      "xml_zeichen": 825,
+      "identisch": true
+    },
+    {
+      "norm_index": 566,
+      "name": "§ 417",
+      "pdf_zeichen": 1277,
+      "xml_zeichen": 1277,
+      "identisch": true
+    },
+    {
+      "norm_index": 567,
+      "name": "§ 418",
+      "pdf_zeichen": 1847,
+      "xml_zeichen": 1847,
+      "identisch": true
+    },
+    {
+      "norm_index": 568,
+      "name": "§ 419",
+      "pdf_zeichen": 1950,
+      "xml_zeichen": 1950,
+      "identisch": true
+    },
+    {
+      "norm_index": 569,
+      "name": "§ 420",
+      "pdf_zeichen": 1432,
+      "xml_zeichen": 1432,
+      "identisch": true
+    },
+    {
+      "norm_index": 570,
+      "name": "§ 421",
+      "pdf_zeichen": 1235,
+      "xml_zeichen": 1235,
+      "identisch": true
+    },
+    {
+      "norm_index": 571,
+      "name": "§ 422",
+      "pdf_zeichen": 528,
+      "xml_zeichen": 528,
+      "identisch": true
+    },
+    {
+      "norm_index": 572,
+      "name": "§ 423",
+      "pdf_zeichen": 243,
+      "xml_zeichen": 243,
+      "identisch": true
+    },
+    {
+      "norm_index": 573,
+      "name": "§ 424",
+      "pdf_zeichen": 1018,
+      "xml_zeichen": 1018,
+      "identisch": true
+    },
+    {
+      "norm_index": 574,
+      "name": "§ 425",
+      "pdf_zeichen": 480,
+      "xml_zeichen": 480,
+      "identisch": true
+    },
+    {
+      "norm_index": 575,
+      "name": "§ 426",
+      "pdf_zeichen": 236,
+      "xml_zeichen": 236,
+      "identisch": true
+    },
+    {
+      "norm_index": 576,
+      "name": "§ 427",
+      "pdf_zeichen": 1696,
+      "xml_zeichen": 1696,
+      "identisch": true
+    },
+    {
+      "norm_index": 577,
+      "name": "§ 428",
+      "pdf_zeichen": 293,
+      "xml_zeichen": 293,
+      "identisch": true
+    },
+    {
+      "norm_index": 578,
+      "name": "§ 429",
+      "pdf_zeichen": 800,
+      "xml_zeichen": 800,
+      "identisch": true
+    },
+    {
+      "norm_index": 579,
+      "name": "§ 430",
+      "pdf_zeichen": 166,
+      "xml_zeichen": 166,
+      "identisch": true
+    },
+    {
+      "norm_index": 580,
+      "name": "§ 431",
+      "pdf_zeichen": 1038,
+      "xml_zeichen": 1038,
+      "identisch": true
+    },
+    {
+      "norm_index": 581,
+      "name": "§ 432",
+      "pdf_zeichen": 331,
+      "xml_zeichen": 331,
+      "identisch": true
+    },
+    {
+      "norm_index": 582,
+      "name": "§ 433",
+      "pdf_zeichen": 441,
+      "xml_zeichen": 441,
+      "identisch": true
+    },
+    {
+      "norm_index": 583,
+      "name": "§ 434",
+      "pdf_zeichen": 1171,
+      "xml_zeichen": 1171,
+      "identisch": true
+    },
+    {
+      "norm_index": 584,
+      "name": "§ 435",
+      "pdf_zeichen": 374,
+      "xml_zeichen": 374,
+      "identisch": true
+    },
+    {
+      "norm_index": 585,
+      "name": "§ 436",
+      "pdf_zeichen": 425,
+      "xml_zeichen": 425,
+      "identisch": true
+    },
+    {
+      "norm_index": 586,
+      "name": "§ 437",
+      "pdf_zeichen": 762,
+      "xml_zeichen": 762,
+      "identisch": true
+    },
+    {
+      "norm_index": 587,
+      "name": "§ 438",
+      "pdf_zeichen": 926,
+      "xml_zeichen": 926,
+      "identisch": true
+    },
+    {
+      "norm_index": 588,
+      "name": "§ 439",
+      "pdf_zeichen": 1507,
+      "xml_zeichen": 1507,
+      "identisch": true
+    },
+    {
+      "norm_index": 589,
+      "name": "§ 440",
+      "pdf_zeichen": 1134,
+      "xml_zeichen": 1134,
+      "identisch": true
+    },
+    {
+      "norm_index": 590,
+      "name": "§ 441",
+      "pdf_zeichen": 583,
+      "xml_zeichen": 583,
+      "identisch": true
+    },
+    {
+      "norm_index": 591,
+      "name": "§ 442",
+      "pdf_zeichen": 455,
+      "xml_zeichen": 455,
+      "identisch": true
+    },
+    {
+      "norm_index": 592,
+      "name": "§ 443",
+      "pdf_zeichen": 1085,
+      "xml_zeichen": 1085,
+      "identisch": true
+    },
+    {
+      "norm_index": 593,
+      "name": "§ 444",
+      "pdf_zeichen": 1218,
+      "xml_zeichen": 1218,
+      "identisch": true
+    },
+    {
+      "norm_index": 594,
+      "name": "§ 445",
+      "pdf_zeichen": 1016,
+      "xml_zeichen": 1016,
+      "identisch": true
+    },
+    {
+      "norm_index": 595,
+      "name": "§ 446",
+      "pdf_zeichen": 661,
+      "xml_zeichen": 661,
+      "identisch": true
+    },
+    {
+      "norm_index": 596,
+      "name": "§ 447",
+      "pdf_zeichen": 532,
+      "xml_zeichen": 532,
+      "identisch": true
+    },
+    {
+      "norm_index": 597,
+      "name": "§ 448",
+      "pdf_zeichen": 254,
+      "xml_zeichen": 254,
+      "identisch": true
+    },
+    {
+      "norm_index": 598,
+      "name": "§ 449",
+      "pdf_zeichen": 1811,
+      "xml_zeichen": 1811,
+      "identisch": true
+    },
+    {
+      "norm_index": 599,
+      "name": "§ 450",
+      "pdf_zeichen": 273,
+      "xml_zeichen": 273,
+      "identisch": true
+    },
+    {
+      "norm_index": 600,
+      "name": "Zweiter UnterabschnittBeförderung von Umzugsgut",
+      "pdf_zeichen": 44,
+      "xml_zeichen": 44,
+      "identisch": true
+    },
+    {
+      "norm_index": 601,
+      "name": "§ 451",
+      "pdf_zeichen": 251,
+      "xml_zeichen": 251,
+      "identisch": true
+    },
+    {
+      "norm_index": 602,
+      "name": "§ 451a",
+      "pdf_zeichen": 310,
+      "xml_zeichen": 310,
+      "identisch": true
+    },
+    {
+      "norm_index": 603,
+      "name": "§ 451b",
+      "pdf_zeichen": 712,
+      "xml_zeichen": 712,
+      "identisch": true
+    },
+    {
+      "norm_index": 604,
+      "name": "§ 451c",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 605,
+      "name": "§ 451d",
+      "pdf_zeichen": 1223,
+      "xml_zeichen": 1223,
+      "identisch": true
+    },
+    {
+      "norm_index": 606,
+      "name": "§ 451e",
+      "pdf_zeichen": 204,
+      "xml_zeichen": 204,
+      "identisch": true
+    },
+    {
+      "norm_index": 607,
+      "name": "§ 451f",
+      "pdf_zeichen": 383,
+      "xml_zeichen": 383,
+      "identisch": true
+    },
+    {
+      "norm_index": 608,
+      "name": "§ 451g",
+      "pdf_zeichen": 778,
+      "xml_zeichen": 778,
+      "identisch": true
+    },
+    {
+      "norm_index": 609,
+      "name": "§ 451h",
+      "pdf_zeichen": 1186,
+      "xml_zeichen": 1186,
+      "identisch": true
+    },
+    {
+      "norm_index": 610,
+      "name": "Dritter UnterabschnittBeförderung mit\nverschiedenartigen Beförderungsmitteln",
+      "pdf_zeichen": 72,
+      "xml_zeichen": 72,
+      "identisch": true
+    },
+    {
+      "norm_index": 611,
+      "name": "§ 452",
+      "pdf_zeichen": 664,
+      "xml_zeichen": 664,
+      "identisch": true
+    },
+    {
+      "norm_index": 612,
+      "name": "§ 452a",
+      "pdf_zeichen": 545,
+      "xml_zeichen": 545,
+      "identisch": true
+    },
+    {
+      "norm_index": 613,
+      "name": "§ 452b",
+      "pdf_zeichen": 580,
+      "xml_zeichen": 580,
+      "identisch": true
+    },
+    {
+      "norm_index": 614,
+      "name": "§ 452c",
+      "pdf_zeichen": 420,
+      "xml_zeichen": 420,
+      "identisch": true
+    },
+    {
+      "norm_index": 615,
+      "name": "§ 452d",
+      "pdf_zeichen": 937,
+      "xml_zeichen": 937,
+      "identisch": true
+    },
+    {
+      "norm_index": 616,
+      "name": "Fünfter AbschnittSpeditionsgeschäft",
+      "pdf_zeichen": 34,
+      "xml_zeichen": 34,
+      "identisch": true
+    },
+    {
+      "norm_index": 617,
+      "name": "§ 453",
+      "pdf_zeichen": 627,
+      "xml_zeichen": 627,
+      "identisch": true
+    },
+    {
+      "norm_index": 618,
+      "name": "§ 454",
+      "pdf_zeichen": 1125,
+      "xml_zeichen": 1125,
+      "identisch": true
+    },
+    {
+      "norm_index": 619,
+      "name": "§ 455",
+      "pdf_zeichen": 948,
+      "xml_zeichen": 948,
+      "identisch": true
+    },
+    {
+      "norm_index": 620,
+      "name": "§ 456",
+      "pdf_zeichen": 109,
+      "xml_zeichen": 109,
+      "identisch": true
+    },
+    {
+      "norm_index": 621,
+      "name": "§ 457",
+      "pdf_zeichen": 318,
+      "xml_zeichen": 318,
+      "identisch": true
+    },
+    {
+      "norm_index": 622,
+      "name": "§ 458",
+      "pdf_zeichen": 309,
+      "xml_zeichen": 309,
+      "identisch": true
+    },
+    {
+      "norm_index": 623,
+      "name": "§ 459",
+      "pdf_zeichen": 289,
+      "xml_zeichen": 289,
+      "identisch": true
+    },
+    {
+      "norm_index": 624,
+      "name": "§ 460",
+      "pdf_zeichen": 481,
+      "xml_zeichen": 481,
+      "identisch": true
+    },
+    {
+      "norm_index": 625,
+      "name": "§ 461",
+      "pdf_zeichen": 728,
+      "xml_zeichen": 728,
+      "identisch": true
+    },
+    {
+      "norm_index": 626,
+      "name": "§ 462",
+      "pdf_zeichen": 312,
+      "xml_zeichen": 312,
+      "identisch": true
+    },
+    {
+      "norm_index": 627,
+      "name": "§ 463",
+      "pdf_zeichen": 134,
+      "xml_zeichen": 134,
+      "identisch": true
+    },
+    {
+      "norm_index": 628,
+      "name": "§ 464",
+      "pdf_zeichen": 428,
+      "xml_zeichen": 428,
+      "identisch": true
+    },
+    {
+      "norm_index": 629,
+      "name": "§ 465",
+      "pdf_zeichen": 332,
+      "xml_zeichen": 332,
+      "identisch": true
+    },
+    {
+      "norm_index": 630,
+      "name": "§ 466",
+      "pdf_zeichen": 1660,
+      "xml_zeichen": 1660,
+      "identisch": true
+    },
+    {
+      "norm_index": 631,
+      "name": "Sechster AbschnittLagergeschäft",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 632,
+      "name": "§ 467",
+      "pdf_zeichen": 616,
+      "xml_zeichen": 616,
+      "identisch": true
+    },
+    {
+      "norm_index": 633,
+      "name": "§ 468",
+      "pdf_zeichen": 1419,
+      "xml_zeichen": 1419,
+      "identisch": true
+    },
+    {
+      "norm_index": 634,
+      "name": "§ 469",
+      "pdf_zeichen": 448,
+      "xml_zeichen": 448,
+      "identisch": true
+    },
+    {
+      "norm_index": 635,
+      "name": "§ 470",
+      "pdf_zeichen": 253,
+      "xml_zeichen": 253,
+      "identisch": true
+    },
+    {
+      "norm_index": 636,
+      "name": "§ 471",
+      "pdf_zeichen": 1093,
+      "xml_zeichen": 1093,
+      "identisch": true
+    },
+    {
+      "norm_index": 637,
+      "name": "§ 472",
+      "pdf_zeichen": 338,
+      "xml_zeichen": 338,
+      "identisch": true
+    },
+    {
+      "norm_index": 638,
+      "name": "§ 473",
+      "pdf_zeichen": 804,
+      "xml_zeichen": 804,
+      "identisch": true
+    },
+    {
+      "norm_index": 639,
+      "name": "§ 474",
+      "pdf_zeichen": 147,
+      "xml_zeichen": 147,
+      "identisch": true
+    },
+    {
+      "norm_index": 640,
+      "name": "§ 475",
+      "pdf_zeichen": 345,
+      "xml_zeichen": 345,
+      "identisch": true
+    },
+    {
+      "norm_index": 641,
+      "name": "§ 475a",
+      "pdf_zeichen": 359,
+      "xml_zeichen": 359,
+      "identisch": true
+    },
+    {
+      "norm_index": 642,
+      "name": "§ 475b",
+      "pdf_zeichen": 902,
+      "xml_zeichen": 902,
+      "identisch": true
+    },
+    {
+      "norm_index": 643,
+      "name": "§ 475c",
+      "pdf_zeichen": 1439,
+      "xml_zeichen": 1439,
+      "identisch": true
+    },
+    {
+      "norm_index": 644,
+      "name": "§ 475d",
+      "pdf_zeichen": 1360,
+      "xml_zeichen": 1360,
+      "identisch": true
+    },
+    {
+      "norm_index": 645,
+      "name": "§ 475e",
+      "pdf_zeichen": 922,
+      "xml_zeichen": 922,
+      "identisch": true
+    },
+    {
+      "norm_index": 646,
+      "name": "§ 475f",
+      "pdf_zeichen": 365,
+      "xml_zeichen": 365,
+      "identisch": true
+    },
+    {
+      "norm_index": 647,
+      "name": "§ 475g",
+      "pdf_zeichen": 296,
+      "xml_zeichen": 296,
+      "identisch": true
+    },
+    {
+      "norm_index": 648,
+      "name": "§ 475h",
+      "pdf_zeichen": 131,
+      "xml_zeichen": 131,
+      "identisch": true
+    },
+    {
+      "norm_index": 649,
+      "name": "Fünftes BuchSeehandel",
+      "pdf_zeichen": 20,
+      "xml_zeichen": 20,
+      "identisch": true
+    },
+    {
+      "norm_index": 650,
+      "name": "Erster AbschnittPersonen der Schifffahrt",
+      "pdf_zeichen": 37,
+      "xml_zeichen": 37,
+      "identisch": true
+    },
+    {
+      "norm_index": 651,
+      "name": "§ 476",
+      "pdf_zeichen": 85,
+      "xml_zeichen": 85,
+      "identisch": true
+    },
+    {
+      "norm_index": 652,
+      "name": "§ 477",
+      "pdf_zeichen": 451,
+      "xml_zeichen": 451,
+      "identisch": true
+    },
+    {
+      "norm_index": 653,
+      "name": "§ 478",
+      "pdf_zeichen": 360,
+      "xml_zeichen": 360,
+      "identisch": true
+    },
+    {
+      "norm_index": 654,
+      "name": "§ 479",
+      "pdf_zeichen": 793,
+      "xml_zeichen": 793,
+      "identisch": true
+    },
+    {
+      "norm_index": 655,
+      "name": "§ 480",
+      "pdf_zeichen": 417,
+      "xml_zeichen": 417,
+      "identisch": true
+    },
+    {
+      "norm_index": 656,
+      "name": "Zweiter AbschnittBeförderungsverträge",
+      "pdf_zeichen": 36,
+      "xml_zeichen": 36,
+      "identisch": true
+    },
+    {
+      "norm_index": 657,
+      "name": "Erster UnterabschnittSeefrachtverträge",
+      "pdf_zeichen": 37,
+      "xml_zeichen": 37,
+      "identisch": true
+    },
+    {
+      "norm_index": 658,
+      "name": "Erster TitelStückgutfrachtvertrag",
+      "pdf_zeichen": 32,
+      "xml_zeichen": 32,
+      "identisch": true
+    },
+    {
+      "norm_index": 659,
+      "name": "Erster UntertitelAllgemeine Vorschriften",
+      "pdf_zeichen": 38,
+      "xml_zeichen": 38,
+      "identisch": true
+    },
+    {
+      "norm_index": 660,
+      "name": "§ 481",
+      "pdf_zeichen": 685,
+      "xml_zeichen": 685,
+      "identisch": true
+    },
+    {
+      "norm_index": 661,
+      "name": "§ 482",
+      "pdf_zeichen": 418,
+      "xml_zeichen": 418,
+      "identisch": true
+    },
+    {
+      "norm_index": 662,
+      "name": "§ 483",
+      "pdf_zeichen": 1120,
+      "xml_zeichen": 1120,
+      "identisch": true
+    },
+    {
+      "norm_index": 663,
+      "name": "§ 484",
+      "pdf_zeichen": 584,
+      "xml_zeichen": 584,
+      "identisch": true
+    },
+    {
+      "norm_index": 664,
+      "name": "§ 485",
+      "pdf_zeichen": 412,
+      "xml_zeichen": 412,
+      "identisch": true
+    },
+    {
+      "norm_index": 665,
+      "name": "§ 486",
+      "pdf_zeichen": 962,
+      "xml_zeichen": 962,
+      "identisch": true
+    },
+    {
+      "norm_index": 666,
+      "name": "§ 487",
+      "pdf_zeichen": 845,
+      "xml_zeichen": 845,
+      "identisch": true
+    },
+    {
+      "norm_index": 667,
+      "name": "§ 488",
+      "pdf_zeichen": 1983,
+      "xml_zeichen": 1983,
+      "identisch": true
+    },
+    {
+      "norm_index": 668,
+      "name": "§ 489",
+      "pdf_zeichen": 914,
+      "xml_zeichen": 914,
+      "identisch": true
+    },
+    {
+      "norm_index": 669,
+      "name": "§ 490",
+      "pdf_zeichen": 1549,
+      "xml_zeichen": 1549,
+      "identisch": true
+    },
+    {
+      "norm_index": 670,
+      "name": "§ 491",
+      "pdf_zeichen": 1911,
+      "xml_zeichen": 1911,
+      "identisch": true
+    },
+    {
+      "norm_index": 671,
+      "name": "§ 492",
+      "pdf_zeichen": 1947,
+      "xml_zeichen": 1947,
+      "identisch": true
+    },
+    {
+      "norm_index": 672,
+      "name": "§ 493",
+      "pdf_zeichen": 1431,
+      "xml_zeichen": 1431,
+      "identisch": true
+    },
+    {
+      "norm_index": 673,
+      "name": "§ 494",
+      "pdf_zeichen": 1180,
+      "xml_zeichen": 1180,
+      "identisch": true
+    },
+    {
+      "norm_index": 674,
+      "name": "§ 495",
+      "pdf_zeichen": 1134,
+      "xml_zeichen": 1134,
+      "identisch": true
+    },
+    {
+      "norm_index": 675,
+      "name": "§ 496",
+      "pdf_zeichen": 574,
+      "xml_zeichen": 574,
+      "identisch": true
+    },
+    {
+      "norm_index": 676,
+      "name": "§ 497",
+      "pdf_zeichen": 169,
+      "xml_zeichen": 169,
+      "identisch": true
+    },
+    {
+      "norm_index": 677,
+      "name": "Zweiter UntertitelHaftung wegen Verlust oder Beschädigung des Gutes",
+      "pdf_zeichen": 60,
+      "xml_zeichen": 60,
+      "identisch": true
+    },
+    {
+      "norm_index": 678,
+      "name": "§ 498",
+      "pdf_zeichen": 1019,
+      "xml_zeichen": 1019,
+      "identisch": true
+    },
+    {
+      "norm_index": 679,
+      "name": "§ 499",
+      "pdf_zeichen": 1794,
+      "xml_zeichen": 1794,
+      "identisch": true
+    },
+    {
+      "norm_index": 680,
+      "name": "§ 500",
+      "pdf_zeichen": 415,
+      "xml_zeichen": 415,
+      "identisch": true
+    },
+    {
+      "norm_index": 681,
+      "name": "§ 501",
+      "pdf_zeichen": 224,
+      "xml_zeichen": 224,
+      "identisch": true
+    },
+    {
+      "norm_index": 682,
+      "name": "§ 502",
+      "pdf_zeichen": 1156,
+      "xml_zeichen": 1156,
+      "identisch": true
+    },
+    {
+      "norm_index": 683,
+      "name": "§ 503",
+      "pdf_zeichen": 165,
+      "xml_zeichen": 165,
+      "identisch": true
+    },
+    {
+      "norm_index": 684,
+      "name": "§ 504",
+      "pdf_zeichen": 957,
+      "xml_zeichen": 957,
+      "identisch": true
+    },
+    {
+      "norm_index": 685,
+      "name": "§ 505",
+      "pdf_zeichen": 456,
+      "xml_zeichen": 456,
+      "identisch": true
+    },
+    {
+      "norm_index": 686,
+      "name": "§ 506",
+      "pdf_zeichen": 1106,
+      "xml_zeichen": 1106,
+      "identisch": true
+    },
+    {
+      "norm_index": 687,
+      "name": "§ 507",
+      "pdf_zeichen": 523,
+      "xml_zeichen": 523,
+      "identisch": true
+    },
+    {
+      "norm_index": 688,
+      "name": "§ 508",
+      "pdf_zeichen": 756,
+      "xml_zeichen": 756,
+      "identisch": true
+    },
+    {
+      "norm_index": 689,
+      "name": "§ 509",
+      "pdf_zeichen": 795,
+      "xml_zeichen": 795,
+      "identisch": true
+    },
+    {
+      "norm_index": 690,
+      "name": "§ 510",
+      "pdf_zeichen": 705,
+      "xml_zeichen": 705,
+      "identisch": true
+    },
+    {
+      "norm_index": 691,
+      "name": "§ 511",
+      "pdf_zeichen": 1239,
+      "xml_zeichen": 1239,
+      "identisch": true
+    },
+    {
+      "norm_index": 692,
+      "name": "§ 512",
+      "pdf_zeichen": 752,
+      "xml_zeichen": 752,
+      "identisch": true
+    },
+    {
+      "norm_index": 693,
+      "name": "Dritter UntertitelBeförderungsdokumente",
+      "pdf_zeichen": 38,
+      "xml_zeichen": 38,
+      "identisch": true
+    },
+    {
+      "norm_index": 694,
+      "name": "§ 513",
+      "pdf_zeichen": 698,
+      "xml_zeichen": 698,
+      "identisch": true
+    },
+    {
+      "norm_index": 695,
+      "name": "§ 514",
+      "pdf_zeichen": 809,
+      "xml_zeichen": 809,
+      "identisch": true
+    },
+    {
+      "norm_index": 696,
+      "name": "§ 515",
+      "pdf_zeichen": 684,
+      "xml_zeichen": 684,
+      "identisch": true
+    },
+    {
+      "norm_index": 697,
+      "name": "§ 516",
+      "pdf_zeichen": 764,
+      "xml_zeichen": 764,
+      "identisch": true
+    },
+    {
+      "norm_index": 698,
+      "name": "§ 517",
+      "pdf_zeichen": 1100,
+      "xml_zeichen": 1100,
+      "identisch": true
+    },
+    {
+      "norm_index": 699,
+      "name": "§ 518",
+      "pdf_zeichen": 371,
+      "xml_zeichen": 371,
+      "identisch": true
+    },
+    {
+      "norm_index": 700,
+      "name": "§ 519",
+      "pdf_zeichen": 510,
+      "xml_zeichen": 510,
+      "identisch": true
+    },
+    {
+      "norm_index": 701,
+      "name": "§ 520",
+      "pdf_zeichen": 728,
+      "xml_zeichen": 728,
+      "identisch": true
+    },
+    {
+      "norm_index": 702,
+      "name": "§ 521",
+      "pdf_zeichen": 1677,
+      "xml_zeichen": 1677,
+      "identisch": true
+    },
+    {
+      "norm_index": 703,
+      "name": "§ 522",
+      "pdf_zeichen": 1099,
+      "xml_zeichen": 1099,
+      "identisch": true
+    },
+    {
+      "norm_index": 704,
+      "name": "§ 523",
+      "pdf_zeichen": 1566,
+      "xml_zeichen": 1566,
+      "identisch": true
+    },
+    {
+      "norm_index": 705,
+      "name": "§ 524",
+      "pdf_zeichen": 259,
+      "xml_zeichen": 259,
+      "identisch": true
+    },
+    {
+      "norm_index": 706,
+      "name": "§ 525",
+      "pdf_zeichen": 577,
+      "xml_zeichen": 577,
+      "identisch": true
+    },
+    {
+      "norm_index": 707,
+      "name": "§ 526",
+      "pdf_zeichen": 1150,
+      "xml_zeichen": 1150,
+      "identisch": true
+    },
+    {
+      "norm_index": 708,
+      "name": "Zweiter TitelReisefrachtvertrag",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 709,
+      "name": "§ 527",
+      "pdf_zeichen": 525,
+      "xml_zeichen": 525,
+      "identisch": true
+    },
+    {
+      "norm_index": 710,
+      "name": "§ 528",
+      "pdf_zeichen": 427,
+      "xml_zeichen": 427,
+      "identisch": true
+    },
+    {
+      "norm_index": 711,
+      "name": "§ 529",
+      "pdf_zeichen": 526,
+      "xml_zeichen": 526,
+      "identisch": true
+    },
+    {
+      "norm_index": 712,
+      "name": "§ 530",
+      "pdf_zeichen": 966,
+      "xml_zeichen": 966,
+      "identisch": true
+    },
+    {
+      "norm_index": 713,
+      "name": "§ 531",
+      "pdf_zeichen": 252,
+      "xml_zeichen": 252,
+      "identisch": true
+    },
+    {
+      "norm_index": 714,
+      "name": "§ 532",
+      "pdf_zeichen": 228,
+      "xml_zeichen": 228,
+      "identisch": true
+    },
+    {
+      "norm_index": 715,
+      "name": "§ 533",
+      "pdf_zeichen": 1415,
+      "xml_zeichen": 1415,
+      "identisch": true
+    },
+    {
+      "norm_index": 716,
+      "name": "§ 534",
+      "pdf_zeichen": 509,
+      "xml_zeichen": 509,
+      "identisch": true
+    },
+    {
+      "norm_index": 717,
+      "name": "§ 535",
+      "pdf_zeichen": 516,
+      "xml_zeichen": 516,
+      "identisch": true
+    },
+    {
+      "norm_index": 718,
+      "name": "Zweiter UnterabschnittPersonenbeförderungsverträge",
+      "pdf_zeichen": 49,
+      "xml_zeichen": 49,
+      "identisch": true
+    },
+    {
+      "norm_index": 719,
+      "name": "§ 536",
+      "pdf_zeichen": 1266,
+      "xml_zeichen": 1266,
+      "identisch": true
+    },
+    {
+      "norm_index": 720,
+      "name": "§ 537",
+      "pdf_zeichen": 1288,
+      "xml_zeichen": 1288,
+      "identisch": true
+    },
+    {
+      "norm_index": 721,
+      "name": "§ 538",
+      "pdf_zeichen": 1534,
+      "xml_zeichen": 1534,
+      "identisch": true
+    },
+    {
+      "norm_index": 722,
+      "name": "§ 539",
+      "pdf_zeichen": 2077,
+      "xml_zeichen": 2077,
+      "identisch": true
+    },
+    {
+      "norm_index": 723,
+      "name": "§ 540",
+      "pdf_zeichen": 296,
+      "xml_zeichen": 296,
+      "identisch": true
+    },
+    {
+      "norm_index": 724,
+      "name": "§ 541",
+      "pdf_zeichen": 1416,
+      "xml_zeichen": 1416,
+      "identisch": true
+    },
+    {
+      "norm_index": 725,
+      "name": "§ 542",
+      "pdf_zeichen": 1382,
+      "xml_zeichen": 1382,
+      "identisch": true
+    },
+    {
+      "norm_index": 726,
+      "name": "§ 543",
+      "pdf_zeichen": 133,
+      "xml_zeichen": 133,
+      "identisch": true
+    },
+    {
+      "norm_index": 727,
+      "name": "§ 544",
+      "pdf_zeichen": 446,
+      "xml_zeichen": 446,
+      "identisch": true
+    },
+    {
+      "norm_index": 728,
+      "name": "§ 545",
+      "pdf_zeichen": 378,
+      "xml_zeichen": 378,
+      "identisch": true
+    },
+    {
+      "norm_index": 729,
+      "name": "§ 546",
+      "pdf_zeichen": 741,
+      "xml_zeichen": 741,
+      "identisch": true
+    },
+    {
+      "norm_index": 730,
+      "name": "§ 547",
+      "pdf_zeichen": 840,
+      "xml_zeichen": 840,
+      "identisch": true
+    },
+    {
+      "norm_index": 731,
+      "name": "§ 548",
+      "pdf_zeichen": 271,
+      "xml_zeichen": 271,
+      "identisch": true
+    },
+    {
+      "norm_index": 732,
+      "name": "§ 549",
+      "pdf_zeichen": 839,
+      "xml_zeichen": 839,
+      "identisch": true
+    },
+    {
+      "norm_index": 733,
+      "name": "§ 550",
+      "pdf_zeichen": 594,
+      "xml_zeichen": 594,
+      "identisch": true
+    },
+    {
+      "norm_index": 734,
+      "name": "§ 551",
+      "pdf_zeichen": 445,
+      "xml_zeichen": 445,
+      "identisch": true
+    },
+    {
+      "norm_index": 735,
+      "name": "§ 552",
+      "pdf_zeichen": 201,
+      "xml_zeichen": 201,
+      "identisch": true
+    },
+    {
+      "norm_index": 736,
+      "name": "Dritter AbschnittSchiffsüberlassungsverträge",
+      "pdf_zeichen": 43,
+      "xml_zeichen": 43,
+      "identisch": true
+    },
+    {
+      "norm_index": 737,
+      "name": "Erster UnterabschnittSchiffsmiete",
+      "pdf_zeichen": 32,
+      "xml_zeichen": 32,
+      "identisch": true
+    },
+    {
+      "norm_index": 738,
+      "name": "§ 553",
+      "pdf_zeichen": 740,
+      "xml_zeichen": 740,
+      "identisch": true
+    },
+    {
+      "norm_index": 739,
+      "name": "§ 554",
+      "pdf_zeichen": 443,
+      "xml_zeichen": 443,
+      "identisch": true
+    },
+    {
+      "norm_index": 740,
+      "name": "§ 555",
+      "pdf_zeichen": 110,
+      "xml_zeichen": 110,
+      "identisch": true
+    },
+    {
+      "norm_index": 741,
+      "name": "§ 556",
+      "pdf_zeichen": 274,
+      "xml_zeichen": 274,
+      "identisch": true
+    },
+    {
+      "norm_index": 742,
+      "name": "Zweiter UnterabschnittZeitcharter",
+      "pdf_zeichen": 32,
+      "xml_zeichen": 32,
+      "identisch": true
+    },
+    {
+      "norm_index": 743,
+      "name": "§ 557",
+      "pdf_zeichen": 745,
+      "xml_zeichen": 745,
+      "identisch": true
+    },
+    {
+      "norm_index": 744,
+      "name": "§ 558",
+      "pdf_zeichen": 101,
+      "xml_zeichen": 101,
+      "identisch": true
+    },
+    {
+      "norm_index": 745,
+      "name": "§ 559",
+      "pdf_zeichen": 421,
+      "xml_zeichen": 421,
+      "identisch": true
+    },
+    {
+      "norm_index": 746,
+      "name": "§ 560",
+      "pdf_zeichen": 305,
+      "xml_zeichen": 305,
+      "identisch": true
+    },
+    {
+      "norm_index": 747,
+      "name": "§ 561",
+      "pdf_zeichen": 401,
+      "xml_zeichen": 401,
+      "identisch": true
+    },
+    {
+      "norm_index": 748,
+      "name": "§ 562",
+      "pdf_zeichen": 167,
+      "xml_zeichen": 167,
+      "identisch": true
+    },
+    {
+      "norm_index": 749,
+      "name": "§ 563",
+      "pdf_zeichen": 226,
+      "xml_zeichen": 226,
+      "identisch": true
+    },
+    {
+      "norm_index": 750,
+      "name": "§ 564",
+      "pdf_zeichen": 473,
+      "xml_zeichen": 473,
+      "identisch": true
+    },
+    {
+      "norm_index": 751,
+      "name": "§ 565",
+      "pdf_zeichen": 420,
+      "xml_zeichen": 420,
+      "identisch": true
+    },
+    {
+      "norm_index": 752,
+      "name": "§ 566",
+      "pdf_zeichen": 889,
+      "xml_zeichen": 889,
+      "identisch": true
+    },
+    {
+      "norm_index": 753,
+      "name": "§ 567",
+      "pdf_zeichen": 263,
+      "xml_zeichen": 263,
+      "identisch": true
+    },
+    {
+      "norm_index": 754,
+      "name": "§ 568",
+      "pdf_zeichen": 227,
+      "xml_zeichen": 227,
+      "identisch": true
+    },
+    {
+      "norm_index": 755,
+      "name": "§ 569",
+      "pdf_zeichen": 498,
+      "xml_zeichen": 498,
+      "identisch": true
+    },
+    {
+      "norm_index": 756,
+      "name": "Vierter AbschnittSchiffsnotlagen",
+      "pdf_zeichen": 31,
+      "xml_zeichen": 31,
+      "identisch": true
+    },
+    {
+      "norm_index": 757,
+      "name": "Erster UnterabschnittSchiffszusammenstoß",
+      "pdf_zeichen": 39,
+      "xml_zeichen": 39,
+      "identisch": true
+    },
+    {
+      "norm_index": 758,
+      "name": "§ 570",
+      "pdf_zeichen": 355,
+      "xml_zeichen": 355,
+      "identisch": true
+    },
+    {
+      "norm_index": 759,
+      "name": "§ 571",
+      "pdf_zeichen": 569,
+      "xml_zeichen": 569,
+      "identisch": true
+    },
+    {
+      "norm_index": 760,
+      "name": "§ 572",
+      "pdf_zeichen": 284,
+      "xml_zeichen": 284,
+      "identisch": true
+    },
+    {
+      "norm_index": 761,
+      "name": "§ 573",
+      "pdf_zeichen": 139,
+      "xml_zeichen": 139,
+      "identisch": true
+    },
+    {
+      "norm_index": 762,
+      "name": "Zweiter UnterabschnittBergung",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 763,
+      "name": "§ 574",
+      "pdf_zeichen": 1846,
+      "xml_zeichen": 1846,
+      "identisch": true
+    },
+    {
+      "norm_index": 764,
+      "name": "§ 575",
+      "pdf_zeichen": 815,
+      "xml_zeichen": 815,
+      "identisch": true
+    },
+    {
+      "norm_index": 765,
+      "name": "§ 576",
+      "pdf_zeichen": 761,
+      "xml_zeichen": 761,
+      "identisch": true
+    },
+    {
+      "norm_index": 766,
+      "name": "§ 577",
+      "pdf_zeichen": 1231,
+      "xml_zeichen": 1231,
+      "identisch": true
+    },
+    {
+      "norm_index": 767,
+      "name": "§ 578",
+      "pdf_zeichen": 1204,
+      "xml_zeichen": 1204,
+      "identisch": true
+    },
+    {
+      "norm_index": 768,
+      "name": "§ 579",
+      "pdf_zeichen": 655,
+      "xml_zeichen": 655,
+      "identisch": true
+    },
+    {
+      "norm_index": 769,
+      "name": "§ 580",
+      "pdf_zeichen": 466,
+      "xml_zeichen": 466,
+      "identisch": true
+    },
+    {
+      "norm_index": 770,
+      "name": "§ 581",
+      "pdf_zeichen": 1104,
+      "xml_zeichen": 1104,
+      "identisch": true
+    },
+    {
+      "norm_index": 771,
+      "name": "§ 582",
+      "pdf_zeichen": 521,
+      "xml_zeichen": 521,
+      "identisch": true
+    },
+    {
+      "norm_index": 772,
+      "name": "§ 583",
+      "pdf_zeichen": 812,
+      "xml_zeichen": 812,
+      "identisch": true
+    },
+    {
+      "norm_index": 773,
+      "name": "§ 584",
+      "pdf_zeichen": 771,
+      "xml_zeichen": 771,
+      "identisch": true
+    },
+    {
+      "norm_index": 774,
+      "name": "§ 585",
+      "pdf_zeichen": 1128,
+      "xml_zeichen": 1128,
+      "identisch": true
+    },
+    {
+      "norm_index": 775,
+      "name": "§ 586",
+      "pdf_zeichen": 1032,
+      "xml_zeichen": 1032,
+      "identisch": true
+    },
+    {
+      "norm_index": 776,
+      "name": "§ 587",
+      "pdf_zeichen": 1164,
+      "xml_zeichen": 1164,
+      "identisch": true
+    },
+    {
+      "norm_index": 777,
+      "name": "Dritter UnterabschnittGroße Haverei",
+      "pdf_zeichen": 33,
+      "xml_zeichen": 33,
+      "identisch": true
+    },
+    {
+      "norm_index": 778,
+      "name": "§ 588",
+      "pdf_zeichen": 570,
+      "xml_zeichen": 570,
+      "identisch": true
+    },
+    {
+      "norm_index": 779,
+      "name": "§ 589",
+      "pdf_zeichen": 585,
+      "xml_zeichen": 585,
+      "identisch": true
+    },
+    {
+      "norm_index": 780,
+      "name": "§ 590",
+      "pdf_zeichen": 955,
+      "xml_zeichen": 955,
+      "identisch": true
+    },
+    {
+      "norm_index": 781,
+      "name": "§ 591",
+      "pdf_zeichen": 622,
+      "xml_zeichen": 622,
+      "identisch": true
+    },
+    {
+      "norm_index": 782,
+      "name": "§ 592",
+      "pdf_zeichen": 793,
+      "xml_zeichen": 793,
+      "identisch": true
+    },
+    {
+      "norm_index": 783,
+      "name": "§ 593",
+      "pdf_zeichen": 201,
+      "xml_zeichen": 201,
+      "identisch": true
+    },
+    {
+      "norm_index": 784,
+      "name": "§ 594",
+      "pdf_zeichen": 1180,
+      "xml_zeichen": 1180,
+      "identisch": true
+    },
+    {
+      "norm_index": 785,
+      "name": "§ 595",
+      "pdf_zeichen": 700,
+      "xml_zeichen": 700,
+      "identisch": true
+    },
+    {
+      "norm_index": 786,
+      "name": "Fünfter AbschnittSchiffsgläubiger",
+      "pdf_zeichen": 32,
+      "xml_zeichen": 32,
+      "identisch": true
+    },
+    {
+      "norm_index": 787,
+      "name": "§ 596",
+      "pdf_zeichen": 1158,
+      "xml_zeichen": 1158,
+      "identisch": true
+    },
+    {
+      "norm_index": 788,
+      "name": "§ 597",
+      "pdf_zeichen": 312,
+      "xml_zeichen": 312,
+      "identisch": true
+    },
+    {
+      "norm_index": 789,
+      "name": "§ 598",
+      "pdf_zeichen": 528,
+      "xml_zeichen": 528,
+      "identisch": true
+    },
+    {
+      "norm_index": 790,
+      "name": "§ 599",
+      "pdf_zeichen": 124,
+      "xml_zeichen": 124,
+      "identisch": true
+    },
+    {
+      "norm_index": 791,
+      "name": "§ 600",
+      "pdf_zeichen": 731,
+      "xml_zeichen": 731,
+      "identisch": true
+    },
+    {
+      "norm_index": 792,
+      "name": "§ 601",
+      "pdf_zeichen": 548,
+      "xml_zeichen": 548,
+      "identisch": true
+    },
+    {
+      "norm_index": 793,
+      "name": "§ 602",
+      "pdf_zeichen": 255,
+      "xml_zeichen": 255,
+      "identisch": true
+    },
+    {
+      "norm_index": 794,
+      "name": "§ 603",
+      "pdf_zeichen": 647,
+      "xml_zeichen": 647,
+      "identisch": true
+    },
+    {
+      "norm_index": 795,
+      "name": "§ 604",
+      "pdf_zeichen": 640,
+      "xml_zeichen": 640,
+      "identisch": true
+    },
+    {
+      "norm_index": 796,
+      "name": "Sechster AbschnittVerjährung",
+      "pdf_zeichen": 27,
+      "xml_zeichen": 27,
+      "identisch": true
+    },
+    {
+      "norm_index": 797,
+      "name": "§ 605",
+      "pdf_zeichen": 271,
+      "xml_zeichen": 271,
+      "identisch": true
+    },
+    {
+      "norm_index": 798,
+      "name": "§ 606",
+      "pdf_zeichen": 462,
+      "xml_zeichen": 462,
+      "identisch": true
+    },
+    {
+      "norm_index": 799,
+      "name": "§ 607",
+      "pdf_zeichen": 2264,
+      "xml_zeichen": 2264,
+      "identisch": true
+    },
+    {
+      "norm_index": 800,
+      "name": "§ 608",
+      "pdf_zeichen": 376,
+      "xml_zeichen": 376,
+      "identisch": true
+    },
+    {
+      "norm_index": 801,
+      "name": "§ 609",
+      "pdf_zeichen": 814,
+      "xml_zeichen": 814,
+      "identisch": true
+    },
+    {
+      "norm_index": 802,
+      "name": "§ 610",
+      "pdf_zeichen": 266,
+      "xml_zeichen": 266,
+      "identisch": true
+    },
+    {
+      "norm_index": 803,
+      "name": "Siebter AbschnittAllgemeine Haftungsbeschränkung",
+      "pdf_zeichen": 46,
+      "xml_zeichen": 46,
+      "identisch": true
+    },
+    {
+      "norm_index": 804,
+      "name": "§ 611",
+      "pdf_zeichen": 1885,
+      "xml_zeichen": 1885,
+      "identisch": true
+    },
+    {
+      "norm_index": 805,
+      "name": "§ 612",
+      "pdf_zeichen": 1262,
+      "xml_zeichen": 1262,
+      "identisch": true
+    },
+    {
+      "norm_index": 806,
+      "name": "§ 613",
+      "pdf_zeichen": 309,
+      "xml_zeichen": 309,
+      "identisch": true
+    },
+    {
+      "norm_index": 807,
+      "name": "§ 614",
+      "pdf_zeichen": 388,
+      "xml_zeichen": 388,
+      "identisch": true
+    },
+    {
+      "norm_index": 808,
+      "name": "§ 615",
+      "pdf_zeichen": 1681,
+      "xml_zeichen": 1681,
+      "identisch": true
+    },
+    {
+      "norm_index": 809,
+      "name": "§ 616",
+      "pdf_zeichen": 836,
+      "xml_zeichen": 836,
+      "identisch": true
+    },
+    {
+      "norm_index": 810,
+      "name": "§ 617",
+      "pdf_zeichen": 541,
+      "xml_zeichen": 541,
+      "identisch": true
+    },
+    {
+      "norm_index": 811,
+      "name": "Achter AbschnittVerfahrensvorschriften",
+      "pdf_zeichen": 37,
+      "xml_zeichen": 37,
+      "identisch": true
+    },
+    {
+      "norm_index": 812,
+      "name": "§ 618",
+      "pdf_zeichen": 530,
+      "xml_zeichen": 530,
+      "identisch": true
+    },
+    {
+      "norm_index": 813,
+      "name": "§ 619",
+      "pdf_zeichen": 283,
+      "xml_zeichen": 283,
+      "identisch": true
+    }
+  ]
+}

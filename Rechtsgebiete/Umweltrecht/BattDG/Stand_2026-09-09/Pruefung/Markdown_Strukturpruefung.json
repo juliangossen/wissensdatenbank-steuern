@@ -1,0 +1,724 @@
+{
+  "kuerzel": "BattDG",
+  "methode": "Unabhängiger Vergleich jedes vollständigen Markdown-Normabschnitts einschließlich Überschrift, Fließtext und Fußnoten; zusätzlich jede Tabellenzelle in Reihenfolge, Tabellen- und Zeilenzahl. Gerendertes Gesamtdokument wird nach Normankern aufgeteilt. Ausnahmen nur NFC/Leerraum, redaktionelle Fußnotenmarker und generische Spaltenüberschriften.",
+  "gepruefte_normen_ohne_metadatenkopf": 89,
+  "normreihenfolge_vollstaendig": true,
+  "alle_normen_identisch": true,
+  "alle_tabellenzellen_identisch": true,
+  "alle_links_gueltig": true,
+  "sha256_markdown": "2d7d49b8bb77607f44125198adf493f4aaaff9204406993657ba5a37843bb822",
+  "normen": [
+    {
+      "index": 1,
+      "norm": "Inhaltsübersicht",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 2,
+      "norm": "010Teil 1Allgemeine Vorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 3,
+      "norm": "§ 1",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 4,
+      "norm": "§ 2",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 5,
+      "norm": "§ 3",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 6,
+      "norm": "020Teil 2Bewirtschaftung von Altbatterien",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 7,
+      "norm": "020010Kapitel 1Vertrieb von Batterien",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 8,
+      "norm": "§ 4",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 9,
+      "norm": "§ 5",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 10,
+      "norm": "020020Kapitel 2Rücknahme von Altbatterien",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 11,
+      "norm": "020020010Abschnitt 1Pflichten des Endnutzers",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 12,
+      "norm": "§ 6",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 13,
+      "norm": "020020020Abschnitt 2Organisationen für Herstellerverantwortung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 14,
+      "norm": "§ 7",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 15,
+      "norm": "§ 8",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 16,
+      "norm": "§ 9",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 17,
+      "norm": "§ 10",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 18,
+      "norm": "§ 11",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 19,
+      "norm": "§ 12",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 20,
+      "norm": "020020030Abschnitt 3Rücknahme von Gerätealtbatterien und LV-Altbatterien",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 21,
+      "norm": "§ 13",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 22,
+      "norm": "§ 14",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 23,
+      "norm": "§ 15",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 24,
+      "norm": "§ 16",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 25,
+      "norm": "§ 17",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 26,
+      "norm": "020020040Abschnitt 4Rücknahme von Starter-, Industrie- und Elektrofahrzeugbatterien",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 27,
+      "norm": "§ 18",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 28,
+      "norm": "§ 19",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 29,
+      "norm": "§ 20",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 30,
+      "norm": "§ 21",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 31,
+      "norm": "§ 22",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 32,
+      "norm": "020030Kapitel 3Behandlungspflichten",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 33,
+      "norm": "§ 23",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 34,
+      "norm": "020040Kapitel 4Informationspflichten",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 35,
+      "norm": "§ 24",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 36,
+      "norm": "§ 25",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 37,
+      "norm": "020050Kapitel 5Mitteilungspflichten",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 38,
+      "norm": "§ 26",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 39,
+      "norm": "§ 27",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 40,
+      "norm": "§ 28",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 41,
+      "norm": "§ 29",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 42,
+      "norm": "020060Kapitel 6Aufgaben und Befugnisse der zuständigen Behörden",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 43,
+      "norm": "020060010Abschnitt 1Zuständige Behörde nach Kapitel VIII der Verordnung (EU) 2023/1542",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 44,
+      "norm": "§ 30",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 45,
+      "norm": "§ 31",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 46,
+      "norm": "§ 32",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 47,
+      "norm": "§ 33",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 48,
+      "norm": "§ 34",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 49,
+      "norm": "020060020Abschnitt 2Altbatteriekommission",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 50,
+      "norm": "§ 35",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 51,
+      "norm": "§ 36",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 52,
+      "norm": "020060030Abschnitt 3Beleihung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 53,
+      "norm": "§ 37",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 54,
+      "norm": "§ 38",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 55,
+      "norm": "§ 39",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 56,
+      "norm": "020070Kapitel 7Beauftragung Dritter, Vollzug",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 57,
+      "norm": "§ 40",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 58,
+      "norm": "§ 41",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 59,
+      "norm": "030Teil 3Beteiligung von Bundesbehörden an Verfahren zur Änderung von Beschränkungen für Stoffe",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 60,
+      "norm": "§ 42",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 61,
+      "norm": "040Teil 4Konformitätsbewertung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 62,
+      "norm": "040010Kapitel 1Bestimmungen über die notifizierende Behörde",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 63,
+      "norm": "§ 43",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 64,
+      "norm": "§ 44",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 65,
+      "norm": "§ 45",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 66,
+      "norm": "040020Kapitel 2Notifizierungsverfahren",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 67,
+      "norm": "§ 46",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 68,
+      "norm": "§ 47",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 69,
+      "norm": "§ 48",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 70,
+      "norm": "040030Kapitel 3Überwachung",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 71,
+      "norm": "§ 49",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 72,
+      "norm": "§ 50",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 73,
+      "norm": "§ 51",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 74,
+      "norm": "050Teil 5Sorgfaltspflichten in der Lieferkette",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 75,
+      "norm": "§ 52",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 76,
+      "norm": "§ 53",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 77,
+      "norm": "§ 54",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 78,
+      "norm": "§ 55",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 79,
+      "norm": "§ 56",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 80,
+      "norm": "§ 57",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 81,
+      "norm": "§ 58",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 82,
+      "norm": "060Teil 6Ermächtigung zum Erlass von Rechtsverordnungen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 83,
+      "norm": "§ 59",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 84,
+      "norm": "070Teil 7Bußgeldvorschriften, Schlussbestimmungen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 85,
+      "norm": "§ 60",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 86,
+      "norm": "§ 61",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 87,
+      "norm": "§ 62",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 88,
+      "norm": "§ 63",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 89,
+      "norm": "§ 64",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    }
+  ]
+}

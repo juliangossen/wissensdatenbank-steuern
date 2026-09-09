@@ -1,0 +1,1253 @@
+{
+  "quellenabgleich": "2026-09-09",
+  "gegenstand": "Erbschaftsteuer-Richtlinien 2019 (Allgemeine Verwaltungsvorschrift vom 16.12.2019, BStBl. I 2019 Sondernummer 1 S. 2) mit Erbschaftsteuer-Hinweisen 2019 (gleich lautende Ländererlasse vom 16.12.2019, BStBl. I 2019 Sondernummer 1 S. 151) in der bereitgestellten beck-online-Webkopie",
+  "stand_der_webkopie": "Richtlinien- und Hinweistext vom 16.12.2019; Anbieterfußnoten mit datierten Nachweisen bis 2025; die Kopie nennt keinen Abrufzeitpunkt.",
+  "amtliche_quellen": [
+    {
+      "bezeichnung": "BMF – Themenseite Erbschaft- und Schenkungsteuer",
+      "url": "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Erbschaft_und_Schenkungsteuer/erbschaft_schenkungsteuer.html",
+      "abruf_2026-09-09": "curl (Browser-User-Agent) und WebFetch: HTTP 302 auf validate.perfdrive.com (Radware-Bot-Prüfung); kein Inhalt abrufbar."
+    },
+    {
+      "bezeichnung": "BMF – Lesefassung ErbStR 2019 (Publikationsseite)",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Erbschaft_Schenkungsteuerrecht/2019-12-16-erbschaftsteuer-richtlinien-2019-lesefassung.html",
+      "abruf_2026-09-09": "curl (Browser-User-Agent): HTTP 404 (HTML-Fehlerseite, 173.699 Bytes); WebFetch: HTTP 302 auf validate.perfdrive.com. Nicht abrufbar."
+    },
+    {
+      "bezeichnung": "BMF – Amtliches Erbschaftsteuer-Handbuch 2020 (enthält ErbStR 2019 und ErbStH 2019)",
+      "url": "https://erbsth.bundesfinanzministerium.de/erbsth/2020/A-ErbStG-ErbStDV-BewG/inhalt.html",
+      "abruf_2026-09-09": "curl: HTTP 200, aber „Radware Page“ (JavaScript-Bot-Prüfung, 118.431 Bytes); WebFetch: Bot-Prüfseite „Verifying your browser“. Varianten unter amtliche-handbuecher., esth. und lsth.bundesfinanzministerium.de ebenso. Kein Inhalt abrufbar."
+    },
+    {
+      "bezeichnung": "BStBl. I 2019 Sondernummer 1 (S. 2 ErbStR 2019, S. 151 ErbStH 2019)",
+      "url": null,
+      "abruf_2026-09-09": "Amtliche Fundstelle laut Kopie (Zeilen 37 und 44); Bundessteuerblatt online nur über Verlagsdatenbanken, nicht abgerufen."
+    },
+    {
+      "bezeichnung": "Amtliche PDF-Dateien ErbStR 2019 und ErbStH 2019 (BMF-Dokumente, Sekundärablage IHK für München und Oberbayern)",
+      "url": "https://www.ihk-muenchen.de/ihk/documents/Recht-Steuern/Steuerrecht/20191216-ErbStR-2019.pdf; https://www.ihk-muenchen.de/ihk/documents/Recht-Steuern/Steuerrecht/ErbStH_2019.pdf",
+      "abruf_2026-09-09": "Durch die vorgelagerte Strukturanalyse am 09.09.2026 heruntergeladen (HTTP 200, application/pdf); Prüfsummen und Größen in „dateien“. Von diesem Skript nicht erneut abgerufen; Grundlage des Gliederungs- und Wortlautvergleichs."
+    }
+  ],
+  "strukturvergleich": {
+    "hauptteile_kopie": 3,
+    "teilueberschriften_kopie": 6,
+    "paragraphengruppen_kopie": 90,
+    "richtlinien_ueberschriften_kopie": 281,
+    "richtlinien_ueberschriften_im_amtlichen_text_gefunden": 281,
+    "gruppen_im_amtlichen_text_gefunden": 90,
+    "hauptteile_und_teile_im_amtlichen_text_gefunden": 9,
+    "anlage_1_im_amtlichen_text_gefunden": true,
+    "anlage_2": "amtlich nur als Bild (Seiten 184 bis 190), Überschrift nicht im Textvergleich; Sichtprüfung siehe „anlage_2“",
+    "richtlinien_ueberschriften_mit_abweichendem_titel": [
+      {
+        "zeile": 3601,
+        "kopie": "R E 10.12 Auflagen, die dem Beschwerten selbst zugutekommen",
+        "amtlich": "R E 1012 Auflagen die dem Beschwerten selbst zugute"
+      }
+    ],
+    "nicht_gefundene_ueberschriften_richtlinien": [],
+    "hinweis_ueberschriften_kopie": 248,
+    "hinweis_kopfzeilen_im_amtlichen_hinweistext": 248,
+    "hinweis_ueberschriften_im_amtlichen_text_gefunden": 248,
+    "nicht_gefundene_ueberschriften_hinweise": [],
+    "reihenfolge_stimmt_ueberein": true,
+    "gliederung_stimmt_ueberein": true
+  },
+  "textvergleich": {
+    "durchgefuehrt": true,
+    "normalisierung": "Wörter an Leerraum getrennt; je Wort nur Buchstaben, Ziffern, § und %; Fußnotenmarken „[n]“ und Fußnotentexte der Webquelle ausgenommen; Seitenzahlen des PDF entfernt. Amtliche Fußnoten (Sternchen-Hinweise) und Silbentrennungen des PDF bleiben im amtlichen Text und mindern die Ähnlichkeit geringfügig; abgeflachte Tabellen der Kopie und spaltenweise extrahierte Tabellen des PDF weichen in der Wortreihenfolge ab.",
+    "richtlinien": {
+      "bloecke": 282,
+      "woerter_kopie": 89291,
+      "woerter_amtlich": 89433,
+      "aehnlichkeit_mittel": 0.9911,
+      "aehnlichkeit_minimum": 0.7652,
+      "bloecke_aehnlichkeit_mindestens_0_98": 255,
+      "bloecke_aehnlichkeit_0_95_bis_0_98": 19,
+      "bloecke_aehnlichkeit_unter_0_95": 8,
+      "davon_mit_abgeflachten_tabellen": 5,
+      "zeilen_woertlich_gefunden_anteil_mittel": 0.8317,
+      "bloecke_unter_0_95": [
+        {
+          "ueberschrift": "R E 10.12 Auflagen, die dem Beschwerten selbst zugutekommen",
+          "zeile": 3601,
+          "aehnlichkeit": 0.8571,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "R B 151.6 Gesonderte Feststellung des Werts von Genossenschaften",
+          "zeile": 18549,
+          "aehnlichkeit": 0.9247,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "R B 160.15 Nützlinge",
+          "zeile": 19202,
+          "aehnlichkeit": 0.9062,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "R B 185.3 Restnutzungsdauer",
+          "zeile": 23325,
+          "aehnlichkeit": 0.9322,
+          "zeilen_woertlich_gefunden": 0.4167,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "R B 190.5 Besonders werthaltige Außenanlagen",
+          "zeile": 25301,
+          "aehnlichkeit": 0.7652,
+          "zeilen_woertlich_gefunden": 0.9,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "R B 190.6 Brutto-Grundfläche",
+          "zeile": 25448,
+          "aehnlichkeit": 0.91,
+          "zeilen_woertlich_gefunden": 0.7857,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "R B 190.7 Alterswertminderung",
+          "zeile": 25492,
+          "aehnlichkeit": 0.8495,
+          "zeilen_woertlich_gefunden": 0.2105,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "Anlage 1",
+          "zeile": 27751,
+          "aehnlichkeit": 0.8728,
+          "zeilen_woertlich_gefunden": 0.8421,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        }
+      ]
+    },
+    "hinweise": {
+      "bloecke": 248,
+      "woerter_kopie": 78602,
+      "woerter_amtlich": 80552,
+      "aehnlichkeit_mittel": 0.9077,
+      "aehnlichkeit_minimum": 0.0,
+      "bloecke_aehnlichkeit_mindestens_0_98": 56,
+      "bloecke_aehnlichkeit_0_95_bis_0_98": 56,
+      "bloecke_aehnlichkeit_unter_0_95": 136,
+      "davon_mit_abgeflachten_tabellen": 91,
+      "zeilen_woertlich_gefunden_anteil_mittel": 0.5602,
+      "bloecke_unter_0_95": [
+        {
+          "ueberschrift": "H E 2.1",
+          "zeile": 144,
+          "aehnlichkeit": 0.9088,
+          "zeilen_woertlich_gefunden": 0.5263,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 3.1 (4)",
+          "zeile": 485,
+          "aehnlichkeit": 0.9428,
+          "zeilen_woertlich_gefunden": 1.0,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 3.5",
+          "zeile": 714,
+          "aehnlichkeit": 0.9073,
+          "zeilen_woertlich_gefunden": 0.28,
+          "abgeflachte_tabellenbloecke_kopie": 5
+        },
+        {
+          "ueberschrift": "H E 3.8",
+          "zeile": 877,
+          "aehnlichkeit": 0.9474,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 5.1 (2)",
+          "zeile": 918,
+          "aehnlichkeit": 0.8306,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 5.1 (5)",
+          "zeile": 1203,
+          "aehnlichkeit": 0.8297,
+          "zeilen_woertlich_gefunden": 0.4706,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H E 7.4 (1)",
+          "zeile": 1549,
+          "aehnlichkeit": 0.949,
+          "zeilen_woertlich_gefunden": 0.3333,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H E 7.4 (2)",
+          "zeile": 1742,
+          "aehnlichkeit": 0.9237,
+          "zeilen_woertlich_gefunden": 0.8,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 7.4 (3)",
+          "zeile": 1795,
+          "aehnlichkeit": 0.9218,
+          "zeilen_woertlich_gefunden": 0.375,
+          "abgeflachte_tabellenbloecke_kopie": 5
+        },
+        {
+          "ueberschrift": "H E 7.4 (4)",
+          "zeile": 2207,
+          "aehnlichkeit": 0.8935,
+          "zeilen_woertlich_gefunden": 0.2,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 7.7",
+          "zeile": 2413,
+          "aehnlichkeit": 0.9474,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 7.8",
+          "zeile": 2419,
+          "aehnlichkeit": 0.9353,
+          "zeilen_woertlich_gefunden": 0.4444,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 10.1",
+          "zeile": 2714,
+          "aehnlichkeit": 0.8592,
+          "zeilen_woertlich_gefunden": 0.375,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 10.4",
+          "zeile": 2860,
+          "aehnlichkeit": 0.9347,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 10.5",
+          "zeile": 2868,
+          "aehnlichkeit": 0.793,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 10.6",
+          "zeile": 2949,
+          "aehnlichkeit": 0.904,
+          "zeilen_woertlich_gefunden": 0.25,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 10.9",
+          "zeile": 3494,
+          "aehnlichkeit": 0.836,
+          "zeilen_woertlich_gefunden": 0.6,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 10.10",
+          "zeile": 3576,
+          "aehnlichkeit": 0.9421,
+          "zeilen_woertlich_gefunden": 0.25,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 10.11",
+          "zeile": 3598,
+          "aehnlichkeit": 0.88,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13.2",
+          "zeile": 3830,
+          "aehnlichkeit": 0.9392,
+          "zeilen_woertlich_gefunden": 0.6,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13.4",
+          "zeile": 3911,
+          "aehnlichkeit": 0.9245,
+          "zeilen_woertlich_gefunden": 0.5217,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 13.9",
+          "zeile": 4157,
+          "aehnlichkeit": 0.9283,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13a.3",
+          "zeile": 4282,
+          "aehnlichkeit": 0.9338,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 13a.5",
+          "zeile": 4382,
+          "aehnlichkeit": 0.9467,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13a.6",
+          "zeile": 4395,
+          "aehnlichkeit": 0.8949,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 6
+        },
+        {
+          "ueberschrift": "H E 13a.7 (2)",
+          "zeile": 4642,
+          "aehnlichkeit": 0.8144,
+          "zeilen_woertlich_gefunden": 0.2222,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 13a.7 (3)",
+          "zeile": 4777,
+          "aehnlichkeit": 0.8609,
+          "zeilen_woertlich_gefunden": 0.2973,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H E 13a.7 (4)",
+          "zeile": 4958,
+          "aehnlichkeit": 0.9299,
+          "zeilen_woertlich_gefunden": 0.4286,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13a.7 (5)",
+          "zeile": 5047,
+          "aehnlichkeit": 0.8922,
+          "zeilen_woertlich_gefunden": 0.3333,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13a.7 (6)",
+          "zeile": 5060,
+          "aehnlichkeit": 0.9268,
+          "zeilen_woertlich_gefunden": 0.25,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13a.8 (2)",
+          "zeile": 5127,
+          "aehnlichkeit": 0.931,
+          "zeilen_woertlich_gefunden": 0.5116,
+          "abgeflachte_tabellenbloecke_kopie": 9
+        },
+        {
+          "ueberschrift": "H E 13a.8 (3)",
+          "zeile": 5370,
+          "aehnlichkeit": 0.9304,
+          "zeilen_woertlich_gefunden": 0.52,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H E 13a.11",
+          "zeile": 5597,
+          "aehnlichkeit": 0.9091,
+          "zeilen_woertlich_gefunden": 0.7,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 13a.15",
+          "zeile": 5861,
+          "aehnlichkeit": 0.9101,
+          "zeilen_woertlich_gefunden": 0.7727,
+          "abgeflachte_tabellenbloecke_kopie": 3
+        },
+        {
+          "ueberschrift": "H E 13a.19",
+          "zeile": 6262,
+          "aehnlichkeit": 0.6919,
+          "zeilen_woertlich_gefunden": 0.5946,
+          "abgeflachte_tabellenbloecke_kopie": 12
+        },
+        {
+          "ueberschrift": "H E 13a.20",
+          "zeile": 6950,
+          "aehnlichkeit": 0.9139,
+          "zeilen_woertlich_gefunden": 0.7727,
+          "abgeflachte_tabellenbloecke_kopie": 9
+        },
+        {
+          "ueberschrift": "H E 13b.4",
+          "zeile": 7651,
+          "aehnlichkeit": 0.9143,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13b.5",
+          "zeile": 7669,
+          "aehnlichkeit": 0.9071,
+          "zeilen_woertlich_gefunden": 0.4583,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H E 13b.6",
+          "zeile": 7761,
+          "aehnlichkeit": 0.8099,
+          "zeilen_woertlich_gefunden": 0.3103,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 13b.8",
+          "zeile": 7865,
+          "aehnlichkeit": 0.8702,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 13b.9",
+          "zeile": 8185,
+          "aehnlichkeit": 0.9046,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 12
+        },
+        {
+          "ueberschrift": "H E 13b.10",
+          "zeile": 8986,
+          "aehnlichkeit": 0.7327,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 13b.11",
+          "zeile": 9030,
+          "aehnlichkeit": 0.0,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 13b.12",
+          "zeile": 9079,
+          "aehnlichkeit": 0.0,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13b.14",
+          "zeile": 9098,
+          "aehnlichkeit": 0.0,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13b.16",
+          "zeile": 9124,
+          "aehnlichkeit": 0.0,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13b.20",
+          "zeile": 9187,
+          "aehnlichkeit": 0.8224,
+          "zeilen_woertlich_gefunden": 0.6,
+          "abgeflachte_tabellenbloecke_kopie": 3
+        },
+        {
+          "ueberschrift": "H E 13b.22",
+          "zeile": 9399,
+          "aehnlichkeit": 0.7407,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 13b.23",
+          "zeile": 9498,
+          "aehnlichkeit": 0.9163,
+          "zeilen_woertlich_gefunden": 0.775,
+          "abgeflachte_tabellenbloecke_kopie": 12
+        },
+        {
+          "ueberschrift": "H E 13b.24 (2)",
+          "zeile": 9942,
+          "aehnlichkeit": 0.9231,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 13b.29",
+          "zeile": 10115,
+          "aehnlichkeit": 0.8189,
+          "zeilen_woertlich_gefunden": 0.3333,
+          "abgeflachte_tabellenbloecke_kopie": 9
+        },
+        {
+          "ueberschrift": "H E 13b.30",
+          "zeile": 10789,
+          "aehnlichkeit": 0.7273,
+          "zeilen_woertlich_gefunden": 0.2857,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 13c.1",
+          "zeile": 10963,
+          "aehnlichkeit": 0.9115,
+          "zeilen_woertlich_gefunden": 0.875,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 13c.4",
+          "zeile": 11095,
+          "aehnlichkeit": 0.9094,
+          "zeilen_woertlich_gefunden": 0.8125,
+          "abgeflachte_tabellenbloecke_kopie": 5
+        },
+        {
+          "ueberschrift": "H E 13d",
+          "zeile": 11455,
+          "aehnlichkeit": 0.9279,
+          "zeilen_woertlich_gefunden": 0.6129,
+          "abgeflachte_tabellenbloecke_kopie": 7
+        },
+        {
+          "ueberschrift": "H E 14.1 (1)",
+          "zeile": 11808,
+          "aehnlichkeit": 0.9001,
+          "zeilen_woertlich_gefunden": 0.6923,
+          "abgeflachte_tabellenbloecke_kopie": 3
+        },
+        {
+          "ueberschrift": "H E 14.1 (3)",
+          "zeile": 11953,
+          "aehnlichkeit": 0.9008,
+          "zeilen_woertlich_gefunden": 0.8065,
+          "abgeflachte_tabellenbloecke_kopie": 8
+        },
+        {
+          "ueberschrift": "H E 14.1 (4)",
+          "zeile": 12528,
+          "aehnlichkeit": 0.8741,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 14.2 (2)",
+          "zeile": 12712,
+          "aehnlichkeit": 0.8509,
+          "zeilen_woertlich_gefunden": 0.8333,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 14.2 (3)",
+          "zeile": 12947,
+          "aehnlichkeit": 0.8129,
+          "zeilen_woertlich_gefunden": 0.675,
+          "abgeflachte_tabellenbloecke_kopie": 10
+        },
+        {
+          "ueberschrift": "H E 14.3",
+          "zeile": 13757,
+          "aehnlichkeit": 0.8961,
+          "zeilen_woertlich_gefunden": 0.5455,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 15.1",
+          "zeile": 13888,
+          "aehnlichkeit": 0.9466,
+          "zeilen_woertlich_gefunden": 0.375,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 15.2",
+          "zeile": 13918,
+          "aehnlichkeit": 0.924,
+          "zeilen_woertlich_gefunden": 0.75,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 16",
+          "zeile": 13958,
+          "aehnlichkeit": 0.9379,
+          "zeilen_woertlich_gefunden": 0.7,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 19",
+          "zeile": 14078,
+          "aehnlichkeit": 0.8636,
+          "zeilen_woertlich_gefunden": 0.4,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 19a.2",
+          "zeile": 14177,
+          "aehnlichkeit": 0.7967,
+          "zeilen_woertlich_gefunden": 0.5556,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 19a.3",
+          "zeile": 14380,
+          "aehnlichkeit": 0.7763,
+          "zeilen_woertlich_gefunden": 1.0,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H E 20",
+          "zeile": 14666,
+          "aehnlichkeit": 0.9333,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 21",
+          "zeile": 14681,
+          "aehnlichkeit": 0.9141,
+          "zeilen_woertlich_gefunden": 0.5263,
+          "abgeflachte_tabellenbloecke_kopie": 11
+        },
+        {
+          "ueberschrift": "H E 22",
+          "zeile": 15268,
+          "aehnlichkeit": 0.9489,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 23",
+          "zeile": 15277,
+          "aehnlichkeit": 0.8928,
+          "zeilen_woertlich_gefunden": 0.5714,
+          "abgeflachte_tabellenbloecke_kopie": 6
+        },
+        {
+          "ueberschrift": "H E 25",
+          "zeile": 15783,
+          "aehnlichkeit": 0.9043,
+          "zeilen_woertlich_gefunden": 0.3913,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H E 27",
+          "zeile": 16055,
+          "aehnlichkeit": 0.9053,
+          "zeilen_woertlich_gefunden": 0.6122,
+          "abgeflachte_tabellenbloecke_kopie": 9
+        },
+        {
+          "ueberschrift": "H E 28 (4)",
+          "zeile": 16645,
+          "aehnlichkeit": 0.838,
+          "zeilen_woertlich_gefunden": 0.7273,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H E 28a.1",
+          "zeile": 16816,
+          "aehnlichkeit": 0.8523,
+          "zeilen_woertlich_gefunden": 0.6429,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H E 28a.2",
+          "zeile": 16958,
+          "aehnlichkeit": 0.7514,
+          "zeilen_woertlich_gefunden": 1.0,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H E 33",
+          "zeile": 17111,
+          "aehnlichkeit": 0.9399,
+          "zeilen_woertlich_gefunden": 0.2308,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H E 37",
+          "zeile": 17142,
+          "aehnlichkeit": 0.8956,
+          "zeilen_woertlich_gefunden": 0.3051,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 9.1",
+          "zeile": 17287,
+          "aehnlichkeit": 0.9367,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 11.6",
+          "zeile": 17476,
+          "aehnlichkeit": 0.931,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 12.2",
+          "zeile": 17587,
+          "aehnlichkeit": 0.8833,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 12.4",
+          "zeile": 17642,
+          "aehnlichkeit": 0.8113,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H B 97.1",
+          "zeile": 17760,
+          "aehnlichkeit": 0.9306,
+          "zeilen_woertlich_gefunden": 0.6,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H B 97.4",
+          "zeile": 17862,
+          "aehnlichkeit": 0.8904,
+          "zeilen_woertlich_gefunden": 0.8947,
+          "abgeflachte_tabellenbloecke_kopie": 6
+        },
+        {
+          "ueberschrift": "H B 151.2",
+          "zeile": 18470,
+          "aehnlichkeit": 0.7534,
+          "zeilen_woertlich_gefunden": 0.1,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 151.7",
+          "zeile": 18562,
+          "aehnlichkeit": 0.9392,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 151.9",
+          "zeile": 18583,
+          "aehnlichkeit": 0.9466,
+          "zeilen_woertlich_gefunden": 0.4286,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 152",
+          "zeile": 18660,
+          "aehnlichkeit": 0.9138,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 158.1 (1)",
+          "zeile": 18914,
+          "aehnlichkeit": 0.9492,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 158.1 (2)",
+          "zeile": 18923,
+          "aehnlichkeit": 0.9161,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 163 (3)",
+          "zeile": 19403,
+          "aehnlichkeit": 0.8841,
+          "zeilen_woertlich_gefunden": 0.6364,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H B 163 (4)",
+          "zeile": 19564,
+          "aehnlichkeit": 0.934,
+          "zeilen_woertlich_gefunden": 1.0,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 163 (5)",
+          "zeile": 19675,
+          "aehnlichkeit": 0.741,
+          "zeilen_woertlich_gefunden": 1.0,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 163 (6)",
+          "zeile": 19854,
+          "aehnlichkeit": 0.7781,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 163 (7)",
+          "zeile": 20051,
+          "aehnlichkeit": 0.8046,
+          "zeilen_woertlich_gefunden": 1.0,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 163 (8)",
+          "zeile": 20104,
+          "aehnlichkeit": 0.8571,
+          "zeilen_woertlich_gefunden": 0.3333,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 164 (1)",
+          "zeile": 20303,
+          "aehnlichkeit": 0.7848,
+          "zeilen_woertlich_gefunden": 0.95,
+          "abgeflachte_tabellenbloecke_kopie": 6
+        },
+        {
+          "ueberschrift": "H B 164 (9)",
+          "zeile": 21207,
+          "aehnlichkeit": 0.8827,
+          "zeilen_woertlich_gefunden": 0.7,
+          "abgeflachte_tabellenbloecke_kopie": 5
+        },
+        {
+          "ueberschrift": "H B 165",
+          "zeile": 21390,
+          "aehnlichkeit": 0.8784,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 166 (2)",
+          "zeile": 21445,
+          "aehnlichkeit": 0.9109,
+          "zeilen_woertlich_gefunden": 0.7273,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 166 (3)",
+          "zeile": 21533,
+          "aehnlichkeit": 0.8674,
+          "zeilen_woertlich_gefunden": 0.6471,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H B 167.1 (2)",
+          "zeile": 21671,
+          "aehnlichkeit": 0.8267,
+          "zeilen_woertlich_gefunden": 0.6129,
+          "abgeflachte_tabellenbloecke_kopie": 6
+        },
+        {
+          "ueberschrift": "H B 167.1 (3)",
+          "zeile": 21902,
+          "aehnlichkeit": 0.862,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 167.2",
+          "zeile": 21940,
+          "aehnlichkeit": 0.881,
+          "zeilen_woertlich_gefunden": 1.0,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 167.3",
+          "zeile": 21992,
+          "aehnlichkeit": 0.9443,
+          "zeilen_woertlich_gefunden": 0.3333,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 168",
+          "zeile": 22036,
+          "aehnlichkeit": 0.8506,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 7
+        },
+        {
+          "ueberschrift": "H B 179.1",
+          "zeile": 22393,
+          "aehnlichkeit": 0.9268,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 179.2",
+          "zeile": 22429,
+          "aehnlichkeit": 0.8921,
+          "zeilen_woertlich_gefunden": 0.4324,
+          "abgeflachte_tabellenbloecke_kopie": 10
+        },
+        {
+          "ueberschrift": "H B 181.1",
+          "zeile": 23003,
+          "aehnlichkeit": 0.934,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 183 (2)",
+          "zeile": 23068,
+          "aehnlichkeit": 0.9355,
+          "zeilen_woertlich_gefunden": 0.3333,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 183 (3)",
+          "zeile": 23078,
+          "aehnlichkeit": 0.9389,
+          "zeilen_woertlich_gefunden": 0.25,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 183 (4)",
+          "zeile": 23095,
+          "aehnlichkeit": 0.8819,
+          "zeilen_woertlich_gefunden": 0.1429,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H B 184",
+          "zeile": 23210,
+          "aehnlichkeit": 0.0,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        },
+        {
+          "ueberschrift": "H B 185.1 (3)",
+          "zeile": 23313,
+          "aehnlichkeit": 0.5679,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 185.4",
+          "zeile": 23773,
+          "aehnlichkeit": 0.8831,
+          "zeilen_woertlich_gefunden": 0.4762,
+          "abgeflachte_tabellenbloecke_kopie": 8
+        },
+        {
+          "ueberschrift": "H B 186.1",
+          "zeile": 24062,
+          "aehnlichkeit": 0.9103,
+          "zeilen_woertlich_gefunden": 0.3571,
+          "abgeflachte_tabellenbloecke_kopie": 3
+        },
+        {
+          "ueberschrift": "H B 186.5",
+          "zeile": 24211,
+          "aehnlichkeit": 0.8405,
+          "zeilen_woertlich_gefunden": 0.3846,
+          "abgeflachte_tabellenbloecke_kopie": 3
+        },
+        {
+          "ueberschrift": "H B 187 (2)",
+          "zeile": 24346,
+          "aehnlichkeit": 0.9162,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 188 (2)",
+          "zeile": 24363,
+          "aehnlichkeit": 0.9423,
+          "zeilen_woertlich_gefunden": 0.1667,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 189",
+          "zeile": 24388,
+          "aehnlichkeit": 0.8183,
+          "zeilen_woertlich_gefunden": 0.7143,
+          "abgeflachte_tabellenbloecke_kopie": 3
+        },
+        {
+          "ueberschrift": "H B 190.1 (1)",
+          "zeile": 24829,
+          "aehnlichkeit": 0.9355,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 190.2 (1)",
+          "zeile": 24839,
+          "aehnlichkeit": 0.9302,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 190.2 (2)",
+          "zeile": 24846,
+          "aehnlichkeit": 0.6866,
+          "zeilen_woertlich_gefunden": 1.0,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H B 190.3",
+          "zeile": 24948,
+          "aehnlichkeit": 0.7552,
+          "zeilen_woertlich_gefunden": 0.4286,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H B 190.4",
+          "zeile": 25268,
+          "aehnlichkeit": 0.7313,
+          "zeilen_woertlich_gefunden": 0.25,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H B 190.6",
+          "zeile": 25487,
+          "aehnlichkeit": 0.92,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 191 (2)",
+          "zeile": 26016,
+          "aehnlichkeit": 0.9492,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 192.1",
+          "zeile": 26033,
+          "aehnlichkeit": 0.9362,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 193 (5)",
+          "zeile": 26061,
+          "aehnlichkeit": 0.9191,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H B 193 (7)",
+          "zeile": 26272,
+          "aehnlichkeit": 0.8483,
+          "zeilen_woertlich_gefunden": 0.6667,
+          "abgeflachte_tabellenbloecke_kopie": 6
+        },
+        {
+          "ueberschrift": "H B 194",
+          "zeile": 26827,
+          "aehnlichkeit": 0.8303,
+          "zeilen_woertlich_gefunden": 0.8636,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H B 195.2",
+          "zeile": 27032,
+          "aehnlichkeit": 0.8921,
+          "zeilen_woertlich_gefunden": 0.5,
+          "abgeflachte_tabellenbloecke_kopie": 3
+        },
+        {
+          "ueberschrift": "H B 196.2 (3)",
+          "zeile": 27280,
+          "aehnlichkeit": 0.8755,
+          "zeilen_woertlich_gefunden": 0.4118,
+          "abgeflachte_tabellenbloecke_kopie": 4
+        },
+        {
+          "ueberschrift": "H B 196.2 (4)",
+          "zeile": 27403,
+          "aehnlichkeit": 0.8571,
+          "zeilen_woertlich_gefunden": 0.6923,
+          "abgeflachte_tabellenbloecke_kopie": 2
+        },
+        {
+          "ueberschrift": "H B 200",
+          "zeile": 27641,
+          "aehnlichkeit": 0.925,
+          "zeilen_woertlich_gefunden": 0.0,
+          "abgeflachte_tabellenbloecke_kopie": 0
+        },
+        {
+          "ueberschrift": "H B 201",
+          "zeile": 27667,
+          "aehnlichkeit": 0.8966,
+          "zeilen_woertlich_gefunden": 1.0,
+          "abgeflachte_tabellenbloecke_kopie": 1
+        }
+      ]
+    },
+    "einzelergebnisse": "Quellen/Onlineabgleich/Textvergleich_Bloecke.json"
+  },
+  "anlage_2": {
+    "amtliche_darstellung": "Seiten 184 bis 190 des Richtlinien-PDF enthalten die Standarddeckungsbeiträge nur als Bild; pdftotext liefert dort außer Seitenzahl und Anlagentitel keinen Text.",
+    "text_auf_den_bildseiten": [
+      "-",
+      "184",
+      "-",
+      "-",
+      "185",
+      "-",
+      "-",
+      "186",
+      "-",
+      "-",
+      "187",
+      "-",
+      "-",
+      "188",
+      "-",
+      "-",
+      "189",
+      "-",
+      "-",
+      "190",
+      "-"
+    ],
+    "pruefung": "Sichtprüfung der gerenderten Seiten 184 bis 190: Spaltenköpfe aller sieben Regionalblöcke (Schleswig-Holstein/Niedersachsen mit vier Bezirken; Nordrhein-Westfalen mit fünf Bezirken; Hessen mit drei Bezirken, Rheinland-Pfalz, Saarland; Baden-Württemberg mit vier Bezirken; Bayern mit sieben Bezirken; Brandenburg, Mecklenburg-Vorpommern, Sachsen mit drei Bezirken; Sachsen-Anhalt mit drei Bezirken, Thüringen, Stadtstaaten) entsprechen der Kopie. Stichproben der Werte: Block 1 J/01 (186 ×5), Jm (538/551/549/549/541), D/24 (4 003 ×5); Block 7 D/01 (630/688/665/625/655), Durchschnittszeile (543/598/564/619/605), D/24 (4 003 ×5) stimmen mit dem Bild überein. Die Kopie endet mit der letzten Zelle (D/24 Hopfen, Stadtstaaten) des letzten Blocks; ein Abbruch liegt nicht vor.",
+    "vollstaendiger_wertevergleich": false
+  },
+  "nur_in_der_kopie": {
+    "redaktionelle_ergaenzung_h_e_37": {
+      "zeilen": "17255–17263",
+      "im_amtlichen_hinweistext_gefunden": false,
+      "inhalt": "Redaktionelle Ergänzung:"
+    },
+    "JStG 2020": {
+      "kopie_zeilen": 13,
+      "amtliche_richtlinien": 0,
+      "amtliche_hinweise": 0
+    },
+    "Grundsteuerreform-Umsetzungsgesetz": {
+      "kopie_zeilen": 5,
+      "amtliche_richtlinien": 0,
+      "amtliche_hinweise": 0
+    },
+    "Brexit-Steuerbegleitgesetz": {
+      "kopie_zeilen": 1,
+      "amtliche_richtlinien": 0,
+      "amtliche_hinweise": 1
+    }
+  },
+  "nur_im_amtlichen_text": {
+    "inhaltsuebersicht": true,
+    "artikel_1_ueberschrift": true,
+    "artikel_2_aufhebung_erbstr_2011": true,
+    "schlussformel_und_unterschriften": true,
+    "laenderministerien_der_erbsth": true,
+    "erbsth_vorspann": "Der Vorspann der ErbStH 2019 (Anwendungsregel) steht in der Kopie als Fußnote 1 zur Einführung (Zeilen 57 bis 62)."
+  },
+  "spaetere_aenderungen": {
+    "richtlinien": "Die ErbStR 2019 wurden nach der Kopie und den amtlichen PDF nicht geändert; Anwendung nach Einführung Absatz 2 auf Erwerbe mit Steuerentstehung nach dem 21.8.2019.",
+    "laendererlasse": "Kopffußnote 1 (Zeile 41) und Gruppenfußnote zu § 5 ErbStG (Zeile 882) nennen die gleich lautenden Ländererlasse vom 13.9.2021 (BStBl. I 2021 S. 1837; Anwendung der durch das JStG 2020 geänderten Vorschriften für Erwerbe mit Steuerentstehung nach dem 28.12.2020) und vom 13.12.2021 (BStBl. I 2022 S. 38; Anwendung nach dem Austritt des Vereinigten Königreichs). Sie ergänzen die Richtlinien, ändern ihren Wortlaut nicht und sind in der Kopie nur zitiert.",
+    "redaktionelle_ergaenzung": "Die Anwendungsliste in H E 37 wird in der Kopie unter „Redaktionelle Ergänzung:“ (Zeilen 17255 bis 17263) um § 37 Absatz 18 (JStG 2020) und Absatz 19 (Grundsteuerreform-Umsetzungsgesetz) fortgeführt; diese Zeilen fehlen im amtlichen Hinweistext und sind Anbieterinhalt.",
+    "anbieterfussnoten": "Die Fußnoten der Webquelle weisen auf spätere Rechtsänderungen, Erlasse und Rechtsprechung hin (Zählung in „fussnoten_der_kopie“); sie sind kein amtlicher Text."
+  },
+  "fussnoten_der_kopie": {
+    "gesamt": 224,
+    "amtlich_gekennzeichnet": 10,
+    "anbieterhinweise": 214,
+    "mit_datum_2020_oder_spaeter": 162,
+    "juengstes_datum_jahr": "2025",
+    "datumsjahre": {
+      "2005": 2,
+      "2016": 1,
+      "2017": 1,
+      "2018": 2,
+      "2019": 18,
+      "2020": 56,
+      "2021": 61,
+      "2022": 34,
+      "2023": 58,
+      "2024": 43,
+      "2025": 19
+    },
+    "siehe_jetzt": 42,
+    "laendererlass_13_9_2021": 13,
+    "laendererlass_13_12_2021": 1
+  },
+  "ergebnis": "Gliederung: alle 281 Richtlinien-Überschriften, 90 Paragraphengruppen, Hauptteile, Teile sowie Anlage 1 der Kopie wurden in der Reihenfolge der Kopie im amtlichen Richtlinientext gefunden (1 Titel mit abweichender Schreibweise, einzeln ausgewiesen); Anlage 2 liegt amtlich nur als Bild vor. Alle 248 Hinweis-Überschriften der Kopie wurden in der Reihenfolge der Kopie unter den 248 Randbeschriftungen des amtlichen Hinweistextes gefunden. Wortlaut: mittlere Ähnlichkeit der Wortfolge 0.9911 (Richtlinien, 282 Blöcke) und 0.9077 (Hinweise, 248 Blöcke); 8 Richtlinien- und 136 Hinweisblöcke liegen unter 0,95 und sind einzeln ausgewiesen. Die Kopie enthält den vollständigen R- und H-Text und beide Anlagen, nicht aber Inhaltsübersicht, Artikel 1/2, Schlussformel und Unterschriften der ErbStR 2019 sowie den Länderministerienblock der ErbStH 2019. Niedrigere Blockähnlichkeiten entfallen überwiegend auf Blöcke mit abgeflachten Tabellen und Rechenbeispielen sowie auf systematische Schreibweisenunterschiede (Kopie „Absatz“, „im Sinne des“, „z.B.“; PDF „Abs.“, „i. S. d.“, „z. B.“).",
+  "einschraenkung": "Die amtlichen BMF-Server waren am 09.09.2026 nur über eine Bot-Prüfung erreichbar; die amtlichen PDF stammen aus einer Sekundärablage (IHK für München und Oberbayern) und wurden anhand ihrer PDF-Metadaten (Autor BMF, Titel, Erstellungsdatum Dezember 2019) und ihres Inhalts (Titel, Datum 16.12.2019, Artikel 1 und 2, Unterschriften; ErbStH-Vorspann mit Ländererlassen) als amtliche Dokumente eingeordnet. Der Wortlautvergleich ist ein normalisierter Wortfolgenvergleich je Block, kein zeichengenauer Abgleich; Anlage 2 liegt amtlich nur als Bild vor und wurde stichprobenartig gesichtet. Die Fundstellen im BStBl. wurden nicht online geprüft.",
+  "dateien": [
+    {
+      "datei": "Quellen/Onlineabgleich/ErbStR_2019_BMF.pdf",
+      "url": "https://www.ihk-muenchen.de/ihk/documents/Recht-Steuern/Steuerrecht/20191216-ErbStR-2019.pdf",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 3228338,
+      "sha256": "619f169d7fe1b5500e6dd91bcba93b4948705e55bb055e6a7d3e878fbf40b2aa",
+      "hinweis": "Amtliche Verwaltungsvorschrift ErbStR 2019 als PDF des BMF (PDF-Metadaten: Autor BMF, Titel „Allgemeine Verwaltungsvorschrift … ErbStR 2019“, erstellt 19.12.2019, 191 Seiten). Abgelegt aus der Sekundärquelle IHK für München und Oberbayern, heruntergeladen am 09.09.2026 durch die vorgelagerte Strukturanalyse; die BMF-Server beantworteten alle Abrufe am 09.09.2026 mit einer Bot-Prüfseite."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/ErbStH_2019_BMF.pdf",
+      "url": "https://www.ihk-muenchen.de/ihk/documents/Recht-Steuern/Steuerrecht/ErbStH_2019.pdf",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 2168378,
+      "sha256": "13845fe3f7ee98107b913c226932028b83b7b36ea63bbf84eb85a74d79ae6a25",
+      "hinweis": "Gleich lautende Erlasse der obersten Finanzbehörden der Länder vom 16.12.2019 (ErbStH 2019) als PDF (PDF-Metadaten: Autor BMF, 228 Seiten, erstellt 23.12.2019). Abgelegt aus derselben Sekundärquelle wie das Richtlinien-PDF."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/ErbStR_2019_BMF_pdftotext.txt",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 745000,
+      "sha256": "6b83fd2614df9fec27aded9dd607fc272e95bd5d0993784e7b3ec877a79a6dbd",
+      "hinweis": "Textextraktion des Richtlinien-PDF mit Poppler pdftotext -enc UTF-8 (Lesereihenfolge); Grundlage des Gliederungs- und Wortlautvergleichs der R-Blöcke."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/ErbStH_2019_BMF_pdftotext.txt",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 747081,
+      "sha256": "8afc1702443914ff8255f34590c5438af99c0d26d22472dbd459d976ed5aeedc",
+      "hinweis": "Textextraktion des Hinweis-PDF mit Poppler pdftotext -layout -enc UTF-8; die Kopfzeilen „Hinweise … H E/H B …“ begrenzen die Blöcke des Wortlautvergleichs."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/Textvergleich_Bloecke.json",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 181025,
+      "sha256": "6c20850cb844bc2be8df2a090cec05d03cb8b51087a71f0cfc313eba619a0b0a",
+      "hinweis": "Ergebnis des Wortlautvergleichs je R-/H-Block (Wortzahlen, Ähnlichkeit der Wortfolge, Anteil wörtlich gefundener Zeilen)."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/BMF_Themenseite_Erbschaftsteuer_Abrufversuch_2026-09-09.html",
+      "url": "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Erbschaft_und_Schenkungsteuer/erbschaft_schenkungsteuer.html",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 15148,
+      "sha256": "1f40359d0658efb9214f949c26af63648bd2c3a53ee88455970a3ef2bc9be5f7",
+      "hinweis": "Abrufversuch der BMF-Themenseite am 09.09.2026 (curl mit Browser-User-Agent): HTTP 302 auf validate.perfdrive.com, Antwort ist die Radware-Bot-Prüfseite, kein Inhalt."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/BMF_ErbStH_2020_Handbuch_Abrufversuch_2026-09-09.html",
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/erbsth/2020/inhalt.html",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 15094,
+      "sha256": "f8e9e59a401e1a247365f944fef459d01364b5bb10bff1c660d2b2061f88d2c9",
+      "hinweis": "Abrufversuch des Amtlichen Erbschaftsteuer-Handbuchs 2020 (enthält ErbStR 2019/ErbStH 2019) am 09.09.2026: Radware-Bot-Prüfseite, kein Inhalt."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/BMF_ErbStH_2020_Inhalt_Abrufversuch_2026-09-09.html",
+      "url": "https://erbsth.bundesfinanzministerium.de/erbsth/2020/A-ErbStG-ErbStDV-BewG/inhalt.html",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 118431,
+      "sha256": "4b9b8dc73095b8d2a9a6a6f46e1f3b1d5ee7e4ec3734dea22ca9d5fb5f957857",
+      "hinweis": "Abrufversuch der Handbuch-Inhaltsseite am 09.09.2026: HTTP 200, aber Seite „Radware Page“ (JavaScript-Prüfung), kein Inhalt."
+    }
+  ]
+}

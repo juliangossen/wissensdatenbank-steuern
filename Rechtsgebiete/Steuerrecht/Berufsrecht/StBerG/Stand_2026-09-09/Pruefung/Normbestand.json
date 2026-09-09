@@ -1,0 +1,2298 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR013010961",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "f56d71c989927be88a6354514921970940027059c95b89a6d0cab0f00b158cfc"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR013010961BJNE028302123",
+    "enbez": "Inhaltsübersicht",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "979ad031cfd073b1329727263582fa2d0c8ff53da7198e8f4abcfdb68fad9ccb"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR013010961BJNG000100319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010",
+      "gliederungsbez": "Erster Teil",
+      "gliederungstitel": "Vorschriften über die Hilfeleistung\nin Steuersachen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR013010961BJNG000200319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Ausübung der Hilfe in\nSteuersachen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR013010961BJNG000300319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010010010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Anwendungsbereich"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR013010961BJNE004004140",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Anwendungsbereich",
+    "sha256_xml_text": "bf4573204db246b03518ad55c66f78234effa0bb1f080c88d428cd5fd0d00bfd"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR013010961BJNG000400319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010010020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Befugnis"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR013010961BJNE004102123",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Geschäftsmäßige Hilfeleistung",
+    "sha256_xml_text": "da510af5b0da064e510b4ecc797e78d6faca400a244195c59df585b5f3a254f1"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR013010961BJNE004210123",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Befugnis zu unbeschränkter Hilfeleistung in Steuersachen",
+    "sha256_xml_text": "ac7cfe3d6a94059b0c6bcf8770cdb2daff9e0e017f17a979409c406959a688b4"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR013010961BJNE023209123",
+    "enbez": "§ 3a",
+    "gliederung": null,
+    "titel": "Befugnis zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen",
+    "sha256_xml_text": "3084a33cc7783c39b4c421b57125f8994cd58c8689183d33b7a74e042434a26d"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR013010961BJNE024100377",
+    "enbez": "§ 3b",
+    "gliederung": null,
+    "titel": "Verzeichnis der nach § 3a zur vorübergehenden und gelegentlichen Hilfeleistung in Steuersachen befugten Personen",
+    "sha256_xml_text": "6b6d35782c1fcea46582f1a270565c1495148812ae939a5e3c58a137d66f6b54"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR013010961BJNE024300116",
+    "enbez": "§ 3c",
+    "gliederung": null,
+    "titel": "Befugnis juristischer Personen und Vereinigungen zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen",
+    "sha256_xml_text": "845393cff808b38596e9aeef9cd0f4b9826ae895c387d1f1604083318a843072"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR013010961BJNE025000123",
+    "enbez": "§ 3d",
+    "gliederung": null,
+    "titel": "Partieller Zugang, Voraussetzungen und Antrag",
+    "sha256_xml_text": "b5ceb9320c8ec685e1276b0e3061ec0014adaa7929f03312ffeecb51c5bfe7b5"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR013010961BJNE025102123",
+    "enbez": "§ 3e",
+    "gliederung": null,
+    "titel": "Erlaubnis zum partiellen Zugang",
+    "sha256_xml_text": "9b93b48050754573ed7c4cc4511a55b72a8e5e8330d7a2427308e4722eb2bc4b"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR013010961BJNE025200123",
+    "enbez": "§ 3f",
+    "gliederung": null,
+    "titel": "Untersagung des partiellen Zugangs",
+    "sha256_xml_text": "8f3c71e8fba44ede4102883ca9383c07e774c8a52df637d91a3464a0deecd813"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR013010961BJNE025301123",
+    "enbez": "§ 3g",
+    "gliederung": null,
+    "titel": "Elektronisches Verzeichnis der partiell zugelassenen Personen",
+    "sha256_xml_text": "844429072cb9151af0bb4c324b7a6c41a3ce24385a1333ff25e8c181284b901c"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR013010961BJNE004326123",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Lohnsteuerhilfevereine",
+    "sha256_xml_text": "84240116e7dc29ee9a51befd8665465a2aa5f3a7a6d7d7f1f92104a8c758e646"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR013010961BJNE028700123",
+    "enbez": "§ 4a",
+    "gliederung": null,
+    "titel": "Vereine von Land- und Forstwirten",
+    "sha256_xml_text": "e95d12490759c1ff60a7e585bb670aa8ddc0b0cf66f0c289962b6c61b98e0645"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR013010961BJNE028800123",
+    "enbez": "§ 4b",
+    "gliederung": null,
+    "titel": "Berufs- und Interessenvereinigungen; genossenschaftliche Prüfungsverbände und Treuhandstellen",
+    "sha256_xml_text": "ba0cbfa34e0a810ba6d0fb40590f7b96e81c3d45df63fcdf48a606b63a7ed5bb"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR013010961BJNE028900123",
+    "enbez": "§ 4c",
+    "gliederung": null,
+    "titel": "Öffentliche und öffentlich anerkannte Stellen; Notare; Patentanwälte",
+    "sha256_xml_text": "5f6fa51c9c3eafd82b1dac45927f44f92efa11e62cfb915a4393a857979a47db"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR013010961BJNE029000123",
+    "enbez": "§ 4d",
+    "gliederung": null,
+    "titel": "Spediteure; sonstige Zollvertreter",
+    "sha256_xml_text": "be7d77e4712548f7edcb62c77a8574eaf3e1553ae5e6293604cebc466fe67862"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR013010961BJNE029100123",
+    "enbez": "§ 4e",
+    "gliederung": null,
+    "titel": "Nebenleistungen",
+    "sha256_xml_text": "318d631074971628b8dafcdaf96735d2946dce8dac1bf035ec4ca7e7c3c2828c"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR013010961BJNG000500319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010010030",
+      "gliederungsbez": "Dritter Unterabschnitt",
+      "gliederungstitel": "Verbot und\nUntersagung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR013010961BJNE004410123",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Verbot der unbefugten Hilfeleistung in Steuersachen, Missbrauch von Berufsbezeichnungen",
+    "sha256_xml_text": "ccbb8989a9d58bad37203176821351bad9fa6758eebdda2d1b3bae54b17c334f"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR013010961BJNE004503123",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Ausnahmen vom Verbot der unbefugten Hilfeleistung in Steuersachen",
+    "sha256_xml_text": "c008e9889dc1189328da0f777d2af80d0dd2df7e01644e66355a569f86ceb102"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR013010961BJNE004609123",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Untersagung der Hilfeleistung in Steuersachen; Verordnungsermächtigung",
+    "sha256_xml_text": "312a099e94b3aca57ab6403ed4949cb1632d23b7b7f0968b26f4777fa39972be"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR013010961BJNG000600319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010010040",
+      "gliederungsbez": "Vierter Unterabschnitt",
+      "gliederungstitel": "Sonstige Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR013010961BJNE004706123",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Werbung",
+    "sha256_xml_text": "f2dc855628e93696b80b6d7c9a242f1fecc2dda6939770074d927d883007fcb3"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR013010961BJNE004802140",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": "Vergütung",
+    "sha256_xml_text": "a13e35af4ed47ac614209d28044f9987ea6d7461b7b269e9dba41383aa4c84f0"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR013010961BJNE023601123",
+    "enbez": "§ 9a",
+    "gliederung": null,
+    "titel": "Erfolgshonorar",
+    "sha256_xml_text": "6d170c3fa5bb4fa815252e77350078362ab5e3dc298f65044c2202078cec8e33"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR013010961BJNE004910123",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Übermittlung von Daten",
+    "sha256_xml_text": "fe1f3af0c23ba81c32cb7f08964cae69be89e0134f5fff812446c7c6a7e1e5e6"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR013010961BJNE023901123",
+    "enbez": "§ 10a",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR013010961BJNE024000377",
+    "enbez": "§ 10b",
+    "gliederung": null,
+    "titel": "Vorwarnmechanismus",
+    "sha256_xml_text": "534425a332fe1847eb39813404bca39ea86f3da3f5f827eeb331013786c33577"
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR013010961BJNE005004123",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Verarbeitung personenbezogener Daten",
+    "sha256_xml_text": "c86f445d25cbcf6a75f653e39df6509999f6fe3a09fa214b0a9a2f3075d16cc3"
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR013010961BJNE021304123",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Hilfeleistung im Abgabenrecht fremder Staaten",
+    "sha256_xml_text": "113bdc5ebfc9689fa684281d19569c045e9e5677a4bfe8f1599888f7ce4885e9"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR013010961BJNG000701123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Lohnsteuerhilfevereine"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR013010961BJNG000801123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010020010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Anerkennung und allgemeine Anforderungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR013010961BJNE005203123",
+    "enbez": "§ 13",
+    "gliederung": null,
+    "titel": "Tätigkeit",
+    "sha256_xml_text": "8411ec1426acd0b1cb3b8dced4993045df62e119249058badd307314df4cbdc7"
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR013010961BJNE005306123",
+    "enbez": "§ 14",
+    "gliederung": null,
+    "titel": "Anerkennung",
+    "sha256_xml_text": "623210559cbf111d61483da76b154cc42dc533910c821dd87c1621660bfb3a87"
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR013010961BJNE005403123",
+    "enbez": "§ 15",
+    "gliederung": null,
+    "titel": "Anerkennungsverfahren; Bezeichnung; Gebühr",
+    "sha256_xml_text": "7cc88ad7fae11038fe46d0fd7781776c84ad963bf918587c54a9fcaeeb938352"
+  },
+  {
+    "index": 40,
+    "doknr": "BJNR013010961BJNE005504123",
+    "enbez": "§ 16",
+    "gliederung": null,
+    "titel": "Erlöschen, Rücknahme und Widerruf der Anerkennung",
+    "sha256_xml_text": "37de32b6ebb90140968d5066e9a8bd00a5c20f231e2404147843deb5d3f16008"
+  },
+  {
+    "index": 41,
+    "doknr": "BJNR013010961BJNE005602123",
+    "enbez": "§ 17",
+    "gliederung": null,
+    "titel": "Abwicklung schwebender Steuersachen",
+    "sha256_xml_text": "f7b0f697f55bc9fb839cb7d6c7187b7fe63f193358f3fa6a99ed5d123b3bc0cc"
+  },
+  {
+    "index": 42,
+    "doknr": "BJNR013010961BJNE005701123",
+    "enbez": "§ 18",
+    "gliederung": null,
+    "titel": "Satzung des Lohnsteuerhilfevereins",
+    "sha256_xml_text": "f2db4218a43b468c85b2fa40aa6987c6240fdd4b069071aa118171356f171e22"
+  },
+  {
+    "index": 43,
+    "doknr": "BJNR013010961BJNE005802123",
+    "enbez": "§ 19",
+    "gliederung": null,
+    "titel": "Beratungsstellen",
+    "sha256_xml_text": "c6deebfdd077eefb7e980cb4644e8e6ea9f35ca2b8c4cfcfd354f5189a1d8444"
+  },
+  {
+    "index": 44,
+    "doknr": "BJNR013010961BJNE005905123",
+    "enbez": "§ 20",
+    "gliederung": null,
+    "titel": "Leitung einer Beratungsstelle",
+    "sha256_xml_text": "8971740e2fdfb538c7074913045bb381646a59c4247865c001bfcc1bc54c0615"
+  },
+  {
+    "index": 45,
+    "doknr": "BJNR013010961BJNE006001123",
+    "enbez": "§ 21",
+    "gliederung": null,
+    "titel": "Vertreterversammlung",
+    "sha256_xml_text": "3861b180016cda1e94accb01b973988158db5f353dc1371d0908d15aa50f743a"
+  },
+  {
+    "index": 46,
+    "doknr": "BJNR013010961BJNG000901123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010020020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Pflichten"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 47,
+    "doknr": "BJNR013010961BJNE006105123",
+    "enbez": "§ 22",
+    "gliederung": null,
+    "titel": "Allgemeine Pflichten der Lohnsteuerhilfevereine",
+    "sha256_xml_text": "be7e1756270b09a7a440bdb4ed5b806377d0a1301f23250630a3699d315d29b6"
+  },
+  {
+    "index": 48,
+    "doknr": "BJNR013010961BJNE006210123",
+    "enbez": "§ 23",
+    "gliederung": null,
+    "titel": "Aufzeichnungs- und Aufbewahrungspflichten",
+    "sha256_xml_text": "d6d8bb53cd0124bc5b6cc6e037b228ec0bc901069cdae332d8cb6f526fd36505"
+  },
+  {
+    "index": 49,
+    "doknr": "BJNR013010961BJNE006305123",
+    "enbez": "§ 24",
+    "gliederung": null,
+    "titel": "Mitteilungspflichten; Verzeichnisauszug",
+    "sha256_xml_text": "0b4e3c52ddc143d7f680a521179c0b1ee6884c338c5e4aeaf12b614f407fd162"
+  },
+  {
+    "index": 50,
+    "doknr": "BJNR013010961BJNE006406123",
+    "enbez": "§ 25",
+    "gliederung": null,
+    "titel": "Haftpflichtversicherung; Haftungsausschluss",
+    "sha256_xml_text": "dc91204429b380fa9dbfb9aea38e2acf6097bea8bb32241adf148dac40b8e395"
+  },
+  {
+    "index": 51,
+    "doknr": "BJNR013010961BJNE006503123",
+    "enbez": "§ 26",
+    "gliederung": null,
+    "titel": "Geschäftsprüfung",
+    "sha256_xml_text": "21d470bf6beee571deb6b75df12ea9a3b45a3128b32556c37b7d34039929dd68"
+  },
+  {
+    "index": 52,
+    "doknr": "BJNR013010961BJNG001001123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010020030",
+      "gliederungsbez": "Dritter Unterabschnitt",
+      "gliederungstitel": "Aufsicht"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 53,
+    "doknr": "BJNR013010961BJNE006603123",
+    "enbez": "§ 27",
+    "gliederung": null,
+    "titel": "Zuständige Aufsichtsbehörde",
+    "sha256_xml_text": "062d1886e7430173d836bd8bf7baa60e7bc149f7ef500bfcceb7e6bf6cba2235"
+  },
+  {
+    "index": 54,
+    "doknr": "BJNR013010961BJNE006705123",
+    "enbez": "§ 28",
+    "gliederung": null,
+    "titel": "Pflicht zum Erscheinen vor der Aufsichtsbehörde",
+    "sha256_xml_text": "c89621beeeb1084b4c2dbec721af9323ddd4aa33c1887cf71e2f9fc74b975c68"
+  },
+  {
+    "index": 55,
+    "doknr": "BJNR013010961BJNE029200123",
+    "enbez": "§ 28a",
+    "gliederung": null,
+    "titel": "Befugnisse der Aufsichtsbehörde",
+    "sha256_xml_text": "f9498fae6b84fe748dace3871b377b145d8976724ef6a99f5c8651e2065f23df"
+  },
+  {
+    "index": 56,
+    "doknr": "BJNR013010961BJNE006802123",
+    "enbez": "§ 29",
+    "gliederung": null,
+    "titel": "Unterrichtung über Mitgliederversammlungen und Teilnahme der Aufsichtsbehörde",
+    "sha256_xml_text": "c85eb1caff4512c3a5ae67de496630cd8b73ff4831a34c8d55a192f0ba4f91f6"
+  },
+  {
+    "index": 57,
+    "doknr": "BJNR013010961BJNE006903123",
+    "enbez": "§ 30",
+    "gliederung": null,
+    "titel": "Elektronisches Verzeichnis der Lohnsteuerhilfevereine",
+    "sha256_xml_text": "a9f939251c794ff6691cd7837c8d73f509bda474d5c366d5f09d5e1475530404"
+  },
+  {
+    "index": 58,
+    "doknr": "BJNR013010961BJNG001101123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010020040",
+      "gliederungsbez": "Vierter Unterabschnitt",
+      "gliederungstitel": "Verordnungsermächtigung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 59,
+    "doknr": "BJNR013010961BJNE007008123",
+    "enbez": "§ 31",
+    "gliederung": null,
+    "titel": "Durchführung der Vorschriften über die Lohnsteuerhilfevereine; Verordnungsermächtigung",
+    "sha256_xml_text": "b2e654b9457c98e7e8b9ecf2f95a5428dd5fb24729a03b02d65d7a01eb1bf815"
+  },
+  {
+    "index": 60,
+    "doknr": "BJNR013010961BJNG001300319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020",
+      "gliederungsbez": "Zweiter Teil",
+      "gliederungstitel": "Steuerberaterordnung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 61,
+    "doknr": "BJNR013010961BJNG001400319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Allgemeine Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 62,
+    "doknr": "BJNR013010961BJNE007103123",
+    "enbez": "§ 32",
+    "gliederung": null,
+    "titel": "Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften",
+    "sha256_xml_text": "0aae0210bfd0d371a2890f3e4aae4c4536ec1b6f5370aa20b0d1e8bb6337ba6a"
+  },
+  {
+    "index": 63,
+    "doknr": "BJNR013010961BJNE007203123",
+    "enbez": "§ 33",
+    "gliederung": null,
+    "titel": "Inhalt der Tätigkeit",
+    "sha256_xml_text": "dd8cc9514feaa8a8c4e5121ef997eb18c849d8d7d734fc7c6b3072e2906343cc"
+  },
+  {
+    "index": 64,
+    "doknr": "BJNR013010961BJNE007309140",
+    "enbez": "§ 34",
+    "gliederung": null,
+    "titel": "Berufliche Niederlassung, weitere Beratungsstellen",
+    "sha256_xml_text": "f84f27a4b215b5e1f18285ae03438eefca25c5cdca2aa83ddc7cb5eead2963e7"
+  },
+  {
+    "index": 65,
+    "doknr": "BJNR013010961BJNG001500319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Voraussetzungen für die\nBerufsausübung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 66,
+    "doknr": "BJNR013010961BJNG001600319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Persönliche\nVoraussetzungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 67,
+    "doknr": "BJNR013010961BJNE007402140",
+    "enbez": "§ 35",
+    "gliederung": null,
+    "titel": "Zulassung zur Prüfung, Befreiung von der Prüfung, organisatorische Durchführung der Prüfung, Abnahme der Prüfung, Wiederholung der Prüfung und Besetzung des Prüfungsausschusses",
+    "sha256_xml_text": "240d37ea59cc1bdb1152428c1ca195418f1ad75ae87903b306ca40b5f2f94364"
+  },
+  {
+    "index": 68,
+    "doknr": "BJNR013010961BJNE007507123",
+    "enbez": "§ 36",
+    "gliederung": null,
+    "titel": "Voraussetzungen für die Zulassung zur Prüfung",
+    "sha256_xml_text": "93f25f4d6ea54ca8a99893acb61bcb767e7e66ca054e2f1cf5bb3b745b09e1a5"
+  },
+  {
+    "index": 69,
+    "doknr": "BJNR013010961BJNE021405123",
+    "enbez": "§ 37",
+    "gliederung": null,
+    "titel": "Steuerberaterprüfung",
+    "sha256_xml_text": "4d0e7aa6ecc75f86eede830fe853b5f6aaab3d97c716c9d2f4ea6888306c031e"
+  },
+  {
+    "index": 70,
+    "doknr": "BJNR013010961BJNE022905123",
+    "enbez": "§ 37a",
+    "gliederung": null,
+    "titel": "Prüfung in Sonderfällen",
+    "sha256_xml_text": "744db482056ead83af8099ebd3e124122a970cb30f36c407e70c53f9abe5efa0"
+  },
+  {
+    "index": 71,
+    "doknr": "BJNR013010961BJNE023001140",
+    "enbez": "§ 37b",
+    "gliederung": null,
+    "titel": "Zuständigkeit für die Zulassung zur Prüfung, für die Befreiung von der Prüfung, für die organisatorische Durchführung der Prüfung, für die Abnahme der Prüfung und für die Berufung und Abberufung des Prüfungsausschusses",
+    "sha256_xml_text": "13e326414f87bbe845bcad97a5dac63be9a79906c0eb742165df6312bdad498c"
+  },
+  {
+    "index": 72,
+    "doknr": "BJNR013010961BJNE007705140",
+    "enbez": "§ 38",
+    "gliederung": null,
+    "titel": "Voraussetzungen für die Befreiung von der Prüfung",
+    "sha256_xml_text": "b8f1ee3ec98e9cabd94badcc181b96ef80d9d16dfc2ee7936401323a6f56e5fb"
+  },
+  {
+    "index": 73,
+    "doknr": "BJNR013010961BJNE022601140",
+    "enbez": "§ 38a",
+    "gliederung": null,
+    "titel": "Verbindliche Auskunft",
+    "sha256_xml_text": "edef934792b156d13a5c1d3e7c848e0389160c712cc403acfb9936d032ac0a54"
+  },
+  {
+    "index": 74,
+    "doknr": "BJNR013010961BJNE007805140",
+    "enbez": "§ 39",
+    "gliederung": null,
+    "titel": "Gebühren für Zulassung, Prüfung, Befreiung und verbindliche Auskunft, Kostenerstattung",
+    "sha256_xml_text": "4310a06a0ac0d6404b5c98520b3022eaa31e9b1b9456f1d0ef25532b71d94551"
+  },
+  {
+    "index": 75,
+    "doknr": "BJNR013010961BJNE022702123",
+    "enbez": "§ 39a",
+    "gliederung": null,
+    "titel": "Rücknahme von Entscheidungen",
+    "sha256_xml_text": "11292e723e812681980b81e5a556dc4f01b3eea0efe124cabd70099ddf5d7786"
+  },
+  {
+    "index": 76,
+    "doknr": "BJNR013010961BJNG001700319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Bestellung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 77,
+    "doknr": "BJNR013010961BJNE007907123",
+    "enbez": "§ 40",
+    "gliederung": null,
+    "titel": "Bestellende Steuerberaterkammer, Bestellungsverfahren",
+    "sha256_xml_text": "18a48b9afc426f8e429453dfad3e60421b34c3c4670c779dda60b97ee60d5533"
+  },
+  {
+    "index": 78,
+    "doknr": "BJNR013010961BJNE024800123",
+    "enbez": "§ 40a",
+    "gliederung": null,
+    "titel": "Aussetzung des Bestellungsverfahrens",
+    "sha256_xml_text": "ca5e776df4ed05967f1dd3d525864e82af09ce468897efbbda5dc8b5138b1e55"
+  },
+  {
+    "index": 79,
+    "doknr": "BJNR013010961BJNE008004123",
+    "enbez": "§ 41",
+    "gliederung": null,
+    "titel": "Bestellung",
+    "sha256_xml_text": "9f810a02a92de3b4a1d29f16f8df98581e9820264d6eb32bbf99ded4c1a0e7be"
+  },
+  {
+    "index": 80,
+    "doknr": "BJNR013010961BJNE008101301",
+    "enbez": "§ 42",
+    "gliederung": null,
+    "titel": "Steuerbevollmächtigter",
+    "sha256_xml_text": "2bf0451b0b7c7058257fed1b1fc75fb2478cc871d905696275beec2cbc1f4d70"
+  },
+  {
+    "index": 81,
+    "doknr": "BJNR013010961BJNE008204123",
+    "enbez": "§ 43",
+    "gliederung": null,
+    "titel": "Berufsbezeichnung",
+    "sha256_xml_text": "dae4c5ed4df1d5d65cd37e983af28972e94ab5da785320dae6eaaae2fe423f6f"
+  },
+  {
+    "index": 82,
+    "doknr": "BJNR013010961BJNE008307123",
+    "enbez": "§ 44",
+    "gliederung": null,
+    "titel": "Bezeichnung \"Landwirtschaftliche Buchstelle\"",
+    "sha256_xml_text": "0c7ba943343722e457d20bba89dcfcf550d33893a0ef57e692ebf08bddb20957"
+  },
+  {
+    "index": 83,
+    "doknr": "BJNR013010961BJNE008402301",
+    "enbez": "§ 45",
+    "gliederung": null,
+    "titel": "Erlöschen der Bestellung",
+    "sha256_xml_text": "6d9f782c5692b4b1d2a1cc3bafcde314622605354b8818898862e7c9c937e344"
+  },
+  {
+    "index": 84,
+    "doknr": "BJNR013010961BJNE008513123",
+    "enbez": "§ 46",
+    "gliederung": null,
+    "titel": "Rücknahme und Widerruf der Bestellung",
+    "sha256_xml_text": "17e55124b251eae0943581304e3971f747a7ea2841d6e697114a394cc0b1ec81"
+  },
+  {
+    "index": 85,
+    "doknr": "BJNR013010961BJNE008604123",
+    "enbez": "§ 47",
+    "gliederung": null,
+    "titel": "Erlöschen der Befugnis zur Führung der Berufsbezeichnung",
+    "sha256_xml_text": "eb82158c8602b72baca14bb285adf6f9a8b778d3f18d7c71f6f0476dbd4366a1"
+  },
+  {
+    "index": 86,
+    "doknr": "BJNR013010961BJNE008706123",
+    "enbez": "§ 48",
+    "gliederung": null,
+    "titel": "Wiederbestellung",
+    "sha256_xml_text": "26845d18372bef02a4c2e5f1bdf0b942af05ca240dc5a867b416cf28f93d92ef"
+  },
+  {
+    "index": 87,
+    "doknr": "BJNR013010961BJNG001801123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020030",
+      "gliederungsbez": "Dritter Unterabschnitt",
+      "gliederungstitel": "Berufsausübungsgesellschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 88,
+    "doknr": "BJNR013010961BJNE008806123",
+    "enbez": "§ 49",
+    "gliederung": null,
+    "titel": "Berufsausübungsgesellschaften",
+    "sha256_xml_text": "dcfd4926c799686eb44b2b344adcce99f7ee790b84972f07b96147ebd37d3e93"
+  },
+  {
+    "index": 89,
+    "doknr": "BJNR013010961BJNE008906123",
+    "enbez": "§ 50",
+    "gliederung": null,
+    "titel": "Berufsausübungsgesellschaften mit Angehörigen anderer Berufe",
+    "sha256_xml_text": "b039a9b49fc5bf00bc480e5432967e4c9fad6e071f1b12c2cecccb1e6cc7f5cb"
+  },
+  {
+    "index": 90,
+    "doknr": "BJNR013010961BJNE009006123",
+    "enbez": "§ 51",
+    "gliederung": null,
+    "titel": "Berufspflichten bei beruflicher Zusammenarbeit",
+    "sha256_xml_text": "5fa57731976532aacc85e1a0b843c2817b58ee9df8223f836caa4f3ab0a078ae"
+  },
+  {
+    "index": 91,
+    "doknr": "BJNR013010961BJNE009104123",
+    "enbez": "§ 52",
+    "gliederung": null,
+    "titel": "Berufspflichten der Berufsausübungsgesellschaft",
+    "sha256_xml_text": "0fc41e5f5c3d4b3bf82252f46d79d31651745eab7cea33516498b05cac1c1d45"
+  },
+  {
+    "index": 92,
+    "doknr": "BJNR013010961BJNE009206123",
+    "enbez": "§ 53",
+    "gliederung": null,
+    "titel": "Anerkennung",
+    "sha256_xml_text": "003c3cdd9ad06597ec09f523365741f1dbe8eba09ed9a08fec32d32e2dc0c616"
+  },
+  {
+    "index": 93,
+    "doknr": "BJNR013010961BJNE009306123",
+    "enbez": "§ 54",
+    "gliederung": null,
+    "titel": "Anerkennungsverfahren; Gebühr; Anzeigepflicht",
+    "sha256_xml_text": "d03919b61c82640465e63da0fdae4209be63625c3b59adcac0a494fa7d0aa491"
+  },
+  {
+    "index": 94,
+    "doknr": "BJNR013010961BJNE009408123",
+    "enbez": "§ 55",
+    "gliederung": null,
+    "titel": "Erlöschen, Rücknahme und Widerruf der Anerkennung; Abwickler",
+    "sha256_xml_text": "f4417f3caa9a0c6d6a9456ee7a56a94a37568357466835832e97b728fa78f5a1"
+  },
+  {
+    "index": 95,
+    "doknr": "BJNR013010961BJNE025403123",
+    "enbez": "§ 55a",
+    "gliederung": null,
+    "titel": "Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften",
+    "sha256_xml_text": "26ace5fdecb7548e34fb0b9bb79a75b152c373287028641517cbddf8605818fb"
+  },
+  {
+    "index": 96,
+    "doknr": "BJNR013010961BJNE025501123",
+    "enbez": "§ 55b",
+    "gliederung": null,
+    "titel": "Geschäftsführungsorgane; Aufsichtsorgane",
+    "sha256_xml_text": "b521794896a7c210078c8f8651405d5ceb266146e94b22822e4765a388582275"
+  },
+  {
+    "index": 97,
+    "doknr": "BJNR013010961BJNE025601123",
+    "enbez": "§ 55c",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 98,
+    "doknr": "BJNR013010961BJNE025700123",
+    "enbez": "§ 55d",
+    "gliederung": null,
+    "titel": "Vertretung vor Gerichten und Behörden",
+    "sha256_xml_text": "f3d2cf76f92cf61b6b843c1abc94b63b7e048a3185496f5b10bf51b24021ee52"
+  },
+  {
+    "index": 99,
+    "doknr": "BJNR013010961BJNE025800123",
+    "enbez": "§ 55e",
+    "gliederung": null,
+    "titel": "Berufliche Niederlassung der Berufsausübungsgesellschaft",
+    "sha256_xml_text": "a01a13d1b5d84c03afcfe0dc583a0717c412ed22c2cfdea20c5acfc54a742a3a"
+  },
+  {
+    "index": 100,
+    "doknr": "BJNR013010961BJNE025903123",
+    "enbez": "§ 55f",
+    "gliederung": null,
+    "titel": "Berufshaftpflichtversicherung",
+    "sha256_xml_text": "a82b9acaf77dee34de48737c22c4202243d23ae12a32dcffdc85500451b8182f"
+  },
+  {
+    "index": 101,
+    "doknr": "BJNR013010961BJNE026001123",
+    "enbez": "§ 55g",
+    "gliederung": null,
+    "titel": "Steuerberatungsgesellschaft",
+    "sha256_xml_text": "5e518ce461c6b6c895aec88eada4389aa086ef930bd801b063634203d000f162"
+  },
+  {
+    "index": 102,
+    "doknr": "BJNR013010961BJNE026100123",
+    "enbez": "§ 55h",
+    "gliederung": null,
+    "titel": "Bürogemeinschaft",
+    "sha256_xml_text": "088d4fe4b4a48af6f72c6685d4de87f5a7cafbd2f26bcfb09d2a779172bdd463"
+  },
+  {
+    "index": 103,
+    "doknr": "BJNR013010961BJNG002001301",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Rechte und Pflichten"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 104,
+    "doknr": "BJNR013010961BJNE022803123",
+    "enbez": "§ 56",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 105,
+    "doknr": "BJNR013010961BJNE009605123",
+    "enbez": "§ 57",
+    "gliederung": null,
+    "titel": "Allgemeine Berufspflichten",
+    "sha256_xml_text": "8bd14270e462f5f98fa30fbce1625651c4f4a1d450a255d3314aa4af6e1e2d38"
+  },
+  {
+    "index": 106,
+    "doknr": "BJNR013010961BJNE022000301",
+    "enbez": "§ 57a",
+    "gliederung": null,
+    "titel": "Werbung",
+    "sha256_xml_text": "e2d100f9e066ab3310064081884d6195220cec37501bd9b80597ef5aa1645ca7"
+  },
+  {
+    "index": 107,
+    "doknr": "BJNR013010961BJNE009708123",
+    "enbez": "§ 58",
+    "gliederung": null,
+    "titel": "Tätigkeit als Angestellter",
+    "sha256_xml_text": "0af7ad3cbbd784fd0fb9eb9a8634d72f03fd3035aabf3388bb24e8e8122f50d7"
+  },
+  {
+    "index": 108,
+    "doknr": "BJNR013010961BJNE009801301",
+    "enbez": "§ 59",
+    "gliederung": null,
+    "titel": "Steuerberater oder Steuerbevollmächtigte im öffentlich-rechtlichen\nDienst- oder Amtsverhältnis",
+    "sha256_xml_text": "96e8ad7b8889940504321521ceeedbce5a98a18cd05ab3725468d7912ee05fab"
+  },
+  {
+    "index": 109,
+    "doknr": "BJNR013010961BJNE009901123",
+    "enbez": "§ 60",
+    "gliederung": null,
+    "titel": "Eigenverantwortlichkeit",
+    "sha256_xml_text": "1005c3584475719808ee66103188e63f1ce8ab2452f939def2757123c18f9934"
+  },
+  {
+    "index": 110,
+    "doknr": "BJNR013010961BJNE010000319",
+    "enbez": "§ 61",
+    "gliederung": null,
+    "titel": "Ehemalige Angehörige der Finanzverwaltung",
+    "sha256_xml_text": "a2b1c20d790dd6da3409578576c2ab5c33944a28ce680e35b5d654dbb1181edc"
+  },
+  {
+    "index": 111,
+    "doknr": "BJNR013010961BJNE010102123",
+    "enbez": "§ 62",
+    "gliederung": null,
+    "titel": "Verschwiegenheitspflicht beschäftigter Personen",
+    "sha256_xml_text": "63d025343f97d789c86f7506c7c015a949ea0700d94477e3489f8f0561730b56"
+  },
+  {
+    "index": 112,
+    "doknr": "BJNR013010961BJNE024500360",
+    "enbez": "§ 62a",
+    "gliederung": null,
+    "titel": "Inanspruchnahme von Dienstleistungen",
+    "sha256_xml_text": "b98869d8e8e9b2ec55dab78c3e4f8dcde569c1f128c5c02e1a1347bbacf3f679"
+  },
+  {
+    "index": 113,
+    "doknr": "BJNR013010961BJNE010200319",
+    "enbez": "§ 63",
+    "gliederung": null,
+    "titel": "Mitteilung der Ablehnung eines Auftrags",
+    "sha256_xml_text": "a0f543b3f712c7e3d8d03d3efd6d2ac409c67ec7adb63007d732375f3ba38cca"
+  },
+  {
+    "index": 114,
+    "doknr": "BJNR013010961BJNE010305123",
+    "enbez": "§ 64",
+    "gliederung": null,
+    "titel": "Gebührenordnung",
+    "sha256_xml_text": "d544f48c6471e7158f3b39b734be9212f86a4f40f36a89051001c79b8ac81a89"
+  },
+  {
+    "index": 115,
+    "doknr": "BJNR013010961BJNE010401123",
+    "enbez": "§ 65",
+    "gliederung": null,
+    "titel": "Pflicht zur Übernahme einer Prozessvertretung",
+    "sha256_xml_text": "3856dcabfa0dfed47dcd3c8a890b774235196d3446512f8a5c7dfb920b4e7091"
+  },
+  {
+    "index": 116,
+    "doknr": "BJNR013010961BJNE023800119",
+    "enbez": "§ 65a",
+    "gliederung": null,
+    "titel": "Pflicht zur Übernahme der Beratungshilfe",
+    "sha256_xml_text": "b59f2bcdc17e644d36c9ce2622fcfcad75bcac9a956cbf19ebe554c58c7051d8"
+  },
+  {
+    "index": 117,
+    "doknr": "BJNR013010961BJNE010504123",
+    "enbez": "§ 66",
+    "gliederung": null,
+    "titel": "Handakten",
+    "sha256_xml_text": "d90fa8eb4e511e0f7a7da0d63fc48c2b4bc73044780120301719f14657502da7"
+  },
+  {
+    "index": 118,
+    "doknr": "BJNR013010961BJNE010607123",
+    "enbez": "§ 67",
+    "gliederung": null,
+    "titel": "Berufshaftpflichtversicherung",
+    "sha256_xml_text": "d8aebb327af9f5f5f051285daecb77758546ba6050f1150e38b47c576570f2ed"
+  },
+  {
+    "index": 119,
+    "doknr": "BJNR013010961BJNE022103123",
+    "enbez": "§ 67a",
+    "gliederung": null,
+    "titel": "Vertragliche Begrenzung von Ersatzansprüchen",
+    "sha256_xml_text": "9854989ba3066865a4f0ef95cfcc4921feae665c943b69ff4f7b1815ebaa2c06"
+  },
+  {
+    "index": 120,
+    "doknr": "BJNR013010961BJNE010701301",
+    "enbez": "§ 68",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 121,
+    "doknr": "BJNR013010961BJNE010803140",
+    "enbez": "§ 69",
+    "gliederung": null,
+    "titel": "Bestellung eines allgemeinen Vertreters",
+    "sha256_xml_text": "d5864d9cd7bc046ab60456b6a5caf3d3b265d6a8b90444f35be5d7eab5e006f5"
+  },
+  {
+    "index": 122,
+    "doknr": "BJNR013010961BJNE010903140",
+    "enbez": "§ 70",
+    "gliederung": null,
+    "titel": "Bestellung eines Praxisabwicklers",
+    "sha256_xml_text": "ba824c8ba4ab1c1063e95c942140b4134f3610a3a5f42e3d2250d064879999ac"
+  },
+  {
+    "index": 123,
+    "doknr": "BJNR013010961BJNE011003301",
+    "enbez": "§ 71",
+    "gliederung": null,
+    "titel": "Bestellung eines Praxistreuhänders",
+    "sha256_xml_text": "d003e2181f388c6eee4958160c1eb93e10b6aa620e01493ef92c98003fdfad3c"
+  },
+  {
+    "index": 124,
+    "doknr": "BJNR013010961BJNE011106123",
+    "enbez": "§ 72",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "dfa3476846ce31adf8b1496b34595fb3f5ca2adf22b6df8ca2264c718b985cd9"
+  },
+  {
+    "index": 125,
+    "doknr": "BJNR013010961BJNG002100319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020040",
+      "gliederungsbez": "Vierter Abschnitt",
+      "gliederungstitel": "Organisation des Berufs"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 126,
+    "doknr": "BJNR013010961BJNE011205123",
+    "enbez": "§ 73",
+    "gliederung": null,
+    "titel": "Steuerberaterkammer",
+    "sha256_xml_text": "fc754e4110433bcd216ac1bb5fb1da2bf6d77b485807bee92038bd174e72a7fb"
+  },
+  {
+    "index": 127,
+    "doknr": "BJNR013010961BJNE011306123",
+    "enbez": "§ 74",
+    "gliederung": null,
+    "titel": "Mitgliedschaft",
+    "sha256_xml_text": "fedf01989e2895fcd035ee0f5371bdf143045f59d7dd78f8eb1312703425c907"
+  },
+  {
+    "index": 128,
+    "doknr": "BJNR013010961BJNE024901123",
+    "enbez": "§ 74a",
+    "gliederung": null,
+    "titel": "Mitgliederakten",
+    "sha256_xml_text": "c3203eb26133addbf2f35ba339fa818e74d32fda48dd7b3f4a8ae09df172da5f"
+  },
+  {
+    "index": 129,
+    "doknr": "BJNR013010961BJNE011403140",
+    "enbez": "§ 75",
+    "gliederung": null,
+    "titel": "Gemeinsame Steuerberaterkammer",
+    "sha256_xml_text": "e43b636164c20193e044bae6141bc8ad0a75bed57139ad803af3473491fa3354"
+  },
+  {
+    "index": 130,
+    "doknr": "BJNR013010961BJNE011511123",
+    "enbez": "§ 76",
+    "gliederung": null,
+    "titel": "Aufgaben der Steuerberaterkammer",
+    "sha256_xml_text": "9e744272e57adb54f80a8756497d6569a5335073c8c65a984b905ad2f234aed9"
+  },
+  {
+    "index": 131,
+    "doknr": "BJNR013010961BJNE026202123",
+    "enbez": "§ 76a",
+    "gliederung": null,
+    "titel": "Eintragung in das Berufsregister",
+    "sha256_xml_text": "f3cbeafdfbd8bd6a465655ab014c6b79eb8f90fefbbdf86c7d7996331e0fedee"
+  },
+  {
+    "index": 132,
+    "doknr": "BJNR013010961BJNE026301123",
+    "enbez": "§ 76b",
+    "gliederung": null,
+    "titel": "Löschung aus dem Berufsregister",
+    "sha256_xml_text": "ce58ce865f39c22ee4a119d21619eca15712bdc66dcb3fa3ed8f79d8a9e73385"
+  },
+  {
+    "index": 133,
+    "doknr": "BJNR013010961BJNE026401123",
+    "enbez": "§ 76c",
+    "gliederung": null,
+    "titel": "Mitteilungspflichten; Einsicht in das Berufsregister",
+    "sha256_xml_text": "a29bf513b047d1204f085eb230113ef24270d72b0cd91ffac03aa4f83c8442a2"
+  },
+  {
+    "index": 134,
+    "doknr": "BJNR013010961BJNE026501123",
+    "enbez": "§ 76d",
+    "gliederung": null,
+    "titel": "Weitere Eintragungen in das Berufsregister",
+    "sha256_xml_text": "11aa7a1c0afc1387d7e29c6ac928d91341a6c40276ae70b0cb2b1c125e240eee"
+  },
+  {
+    "index": 135,
+    "doknr": "BJNR013010961BJNE026603123",
+    "enbez": "§ 76e",
+    "gliederung": null,
+    "titel": "Anzeigepflichten",
+    "sha256_xml_text": "7cc9e7327a1f8ea1cefe233ba6294ab80ccddd624ef7143cd095a8614b38f89f"
+  },
+  {
+    "index": 136,
+    "doknr": "BJNR013010961BJNE011602123",
+    "enbez": "§ 77",
+    "gliederung": null,
+    "titel": "Wahl des Vorstands",
+    "sha256_xml_text": "1f86ca2bfc72ccfb9672c2e92e6111e312379ebcfa2282ff589c61b8269a78b7"
+  },
+  {
+    "index": 137,
+    "doknr": "BJNR013010961BJNE022203123",
+    "enbez": "§ 77a",
+    "gliederung": null,
+    "titel": "Abteilungen des Vorstandes",
+    "sha256_xml_text": "1c9bd1d74b7da39c117908576d7cd78a635fe0c6c8862427e7d7ecf746258114"
+  },
+  {
+    "index": 138,
+    "doknr": "BJNR013010961BJNE024701123",
+    "enbez": "§ 77b",
+    "gliederung": null,
+    "titel": "Ehrenamtliche Tätigkeit",
+    "sha256_xml_text": "30ce30a3e7de09092bb84254328a66dc3c3667b6e8921d6b199a0ffc9780b9fc"
+  },
+  {
+    "index": 139,
+    "doknr": "BJNR013010961BJNE026700123",
+    "enbez": "§ 77c",
+    "gliederung": null,
+    "titel": "Vorzeitiges Ausscheiden eines Vorstandsmitglieds",
+    "sha256_xml_text": "a415536fc52380ac8f3e5cc11db8a3ba65d8c8cc6931f5f6c00ddb7f45ff3103"
+  },
+  {
+    "index": 140,
+    "doknr": "BJNR013010961BJNE011702123",
+    "enbez": "§ 78",
+    "gliederung": null,
+    "titel": "Satzung",
+    "sha256_xml_text": "f10f29914a274f0a919ffe1bd915a12599138d969f6f6e6a723e4e9bc7e50667"
+  },
+  {
+    "index": 141,
+    "doknr": "BJNR013010961BJNE011804123",
+    "enbez": "§ 79",
+    "gliederung": null,
+    "titel": "Beiträge und Gebühren",
+    "sha256_xml_text": "c6a5ac29136479dd561fdf4657c9add15a63b84aca8aa7ac6113729eaaa0e9b1"
+  },
+  {
+    "index": 142,
+    "doknr": "BJNR013010961BJNE011903123",
+    "enbez": "§ 80",
+    "gliederung": null,
+    "titel": "Pflicht zum Erscheinen vor der Steuerberaterkammer",
+    "sha256_xml_text": "c849b55b6e6c449b28901af2f57753036ccc92ddb0ca43edb81ea4a66dd04c47"
+  },
+  {
+    "index": 143,
+    "doknr": "BJNR013010961BJNE023302123",
+    "enbez": "§ 80a",
+    "gliederung": null,
+    "titel": "Zwangsgeld bei Verletzung von Mitwirkungspflichten",
+    "sha256_xml_text": "845ac11bd5264c2599a83b0e00e0807e2d079bd469409046ce33a27c9933e354"
+  },
+  {
+    "index": 144,
+    "doknr": "BJNR013010961BJNE012002123",
+    "enbez": "§ 81",
+    "gliederung": null,
+    "titel": "Rügerecht des Vorstands",
+    "sha256_xml_text": "937b92820c4b1a435412da07585d7fef85e72fbcc3ff39d5453d7b24826ac881"
+  },
+  {
+    "index": 145,
+    "doknr": "BJNR013010961BJNE012102123",
+    "enbez": "§ 82",
+    "gliederung": null,
+    "titel": "Antrag auf berufsgerichtliche Entscheidung",
+    "sha256_xml_text": "69d25bf0af9bf28233fa5148d2e2ca79461944d362ad4ce98cfc91c6c5410285"
+  },
+  {
+    "index": 146,
+    "doknr": "BJNR013010961BJNE012202123",
+    "enbez": "§ 83",
+    "gliederung": null,
+    "titel": "Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen",
+    "sha256_xml_text": "9eb07b18c9f621adfa123650cc8af15a4c27cce66abdf52a75ce8dbfa22d6d98"
+  },
+  {
+    "index": 147,
+    "doknr": "BJNR013010961BJNE012302123",
+    "enbez": "§ 84",
+    "gliederung": null,
+    "titel": "Arbeitsgemeinschaft",
+    "sha256_xml_text": "f163492a4a01ca48d15deab2dfc251815f1152edfae0bd18a2d3dc5cd5c0033e"
+  },
+  {
+    "index": 148,
+    "doknr": "BJNR013010961BJNE012405123",
+    "enbez": "§ 85",
+    "gliederung": null,
+    "titel": "Bundessteuerberaterkammer",
+    "sha256_xml_text": "e9be12525fcf28ead6572561b25d57f5a5f0074cf4b548f08720ecd78ac336c9"
+  },
+  {
+    "index": 149,
+    "doknr": "BJNR013010961BJNE012514123",
+    "enbez": "§ 85a",
+    "gliederung": null,
+    "titel": "Aufgaben der Bundessteuerberaterkammer",
+    "sha256_xml_text": "c5ff29914c93c33625ba7cbef8baf7ae2da5a4bf38bfb8f40f76db0a1ba502f4"
+  },
+  {
+    "index": 150,
+    "doknr": "BJNR013010961BJNE022302123",
+    "enbez": "§ 86",
+    "gliederung": null,
+    "titel": "Zusammensetzung und Arbeitsweise der Satzungsversammlung",
+    "sha256_xml_text": "3be2c296e5892ced687ad13b1aa4c4b2b1e27d120fc7be0bbfd0d9dfe8eded1a"
+  },
+  {
+    "index": 151,
+    "doknr": "BJNR013010961BJNE028500123",
+    "enbez": "§ 86a",
+    "gliederung": null,
+    "titel": "Durchführung der Satzungsversammlung",
+    "sha256_xml_text": "0358448a8434cacc998e3d1254aaf7e5c164a42ff63511b3b7f6eec7f486153f"
+  },
+  {
+    "index": 152,
+    "doknr": "BJNR013010961BJNE024202123",
+    "enbez": "§ 86b",
+    "gliederung": null,
+    "titel": "Steuerberaterverzeichnis",
+    "sha256_xml_text": "c46bace62ac5327f1c43180d9b2abeaafe1934664f07b23c4870a17adcc6a5d3"
+  },
+  {
+    "index": 153,
+    "doknr": "BJNR013010961BJNE026801123",
+    "enbez": "§ 86c",
+    "gliederung": null,
+    "titel": "Steuerberaterplattform",
+    "sha256_xml_text": "df863e2830631996e1eb7547a92c96c211f82c1540478e85e583ea557fbc156f"
+  },
+  {
+    "index": 154,
+    "doknr": "BJNR013010961BJNE026901123",
+    "enbez": "§ 86d",
+    "gliederung": null,
+    "titel": "Besonderes elektronisches Steuerberaterpostfach",
+    "sha256_xml_text": "fadba6c68ccb10eb95080131b366a94b068d63b697711b912ed074e831b22299"
+  },
+  {
+    "index": 155,
+    "doknr": "BJNR013010961BJNE027001123",
+    "enbez": "§ 86e",
+    "gliederung": null,
+    "titel": "Besonderes elektronisches Steuerberaterpostfach für Berufsausübungsgesellschaften",
+    "sha256_xml_text": "195e533a252f7d6dfd31f7122f257313bd8051a336cac2ca19b4f8805c20bd69"
+  },
+  {
+    "index": 156,
+    "doknr": "BJNR013010961BJNE027100123",
+    "enbez": "§ 86f",
+    "gliederung": null,
+    "titel": "Verordnungsermächtigung",
+    "sha256_xml_text": "6253a7dd26984902e7fdd5d5ae40da97a405f4c9e76c0dc5ba634f4fcf6712cc"
+  },
+  {
+    "index": 157,
+    "doknr": "BJNR013010961BJNE027202123",
+    "enbez": "§ 86g",
+    "gliederung": null,
+    "titel": "Ersetzung der Schriftform",
+    "sha256_xml_text": "7548da6ea28ab38c68085ddc15a0b853de198daf463ce61c65c7f45703449daa"
+  },
+  {
+    "index": 158,
+    "doknr": "BJNR013010961BJNE012600319",
+    "enbez": "§ 87",
+    "gliederung": null,
+    "titel": "Beiträge zur Bundessteuerberaterkammer",
+    "sha256_xml_text": "273527c777d74c92c9ca5bc74a0cad5968bc9bdc77975ff4b0018e2771d62014"
+  },
+  {
+    "index": 159,
+    "doknr": "BJNR013010961BJNE023400140",
+    "enbez": "§ 87a",
+    "gliederung": null,
+    "titel": "Wirtschaftsplan, Rechnungslegung",
+    "sha256_xml_text": "e40e0b7c4c19d052fc7c0cf3cf9e37836fb7581f93f3d1981e428840cb8dd227"
+  },
+  {
+    "index": 160,
+    "doknr": "BJNR013010961BJNE012703301",
+    "enbez": "§ 88",
+    "gliederung": null,
+    "titel": "Staatsaufsicht",
+    "sha256_xml_text": "059379e10bc4bf2e549aaecd204eee0ad5d65f6cc1c25d84cec81ff4df57de25"
+  },
+  {
+    "index": 161,
+    "doknr": "BJNR013010961BJNG002200319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050",
+      "gliederungsbez": "Fünfter Abschnitt",
+      "gliederungstitel": "Berufsgerichtsbarkeit"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 162,
+    "doknr": "BJNR013010961BJNG002300319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Die berufsgerichtliche\nAhndung von Pflichtverletzungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 163,
+    "doknr": "BJNR013010961BJNE012804123",
+    "enbez": "§ 89",
+    "gliederung": null,
+    "titel": "Ahndung einer Pflichtverletzung",
+    "sha256_xml_text": "5f49f55feb8752027491d579e1385a638c9e91a5d7e59038ac47a357fc623082"
+  },
+  {
+    "index": 164,
+    "doknr": "BJNR013010961BJNE027300123",
+    "enbez": "§ 89a",
+    "gliederung": null,
+    "titel": "Leitungspersonen",
+    "sha256_xml_text": "0d39965a200040c57f2f7283402d6d64f3842bd4c8a6ceed3740bc6a29a63983"
+  },
+  {
+    "index": 165,
+    "doknr": "BJNR013010961BJNE027400123",
+    "enbez": "§ 89b",
+    "gliederung": null,
+    "titel": "Rechtsnachfolger",
+    "sha256_xml_text": "2cf304cfc1288c914d101ef6bde7f809215b995af71db8c172da10f69fb52cbe"
+  },
+  {
+    "index": 166,
+    "doknr": "BJNR013010961BJNE012905123",
+    "enbez": "§ 90",
+    "gliederung": null,
+    "titel": "Berufsgerichtliche Maßnahmen",
+    "sha256_xml_text": "8efd99e5fa8e1e2710ff4c5d3e383b6e82129f545ffe317477dd2edbbc29acc6"
+  },
+  {
+    "index": 167,
+    "doknr": "BJNR013010961BJNE013002123",
+    "enbez": "§ 91",
+    "gliederung": null,
+    "titel": "Rüge und berufsgerichtliche Maßnahme",
+    "sha256_xml_text": "ec649b4ad13763010ba4494a13dde499d62563095bf00bddcab9b623f8e95bb7"
+  },
+  {
+    "index": 168,
+    "doknr": "BJNR013010961BJNE013101123",
+    "enbez": "§ 92",
+    "gliederung": null,
+    "titel": "Anderweitige Ahndung",
+    "sha256_xml_text": "16bef58d6180c7beab065ccab882028e5a4381adfc724ef2258870b9266a3be1"
+  },
+  {
+    "index": 169,
+    "doknr": "BJNR013010961BJNE013202123",
+    "enbez": "§ 93",
+    "gliederung": null,
+    "titel": "Verjährung von Pflichtverletzungen",
+    "sha256_xml_text": "731e7c72e30faef8dfc28ca2709a4d1e924478f6105c49c77de7f51a8b1243b6"
+  },
+  {
+    "index": 170,
+    "doknr": "BJNR013010961BJNE013302123",
+    "enbez": "§ 94",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 171,
+    "doknr": "BJNR013010961BJNG002400319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Die Gerichte"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 172,
+    "doknr": "BJNR013010961BJNE013402301",
+    "enbez": "§ 95",
+    "gliederung": null,
+    "titel": "Kammer für Steuerberater- und Steuerbevollmächtigtensachen\nbeim Landgericht",
+    "sha256_xml_text": "e188e2503678a32197a96e2a9e3181f9a71fcb05e4e5b54b610f52525857e487"
+  },
+  {
+    "index": 173,
+    "doknr": "BJNR013010961BJNE013501309",
+    "enbez": "§ 96",
+    "gliederung": null,
+    "titel": "Senat für Steuerberater- und Steuerbevollmächtigtensachen\nbeim Oberlandesgericht",
+    "sha256_xml_text": "3573d07b60dc20f46205392f08f6f6a437403c4c8fb1ed6d5aeaaa937ea7a741"
+  },
+  {
+    "index": 174,
+    "doknr": "BJNR013010961BJNE013602301",
+    "enbez": "§ 97",
+    "gliederung": null,
+    "titel": "Senat für Steuerberater- und Steuerbevollmächtigtensachen\nbeim Bundesgerichtshof",
+    "sha256_xml_text": "bfd75849c4ba49b3c9557a35cdcc450bde9964c30842dfe8dc948e2f21a0cdb0"
+  },
+  {
+    "index": 175,
+    "doknr": "BJNR013010961BJNE013701309",
+    "enbez": "§ 98",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 176,
+    "doknr": "BJNR013010961BJNE013807123",
+    "enbez": "§ 99",
+    "gliederung": null,
+    "titel": "Steuerberater oder Steuerbevollmächtigte als Beisitzer",
+    "sha256_xml_text": "e26f6adeee62adaf0815f7f470dc0d212e87348d59fb0868812c00bdf33bfe94"
+  },
+  {
+    "index": 177,
+    "doknr": "BJNR013010961BJNE013902301",
+    "enbez": "§ 100",
+    "gliederung": null,
+    "titel": "Voraussetzungen für die Berufung zum Beisitzer und Recht\nzur Ablehnung",
+    "sha256_xml_text": "9b0bd658b994ac6501a4b9e3d8d306bc1f4193baac8d1265c37e9dd6efd9700c"
+  },
+  {
+    "index": 178,
+    "doknr": "BJNR013010961BJNE014003377",
+    "enbez": "§ 101",
+    "gliederung": null,
+    "titel": "Enthebung vom Amt des Beisitzers",
+    "sha256_xml_text": "15d8c3854a65467278b89d85b8683813a1ba8dcf54bd9da74c33d4df00e8e02e"
+  },
+  {
+    "index": 179,
+    "doknr": "BJNR013010961BJNE014101123",
+    "enbez": "§ 102",
+    "gliederung": null,
+    "titel": "Stellung der ehrenamtlichen Richter und Pflicht zur Verschwiegenheit",
+    "sha256_xml_text": "0fd23ffb35281dbdcf6516490b977696154e55ca43186a93a2d80d8d3efb0c69"
+  },
+  {
+    "index": 180,
+    "doknr": "BJNR013010961BJNE014201309",
+    "enbez": "§ 103",
+    "gliederung": null,
+    "titel": "Reihenfolge der Teilnahme an den Sitzungen",
+    "sha256_xml_text": "63d59e1511ae21013cdc82bb743d10ac802b4e6d0eb50730ff06e47b1d5439c0"
+  },
+  {
+    "index": 181,
+    "doknr": "BJNR013010961BJNE014301301",
+    "enbez": "§ 104",
+    "gliederung": null,
+    "titel": "Entschädigung der ehrenamtlichen Richter",
+    "sha256_xml_text": "197812136fde5e692d72535a21b6a8d4d9862a10fa45fdc6e9c41cda0675b465"
+  },
+  {
+    "index": 182,
+    "doknr": "BJNR013010961BJNG002500319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050030",
+      "gliederungsbez": "Dritter Unterabschnitt",
+      "gliederungstitel": "Verfahrensvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 183,
+    "doknr": "BJNR013010961BJNG002601123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050030010",
+      "gliederungsbez": "Erster Teilabschnitt",
+      "gliederungstitel": "Allgemeines"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 184,
+    "doknr": "BJNR013010961BJNE014400319",
+    "enbez": "§ 105",
+    "gliederung": null,
+    "titel": "Vorschriften für das Verfahren",
+    "sha256_xml_text": "35966a81e62174db4d0484f426724fabb31693d5332c023313aed013dbf4325a"
+  },
+  {
+    "index": 185,
+    "doknr": "BJNR013010961BJNE014500319",
+    "enbez": "§ 106",
+    "gliederung": null,
+    "titel": "Keine Verhaftung des Steuerberaters oder Steuerbevollmächtigten",
+    "sha256_xml_text": "ab918360a9327db9b1ff1867bc334539ac297a4270bf27bd0fecd3ae4519d725"
+  },
+  {
+    "index": 186,
+    "doknr": "BJNR013010961BJNE014601140",
+    "enbez": "§ 107",
+    "gliederung": null,
+    "titel": "Verteidigung",
+    "sha256_xml_text": "ef20f3ba82312cc9019b19dff48e7e025c38a2e1ed47fd7bf31ee676420ed4bd"
+  },
+  {
+    "index": 187,
+    "doknr": "BJNR013010961BJNE014704123",
+    "enbez": "§ 108",
+    "gliederung": null,
+    "titel": "Akteneinsicht",
+    "sha256_xml_text": "58ccc71129dc9fb577a3ae73344f6bb0e9add24292107c5ef57c9c394393470f"
+  },
+  {
+    "index": 188,
+    "doknr": "BJNR013010961BJNE014802123",
+    "enbez": "§ 109",
+    "gliederung": null,
+    "titel": "Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren",
+    "sha256_xml_text": "55bc103897d34b09d27a6a84252ea39d88b9e9ec4e08a5180d38671734cbc72f"
+  },
+  {
+    "index": 189,
+    "doknr": "BJNR013010961BJNE014901123",
+    "enbez": "§ 110",
+    "gliederung": null,
+    "titel": "Verhältnis des berufsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen",
+    "sha256_xml_text": "481cceb428b4a1f137f91e596967ee1dbc942e33100c64b364d9eaf9140577e0"
+  },
+  {
+    "index": 190,
+    "doknr": "BJNR013010961BJNE015000319",
+    "enbez": "§ 111",
+    "gliederung": null,
+    "titel": "Aussetzung des berufsgerichtlichen Verfahrens",
+    "sha256_xml_text": "4c2bebc9c141d9870be2af4fa1ca66970d05db2ab5b5b054bb4495b836856b24"
+  },
+  {
+    "index": 191,
+    "doknr": "BJNR013010961BJNE027500123",
+    "enbez": "§ 111a",
+    "gliederung": null,
+    "titel": "Berufsgerichtliches Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften",
+    "sha256_xml_text": "2a675161e23e441a0d4246b38f50ef9837b15b8cda116b205c4e29cb8966a03e"
+  },
+  {
+    "index": 192,
+    "doknr": "BJNR013010961BJNE027600123",
+    "enbez": "§ 111b",
+    "gliederung": null,
+    "titel": "Vertretung von Berufsausübungsgesellschaften",
+    "sha256_xml_text": "7406631bab0686a5f18aa0543924d4b40057e8aadd7667d4f741f9754130d8ec"
+  },
+  {
+    "index": 193,
+    "doknr": "BJNR013010961BJNE027700123",
+    "enbez": "§ 111c",
+    "gliederung": null,
+    "titel": "Besonderer Vertreter",
+    "sha256_xml_text": "2a279ea188bff0d690fd92a8edbf96426ad262f4f4b0a4c8fa1452aefffcd48e"
+  },
+  {
+    "index": 194,
+    "doknr": "BJNR013010961BJNE027800123",
+    "enbez": "§ 111d",
+    "gliederung": null,
+    "titel": "Verfahrenseintritt von Rechtsnachfolgern",
+    "sha256_xml_text": "c340e13b2c11808a86ea49fde5748f692a4c149e2c9fe76e1792fe73dea8c04d"
+  },
+  {
+    "index": 195,
+    "doknr": "BJNR013010961BJNE027900123",
+    "enbez": "§ 111e",
+    "gliederung": null,
+    "titel": "Vernehmung des gesetzlichen Vertreters",
+    "sha256_xml_text": "c95a38a98920a1bc65212d458ad0d9220a8e23fc958e3eaedc333d0493f96341"
+  },
+  {
+    "index": 196,
+    "doknr": "BJNR013010961BJNE028000123",
+    "enbez": "§ 111f",
+    "gliederung": null,
+    "titel": "Berufs- und Vertretungsverbot",
+    "sha256_xml_text": "e404199b51be1a3aa6b50ebcddfdd55cad45b96092edb7b9556ddf47a6ce4706"
+  },
+  {
+    "index": 197,
+    "doknr": "BJNR013010961BJNG002701123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050030020",
+      "gliederungsbez": "Zweiter Teilabschnitt",
+      "gliederungstitel": "Das Verfahren im ersten Rechtszug"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 198,
+    "doknr": "BJNR013010961BJNE015102123",
+    "enbez": "§ 112",
+    "gliederung": null,
+    "titel": "Örtliche Zuständigkeit",
+    "sha256_xml_text": "7c435186d7703a31d5d3827d9d81edd9ba15e2455c8eb1eeca9b5c08790c19f9"
+  },
+  {
+    "index": 199,
+    "doknr": "BJNR013010961BJNE015200319",
+    "enbez": "§ 113",
+    "gliederung": null,
+    "titel": "Mitwirkung der Staatsanwaltschaft",
+    "sha256_xml_text": "97b3421140762e1a86d83450102e66a0086782656dbc9629a95242176bcc8242"
+  },
+  {
+    "index": 200,
+    "doknr": "BJNR013010961BJNE015300319",
+    "enbez": "§ 114",
+    "gliederung": null,
+    "titel": "Einleitung des berufsgerichtlichen Verfahrens",
+    "sha256_xml_text": "07822aa2792acfef039fdc8bdb98570886d0b8acaba00093902b08daa18e00ef"
+  },
+  {
+    "index": 201,
+    "doknr": "BJNR013010961BJNE015402123",
+    "enbez": "§ 115",
+    "gliederung": null,
+    "titel": "Gerichtliche Entscheidung über die Einleitung des Verfahrens",
+    "sha256_xml_text": "8df46a6ded5eb961bcf2c9dadc8beb6a932f5c258740a46480b0794dbbb69d4b"
+  },
+  {
+    "index": 202,
+    "doknr": "BJNR013010961BJNE015502123",
+    "enbez": "§ 116",
+    "gliederung": null,
+    "titel": "Antrag des Mitglieds der Steuerberaterkammer auf Einleitung des berufsgerichtlichen Verfahrens",
+    "sha256_xml_text": "becefc9778c9c276a3c0a7a56a150afec95ad03643c731decf8a4fc432babd0c"
+  },
+  {
+    "index": 203,
+    "doknr": "BJNR013010961BJNE015601123",
+    "enbez": "§ 117",
+    "gliederung": null,
+    "titel": "Inhalt der Anschuldigungsschrift",
+    "sha256_xml_text": "ac7e0770750258d416c5cb86bda98da35f476e8930605e6d8c90c0b08ef65245"
+  },
+  {
+    "index": 204,
+    "doknr": "BJNR013010961BJNE015701123",
+    "enbez": "§ 118",
+    "gliederung": null,
+    "titel": "Entscheidung über die Eröffnung des Hauptverfahrens",
+    "sha256_xml_text": "fce39a8c651db76616b9bf32d1a7df09a26bbac8c827f038cdce32281ac5dfc7"
+  },
+  {
+    "index": 205,
+    "doknr": "BJNR013010961BJNE015800319",
+    "enbez": "§ 119",
+    "gliederung": null,
+    "titel": "Rechtskraftwirkung eines ablehnenden Beschlusses",
+    "sha256_xml_text": "02d6f3119c7b6230d08e68bb52c4913ddd9d1ad3002cf6d370e7c16f184c663d"
+  },
+  {
+    "index": 206,
+    "doknr": "BJNR013010961BJNE015901123",
+    "enbez": "§ 120",
+    "gliederung": null,
+    "titel": "Zustellung des Eröffnungsbeschlusses",
+    "sha256_xml_text": "d8aa9c06d302e9f7bf301841dc56e705fbb09087b7d89a34bd4216d6c896e82a"
+  },
+  {
+    "index": 207,
+    "doknr": "BJNR013010961BJNE016001123",
+    "enbez": "§ 121",
+    "gliederung": null,
+    "titel": "Hauptverhandlung trotz Ausbleibens des Mitglieds der Steuerberaterkammer",
+    "sha256_xml_text": "195e7a44ec833b5bbe76aee902bbf26138c3a408cec99da339431872f9216d4a"
+  },
+  {
+    "index": 208,
+    "doknr": "BJNR013010961BJNE016104123",
+    "enbez": "§ 122",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 209,
+    "doknr": "BJNR013010961BJNE016201123",
+    "enbez": "§ 123",
+    "gliederung": null,
+    "titel": "Beweisaufnahme durch einen ersuchten Richter",
+    "sha256_xml_text": "1f44d3bb63f4f26c2ba4957c0485404027a17c83e15741a54168df05b25b8375"
+  },
+  {
+    "index": 210,
+    "doknr": "BJNR013010961BJNE016301123",
+    "enbez": "§ 124",
+    "gliederung": null,
+    "titel": "Verlesen von Protokollen",
+    "sha256_xml_text": "9e0b9fbdf8d04fdb549f21c10ee35b615f07ced5e08e6d38a3644e44f15c7301"
+  },
+  {
+    "index": 211,
+    "doknr": "BJNR013010961BJNE016401123",
+    "enbez": "§ 125",
+    "gliederung": null,
+    "titel": "Entscheidung",
+    "sha256_xml_text": "0fb2879b96733885f72255f946cce86c9b6a2601549408552ffd2d5dce11da2b"
+  },
+  {
+    "index": 212,
+    "doknr": "BJNR013010961BJNG002801123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050030030",
+      "gliederungsbez": "Dritter Teilabschnitt",
+      "gliederungstitel": "Rechtsmittel"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 213,
+    "doknr": "BJNR013010961BJNE016500319",
+    "enbez": "§ 126",
+    "gliederung": null,
+    "titel": "Beschwerde",
+    "sha256_xml_text": "1030559321c0f72c4a744ce2cfdb46a5ab23ef182c61ad9d2ce1b8c334c509ed"
+  },
+  {
+    "index": 214,
+    "doknr": "BJNR013010961BJNE016603123",
+    "enbez": "§ 127",
+    "gliederung": null,
+    "titel": "Berufung",
+    "sha256_xml_text": "6ee7a37d953ef8534fe151cdf77b2c905d04816f8a52a46b16bcab02b06d0d11"
+  },
+  {
+    "index": 215,
+    "doknr": "BJNR013010961BJNE016700319",
+    "enbez": "§ 128",
+    "gliederung": null,
+    "titel": "Mitwirkung der Staatsanwaltschaft im zweiten Rechtszug",
+    "sha256_xml_text": "dec37981dc219fa230ce52915c80d3988a2a4d96322ace57a7ad7a85689f5245"
+  },
+  {
+    "index": 216,
+    "doknr": "BJNR013010961BJNE016801123",
+    "enbez": "§ 129",
+    "gliederung": null,
+    "titel": "Revision",
+    "sha256_xml_text": "049941170b2d66aa445f2ce7600175ae923b3266316b00388c05d881b10ef12f"
+  },
+  {
+    "index": 217,
+    "doknr": "BJNR013010961BJNE016901123",
+    "enbez": "§ 130",
+    "gliederung": null,
+    "titel": "Einlegung der Revision und Verfahren",
+    "sha256_xml_text": "87f82a4500595d88953cef4f7efe6ee29e72c32063ab0036b158273307aabf5f"
+  },
+  {
+    "index": 218,
+    "doknr": "BJNR013010961BJNE017000319",
+    "enbez": "§ 131",
+    "gliederung": null,
+    "titel": "Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof",
+    "sha256_xml_text": "68363ceae4bd32d86b533f29d9da6db8dcf693aabcc93a71b3e0c6f9592f9b65"
+  },
+  {
+    "index": 219,
+    "doknr": "BJNR013010961BJNG002901123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050030040",
+      "gliederungsbez": "Vierter Teilabschnitt",
+      "gliederungstitel": "Die Sicherung von Beweisen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 220,
+    "doknr": "BJNR013010961BJNE017101123",
+    "enbez": "§ 132",
+    "gliederung": null,
+    "titel": "Anordnung der Beweissicherung",
+    "sha256_xml_text": "3e027180013affe844f7cb77b5a5dd907200716e9d4b50e62f7159fc2808aeb1"
+  },
+  {
+    "index": 221,
+    "doknr": "BJNR013010961BJNE017201123",
+    "enbez": "§ 133",
+    "gliederung": null,
+    "titel": "Verfahren",
+    "sha256_xml_text": "656e3ba0c69421925832b91f919b99042c87705a0ecdddc6c5b6672255e85bfb"
+  },
+  {
+    "index": 222,
+    "doknr": "BJNR013010961BJNG003001123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050030050",
+      "gliederungsbez": "Fünfter Teilabschnitt",
+      "gliederungstitel": "Das Berufs- und Vertretungsverbot"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 223,
+    "doknr": "BJNR013010961BJNE017301123",
+    "enbez": "§ 134",
+    "gliederung": null,
+    "titel": "Voraussetzung des Verbots",
+    "sha256_xml_text": "d00c9a2c99d8d23ba9ed87eec87f2be321565e6a96c66fb9bd96a32f61aca6f3"
+  },
+  {
+    "index": 224,
+    "doknr": "BJNR013010961BJNE017401123",
+    "enbez": "§ 135",
+    "gliederung": null,
+    "titel": "Mündliche Verhandlung",
+    "sha256_xml_text": "55a7128a29b88580375b8ebd29fa7e561422c49a330ce3d1500142c3f16a10d3"
+  },
+  {
+    "index": 225,
+    "doknr": "BJNR013010961BJNE017500319",
+    "enbez": "§ 136",
+    "gliederung": null,
+    "titel": "Abstimmung über das Verbot",
+    "sha256_xml_text": "e5168e969d7dd12bb56adf94d1988d1096449a6c7e2e740c13dd0733a23fb9d9"
+  },
+  {
+    "index": 226,
+    "doknr": "BJNR013010961BJNE017602123",
+    "enbez": "§ 137",
+    "gliederung": null,
+    "titel": "Verbot im Anschluss an die Hauptverhandlung",
+    "sha256_xml_text": "841d459475844b367ffdf1ea0b2e5113c518c47ab251535b5f074f7740233fb4"
+  },
+  {
+    "index": 227,
+    "doknr": "BJNR013010961BJNE017701123",
+    "enbez": "§ 138",
+    "gliederung": null,
+    "titel": "Zustellung des Beschlusses",
+    "sha256_xml_text": "ff67a9135babee9b05fa0d74e59a6adba134e6c5d73968ab66ea6ef8e70d7aae"
+  },
+  {
+    "index": 228,
+    "doknr": "BJNR013010961BJNE017801123",
+    "enbez": "§ 139",
+    "gliederung": null,
+    "titel": "Wirkungen des Verbots",
+    "sha256_xml_text": "1990bde8d3cbbb65c45a7a5b0846b592a935ed6fff0e2775a9a5411c65a74694"
+  },
+  {
+    "index": 229,
+    "doknr": "BJNR013010961BJNE017901123",
+    "enbez": "§ 140",
+    "gliederung": null,
+    "titel": "Zuwiderhandlungen gegen das Verbot",
+    "sha256_xml_text": "7b85295486d88488aae66e6bad52d4b6c99f12a6f850d964b6422f9ed93e9088"
+  },
+  {
+    "index": 230,
+    "doknr": "BJNR013010961BJNE018000319",
+    "enbez": "§ 141",
+    "gliederung": null,
+    "titel": "Beschwerde",
+    "sha256_xml_text": "b96a5100c2dc7ba8aa6cbc13e500cea9ccce9bbba8a5adb534e6ba3649ec38c3"
+  },
+  {
+    "index": 231,
+    "doknr": "BJNR013010961BJNE018101123",
+    "enbez": "§ 142",
+    "gliederung": null,
+    "titel": "Außerkrafttreten des Verbots",
+    "sha256_xml_text": "426d592c7117525fd1842033bc6b188f6d3d3f724b963fed08dd2bf24f8f821d"
+  },
+  {
+    "index": 232,
+    "doknr": "BJNR013010961BJNE018201123",
+    "enbez": "§ 143",
+    "gliederung": null,
+    "titel": "Aufhebung des Verbots",
+    "sha256_xml_text": "a149ceb34a5ac3135784774026c37ac2891a9712883acf802f3b91b22c9015b7"
+  },
+  {
+    "index": 233,
+    "doknr": "BJNR013010961BJNE018301301",
+    "enbez": "§ 144",
+    "gliederung": null,
+    "titel": "Mitteilung des Verbots",
+    "sha256_xml_text": "246f990210e387d1bb4611a27572c961ae2f893c9abab44e577127465317ec07"
+  },
+  {
+    "index": 234,
+    "doknr": "BJNR013010961BJNE018403123",
+    "enbez": "§ 145",
+    "gliederung": null,
+    "titel": "Bestellung eines Vertreters",
+    "sha256_xml_text": "f7cafbd42696c51d9d980d63d9581eacb33b58bccbaa7ab076757230d8272407"
+  },
+  {
+    "index": 235,
+    "doknr": "BJNR013010961BJNG003100319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050040",
+      "gliederungsbez": "Vierter Unterabschnitt",
+      "gliederungstitel": "Die Kosten in dem\nberufsgerichtlichen und in dem\nVerfahren bei Anträgen auf berufsgerichtliche Entscheidung über\ndie Rüge. Die Vollstreckung der berufsgerichtlichen Maßnahmen\nund der Kosten. Die Tilgung."
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 236,
+    "doknr": "BJNR013010961BJNE018502123",
+    "enbez": "§ 146",
+    "gliederung": null,
+    "titel": "Gerichtskosten",
+    "sha256_xml_text": "a44b42c1eef6cf445573b16e44531e69485469e309b1e955cc843227fb8a663f"
+  },
+  {
+    "index": 237,
+    "doknr": "BJNR013010961BJNE018602123",
+    "enbez": "§ 147",
+    "gliederung": null,
+    "titel": "Kosten bei Anträgen auf Einleitung des berufsgerichtlichen Verfahrens",
+    "sha256_xml_text": "6ec07d13a1e133f295df659835e03fcec13dfa1c532719a51a9fa9d742b23453"
+  },
+  {
+    "index": 238,
+    "doknr": "BJNR013010961BJNE018702123",
+    "enbez": "§ 148",
+    "gliederung": null,
+    "titel": "Kostenpflicht des Verurteilten",
+    "sha256_xml_text": "3bc5b7e2f4bab6289a58ba48267a4604e509432406e1cba41921ca3e586bd604"
+  },
+  {
+    "index": 239,
+    "doknr": "BJNR013010961BJNE018802123",
+    "enbez": "§ 149",
+    "gliederung": null,
+    "titel": "Kostenpflicht in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge",
+    "sha256_xml_text": "795cdc2dfcd44a2df052c6f1d0019b2733ce7f7adaa1fbd2849ea43c4bf27643"
+  },
+  {
+    "index": 240,
+    "doknr": "BJNR013010961BJNE018903123",
+    "enbez": "§ 150",
+    "gliederung": null,
+    "titel": "Haftung der Steuerberaterkammer",
+    "sha256_xml_text": "b2fa72afc030d76e9123f1d28bdc5584444830cbee868c09cd68935e6312e265"
+  },
+  {
+    "index": 241,
+    "doknr": "BJNR013010961BJNE019002123",
+    "enbez": "§ 151",
+    "gliederung": null,
+    "titel": "Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten",
+    "sha256_xml_text": "35a05d58ffccf450cf500a9f14c8fd1574c1d58cacb109d734f44caa50fa857a"
+  },
+  {
+    "index": 242,
+    "doknr": "BJNR013010961BJNE019103123",
+    "enbez": "§ 152",
+    "gliederung": null,
+    "titel": "Tilgung",
+    "sha256_xml_text": "4886e0953b76924bde2c24d6cff74f61a677761b95961aac0366e632bab07317"
+  },
+  {
+    "index": 243,
+    "doknr": "BJNR013010961BJNG003202301",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020050050",
+      "gliederungsbez": "Fünfter Unterabschnitt",
+      "gliederungstitel": "Für die\nBerufsgerichtsbarkeit anzuwendende Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 244,
+    "doknr": "BJNR013010961BJNE019204123",
+    "enbez": "§ 153",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "4b57a62b2889c2d527303b15065ac48b6c6f4aec998be917cd444ff27631f77c"
+  },
+  {
+    "index": 245,
+    "doknr": "BJNR013010961BJNG003301301",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020060",
+      "gliederungsbez": "Sechster Abschnitt",
+      "gliederungstitel": "Übergangsvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 246,
+    "doknr": "BJNR013010961BJNE019305123",
+    "enbez": "§ 154",
+    "gliederung": null,
+    "titel": "Bestehende Gesellschaften",
+    "sha256_xml_text": "fb30058608e4d539d9543f57733ea92d9877c7bd5be59d7766d7aeb566396545"
+  },
+  {
+    "index": 247,
+    "doknr": "BJNR013010961BJNE019405123",
+    "enbez": "§ 155",
+    "gliederung": null,
+    "titel": "Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung des Steuerberatungsgesetzes",
+    "sha256_xml_text": "3f3565b40f8a3ddccfc4c4f48406988c519d382fcdf3346f6c6abb9ca5e8c08a"
+  },
+  {
+    "index": 248,
+    "doknr": "BJNR013010961BJNE019502123",
+    "enbez": "§ 156",
+    "gliederung": null,
+    "titel": "Übergangsvorschriften aus Anlass des Sechsten Gesetzes zur Änderung des Steuerberatungsgesetzes",
+    "sha256_xml_text": "cbda618b3e1699e07ed345444e92790490daa02cf2a014ae580c863b63acf537"
+  },
+  {
+    "index": 249,
+    "doknr": "BJNR013010961BJNE019605140",
+    "enbez": "§ 157",
+    "gliederung": null,
+    "titel": "Übergangsvorschriften aus Anlass des Gesetzes zur Änderung von Vorschriften über die Tätigkeit der Steuerberater",
+    "sha256_xml_text": "282e9f91e4419d53fb89e11c5f073c236ddb5f1250d5888d424e519b019fa604"
+  },
+  {
+    "index": 250,
+    "doknr": "BJNR013010961BJNE023501123",
+    "enbez": "§ 157a",
+    "gliederung": null,
+    "titel": "Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft",
+    "sha256_xml_text": "2216778c29d6ce98d293f2cdba6b930c30be49305112c2ff5c99a092260903d9"
+  },
+  {
+    "index": 251,
+    "doknr": "BJNR013010961BJNE022402140",
+    "enbez": "§ 157b",
+    "gliederung": null,
+    "titel": "Anwendungsvorschrift",
+    "sha256_xml_text": "795d082f61e98329194e0af638becf84361af5144fc73e12ac1fd35494cb737f"
+  },
+  {
+    "index": 252,
+    "doknr": "BJNR013010961BJNE024600123",
+    "enbez": "§ 157c",
+    "gliederung": null,
+    "titel": "Anwendungsvorschrift zu § 36 Absatz 2",
+    "sha256_xml_text": "df48b3bfb2507936f1e35db536de926b7a850f4345c94c189e4e8f7c6e2f833c"
+  },
+  {
+    "index": 253,
+    "doknr": "BJNR013010961BJNE028101123",
+    "enbez": "§ 157d",
+    "gliederung": null,
+    "titel": "Anwendungsvorschrift aus Anlass des Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe",
+    "sha256_xml_text": "59f28b90d1d6eacb8a455596155775e85dd22249c2fe5842c370e2f935ec45c0"
+  },
+  {
+    "index": 254,
+    "doknr": "BJNR013010961BJNG003400319",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020070",
+      "gliederungsbez": "Siebenter Abschnitt",
+      "gliederungstitel": "Verordnungsermächtigung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 255,
+    "doknr": "BJNR013010961BJNE019706123",
+    "enbez": "§ 158",
+    "gliederung": null,
+    "titel": "Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften",
+    "sha256_xml_text": "7fb842b988b448b2fdc47ac6340a98be0ad6da44dcbd52348de55e5cdbd8993c"
+  },
+  {
+    "index": 256,
+    "doknr": "BJNR013010961BJNG003501309",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030",
+      "gliederungsbez": "Dritter Teil",
+      "gliederungstitel": "Zwangsmittel, Ordnungswidrigkeiten"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 257,
+    "doknr": "BJNR013010961BJNE019801309",
+    "enbez": "§ 159",
+    "gliederung": null,
+    "titel": "Zwangsmittel",
+    "sha256_xml_text": "800587a821722d8ac4de8f3674ac4bbc30045137e9d1af279efa89f04ec50a33"
+  },
+  {
+    "index": 258,
+    "doknr": "BJNR013010961BJNE019905123",
+    "enbez": "§ 160",
+    "gliederung": null,
+    "titel": "Bußgeldvorschriften",
+    "sha256_xml_text": "cfb19fe8e4dba66e086a2fa1518af957acd756e143d7bf96996f770ad8ed95c1"
+  },
+  {
+    "index": 259,
+    "doknr": "BJNR013010961BJNE020002123",
+    "enbez": "(XXXX) §§ 161 bis 164",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 260,
+    "doknr": "BJNR013010961BJNG003801123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040",
+      "gliederungsbez": "Vierter Teil",
+      "gliederungstitel": "Schlussvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 261,
+    "doknr": "BJNR013010961BJNE020408123",
+    "enbez": "§ 164a",
+    "gliederung": null,
+    "titel": "Verwaltungsverfahren und finanzgerichtliches Verfahren",
+    "sha256_xml_text": "841177f19aca22ca3f538fad09567abfe15a8b010fcb5c95251a4b3f84e73c98"
+  },
+  {
+    "index": 262,
+    "doknr": "BJNR013010961BJNE022500301",
+    "enbez": "§ 164b",
+    "gliederung": null,
+    "titel": "Gebühren",
+    "sha256_xml_text": "fca87fb27290e4d52dc7ed1b0f23f3e5c7a4b78ee38417649c5e43355ed7c386"
+  },
+  {
+    "index": 263,
+    "doknr": "BJNR013010961BJNE023700140",
+    "enbez": "§ 164c",
+    "gliederung": null,
+    "titel": "Laufbahngruppenregelungen der Länder",
+    "sha256_xml_text": "04a02518ae3a7838733a40a4b4578e5fbc6a8e25a34d0b3c8624aa215986bf65"
+  },
+  {
+    "index": 264,
+    "doknr": "BJNR013010961BJNE020501301",
+    "enbez": "§ 165",
+    "gliederung": null,
+    "titel": "Ermächtigung",
+    "sha256_xml_text": "404fb8ff4fbbbed4f7af83ebd9f905dd97984461e69a06680a33b3b16e02d5d8"
+  },
+  {
+    "index": 265,
+    "doknr": "BJNR013010961BJNE020601301",
+    "enbez": "§ 166",
+    "gliederung": null,
+    "titel": "Fortgeltung bisheriger Vorschriften",
+    "sha256_xml_text": "7cfcadaabf35d3d487b345a67feaf78d6ccb81ef23571a5bd021a4f00a1e77c1"
+  },
+  {
+    "index": 266,
+    "doknr": "BJNR013010961BJNE020701301",
+    "enbez": "§ 167",
+    "gliederung": null,
+    "titel": "Freie und Hansestadt Hamburg",
+    "sha256_xml_text": "123e1f9ccb7502973007c3ab72037f7c8116b08b1c9dfe4fc01928694e797a5a"
+  },
+  {
+    "index": 267,
+    "doknr": "BJNR013010961BJNE020800319",
+    "enbez": "§ 168",
+    "gliederung": null,
+    "titel": "Inkrafttreten des Gesetzes",
+    "sha256_xml_text": "6f1eb1b0629828fd24423d6b94f6d22d54fa2f8088856c07bc085c2d29c64bd7"
+  },
+  {
+    "index": 268,
+    "doknr": "BJNR013010961BJNE028401123",
+    "enbez": "Anlage 1",
+    "gliederung": null,
+    "titel": "(zu § 85a Absatz 3a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen",
+    "sha256_xml_text": "41dc787b7da3d07bc7322eef304d5c95bba5bd90b84863f06bf8e7425f1ce8e8"
+  },
+  {
+    "index": 269,
+    "doknr": "BJNR013010961BJNE023103123",
+    "enbez": "Anlage 2",
+    "gliederung": null,
+    "titel": "(zu § 146 Satz 1)Gebührenverzeichnis",
+    "sha256_xml_text": "d177bf027b6b596fceac53815f8135d9f284f1c52e23fa872b678643570d911f"
+  }
+]

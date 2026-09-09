@@ -1,0 +1,272 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR109650973",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR109650973BJNE005500123",
+    "enbez": "Inhaltsübersicht",
+    "titel": ""
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR109650973BJNG000100314",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR109650973BJNE000600314",
+    "enbez": "§ 1",
+    "titel": "Heberecht"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR109650973BJNE000702123",
+    "enbez": "§ 2",
+    "titel": "Steuergegenstand"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR109650973BJNE000806308",
+    "enbez": "§ 3",
+    "titel": "Steuerbefreiung für Grundbesitz bestimmter Rechtsträger"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR109650973BJNE000902123",
+    "enbez": "§ 4",
+    "titel": "Sonstige Steuerbefreiungen"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR109650973BJNE001001301",
+    "enbez": "§ 5",
+    "titel": "Zu Wohnzwecken benutzter Grundbesitz"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR109650973BJNE001100314",
+    "enbez": "§ 6",
+    "titel": "Land- und forstwirtschaftlich genutzter Grundbesitz"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR109650973BJNE001200314",
+    "enbez": "§ 7",
+    "titel": "Unmittelbare Benutzung für einen steuerbegünstigten Zweck"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR109650973BJNE001300314",
+    "enbez": "§ 8",
+    "titel": "Teilweise Benutzung für einen steuerbegünstigten Zweck"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR109650973BJNE001400314",
+    "enbez": "§ 9",
+    "titel": "Stichtag für die Festsetzung der Grundsteuer,\nEntstehung der Steuer"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR109650973BJNE001501123",
+    "enbez": "§ 10",
+    "titel": "Steuerschuldner"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR109650973BJNE001601301",
+    "enbez": "§ 11",
+    "titel": "Persönliche Haftung"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR109650973BJNE001700314",
+    "enbez": "§ 12",
+    "titel": "Dingliche Haftung"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR109650973BJNG000200314",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR109650973BJNE001803123",
+    "enbez": "§ 13",
+    "titel": "Steuermesszahl und Steuermessbetrag"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR109650973BJNE001901123",
+    "enbez": "§ 14",
+    "titel": "Steuermeßzahl für Betriebe der Land- und Forstwirtschaft"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR109650973BJNE002004123",
+    "enbez": "§ 15",
+    "titel": "Steuermesszahl für Grundstücke"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR109650973BJNE002101123",
+    "enbez": "§ 16",
+    "titel": "Hauptveranlagung"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR109650973BJNE002202123",
+    "enbez": "§ 17",
+    "titel": "Neuveranlagung"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR109650973BJNE002302123",
+    "enbez": "§ 18",
+    "titel": "Nachveranlagung"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR109650973BJNE002404123",
+    "enbez": "§ 19",
+    "titel": "Anzeigepflicht"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR109650973BJNE002501123",
+    "enbez": "§ 20",
+    "titel": "Aufhebung des Steuermeßbetrags"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR109650973BJNE002600314",
+    "enbez": "§ 21",
+    "titel": "Änderung von Steuermeßbescheiden"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR109650973BJNE002702123",
+    "enbez": "§ 22",
+    "titel": "Zerlegung des Steuermessbetrags"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR109650973BJNE002802123",
+    "enbez": "§ 23",
+    "titel": "Zerlegungsstichtag"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR109650973BJNE002900314",
+    "enbez": "§ 24",
+    "titel": "Ersatz der Zerlegung durch Steuerausgleich"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR109650973BJNG000300314",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR109650973BJNE003001123",
+    "enbez": "§ 25",
+    "titel": "Festsetzung des Hebesatzes"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR109650973BJNE003101301",
+    "enbez": "§ 26",
+    "titel": "Koppelungsvorschriften und Höchsthebesätze"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR109650973BJNE003200314",
+    "enbez": "§ 27",
+    "titel": "Festsetzung der Grundsteuer"
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR109650973BJNE003301301",
+    "enbez": "§ 28",
+    "titel": "Fälligkeit"
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR109650973BJNE003400314",
+    "enbez": "§ 29",
+    "titel": "Vorauszahlungen"
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR109650973BJNE003500314",
+    "enbez": "§ 30",
+    "titel": "Abrechnung über die Vorauszahlungen"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR109650973BJNE003600314",
+    "enbez": "§ 31",
+    "titel": "Nachentrichtung der Steuer"
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR109650973BJNG000400314",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR109650973BJNE003700314",
+    "enbez": "§ 32",
+    "titel": "Erlaß für Kulturgut und Grünanlagen"
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR109650973BJNE003803123",
+    "enbez": "§ 33",
+    "titel": "Erlass wegen wesentlicher Reinertragsminderung bei Betrieben der Land- und Forstwirtschaft"
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR109650973BJNE005300123",
+    "enbez": "§ 34",
+    "titel": "Erlass wegen wesentlicher Ertragsminderung bei bebauten Grundstücken"
+  },
+  {
+    "index": 40,
+    "doknr": "BJNR109650973BJNE003901123",
+    "enbez": "§ 35",
+    "titel": "Verfahren"
+  },
+  {
+    "index": 41,
+    "doknr": "BJNR109650973BJNG000700123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 42,
+    "doknr": "BJNR109650973BJNE004104123",
+    "enbez": "§ 36",
+    "titel": "Sondervorschriften für die Hauptveranlagung 2025"
+  },
+  {
+    "index": 43,
+    "doknr": "BJNR109650973BJNE004309123",
+    "enbez": "§ 37",
+    "titel": "Anwendung des Gesetzes"
+  },
+  {
+    "index": 44,
+    "doknr": "BJNR109650973BJNE005400123",
+    "enbez": "§ 38",
+    "titel": "Bekanntmachung"
+  }
+]

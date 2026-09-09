@@ -1,0 +1,292 @@
+{
+  "kuerzel": "UWG",
+  "methode": "Unabhängiger Vergleich jedes vollständigen Markdown-Normabschnitts einschließlich Überschrift, Fließtext und Fußnoten; zusätzlich jede Tabellenzelle in Reihenfolge, Tabellen- und Zeilenzahl. Gerendertes Gesamtdokument wird nach Normankern aufgeteilt. Ausnahmen nur NFC/Leerraum, redaktionelle Fußnotenmarker und generische Spaltenüberschriften.",
+  "gepruefte_normen_ohne_metadatenkopf": 35,
+  "normreihenfolge_vollstaendig": true,
+  "alle_normen_identisch": true,
+  "alle_tabellenzellen_identisch": true,
+  "alle_links_gueltig": true,
+  "sha256_markdown": "d8b055bfbf399b91091ffa6baa94dcf1fbb3aba107204cda18143af6735a6703",
+  "normen": [
+    {
+      "index": 1,
+      "norm": "010Kapitel 1Allgemeine Bestimmungen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 2,
+      "norm": "§ 1",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 3,
+      "norm": "§ 2",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 4,
+      "norm": "§ 3",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 5,
+      "norm": "§ 3a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 6,
+      "norm": "§ 4",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 7,
+      "norm": "§ 4a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 8,
+      "norm": "§ 5",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 9,
+      "norm": "§ 5a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 10,
+      "norm": "§ 5b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 11,
+      "norm": "§ 5c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 12,
+      "norm": "§ 6",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 13,
+      "norm": "§ 7",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 14,
+      "norm": "§ 7a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 15,
+      "norm": "020Kapitel 2Rechtsfolgen",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 16,
+      "norm": "§ 8",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 17,
+      "norm": "§ 8a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 18,
+      "norm": "§ 8b",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 19,
+      "norm": "§ 8c",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 20,
+      "norm": "§ 9",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 21,
+      "norm": "§ 10",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 22,
+      "norm": "§ 11",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 23,
+      "norm": "030Kapitel 3Verfahrensvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 24,
+      "norm": "§ 12",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 25,
+      "norm": "§ 13",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 26,
+      "norm": "§ 13a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 27,
+      "norm": "§ 14",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 28,
+      "norm": "§ 15",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 29,
+      "norm": "§ 15a",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 30,
+      "norm": "040Kapitel 4Straf- und Bußgeldvorschriften",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 31,
+      "norm": "§ 16",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 32,
+      "norm": "§§ 17 u. 18",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 33,
+      "norm": "§ 19",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 34,
+      "norm": "§ 20",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    },
+    {
+      "index": 35,
+      "norm": "Anhang",
+      "vollstaendiger_text_identisch": true,
+      "tabellenzellen_identisch": true,
+      "zeilen_identisch": true,
+      "tabellen_identisch": true
+    }
+  ]
+}

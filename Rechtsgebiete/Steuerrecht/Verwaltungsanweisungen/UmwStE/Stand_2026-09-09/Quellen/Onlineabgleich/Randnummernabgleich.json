@@ -1,0 +1,5150 @@
+[
+ {
+  "rn": "00.01",
+  "zeile_kopie": 1356,
+  "pdf_seite": 9,
+  "zeichen_kopie": 573,
+  "zeichen_pdf": 573,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "00.02",
+  "zeile_kopie": 1359,
+  "pdf_seite": 9,
+  "zeichen_kopie": 555,
+  "zeichen_pdf": 555,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "00.03",
+  "zeile_kopie": 1361,
+  "pdf_seite": 9,
+  "zeichen_kopie": 445,
+  "zeichen_pdf": 445,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "00.04",
+  "zeile_kopie": 1363,
+  "pdf_seite": 9,
+  "zeichen_kopie": 173,
+  "zeichen_pdf": 173,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "00.04a",
+  "zeile_kopie": 1366,
+  "pdf_seite": 10,
+  "zeichen_kopie": 317,
+  "zeichen_pdf": 317,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.01",
+  "zeile_kopie": 1371,
+  "pdf_seite": 10,
+  "zeichen_kopie": 282,
+  "zeichen_pdf": 282,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.02",
+  "zeile_kopie": 1373,
+  "pdf_seite": 10,
+  "zeichen_kopie": 799,
+  "zeichen_pdf": 799,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.02a",
+  "zeile_kopie": 1375,
+  "pdf_seite": 10,
+  "zeichen_kopie": 103,
+  "zeichen_pdf": 103,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.03",
+  "zeile_kopie": 1380,
+  "pdf_seite": 10,
+  "zeichen_kopie": 371,
+  "zeichen_pdf": 371,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.04",
+  "zeile_kopie": 1382,
+  "pdf_seite": 10,
+  "zeichen_kopie": 638,
+  "zeichen_pdf": 638,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.05",
+  "zeile_kopie": 1394,
+  "pdf_seite": 10,
+  "zeichen_kopie": 704,
+  "zeichen_pdf": 704,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.06",
+  "zeile_kopie": 1402,
+  "pdf_seite": 10,
+  "zeichen_kopie": 744,
+  "zeichen_pdf": 744,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.07",
+  "zeile_kopie": 1416,
+  "pdf_seite": 10,
+  "zeichen_kopie": 802,
+  "zeichen_pdf": 802,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.08",
+  "zeile_kopie": 1421,
+  "pdf_seite": 10,
+  "zeichen_kopie": 444,
+  "zeichen_pdf": 444,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.09",
+  "zeile_kopie": 1423,
+  "pdf_seite": 11,
+  "zeichen_kopie": 270,
+  "zeichen_pdf": 270,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.10",
+  "zeile_kopie": 1425,
+  "pdf_seite": 11,
+  "zeichen_kopie": 1097,
+  "zeichen_pdf": 53,
+  "aehnlichkeit": 0.0922,
+  "klasse": "deutliche_abweichung"
+ },
+ {
+  "rn": "01.11",
+  "zeile_kopie": 1834,
+  "pdf_seite": 11,
+  "zeichen_kopie": 447,
+  "zeichen_pdf": 447,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.12",
+  "zeile_kopie": 1836,
+  "pdf_seite": 11,
+  "zeichen_kopie": 905,
+  "zeichen_pdf": 231,
+  "aehnlichkeit": 0.4067,
+  "klasse": "deutliche_abweichung"
+ },
+ {
+  "rn": "01.13",
+  "zeile_kopie": 2033,
+  "pdf_seite": 12,
+  "zeichen_kopie": 84,
+  "zeichen_pdf": 84,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.14",
+  "zeile_kopie": 2041,
+  "pdf_seite": 12,
+  "zeichen_kopie": 366,
+  "zeichen_pdf": 366,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.15",
+  "zeile_kopie": 2043,
+  "pdf_seite": 12,
+  "zeichen_kopie": 523,
+  "zeichen_pdf": 523,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.16",
+  "zeile_kopie": 2045,
+  "pdf_seite": 12,
+  "zeichen_kopie": 262,
+  "zeichen_pdf": 262,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.17",
+  "zeile_kopie": 2047,
+  "pdf_seite": 12,
+  "zeichen_kopie": 1625,
+  "zeichen_pdf": 46,
+  "aehnlichkeit": 0.0551,
+  "klasse": "deutliche_abweichung"
+ },
+ {
+  "rn": "01.18",
+  "zeile_kopie": 2444,
+  "pdf_seite": 13,
+  "zeichen_kopie": 398,
+  "zeichen_pdf": 398,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.19",
+  "zeile_kopie": 2446,
+  "pdf_seite": 13,
+  "zeichen_kopie": 650,
+  "zeichen_pdf": 64,
+  "aehnlichkeit": 0.1793,
+  "klasse": "deutliche_abweichung"
+ },
+ {
+  "rn": "01.20",
+  "zeile_kopie": 2575,
+  "pdf_seite": 13,
+  "zeichen_kopie": 840,
+  "zeichen_pdf": 840,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.21",
+  "zeile_kopie": 2587,
+  "pdf_seite": 13,
+  "zeichen_kopie": 527,
+  "zeichen_pdf": 527,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.22",
+  "zeile_kopie": 2589,
+  "pdf_seite": 13,
+  "zeichen_kopie": 576,
+  "zeichen_pdf": 576,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.23",
+  "zeile_kopie": 2600,
+  "pdf_seite": 13,
+  "zeichen_kopie": 450,
+  "zeichen_pdf": 450,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.24",
+  "zeile_kopie": 2603,
+  "pdf_seite": 13,
+  "zeichen_kopie": 704,
+  "zeichen_pdf": 704,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.25",
+  "zeile_kopie": 2613,
+  "pdf_seite": 13,
+  "zeichen_kopie": 1236,
+  "zeichen_pdf": 1236,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.26",
+  "zeile_kopie": 2626,
+  "pdf_seite": 14,
+  "zeichen_kopie": 668,
+  "zeichen_pdf": 668,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.27",
+  "zeile_kopie": 2630,
+  "pdf_seite": 14,
+  "zeichen_kopie": 1055,
+  "zeichen_pdf": 1055,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.28",
+  "zeile_kopie": 2632,
+  "pdf_seite": 14,
+  "zeichen_kopie": 139,
+  "zeichen_pdf": 139,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.29",
+  "zeile_kopie": 2635,
+  "pdf_seite": 14,
+  "zeichen_kopie": 150,
+  "zeichen_pdf": 150,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.30",
+  "zeile_kopie": 2638,
+  "pdf_seite": 14,
+  "zeichen_kopie": 462,
+  "zeichen_pdf": 462,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.31",
+  "zeile_kopie": 2650,
+  "pdf_seite": 14,
+  "zeichen_kopie": 771,
+  "zeichen_pdf": 771,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.32",
+  "zeile_kopie": 2654,
+  "pdf_seite": 14,
+  "zeichen_kopie": 984,
+  "zeichen_pdf": 984,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.33",
+  "zeile_kopie": 2667,
+  "pdf_seite": 15,
+  "zeichen_kopie": 397,
+  "zeichen_pdf": 397,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.34",
+  "zeile_kopie": 2679,
+  "pdf_seite": 15,
+  "zeichen_kopie": 829,
+  "zeichen_pdf": 829,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.35",
+  "zeile_kopie": 2683,
+  "pdf_seite": 15,
+  "zeichen_kopie": 172,
+  "zeichen_pdf": 172,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.36",
+  "zeile_kopie": 2686,
+  "pdf_seite": 15,
+  "zeichen_kopie": 405,
+  "zeichen_pdf": 405,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.37",
+  "zeile_kopie": 2698,
+  "pdf_seite": 15,
+  "zeichen_kopie": 219,
+  "zeichen_pdf": 219,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.38",
+  "zeile_kopie": 2700,
+  "pdf_seite": 15,
+  "zeichen_kopie": 364,
+  "zeichen_pdf": 364,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.38a",
+  "zeile_kopie": 2703,
+  "pdf_seite": 15,
+  "zeichen_kopie": 540,
+  "zeichen_pdf": 541,
+  "aehnlichkeit": 0.9991,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.38b",
+  "zeile_kopie": 2707,
+  "pdf_seite": 15,
+  "zeichen_kopie": 1184,
+  "zeichen_pdf": 1149,
+  "aehnlichkeit": 0.985,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "01.39",
+  "zeile_kopie": 2713,
+  "pdf_seite": 15,
+  "zeichen_kopie": 1196,
+  "zeichen_pdf": 1232,
+  "aehnlichkeit": 0.9852,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "01.40",
+  "zeile_kopie": 2724,
+  "pdf_seite": 16,
+  "zeichen_kopie": 374,
+  "zeichen_pdf": 374,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.41",
+  "zeile_kopie": 2726,
+  "pdf_seite": 16,
+  "zeichen_kopie": 141,
+  "zeichen_pdf": 141,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.42",
+  "zeile_kopie": 2729,
+  "pdf_seite": 16,
+  "zeichen_kopie": 374,
+  "zeichen_pdf": 374,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.43",
+  "zeile_kopie": 2732,
+  "pdf_seite": 16,
+  "zeichen_kopie": 1418,
+  "zeichen_pdf": 1418,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.44",
+  "zeile_kopie": 2747,
+  "pdf_seite": 16,
+  "zeichen_kopie": 1907,
+  "zeichen_pdf": 1907,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.45",
+  "zeile_kopie": 2769,
+  "pdf_seite": 16,
+  "zeichen_kopie": 141,
+  "zeichen_pdf": 141,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.46",
+  "zeile_kopie": 2772,
+  "pdf_seite": 16,
+  "zeichen_kopie": 901,
+  "zeichen_pdf": 901,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.47",
+  "zeile_kopie": 2787,
+  "pdf_seite": 17,
+  "zeichen_kopie": 3390,
+  "zeichen_pdf": 3391,
+  "aehnlichkeit": 0.9999,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.48",
+  "zeile_kopie": 2813,
+  "pdf_seite": 17,
+  "zeichen_kopie": 95,
+  "zeichen_pdf": 95,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.48a",
+  "zeile_kopie": 2816,
+  "pdf_seite": 17,
+  "zeichen_kopie": 25,
+  "zeichen_pdf": 25,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.49",
+  "zeile_kopie": 2821,
+  "pdf_seite": 17,
+  "zeichen_kopie": 515,
+  "zeichen_pdf": 515,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.50",
+  "zeile_kopie": 2823,
+  "pdf_seite": 17,
+  "zeichen_kopie": 708,
+  "zeichen_pdf": 708,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.51",
+  "zeile_kopie": 2825,
+  "pdf_seite": 18,
+  "zeichen_kopie": 283,
+  "zeichen_pdf": 283,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.52",
+  "zeile_kopie": 2827,
+  "pdf_seite": 18,
+  "zeichen_kopie": 436,
+  "zeichen_pdf": 436,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.52a",
+  "zeile_kopie": 2830,
+  "pdf_seite": 18,
+  "zeichen_kopie": 491,
+  "zeichen_pdf": 491,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.53",
+  "zeile_kopie": 2833,
+  "pdf_seite": 18,
+  "zeichen_kopie": 2414,
+  "zeichen_pdf": 2418,
+  "aehnlichkeit": 0.9983,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.54",
+  "zeile_kopie": 2847,
+  "pdf_seite": 18,
+  "zeichen_kopie": 607,
+  "zeichen_pdf": 607,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.55",
+  "zeile_kopie": 2849,
+  "pdf_seite": 18,
+  "zeichen_kopie": 204,
+  "zeichen_pdf": 204,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.56",
+  "zeile_kopie": 2853,
+  "pdf_seite": 18,
+  "zeichen_kopie": 165,
+  "zeichen_pdf": 165,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "01.57",
+  "zeile_kopie": 2856,
+  "pdf_seite": 18,
+  "zeichen_kopie": 380,
+  "zeichen_pdf": 380,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.01",
+  "zeile_kopie": 2860,
+  "pdf_seite": 19,
+  "zeichen_kopie": 110,
+  "zeichen_pdf": 110,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.02",
+  "zeile_kopie": 2864,
+  "pdf_seite": 19,
+  "zeichen_kopie": 657,
+  "zeichen_pdf": 657,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.03",
+  "zeile_kopie": 2880,
+  "pdf_seite": 19,
+  "zeichen_kopie": 1326,
+  "zeichen_pdf": 1326,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.04",
+  "zeile_kopie": 2888,
+  "pdf_seite": 19,
+  "zeichen_kopie": 2466,
+  "zeichen_pdf": 2466,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.05",
+  "zeile_kopie": 2915,
+  "pdf_seite": 20,
+  "zeichen_kopie": 131,
+  "zeichen_pdf": 131,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.06",
+  "zeile_kopie": 2917,
+  "pdf_seite": 20,
+  "zeichen_kopie": 513,
+  "zeichen_pdf": 513,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.07",
+  "zeile_kopie": 2920,
+  "pdf_seite": 20,
+  "zeichen_kopie": 225,
+  "zeichen_pdf": 225,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.08",
+  "zeile_kopie": 2922,
+  "pdf_seite": 20,
+  "zeichen_kopie": 227,
+  "zeichen_pdf": 227,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.09",
+  "zeile_kopie": 2927,
+  "pdf_seite": 20,
+  "zeichen_kopie": 124,
+  "zeichen_pdf": 124,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.10",
+  "zeile_kopie": 2929,
+  "pdf_seite": 20,
+  "zeichen_kopie": 556,
+  "zeichen_pdf": 559,
+  "aehnlichkeit": 0.9955,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.11",
+  "zeile_kopie": 2931,
+  "pdf_seite": 20,
+  "zeichen_kopie": 504,
+  "zeichen_pdf": 504,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.12",
+  "zeile_kopie": 2933,
+  "pdf_seite": 20,
+  "zeichen_kopie": 743,
+  "zeichen_pdf": 743,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.13",
+  "zeile_kopie": 2945,
+  "pdf_seite": 20,
+  "zeichen_kopie": 1252,
+  "zeichen_pdf": 1252,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.14",
+  "zeile_kopie": 2951,
+  "pdf_seite": 21,
+  "zeichen_kopie": 153,
+  "zeichen_pdf": 153,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.15",
+  "zeile_kopie": 2953,
+  "pdf_seite": 21,
+  "zeichen_kopie": 241,
+  "zeichen_pdf": 241,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.16",
+  "zeile_kopie": 2955,
+  "pdf_seite": 21,
+  "zeichen_kopie": 365,
+  "zeichen_pdf": 365,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.17",
+  "zeile_kopie": 2958,
+  "pdf_seite": 21,
+  "zeichen_kopie": 614,
+  "zeichen_pdf": 614,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.18",
+  "zeile_kopie": 2960,
+  "pdf_seite": 21,
+  "zeichen_kopie": 1267,
+  "zeichen_pdf": 1267,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.19",
+  "zeile_kopie": 2976,
+  "pdf_seite": 21,
+  "zeichen_kopie": 802,
+  "zeichen_pdf": 802,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.20",
+  "zeile_kopie": 2980,
+  "pdf_seite": 21,
+  "zeichen_kopie": 612,
+  "zeichen_pdf": 612,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.21",
+  "zeile_kopie": 2982,
+  "pdf_seite": 21,
+  "zeichen_kopie": 1457,
+  "zeichen_pdf": 1457,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.22",
+  "zeile_kopie": 2996,
+  "pdf_seite": 22,
+  "zeichen_kopie": 404,
+  "zeichen_pdf": 404,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.23",
+  "zeile_kopie": 2999,
+  "pdf_seite": 22,
+  "zeichen_kopie": 488,
+  "zeichen_pdf": 488,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.24",
+  "zeile_kopie": 3001,
+  "pdf_seite": 22,
+  "zeichen_kopie": 525,
+  "zeichen_pdf": 526,
+  "aehnlichkeit": 0.999,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.25",
+  "zeile_kopie": 3008,
+  "pdf_seite": 22,
+  "zeichen_kopie": 377,
+  "zeichen_pdf": 378,
+  "aehnlichkeit": 0.9987,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.26",
+  "zeile_kopie": 3012,
+  "pdf_seite": 22,
+  "zeichen_kopie": 253,
+  "zeichen_pdf": 254,
+  "aehnlichkeit": 0.998,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.27",
+  "zeile_kopie": 3018,
+  "pdf_seite": 22,
+  "zeichen_kopie": 937,
+  "zeichen_pdf": 938,
+  "aehnlichkeit": 0.9995,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.28",
+  "zeile_kopie": 3026,
+  "pdf_seite": 22,
+  "zeichen_kopie": 1498,
+  "zeichen_pdf": 1498,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.29",
+  "zeile_kopie": 3038,
+  "pdf_seite": 22,
+  "zeichen_kopie": 289,
+  "zeichen_pdf": 290,
+  "aehnlichkeit": 0.9983,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.30",
+  "zeile_kopie": 3042,
+  "pdf_seite": 22,
+  "zeichen_kopie": 1357,
+  "zeichen_pdf": 1357,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.31",
+  "zeile_kopie": 3053,
+  "pdf_seite": 23,
+  "zeichen_kopie": 1109,
+  "zeichen_pdf": 1109,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.32",
+  "zeile_kopie": 3055,
+  "pdf_seite": 23,
+  "zeichen_kopie": 774,
+  "zeichen_pdf": 774,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.33",
+  "zeile_kopie": 3065,
+  "pdf_seite": 23,
+  "zeichen_kopie": 2642,
+  "zeichen_pdf": 2646,
+  "aehnlichkeit": 0.9951,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.34",
+  "zeile_kopie": 3150,
+  "pdf_seite": 24,
+  "zeichen_kopie": 1204,
+  "zeichen_pdf": 1204,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.35",
+  "zeile_kopie": 3156,
+  "pdf_seite": 24,
+  "zeichen_kopie": 360,
+  "zeichen_pdf": 360,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.36",
+  "zeile_kopie": 3159,
+  "pdf_seite": 24,
+  "zeichen_kopie": 465,
+  "zeichen_pdf": 465,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.37",
+  "zeile_kopie": 3162,
+  "pdf_seite": 24,
+  "zeichen_kopie": 865,
+  "zeichen_pdf": 865,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.38",
+  "zeile_kopie": 3169,
+  "pdf_seite": 24,
+  "zeichen_kopie": 512,
+  "zeichen_pdf": 512,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.39",
+  "zeile_kopie": 3172,
+  "pdf_seite": 24,
+  "zeichen_kopie": 575,
+  "zeichen_pdf": 575,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.40",
+  "zeile_kopie": 3174,
+  "pdf_seite": 24,
+  "zeichen_kopie": 309,
+  "zeichen_pdf": 309,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.40a",
+  "zeile_kopie": 3176,
+  "pdf_seite": 24,
+  "zeichen_kopie": 895,
+  "zeichen_pdf": 898,
+  "aehnlichkeit": 0.9972,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "02.40b",
+  "zeile_kopie": 3178,
+  "pdf_seite": 25,
+  "zeichen_kopie": 402,
+  "zeichen_pdf": 402,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.01",
+  "zeile_kopie": 3183,
+  "pdf_seite": 25,
+  "zeichen_kopie": 1544,
+  "zeichen_pdf": 1544,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.02",
+  "zeile_kopie": 3189,
+  "pdf_seite": 25,
+  "zeichen_kopie": 451,
+  "zeichen_pdf": 451,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.03",
+  "zeile_kopie": 3191,
+  "pdf_seite": 25,
+  "zeichen_kopie": 166,
+  "zeichen_pdf": 166,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.04",
+  "zeile_kopie": 3195,
+  "pdf_seite": 25,
+  "zeichen_kopie": 605,
+  "zeichen_pdf": 605,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.05",
+  "zeile_kopie": 3197,
+  "pdf_seite": 25,
+  "zeichen_kopie": 2118,
+  "zeichen_pdf": 2123,
+  "aehnlichkeit": 0.9988,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.06",
+  "zeile_kopie": 3219,
+  "pdf_seite": 26,
+  "zeichen_kopie": 235,
+  "zeichen_pdf": 235,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.07",
+  "zeile_kopie": 3223,
+  "pdf_seite": 26,
+  "zeichen_kopie": 1146,
+  "zeichen_pdf": 1146,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.08",
+  "zeile_kopie": 3227,
+  "pdf_seite": 26,
+  "zeichen_kopie": 218,
+  "zeichen_pdf": 218,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.09",
+  "zeile_kopie": 3229,
+  "pdf_seite": 26,
+  "zeichen_kopie": 1072,
+  "zeichen_pdf": 1062,
+  "aehnlichkeit": 0.97,
+  "klasse": "abweichung"
+ },
+ {
+  "rn": "03.09a",
+  "zeile_kopie": 3305,
+  "pdf_seite": 26,
+  "zeichen_kopie": 288,
+  "zeichen_pdf": 288,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.10",
+  "zeile_kopie": 3308,
+  "pdf_seite": 26,
+  "zeichen_kopie": 1082,
+  "zeichen_pdf": 1082,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.11",
+  "zeile_kopie": 3320,
+  "pdf_seite": 26,
+  "zeichen_kopie": 358,
+  "zeichen_pdf": 358,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.12",
+  "zeile_kopie": 3322,
+  "pdf_seite": 26,
+  "zeichen_kopie": 134,
+  "zeichen_pdf": 134,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.13",
+  "zeile_kopie": 3324,
+  "pdf_seite": 27,
+  "zeichen_kopie": 882,
+  "zeichen_pdf": 882,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.14",
+  "zeile_kopie": 3327,
+  "pdf_seite": 27,
+  "zeichen_kopie": 439,
+  "zeichen_pdf": 439,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.15",
+  "zeile_kopie": 3329,
+  "pdf_seite": 27,
+  "zeichen_kopie": 546,
+  "zeichen_pdf": 546,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.16",
+  "zeile_kopie": 3331,
+  "pdf_seite": 27,
+  "zeichen_kopie": 584,
+  "zeichen_pdf": 583,
+  "aehnlichkeit": 0.9991,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.17",
+  "zeile_kopie": 3333,
+  "pdf_seite": 27,
+  "zeichen_kopie": 925,
+  "zeichen_pdf": 925,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.18",
+  "zeile_kopie": 3340,
+  "pdf_seite": 27,
+  "zeichen_kopie": 1232,
+  "zeichen_pdf": 1230,
+  "aehnlichkeit": 0.9959,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.19",
+  "zeile_kopie": 3344,
+  "pdf_seite": 27,
+  "zeichen_kopie": 1223,
+  "zeichen_pdf": 1223,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.20",
+  "zeile_kopie": 3358,
+  "pdf_seite": 27,
+  "zeichen_kopie": 763,
+  "zeichen_pdf": 763,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.20a",
+  "zeile_kopie": 3360,
+  "pdf_seite": 28,
+  "zeichen_kopie": 264,
+  "zeichen_pdf": 264,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.21",
+  "zeile_kopie": 3363,
+  "pdf_seite": 28,
+  "zeichen_kopie": 1638,
+  "zeichen_pdf": 1638,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.22",
+  "zeile_kopie": 3369,
+  "pdf_seite": 28,
+  "zeichen_kopie": 357,
+  "zeichen_pdf": 357,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.23",
+  "zeile_kopie": 3371,
+  "pdf_seite": 28,
+  "zeichen_kopie": 2687,
+  "zeichen_pdf": 2674,
+  "aehnlichkeit": 0.9718,
+  "klasse": "abweichung"
+ },
+ {
+  "rn": "03.24",
+  "zeile_kopie": 3581,
+  "pdf_seite": 29,
+  "zeichen_kopie": 2256,
+  "zeichen_pdf": 2247,
+  "aehnlichkeit": 0.9567,
+  "klasse": "abweichung"
+ },
+ {
+  "rn": "03.25",
+  "zeile_kopie": 3730,
+  "pdf_seite": 30,
+  "zeichen_kopie": 546,
+  "zeichen_pdf": 546,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.26",
+  "zeile_kopie": 3732,
+  "pdf_seite": 30,
+  "zeichen_kopie": 137,
+  "zeichen_pdf": 137,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.27",
+  "zeile_kopie": 3735,
+  "pdf_seite": 30,
+  "zeichen_kopie": 1373,
+  "zeichen_pdf": 1373,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.28",
+  "zeile_kopie": 3741,
+  "pdf_seite": 30,
+  "zeichen_kopie": 414,
+  "zeichen_pdf": 414,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.29",
+  "zeile_kopie": 3743,
+  "pdf_seite": 30,
+  "zeichen_kopie": 812,
+  "zeichen_pdf": 812,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.30",
+  "zeile_kopie": 3745,
+  "pdf_seite": 30,
+  "zeichen_kopie": 757,
+  "zeichen_pdf": 757,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.31",
+  "zeile_kopie": 3750,
+  "pdf_seite": 30,
+  "zeichen_kopie": 749,
+  "zeichen_pdf": 749,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "03.32",
+  "zeile_kopie": 3758,
+  "pdf_seite": 30,
+  "zeichen_kopie": 181,
+  "zeichen_pdf": 181,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.01",
+  "zeile_kopie": 3762,
+  "pdf_seite": 30,
+  "zeichen_kopie": 761,
+  "zeichen_pdf": 761,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.02",
+  "zeile_kopie": 3764,
+  "pdf_seite": 30,
+  "zeichen_kopie": 244,
+  "zeichen_pdf": 244,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.03",
+  "zeile_kopie": 3766,
+  "pdf_seite": 31,
+  "zeichen_kopie": 494,
+  "zeichen_pdf": 494,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.04",
+  "zeile_kopie": 3768,
+  "pdf_seite": 31,
+  "zeichen_kopie": 279,
+  "zeichen_pdf": 279,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.05",
+  "zeile_kopie": 3771,
+  "pdf_seite": 31,
+  "zeichen_kopie": 660,
+  "zeichen_pdf": 660,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.06",
+  "zeile_kopie": 3773,
+  "pdf_seite": 31,
+  "zeichen_kopie": 466,
+  "zeichen_pdf": 466,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.07",
+  "zeile_kopie": 3775,
+  "pdf_seite": 31,
+  "zeichen_kopie": 604,
+  "zeichen_pdf": 604,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.08",
+  "zeile_kopie": 3777,
+  "pdf_seite": 31,
+  "zeichen_kopie": 332,
+  "zeichen_pdf": 332,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.09",
+  "zeile_kopie": 3781,
+  "pdf_seite": 31,
+  "zeichen_kopie": 161,
+  "zeichen_pdf": 161,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.10",
+  "zeile_kopie": 3783,
+  "pdf_seite": 31,
+  "zeichen_kopie": 1694,
+  "zeichen_pdf": 1691,
+  "aehnlichkeit": 0.9991,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.11",
+  "zeile_kopie": 3791,
+  "pdf_seite": 31,
+  "zeichen_kopie": 432,
+  "zeichen_pdf": 432,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.12",
+  "zeile_kopie": 3794,
+  "pdf_seite": 31,
+  "zeichen_kopie": 433,
+  "zeichen_pdf": 442,
+  "aehnlichkeit": 0.9897,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "04.13",
+  "zeile_kopie": 3797,
+  "pdf_seite": 32,
+  "zeichen_kopie": 555,
+  "zeichen_pdf": 555,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.14",
+  "zeile_kopie": 3800,
+  "pdf_seite": 32,
+  "zeichen_kopie": 90,
+  "zeichen_pdf": 90,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.15",
+  "zeile_kopie": 3802,
+  "pdf_seite": 32,
+  "zeichen_kopie": 679,
+  "zeichen_pdf": 679,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.16",
+  "zeile_kopie": 3804,
+  "pdf_seite": 32,
+  "zeichen_kopie": 703,
+  "zeichen_pdf": 703,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.17",
+  "zeile_kopie": 3806,
+  "pdf_seite": 32,
+  "zeichen_kopie": 287,
+  "zeichen_pdf": 287,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.18",
+  "zeile_kopie": 3810,
+  "pdf_seite": 32,
+  "zeichen_kopie": 303,
+  "zeichen_pdf": 303,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.19",
+  "zeile_kopie": 3813,
+  "pdf_seite": 32,
+  "zeichen_kopie": 309,
+  "zeichen_pdf": 309,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.20",
+  "zeile_kopie": 3815,
+  "pdf_seite": 32,
+  "zeichen_kopie": 875,
+  "zeichen_pdf": 875,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.21",
+  "zeile_kopie": 3821,
+  "pdf_seite": 32,
+  "zeichen_kopie": 255,
+  "zeichen_pdf": 255,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.22",
+  "zeile_kopie": 3823,
+  "pdf_seite": 32,
+  "zeichen_kopie": 359,
+  "zeichen_pdf": 359,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.23",
+  "zeile_kopie": 3826,
+  "pdf_seite": 32,
+  "zeichen_kopie": 859,
+  "zeichen_pdf": 859,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.24",
+  "zeile_kopie": 3828,
+  "pdf_seite": 32,
+  "zeichen_kopie": 2432,
+  "zeichen_pdf": 2432,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.25",
+  "zeile_kopie": 3843,
+  "pdf_seite": 33,
+  "zeichen_kopie": 382,
+  "zeichen_pdf": 382,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.26",
+  "zeile_kopie": 3846,
+  "pdf_seite": 33,
+  "zeichen_kopie": 155,
+  "zeichen_pdf": 155,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.27",
+  "zeile_kopie": 3849,
+  "pdf_seite": 33,
+  "zeichen_kopie": 7198,
+  "zeichen_pdf": 7221,
+  "aehnlichkeit": 0.9911,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "04.28",
+  "zeile_kopie": 4272,
+  "pdf_seite": 35,
+  "zeichen_kopie": 135,
+  "zeichen_pdf": 135,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.29",
+  "zeile_kopie": 4275,
+  "pdf_seite": 35,
+  "zeichen_kopie": 7641,
+  "zeichen_pdf": 7664,
+  "aehnlichkeit": 0.9978,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.30",
+  "zeile_kopie": 4675,
+  "pdf_seite": 37,
+  "zeichen_kopie": 846,
+  "zeichen_pdf": 846,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.31",
+  "zeile_kopie": 4686,
+  "pdf_seite": 38,
+  "zeichen_kopie": 247,
+  "zeichen_pdf": 247,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.32",
+  "zeile_kopie": 4689,
+  "pdf_seite": 38,
+  "zeichen_kopie": 122,
+  "zeichen_pdf": 122,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.33",
+  "zeile_kopie": 4691,
+  "pdf_seite": 38,
+  "zeichen_kopie": 489,
+  "zeichen_pdf": 489,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.34",
+  "zeile_kopie": 4694,
+  "pdf_seite": 38,
+  "zeichen_kopie": 1070,
+  "zeichen_pdf": 1070,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.35",
+  "zeile_kopie": 4698,
+  "pdf_seite": 38,
+  "zeichen_kopie": 276,
+  "zeichen_pdf": 276,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.36",
+  "zeile_kopie": 4701,
+  "pdf_seite": 38,
+  "zeichen_kopie": 386,
+  "zeichen_pdf": 386,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.37",
+  "zeile_kopie": 4704,
+  "pdf_seite": 38,
+  "zeichen_kopie": 17,
+  "zeichen_pdf": 17,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.38",
+  "zeile_kopie": 4706,
+  "pdf_seite": 38,
+  "zeichen_kopie": 238,
+  "zeichen_pdf": 238,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.39",
+  "zeile_kopie": 4709,
+  "pdf_seite": 38,
+  "zeichen_kopie": 168,
+  "zeichen_pdf": 168,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.40",
+  "zeile_kopie": 4712,
+  "pdf_seite": 38,
+  "zeichen_kopie": 120,
+  "zeichen_pdf": 120,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.41",
+  "zeile_kopie": 4714,
+  "pdf_seite": 38,
+  "zeichen_kopie": 244,
+  "zeichen_pdf": 244,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.42",
+  "zeile_kopie": 4716,
+  "pdf_seite": 38,
+  "zeichen_kopie": 202,
+  "zeichen_pdf": 202,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.43",
+  "zeile_kopie": 4718,
+  "pdf_seite": 38,
+  "zeichen_kopie": 488,
+  "zeichen_pdf": 488,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.44",
+  "zeile_kopie": 4723,
+  "pdf_seite": 39,
+  "zeichen_kopie": 181,
+  "zeichen_pdf": 181,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "04.45",
+  "zeile_kopie": 4725,
+  "pdf_seite": 39,
+  "zeichen_kopie": 138,
+  "zeichen_pdf": 138,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.01",
+  "zeile_kopie": 4729,
+  "pdf_seite": 39,
+  "zeichen_kopie": 318,
+  "zeichen_pdf": 318,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.02",
+  "zeile_kopie": 4731,
+  "pdf_seite": 39,
+  "zeichen_kopie": 120,
+  "zeichen_pdf": 120,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.03",
+  "zeile_kopie": 4734,
+  "pdf_seite": 39,
+  "zeichen_kopie": 162,
+  "zeichen_pdf": 162,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.04",
+  "zeile_kopie": 4736,
+  "pdf_seite": 39,
+  "zeichen_kopie": 616,
+  "zeichen_pdf": 616,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.05",
+  "zeile_kopie": 4740,
+  "pdf_seite": 39,
+  "zeichen_kopie": 805,
+  "zeichen_pdf": 805,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.06",
+  "zeile_kopie": 4742,
+  "pdf_seite": 39,
+  "zeichen_kopie": 816,
+  "zeichen_pdf": 816,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.07",
+  "zeile_kopie": 4758,
+  "pdf_seite": 39,
+  "zeichen_kopie": 611,
+  "zeichen_pdf": 611,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.07a",
+  "zeile_kopie": 4760,
+  "pdf_seite": 39,
+  "zeichen_kopie": 325,
+  "zeichen_pdf": 325,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.08",
+  "zeile_kopie": 4763,
+  "pdf_seite": 39,
+  "zeichen_kopie": 634,
+  "zeichen_pdf": 634,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.09",
+  "zeile_kopie": 4765,
+  "pdf_seite": 40,
+  "zeichen_kopie": 64,
+  "zeichen_pdf": 64,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.10",
+  "zeile_kopie": 4767,
+  "pdf_seite": 40,
+  "zeichen_kopie": 311,
+  "zeichen_pdf": 311,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.11",
+  "zeile_kopie": 4769,
+  "pdf_seite": 40,
+  "zeichen_kopie": 260,
+  "zeichen_pdf": 260,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "05.12",
+  "zeile_kopie": 4772,
+  "pdf_seite": 40,
+  "zeichen_kopie": 333,
+  "zeichen_pdf": 333,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.01",
+  "zeile_kopie": 4776,
+  "pdf_seite": 40,
+  "zeichen_kopie": 883,
+  "zeichen_pdf": 883,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.02",
+  "zeile_kopie": 4781,
+  "pdf_seite": 40,
+  "zeichen_kopie": 741,
+  "zeichen_pdf": 741,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.03",
+  "zeile_kopie": 4784,
+  "pdf_seite": 40,
+  "zeichen_kopie": 801,
+  "zeichen_pdf": 804,
+  "aehnlichkeit": 0.9981,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.04",
+  "zeile_kopie": 4787,
+  "pdf_seite": 40,
+  "zeichen_kopie": 347,
+  "zeichen_pdf": 347,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.05",
+  "zeile_kopie": 4789,
+  "pdf_seite": 40,
+  "zeichen_kopie": 223,
+  "zeichen_pdf": 223,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.06",
+  "zeile_kopie": 4791,
+  "pdf_seite": 40,
+  "zeichen_kopie": 578,
+  "zeichen_pdf": 578,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.07",
+  "zeile_kopie": 4793,
+  "pdf_seite": 40,
+  "zeichen_kopie": 184,
+  "zeichen_pdf": 184,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.08",
+  "zeile_kopie": 4795,
+  "pdf_seite": 40,
+  "zeichen_kopie": 486,
+  "zeichen_pdf": 486,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.09",
+  "zeile_kopie": 4798,
+  "pdf_seite": 41,
+  "zeichen_kopie": 601,
+  "zeichen_pdf": 601,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.10",
+  "zeile_kopie": 4802,
+  "pdf_seite": 41,
+  "zeichen_kopie": 419,
+  "zeichen_pdf": 419,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.11",
+  "zeile_kopie": 4804,
+  "pdf_seite": 41,
+  "zeichen_kopie": 793,
+  "zeichen_pdf": 793,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "06.12",
+  "zeile_kopie": 4810,
+  "pdf_seite": 41,
+  "zeichen_kopie": 240,
+  "zeichen_pdf": 240,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "07.01",
+  "zeile_kopie": 4814,
+  "pdf_seite": 41,
+  "zeichen_kopie": 119,
+  "zeichen_pdf": 119,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "07.02",
+  "zeile_kopie": 4816,
+  "pdf_seite": 41,
+  "zeichen_kopie": 347,
+  "zeichen_pdf": 347,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "07.03",
+  "zeile_kopie": 4819,
+  "pdf_seite": 41,
+  "zeichen_kopie": 281,
+  "zeichen_pdf": 281,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "07.04",
+  "zeile_kopie": 4821,
+  "pdf_seite": 41,
+  "zeichen_kopie": 985,
+  "zeichen_pdf": 989,
+  "aehnlichkeit": 0.998,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "07.05",
+  "zeile_kopie": 4828,
+  "pdf_seite": 41,
+  "zeichen_kopie": 359,
+  "zeichen_pdf": 359,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "07.06",
+  "zeile_kopie": 4830,
+  "pdf_seite": 41,
+  "zeichen_kopie": 289,
+  "zeichen_pdf": 289,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "07.07",
+  "zeile_kopie": 4833,
+  "pdf_seite": 41,
+  "zeichen_kopie": 1149,
+  "zeichen_pdf": 1149,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "07.08",
+  "zeile_kopie": 4840,
+  "pdf_seite": 42,
+  "zeichen_kopie": 400,
+  "zeichen_pdf": 400,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "07.09",
+  "zeile_kopie": 4842,
+  "pdf_seite": 42,
+  "zeichen_kopie": 99,
+  "zeichen_pdf": 99,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "08.01",
+  "zeile_kopie": 4845,
+  "pdf_seite": 42,
+  "zeichen_kopie": 178,
+  "zeichen_pdf": 178,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "08.02",
+  "zeile_kopie": 4847,
+  "pdf_seite": 42,
+  "zeichen_kopie": 218,
+  "zeichen_pdf": 218,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "08.03",
+  "zeile_kopie": 4849,
+  "pdf_seite": 42,
+  "zeichen_kopie": 433,
+  "zeichen_pdf": 433,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "08.04",
+  "zeile_kopie": 4853,
+  "pdf_seite": 42,
+  "zeichen_kopie": 155,
+  "zeichen_pdf": 155,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "09.01",
+  "zeile_kopie": 4856,
+  "pdf_seite": 42,
+  "zeichen_kopie": 304,
+  "zeichen_pdf": 304,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "09.02",
+  "zeile_kopie": 4858,
+  "pdf_seite": 42,
+  "zeichen_kopie": 213,
+  "zeichen_pdf": 213,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "10.01",
+  "zeile_kopie": 4861,
+  "pdf_seite": 42,
+  "zeichen_kopie": 11,
+  "zeichen_pdf": 11,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.01",
+  "zeile_kopie": 4866,
+  "pdf_seite": 42,
+  "zeichen_kopie": 213,
+  "zeichen_pdf": 213,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.02",
+  "zeile_kopie": 4869,
+  "pdf_seite": 42,
+  "zeichen_kopie": 798,
+  "zeichen_pdf": 798,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.03",
+  "zeile_kopie": 4873,
+  "pdf_seite": 42,
+  "zeichen_kopie": 166,
+  "zeichen_pdf": 166,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.04",
+  "zeile_kopie": 4877,
+  "pdf_seite": 42,
+  "zeichen_kopie": 33,
+  "zeichen_pdf": 33,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.05",
+  "zeile_kopie": 4880,
+  "pdf_seite": 42,
+  "zeichen_kopie": 1289,
+  "zeichen_pdf": 1289,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.06",
+  "zeile_kopie": 4894,
+  "pdf_seite": 43,
+  "zeichen_kopie": 35,
+  "zeichen_pdf": 35,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.07",
+  "zeile_kopie": 4897,
+  "pdf_seite": 43,
+  "zeichen_kopie": 695,
+  "zeichen_pdf": 695,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.08",
+  "zeile_kopie": 4899,
+  "pdf_seite": 43,
+  "zeichen_kopie": 627,
+  "zeichen_pdf": 627,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.09",
+  "zeile_kopie": 4902,
+  "pdf_seite": 43,
+  "zeichen_kopie": 329,
+  "zeichen_pdf": 329,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.09a",
+  "zeile_kopie": 4904,
+  "pdf_seite": 43,
+  "zeichen_kopie": 670,
+  "zeichen_pdf": 670,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.10",
+  "zeile_kopie": 4907,
+  "pdf_seite": 43,
+  "zeichen_kopie": 106,
+  "zeichen_pdf": 106,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.11",
+  "zeile_kopie": 4910,
+  "pdf_seite": 43,
+  "zeichen_kopie": 45,
+  "zeichen_pdf": 45,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.12",
+  "zeile_kopie": 4913,
+  "pdf_seite": 43,
+  "zeichen_kopie": 308,
+  "zeichen_pdf": 308,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.13",
+  "zeile_kopie": 4916,
+  "pdf_seite": 43,
+  "zeichen_kopie": 37,
+  "zeichen_pdf": 37,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.14",
+  "zeile_kopie": 4919,
+  "pdf_seite": 43,
+  "zeichen_kopie": 1035,
+  "zeichen_pdf": 1035,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.15",
+  "zeile_kopie": 4931,
+  "pdf_seite": 44,
+  "zeichen_kopie": 421,
+  "zeichen_pdf": 421,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.16",
+  "zeile_kopie": 4934,
+  "pdf_seite": 44,
+  "zeichen_kopie": 312,
+  "zeichen_pdf": 312,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.16a",
+  "zeile_kopie": 4936,
+  "pdf_seite": 44,
+  "zeichen_kopie": 1244,
+  "zeichen_pdf": 1240,
+  "aehnlichkeit": 0.9976,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.16b",
+  "zeile_kopie": 4952,
+  "pdf_seite": 44,
+  "zeichen_kopie": 797,
+  "zeichen_pdf": 797,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.17",
+  "zeile_kopie": 4959,
+  "pdf_seite": 44,
+  "zeichen_kopie": 1016,
+  "zeichen_pdf": 1016,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.18",
+  "zeile_kopie": 4963,
+  "pdf_seite": 44,
+  "zeichen_kopie": 423,
+  "zeichen_pdf": 423,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "11.19",
+  "zeile_kopie": 4965,
+  "pdf_seite": 44,
+  "zeichen_kopie": 881,
+  "zeichen_pdf": 881,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "12.01",
+  "zeile_kopie": 4971,
+  "pdf_seite": 45,
+  "zeichen_kopie": 219,
+  "zeichen_pdf": 219,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "12.02",
+  "zeile_kopie": 4973,
+  "pdf_seite": 45,
+  "zeichen_kopie": 40,
+  "zeichen_pdf": 40,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "12.03",
+  "zeile_kopie": 4976,
+  "pdf_seite": 45,
+  "zeichen_kopie": 775,
+  "zeichen_pdf": 775,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "12.04",
+  "zeile_kopie": 4979,
+  "pdf_seite": 45,
+  "zeichen_kopie": 134,
+  "zeichen_pdf": 134,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "12.05",
+  "zeile_kopie": 4982,
+  "pdf_seite": 45,
+  "zeichen_kopie": 781,
+  "zeichen_pdf": 782,
+  "aehnlichkeit": 0.9994,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "12.06",
+  "zeile_kopie": 4986,
+  "pdf_seite": 45,
+  "zeichen_kopie": 1053,
+  "zeichen_pdf": 1054,
+  "aehnlichkeit": 0.9995,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "12.07",
+  "zeile_kopie": 4998,
+  "pdf_seite": 45,
+  "zeichen_kopie": 761,
+  "zeichen_pdf": 760,
+  "aehnlichkeit": 0.9993,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.01",
+  "zeile_kopie": 5002,
+  "pdf_seite": 45,
+  "zeichen_kopie": 414,
+  "zeichen_pdf": 414,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.02",
+  "zeile_kopie": 5004,
+  "pdf_seite": 45,
+  "zeichen_kopie": 700,
+  "zeichen_pdf": 700,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.03",
+  "zeile_kopie": 5006,
+  "pdf_seite": 46,
+  "zeichen_kopie": 1333,
+  "zeichen_pdf": 1333,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.04",
+  "zeile_kopie": 5008,
+  "pdf_seite": 46,
+  "zeichen_kopie": 17,
+  "zeichen_pdf": 17,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.05",
+  "zeile_kopie": 5011,
+  "pdf_seite": 46,
+  "zeichen_kopie": 289,
+  "zeichen_pdf": 289,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.06",
+  "zeile_kopie": 5013,
+  "pdf_seite": 46,
+  "zeichen_kopie": 179,
+  "zeichen_pdf": 179,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.07",
+  "zeile_kopie": 5016,
+  "pdf_seite": 46,
+  "zeichen_kopie": 1390,
+  "zeichen_pdf": 1390,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.08",
+  "zeile_kopie": 5030,
+  "pdf_seite": 46,
+  "zeichen_kopie": 197,
+  "zeichen_pdf": 197,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.09",
+  "zeile_kopie": 5032,
+  "pdf_seite": 46,
+  "zeichen_kopie": 412,
+  "zeichen_pdf": 412,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.10",
+  "zeile_kopie": 5034,
+  "pdf_seite": 46,
+  "zeichen_kopie": 415,
+  "zeichen_pdf": 415,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.11",
+  "zeile_kopie": 5036,
+  "pdf_seite": 46,
+  "zeichen_kopie": 1468,
+  "zeichen_pdf": 1467,
+  "aehnlichkeit": 0.9997,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "13.12",
+  "zeile_kopie": 5055,
+  "pdf_seite": 47,
+  "zeichen_kopie": 337,
+  "zeichen_pdf": 337,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.01",
+  "zeile_kopie": 5060,
+  "pdf_seite": 47,
+  "zeichen_kopie": 544,
+  "zeichen_pdf": 544,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.02",
+  "zeile_kopie": 5063,
+  "pdf_seite": 47,
+  "zeichen_kopie": 1720,
+  "zeichen_pdf": 1720,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.03",
+  "zeile_kopie": 5073,
+  "pdf_seite": 47,
+  "zeichen_kopie": 249,
+  "zeichen_pdf": 249,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.04",
+  "zeile_kopie": 5076,
+  "pdf_seite": 47,
+  "zeichen_kopie": 368,
+  "zeichen_pdf": 368,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.05",
+  "zeile_kopie": 5079,
+  "pdf_seite": 47,
+  "zeichen_kopie": 231,
+  "zeichen_pdf": 231,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.06",
+  "zeile_kopie": 5081,
+  "pdf_seite": 47,
+  "zeichen_kopie": 260,
+  "zeichen_pdf": 260,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.07",
+  "zeile_kopie": 5084,
+  "pdf_seite": 47,
+  "zeichen_kopie": 358,
+  "zeichen_pdf": 358,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.08",
+  "zeile_kopie": 5086,
+  "pdf_seite": 47,
+  "zeichen_kopie": 687,
+  "zeichen_pdf": 687,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.09",
+  "zeile_kopie": 5088,
+  "pdf_seite": 47,
+  "zeichen_kopie": 666,
+  "zeichen_pdf": 666,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.10",
+  "zeile_kopie": 5090,
+  "pdf_seite": 48,
+  "zeichen_kopie": 509,
+  "zeichen_pdf": 509,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.11",
+  "zeile_kopie": 5092,
+  "pdf_seite": 48,
+  "zeichen_kopie": 319,
+  "zeichen_pdf": 319,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.12",
+  "zeile_kopie": 5095,
+  "pdf_seite": 48,
+  "zeichen_kopie": 736,
+  "zeichen_pdf": 736,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.13",
+  "zeile_kopie": 5097,
+  "pdf_seite": 48,
+  "zeichen_kopie": 83,
+  "zeichen_pdf": 83,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.14",
+  "zeile_kopie": 5100,
+  "pdf_seite": 48,
+  "zeichen_kopie": 401,
+  "zeichen_pdf": 401,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.14a",
+  "zeile_kopie": 5105,
+  "pdf_seite": 48,
+  "zeichen_kopie": 391,
+  "zeichen_pdf": 391,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.15",
+  "zeile_kopie": 5108,
+  "pdf_seite": 48,
+  "zeichen_kopie": 144,
+  "zeichen_pdf": 144,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.16",
+  "zeile_kopie": 5111,
+  "pdf_seite": 48,
+  "zeichen_kopie": 606,
+  "zeichen_pdf": 606,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.17",
+  "zeile_kopie": 5113,
+  "pdf_seite": 48,
+  "zeichen_kopie": 469,
+  "zeichen_pdf": 469,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.18",
+  "zeile_kopie": 5115,
+  "pdf_seite": 48,
+  "zeichen_kopie": 263,
+  "zeichen_pdf": 263,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.19",
+  "zeile_kopie": 5117,
+  "pdf_seite": 48,
+  "zeichen_kopie": 594,
+  "zeichen_pdf": 594,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.20",
+  "zeile_kopie": 5127,
+  "pdf_seite": 48,
+  "zeichen_kopie": 397,
+  "zeichen_pdf": 397,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.21",
+  "zeile_kopie": 5137,
+  "pdf_seite": 49,
+  "zeichen_kopie": 402,
+  "zeichen_pdf": 402,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.22",
+  "zeile_kopie": 5141,
+  "pdf_seite": 49,
+  "zeichen_kopie": 266,
+  "zeichen_pdf": 266,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.23",
+  "zeile_kopie": 5143,
+  "pdf_seite": 49,
+  "zeichen_kopie": 184,
+  "zeichen_pdf": 184,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.24",
+  "zeile_kopie": 5145,
+  "pdf_seite": 49,
+  "zeichen_kopie": 555,
+  "zeichen_pdf": 555,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.25",
+  "zeile_kopie": 5147,
+  "pdf_seite": 49,
+  "zeichen_kopie": 409,
+  "zeichen_pdf": 409,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.25a",
+  "zeile_kopie": 5149,
+  "pdf_seite": 49,
+  "zeichen_kopie": 962,
+  "zeichen_pdf": 962,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.26",
+  "zeile_kopie": 5151,
+  "pdf_seite": 49,
+  "zeichen_kopie": 534,
+  "zeichen_pdf": 534,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.26a",
+  "zeile_kopie": 5153,
+  "pdf_seite": 49,
+  "zeichen_kopie": 179,
+  "zeichen_pdf": 179,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.27",
+  "zeile_kopie": 5156,
+  "pdf_seite": 49,
+  "zeichen_kopie": 611,
+  "zeichen_pdf": 611,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.28",
+  "zeile_kopie": 5158,
+  "pdf_seite": 49,
+  "zeichen_kopie": 192,
+  "zeichen_pdf": 192,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.29",
+  "zeile_kopie": 5160,
+  "pdf_seite": 49,
+  "zeichen_kopie": 533,
+  "zeichen_pdf": 533,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.30",
+  "zeile_kopie": 5162,
+  "pdf_seite": 49,
+  "zeichen_kopie": 562,
+  "zeichen_pdf": 562,
+  "aehnlichkeit": 0.9822,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "15.31",
+  "zeile_kopie": 5278,
+  "pdf_seite": 50,
+  "zeichen_kopie": 291,
+  "zeichen_pdf": 291,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.32",
+  "zeile_kopie": 5280,
+  "pdf_seite": 50,
+  "zeichen_kopie": 181,
+  "zeichen_pdf": 181,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.33",
+  "zeile_kopie": 5283,
+  "pdf_seite": 50,
+  "zeichen_kopie": 368,
+  "zeichen_pdf": 368,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.34",
+  "zeile_kopie": 5285,
+  "pdf_seite": 50,
+  "zeichen_kopie": 288,
+  "zeichen_pdf": 288,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.35",
+  "zeile_kopie": 5287,
+  "pdf_seite": 50,
+  "zeichen_kopie": 357,
+  "zeichen_pdf": 357,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.35a",
+  "zeile_kopie": 5290,
+  "pdf_seite": 50,
+  "zeichen_kopie": 4301,
+  "zeichen_pdf": 2342,
+  "aehnlichkeit": 0.5811,
+  "klasse": "deutliche_abweichung"
+ },
+ {
+  "rn": "15.36",
+  "zeile_kopie": 5322,
+  "pdf_seite": 50,
+  "zeichen_kopie": 296,
+  "zeichen_pdf": 296,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.37",
+  "zeile_kopie": 5324,
+  "pdf_seite": 50,
+  "zeichen_kopie": 242,
+  "zeichen_pdf": 242,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.38",
+  "zeile_kopie": 5327,
+  "pdf_seite": 50,
+  "zeichen_kopie": 153,
+  "zeichen_pdf": 153,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.39",
+  "zeile_kopie": 5329,
+  "pdf_seite": 50,
+  "zeichen_kopie": 268,
+  "zeichen_pdf": 268,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.40",
+  "zeile_kopie": 5331,
+  "pdf_seite": 51,
+  "zeichen_kopie": 195,
+  "zeichen_pdf": 195,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.41",
+  "zeile_kopie": 5334,
+  "pdf_seite": 51,
+  "zeichen_kopie": 1132,
+  "zeichen_pdf": 1132,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.42",
+  "zeile_kopie": 5339,
+  "pdf_seite": 51,
+  "zeichen_kopie": 231,
+  "zeichen_pdf": 231,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.43",
+  "zeile_kopie": 5341,
+  "pdf_seite": 51,
+  "zeichen_kopie": 1409,
+  "zeichen_pdf": 1409,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "15.44",
+  "zeile_kopie": 5352,
+  "pdf_seite": 51,
+  "zeichen_kopie": 3995,
+  "zeichen_pdf": 3992,
+  "aehnlichkeit": 0.9981,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "16.01",
+  "zeile_kopie": 5392,
+  "pdf_seite": 52,
+  "zeichen_kopie": 225,
+  "zeichen_pdf": 225,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "16.02",
+  "zeile_kopie": 5395,
+  "pdf_seite": 52,
+  "zeichen_kopie": 464,
+  "zeichen_pdf": 464,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "16.03",
+  "zeile_kopie": 5406,
+  "pdf_seite": 52,
+  "zeichen_kopie": 142,
+  "zeichen_pdf": 142,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "16.04",
+  "zeile_kopie": 5409,
+  "pdf_seite": 52,
+  "zeichen_kopie": 361,
+  "zeichen_pdf": 360,
+  "aehnlichkeit": 0.9986,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.01",
+  "zeile_kopie": 5414,
+  "pdf_seite": 52,
+  "zeichen_kopie": 356,
+  "zeichen_pdf": 356,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.02",
+  "zeile_kopie": 5416,
+  "pdf_seite": 52,
+  "zeichen_kopie": 280,
+  "zeichen_pdf": 280,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.03",
+  "zeile_kopie": 5419,
+  "pdf_seite": 52,
+  "zeichen_kopie": 185,
+  "zeichen_pdf": 185,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.04",
+  "zeile_kopie": 5421,
+  "pdf_seite": 52,
+  "zeichen_kopie": 342,
+  "zeichen_pdf": 342,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.05",
+  "zeile_kopie": 5424,
+  "pdf_seite": 53,
+  "zeichen_kopie": 1860,
+  "zeichen_pdf": 1860,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.06",
+  "zeile_kopie": 5437,
+  "pdf_seite": 53,
+  "zeichen_kopie": 382,
+  "zeichen_pdf": 382,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.07",
+  "zeile_kopie": 5439,
+  "pdf_seite": 53,
+  "zeichen_kopie": 1173,
+  "zeichen_pdf": 1173,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.08",
+  "zeile_kopie": 5445,
+  "pdf_seite": 53,
+  "zeichen_kopie": 611,
+  "zeichen_pdf": 611,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.08a",
+  "zeile_kopie": 5447,
+  "pdf_seite": 53,
+  "zeichen_kopie": 354,
+  "zeichen_pdf": 354,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.09",
+  "zeile_kopie": 5450,
+  "pdf_seite": 53,
+  "zeichen_kopie": 989,
+  "zeichen_pdf": 989,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.10",
+  "zeile_kopie": 5452,
+  "pdf_seite": 53,
+  "zeichen_kopie": 76,
+  "zeichen_pdf": 76,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.11",
+  "zeile_kopie": 5455,
+  "pdf_seite": 53,
+  "zeichen_kopie": 282,
+  "zeichen_pdf": 282,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "18.12",
+  "zeile_kopie": 5457,
+  "pdf_seite": 53,
+  "zeichen_kopie": 355,
+  "zeichen_pdf": 355,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "19.01",
+  "zeile_kopie": 5460,
+  "pdf_seite": 54,
+  "zeichen_kopie": 640,
+  "zeichen_pdf": 640,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.01",
+  "zeile_kopie": 5465,
+  "pdf_seite": 54,
+  "zeichen_kopie": 480,
+  "zeichen_pdf": 480,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.02",
+  "zeile_kopie": 5468,
+  "pdf_seite": 54,
+  "zeichen_kopie": 222,
+  "zeichen_pdf": 222,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.03",
+  "zeile_kopie": 5471,
+  "pdf_seite": 54,
+  "zeichen_kopie": 574,
+  "zeichen_pdf": 572,
+  "aehnlichkeit": 0.9983,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.04",
+  "zeile_kopie": 5473,
+  "pdf_seite": 54,
+  "zeichen_kopie": 242,
+  "zeichen_pdf": 242,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.05",
+  "zeile_kopie": 5475,
+  "pdf_seite": 54,
+  "zeichen_kopie": 2997,
+  "zeichen_pdf": 2995,
+  "aehnlichkeit": 0.9997,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.06",
+  "zeile_kopie": 5488,
+  "pdf_seite": 55,
+  "zeichen_kopie": 620,
+  "zeichen_pdf": 618,
+  "aehnlichkeit": 0.9984,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.07",
+  "zeile_kopie": 5490,
+  "pdf_seite": 55,
+  "zeichen_kopie": 289,
+  "zeichen_pdf": 289,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.08",
+  "zeile_kopie": 5492,
+  "pdf_seite": 55,
+  "zeichen_kopie": 2455,
+  "zeichen_pdf": 2455,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.09",
+  "zeile_kopie": 5507,
+  "pdf_seite": 55,
+  "zeichen_kopie": 252,
+  "zeichen_pdf": 252,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.10",
+  "zeile_kopie": 5509,
+  "pdf_seite": 55,
+  "zeichen_kopie": 577,
+  "zeichen_pdf": 577,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "E 20.11",
+  "zeile_kopie": 5521,
+  "pdf_seite": 55,
+  "zeichen_kopie": 618,
+  "zeichen_pdf": 618,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.01",
+  "zeile_kopie": 5529,
+  "pdf_seite": 55,
+  "zeichen_kopie": 256,
+  "zeichen_pdf": 256,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.02",
+  "zeile_kopie": 5533,
+  "pdf_seite": 56,
+  "zeichen_kopie": 156,
+  "zeichen_pdf": 156,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.03",
+  "zeile_kopie": 5535,
+  "pdf_seite": 56,
+  "zeichen_kopie": 1399,
+  "zeichen_pdf": 1399,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.04",
+  "zeile_kopie": 5542,
+  "pdf_seite": 56,
+  "zeichen_kopie": 85,
+  "zeichen_pdf": 85,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.05",
+  "zeile_kopie": 5545,
+  "pdf_seite": 56,
+  "zeichen_kopie": 531,
+  "zeichen_pdf": 531,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.06",
+  "zeile_kopie": 5548,
+  "pdf_seite": 56,
+  "zeichen_kopie": 1048,
+  "zeichen_pdf": 1048,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.07",
+  "zeile_kopie": 5550,
+  "pdf_seite": 56,
+  "zeichen_kopie": 529,
+  "zeichen_pdf": 529,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.08",
+  "zeile_kopie": 5552,
+  "pdf_seite": 56,
+  "zeichen_kopie": 741,
+  "zeichen_pdf": 740,
+  "aehnlichkeit": 0.998,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.09",
+  "zeile_kopie": 5554,
+  "pdf_seite": 56,
+  "zeichen_kopie": 3802,
+  "zeichen_pdf": 3796,
+  "aehnlichkeit": 0.9992,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.10",
+  "zeile_kopie": 5633,
+  "pdf_seite": 57,
+  "zeichen_kopie": 103,
+  "zeichen_pdf": 103,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.11",
+  "zeile_kopie": 5635,
+  "pdf_seite": 57,
+  "zeichen_kopie": 514,
+  "zeichen_pdf": 514,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.12",
+  "zeile_kopie": 5637,
+  "pdf_seite": 57,
+  "zeichen_kopie": 888,
+  "zeichen_pdf": 888,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.13",
+  "zeile_kopie": 5640,
+  "pdf_seite": 57,
+  "zeichen_kopie": 510,
+  "zeichen_pdf": 510,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.14",
+  "zeile_kopie": 5642,
+  "pdf_seite": 57,
+  "zeichen_kopie": 995,
+  "zeichen_pdf": 995,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.15",
+  "zeile_kopie": 5646,
+  "pdf_seite": 58,
+  "zeichen_kopie": 160,
+  "zeichen_pdf": 160,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.16",
+  "zeile_kopie": 5648,
+  "pdf_seite": 58,
+  "zeichen_kopie": 1221,
+  "zeichen_pdf": 1221,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.17",
+  "zeile_kopie": 5654,
+  "pdf_seite": 58,
+  "zeichen_kopie": 198,
+  "zeichen_pdf": 198,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.18",
+  "zeile_kopie": 5656,
+  "pdf_seite": 58,
+  "zeichen_kopie": 428,
+  "zeichen_pdf": 428,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.19",
+  "zeile_kopie": 5658,
+  "pdf_seite": 58,
+  "zeichen_kopie": 1165,
+  "zeichen_pdf": 1165,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.19a",
+  "zeile_kopie": 5664,
+  "pdf_seite": 58,
+  "zeichen_kopie": 4743,
+  "zeichen_pdf": 4743,
+  "aehnlichkeit": 0.9924,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "20.20",
+  "zeile_kopie": 5861,
+  "pdf_seite": 60,
+  "zeichen_kopie": 1979,
+  "zeichen_pdf": 1973,
+  "aehnlichkeit": 0.9985,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.21",
+  "zeile_kopie": 5874,
+  "pdf_seite": 60,
+  "zeichen_kopie": 466,
+  "zeichen_pdf": 466,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.22",
+  "zeile_kopie": 5876,
+  "pdf_seite": 60,
+  "zeichen_kopie": 361,
+  "zeichen_pdf": 361,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.23",
+  "zeile_kopie": 5878,
+  "pdf_seite": 60,
+  "zeichen_kopie": 255,
+  "zeichen_pdf": 255,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.24",
+  "zeile_kopie": 5880,
+  "pdf_seite": 60,
+  "zeichen_kopie": 1211,
+  "zeichen_pdf": 1211,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.25",
+  "zeile_kopie": 5887,
+  "pdf_seite": 61,
+  "zeichen_kopie": 733,
+  "zeichen_pdf": 733,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.26",
+  "zeile_kopie": 5889,
+  "pdf_seite": 61,
+  "zeichen_kopie": 195,
+  "zeichen_pdf": 195,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.27",
+  "zeile_kopie": 5891,
+  "pdf_seite": 61,
+  "zeichen_kopie": 480,
+  "zeichen_pdf": 480,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.28",
+  "zeile_kopie": 5895,
+  "pdf_seite": 61,
+  "zeichen_kopie": 837,
+  "zeichen_pdf": 837,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.29",
+  "zeile_kopie": 5898,
+  "pdf_seite": 61,
+  "zeichen_kopie": 1086,
+  "zeichen_pdf": 1086,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.30",
+  "zeile_kopie": 5906,
+  "pdf_seite": 61,
+  "zeichen_kopie": 294,
+  "zeichen_pdf": 294,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.31",
+  "zeile_kopie": 5908,
+  "pdf_seite": 61,
+  "zeichen_kopie": 686,
+  "zeichen_pdf": 686,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.32",
+  "zeile_kopie": 5911,
+  "pdf_seite": 61,
+  "zeichen_kopie": 4677,
+  "zeichen_pdf": 4669,
+  "aehnlichkeit": 0.9991,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.33",
+  "zeile_kopie": 5935,
+  "pdf_seite": 62,
+  "zeichen_kopie": 886,
+  "zeichen_pdf": 886,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.34",
+  "zeile_kopie": 5941,
+  "pdf_seite": 62,
+  "zeichen_kopie": 450,
+  "zeichen_pdf": 450,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.35",
+  "zeile_kopie": 5944,
+  "pdf_seite": 62,
+  "zeichen_kopie": 146,
+  "zeichen_pdf": 146,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.36",
+  "zeile_kopie": 5947,
+  "pdf_seite": 62,
+  "zeichen_kopie": 2357,
+  "zeichen_pdf": 2357,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "20.37",
+  "zeile_kopie": 5958,
+  "pdf_seite": 63,
+  "zeichen_kopie": 3007,
+  "zeichen_pdf": 3007,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.01",
+  "zeile_kopie": 5972,
+  "pdf_seite": 63,
+  "zeichen_kopie": 625,
+  "zeichen_pdf": 625,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.02",
+  "zeile_kopie": 5974,
+  "pdf_seite": 63,
+  "zeichen_kopie": 137,
+  "zeichen_pdf": 137,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.03",
+  "zeile_kopie": 5978,
+  "pdf_seite": 64,
+  "zeichen_kopie": 150,
+  "zeichen_pdf": 150,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.04",
+  "zeile_kopie": 5981,
+  "pdf_seite": 64,
+  "zeichen_kopie": 85,
+  "zeichen_pdf": 85,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.05",
+  "zeile_kopie": 5984,
+  "pdf_seite": 64,
+  "zeichen_kopie": 421,
+  "zeichen_pdf": 421,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.06",
+  "zeile_kopie": 5986,
+  "pdf_seite": 64,
+  "zeichen_kopie": 162,
+  "zeichen_pdf": 162,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.07",
+  "zeile_kopie": 5990,
+  "pdf_seite": 64,
+  "zeichen_kopie": 378,
+  "zeichen_pdf": 378,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.08",
+  "zeile_kopie": 5992,
+  "pdf_seite": 64,
+  "zeichen_kopie": 358,
+  "zeichen_pdf": 358,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.09",
+  "zeile_kopie": 5996,
+  "pdf_seite": 64,
+  "zeichen_kopie": 1314,
+  "zeichen_pdf": 1314,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.10",
+  "zeile_kopie": 6009,
+  "pdf_seite": 64,
+  "zeichen_kopie": 537,
+  "zeichen_pdf": 537,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.11",
+  "zeile_kopie": 6014,
+  "pdf_seite": 64,
+  "zeichen_kopie": 262,
+  "zeichen_pdf": 262,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.12",
+  "zeile_kopie": 6017,
+  "pdf_seite": 64,
+  "zeichen_kopie": 40,
+  "zeichen_pdf": 40,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.13",
+  "zeile_kopie": 6020,
+  "pdf_seite": 64,
+  "zeichen_kopie": 236,
+  "zeichen_pdf": 236,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.14",
+  "zeile_kopie": 6022,
+  "pdf_seite": 64,
+  "zeichen_kopie": 479,
+  "zeichen_pdf": 479,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.15",
+  "zeile_kopie": 6024,
+  "pdf_seite": 65,
+  "zeichen_kopie": 4689,
+  "zeichen_pdf": 4690,
+  "aehnlichkeit": 0.9999,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.16",
+  "zeile_kopie": 6063,
+  "pdf_seite": 65,
+  "zeichen_kopie": 216,
+  "zeichen_pdf": 216,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "21.17",
+  "zeile_kopie": 6066,
+  "pdf_seite": 65,
+  "zeichen_kopie": 214,
+  "zeichen_pdf": 214,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.01",
+  "zeile_kopie": 6070,
+  "pdf_seite": 66,
+  "zeichen_kopie": 222,
+  "zeichen_pdf": 222,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.02",
+  "zeile_kopie": 6072,
+  "pdf_seite": 66,
+  "zeichen_kopie": 1409,
+  "zeichen_pdf": 1409,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.03",
+  "zeile_kopie": 6080,
+  "pdf_seite": 66,
+  "zeichen_kopie": 979,
+  "zeichen_pdf": 979,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.04",
+  "zeile_kopie": 6082,
+  "pdf_seite": 66,
+  "zeichen_kopie": 1181,
+  "zeichen_pdf": 1179,
+  "aehnlichkeit": 0.9992,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.05",
+  "zeile_kopie": 6138,
+  "pdf_seite": 66,
+  "zeichen_kopie": 187,
+  "zeichen_pdf": 187,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.06",
+  "zeile_kopie": 6140,
+  "pdf_seite": 66,
+  "zeichen_kopie": 687,
+  "zeichen_pdf": 687,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.07",
+  "zeile_kopie": 6144,
+  "pdf_seite": 66,
+  "zeichen_kopie": 1025,
+  "zeichen_pdf": 1025,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.08",
+  "zeile_kopie": 6148,
+  "pdf_seite": 67,
+  "zeichen_kopie": 729,
+  "zeichen_pdf": 725,
+  "aehnlichkeit": 0.9972,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.09",
+  "zeile_kopie": 6166,
+  "pdf_seite": 67,
+  "zeichen_kopie": 287,
+  "zeichen_pdf": 287,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.10",
+  "zeile_kopie": 6168,
+  "pdf_seite": 67,
+  "zeichen_kopie": 517,
+  "zeichen_pdf": 517,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.11",
+  "zeile_kopie": 6170,
+  "pdf_seite": 67,
+  "zeichen_kopie": 1020,
+  "zeichen_pdf": 1020,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.12",
+  "zeile_kopie": 6181,
+  "pdf_seite": 67,
+  "zeichen_kopie": 861,
+  "zeichen_pdf": 862,
+  "aehnlichkeit": 0.9994,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.13",
+  "zeile_kopie": 6183,
+  "pdf_seite": 67,
+  "zeichen_kopie": 603,
+  "zeichen_pdf": 603,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.14",
+  "zeile_kopie": 6185,
+  "pdf_seite": 67,
+  "zeichen_kopie": 580,
+  "zeichen_pdf": 576,
+  "aehnlichkeit": 0.9965,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.15",
+  "zeile_kopie": 6203,
+  "pdf_seite": 67,
+  "zeichen_kopie": 168,
+  "zeichen_pdf": 168,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.16",
+  "zeile_kopie": 6205,
+  "pdf_seite": 68,
+  "zeichen_kopie": 535,
+  "zeichen_pdf": 535,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.17",
+  "zeile_kopie": 6207,
+  "pdf_seite": 68,
+  "zeichen_kopie": 569,
+  "zeichen_pdf": 569,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.18",
+  "zeile_kopie": 6211,
+  "pdf_seite": 68,
+  "zeichen_kopie": 708,
+  "zeichen_pdf": 708,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.19",
+  "zeile_kopie": 6213,
+  "pdf_seite": 68,
+  "zeichen_kopie": 474,
+  "zeichen_pdf": 474,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.20",
+  "zeile_kopie": 6216,
+  "pdf_seite": 68,
+  "zeichen_kopie": 357,
+  "zeichen_pdf": 357,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.21",
+  "zeile_kopie": 6219,
+  "pdf_seite": 68,
+  "zeichen_kopie": 174,
+  "zeichen_pdf": 174,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.22",
+  "zeile_kopie": 6221,
+  "pdf_seite": 68,
+  "zeichen_kopie": 1741,
+  "zeichen_pdf": 1741,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.23",
+  "zeile_kopie": 6231,
+  "pdf_seite": 68,
+  "zeichen_kopie": 7264,
+  "zeichen_pdf": 7264,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.24",
+  "zeile_kopie": 6309,
+  "pdf_seite": 70,
+  "zeichen_kopie": 4135,
+  "zeichen_pdf": 4131,
+  "aehnlichkeit": 0.9995,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.25",
+  "zeile_kopie": 6365,
+  "pdf_seite": 70,
+  "zeichen_kopie": 4070,
+  "zeichen_pdf": 4062,
+  "aehnlichkeit": 0.999,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.26",
+  "zeile_kopie": 6441,
+  "pdf_seite": 71,
+  "zeichen_kopie": 1836,
+  "zeichen_pdf": 1834,
+  "aehnlichkeit": 0.9995,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.27",
+  "zeile_kopie": 6456,
+  "pdf_seite": 72,
+  "zeichen_kopie": 815,
+  "zeichen_pdf": 815,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.28",
+  "zeile_kopie": 6459,
+  "pdf_seite": 72,
+  "zeichen_kopie": 1795,
+  "zeichen_pdf": 1795,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.29",
+  "zeile_kopie": 6469,
+  "pdf_seite": 72,
+  "zeichen_kopie": 626,
+  "zeichen_pdf": 626,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.30",
+  "zeile_kopie": 6471,
+  "pdf_seite": 72,
+  "zeichen_kopie": 932,
+  "zeichen_pdf": 932,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.31",
+  "zeile_kopie": 6477,
+  "pdf_seite": 72,
+  "zeichen_kopie": 156,
+  "zeichen_pdf": 156,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.32",
+  "zeile_kopie": 6479,
+  "pdf_seite": 72,
+  "zeichen_kopie": 829,
+  "zeichen_pdf": 829,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.33",
+  "zeile_kopie": 6481,
+  "pdf_seite": 73,
+  "zeichen_kopie": 343,
+  "zeichen_pdf": 343,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.34",
+  "zeile_kopie": 6484,
+  "pdf_seite": 73,
+  "zeichen_kopie": 357,
+  "zeichen_pdf": 357,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.35",
+  "zeile_kopie": 6486,
+  "pdf_seite": 73,
+  "zeichen_kopie": 361,
+  "zeichen_pdf": 361,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.36",
+  "zeile_kopie": 6488,
+  "pdf_seite": 73,
+  "zeichen_kopie": 148,
+  "zeichen_pdf": 148,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.37",
+  "zeile_kopie": 6490,
+  "pdf_seite": 73,
+  "zeichen_kopie": 361,
+  "zeichen_pdf": 361,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.38",
+  "zeile_kopie": 6493,
+  "pdf_seite": 73,
+  "zeichen_kopie": 717,
+  "zeichen_pdf": 717,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.39",
+  "zeile_kopie": 6495,
+  "pdf_seite": 73,
+  "zeichen_kopie": 354,
+  "zeichen_pdf": 354,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.40",
+  "zeile_kopie": 6499,
+  "pdf_seite": 73,
+  "zeichen_kopie": 267,
+  "zeichen_pdf": 267,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.41",
+  "zeile_kopie": 6502,
+  "pdf_seite": 73,
+  "zeichen_kopie": 3129,
+  "zeichen_pdf": 3127,
+  "aehnlichkeit": 0.9997,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.42",
+  "zeile_kopie": 6548,
+  "pdf_seite": 74,
+  "zeichen_kopie": 198,
+  "zeichen_pdf": 198,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.43",
+  "zeile_kopie": 6551,
+  "pdf_seite": 74,
+  "zeichen_kopie": 2195,
+  "zeichen_pdf": 2280,
+  "aehnlichkeit": 0.981,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "22.44",
+  "zeile_kopie": 6565,
+  "pdf_seite": 74,
+  "zeichen_kopie": 25,
+  "zeichen_pdf": 25,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.45",
+  "zeile_kopie": 6567,
+  "pdf_seite": 74,
+  "zeichen_kopie": 181,
+  "zeichen_pdf": 181,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "22.46",
+  "zeile_kopie": 6569,
+  "pdf_seite": 74,
+  "zeichen_kopie": 169,
+  "zeichen_pdf": 169,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.01",
+  "zeile_kopie": 6573,
+  "pdf_seite": 74,
+  "zeichen_kopie": 406,
+  "zeichen_pdf": 406,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.02",
+  "zeile_kopie": 6575,
+  "pdf_seite": 74,
+  "zeichen_kopie": 468,
+  "zeichen_pdf": 468,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.03",
+  "zeile_kopie": 6579,
+  "pdf_seite": 74,
+  "zeichen_kopie": 237,
+  "zeichen_pdf": 237,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.04",
+  "zeile_kopie": 6581,
+  "pdf_seite": 74,
+  "zeichen_kopie": 127,
+  "zeichen_pdf": 127,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.05",
+  "zeile_kopie": 6584,
+  "pdf_seite": 74,
+  "zeichen_kopie": 206,
+  "zeichen_pdf": 206,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.06",
+  "zeile_kopie": 6586,
+  "pdf_seite": 75,
+  "zeichen_kopie": 899,
+  "zeichen_pdf": 899,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.07",
+  "zeile_kopie": 6590,
+  "pdf_seite": 75,
+  "zeichen_kopie": 1360,
+  "zeichen_pdf": 1360,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.08",
+  "zeile_kopie": 6600,
+  "pdf_seite": 75,
+  "zeichen_kopie": 399,
+  "zeichen_pdf": 399,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.09",
+  "zeile_kopie": 6602,
+  "pdf_seite": 75,
+  "zeichen_kopie": 899,
+  "zeichen_pdf": 899,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.10",
+  "zeile_kopie": 6606,
+  "pdf_seite": 75,
+  "zeichen_kopie": 89,
+  "zeichen_pdf": 89,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.11",
+  "zeile_kopie": 6609,
+  "pdf_seite": 75,
+  "zeichen_kopie": 2089,
+  "zeichen_pdf": 2087,
+  "aehnlichkeit": 0.9995,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.12",
+  "zeile_kopie": 6622,
+  "pdf_seite": 76,
+  "zeichen_kopie": 906,
+  "zeichen_pdf": 906,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.13",
+  "zeile_kopie": 6624,
+  "pdf_seite": 76,
+  "zeichen_kopie": 247,
+  "zeichen_pdf": 247,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.14",
+  "zeile_kopie": 6627,
+  "pdf_seite": 76,
+  "zeichen_kopie": 166,
+  "zeichen_pdf": 166,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.15",
+  "zeile_kopie": 6629,
+  "pdf_seite": 76,
+  "zeichen_kopie": 1772,
+  "zeichen_pdf": 1772,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.16",
+  "zeile_kopie": 6655,
+  "pdf_seite": 76,
+  "zeichen_kopie": 326,
+  "zeichen_pdf": 326,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.17",
+  "zeile_kopie": 6658,
+  "pdf_seite": 76,
+  "zeichen_kopie": 552,
+  "zeichen_pdf": 552,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.18",
+  "zeile_kopie": 6660,
+  "pdf_seite": 76,
+  "zeichen_kopie": 555,
+  "zeichen_pdf": 555,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.19",
+  "zeile_kopie": 6666,
+  "pdf_seite": 76,
+  "zeichen_kopie": 295,
+  "zeichen_pdf": 295,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.20",
+  "zeile_kopie": 6668,
+  "pdf_seite": 76,
+  "zeichen_kopie": 303,
+  "zeichen_pdf": 303,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.21",
+  "zeile_kopie": 6670,
+  "pdf_seite": 76,
+  "zeichen_kopie": 280,
+  "zeichen_pdf": 280,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "23.22",
+  "zeile_kopie": 6673,
+  "pdf_seite": 77,
+  "zeichen_kopie": 98,
+  "zeichen_pdf": 98,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.01",
+  "zeile_kopie": 6678,
+  "pdf_seite": 77,
+  "zeichen_kopie": 132,
+  "zeichen_pdf": 132,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.02",
+  "zeile_kopie": 6680,
+  "pdf_seite": 77,
+  "zeichen_kopie": 177,
+  "zeichen_pdf": 177,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.03",
+  "zeile_kopie": 6683,
+  "pdf_seite": 77,
+  "zeichen_kopie": 2007,
+  "zeichen_pdf": 2009,
+  "aehnlichkeit": 0.999,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.04",
+  "zeile_kopie": 6701,
+  "pdf_seite": 77,
+  "zeichen_kopie": 260,
+  "zeichen_pdf": 260,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.05",
+  "zeile_kopie": 6703,
+  "pdf_seite": 77,
+  "zeichen_kopie": 153,
+  "zeichen_pdf": 153,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.06",
+  "zeile_kopie": 6706,
+  "pdf_seite": 77,
+  "zeichen_kopie": 467,
+  "zeichen_pdf": 467,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.07",
+  "zeile_kopie": 6710,
+  "pdf_seite": 77,
+  "zeichen_kopie": 2402,
+  "zeichen_pdf": 2402,
+  "aehnlichkeit": 0.9996,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.08",
+  "zeile_kopie": 6725,
+  "pdf_seite": 78,
+  "zeichen_kopie": 505,
+  "zeichen_pdf": 505,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.09",
+  "zeile_kopie": 6731,
+  "pdf_seite": 78,
+  "zeichen_kopie": 522,
+  "zeichen_pdf": 522,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.10",
+  "zeile_kopie": 6733,
+  "pdf_seite": 78,
+  "zeichen_kopie": 1316,
+  "zeichen_pdf": 1314,
+  "aehnlichkeit": 0.9992,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.11",
+  "zeile_kopie": 6745,
+  "pdf_seite": 78,
+  "zeichen_kopie": 824,
+  "zeichen_pdf": 824,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.12",
+  "zeile_kopie": 6748,
+  "pdf_seite": 78,
+  "zeichen_kopie": 442,
+  "zeichen_pdf": 442,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.13",
+  "zeile_kopie": 6751,
+  "pdf_seite": 78,
+  "zeichen_kopie": 544,
+  "zeichen_pdf": 544,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.14",
+  "zeile_kopie": 6753,
+  "pdf_seite": 78,
+  "zeichen_kopie": 4785,
+  "zeichen_pdf": 4785,
+  "aehnlichkeit": 0.9931,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "24.15",
+  "zeile_kopie": 6874,
+  "pdf_seite": 79,
+  "zeichen_kopie": 414,
+  "zeichen_pdf": 414,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.16",
+  "zeile_kopie": 6876,
+  "pdf_seite": 80,
+  "zeichen_kopie": 895,
+  "zeichen_pdf": 885,
+  "aehnlichkeit": 0.9944,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "24.17",
+  "zeile_kopie": 6888,
+  "pdf_seite": 80,
+  "zeichen_kopie": 326,
+  "zeichen_pdf": 326,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.18",
+  "zeile_kopie": 6892,
+  "pdf_seite": 80,
+  "zeichen_kopie": 612,
+  "zeichen_pdf": 612,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.19",
+  "zeile_kopie": 6894,
+  "pdf_seite": 80,
+  "zeichen_kopie": 795,
+  "zeichen_pdf": 795,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.20",
+  "zeile_kopie": 6898,
+  "pdf_seite": 80,
+  "zeichen_kopie": 187,
+  "zeichen_pdf": 187,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.21",
+  "zeile_kopie": 6900,
+  "pdf_seite": 80,
+  "zeichen_kopie": 753,
+  "zeichen_pdf": 753,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.22",
+  "zeile_kopie": 6902,
+  "pdf_seite": 80,
+  "zeichen_kopie": 232,
+  "zeichen_pdf": 232,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.23",
+  "zeile_kopie": 6905,
+  "pdf_seite": 80,
+  "zeichen_kopie": 187,
+  "zeichen_pdf": 187,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.24",
+  "zeile_kopie": 6908,
+  "pdf_seite": 80,
+  "zeichen_kopie": 246,
+  "zeichen_pdf": 246,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.25",
+  "zeile_kopie": 6913,
+  "pdf_seite": 80,
+  "zeichen_kopie": 391,
+  "zeichen_pdf": 391,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.26",
+  "zeile_kopie": 6915,
+  "pdf_seite": 80,
+  "zeichen_kopie": 266,
+  "zeichen_pdf": 266,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.27",
+  "zeile_kopie": 6917,
+  "pdf_seite": 80,
+  "zeichen_kopie": 562,
+  "zeichen_pdf": 562,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.28",
+  "zeile_kopie": 6920,
+  "pdf_seite": 81,
+  "zeichen_kopie": 1537,
+  "zeichen_pdf": 1535,
+  "aehnlichkeit": 0.9993,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.29",
+  "zeile_kopie": 6941,
+  "pdf_seite": 81,
+  "zeichen_kopie": 637,
+  "zeichen_pdf": 637,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.30",
+  "zeile_kopie": 6946,
+  "pdf_seite": 81,
+  "zeichen_kopie": 30,
+  "zeichen_pdf": 30,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.31",
+  "zeile_kopie": 6949,
+  "pdf_seite": 81,
+  "zeichen_kopie": 25,
+  "zeichen_pdf": 25,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.32",
+  "zeile_kopie": 6952,
+  "pdf_seite": 81,
+  "zeichen_kopie": 273,
+  "zeichen_pdf": 273,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "24.33",
+  "zeile_kopie": 6955,
+  "pdf_seite": 81,
+  "zeichen_kopie": 29,
+  "zeichen_pdf": 29,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "25.01",
+  "zeile_kopie": 6958,
+  "pdf_seite": 81,
+  "zeichen_kopie": 354,
+  "zeichen_pdf": 353,
+  "aehnlichkeit": 0.9986,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "26.01",
+  "zeile_kopie": 6963,
+  "pdf_seite": 81,
+  "zeichen_kopie": 11,
+  "zeichen_pdf": 11,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.01",
+  "zeile_kopie": 6967,
+  "pdf_seite": 81,
+  "zeichen_kopie": 652,
+  "zeichen_pdf": 652,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.02",
+  "zeile_kopie": 6969,
+  "pdf_seite": 82,
+  "zeichen_kopie": 171,
+  "zeichen_pdf": 196,
+  "aehnlichkeit": 0.9264,
+  "klasse": "deutliche_abweichung"
+ },
+ {
+  "rn": "27.03",
+  "zeile_kopie": 6973,
+  "pdf_seite": 82,
+  "zeichen_kopie": 417,
+  "zeichen_pdf": 417,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.04",
+  "zeile_kopie": 6976,
+  "pdf_seite": 82,
+  "zeichen_kopie": 396,
+  "zeichen_pdf": 396,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.05",
+  "zeile_kopie": 6978,
+  "pdf_seite": 82,
+  "zeichen_kopie": 413,
+  "zeichen_pdf": 413,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.06",
+  "zeile_kopie": 6980,
+  "pdf_seite": 82,
+  "zeichen_kopie": 301,
+  "zeichen_pdf": 301,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.07",
+  "zeile_kopie": 6982,
+  "pdf_seite": 82,
+  "zeichen_kopie": 132,
+  "zeichen_pdf": 132,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.08",
+  "zeile_kopie": 6985,
+  "pdf_seite": 82,
+  "zeichen_kopie": 517,
+  "zeichen_pdf": 517,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.09 bis 27.11",
+  "zeile_kopie": 6987,
+  "pdf_seite": 82,
+  "zeichen_kopie": 17,
+  "zeichen_pdf": 17,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.12",
+  "zeile_kopie": 6990,
+  "pdf_seite": 82,
+  "zeichen_kopie": 17,
+  "zeichen_pdf": 17,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "27.13",
+  "zeile_kopie": 6993,
+  "pdf_seite": 82,
+  "zeichen_kopie": 938,
+  "zeichen_pdf": 938,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "S.01",
+  "zeile_kopie": 7004,
+  "pdf_seite": 82,
+  "zeichen_kopie": 1029,
+  "zeichen_pdf": 1029,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.01",
+  "zeile_kopie": 7012,
+  "pdf_seite": 83,
+  "zeichen_kopie": 236,
+  "zeichen_pdf": 236,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.02",
+  "zeile_kopie": 7015,
+  "pdf_seite": 83,
+  "zeichen_kopie": 545,
+  "zeichen_pdf": 545,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.03",
+  "zeile_kopie": 7018,
+  "pdf_seite": 83,
+  "zeichen_kopie": 691,
+  "zeichen_pdf": 651,
+  "aehnlichkeit": 0.7854,
+  "klasse": "deutliche_abweichung"
+ },
+ {
+  "rn": "Org.04",
+  "zeile_kopie": 7021,
+  "pdf_seite": 83,
+  "zeichen_kopie": 118,
+  "zeichen_pdf": 118,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.05",
+  "zeile_kopie": 7023,
+  "pdf_seite": 83,
+  "zeichen_kopie": 17,
+  "zeichen_pdf": 17,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.06",
+  "zeile_kopie": 7026,
+  "pdf_seite": 83,
+  "zeichen_kopie": 462,
+  "zeichen_pdf": 462,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.07",
+  "zeile_kopie": 7028,
+  "pdf_seite": 83,
+  "zeichen_kopie": 306,
+  "zeichen_pdf": 306,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.08",
+  "zeile_kopie": 7030,
+  "pdf_seite": 83,
+  "zeichen_kopie": 710,
+  "zeichen_pdf": 710,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.09",
+  "zeile_kopie": 7032,
+  "pdf_seite": 83,
+  "zeichen_kopie": 213,
+  "zeichen_pdf": 213,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.10",
+  "zeile_kopie": 7035,
+  "pdf_seite": 83,
+  "zeichen_kopie": 300,
+  "zeichen_pdf": 300,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.11",
+  "zeile_kopie": 7038,
+  "pdf_seite": 83,
+  "zeichen_kopie": 313,
+  "zeichen_pdf": 313,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.12",
+  "zeile_kopie": 7040,
+  "pdf_seite": 83,
+  "zeichen_kopie": 267,
+  "zeichen_pdf": 267,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.13",
+  "zeile_kopie": 7043,
+  "pdf_seite": 83,
+  "zeichen_kopie": 474,
+  "zeichen_pdf": 474,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.14",
+  "zeile_kopie": 7045,
+  "pdf_seite": 83,
+  "zeichen_kopie": 404,
+  "zeichen_pdf": 404,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.15",
+  "zeile_kopie": 7048,
+  "pdf_seite": 84,
+  "zeichen_kopie": 214,
+  "zeichen_pdf": 214,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.16",
+  "zeile_kopie": 7050,
+  "pdf_seite": 84,
+  "zeichen_kopie": 269,
+  "zeichen_pdf": 269,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.17",
+  "zeile_kopie": 7052,
+  "pdf_seite": 84,
+  "zeichen_kopie": 392,
+  "zeichen_pdf": 392,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.18",
+  "zeile_kopie": 7055,
+  "pdf_seite": 84,
+  "zeichen_kopie": 787,
+  "zeichen_pdf": 787,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.19",
+  "zeile_kopie": 7062,
+  "pdf_seite": 84,
+  "zeichen_kopie": 466,
+  "zeichen_pdf": 466,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.20",
+  "zeile_kopie": 7065,
+  "pdf_seite": 84,
+  "zeichen_kopie": 168,
+  "zeichen_pdf": 168,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.21",
+  "zeile_kopie": 7069,
+  "pdf_seite": 84,
+  "zeichen_kopie": 517,
+  "zeichen_pdf": 517,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.22",
+  "zeile_kopie": 7072,
+  "pdf_seite": 84,
+  "zeichen_kopie": 343,
+  "zeichen_pdf": 343,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.23",
+  "zeile_kopie": 7076,
+  "pdf_seite": 84,
+  "zeichen_kopie": 94,
+  "zeichen_pdf": 94,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.24",
+  "zeile_kopie": 7079,
+  "pdf_seite": 84,
+  "zeichen_kopie": 202,
+  "zeichen_pdf": 202,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.25",
+  "zeile_kopie": 7083,
+  "pdf_seite": 84,
+  "zeichen_kopie": 339,
+  "zeichen_pdf": 339,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.26",
+  "zeile_kopie": 7086,
+  "pdf_seite": 84,
+  "zeichen_kopie": 364,
+  "zeichen_pdf": 364,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.27",
+  "zeile_kopie": 7089,
+  "pdf_seite": 84,
+  "zeichen_kopie": 436,
+  "zeichen_pdf": 436,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.28",
+  "zeile_kopie": 7092,
+  "pdf_seite": 85,
+  "zeichen_kopie": 275,
+  "zeichen_pdf": 275,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.29",
+  "zeile_kopie": 7096,
+  "pdf_seite": 85,
+  "zeichen_kopie": 181,
+  "zeichen_pdf": 181,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.30",
+  "zeile_kopie": 7099,
+  "pdf_seite": 85,
+  "zeichen_kopie": 625,
+  "zeichen_pdf": 625,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.31",
+  "zeile_kopie": 7105,
+  "pdf_seite": 85,
+  "zeichen_kopie": 329,
+  "zeichen_pdf": 329,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.32",
+  "zeile_kopie": 7107,
+  "pdf_seite": 85,
+  "zeichen_kopie": 180,
+  "zeichen_pdf": 180,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.33",
+  "zeile_kopie": 7110,
+  "pdf_seite": 85,
+  "zeichen_kopie": 755,
+  "zeichen_pdf": 755,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.34",
+  "zeile_kopie": 7112,
+  "pdf_seite": 85,
+  "zeichen_kopie": 310,
+  "zeichen_pdf": 310,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "Org.35",
+  "zeile_kopie": 7115,
+  "pdf_seite": 85,
+  "zeichen_kopie": 286,
+  "zeichen_pdf": 286,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.01",
+  "zeile_kopie": 7119,
+  "pdf_seite": 85,
+  "zeichen_kopie": 2367,
+  "zeichen_pdf": 2373,
+  "aehnlichkeit": 0.7819,
+  "klasse": "deutliche_abweichung"
+ },
+ {
+  "rn": "K.02",
+  "zeile_kopie": 7165,
+  "pdf_seite": 86,
+  "zeichen_kopie": 655,
+  "zeichen_pdf": 655,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.03",
+  "zeile_kopie": 7169,
+  "pdf_seite": 86,
+  "zeichen_kopie": 712,
+  "zeichen_pdf": 712,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.04",
+  "zeile_kopie": 7174,
+  "pdf_seite": 86,
+  "zeichen_kopie": 414,
+  "zeichen_pdf": 414,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.05",
+  "zeile_kopie": 7176,
+  "pdf_seite": 86,
+  "zeichen_kopie": 624,
+  "zeichen_pdf": 624,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.06",
+  "zeile_kopie": 7178,
+  "pdf_seite": 86,
+  "zeichen_kopie": 225,
+  "zeichen_pdf": 225,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.07",
+  "zeile_kopie": 7181,
+  "pdf_seite": 86,
+  "zeichen_kopie": 472,
+  "zeichen_pdf": 472,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.08",
+  "zeile_kopie": 7184,
+  "pdf_seite": 87,
+  "zeichen_kopie": 639,
+  "zeichen_pdf": 612,
+  "aehnlichkeit": 0.9784,
+  "klasse": "abweichung"
+ },
+ {
+  "rn": "K.09",
+  "zeile_kopie": 7262,
+  "pdf_seite": 87,
+  "zeichen_kopie": 491,
+  "zeichen_pdf": 491,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.10",
+  "zeile_kopie": 7265,
+  "pdf_seite": 87,
+  "zeichen_kopie": 1372,
+  "zeichen_pdf": 1372,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.11",
+  "zeile_kopie": 7293,
+  "pdf_seite": 87,
+  "zeichen_kopie": 200,
+  "zeichen_pdf": 200,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.12",
+  "zeile_kopie": 7296,
+  "pdf_seite": 87,
+  "zeichen_kopie": 311,
+  "zeichen_pdf": 311,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.13",
+  "zeile_kopie": 7298,
+  "pdf_seite": 87,
+  "zeichen_kopie": 1744,
+  "zeichen_pdf": 1751,
+  "aehnlichkeit": 0.9808,
+  "klasse": "geringe_abweichung"
+ },
+ {
+  "rn": "K.14",
+  "zeile_kopie": 7404,
+  "pdf_seite": 88,
+  "zeichen_kopie": 200,
+  "zeichen_pdf": 200,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.15",
+  "zeile_kopie": 7407,
+  "pdf_seite": 88,
+  "zeichen_kopie": 213,
+  "zeichen_pdf": 213,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.16",
+  "zeile_kopie": 7410,
+  "pdf_seite": 88,
+  "zeichen_kopie": 1005,
+  "zeichen_pdf": 1021,
+  "aehnlichkeit": 0.9684,
+  "klasse": "abweichung"
+ },
+ {
+  "rn": "K.17",
+  "zeile_kopie": 7483,
+  "pdf_seite": 89,
+  "zeichen_kopie": 695,
+  "zeichen_pdf": 695,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.18",
+  "zeile_kopie": 7486,
+  "pdf_seite": 89,
+  "zeichen_kopie": 66,
+  "zeichen_pdf": 66,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.18a",
+  "zeile_kopie": 7488,
+  "pdf_seite": 89,
+  "zeichen_kopie": 792,
+  "zeichen_pdf": 792,
+  "aehnlichkeit": 1.0,
+  "klasse": "uebereinstimmend"
+ },
+ {
+  "rn": "K.19",
+  "zeile_kopie": 7490,
+  "pdf_seite": 89,
+  "zeichen_kopie": 1459,
+  "zeichen_pdf": 1458,
+  "aehnlichkeit": 0.9983,
+  "klasse": "uebereinstimmend"
+ }
+]

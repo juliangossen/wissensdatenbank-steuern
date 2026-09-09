@@ -1,0 +1,36 @@
+# Lokal erzeugte Python-Umgebungen, Suchindizes, Modelle und Exportpakete
+.venv/
+venv/
+.daten/
+.validation/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Zugangsdaten und rechnerbezogene Einstellungen
+.env
+.env.*
+!.env.example
+*.local.json
+credentials.json
+token.json
+tokens.json
+client_secret*.json
+*service-account*.json
+
+# Wiederherstellbare Laufzeitdateien
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite3-wal
+*.sqlite3-shm
+*.log
+*.tmp
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+desktop.ini

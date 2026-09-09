@@ -1,0 +1,34 @@
+{
+  "kuerzel": "KraftStG",
+  "titel": "Kraftfahrzeugsteuergesetz 2002",
+  "rechtsgebiet": "Steuerrecht / Kraftfahrzeugsteuer",
+  "quelle_url": "https://www.gesetze-im-internet.de/kraftstg/",
+  "quelle_html": "https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/kraftstg/KraftStG_2002.pdf",
+  "lokale_pdf": "KraftStG_2002.pdf",
+  "aktuelle_pdf": "KraftStG_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR005090927.xml",
+  "ausfertigungsdatum": "1927-12-21",
+  "stand": [
+    "Neugefasst durch Bek. v. 26.9.2002 I 3818;",
+    "zuletzt geändert durch Art. 1 G v. 22.12.2025 I Nr. 342"
+  ],
+  "vollzitat": "\"Kraftfahrzeugsteuergesetz 2002 in der Fassung der Bekanntmachung vom 26. September 2002 (BGBl. I S. 3818), das zuletzt durch Artikel 1 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 342) geändert worden ist\"",
+  "pdf_seiten": 19,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260506174514",
+  "sha256_lokale_pdf": "3a3b08fc24a98b74cc351a1b0d9a17c360c4f72471e2c6b02e63c39e81851540",
+  "sha256_aktuelle_pdf": "3a3b08fc24a98b74cc351a1b0d9a17c360c4f72471e2c6b02e63c39e81851540",
+  "sha256_xml": "296752748f0e36b6d7fd6eee1f3a0d910ceda97813cfe0a32820678724fab48e",
+  "normenbestand": {
+    "normdatensaetze": 30,
+    "gliederungsteile": 0,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 28,
+    "anlagen": 0,
+    "tabellen": 27,
+    "tabellenzeilen": 137,
+    "tabellenzellen": 315,
+    "aufzaehlungskennzeichen": 123
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "kuerzel": "AAG",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/aufag/",
+  "pdf_url": "https://www.gesetze-im-internet.de/aufag/AAG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/aufag/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/aufag/BJNR368610005.html",
+  "original_dateiname": "AAG.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 5,
+  "dateien": [
+    {
+      "datei": "Quellen/AAG_aktuell.pdf",
+      "sha256": "61994cad2908a15473c00fd83fad37861d6f1085c596537ae731ac09738cadba"
+    },
+    {
+      "datei": "Quellen/AAG_bereitgestellt.pdf",
+      "sha256": "61994cad2908a15473c00fd83fad37861d6f1085c596537ae731ac09738cadba"
+    },
+    {
+      "datei": "Quellen/AAG_PDF_Rohtext.txt",
+      "sha256": "c95e730ccbcdf34d8326acd4ad896c776769e977184ac346b6acd6d2c3983170"
+    },
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "066066ebcad5a86c1cdb7e2cf1cf862b8a1b58bbcf9fd32cd599972d02af4920"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "fb76a85810cfe3fec9383bef176bea587fbb4f4ec6c48d5c346d2d287dc99997"
+    },
+    {
+      "datei": "Quellen/XML/BJNR368610005.xml",
+      "sha256": "5baaeffca8506fe1ec9a808b07810790e3a2bd03337c8d6eae85dc14e7b5134a"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "a0cb207f9a81335c0f638de85a3f04d26a84c9352515fc7af2d1b33d24c955e0"
+    }
+  ]
+}

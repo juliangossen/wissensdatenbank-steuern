@@ -1,0 +1,34 @@
+{
+  "kuerzel": "BewG",
+  "titel": "Bewertungsgesetz",
+  "rechtsgebiet": "Steuerrecht / Bewertungsrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/bewg/",
+  "quelle_html": "https://www.gesetze-im-internet.de/bewg/BJNR010350934.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/bewg/BewG.pdf",
+  "quelle_xml": "https://www.gesetze-im-internet.de/bewg/xml.zip",
+  "lokale_pdf": "BewG.pdf",
+  "aktuelle_pdf": "BewG_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR010350934.xml",
+  "ausfertigungsdatum": "1934-10-16",
+  "stand": [
+    "Neugefasst durch Bek. v. 1.2.1991 I 230; zuletzt geändert durch Art. 19 G v. 22.6.2026 I Nr. 192"
+  ],
+  "vollzitat": "\"Bewertungsgesetz in der Fassung der Bekanntmachung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 19 des Gesetzes vom 22. Juni 2026 (BGBl. 2026 I Nr. 192) geändert worden ist\"",
+  "pdf_seiten": 174,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260630215518",
+  "sha256_lokale_pdf": "554fcacb1c36a889d78d4888ba1ef4fe7d0508c81c7d8b24b8f65d4f6ababb82",
+  "sha256_aktuelle_pdf": "554fcacb1c36a889d78d4888ba1ef4fe7d0508c81c7d8b24b8f65d4f6ababb82",
+  "sha256_xml": "579c8ebeb7f1daec155d201715a7e4fa26d7a9833c21915489887bf70b4ecdc9",
+  "normenbestand": {
+    "normdatensaetze": 272,
+    "gliederungsteile": 66,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 169,
+    "anlagen": 34,
+    "tabellen": 121,
+    "tabellenzeilen": 2768,
+    "tabellenzellen": 17209,
+    "aufzaehlungskennzeichen": 281
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kuerzel": "BGB",
+  "titel": "Bürgerliches Gesetzbuch",
+  "rechtsgebiet": "Zivilrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/bgb/",
+  "lokale_pdf": "BGB_bereitgestellt.pdf",
+  "aktuelle_pdf": "BGB_aktuell.pdf",
+  "xml_datei": "Quellen/XML/BJNR001950896.xml",
+  "ausfertigungsdatum": "1896-08-18",
+  "stand": [
+    "Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+    "zuletzt geändert durch Art. 2 G v. 2.7.2026 I Nr. 198",
+    "Änderung durch Art. 1 G v. 16.7.2026 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+    "Änderung durch Art. 2 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+    "Änderung durch Art. 6 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+  ],
+  "vollzitat": "\"Bürgerliches Gesetzbuch in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S. 738), das zuletzt durch Artikel 6 des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist\"",
+  "pdf_seiten": 491,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "pdf_text_identisch_aktuell": true,
+  "pdf_url": "https://www.gesetze-im-internet.de/bgb/BGB.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR134810014",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "74ded5933343d2349f2a98fdb0879a3c32f989cf5fa246bca9fdf0f920fd3004"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR134810014BJNE000101000",
+    "enbez": "Inhaltsübersicht",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "8cdacad2246b6bf56b02e8fca6a44dd41cab66d78150f5a8c109ff7ada963bb8"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR134810014BJNG000100000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010",
+      "gliederungsbez": "Abschnitt 1",
+      "gliederungstitel": "Festsetzung des allgemeinen Mindestlohns"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR134810014BJNG000200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010010",
+      "gliederungsbez": "Unterabschnitt 1",
+      "gliederungstitel": "Inhalt des Mindestlohns"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR134810014BJNE000202311",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Mindestlohn",
+    "sha256_xml_text": "9fc15d9f5a575b87b32e168c46af56e8e008763d42454cb2fe94003413cce89c"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR134810014BJNE000300000",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Fälligkeit des Mindestlohns",
+    "sha256_xml_text": "1e23c06fec8b8898c9f00fd13c7c3f4d33116fb53f62c831d45094ca8c1d5de1"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR134810014BJNE000400000",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Unabdingbarkeit des Mindestlohns",
+    "sha256_xml_text": "9d9747023bae31e75350eeffec987372aa91a46a3255b89b8a3e6d619d10209f"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR134810014BJNG000300000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010020",
+      "gliederungsbez": "Unterabschnitt 2",
+      "gliederungstitel": "Mindestlohnkommission"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR134810014BJNE000500000",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Aufgabe und Zusammensetzung",
+    "sha256_xml_text": "5f39309d381442a9488d7e42c40f6d5f1a39327d780bc956528bb155ffe35c57"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR134810014BJNE000600000",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Stimmberechtigte Mitglieder",
+    "sha256_xml_text": "06ecd25cbd581ec83f8af5a4aca6437f29f7f75814a00f8e05087110952a7f49"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR134810014BJNE000700000",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Vorsitz",
+    "sha256_xml_text": "c129b929e09935fafd6b87b701c5eb6aa55c40db9fb12d4c6d5365c18cab3ad4"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR134810014BJNE000800000",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Beratende Mitglieder",
+    "sha256_xml_text": "058c74d2e3582b3b7d40c6f6f8d85f99eb64e561faa1d0e05b149c6cd0cdec29"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR134810014BJNE000900000",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Rechtsstellung der Mitglieder",
+    "sha256_xml_text": "43d40eb2860a8a8e28dcc80a812ff69fdc5624df5a0adbd9dfe186430d94eb89"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR134810014BJNE001001311",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": "Beschluss der Mindestlohnkommission",
+    "sha256_xml_text": "c5bb1ce3554b6e6944005aeeaa9275cc4591b5376cf70a53b42cee6bbdb8c133"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR134810014BJNE001101119",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Verfahren der Mindestlohnkommission",
+    "sha256_xml_text": "91c747bbabd5377095cba2b6522c48ac7266475f0b345c69c0a102d8d1df120a"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR134810014BJNE001200000",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Rechtsverordnung",
+    "sha256_xml_text": "b64aba2639199b4072eca70746a5969813ba9cc62029ba943a3659d32b83e19e"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR134810014BJNE001300000",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Geschäfts- und Informationsstelle für den Mindestlohn; Kostenträgerschaft",
+    "sha256_xml_text": "afdc67f273b9861e35ab36e5c048c27f43f7f313d63ec55282c2851fef1dcd14"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR134810014BJNG000400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020",
+      "gliederungsbez": "Abschnitt 2",
+      "gliederungstitel": "Zivilrechtliche Durchsetzung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR134810014BJNE001400000",
+    "enbez": "§ 13",
+    "gliederung": null,
+    "titel": "Haftung des Auftraggebers",
+    "sha256_xml_text": "bc4c22e322a5e9c441ab20708b4160899e444105845f87dbe21b44b3ad5a3a54"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR134810014BJNG000500000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030",
+      "gliederungsbez": "Abschnitt 3",
+      "gliederungstitel": "Kontrolle und Durchsetzung durch staatliche Behörden"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR134810014BJNE001500000",
+    "enbez": "§ 14",
+    "gliederung": null,
+    "titel": "Zuständigkeit",
+    "sha256_xml_text": "871d2b27d8b70a05ef171ad5ede2ceb959ae3de83eb969ca706dc4987e0f6524"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR134810014BJNE001601125",
+    "enbez": "§ 15",
+    "gliederung": null,
+    "titel": "Befugnisse der Behörden der Zollverwaltung und anderer Behörden; Mitwirkungspflichten des Arbeitgebers",
+    "sha256_xml_text": "c9dcce3ac30b010885aedd724e0deb7cb78dca3d7bb9fd9e037aa2093860ff23"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR134810014BJNE001702125",
+    "enbez": "§ 16",
+    "gliederung": null,
+    "titel": "Meldepflicht",
+    "sha256_xml_text": "f629f68fe09e923f370b5c61de1227c54a102e70248b69179fa411b79bcc4658"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR134810014BJNE001801126",
+    "enbez": "§ 17",
+    "gliederung": null,
+    "titel": "Erstellen und Bereithalten von Dokumenten",
+    "sha256_xml_text": "5a1899382b941202519c033384ff9e79dfa96626109bebeda5e3556cef80860c"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR134810014BJNE001901126",
+    "enbez": "§ 18",
+    "gliederung": null,
+    "titel": "Zusammenarbeit der in- und ausländischen Behörden",
+    "sha256_xml_text": "61bfcb0dd3ec562a847df76a668d42c4f59c9531ee49bb08ce2a0ae6ea8b86d4"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR134810014BJNE002007131",
+    "enbez": "§ 19",
+    "gliederung": null,
+    "titel": "Ausschluss von der Vergabe öffentlicher Aufträge",
+    "sha256_xml_text": "9273bb72cfb0b18ee7bdc97cd02df09b526405a653a897f195837770734b6d63"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR134810014BJNE002100000",
+    "enbez": "§ 20",
+    "gliederung": null,
+    "titel": "Pflichten des Arbeitgebers zur Zahlung des Mindestlohns",
+    "sha256_xml_text": "7d7cdcc859490da8107d87bec3e0979209437a37d282190c3f11e82121b596a7"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR134810014BJNE002204125",
+    "enbez": "§ 21",
+    "gliederung": null,
+    "titel": "Bußgeldvorschriften",
+    "sha256_xml_text": "3e08fdca9d2228d51865dad2e3019c06c01d93710b4c0b1d24adf4f74e6e08b5"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR134810014BJNG000600000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040",
+      "gliederungsbez": "Abschnitt 4",
+      "gliederungstitel": "Schlussvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR134810014BJNE002300000",
+    "enbez": "§ 22",
+    "gliederung": null,
+    "titel": "Persönlicher Anwendungsbereich",
+    "sha256_xml_text": "f2f91f4f4ba37bf576adadb07470f2aa3b98ee25f38a4ef06374930b9c74da42"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR134810014BJNE002400000",
+    "enbez": "§ 23",
+    "gliederung": null,
+    "titel": "Evaluation",
+    "sha256_xml_text": "f4d018ecaa610e23600385ec61da49e5c75ff2d740c04c678c60e63f83928935"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR134810014BJNE002501000",
+    "enbez": "§ 24",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+]

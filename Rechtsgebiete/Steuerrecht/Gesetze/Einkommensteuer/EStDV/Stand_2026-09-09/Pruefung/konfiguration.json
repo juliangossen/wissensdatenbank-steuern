@@ -1,0 +1,34 @@
+{
+  "kuerzel": "EStDV",
+  "titel": "Einkommensteuer-Durchführungsverordnung",
+  "rechtsgebiet": "Steuerrecht / Einkommensteuer",
+  "quelle_url": "https://www.gesetze-im-internet.de/estdv_1955/",
+  "quelle_html": "https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/estdv_1955/EStDV_1955.pdf",
+  "lokale_pdf": "EStDV_1955.pdf",
+  "aktuelle_pdf": "EStDV_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR007560955.xml",
+  "ausfertigungsdatum": "1955-12-21",
+  "stand": [
+    "Neugefasst durch Bek. v. 10.5.2000 I 717;",
+    "zuletzt geändert durch Art. 2 V v. 19.12.2025 I Nr. 372"
+  ],
+  "vollzitat": "\"Einkommensteuer-Durchführungsverordnung in der Fassung der Bekanntmachung vom 10. Mai 2000 (BGBl. I S. 717), die zuletzt durch Artikel 2 der Verordnung vom 19. Dezember 2025 (BGBl. 2025 I Nr. 372) geändert worden ist\"",
+  "pdf_seiten": 28,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260506174836",
+  "sha256_lokale_pdf": "66cdeb9a11787c752b11eae99bb99a6e0784109f7b83b820b512a6a8e0700c9f",
+  "sha256_aktuelle_pdf": "66cdeb9a11787c752b11eae99bb99a6e0784109f7b83b820b512a6a8e0700c9f",
+  "sha256_xml": "917f896d8d11e0e1be257e284495ccb789e95497e238a4d9604ea62d81e764a9",
+  "normenbestand": {
+    "normdatensaetze": 99,
+    "gliederungsteile": 22,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 71,
+    "anlagen": 4,
+    "tabellen": 2,
+    "tabellenzeilen": 159,
+    "tabellenzellen": 442,
+    "aufzaehlungskennzeichen": 108
+  }
+}

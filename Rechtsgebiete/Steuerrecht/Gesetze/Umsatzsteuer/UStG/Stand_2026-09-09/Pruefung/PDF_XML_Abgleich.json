@@ -1,0 +1,954 @@
+{
+  "method": "Per XML norm, remove page chrome and all whitespace only; NFC; compare complete heading, text, footnote strings in sequence.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 1289,
+      "xml_chars": 1289,
+      "equal": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 5027,
+      "xml_chars": 5027,
+      "equal": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Erster AbschnittSteuergegenstand und\nGeltungsbereich",
+      "pdf_chars": 49,
+      "xml_chars": 49,
+      "equal": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 3774,
+      "xml_chars": 3774,
+      "equal": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 1a",
+      "pdf_chars": 2358,
+      "xml_chars": 2358,
+      "equal": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 1b",
+      "pdf_chars": 1040,
+      "xml_chars": 1040,
+      "equal": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 1c",
+      "pdf_chars": 1335,
+      "xml_chars": 1335,
+      "equal": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 2",
+      "pdf_chars": 1169,
+      "xml_chars": 1169,
+      "equal": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 2a",
+      "pdf_chars": 322,
+      "xml_chars": 322,
+      "equal": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 2b",
+      "pdf_chars": 2323,
+      "xml_chars": 2323,
+      "equal": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 3",
+      "pdf_chars": 11914,
+      "xml_chars": 11914,
+      "equal": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 3a",
+      "pdf_chars": 9954,
+      "xml_chars": 9954,
+      "equal": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 3b",
+      "pdf_chars": 1893,
+      "xml_chars": 1893,
+      "equal": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 3c",
+      "pdf_chars": 3156,
+      "xml_chars": 3156,
+      "equal": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 3d",
+      "pdf_chars": 574,
+      "xml_chars": 574,
+      "equal": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 3e",
+      "pdf_chars": 1061,
+      "xml_chars": 1061,
+      "equal": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 3f",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 3g",
+      "pdf_chars": 1119,
+      "xml_chars": 1119,
+      "equal": true
+    },
+    {
+      "norm_index": 18,
+      "name": "Zweiter AbschnittSteuerbefreiungen und\nSteuervergütungen",
+      "pdf_chars": 53,
+      "xml_chars": 53,
+      "equal": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 4",
+      "pdf_chars": 31910,
+      "xml_chars": 31910,
+      "equal": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 4a",
+      "pdf_chars": 1756,
+      "xml_chars": 1756,
+      "equal": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 4b",
+      "pdf_chars": 575,
+      "xml_chars": 575,
+      "equal": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 4c",
+      "pdf_chars": 1672,
+      "xml_chars": 1672,
+      "equal": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 5",
+      "pdf_chars": 5148,
+      "xml_chars": 5148,
+      "equal": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 6",
+      "pdf_chars": 2527,
+      "xml_chars": 2527,
+      "equal": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 6a",
+      "pdf_chars": 1816,
+      "xml_chars": 1816,
+      "equal": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 6b",
+      "pdf_chars": 4471,
+      "xml_chars": 4471,
+      "equal": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 7",
+      "pdf_chars": 1589,
+      "xml_chars": 1589,
+      "equal": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 8",
+      "pdf_chars": 2270,
+      "xml_chars": 2270,
+      "equal": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 9",
+      "pdf_chars": 1095,
+      "xml_chars": 1095,
+      "equal": true
+    },
+    {
+      "norm_index": 30,
+      "name": "Dritter AbschnittBemessungsgrundlagen",
+      "pdf_chars": 36,
+      "xml_chars": 36,
+      "equal": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 10",
+      "pdf_chars": 4048,
+      "xml_chars": 4048,
+      "equal": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 11",
+      "pdf_chars": 1885,
+      "xml_chars": 1885,
+      "equal": true
+    },
+    {
+      "norm_index": 33,
+      "name": "Vierter AbschnittSteuer und Vorsteuer",
+      "pdf_chars": 34,
+      "xml_chars": 34,
+      "equal": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 12",
+      "pdf_chars": 6037,
+      "xml_chars": 6037,
+      "equal": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 13",
+      "pdf_chars": 2329,
+      "xml_chars": 2329,
+      "equal": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 13a",
+      "pdf_chars": 1059,
+      "xml_chars": 1059,
+      "equal": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 13b",
+      "pdf_chars": 10800,
+      "xml_chars": 10800,
+      "equal": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 13c",
+      "pdf_chars": 2018,
+      "xml_chars": 2018,
+      "equal": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 13d",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 14",
+      "pdf_chars": 8315,
+      "xml_chars": 8315,
+      "equal": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§ 14a",
+      "pdf_chars": 3114,
+      "xml_chars": 3114,
+      "equal": true
+    },
+    {
+      "norm_index": 42,
+      "name": "§ 14b",
+      "pdf_chars": 2962,
+      "xml_chars": 2962,
+      "equal": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 14c",
+      "pdf_chars": 1510,
+      "xml_chars": 1510,
+      "equal": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 15",
+      "pdf_chars": 5922,
+      "xml_chars": 5922,
+      "equal": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 15a",
+      "pdf_chars": 4726,
+      "xml_chars": 4726,
+      "equal": true
+    },
+    {
+      "norm_index": 46,
+      "name": "Fünfter AbschnittBesteuerung",
+      "pdf_chars": 27,
+      "xml_chars": 27,
+      "equal": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 16",
+      "pdf_chars": 7123,
+      "xml_chars": 7123,
+      "equal": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 17",
+      "pdf_chars": 2512,
+      "xml_chars": 2512,
+      "equal": true
+    },
+    {
+      "norm_index": 49,
+      "name": "§ 18",
+      "pdf_chars": 23434,
+      "xml_chars": 23434,
+      "equal": true
+    },
+    {
+      "norm_index": 50,
+      "name": "§ 18a",
+      "pdf_chars": 9137,
+      "xml_chars": 9137,
+      "equal": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 18b",
+      "pdf_chars": 1288,
+      "xml_chars": 1288,
+      "equal": true
+    },
+    {
+      "norm_index": 52,
+      "name": "§ 18c",
+      "pdf_chars": 567,
+      "xml_chars": 567,
+      "equal": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 18d",
+      "pdf_chars": 539,
+      "xml_chars": 539,
+      "equal": true
+    },
+    {
+      "norm_index": 54,
+      "name": "§ 18e",
+      "pdf_chars": 466,
+      "xml_chars": 466,
+      "equal": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 18f",
+      "pdf_chars": 296,
+      "xml_chars": 296,
+      "equal": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§ 18g",
+      "pdf_chars": 1199,
+      "xml_chars": 1199,
+      "equal": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 18h",
+      "pdf_chars": 3036,
+      "xml_chars": 3036,
+      "equal": true
+    },
+    {
+      "norm_index": 58,
+      "name": "§ 18i",
+      "pdf_chars": 5290,
+      "xml_chars": 5290,
+      "equal": true
+    },
+    {
+      "norm_index": 59,
+      "name": "§ 18j",
+      "pdf_chars": 7456,
+      "xml_chars": 7456,
+      "equal": true
+    },
+    {
+      "norm_index": 60,
+      "name": "§ 18k",
+      "pdf_chars": 7494,
+      "xml_chars": 7494,
+      "equal": true
+    },
+    {
+      "norm_index": 61,
+      "name": "§ 19",
+      "pdf_chars": 2821,
+      "xml_chars": 2821,
+      "equal": true
+    },
+    {
+      "norm_index": 62,
+      "name": "§ 19a",
+      "pdf_chars": 2359,
+      "xml_chars": 2359,
+      "equal": true
+    },
+    {
+      "norm_index": 63,
+      "name": "§ 20",
+      "pdf_chars": 1092,
+      "xml_chars": 1092,
+      "equal": true
+    },
+    {
+      "norm_index": 64,
+      "name": "§ 21",
+      "pdf_chars": 1834,
+      "xml_chars": 1834,
+      "equal": true
+    },
+    {
+      "norm_index": 65,
+      "name": "§ 21a",
+      "pdf_chars": 4798,
+      "xml_chars": 4798,
+      "equal": true
+    },
+    {
+      "norm_index": 66,
+      "name": "§ 21b",
+      "pdf_chars": 1944,
+      "xml_chars": 1944,
+      "equal": true
+    },
+    {
+      "norm_index": 67,
+      "name": "§ 22",
+      "pdf_chars": 10416,
+      "xml_chars": 10416,
+      "equal": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 22a",
+      "pdf_chars": 775,
+      "xml_chars": 775,
+      "equal": true
+    },
+    {
+      "norm_index": 69,
+      "name": "§ 22b",
+      "pdf_chars": 971,
+      "xml_chars": 971,
+      "equal": true
+    },
+    {
+      "norm_index": 70,
+      "name": "§ 22c",
+      "pdf_chars": 254,
+      "xml_chars": 254,
+      "equal": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 22d",
+      "pdf_chars": 331,
+      "xml_chars": 331,
+      "equal": true
+    },
+    {
+      "norm_index": 72,
+      "name": "§ 22e",
+      "pdf_chars": 383,
+      "xml_chars": 383,
+      "equal": true
+    },
+    {
+      "norm_index": 73,
+      "name": "§ 22f",
+      "pdf_chars": 2211,
+      "xml_chars": 2211,
+      "equal": true
+    },
+    {
+      "norm_index": 74,
+      "name": "§ 22g",
+      "pdf_chars": 8186,
+      "xml_chars": 8186,
+      "equal": true
+    },
+    {
+      "norm_index": 75,
+      "name": "Sechster AbschnittSonderregelungen",
+      "pdf_chars": 33,
+      "xml_chars": 33,
+      "equal": true
+    },
+    {
+      "norm_index": 76,
+      "name": "§ 23",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true
+    },
+    {
+      "norm_index": 77,
+      "name": "§ 23a",
+      "pdf_chars": 1360,
+      "xml_chars": 1360,
+      "equal": true
+    },
+    {
+      "norm_index": 78,
+      "name": "§ 24",
+      "pdf_chars": 3131,
+      "xml_chars": 3131,
+      "equal": true
+    },
+    {
+      "norm_index": 79,
+      "name": "§ 25",
+      "pdf_chars": 1799,
+      "xml_chars": 1799,
+      "equal": true
+    },
+    {
+      "norm_index": 80,
+      "name": "§ 25a",
+      "pdf_chars": 4216,
+      "xml_chars": 4216,
+      "equal": true
+    },
+    {
+      "norm_index": 81,
+      "name": "§ 25b",
+      "pdf_chars": 2560,
+      "xml_chars": 2560,
+      "equal": true
+    },
+    {
+      "norm_index": 82,
+      "name": "§ 25c",
+      "pdf_chars": 2703,
+      "xml_chars": 2703,
+      "equal": true
+    },
+    {
+      "norm_index": 83,
+      "name": "§ 25d",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true
+    },
+    {
+      "norm_index": 84,
+      "name": "§ 25e",
+      "pdf_chars": 3593,
+      "xml_chars": 3593,
+      "equal": true
+    },
+    {
+      "norm_index": 85,
+      "name": "§ 25f",
+      "pdf_chars": 855,
+      "xml_chars": 855,
+      "equal": true
+    },
+    {
+      "norm_index": 86,
+      "name": "Siebenter AbschnittDurchführung, Bußgeld-,\nStraf-, Verfahrens-, Übergangs- und Schlussvorschriften",
+      "pdf_chars": 91,
+      "xml_chars": 91,
+      "equal": true
+    },
+    {
+      "norm_index": 87,
+      "name": "§ 26",
+      "pdf_chars": 4363,
+      "xml_chars": 4363,
+      "equal": true
+    },
+    {
+      "norm_index": 88,
+      "name": "§ 26a",
+      "pdf_chars": 1989,
+      "xml_chars": 1989,
+      "equal": true
+    },
+    {
+      "norm_index": 89,
+      "name": "§ 26b",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true
+    },
+    {
+      "norm_index": 90,
+      "name": "§ 26c",
+      "pdf_chars": 219,
+      "xml_chars": 219,
+      "equal": true
+    },
+    {
+      "norm_index": 91,
+      "name": "§ 27",
+      "pdf_chars": 14879,
+      "xml_chars": 14879,
+      "equal": true
+    },
+    {
+      "norm_index": 92,
+      "name": "§ 27a",
+      "pdf_chars": 2870,
+      "xml_chars": 2870,
+      "equal": true
+    },
+    {
+      "norm_index": 93,
+      "name": "§ 27b",
+      "pdf_chars": 1846,
+      "xml_chars": 1846,
+      "equal": true
+    },
+    {
+      "norm_index": 94,
+      "name": "§ 28",
+      "pdf_chars": 1509,
+      "xml_chars": 1509,
+      "equal": true
+    },
+    {
+      "norm_index": 95,
+      "name": "§ 29",
+      "pdf_chars": 613,
+      "xml_chars": 613,
+      "equal": true
+    },
+    {
+      "norm_index": 96,
+      "name": "§ 30",
+      "pdf_chars": 584,
+      "xml_chars": 584,
+      "equal": true
+    },
+    {
+      "norm_index": 97,
+      "name": "Anlage 1",
+      "pdf_chars": 20,
+      "xml_chars": 20,
+      "equal": true
+    },
+    {
+      "norm_index": 98,
+      "name": "Anlage 2",
+      "pdf_chars": 11060,
+      "xml_chars": 11060,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "delete",
+          "xml": "1",
+          "pdf": "",
+          "before": "Nr.WarenbezeichnungZolltarif(Kapitel,Position,Unterposition)",
+          "after": "LebendeTiere,undzwara)(weggefallen)b)MaultiereundMaulesel,au"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "1",
+          "before": "tion0106i)Haustauben,ausPosition0106j)Bienen,ausPosition0106",
+          "after": "k)ausgebildeteBlindenführhundeausPosition01062Fleischundgeni"
+        },
+        {
+          "kind": "delete",
+          "xml": "5",
+          "pdf": "",
+          "before": "ohneSchaleundungenießbaresEigelb;natürlicherHonigausKapitel4",
+          "after": "AndereWarentierischenUrsprungs,undzwara)MägenvonHausrindernu"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "5",
+          "before": "ausrindernundHausgeflügel,ausPosition05040000b)(weggefallen)",
+          "after": "c)roheKnochenausPosition05066Bulben,Zwiebeln,Knollen,Wurzelk"
+        },
+        {
+          "kind": "delete",
+          "xml": "10",
+          "pdf": "",
+          "before": "oseundFlechten,zuBinde-oderZierzwecken,frischausPosition0604",
+          "after": "Gemüse,Pflanzen,WurzelnundKnollen,diezuErnährungszweckenverw"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "10",
+          "before": "elösteHülsenfrüchte,auchgeschältoderzerkleinert,Position0713",
+          "after": "n)TopinamburausPosition071411GenießbareFrüchteundNüssePositi"
+        },
+        {
+          "kind": "delete",
+          "xml": "14",
+          "pdf": "",
+          "before": "is081312Kaffee,Tee,MateundGewürzeKapitel913GetreideKapitel10",
+          "after": "Müllereierzeugnisse,undzwara)MehlvonGetreide,Positionen11010"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "14",
+          "before": "d1102b)Grobgrieß,FeingrießundPelletsvonGetreide,Position1103",
+          "after": "c)Getreidekörner,andersbearbeitet;Getreidekeime,ganz,gequets"
+        },
+        {
+          "kind": "delete",
+          "xml": "26",
+          "pdf": "",
+          "before": "stoffe,PektinateundPektateUnterposition13022025(weggefallen)",
+          "after": "GenießbaretierischeundpflanzlicheFetteundÖle,auchverarbeitet"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "62",
+          "before": "ausgenommenhydriertesRizinusöl(sog.Opalwachs),ausPosition151",
+          "after": "6f)Margarine;genießbareMischungenundZubereitungenvontierisch"
+        },
+        {
+          "kind": "delete",
+          "xml": "40",
+          "pdf": "",
+          "before": "efallen)39Speisesalz,nichtinwässrigerLösungausPosition250100",
+          "after": "a)handelsüblichesAmmoniumcarbonatundandereAmmoniumcarbonate,"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "40",
+          "before": "niumcarbonatundandereAmmoniumcarbonate,Unterposition28369917",
+          "after": "b)Natriumhydrogencarbonat(Natriumbicarbonat)Unterposition283"
+        },
+        {
+          "kind": "delete",
+          "xml": "48",
+          "pdf": "",
+          "before": "hengebrauchausUnterposition33021047GelatineausPosition350300",
+          "after": "Holz,undzwara)BrennholzinFormvonPlättchenoderSchnitzeln,Rund"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "48",
+          "before": "ten,Zweigen,ReisigbündelnoderähnlichenFormen,ausPosition4401",
+          "after": "b)Sägespäne,HolzabfälleundHolzausschuss,auchzuPellets,Briket"
+        },
+        {
+          "kind": "delete",
+          "xml": "49",
+          "pdf": "",
+          "before": "nterpositionen44013100,44013200,44013900,44014100und44014900",
+          "after": "Bücher,ZeitungenundandereErzeugnissedesgrafischenGewerbesmit"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "49",
+          "before": "karten,topografischerPläneundGloben,gedruckt,ausPosition4905",
+          "after": "f)Briefmarkenunddergleichen(z.B.Ersttagsbriefe,Ganzsachen)al"
+        },
+        {
+          "kind": "delete",
+          "xml": "52",
+          "pdf": "",
+          "before": "derandererVorrichtungzurmechanischenFortbewegungPosition8713",
+          "after": "Körperersatzstücke,orthopädischeApparateundandereorthopädisc"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "52",
+          "before": "enTeileundZubehör,ausUnterpositionen902121,90212900und902139",
+          "after": "d)Schwerhörigengeräte,HerzschrittmacherundandereVorrichtunge"
+        },
+        {
+          "kind": "delete",
+          "xml": "54",
+          "pdf": "",
+          "before": "lerzeugnissederBildhauerkunst,ausStoffenallerArtPosition9703",
+          "after": "Sammlungsstücke,a)zoologische,botanische,mineralogischeodera"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "54",
+          "before": "d,ausPosition9705bb)MünzenausunedlenMetallen,ausPosition9705",
+          "after": "cc)MünzenundMedaillenausEdelmetallen,wenndieBemessungsgrundl"
+        },
+        {
+          "kind": "delete",
+          "xml": "55",
+          "pdf": "",
+          "before": "enMetallwertsohneUmsatzsteuerbeträgtausPositionen9705und9706",
+          "after": "ErzeugnissefürZweckederMonatshygiene,undzwara)hygienischeBin"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "55",
+          "before": "usWeichkautschuk(Menstruationstassen),ausUnterposition401490",
+          "after": "d)natürlicheSchwämmetierischenUrsprungs(Menstruationsschwämm"
+        }
+      ]
+    },
+    {
+      "norm_index": 99,
+      "name": "Anlage 3",
+      "pdf_chars": 1826,
+      "xml_chars": 1762,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "Lfd.Nr.WarenbezeichnungZolltarif(Kapitel,Position,Unterposition)",
+          "before": "ion26204Abfälle,SchnitzelundBruchvonKunststoffenPosition3915",
+          "after": "5Abfälle,BruchundSchnitzelvonWeichkautschuk,auchzuPulveroder"
+        }
+      ]
+    },
+    {
+      "norm_index": 100,
+      "name": "Anlage 4",
+      "pdf_chars": 1453,
+      "xml_chars": 1389,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "Lfd.Nr.WarenbezeichnungZolltarif(Kapitel,Position,Unterposition)",
+          "before": "Rohform;PulverundFlitter,ausNickelPositionen7501,7502und7504",
+          "after": "6AluminiuminRohform;PulverundFlitter,ausAluminiumPositionen7"
+        }
+      ]
+    },
+    {
+      "norm_index": 101,
+      "name": "Anlage 5",
+      "pdf_chars": 1709,
+      "xml_chars": 1709,
+      "equal": true
+    }
+  ],
+  "remaining_difference_verification": [
+    {
+      "name": "Anlage 2",
+      "classification": "Only extraction-order displacement of the listed leftmost table row labels; all remaining characters and their sequence match.",
+      "row_labels": [
+        "1",
+        "5",
+        "10",
+        "14",
+        "26",
+        "40",
+        "48",
+        "49",
+        "52",
+        "54",
+        "55"
+      ],
+      "pdf_occurrences": {
+        "1": 1,
+        "5": 1,
+        "10": 1,
+        "14": 1,
+        "26": 1,
+        "40": 1,
+        "48": 1,
+        "49": 1,
+        "52": 1,
+        "54": 1,
+        "55": 1
+      },
+      "xml_occurrences": {
+        "1": 1,
+        "5": 1,
+        "10": 1,
+        "14": 1,
+        "26": 1,
+        "40": 1,
+        "48": 1,
+        "49": 1,
+        "52": 1,
+        "54": 1,
+        "55": 1
+      },
+      "match_after_removing_each_label_once": true
+    },
+    {
+      "name": "Anlage 3",
+      "classification": "Exactly one repeated table column header at PDF page break.",
+      "table_header_count": 2,
+      "match_after_removing_repeated_header": true
+    },
+    {
+      "name": "Anlage 4",
+      "classification": "Exactly one repeated table column header at PDF page break.",
+      "table_header_count": 2,
+      "match_after_removing_repeated_header": true
+    }
+  ],
+  "pdf_sha256": "33f6390556be7dcbfd52c2a3fc68ea95e877276b73d69a7c8ced6e59e3f0aac6",
+  "xml_sha256": "d25fccc9b7c1a7bec9fcfce55b5400ea521f818adfdbe9452ab9fcfd8d98f777",
+  "result": "All 102 records match in full; only the explicitly verified table-layout differences remain."
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "kuerzel": "DVO (EU) 282/2011",
+    "titel": "Durchführungsverordnung (EU) Nr. 282/2011 des Rates zur Festlegung von Durchführungsvorschriften zur Richtlinie 2006/112/EG über das gemeinsame Mehrwertsteuersystem",
+    "bereich": "Steuerrecht / Verordnungen / Umsatzsteuer",
+    "original": "DVO (EU) 282_2011.pdf",
+    "markdown": "Rechtsgebiete/Steuerrecht/Verordnungen/Umsatzsteuer/DVO_EU_282_2011/Stand_2026-09-09/DVO_EU_282_2011.md",
+    "pruefbericht": "Rechtsgebiete/Steuerrecht/Verordnungen/Umsatzsteuer/DVO_EU_282_2011/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 22,
+    "quellenstand": [
+      "Ursprüngliche Amtsblattfassung vom 23.03.2011, ABl. L 77, S. 1–22; Rechtsakt vom 2011-03-15.",
+      "Keine konsolidierte Fassung: spätere Änderungen und Berichtigungen sind nicht in diese Originalfassung eingearbeitet.",
+      "Import und Abgleich am 2026-09-09; das Ordnerdatum bezeichnet den Importstand, nicht einen aktuellen Rechtsstand."
+    ],
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32011R0282",
+    "sha256_original_pdf": "3458aa87c914ce7ecd52889f465c0165c50a7f4e7d8c1a2ed0c41d70c2ad700e",
+    "sha256_markdown": "f7abca1b162e8ad4a877ee36c467886c57d5f43d4c364708e69bd33847ed013b"
+  },
+  {
+    "kuerzel": "DSGVO",
+    "titel": "Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates (Datenschutz-Grundverordnung)",
+    "bereich": "Datenschutzrecht",
+    "original": "DSGVO 2016_679.pdf",
+    "markdown": "Rechtsgebiete/Datenschutzrecht/DSGVO/Stand_2026-09-09/DSGVO.md",
+    "pruefbericht": "Rechtsgebiete/Datenschutzrecht/DSGVO/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 88,
+    "quellenstand": [
+      "Ursprüngliche Amtsblattfassung vom 04.05.2016, ABl. L 119, S. 1–88; Rechtsakt vom 2016-04-27.",
+      "Keine konsolidierte Fassung: spätere Änderungen und Berichtigungen sind nicht in diese Originalfassung eingearbeitet.",
+      "Import und Abgleich am 2026-09-09; das Ordnerdatum bezeichnet den Importstand, nicht einen aktuellen Rechtsstand."
+    ],
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679",
+    "sha256_original_pdf": "27b720c812be1bdf1462ff468ad6410fe94da80b48f6d10fa7e2269b9e5a1597",
+    "sha256_markdown": "a8a300efbe43b978a7a6c2d51765263b51cd1135010a724772d2e45ec13bbfa3"
+  },
+  {
+    "kuerzel": "MwStSystRL",
+    "titel": "Richtlinie 2006/112/EG des Rates über das gemeinsame Mehrwertsteuersystem",
+    "bereich": "Steuerrecht / Richtlinien / Umsatzsteuer",
+    "original": "MwStSystRL 2006_112_EG.pdf",
+    "markdown": "Rechtsgebiete/Steuerrecht/Richtlinien/Umsatzsteuer/MwStSystRL/Stand_2026-09-09/MwStSystRL.md",
+    "pruefbericht": "Rechtsgebiete/Steuerrecht/Richtlinien/Umsatzsteuer/MwStSystRL/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 118,
+    "quellenstand": [
+      "Ursprüngliche Amtsblattfassung vom 11.12.2006, ABl. L 347, S. 1–118; Rechtsakt vom 2006-11-28.",
+      "Keine konsolidierte Fassung: spätere Änderungen und Berichtigungen sind nicht in diese Originalfassung eingearbeitet.",
+      "Import und Abgleich am 2026-09-09; das Ordnerdatum bezeichnet den Importstand, nicht einen aktuellen Rechtsstand."
+    ],
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32006L0112",
+    "sha256_original_pdf": "5d2c9170a56c40fc2df7f8b7e78f7066a4c4b3d4846b486561b2453165430f3b",
+    "sha256_markdown": "917c8070f48fd6019e4eb36e7bd9454ad9baf90b7a2dbe6485655042d01f9699"
+  }
+]

@@ -1,0 +1,468 @@
+{
+  "kuerzel": "ErbStG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 293,
+      "xml_chars": 293,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 1783,
+      "xml_chars": 1783,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Abschnitt 1Steuerpflicht",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 767,
+      "xml_chars": 767,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 2",
+      "pdf_chars": 2368,
+      "xml_chars": 2368,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 2a",
+      "pdf_chars": 417,
+      "xml_chars": 417,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 3",
+      "pdf_chars": 2958,
+      "xml_chars": 2958,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 4",
+      "pdf_chars": 460,
+      "xml_chars": 460,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 5",
+      "pdf_chars": 2221,
+      "xml_chars": 2221,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 6",
+      "pdf_chars": 1032,
+      "xml_chars": 1032,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 7",
+      "pdf_chars": 4718,
+      "xml_chars": 4718,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 8",
+      "pdf_chars": 301,
+      "xml_chars": 301,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 9",
+      "pdf_chars": 2046,
+      "xml_chars": 2046,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "Abschnitt 2Wertermittlung",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 10",
+      "pdf_chars": 6649,
+      "xml_chars": 6649,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 11",
+      "pdf_chars": 134,
+      "xml_chars": 134,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 12",
+      "pdf_chars": 1381,
+      "xml_chars": 1381,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 13",
+      "pdf_chars": 15105,
+      "xml_chars": 15105,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 13a",
+      "pdf_chars": 15275,
+      "xml_chars": 15275,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 13b",
+      "pdf_chars": 15336,
+      "xml_chars": 15336,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 13c",
+      "pdf_chars": 1502,
+      "xml_chars": 1502,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 13d",
+      "pdf_chars": 1631,
+      "xml_chars": 1631,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "Abschnitt 3Berechnung der Steuer",
+      "pdf_chars": 29,
+      "xml_chars": 29,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 14",
+      "pdf_chars": 1575,
+      "xml_chars": 1575,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 15",
+      "pdf_chars": 2308,
+      "xml_chars": 2308,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 16",
+      "pdf_chars": 1100,
+      "xml_chars": 1100,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 17",
+      "pdf_chars": 1888,
+      "xml_chars": 1888,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 18",
+      "pdf_chars": 278,
+      "xml_chars": 278,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 19",
+      "pdf_chars": 868,
+      "xml_chars": 868,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "ProzentsatzinderSteuerklasse",
+          "before": "tsteuerwirdnachfolgendenProzentsätzenerhoben:",
+          "after": "WertdessteuerpflichtigenErwerbs(§10)biseinsch"
+        },
+        {
+          "kind": "delete",
+          "xml": "ProzentsatzinderSteuerklasse",
+          "pdf": "",
+          "before": "pflichtigenErwerbs(§10)biseinschließlich…Euro",
+          "after": "IIIIII750007153030000011203060000015253060000"
+        }
+      ],
+      "nach_layoutabgleich_identisch": true,
+      "layoutpruefung": [
+        {
+          "art": "Tabellenkopf-Lesereihenfolge und/oder Wiederholung am Seitenumbruch",
+          "pdf_kopf": "ProzentsatzinderSteuerklasseWertdessteuerpflichtigenErwerbs(§10)biseinschließlich…EuroIIIIII",
+          "xml_kopf": "WertdessteuerpflichtigenErwerbs(§10)biseinschließlich…EuroProzentsatzinderSteuerklasseIIIIII",
+          "pdf_vorkommen": 1,
+          "zeichenbestand_kopf_identisch": true
+        }
+      ]
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 19a",
+      "pdf_chars": 2264,
+      "xml_chars": 2264,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "Abschnitt 4Steuerfestsetzung und Erhebung",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 20",
+      "pdf_chars": 1846,
+      "xml_chars": 1846,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 21",
+      "pdf_chars": 2155,
+      "xml_chars": 2155,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 22",
+      "pdf_chars": 161,
+      "xml_chars": 161,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 23",
+      "pdf_chars": 782,
+      "xml_chars": 782,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 24",
+      "pdf_chars": 303,
+      "xml_chars": 303,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 25",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 26",
+      "pdf_chars": 405,
+      "xml_chars": 405,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 27",
+      "pdf_chars": 1124,
+      "xml_chars": 1124,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 28",
+      "pdf_chars": 2534,
+      "xml_chars": 2534,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 28a",
+      "pdf_chars": 5306,
+      "xml_chars": 5306,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§ 29",
+      "pdf_chars": 1868,
+      "xml_chars": 1868,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "§ 30",
+      "pdf_chars": 2112,
+      "xml_chars": 2112,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 31",
+      "pdf_chars": 1725,
+      "xml_chars": 1725,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 32",
+      "pdf_chars": 433,
+      "xml_chars": 433,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 33",
+      "pdf_chars": 1290,
+      "xml_chars": 1290,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "§ 34",
+      "pdf_chars": 902,
+      "xml_chars": 902,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 35",
+      "pdf_chars": 1619,
+      "xml_chars": 1619,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "Abschnitt 5Ermächtigungs- und Schlussvorschriften",
+      "pdf_chars": 46,
+      "xml_chars": 46,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "§ 36",
+      "pdf_chars": 1648,
+      "xml_chars": 1648,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "§ 37",
+      "pdf_chars": 6978,
+      "xml_chars": 6978,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 37a",
+      "pdf_chars": 1805,
+      "xml_chars": 1805,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "§ 38",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 39",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 53,
+  "gesamt": 54,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "a99eb7335fac93a98590d2a2f0a46c4926077a193769bbddf96dedf3b63b6015",
+  "xml_sha256": "0be82e8e1b128bfb91f002b18612b7e7d1fd7eddf96908b6afb0cc0d1a7f1794"
+}

@@ -1,0 +1,115 @@
+{
+  "kuerzel": "KStDV",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 232,
+      "xml_chars": 232,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "-Zu § 5 Abs. 1 Nr. 3 des Gesetzes",
+      "pdf_chars": 25,
+      "xml_chars": 25,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "§ 1",
+      "pdf_chars": 762,
+      "xml_chars": 762,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 2",
+      "pdf_chars": 913,
+      "xml_chars": 913,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 3",
+      "pdf_chars": 567,
+      "xml_chars": 567,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "-Zu § 5 Abs. 1 Nr. 4 des Gesetzes",
+      "pdf_chars": 25,
+      "xml_chars": 25,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 4",
+      "pdf_chars": 602,
+      "xml_chars": 602,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "-Zu § 26 Abs. 3 des Gesetzes",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 5",
+      "pdf_chars": 15,
+      "xml_chars": 15,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "-Schlußvorschrift",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 6",
+      "pdf_chars": 152,
+      "xml_chars": 152,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 7",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "Anlage",
+      "pdf_chars": 19,
+      "xml_chars": 19,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 13,
+  "gesamt": 13,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "dcb08e4c18e3430953f6b2b3fce5119428f9212db5aeb0ae8c272c4f5587a812",
+  "xml_sha256": "3f7a5df179222fbd146bd048d9ae348aa4893f5846539b70cddeea1bb1e23b21"
+}

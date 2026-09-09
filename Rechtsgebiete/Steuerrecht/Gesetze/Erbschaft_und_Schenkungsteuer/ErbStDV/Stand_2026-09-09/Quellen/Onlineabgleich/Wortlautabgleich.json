@@ -1,0 +1,402 @@
+{
+  "erstellt_mit": "Pruefung/wortlautabgleich.py",
+  "webkopie": {
+    "datei": "Quellen/ErbStDV_Webkopie.txt",
+    "sha256": "dbb708bb0865ed7a3edd3de4a141eb4d6af7cef9f2cd14a7f22fc493de3c7c08"
+  },
+  "amtliche_xml": {
+    "datei": "Quellen/Onlineabgleich/BJNR265800998.xml",
+    "sha256": "7696d496c8c94a771af67cbe835806545a4849217b056ed758d37465bd0ca200",
+    "builddate": "20260630215606",
+    "doknr": "BJNR265800998"
+  },
+  "muster_5_textgrundlage": {
+    "datei": "Quellen/Onlineabgleich/bgbl1_2025_j0372_0010_pdftotext.txt",
+    "sha256": "d0f64e6a1de72c749c07f36d7f6e656d43ae0e6a742f66f0adacc8154d161237"
+  },
+  "normalisierung": [
+    "Anbieterfußnoten der Kopie ausgelassen",
+    "Fußnotenmarker [n] entfernt",
+    "Satznummern der Kopie entfernt",
+    "Leerzeichen nach angeklebten Aufzählungszeichen eingefügt",
+    "U+2004, U+2009, U+00A0 zu Leerzeichen; U+00AD entfernt; Leerraum zusammengezogen",
+    "Muster: Vergleich als Wortmengen (Token [0-9A-Za-zÄÖÜäöüß]+), Layoutzeichen bleiben unberücksichtigt"
+  ],
+  "rahmen": {
+    "kopie_zeile_7": "Zuletzt geändert durch Art. 11 Gesetz zur Digitalisierung des Vollzugs von Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften und der steuerlichen Anzeigen der Notare vom 22.6.2026 (BGBl. 2026 I Nr. 192)",
+    "xml_standkommentar": "Zuletzt geändert durch Art. 11 G v. 22.6.2026 I Nr. 192",
+    "stand_stimmt_ueberein": true,
+    "kopie_zeile_1": "ErbStDV\t[Erbschaftsteuer-Durchführungsverordnung]\tText gilt vom 30.12.2025 bis unbestimmt\tBund",
+    "xml_builddate": "20260630215606",
+    "xml_ausfertigungsdatum": "1998-09-08",
+    "kopie_zeile_4": "Vom 8. September 1998",
+    "xml_fundstelle": "BGBl I 1998, 2658",
+    "kopie_zeile_5": "(BGBl. I S. 2658)",
+    "xml_langue": "Erbschaftsteuer-Durchführungsverordnung",
+    "kopie_zeile_2": "Erbschaftsteuer-Durchführungsverordnung",
+    "gliederungsbezeichnungen_xml": [
+      "Zu § 33 ErbStG",
+      "Zu § 34 ErbStG",
+      "Schlußvorschriften"
+    ],
+    "gliederungsbezeichnungen_kopie": [
+      "Zu § 33 ErbStG",
+      "Zu § 34 ErbStG",
+      "Schlußvorschriften"
+    ]
+  },
+  "paragraphen": [
+    {
+      "paragraph": "§ 1",
+      "titel_kopie": "Anzeigepflicht der Vermögensverwahrer und der Vermögensverwalter",
+      "titel_identisch": true,
+      "text_identisch": true,
+      "zeichen_kopie": 1439,
+      "zeichen_amtlich": 1439,
+      "abweichungen": [],
+      "bewertung": "Zeichenidentisch nach Normalisierung."
+    },
+    {
+      "paragraph": "§ 2",
+      "titel_kopie": "Anzeigepflicht derjenigen, die auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben haben",
+      "titel_identisch": true,
+      "text_identisch": false,
+      "zeichen_kopie": 1051,
+      "zeichen_amtlich": 1051,
+      "abweichungen": [
+        {
+          "kopie": "–",
+          "amtlich": "-",
+          "kontext_kopie": "des Erblassers und – wenn dem Anzeigepflichtigen"
+        },
+        {
+          "kopie": "–",
+          "amtlich": "-",
+          "kontext_kopie": "dem Anzeigepflichtigen bekannt – das Standesamt, bei"
+        }
+      ],
+      "bewertung": "Nur Typografie: Gedankenstrich „–“ der Kopie gegenüber Bindestrich „-“ der XML in Nr. 3."
+    },
+    {
+      "paragraph": "§ 3",
+      "titel_kopie": "Anzeigepflicht der Versicherungsunternehmen",
+      "titel_identisch": true,
+      "text_identisch": false,
+      "zeichen_kopie": 1879,
+      "zeichen_amtlich": 1880,
+      "abweichungen": [
+        {
+          "kopie": "Lebens-(Sterbegeld-)",
+          "amtlich": "Lebens- (Sterbegeld-)",
+          "kontext_kopie": "soweit sie die Lebens-(Sterbegeld-) oder Leibrenten-Versicherung betreiben."
+        }
+      ],
+      "bewertung": "Nur Leerzeichen: Kopie „Lebens-(Sterbegeld-)“, XML „Lebens- (Sterbegeld-)“."
+    },
+    {
+      "paragraph": "§ 4",
+      "titel_kopie": "Anzeigepflicht der Standesämter",
+      "titel_identisch": true,
+      "text_identisch": true,
+      "zeichen_kopie": 2446,
+      "zeichen_amtlich": 2446,
+      "abweichungen": [],
+      "bewertung": "Zeichenidentisch nach Normalisierung."
+    },
+    {
+      "paragraph": "§ 5",
+      "titel_kopie": "Verzeichnis der Standesämter",
+      "titel_identisch": true,
+      "text_identisch": true,
+      "zeichen_kopie": 408,
+      "zeichen_amtlich": 408,
+      "abweichungen": [],
+      "bewertung": "Zeichenidentisch nach Normalisierung."
+    },
+    {
+      "paragraph": "§ 6",
+      "titel_kopie": "Anzeigepflicht der Gerichte bei Todeserklärungen",
+      "titel_identisch": true,
+      "text_identisch": true,
+      "zeichen_kopie": 650,
+      "zeichen_amtlich": 650,
+      "abweichungen": [],
+      "bewertung": "Zeichenidentisch nach Normalisierung."
+    },
+    {
+      "paragraph": "§ 7",
+      "titel_kopie": "Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen in Erbfällen",
+      "titel_identisch": true,
+      "text_identisch": true,
+      "zeichen_kopie": 3339,
+      "zeichen_amtlich": 3339,
+      "abweichungen": [],
+      "bewertung": "Zeichenidentisch nach Normalisierung."
+    },
+    {
+      "paragraph": "§ 8",
+      "titel_kopie": "Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen bei Schenkungen und Zweckzuwendungen unter Lebenden",
+      "titel_identisch": true,
+      "text_identisch": true,
+      "zeichen_kopie": 1713,
+      "zeichen_amtlich": 1713,
+      "abweichungen": [],
+      "bewertung": "Zeichenidentisch nach Normalisierung."
+    },
+    {
+      "paragraph": "§ 9",
+      "titel_kopie": "Anzeigepflicht der Auslandsstellen",
+      "titel_identisch": true,
+      "text_identisch": true,
+      "zeichen_kopie": 409,
+      "zeichen_amtlich": 409,
+      "abweichungen": [],
+      "bewertung": "Zeichenidentisch nach Normalisierung."
+    },
+    {
+      "paragraph": "§ 10",
+      "titel_kopie": "Anzeigepflicht der Genehmigungsbehörden",
+      "titel_identisch": true,
+      "text_identisch": false,
+      "zeichen_kopie": 1837,
+      "zeichen_amtlich": 1836,
+      "abweichungen": [
+        {
+          "kopie": "Anerkennungen",
+          "amtlich": "Anerkennung",
+          "kontext_kopie": "eines Kalendervierteljahres erteilten Anerkennungen oder Genehmigungen unmittelbar"
+        },
+        {
+          "kopie": "Rechtsgeschäfte",
+          "amtlich": "Rechtsgeschäfts",
+          "kontext_kopie": "sich auch auf Rechtsgeschäfte der in §"
+        },
+        {
+          "kopie": "Erwerben",
+          "amtlich": "Erwerbern",
+          "kontext_kopie": "Zweckzuwendung), 4. bei Erwerben von Todes wegen"
+        }
+      ],
+      "bewertung": "Drei Wortformen weichen ab: Kopie „Anerkennungen“ / XML „Anerkennung“ (Satz 1), Kopie „Rechtsgeschäfte“ / XML „Rechtsgeschäfts“ (Satz 3), Kopie „Erwerben“ / XML „Erwerbern“ (Satz 4 Nr. 4). Die amtliche PDF-Gesamtausgabe lautet wie die XML. Die Kopie wird nicht geändert."
+    },
+    {
+      "paragraph": "§ 11",
+      "titel_kopie": "Anzeigen im automatisierten Verfahren",
+      "titel_identisch": true,
+      "text_identisch": false,
+      "zeichen_kopie": 309,
+      "zeichen_amtlich": 308,
+      "abweichungen": [
+        {
+          "kopie": "ihres",
+          "amtlich": "ihre",
+          "kontext_kopie": "Anzeigen den Finanzämtern ihres Zuständigkeitsbereichs in einem"
+        }
+      ],
+      "bewertung": "Eine Wortform weicht ab: Kopie „ihres Zuständigkeitsbereichs“, XML „ihre Zuständigkeitsbereichs“. Die amtliche PDF-Gesamtausgabe lautet wie die XML. Die Kopie wird nicht geändert."
+    },
+    {
+      "paragraph": "§ 12",
+      "titel_kopie": "Anwendung der Verordnung",
+      "titel_identisch": true,
+      "text_identisch": true,
+      "zeichen_kopie": 896,
+      "zeichen_amtlich": 896,
+      "abweichungen": [],
+      "bewertung": "Zeichenidentisch nach Normalisierung."
+    },
+    {
+      "paragraph": "§ 13",
+      "titel_kopie": "Inkrafttreten, Außerkrafttreten",
+      "titel_identisch": true,
+      "text_identisch": false,
+      "zeichen_kopie": 316,
+      "zeichen_amtlich": 50,
+      "abweichungen": [
+        {
+          "kopie": "Gleichzeitig tritt die Erbschaftsteuer-Durchführungsverordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 611-8-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 3 des Gesetzes vom 20. Dezember 1996 (BGBl. I S. 2049), außer Kraft.",
+          "amtlich": "",
+          "kontext_kopie": "1998 in Kraft. Gleichzeitig tritt die Erbschaftsteuer-Durchführungsverordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 611-8-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 3 des Gesetzes vom 20. Dezember 1996 (BGBl. I S. 2049), außer Kraft."
+        }
+      ],
+      "bewertung": "Die Kopie enthält zusätzlich Satz 2 (Außerkrafttreten der ErbStDV in der Fassung BGBl. III 611-8-1); XML und PDF von Gesetze im Internet enthalten nur Satz 1."
+    }
+  ],
+  "nur_in_der_xml": [
+    {
+      "enbez": "Eingangsformel",
+      "text": "Auf Grund des § 36 Abs. 1 Nr. 1 Buchstabe e des Erbschaftsteuer- und Schenkungsteuergesetzes in der Fassung der Bekanntmachung vom 27. Februar 1997 (BGBl. I S. 378) verordnet die Bundesregierung:"
+    },
+    {
+      "enbez": "Schlußformel",
+      "text": "Der Bundesrat hat zugestimmt."
+    }
+  ],
+  "anwendungshinweise_xml": {
+    "§ 2": "(+++ § 2 Satz 1 Nr. 1 u. 4 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)",
+    "§ 3": "(+++ § 3 Abs. 2 Satz 3 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)",
+    "§ 7": "(+++ § 7 Abs. 2 Nr. 1 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++) (+++ § 7 Abs. 3 Nr. 2 F. 2014-07-18: Zur Anwendung vgl. § 12 Abs. 2 +++) (+++ § 7 Abs. 3 Nr. 3 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)",
+    "§ 10": "(+++ § 10 Satz 4 Nr. 2 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)",
+    "Muster 3": "(+++ Muster 3 F. 2014-07-18: Zur Anwendung vgl. § 12 Abs. 2 +++)",
+    "Muster 5": "(+++ Muster 5 F. 2014-07-18: Zur Anwendung vgl. § 12 Abs. 2 +++)"
+  },
+  "muster": [
+    {
+      "muster": 1,
+      "bezugszeile_kopie": "(zu § 1 ErbStDV)",
+      "bezug_xml": "(§ 1 ErbStDV)",
+      "fundstelle_xml": "(Fundstelle: BGBl. I 1998, 2662; bzgl. der einzelnen Änderungen vgl. Fußnote)",
+      "vergleichsgrundlage": "XML-Gesamtausgabe, pre-Block (ASCII-Tabelle)",
+      "woerter_kopie": 187,
+      "woerter_amtlich": 293,
+      "wortformen_nur_kopie": {
+        "Rücknahmepreis": 1,
+        "Todestag": 1,
+        "Wertpapiere": 1,
+        "Wertpapierkenn": 1
+      },
+      "wortformen_nur_amtlich": {
+        "I": 102,
+        "Rücknahme": 1,
+        "Todes": 1,
+        "Wert": 1,
+        "Wertpapier": 1,
+        "kenn": 1,
+        "papiere": 1,
+        "preis": 1,
+        "tag": 1
+      },
+      "bewertung": "Differenzen sind Layoutartefakte der ASCII-Tabelle in der XML: Spaltentrenner „I“ und Silbentrennungen an Zellenumbrüchen („Todes-/tag“, „Rücknahme-/preis“, „Wert-/papiere“, „Wertpapier-/kenn-Nr.“). Kein abweichendes Wort im Formulartext. Bezugszeile: Kopie „(zu § 1 ErbStDV)“, XML-Titel „(§ 1 ErbStDV)“."
+    },
+    {
+      "muster": 2,
+      "bezugszeile_kopie": "(zu § 3 ErbStDV)",
+      "bezug_xml": "(§ 3 ErbStDV)",
+      "fundstelle_xml": "(Fundstelle: BGBl. I 1998, 2663; bzgl. der einzelnen Änderungen vgl. Fußnote)",
+      "vergleichsgrundlage": "XML-Gesamtausgabe, pre-Block (ASCII-Tabelle)",
+      "woerter_kopie": 187,
+      "woerter_amtlich": 196,
+      "wortformen_nur_kopie": {
+        "Begünstiger": 1
+      },
+      "wortformen_nur_amtlich": {
+        "Begünstigter": 1,
+        "I": 9
+      },
+      "bewertung": "Differenzen sind Spaltentrenner „I“ der XML. Sachliche Abweichung: Kopie „als Begünstiger*“ (Zeile 554) gegenüber XML „als Begünstigter“ (Nr. 4). Die Kopie wird nicht geändert."
+    },
+    {
+      "muster": 3,
+      "bezugszeile_kopie": "(zu § 4 ErbStDV)",
+      "bezug_xml": "(§ 4 ErbStDV)",
+      "fundstelle_xml": "(Fundstelle: BGBl. I 1998, 2664 - 2665; bzgl. der einzelnen Änderungen vgl. Fußnote)",
+      "vergleichsgrundlage": "XML-Gesamtausgabe, pre-Block (ASCII-Tabelle)",
+      "woerter_kopie": 536,
+      "woerter_amtlich": 695,
+      "wortformen_nur_kopie": {
+        "Einzelhandelsgeschäft": 1,
+        "Großhandel": 1,
+        "Handwerksbetrieb": 1,
+        "Sterberegisters": 1,
+        "angeben": 1,
+        "bei": 1,
+        "einenWohnsitz": 1,
+        "land": 1,
+        "minderjährigen": 1,
+        "welchenWert": 1
+      },
+      "wortformen_nur_amtlich": {
+        "Bei": 1,
+        "Einzelhandels": 1,
+        "Groß": 1,
+        "Handwerks": 1,
+        "I": 153,
+        "Land": 1,
+        "Sterbe": 1,
+        "Wert": 1,
+        "Wohnsitz": 1,
+        "betrieb": 1,
+        "einen": 1,
+        "geschäft": 1,
+        "handel": 1,
+        "jährigen": 1,
+        "minder": 1,
+        "registers": 1,
+        "welchen": 1
+      },
+      "bewertung": "Differenzen sind Spaltentrenner „I“ und Silbentrennungen der XML („Sterbe-/registers“, „minder-/jährigen“, „Einzelhandels-/geschäft“, „Groß-/handel“, „Handwerks-/betrieb“, „Land-“), die Groß-/Kleinschreibung „Bei/bei minderjährigen“ sowie Verklebungen und eine Wortdopplung der Kopie: „einenWohnsitz“ (Zeile 678), „welchenWert“ (Zeile 760), „angeben angeben“ (Zeile 768); XML „Land-“ gegenüber Kopie „land-“ (Zeile 764). Die Kopie wird nicht geändert."
+    },
+    {
+      "muster": 4,
+      "bezugszeile_kopie": "(zu § 4 ErbStDV)",
+      "bezug_xml": "(§ 4 ErbStDV)",
+      "fundstelle_xml": "(Fundstelle: BGBl. I 1998, 2666; bzgl. der einzelnen Änderungen vgl. Fußnote)",
+      "vergleichsgrundlage": "XML-Gesamtausgabe, pre-Block (ASCII-Tabelle)",
+      "woerter_kopie": 63,
+      "woerter_amtlich": 63,
+      "wortformen_nur_kopie": {
+        "Im": 1
+      },
+      "wortformen_nur_amtlich": {
+        "im": 1
+      },
+      "bewertung": "Einzige Differenz ist die Groß-/Kleinschreibung „Im Standesamtsbezirk“ (Kopie, Zeile 810) gegenüber „im Standesamtsbezirk“ (XML, nach einer Trennlinie). Kein weiteres abweichendes Wort."
+    },
+    {
+      "muster": 5,
+      "bezugszeile_kopie": "(zu § 7 ErbStDV)",
+      "bezug_xml": "(§ 7 ErbStDV)",
+      "fundstelle_xml": "(Fundstelle: BGBl. 2025 I Nr. 372, S. 9 – 10)",
+      "vergleichsgrundlage": "BGBl-Auszug bgbl1_2025_j0372_0010.pdf aus dem XML-Paket, Textextraktion mit pdftotext -layout",
+      "woerter_kopie": 213,
+      "woerter_amtlich": 215,
+      "wortformen_nur_kopie": {
+        "Eigentumsumschreibung": 1,
+        "Testamentvollstreckerzeugnisses": 1
+      },
+      "wortformen_nur_amtlich": {
+        "Eigentums": 1,
+        "Testamentsvoll": 1,
+        "streckerzeugnisses": 1,
+        "umschreibung": 1
+      },
+      "bewertung": "Vergleichsgrundlage ist die pdftotext-Extraktion des BGBl-Auszugs (BGBl. 2025 I Nr. 372, S. 9–10) aus dem XML-Paket. Differenzen sind Silbentrennungen an Zeilenumbrüchen der PDF („Testamentsvoll-/streckerzeugnisses“, „Eigentums-/umschreibung“). Sachliche Abweichung: Kopie „Testament­vollstrecker­zeugnisses“ (ohne Fugen-s, mit weichen Trennzeichen, Zeile 934) gegenüber amtlich „Testamentsvollstreckerzeugnisses“. Die Kopie wird nicht geändert."
+    },
+    {
+      "muster": 6,
+      "bezugszeile_kopie": "(§ 8 ErbStDV)",
+      "bezug_xml": "(§ 8 ErbStDV)",
+      "fundstelle_xml": "(Fundstelle: BGBl. I 1998, 2668; bzgl. der einzelnen Änderungen vgl. Fußnote)",
+      "vergleichsgrundlage": "XML-Gesamtausgabe, pre-Block (ASCII-Tabelle)",
+      "woerter_kopie": 134,
+      "woerter_amtlich": 166,
+      "wortformen_nur_kopie": {},
+      "wortformen_nur_amtlich": {
+        "I": 32
+      },
+      "bewertung": "Differenzen sind Spaltentrenner „I“ der XML. Kein abweichendes Wort im Formulartext."
+    }
+  ],
+  "ergebnis": {
+    "paragraphen_gesamt": 13,
+    "titel_identisch": 13,
+    "text_identisch": [
+      "§ 1",
+      "§ 4",
+      "§ 5",
+      "§ 6",
+      "§ 7",
+      "§ 8",
+      "§ 9",
+      "§ 12"
+    ],
+    "text_abweichend": [
+      "§ 2",
+      "§ 3",
+      "§ 10",
+      "§ 11",
+      "§ 13"
+    ],
+    "zusammenfassung": "8 von 13 Paragraphen sind nach Normalisierung zeichenidentisch; Abweichungen in § 2, § 3, § 10, § 11, § 13 sind einzeln aufgeführt und bewertet. Eingangsformel und Schlußformel der amtlichen Fassung fehlen in der Kopie. Muster 1 bis 6 wurden als Wortmengen gegen die amtliche Vorlage verglichen."
+  }
+}

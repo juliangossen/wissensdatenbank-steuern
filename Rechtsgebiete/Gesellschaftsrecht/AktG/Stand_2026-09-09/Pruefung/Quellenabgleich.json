@@ -1,0 +1,42 @@
+{
+  "kuerzel": "AktG",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/aktg/",
+  "pdf_url": "https://www.gesetze-im-internet.de/aktg/AktG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+  "original_dateiname": "AktG.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 131,
+  "dateien": [
+    {
+      "datei": "Quellen/AktG_aktuell.pdf",
+      "sha256": "791f5e6e371a0e2eeb8eb92c281065147fba54e4329444728427f58c27a01bd0"
+    },
+    {
+      "datei": "Quellen/AktG_bereitgestellt.pdf",
+      "sha256": "791f5e6e371a0e2eeb8eb92c281065147fba54e4329444728427f58c27a01bd0"
+    },
+    {
+      "datei": "Quellen/AktG_PDF_Rohtext.txt",
+      "sha256": "7882ba5316945c4d7eae49f4b72192d4a72d0cce26295b103b076bd91a88fda9"
+    },
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "ee89b3141fcf64224f308506e3104205e485d6758127b44af86c9ef04bab8415"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e"
+    },
+    {
+      "datei": "Quellen/XML/BJNR010890965.xml",
+      "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
+    }
+  ]
+}

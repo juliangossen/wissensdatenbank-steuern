@@ -1,0 +1,6666 @@
+[
+  {
+    "zeile": 34,
+    "art": "dokumentkopf",
+    "ebene": 2,
+    "sprungmarke": null,
+    "text": "Allgemeine Verwaltungsvorschrift zur Anwendung des Erbschaftsteuer- und Schenkungsteuerrechts"
+  },
+  {
+    "zeile": 48,
+    "art": "hauptteil",
+    "ebene": 2,
+    "sprungmarke": "teil-i",
+    "text": "I. Einführung"
+  },
+  {
+    "zeile": 67,
+    "art": "hauptteil",
+    "ebene": 2,
+    "sprungmarke": "teil-ii",
+    "text": "II. Erbschaftsteuer- und Schenkungsteuergesetz"
+  },
+  {
+    "zeile": 68,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-1-erbstg",
+    "text": "Zu § 1 ErbStG"
+  },
+  {
+    "zeile": 69,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-1-1",
+    "text": "R E 1.1 Anwendung der Vorschriften über Erwerbe von Todes wegen auf Schenkungen"
+  },
+  {
+    "zeile": 92,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-1-1",
+    "text": "H E 1.1"
+  },
+  {
+    "zeile": 101,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-1-2",
+    "text": "R E 1.2 Familienstiftungen und Familienvereine"
+  },
+  {
+    "zeile": 125,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-1-2",
+    "text": "H E 1.2"
+  },
+  {
+    "zeile": 135,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-2-erbstg",
+    "text": "Zu § 2 ErbStG"
+  },
+  {
+    "zeile": 136,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-2-1",
+    "text": "R E 2.1[1] Unbeschränkte und beschränkte Steuerpflicht"
+  },
+  {
+    "zeile": 144,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-2-1",
+    "text": "H E 2.1"
+  },
+  {
+    "zeile": 399,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-2-2",
+    "text": "R E 2.2 Inlandsvermögen"
+  },
+  {
+    "zeile": 422,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-2-2",
+    "text": "H E 2.2"
+  },
+  {
+    "zeile": 443,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-3-erbstg",
+    "text": "Zu § 3 ErbStG"
+  },
+  {
+    "zeile": 444,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-3-1",
+    "text": "R E 3.1 Erwerb durch Erbanfall und Teilungsanordnungen oder Ausgleichungen[1]"
+  },
+  {
+    "zeile": 458,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-1-abs-1",
+    "text": "H E 3.1 (1)"
+  },
+  {
+    "zeile": 461,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-3-1-abs-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 467,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-1-abs-2",
+    "text": "H E 3.1 (2)"
+  },
+  {
+    "zeile": 470,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-3-1-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 480,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-1-abs-3",
+    "text": "H E 3.1 (3)"
+  },
+  {
+    "zeile": 485,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-1-abs-4",
+    "text": "H E 3.1 (4)"
+  },
+  {
+    "zeile": 488,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-3-1-abs-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 538,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-1-abs-5",
+    "text": "H E 3.1 (5)"
+  },
+  {
+    "zeile": 541,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-3-1-abs-5-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 589,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-1-abs-6",
+    "text": "H E 3.1 (6)"
+  },
+  {
+    "zeile": 592,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-3-2",
+    "text": "R E 3.2[1] Erwerb durch Vermächtnis"
+  },
+  {
+    "zeile": 598,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-2",
+    "text": "H E 3.2"
+  },
+  {
+    "zeile": 609,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-3-3",
+    "text": "R E 3.3 Schenkung auf den Todesfall"
+  },
+  {
+    "zeile": 612,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-3",
+    "text": "H E 3.3"
+  },
+  {
+    "zeile": 619,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-3-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 642,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-3-4",
+    "text": "R E 3.4 Gesellschaftsanteil beim Tod eines Gesellschafters"
+  },
+  {
+    "zeile": 652,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-4-abs-1",
+    "text": "H E 3.4 (1)"
+  },
+  {
+    "zeile": 655,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-4-abs-2",
+    "text": "H E 3.4 (2)"
+  },
+  {
+    "zeile": 658,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-3-4-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 690,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-4-abs-3",
+    "text": "H E 3.4 (3)"
+  },
+  {
+    "zeile": 695,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-3-5",
+    "text": "R E 3.5 Hinterbliebenenbezüge des Erblassers"
+  },
+  {
+    "zeile": 714,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-5",
+    "text": "H E 3.5"
+  },
+  {
+    "zeile": 857,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-3-6",
+    "text": "R E 3.6 Erwerbe aus Versicherungen auf verbundene Leben"
+  },
+  {
+    "zeile": 866,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-3-7",
+    "text": "R E 3.7 Verträge zugunsten Dritter im Zusammenhang mit Bankguthaben und ‑depots sowie Lebensversicherungen"
+  },
+  {
+    "zeile": 871,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-7",
+    "text": "H E 3.7"
+  },
+  {
+    "zeile": 874,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-3-8",
+    "text": "R E 3.8 Übergang von Vermögen auf eine Stiftung von Todes wegen"
+  },
+  {
+    "zeile": 877,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-3-8",
+    "text": "H E 3.8"
+  },
+  {
+    "zeile": 880,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-5-erbstg",
+    "text": "Zu § 5 ErbStG[1]"
+  },
+  {
+    "zeile": 884,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-5-1",
+    "text": "R E 5.1 Erbrechtlicher Zugewinnausgleich"
+  },
+  {
+    "zeile": 918,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-5-1-abs-2",
+    "text": "H E 5.1 (2)"
+  },
+  {
+    "zeile": 923,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Preisindex für die Lebenshaltung aller privaten Haushalte[1]",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 1172,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-5-1-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 1191,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-5-1-abs-3",
+    "text": "H E 5.1 (3)"
+  },
+  {
+    "zeile": 1194,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-5-1-abs-4",
+    "text": "H E 5.1 (4)"
+  },
+  {
+    "zeile": 1203,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-5-1-abs-5",
+    "text": "H E 5.1 (5)"
+  },
+  {
+    "zeile": 1210,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-5-1-abs-5-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 1346,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 1388,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-5-2",
+    "text": "R E 5.2 Güterrechtlicher Zugewinnausgleich"
+  },
+  {
+    "zeile": 1395,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-5-2",
+    "text": "H E 5.2"
+  },
+  {
+    "zeile": 1406,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-6-erbstg",
+    "text": "Zu § 6 ErbStG"
+  },
+  {
+    "zeile": 1407,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-6",
+    "text": "R E 6 Vermächtnisse und Auflagen, die beim Tod des Beschwerten fällig werden"
+  },
+  {
+    "zeile": 1413,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-6",
+    "text": "H E 6[1]"
+  },
+  {
+    "zeile": 1419,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-7-erbstg",
+    "text": "Zu § 7 ErbStG"
+  },
+  {
+    "zeile": 1420,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-1",
+    "text": "R E 7.1[1] Freigebige Zuwendungen"
+  },
+  {
+    "zeile": 1432,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-1",
+    "text": "H E 7.1"
+  },
+  {
+    "zeile": 1493,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-2",
+    "text": "R E 7.2 Behandlung von unbenannten Zuwendungen unter Ehegatten"
+  },
+  {
+    "zeile": 1496,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-2",
+    "text": "H E 7.2"
+  },
+  {
+    "zeile": 1503,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-3",
+    "text": "R E 7.3 Gegenstand der Schenkung bei Geldhingabe zum Erwerb eines Grundstücks oder zur Errichtung eines Gebäudes"
+  },
+  {
+    "zeile": 1510,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-3",
+    "text": "H E 7.3"
+  },
+  {
+    "zeile": 1537,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-4",
+    "text": "R E 7.4 Gemischte Schenkungen sowie Schenkungen unter einer Auflage"
+  },
+  {
+    "zeile": 1549,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-4-abs-1",
+    "text": "H E 7.4 (1)"
+  },
+  {
+    "zeile": 1554,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-4-abs-1-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 1576,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-4-abs-1-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 1600,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-4-abs-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 1628,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 1742,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-4-abs-2",
+    "text": "H E 7.4 (2)"
+  },
+  {
+    "zeile": 1745,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-4-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 1795,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-4-abs-3",
+    "text": "H E 7.4 (3)"
+  },
+  {
+    "zeile": 1798,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-4-abs-3-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 1864,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-4-abs-3-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 1948,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 2076,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 2207,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-4-abs-4",
+    "text": "H E 7.4 (4)"
+  },
+  {
+    "zeile": 2212,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-4-abs-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2286,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-5",
+    "text": "R E 7.5 Schenkungen unter Beteiligung von Kapitalgesellschaften und Genossenschaften"
+  },
+  {
+    "zeile": 2323,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-5",
+    "text": "H E 7.5"
+  },
+  {
+    "zeile": 2330,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-5-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2340,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-5-beispiel-1",
+    "text": "Beispiel 1 (Allgemeines):"
+  },
+  {
+    "zeile": 2346,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-5-beispiel-2",
+    "text": "Beispiel 2 (Werterhöhung durch die Leistung dem Grunde nach):"
+  },
+  {
+    "zeile": 2350,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-5-beispiel-3",
+    "text": "Beispiel 3 (Höhe der Bereicherung):"
+  },
+  {
+    "zeile": 2358,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2374,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2390,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 2394,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 2400,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-6",
+    "text": "R E 7.6 Vereinbarung der Gütergemeinschaft"
+  },
+  {
+    "zeile": 2407,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-7",
+    "text": "R E 7.7 Übergang von Vermögen auf eine Stiftung[1]"
+  },
+  {
+    "zeile": 2413,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-7",
+    "text": "H E 7.7"
+  },
+  {
+    "zeile": 2416,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-8",
+    "text": "R E 7.8 Bedingte Beteiligung an den offenen und stillen Reserven einer Personengesellschaft"
+  },
+  {
+    "zeile": 2419,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-8",
+    "text": "H E 7.8"
+  },
+  {
+    "zeile": 2424,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-7-8-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2472,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-9",
+    "text": "R E 7.9 Überhöhte Gewinnbeteiligung"
+  },
+  {
+    "zeile": 2479,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-7-10",
+    "text": "R E 7.10 Gesellschaftsanteil beim Ausscheiden eines Gesellschafters zu Lebzeiten"
+  },
+  {
+    "zeile": 2482,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-7-10",
+    "text": "H E 7.10"
+  },
+  {
+    "zeile": 2492,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-9-erbstg",
+    "text": "Zu § 9 ErbStG"
+  },
+  {
+    "zeile": 2493,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-9-1",
+    "text": "R E 9.1 Zeitpunkt der Ausführung einer Grundstücksschenkung"
+  },
+  {
+    "zeile": 2500,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-9-1",
+    "text": "H E 9.1"
+  },
+  {
+    "zeile": 2520,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-9-2",
+    "text": "R E 9.2 Entstehung der Steuer in sonstigen Fällen[1]"
+  },
+  {
+    "zeile": 2526,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-9-2",
+    "text": "H E 9.2"
+  },
+  {
+    "zeile": 2535,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-9-3",
+    "text": "R E 9.3 Bewertungsstichtag bei Errichtung einer Stiftung"
+  },
+  {
+    "zeile": 2538,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-9-3",
+    "text": "H E 9.3"
+  },
+  {
+    "zeile": 2545,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-10-erbstg",
+    "text": "Zu § 10 ErbStG"
+  },
+  {
+    "zeile": 2546,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-1",
+    "text": "R E 10.1 Ermittlung des steuerpflichtigen Erwerbs und der Erbschaftsteuer[1]"
+  },
+  {
+    "zeile": 2714,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-1",
+    "text": "H E 10.1"
+  },
+  {
+    "zeile": 2719,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-10-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2828,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-2",
+    "text": "R E 10.2 Behandlung von Ansprüchen nach dem Vermögensgesetz"
+  },
+  {
+    "zeile": 2839,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-3",
+    "text": "R E 10.3 Private Steuererstattungsansprüche des Erblassers"
+  },
+  {
+    "zeile": 2848,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-3",
+    "text": "H E 10.3"
+  },
+  {
+    "zeile": 2855,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-4",
+    "text": "R E 10.4 Übertragung eines Anteils an einer vermögensverwaltenden Personengesellschaft"
+  },
+  {
+    "zeile": 2860,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-4",
+    "text": "H E 10.4"
+  },
+  {
+    "zeile": 2865,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-5",
+    "text": "R E 10.5 Übernahme der Steuer"
+  },
+  {
+    "zeile": 2868,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-5",
+    "text": "H E 10.5"
+  },
+  {
+    "zeile": 2871,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-10-5-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2931,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-6",
+    "text": "R E 10.6 Abzug von außergewöhnlichen Unterhaltskosten (sog. Überlast) nach dem Denkmalschutzgesetz"
+  },
+  {
+    "zeile": 2949,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-6",
+    "text": "H E 10.6"
+  },
+  {
+    "zeile": 2952,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-10-6-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2978,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-7",
+    "text": "R E 10.7[1] Nachlassverbindlichkeiten nach § 10 Absatz 5 ErbStG"
+  },
+  {
+    "zeile": 2984,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-7",
+    "text": "H E 10.7"
+  },
+  {
+    "zeile": 3008,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1. Allgemeine Erwerbsnebenkosten (Kosten der Rechtsänderung)",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3011,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.1 Kostentragung durch den Beschenkten",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3014,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.1.1 Vollschenkung",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3017,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.1.2 Gemischte Schenkung und Schenkung unter Leistungs-, Nutzungs- oder Duldungsauflage",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3020,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-10-7-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3026,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.1.3 Mittelbare Schenkung",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3029,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.1.4 Anteilige mittelbare Schenkung",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3032,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3038,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.1.5 Übertragung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3039,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.1.5.1 Vollschenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3044,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3053,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3101,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.1.5.3 Mittelbare Schenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3104,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.1.5.4 Anteilige mittelbare Schenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3107,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.2 Kostentragung durch den Schenker",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3108,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.2.1 Vollschenkung",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3111,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3117,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.2.2 Gemischte Schenkung und Schenkung unter Leistungs-, Nutzungs- oder Duldungsauflage",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3120,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3126,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.2.3 Mittelbare Schenkung",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3129,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.2.4 Anteilige mittelbare Schenkung",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3132,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.2.5 Übertragung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3135,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.2.5.1 Vollschenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3138,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3147,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3203,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.2.5.3 Mittelbare Schenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3206,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "1.2.5.4 Anteilige mittelbare Schenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3209,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "2. Steuerberatungskosten und Rechtsberatungskosten",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3210,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "2.1 Im Vorfeld der Schenkung angefallene Kosten",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3220,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Anteil am Betriebsvermögen",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3223,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Nicht notierte Anteile an einer Kapitalgesellschaft",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3228,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "2.2.1 Kostentragung durch den Beschenkten",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3243,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "2.2.2 Kostentragung durch den Schenker",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3266,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "3. Grunderwerbsteuer",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3267,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "3.1 Kostentragung durch den Beschenkten",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3268,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "3.1.1 Vollschenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3274,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "3.1.3 Mittelbare und anteilige mittelbare Grundstücksschenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3277,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "3.2 Kostentragung durch den Schenker",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3278,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "3.2.1 Vollschenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3284,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "3.2.3 Mittelbare und anteilige mittelbare Grundstücksschenkung ganz oder teilweise steuerbefreiten Vermögens",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3287,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "3.2.3.1 Mittelbare Schenkung",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3290,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "3.2.3.2 Anteilige mittelbare Schenkung",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3293,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Behandlung von Grabpflegekosten[19]",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3366,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Anteil am Betriebsvermögen",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3369,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Nicht notierte Anteile an einer Kapitalgesellschaft",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3455,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-8",
+    "text": "R E 10.8[1] Private Steuerschulden des Erblassers"
+  },
+  {
+    "zeile": 3469,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-8",
+    "text": "H E 10.8"
+  },
+  {
+    "zeile": 3474,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-9",
+    "text": "R E 10.9 Pauschbetrag für Nachlassverbindlichkeiten"
+  },
+  {
+    "zeile": 3494,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-9",
+    "text": "H E 10.9"
+  },
+  {
+    "zeile": 3497,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-10-9-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3539,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-10",
+    "text": "R E 10.10[1] Beschränkung des Abzugs von Schulden und Lasten"
+  },
+  {
+    "zeile": 3576,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-10",
+    "text": "H E 10.10"
+  },
+  {
+    "zeile": 3579,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-10-10-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3595,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-11",
+    "text": "R E 10.11 Eigene Erbschaftsteuer des Erwerbers"
+  },
+  {
+    "zeile": 3598,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-11",
+    "text": "H E 10.11"
+  },
+  {
+    "zeile": 3601,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-12",
+    "text": "R E 10.12 Auflagen, die dem Beschwerten selbst zugutekommen"
+  },
+  {
+    "zeile": 3604,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-12",
+    "text": "H E 10.12"
+  },
+  {
+    "zeile": 3607,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-10-13",
+    "text": "R E 10.13[1] Gesellschaftsanteil beim Tod eines Gesellschafters mit Weiterübertragungsverpflichtung"
+  },
+  {
+    "zeile": 3617,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-10-13",
+    "text": "H E 10.13"
+  },
+  {
+    "zeile": 3620,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-11-erbstg",
+    "text": "Zu § 11 ErbStG"
+  },
+  {
+    "zeile": 3621,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-11",
+    "text": "R E 11 Rückwirkende Umwandlung einer Personengesellschaft in eine Kapitalgesellschaft und umgekehrt"
+  },
+  {
+    "zeile": 3624,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-11",
+    "text": "H E 11"
+  },
+  {
+    "zeile": 3629,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-12-erbstg",
+    "text": "Zu § 12 ErbStG"
+  },
+  {
+    "zeile": 3630,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-12-1",
+    "text": "R E 12.1 Bewertungsgrundsätze[1]"
+  },
+  {
+    "zeile": 3636,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-12-1",
+    "text": "H E 12.1"
+  },
+  {
+    "zeile": 3645,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-12-2",
+    "text": "R E 12.2 Maßgeblichkeit des Zivilrechts für das Erbschaftsteuerrecht bei im Erbfall noch nicht vollständig erfüllten Grundstückskaufverträgen"
+  },
+  {
+    "zeile": 3652,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-12-2",
+    "text": "H E 12.2"
+  },
+  {
+    "zeile": 3656,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Einzelfälle",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 3659,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-12-2-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 3689,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-12-2-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 3715,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-12-2-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 3741,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-12-2-beispiel-4",
+    "text": "Beispiel 4:"
+  },
+  {
+    "zeile": 3771,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-12-2-beispiel-5",
+    "text": "Beispiel 5:"
+  },
+  {
+    "zeile": 3787,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-12-3",
+    "text": "R E 12.3 Berücksichtigung von Gewinnansprüchen aus GmbH-Geschäftsanteilen"
+  },
+  {
+    "zeile": 3796,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-12-3",
+    "text": "H E 12.3"
+  },
+  {
+    "zeile": 3799,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-12-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3805,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-13-erbstg",
+    "text": "Zu § 13 ErbStG[2]"
+  },
+  {
+    "zeile": 3809,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-1",
+    "text": "R E 13.1 Steuerbefreiungen; Allgemeines"
+  },
+  {
+    "zeile": 3814,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-2",
+    "text": "R E 13.2 Gegenstände, deren Erhaltung im öffentlichen Interesse liegt[1]"
+  },
+  {
+    "zeile": 3830,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13-2",
+    "text": "H E 13.2"
+  },
+  {
+    "zeile": 3841,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-3",
+    "text": "R E 13.3 Lebzeitige Zuwendungen im Zusammenhang mit einem Familienheim"
+  },
+  {
+    "zeile": 3864,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13-3",
+    "text": "H E 13.3"
+  },
+  {
+    "zeile": 3877,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-4",
+    "text": "R E 13.4[1] Erwerb eines Familienheims von Todes wegen"
+  },
+  {
+    "zeile": 3911,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13-4",
+    "text": "H E 13.4"
+  },
+  {
+    "zeile": 3932,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13-4-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 3938,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13-4-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 3944,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13-4-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 4090,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-5",
+    "text": "R E 13.5 Pflege- und Unterhaltsleistungen"
+  },
+  {
+    "zeile": 4101,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13-5-abs-2",
+    "text": "H E 13.5 (2)"
+  },
+  {
+    "zeile": 4112,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13-5-abs-6",
+    "text": "H E 13.5 (6)[1]"
+  },
+  {
+    "zeile": 4118,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-6",
+    "text": "R E 13.6 Rückfall des geschenkten Vermögens"
+  },
+  {
+    "zeile": 4123,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13-6",
+    "text": "H E 13.6"
+  },
+  {
+    "zeile": 4130,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-7",
+    "text": "R E 13.7 Zuwendungen an Pensions- und Unterstützungskassen"
+  },
+  {
+    "zeile": 4135,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-8",
+    "text": "R E 13.8 Gemeinnützige, mildtätige und kirchliche Körperschaften"
+  },
+  {
+    "zeile": 4151,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-9",
+    "text": "R E 13.9 Gegenseitigkeitserklärungen"
+  },
+  {
+    "zeile": 4157,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13-9",
+    "text": "H E 13.9"
+  },
+  {
+    "zeile": 4179,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-10",
+    "text": "R E 13.10 Zuwendungen zu gemeinnützigen, mildtätigen und kirchlichen Zwecken"
+  },
+  {
+    "zeile": 4186,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13-10",
+    "text": "H E 13.10"
+  },
+  {
+    "zeile": 4189,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13-11",
+    "text": "R E 13.11 Verzicht auf Steuerbefreiung"
+  },
+  {
+    "zeile": 4195,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-13a-erbstg",
+    "text": "Zu § 13a ErbStG"
+  },
+  {
+    "zeile": 4196,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-1",
+    "text": "R E 13a.1 Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften – Allgemeines"
+  },
+  {
+    "zeile": 4216,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-2",
+    "text": "R E 13a.2[1] Schwellenwert von 26 Millionen EUR"
+  },
+  {
+    "zeile": 4230,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-2",
+    "text": "H E 13a.2"
+  },
+  {
+    "zeile": 4233,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-2-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 4263,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-2-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 4271,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-3",
+    "text": "R E 13a.3[1] Gleitender Abzugsbetrag"
+  },
+  {
+    "zeile": 4282,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-3",
+    "text": "H E 13a.3"
+  },
+  {
+    "zeile": 4285,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 4343,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-4",
+    "text": "R E 13a.4 Lohnsummenregelung – Allgemeines[1]"
+  },
+  {
+    "zeile": 4367,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-4",
+    "text": "H E 13a.4"
+  },
+  {
+    "zeile": 4376,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-5",
+    "text": "R E 13a.5 Beschreibung der Lohnsumme"
+  },
+  {
+    "zeile": 4382,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-5",
+    "text": "H E 13a.5"
+  },
+  {
+    "zeile": 4389,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-6",
+    "text": "R E 13a.6[1] Lohnsumme bei mehreren wirtschaftlichen Einheiten"
+  },
+  {
+    "zeile": 4395,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-6",
+    "text": "H E 13a.6"
+  },
+  {
+    "zeile": 4398,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-6-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 4500,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-6-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 4589,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-7",
+    "text": "R E 13a.7 Ermittlung der Ausgangslohnsumme und der Summe der maßgebenden jährlichen Lohnsummen"
+  },
+  {
+    "zeile": 4610,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-7-abs-1",
+    "text": "H E 13a.7 (1)"
+  },
+  {
+    "zeile": 4613,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 4633,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 4642,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-7-abs-2",
+    "text": "H E 13a.7 (2)"
+  },
+  {
+    "zeile": 4685,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 4771,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 4777,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-7-abs-3",
+    "text": "H E 13a.7 (3)"
+  },
+  {
+    "zeile": 4780,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-3-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 4786,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-3-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 4832,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-3-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 4892,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 4958,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-7-abs-4",
+    "text": "H E 13a.7 (4)"
+  },
+  {
+    "zeile": 4961,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-4-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 4969,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 4983,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-4-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 4993,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 5013,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-4-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 5023,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 5047,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-7-abs-5",
+    "text": "H E 13a.7 (5)"
+  },
+  {
+    "zeile": 5050,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-5-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 5056,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 5060,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-7-abs-6",
+    "text": "H E 13a.7 (6)"
+  },
+  {
+    "zeile": 5063,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-6-beispiel",
+    "text": "Beispiel (Verkauf einer Beteiligung vor dem Besteuerungszeitpunkt):"
+  },
+  {
+    "zeile": 5067,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 5071,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-7-abs-8",
+    "text": "H E 13a.7 (8)"
+  },
+  {
+    "zeile": 5072,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-8-beispiel-1",
+    "text": "Beispiel 1 (Erstmaliger Erwerb einer Beteiligung):"
+  },
+  {
+    "zeile": 5076,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 5082,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-8-beispiel-2",
+    "text": "Beispiel 2 (Erhöhung einer bestehenden Beteiligung):"
+  },
+  {
+    "zeile": 5086,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 5098,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-7-abs-8-beispiel-3",
+    "text": "Beispiel 3 Abwandlung (Erhöhung und anschließende Reduzierung einer bestehenden Beteiligung):"
+  },
+  {
+    "zeile": 5102,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 5114,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-8",
+    "text": "R E 13a.8 Ermittlung der Lohnsummen in Umwandlungsfällen"
+  },
+  {
+    "zeile": 5127,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-8-abs-2",
+    "text": "H E 13a.8 (2)"
+  },
+  {
+    "zeile": 5130,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-8-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 5196,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 5274,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Abwandlung:"
+  },
+  {
+    "zeile": 5370,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-8-abs-3",
+    "text": "H E 13a.8 (3)"
+  },
+  {
+    "zeile": 5373,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-8-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 5409,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung:"
+  },
+  {
+    "zeile": 5491,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-8-abs-4",
+    "text": "H E 13a.8 (4)"
+  },
+  {
+    "zeile": 5494,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-8-abs-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 5538,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-9",
+    "text": "R E 13a.9 Verstoß gegen die Lohnsummenregelung"
+  },
+  {
+    "zeile": 5573,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-10",
+    "text": "R E 13a.10 Feststellung der Anzahl der Beschäftigten, der Ausgangslohnsumme und der Summe der maßgebenden jährlichen Lohnsummen"
+  },
+  {
+    "zeile": 5582,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-11",
+    "text": "R E 13a.11 Folgen einer Weitergabeverpflichtung oder einer Nachlassteilung"
+  },
+  {
+    "zeile": 5597,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-11",
+    "text": "H E 13a.11"
+  },
+  {
+    "zeile": 5604,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-11-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 5785,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-12",
+    "text": "R E 13a.12[1] Behaltensregelungen – Allgemeines"
+  },
+  {
+    "zeile": 5803,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-12",
+    "text": "H E 13a.12"
+  },
+  {
+    "zeile": 5810,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-13",
+    "text": "R E 13a.13 Behaltensregelungen für Betriebsvermögen"
+  },
+  {
+    "zeile": 5828,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-13",
+    "text": "H E 13a.13"
+  },
+  {
+    "zeile": 5835,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-14",
+    "text": "R E 13a.14 Behaltensregelungen für land- und forstwirtschaftliches Vermögen"
+  },
+  {
+    "zeile": 5844,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-15",
+    "text": "R E 13a.15 Entnahmebegrenzung"
+  },
+  {
+    "zeile": 5861,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-15",
+    "text": "H E 13a.15"
+  },
+  {
+    "zeile": 5866,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-15-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6046,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6166,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-16",
+    "text": "R E 13a.16 Behaltensregelungen für Anteile an Kapitalgesellschaften"
+  },
+  {
+    "zeile": 6179,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-16",
+    "text": "H E 13a.16"
+  },
+  {
+    "zeile": 6182,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-16-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 6190,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-16-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 6198,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-16-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 6210,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-16-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6216,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-17",
+    "text": "R E 13a.17 Wegfall der Verfügungsbeschränkung oder Stimmrechtsbindung"
+  },
+  {
+    "zeile": 6235,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-18",
+    "text": "R E 13a.18 Reinvestitionsklausel"
+  },
+  {
+    "zeile": 6238,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-19",
+    "text": "R E 13a.19[1] Durchführung der Nachversteuerung"
+  },
+  {
+    "zeile": 6262,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-19",
+    "text": "H E 13a.19"
+  },
+  {
+    "zeile": 6265,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-19-beispiel-1",
+    "text": "Beispiel 1 (Veräußerung einer von mehreren wirtschaftlichen Einheiten):[1]"
+  },
+  {
+    "zeile": 6421,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-19-beispiel-2",
+    "text": "Beispiel 2 (Verstoß gegen Behaltens- und Lohnsummenregelung durch Verkauf des begünstigten Vermögens):"
+  },
+  {
+    "zeile": 6549,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-19-beispiel-3",
+    "text": "Beispiel 3 (Verstoß gegen Behaltensregelung durch Verkauf einer wesentlichen Betriebsgrundlage):"
+  },
+  {
+    "zeile": 6705,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-19-beispiel-4",
+    "text": "Beispiel 4 (Verstoß gegen Behaltens- und Lohnsummenreglung durch Verkauf einer wesentlichen Betriebsgrundlage):"
+  },
+  {
+    "zeile": 6895,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-19-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6904,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-20",
+    "text": "R E 13a.20 Vorwegabschlag bei Familienunternehmen"
+  },
+  {
+    "zeile": 6950,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-20",
+    "text": "H E 13a.20"
+  },
+  {
+    "zeile": 6953,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-20-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7159,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7203,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7453,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-21",
+    "text": "R E 13a.21 Optionsverschonung"
+  },
+  {
+    "zeile": 7476,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13a-21",
+    "text": "H E 13a.21"
+  },
+  {
+    "zeile": 7479,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13a-21-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7517,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7541,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13a-22",
+    "text": "R E 13a.22 Begünstigte Erwerbe bei Familienstiftungen"
+  },
+  {
+    "zeile": 7544,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-13b-erbstg",
+    "text": "Zu § 13b ErbStG"
+  },
+  {
+    "zeile": 7545,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-1",
+    "text": "R E 13b.1 Begünstigter Erwerb von Todes wegen"
+  },
+  {
+    "zeile": 7568,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-1",
+    "text": "H E 13b.1"
+  },
+  {
+    "zeile": 7571,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7617,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-2",
+    "text": "R E 13b.2 Begünstigter Erwerb durch Schenkung unter Lebenden"
+  },
+  {
+    "zeile": 7636,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-2",
+    "text": "H E 13b.2"
+  },
+  {
+    "zeile": 7639,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-3",
+    "text": "R E 13b.3 Begünstigungsfähiges Vermögen – Allgemeines"
+  },
+  {
+    "zeile": 7642,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-4",
+    "text": "R E 13b.4 Begünstigungsfähiges land- und forstwirtschaftliches Vermögen"
+  },
+  {
+    "zeile": 7651,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-4",
+    "text": "H E 13b.4"
+  },
+  {
+    "zeile": 7654,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-5",
+    "text": "R E 13b.5[1] Begünstigungsfähiges Betriebsvermögen"
+  },
+  {
+    "zeile": 7669,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-5",
+    "text": "H E 13b.5"
+  },
+  {
+    "zeile": 7742,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-6",
+    "text": "R E 13b.6 Begünstigungsfähige Anteile an Kapitalgesellschaften"
+  },
+  {
+    "zeile": 7761,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-6",
+    "text": "H E 13b.6"
+  },
+  {
+    "zeile": 7814,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-6-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 7828,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-6-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 7836,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 7842,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 7848,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-7",
+    "text": "R E 13b.7 Begünstigtes Vermögen"
+  },
+  {
+    "zeile": 7851,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-8",
+    "text": "R E 13b.8 Erwerb unterschiedlicher Arten begünstigten Vermögens"
+  },
+  {
+    "zeile": 7865,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-8",
+    "text": "H E 13b.8"
+  },
+  {
+    "zeile": 7868,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-8-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7945,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-9",
+    "text": "R E 13b.9 Ermittlung des begünstigten Vermögens und des steuerpflichtigen Vermögens"
+  },
+  {
+    "zeile": 8185,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-9",
+    "text": "H E 13b.9"
+  },
+  {
+    "zeile": 8188,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-9-beispiel-1",
+    "text": "Beispiel 1:[1]"
+  },
+  {
+    "zeile": 8554,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-9-beispiel-2",
+    "text": "Beispiel 2:[2]"
+  },
+  {
+    "zeile": 8972,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-10",
+    "text": "R E 13b.10 Übermäßiges Verwaltungsvermögen[1]"
+  },
+  {
+    "zeile": 8986,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-10",
+    "text": "H E 13b.10"
+  },
+  {
+    "zeile": 9013,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-11",
+    "text": "R E 13b.11 Altersversorgungsvermögen"
+  },
+  {
+    "zeile": 9030,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-11",
+    "text": "H E 13b.11"
+  },
+  {
+    "zeile": 9067,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-12",
+    "text": "R E 13b.12 Verwaltungsvermögen – Allgemeines"
+  },
+  {
+    "zeile": 9079,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-12",
+    "text": "H E 13b.12"
+  },
+  {
+    "zeile": 9082,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-13",
+    "text": "R E 13b.13[1] Überlassung von Grundstücken – Allgemeines"
+  },
+  {
+    "zeile": 9088,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-14",
+    "text": "R E 13b.14 Grundstücksüberlassung im Rahmen einer Betriebsaufspaltung oder des Sonderbetriebsvermögens"
+  },
+  {
+    "zeile": 9098,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-14",
+    "text": "H E 13b.14"
+  },
+  {
+    "zeile": 9103,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-15",
+    "text": "R E 13b.15 Grundstücksüberlassung im Rahmen einer Betriebsverpachtung im Ganzen"
+  },
+  {
+    "zeile": 9118,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-16",
+    "text": "R E 13b.16 Grundstücksüberlassung im Konzern"
+  },
+  {
+    "zeile": 9124,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-16",
+    "text": "H E 13b.16"
+  },
+  {
+    "zeile": 9130,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-17",
+    "text": "R E 13b.17 Grundstücksüberlassung im Rahmen eines Wohnungsunternehmens"
+  },
+  {
+    "zeile": 9165,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-18",
+    "text": "R E 13b.18[1] Grundstücke im Zusammenhang mit Lieferungsverträgen"
+  },
+  {
+    "zeile": 9171,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-19",
+    "text": "R E 13b.19 Verpachtete land- und forstwirtschaftliche Grundstücke"
+  },
+  {
+    "zeile": 9176,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-20",
+    "text": "R E 13b.20 Anteile an Kapitalgesellschaften von 25 Prozent oder weniger"
+  },
+  {
+    "zeile": 9187,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-20",
+    "text": "H E 13b.20"
+  },
+  {
+    "zeile": 9190,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-20-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 9280,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-20-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 9380,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-21",
+    "text": "R E 13b.21 Kunstgegenstände und andere besondere Wirtschaftsgüter"
+  },
+  {
+    "zeile": 9391,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-22",
+    "text": "R E 13b.22 Wertpapiere und vergleichbare Forderungen"
+  },
+  {
+    "zeile": 9399,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-22",
+    "text": "H E 13b.22"
+  },
+  {
+    "zeile": 9402,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-22-beispiel",
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 9430,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-23",
+    "text": "R E 13b.23 Finanzmittel"
+  },
+  {
+    "zeile": 9498,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-23",
+    "text": "H E 13b.23"
+  },
+  {
+    "zeile": 9535,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-23-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 9585,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-23-beispiel-2",
+    "text": "Beispiel 2 (mit jungen Finanzmitteln):"
+  },
+  {
+    "zeile": 9649,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 9717,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 9825,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 9847,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 9867,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-23-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 9905,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-24",
+    "text": "R E 13b.24 Investitionsklausel"
+  },
+  {
+    "zeile": 9942,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-24-abs-2",
+    "text": "H E 13b.24 (2)"
+  },
+  {
+    "zeile": 9945,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-24-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 9949,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-24-abs-3",
+    "text": "H E 13b.24 (3)"
+  },
+  {
+    "zeile": 9952,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-24-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 9956,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-25",
+    "text": "R E 13b.25 Nettowert des Verwaltungsvermögens"
+  },
+  {
+    "zeile": 9959,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-25",
+    "text": "H E 13b.25"
+  },
+  {
+    "zeile": 9960,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-25-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 10004,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-26",
+    "text": "R E 13b.26 Unschädliches Verwaltungsvermögen"
+  },
+  {
+    "zeile": 10015,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-26",
+    "text": "H E 13b.26"
+  },
+  {
+    "zeile": 10046,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-27",
+    "text": "R E 13b.27[1] Junges Verwaltungsvermögen"
+  },
+  {
+    "zeile": 10055,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-28",
+    "text": "R E 13b.28 Ausschluss der Schuldenverrechnung"
+  },
+  {
+    "zeile": 10062,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-29",
+    "text": "R E 13b.29 Verbundvermögensaufstellung"
+  },
+  {
+    "zeile": 10115,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-29",
+    "text": "H E 13b.29"
+  },
+  {
+    "zeile": 10118,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-29-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 10122,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-29-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 10128,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-29-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 10330,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 10334,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 10338,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-29-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 10344,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 10714,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 10754,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13b-30",
+    "text": "R E 13b.30 Feststellungsverfahren"
+  },
+  {
+    "zeile": 10789,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13b-30",
+    "text": "H E 13b.30"
+  },
+  {
+    "zeile": 10792,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13b-30-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 10944,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-13c-erbstg",
+    "text": "Zu § 13c ErbStG"
+  },
+  {
+    "zeile": 10945,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13c-1",
+    "text": "R E 13c.1 Abschmelzmodell – Allgemeines"
+  },
+  {
+    "zeile": 10963,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13c-1",
+    "text": "H E 13c.1"
+  },
+  {
+    "zeile": 10966,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13c-1-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 11022,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13c-1-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 11078,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13c-2",
+    "text": "R E 13c.2 Verstoß gegen die Verschonungsvoraussetzungen"
+  },
+  {
+    "zeile": 11081,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13c-3",
+    "text": "R E 13c.3 Ergänzende Vorschriften beim Abschmelzmodell"
+  },
+  {
+    "zeile": 11090,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13c-4",
+    "text": "R E 13c.4 Berücksichtigung mehrerer Erwerbe begünstigten Vermögens"
+  },
+  {
+    "zeile": 11095,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13c-4",
+    "text": "H E 13c.4"
+  },
+  {
+    "zeile": 11098,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13c-4-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 11220,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13c-4-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 11408,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13c-5",
+    "text": "R E 13c.5 Begünstigte Erwerbe bei Familienstiftungen"
+  },
+  {
+    "zeile": 11411,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-13d-erbstg",
+    "text": "Zu § 13d ErbStG"
+  },
+  {
+    "zeile": 11412,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-13d",
+    "text": "R E 13d Steuerbefreiung für Wohngrundstücke"
+  },
+  {
+    "zeile": 11455,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-13d",
+    "text": "H E 13d"
+  },
+  {
+    "zeile": 11458,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13d-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 11482,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 11490,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13d-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 11526,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-13d-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 11662,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 11708,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 11793,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-14-erbstg",
+    "text": "Zu § 14 ErbStG"
+  },
+  {
+    "zeile": 11794,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-14-1",
+    "text": "R E 14.1 Berücksichtigung früherer Erwerbe; Grundsatz"
+  },
+  {
+    "zeile": 11808,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-14-1-abs-1",
+    "text": "H E 14.1 (1)"
+  },
+  {
+    "zeile": 11817,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-14-1-abs-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 11953,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-14-1-abs-3",
+    "text": "H E 14.1 (3)"
+  },
+  {
+    "zeile": 11956,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-14-1-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 12074,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 12240,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 12370,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 12528,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-14-1-abs-4",
+    "text": "H E 14.1 (4)"
+  },
+  {
+    "zeile": 12531,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-14-1-abs-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 12705,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-14-2",
+    "text": "R E 14.2 Berücksichtigung früherer Erwerbe; Zusammentreffen mit Begünstigungen nach §§ 13a, 13c, 19a und 28a ErbStG"
+  },
+  {
+    "zeile": 12712,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-14-2-abs-2",
+    "text": "H E 14.2 (2)"
+  },
+  {
+    "zeile": 12715,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-14-2-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 12947,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-14-2-abs-3",
+    "text": "H E 14.2 (3)"
+  },
+  {
+    "zeile": 12950,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-14-2-abs-3-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 13156,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-14-2-abs-3-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 13406,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-14-2-abs-3-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 13752,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-14-3",
+    "text": "R E 14.3 Berücksichtigung früherer Erwerbe; Mindeststeuer und Festsetzungsfrist"
+  },
+  {
+    "zeile": 13757,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-14-3",
+    "text": "H E 14.3"
+  },
+  {
+    "zeile": 13762,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-14-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 13884,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-15-erbstg",
+    "text": "Zu § 15 ErbStG"
+  },
+  {
+    "zeile": 13885,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-15-1",
+    "text": "R E 15.1 Steuerklassen"
+  },
+  {
+    "zeile": 13888,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-15-1",
+    "text": "H E 15.1[1]"
+  },
+  {
+    "zeile": 13908,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-15-2",
+    "text": "R E 15.2 Maßgebliche Steuerklasse bei Familienstiftungen"
+  },
+  {
+    "zeile": 13918,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-15-2",
+    "text": "H E 15.2"
+  },
+  {
+    "zeile": 13927,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-15-3",
+    "text": "R E 15.3 Umfang des begünstigten Vermögens in den Fällen des § 15 Absatz 3 ErbStG"
+  },
+  {
+    "zeile": 13936,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-15-3",
+    "text": "H E 15.3"
+  },
+  {
+    "zeile": 13939,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-15-4",
+    "text": "R E 15.4 Steuerklasse bei Zuwendungen von Kapitalgesellschaften oder Genossenschaften"
+  },
+  {
+    "zeile": 13948,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-16-erbstg",
+    "text": "Zu § 16 ErbStG"
+  },
+  {
+    "zeile": 13949,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-16",
+    "text": "R E 16 Freibeträge[1][2]"
+  },
+  {
+    "zeile": 13958,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-16",
+    "text": "H E 16"
+  },
+  {
+    "zeile": 13961,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-16-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 14039,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-17-erbstg",
+    "text": "Zu § 17 ErbStG"
+  },
+  {
+    "zeile": 14040,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-17",
+    "text": "R E 17 Besonderer Versorgungsfreibetrag"
+  },
+  {
+    "zeile": 14064,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-17",
+    "text": "H E 17"
+  },
+  {
+    "zeile": 14071,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-19-erbstg",
+    "text": "Zu § 19 ErbStG"
+  },
+  {
+    "zeile": 14072,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-19",
+    "text": "R E 19[1] Steuersätze"
+  },
+  {
+    "zeile": 14078,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-19",
+    "text": "H E 19"
+  },
+  {
+    "zeile": 14153,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-19a-erbstg",
+    "text": "Zu § 19a ErbStG"
+  },
+  {
+    "zeile": 14154,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-19a-1",
+    "text": "R E 19a.1[1] Tarifbegünstigte Erwerber und tarifbegünstigtes Vermögen"
+  },
+  {
+    "zeile": 14164,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-19a-2",
+    "text": "R E 19a.2[1] Berechnung des Entlastungsbetrags"
+  },
+  {
+    "zeile": 14177,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-19a-2",
+    "text": "H E 19a.2"
+  },
+  {
+    "zeile": 14180,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-19a-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 14372,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-19a-3",
+    "text": "R E 19a.3[1] Behaltensregelung"
+  },
+  {
+    "zeile": 14380,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-19a-3",
+    "text": "H E 19a.3"
+  },
+  {
+    "zeile": 14383,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-19a-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 14659,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-20-erbstg",
+    "text": "Zu § 20 ErbStG"
+  },
+  {
+    "zeile": 14660,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-20",
+    "text": "R E 20[1] Steuerschuldner"
+  },
+  {
+    "zeile": 14666,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-20",
+    "text": "H E 20"
+  },
+  {
+    "zeile": 14671,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-21-erbstg",
+    "text": "Zu § 21 ErbStG"
+  },
+  {
+    "zeile": 14672,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-21",
+    "text": "R E 21 Anrechnung ausländischer Erbschaftsteuer"
+  },
+  {
+    "zeile": 14681,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-21",
+    "text": "H E 21"
+  },
+  {
+    "zeile": 14684,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-21-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 14790,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-21-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 14864,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-21-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 14944,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 15082,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 15264,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-22-erbstg",
+    "text": "Zu § 22 ErbStG"
+  },
+  {
+    "zeile": 15265,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-22",
+    "text": "R E 22 Kleinbetragsgrenze"
+  },
+  {
+    "zeile": 15268,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-22",
+    "text": "H E 22"
+  },
+  {
+    "zeile": 15273,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-23-erbstg",
+    "text": "Zu § 23 ErbStG"
+  },
+  {
+    "zeile": 15274,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-23",
+    "text": "R E 23 Besteuerung von Renten, Nutzungen und Leistungen"
+  },
+  {
+    "zeile": 15277,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-23",
+    "text": "H E 23"
+  },
+  {
+    "zeile": 15282,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-23-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 15360,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-23-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 15450,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-23-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 15540,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 15656,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 15768,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-25-erbstg",
+    "text": "Zu § 25 ErbStG"
+  },
+  {
+    "zeile": 15769,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-25",
+    "text": "R E 25 Besteuerung bei Nutzungs- und Rentenlast"
+  },
+  {
+    "zeile": 15783,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-25",
+    "text": "H E 25"
+  },
+  {
+    "zeile": 15788,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-25-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 15860,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 15872,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 15974,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 16047,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-27-erbstg",
+    "text": "Zu § 27 ErbStG"
+  },
+  {
+    "zeile": 16048,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-27",
+    "text": "R E 27 Mehrfacher Erwerb desselben Vermögens"
+  },
+  {
+    "zeile": 16055,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-27",
+    "text": "H E 27"
+  },
+  {
+    "zeile": 16060,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-27-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 16236,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-27-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 16412,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-27-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 16592,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-28-erbstg",
+    "text": "Zu § 28 ErbStG"
+  },
+  {
+    "zeile": 16593,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-28",
+    "text": "R E 28 Stundung"
+  },
+  {
+    "zeile": 16645,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-28-abs-4",
+    "text": "H E 28 (4)"
+  },
+  {
+    "zeile": 16648,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-28-abs-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 16792,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-28a-erbstg",
+    "text": "Zu § 28a ErbStG[3]"
+  },
+  {
+    "zeile": 16796,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-28a-1",
+    "text": "R E 28a.1 Verschonungsbedarfsprüfung – Allgemeines"
+  },
+  {
+    "zeile": 16816,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-28a-1",
+    "text": "H E 28a.1"
+  },
+  {
+    "zeile": 16819,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-28a-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 16939,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-28a-2",
+    "text": "R E 28a.2 Verfügbares Vermögen"
+  },
+  {
+    "zeile": 16958,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-28a-2",
+    "text": "H E 28a.2"
+  },
+  {
+    "zeile": 16961,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-e-28a-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 17023,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-28a-3",
+    "text": "R E 28a.3 Stundung"
+  },
+  {
+    "zeile": 17026,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-28a-4",
+    "text": "R E 28a.4 Nachträglicher Wegfall der Erlassbedingungen"
+  },
+  {
+    "zeile": 17041,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-28a-5",
+    "text": "R E 28a.5 Ergänzende Vorschriften bei der Verschonungsbedarfsprüfung"
+  },
+  {
+    "zeile": 17050,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-28a-6",
+    "text": "R E 28a.6 Begünstigte Erwerbe bei Familienstiftungen"
+  },
+  {
+    "zeile": 17053,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-29-erbstg",
+    "text": "Zu § 29 ErbStG"
+  },
+  {
+    "zeile": 17054,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-29",
+    "text": "R E 29 Erlöschen der Steuer in besonderen Fällen"
+  },
+  {
+    "zeile": 17057,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-29",
+    "text": "H E 29"
+  },
+  {
+    "zeile": 17062,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-30-erbstg",
+    "text": "Zu § 30 ErbStG"
+  },
+  {
+    "zeile": 17063,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-30",
+    "text": "R E 30[1] Anzeigepflicht des Erwerbers"
+  },
+  {
+    "zeile": 17081,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-31-erbstg",
+    "text": "Zu § 31 ErbStG"
+  },
+  {
+    "zeile": 17082,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-31",
+    "text": "R E 31[1] Steuererklärung"
+  },
+  {
+    "zeile": 17088,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-31",
+    "text": "H E 31"
+  },
+  {
+    "zeile": 17095,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-32-erbstg",
+    "text": "Zu § 32 ErbStG"
+  },
+  {
+    "zeile": 17096,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-32",
+    "text": "R E 32 Bekanntgabe des Steuerbescheids an Vertreter"
+  },
+  {
+    "zeile": 17099,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-32",
+    "text": "H E 32"
+  },
+  {
+    "zeile": 17107,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-33-und-34-erbstg",
+    "text": "Zu §§ 33 und 34 ErbStG"
+  },
+  {
+    "zeile": 17108,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-33",
+    "text": "R E 33 Anzeigepflichten"
+  },
+  {
+    "zeile": 17111,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-33",
+    "text": "H E 33"
+  },
+  {
+    "zeile": 17138,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-37-erbstg",
+    "text": "Zu § 37 ErbStG"
+  },
+  {
+    "zeile": 17139,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-e-37",
+    "text": "R E 37 Anwendung des Gesetzes"
+  },
+  {
+    "zeile": 17142,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-e-37",
+    "text": "H E 37"
+  },
+  {
+    "zeile": 17265,
+    "art": "hauptteil",
+    "ebene": 2,
+    "sprungmarke": "teil-iii",
+    "text": "III. Bewertungsgesetz"
+  },
+  {
+    "zeile": 17266,
+    "art": "teilueberschrift",
+    "ebene": 3,
+    "sprungmarke": "teil-iii-a",
+    "text": "A. Allgemeine Bewertungsvorschriften"
+  },
+  {
+    "zeile": 17267,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-4-bis-8-bewg",
+    "text": "Zu §§ 4 bis 8 BewG"
+  },
+  {
+    "zeile": 17268,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-4",
+    "text": "R B 4 Bedingung und Befristung[1]"
+  },
+  {
+    "zeile": 17276,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-4",
+    "text": "H B 4"
+  },
+  {
+    "zeile": 17283,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-9-bewg",
+    "text": "Zu § 9 BewG"
+  },
+  {
+    "zeile": 17284,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-9-1",
+    "text": "R B 9.1 Gemeiner Wert"
+  },
+  {
+    "zeile": 17287,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-9-1",
+    "text": "H B 9.1"
+  },
+  {
+    "zeile": 17290,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-9-2",
+    "text": "R B 9.2 Ungewöhnliche oder persönliche Verhältnisse"
+  },
+  {
+    "zeile": 17307,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-9-2",
+    "text": "H B 9.2"
+  },
+  {
+    "zeile": 17314,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-9-3",
+    "text": "R B 9.3 Sachleistungsansprüche"
+  },
+  {
+    "zeile": 17319,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-9-3",
+    "text": "H B 9.3"
+  },
+  {
+    "zeile": 17322,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-9-4",
+    "text": "R B 9.4 Erfindungen und Urheberrechte"
+  },
+  {
+    "zeile": 17325,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-9-4",
+    "text": "H B 9.4"
+  },
+  {
+    "zeile": 17331,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-9-5",
+    "text": "R B 9.5 Übrige körperliche Vermögensgegenstände"
+  },
+  {
+    "zeile": 17334,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-9-5",
+    "text": "H B 9.5"
+  },
+  {
+    "zeile": 17337,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-11-bewg",
+    "text": "Zu § 11 BewG"
+  },
+  {
+    "zeile": 17338,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-11-1",
+    "text": "R B 11.1 Notierte Wertpapiere, Aktien und Anteile sowie Investmentzertifikate"
+  },
+  {
+    "zeile": 17357,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-11-1",
+    "text": "H B 11.1"
+  },
+  {
+    "zeile": 17364,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-11-2",
+    "text": "R B 11.2 Nicht notierte Anteile an Kapitalgesellschaften[1]"
+  },
+  {
+    "zeile": 17372,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-11-2",
+    "text": "H B 11.2"
+  },
+  {
+    "zeile": 17379,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-11-3",
+    "text": "R B 11.3 Verfügungsbeschränkungen"
+  },
+  {
+    "zeile": 17384,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-11-3",
+    "text": "H B 11.3"
+  },
+  {
+    "zeile": 17387,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-11-4",
+    "text": "R B 11.4 Bewertung der Anteile an einer Kapitalgesellschaft in Sonderfällen"
+  },
+  {
+    "zeile": 17424,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-11-4",
+    "text": "H B 11.4"
+  },
+  {
+    "zeile": 17427,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-11-5",
+    "text": "R B 11.5 Substanzwert"
+  },
+  {
+    "zeile": 17449,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-11-5",
+    "text": "H B 11.5"
+  },
+  {
+    "zeile": 17457,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-11-6",
+    "text": "R B 11.6 Ermittlung des Substanzwerts"
+  },
+  {
+    "zeile": 17476,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-11-6",
+    "text": "H B 11.6"
+  },
+  {
+    "zeile": 17479,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-11-6-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 17485,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-11-6-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 17493,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-11-6-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 17501,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-11-7",
+    "text": "R B 11.7 Gemeiner Wert nicht notierter Anteile an Kapitalgesellschaften"
+  },
+  {
+    "zeile": 17504,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-11-8",
+    "text": "R B 11.8 Paketzuschlag"
+  },
+  {
+    "zeile": 17523,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-12-bewg",
+    "text": "Zu § 12 BewG"
+  },
+  {
+    "zeile": 17524,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-12-1",
+    "text": "R B 12.1[1] Kapitalforderungen und Schulden"
+  },
+  {
+    "zeile": 17544,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-12-1",
+    "text": "H B 12.1"
+  },
+  {
+    "zeile": 17556,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-12-2",
+    "text": "R B 12.2 Bundesschatzbriefe, Finanzierungsschätze und Sparbriefe"
+  },
+  {
+    "zeile": 17587,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-12-2",
+    "text": "H B 12.2"
+  },
+  {
+    "zeile": 17590,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-12-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 17632,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-12-3",
+    "text": "R B 12.3 Zero-Bonds"
+  },
+  {
+    "zeile": 17639,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-12-4",
+    "text": "R B 12.4 Einlage des typischen stillen Gesellschafters"
+  },
+  {
+    "zeile": 17642,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-12-4",
+    "text": "H B 12.4"
+  },
+  {
+    "zeile": 17645,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-12-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 17689,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-13-bis-16-bewg",
+    "text": "Zu §§ 13 bis 16 BewG"
+  },
+  {
+    "zeile": 17690,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-13",
+    "text": "R B 13 Renten-, Nießbrauchs- und Nutzungsrechte[1]"
+  },
+  {
+    "zeile": 17696,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-13",
+    "text": "H B 13"
+  },
+  {
+    "zeile": 17712,
+    "art": "teilueberschrift",
+    "ebene": 3,
+    "sprungmarke": "teil-iii-b",
+    "text": "B. Betriebsvermögen"
+  },
+  {
+    "zeile": 17713,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-95-und-96-bewg",
+    "text": "Zu §§ 95 und 96 BewG"
+  },
+  {
+    "zeile": 17714,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-95",
+    "text": "R B 95 Begriff und Umfang des Betriebsvermögens"
+  },
+  {
+    "zeile": 17731,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-95",
+    "text": "H B 95"
+  },
+  {
+    "zeile": 17743,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-97-bewg",
+    "text": "Zu § 97 BewG"
+  },
+  {
+    "zeile": 17744,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-97-1",
+    "text": "R B 97.1[1] Betriebsvermögen von Personengesellschaften"
+  },
+  {
+    "zeile": 17760,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-97-1",
+    "text": "H B 97.1"
+  },
+  {
+    "zeile": 17765,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-97-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 17825,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-97-2",
+    "text": "R B 97.2 Sonderbetriebsvermögen"
+  },
+  {
+    "zeile": 17828,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-97-3",
+    "text": "R B 97.3 Nießbrauch an einer Beteiligung an einer Personengesellschaft"
+  },
+  {
+    "zeile": 17837,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-97-3",
+    "text": "H B 97.3"
+  },
+  {
+    "zeile": 17840,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-97-4",
+    "text": "R B 97.4 Aufteilung des Werts des Betriebsvermögens von Personengesellschaften"
+  },
+  {
+    "zeile": 17862,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-97-4",
+    "text": "H B 97.4"
+  },
+  {
+    "zeile": 17865,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-97-4-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 17929,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-97-4-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 18017,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-97-4-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 18111,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-97-5",
+    "text": "R B 97.5 Besonderheiten bei Kommanditgesellschaften"
+  },
+  {
+    "zeile": 18132,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-97-6",
+    "text": "R B 97.6 Anteile an Kapitalgesellschaften"
+  },
+  {
+    "zeile": 18146,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-97-6",
+    "text": "H B 97.6"
+  },
+  {
+    "zeile": 18149,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-97-6-beispiel-1",
+    "text": "Beispiel 1 (abweichender Gewinnverteilungsschlüssel):"
+  },
+  {
+    "zeile": 18219,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-97-6-beispiel-2",
+    "text": "Beispiel 2 (abweichende Beteiligung am Liquidationserlös):"
+  },
+  {
+    "zeile": 18295,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-99-bewg",
+    "text": "Zu § 99 BewG"
+  },
+  {
+    "zeile": 18296,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-99",
+    "text": "R B 99 Betriebsgrundstücke"
+  },
+  {
+    "zeile": 18301,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-99",
+    "text": "H B 99"
+  },
+  {
+    "zeile": 18304,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-103-bewg",
+    "text": "Zu § 103 BewG"
+  },
+  {
+    "zeile": 18305,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-103-1",
+    "text": "R B 103.1 Schulden und sonstige Abzüge bei bilanzierenden Gewerbetreibenden und freiberuflich Tätigen"
+  },
+  {
+    "zeile": 18310,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-103-1",
+    "text": "H B 103.1"
+  },
+  {
+    "zeile": 18313,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-103-2",
+    "text": "R B 103.2 Schulden und sonstige Abzüge bei nicht bilanzierenden Gewerbetreibenden und freiberuflich Tätigen"
+  },
+  {
+    "zeile": 18326,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-103-2",
+    "text": "H B 103.2"
+  },
+  {
+    "zeile": 18335,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-103-3",
+    "text": "R B 103.3 Schulden im Zusammenhang mit Grundstücken"
+  },
+  {
+    "zeile": 18338,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-109-bewg",
+    "text": "Zu § 109 BewG"
+  },
+  {
+    "zeile": 18339,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-109-1",
+    "text": "R B 109.1[1] Bewertungsgrundsätze bei Betriebsvermögen"
+  },
+  {
+    "zeile": 18345,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-109-2",
+    "text": "R B 109.2 Bewertung von Beteiligungen an Personengesellschaften in Sonderfällen"
+  },
+  {
+    "zeile": 18356,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-109-3",
+    "text": "R B 109.3 Ermittlung des Substanzwerts"
+  },
+  {
+    "zeile": 18369,
+    "art": "teilueberschrift",
+    "ebene": 3,
+    "sprungmarke": "teil-iii-c",
+    "text": "C. Gesonderte Feststellungen"
+  },
+  {
+    "zeile": 18370,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-151-bewg",
+    "text": "Zu § 151 BewG"
+  },
+  {
+    "zeile": 18371,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-1",
+    "text": "R B 151.1 Durchführung eines Feststellungsverfahrens"
+  },
+  {
+    "zeile": 18394,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-2",
+    "text": "R B 151.2 Gesonderte Feststellung von Grundbesitzwerten nach § 151 BewG"
+  },
+  {
+    "zeile": 18470,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-151-2",
+    "text": "H B 151.2"
+  },
+  {
+    "zeile": 18521,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-3",
+    "text": "R B 151.3 Benennung des Erbschaftsteuerfinanzamts und des Erblassers/Schenkers"
+  },
+  {
+    "zeile": 18524,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-4",
+    "text": "R B 151.4[1] Gesonderte Feststellung des Werts des Betriebsvermögens oder des Anteils am Betriebsvermögen"
+  },
+  {
+    "zeile": 18534,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-151-4",
+    "text": "H B 151.4"
+  },
+  {
+    "zeile": 18539,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-5",
+    "text": "R B 151.5 Gesonderte Feststellung des Werts nicht notierter Anteile an Kapitalgesellschaften"
+  },
+  {
+    "zeile": 18546,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-151-5",
+    "text": "H B 151.5"
+  },
+  {
+    "zeile": 18549,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-6",
+    "text": "R B 151.6 Gesonderte Feststellung des Werts von Genossenschaften"
+  },
+  {
+    "zeile": 18552,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-7",
+    "text": "R B 151.7[1] Gesonderte Feststellung bei vermögensverwaltenden Gemeinschaften/Gesellschaften"
+  },
+  {
+    "zeile": 18562,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-151-7",
+    "text": "H B 151.7"
+  },
+  {
+    "zeile": 18567,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-151-7-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 18575,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-8",
+    "text": "R B 151.8 Basiswert"
+  },
+  {
+    "zeile": 18580,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-9",
+    "text": "R B 151.9 Nachrichtliche Angaben zu den Feststellungen nach § 151 Absatz 1 Satz 1 Nummer 2 und 3 BewG"
+  },
+  {
+    "zeile": 18583,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-151-9",
+    "text": "H B 151.9"
+  },
+  {
+    "zeile": 18630,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-151-10",
+    "text": "R B 151.10 Mitteilungen der Betriebsfinanzämter"
+  },
+  {
+    "zeile": 18633,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-151-10",
+    "text": "H B 151.10"
+  },
+  {
+    "zeile": 18654,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-152-bewg",
+    "text": "Zu § 152 BewG"
+  },
+  {
+    "zeile": 18655,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-152",
+    "text": "R B 152 Örtliche Zuständigkeit"
+  },
+  {
+    "zeile": 18660,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-152",
+    "text": "H B 152"
+  },
+  {
+    "zeile": 18663,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-153-bewg",
+    "text": "Zu § 153 BewG"
+  },
+  {
+    "zeile": 18664,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-153",
+    "text": "R B 153 Erklärungspflicht"
+  },
+  {
+    "zeile": 18681,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-154-bewg",
+    "text": "Zu § 154 BewG"
+  },
+  {
+    "zeile": 18682,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-154",
+    "text": "R B 154 Beteiligte am Feststellungsverfahren und Bekanntgabe des Feststellungsbescheids"
+  },
+  {
+    "zeile": 18699,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-154",
+    "text": "H B 154"
+  },
+  {
+    "zeile": 18882,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-155-bewg",
+    "text": "Zu § 155 BewG"
+  },
+  {
+    "zeile": 18883,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-155",
+    "text": "R B 155 Rechtsbehelfsbefugnis"
+  },
+  {
+    "zeile": 18886,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-156-bewg",
+    "text": "Zu § 156 BewG"
+  },
+  {
+    "zeile": 18887,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-156",
+    "text": "R B 156 Außenprüfung"
+  },
+  {
+    "zeile": 18890,
+    "art": "teilueberschrift",
+    "ebene": 3,
+    "sprungmarke": "teil-iii-d",
+    "text": "D. Land- und forstwirtschaftliches Vermögen"
+  },
+  {
+    "zeile": 18891,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-158-bewg",
+    "text": "Zu § 158 BewG"
+  },
+  {
+    "zeile": 18892,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-158-1",
+    "text": "R B 158.1 Begriff des land- und forstwirtschaftlichen Vermögens"
+  },
+  {
+    "zeile": 18914,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-158-1-abs-1",
+    "text": "H B 158.1 (1)"
+  },
+  {
+    "zeile": 18917,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-158-1-abs-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 18923,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-158-1-abs-2",
+    "text": "H B 158.1 (2)"
+  },
+  {
+    "zeile": 18926,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-158-1-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 18932,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-158-2",
+    "text": "R B 158.2 Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Betriebsvermögen"
+  },
+  {
+    "zeile": 18943,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-158-2",
+    "text": "H B 158.2"
+  },
+  {
+    "zeile": 18946,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-158-3",
+    "text": "R B 158.3 Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Grundvermögen"
+  },
+  {
+    "zeile": 18951,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-158-4",
+    "text": "R B 158.4 Abgrenzung des land- und forstwirtschaftlichen Vermögens vom übrigen Vermögen"
+  },
+  {
+    "zeile": 18962,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-159-bewg",
+    "text": "Zu § 159 BewG"
+  },
+  {
+    "zeile": 18963,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-159",
+    "text": "R B 159 Abgrenzung land- und forstwirtschaftlich genutzter Flächen"
+  },
+  {
+    "zeile": 19012,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-159",
+    "text": "H B 159"
+  },
+  {
+    "zeile": 19027,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-160-bewg",
+    "text": "Zu § 160 BewG"
+  },
+  {
+    "zeile": 19028,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-1",
+    "text": "R B 160.1 Wirtschaftsteil"
+  },
+  {
+    "zeile": 19057,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-160-1",
+    "text": "H B 160.1"
+  },
+  {
+    "zeile": 19060,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-2",
+    "text": "R B 160.2 Landwirtschaftliche Nutzung"
+  },
+  {
+    "zeile": 19069,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-160-2",
+    "text": "H B 160.2"
+  },
+  {
+    "zeile": 19072,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-3",
+    "text": "R B 160.3 Forstwirtschaftliche Nutzung"
+  },
+  {
+    "zeile": 19077,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-4",
+    "text": "R B 160.4 Weinbauliche Nutzung"
+  },
+  {
+    "zeile": 19082,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-5",
+    "text": "R B 160.5 Gärtnerische Nutzung"
+  },
+  {
+    "zeile": 19095,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-6",
+    "text": "R B 160.6 Nutzungsteile Gemüsebau sowie Blumen- und Zierpflanzenbau"
+  },
+  {
+    "zeile": 19118,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-7",
+    "text": "R B 160.7 Nutzungsteil Obstbau"
+  },
+  {
+    "zeile": 19121,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-8",
+    "text": "R B 160.8 Nutzungsteil Baumschulen"
+  },
+  {
+    "zeile": 19132,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-9",
+    "text": "R B 160.9 Übrige land- und forstwirtschaftliche Nutzungen"
+  },
+  {
+    "zeile": 19159,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-10",
+    "text": "R B 160.10 Binnenfischerei, Teichwirtschaft und Fischzucht für Binnenfischerei und Teichwirtschaft"
+  },
+  {
+    "zeile": 19176,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-11",
+    "text": "R B 160.11 Imkerei"
+  },
+  {
+    "zeile": 19181,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-12",
+    "text": "R B 160.12 Wanderschäferei"
+  },
+  {
+    "zeile": 19186,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-13",
+    "text": "R B 160.13 Saatzucht"
+  },
+  {
+    "zeile": 19199,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-14",
+    "text": "R B 160.14 Pilzanbau"
+  },
+  {
+    "zeile": 19202,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-15",
+    "text": "R B 160.15 Nützlinge"
+  },
+  {
+    "zeile": 19205,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-16",
+    "text": "R B 160.16 Weihnachtsbaumkulturen"
+  },
+  {
+    "zeile": 19210,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-17",
+    "text": "R B 160.17 Besamungsstationen"
+  },
+  {
+    "zeile": 19225,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-18",
+    "text": "R B 160.18 Nebenbetriebe"
+  },
+  {
+    "zeile": 19228,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-19",
+    "text": "R B 160.19 Abbauland"
+  },
+  {
+    "zeile": 19231,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-20",
+    "text": "R B 160.20 Geringstland"
+  },
+  {
+    "zeile": 19246,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-160-20",
+    "text": "H B 160.20"
+  },
+  {
+    "zeile": 19249,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-21",
+    "text": "R B 160.21 Betriebswohnungen"
+  },
+  {
+    "zeile": 19254,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-160-22",
+    "text": "R B 160.22 Wohnteil"
+  },
+  {
+    "zeile": 19271,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-160-22-abs-3",
+    "text": "H B 160.22 (3)"
+  },
+  {
+    "zeile": 19274,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-160-22-abs-4",
+    "text": "H B 160.22 (4)"
+  },
+  {
+    "zeile": 19277,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-160-22-abs-5",
+    "text": "H B 160.22 (5)"
+  },
+  {
+    "zeile": 19280,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-160-22-abs-6",
+    "text": "H B 160.22 (6)"
+  },
+  {
+    "zeile": 19283,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-161-bewg",
+    "text": "Zu § 161 BewG"
+  },
+  {
+    "zeile": 19284,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-161",
+    "text": "R B 161 Bewertungsstichtag"
+  },
+  {
+    "zeile": 19287,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-162-bewg",
+    "text": "Zu § 162 BewG"
+  },
+  {
+    "zeile": 19288,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-162",
+    "text": "R B 162 Bewertung des Wirtschaftsteils"
+  },
+  {
+    "zeile": 19301,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-162",
+    "text": "H B 162"
+  },
+  {
+    "zeile": 19304,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-163-bewg",
+    "text": "Zu § 163 BewG"
+  },
+  {
+    "zeile": 19305,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-163",
+    "text": "R B 163 Ermittlung der Wirtschaftswerte"
+  },
+  {
+    "zeile": 19398,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-163-abs-1",
+    "text": "H B 163 (1)"
+  },
+  {
+    "zeile": 19403,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-163-abs-3",
+    "text": "H B 163 (3)"
+  },
+  {
+    "zeile": 19406,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-163-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 19564,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-163-abs-4",
+    "text": "H B 163 (4)"
+  },
+  {
+    "zeile": 19567,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-163-abs-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 19675,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-163-abs-5",
+    "text": "H B 163 (5)"
+  },
+  {
+    "zeile": 19678,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-163-abs-5-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 19854,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-163-abs-6",
+    "text": "H B 163 (6)"
+  },
+  {
+    "zeile": 19857,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-163-abs-6-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 20051,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-163-abs-7",
+    "text": "H B 163 (7)"
+  },
+  {
+    "zeile": 20054,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-163-abs-7-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 20104,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-163-abs-8",
+    "text": "H B 163 (8)"
+  },
+  {
+    "zeile": 20137,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-164-bewg",
+    "text": "Zu § 164 BewG"
+  },
+  {
+    "zeile": 20138,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-164",
+    "text": "R B 164 Ermittlung des Mindestwerts"
+  },
+  {
+    "zeile": 20303,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-164-abs-1",
+    "text": "H B 164 (1)"
+  },
+  {
+    "zeile": 20308,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-164-abs-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 20502,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 20636,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 20876,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 21168,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-164-abs-3",
+    "text": "H B 164 (3)"
+  },
+  {
+    "zeile": 21171,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-164-abs-3-beispiel",
+    "text": "Beispiel Zupacht:"
+  },
+  {
+    "zeile": 21177,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel Pachtbetrieb:"
+  },
+  {
+    "zeile": 21183,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel Schenkung von Besatzkapital:"
+  },
+  {
+    "zeile": 21191,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel Übertragung von Besatzkapital von Todes wegen:"
+  },
+  {
+    "zeile": 21199,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel Bestimmung des Besatzkapitals"
+  },
+  {
+    "zeile": 21207,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-164-abs-9",
+    "text": "H B 164 (9)"
+  },
+  {
+    "zeile": 21210,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-164-abs-9-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 21380,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-165-bewg",
+    "text": "Zu § 165 BewG"
+  },
+  {
+    "zeile": 21381,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-165",
+    "text": "R B 165 Bewertung des Wirtschaftsteils mit dem Fortführungswert"
+  },
+  {
+    "zeile": 21390,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-165",
+    "text": "H B 165"
+  },
+  {
+    "zeile": 21393,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-165-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 21427,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-166-bewg",
+    "text": "Zu § 166 BewG"
+  },
+  {
+    "zeile": 21428,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-166",
+    "text": "R B 166 Liquidationswert"
+  },
+  {
+    "zeile": 21445,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-166-abs-2",
+    "text": "H B 166 (2)"
+  },
+  {
+    "zeile": 21448,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-166-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 21533,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-166-abs-3",
+    "text": "H B 166 (3)"
+  },
+  {
+    "zeile": 21536,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-166-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 21660,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-167-bewg",
+    "text": "Zu § 167 BewG"
+  },
+  {
+    "zeile": 21661,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-167-1",
+    "text": "R B 167.1 Bewertung der Betriebswohnungen und des Wohnteils"
+  },
+  {
+    "zeile": 21668,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-167-1-abs-1",
+    "text": "H B 167.1 (1)"
+  },
+  {
+    "zeile": 21671,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-167-1-abs-2",
+    "text": "H B 167.1 (2)"
+  },
+  {
+    "zeile": 21674,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-167-1-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 21902,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-167-1-abs-3",
+    "text": "H B 167.1 (3)"
+  },
+  {
+    "zeile": 21905,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-167-1-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 21929,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-167-2",
+    "text": "R B 167.2 Ermäßigungen für Besonderheiten"
+  },
+  {
+    "zeile": 21940,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-167-2",
+    "text": "H B 167.2"
+  },
+  {
+    "zeile": 21943,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-167-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 21985,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-167-3",
+    "text": "R B 167.3 Öffnungsklausel für die Betriebswohnungen und den Wohnteil"
+  },
+  {
+    "zeile": 21992,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-167-3",
+    "text": "H B 167.3"
+  },
+  {
+    "zeile": 22001,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-167-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 22016,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-168-bewg",
+    "text": "Zu § 168 BewG"
+  },
+  {
+    "zeile": 22017,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-168",
+    "text": "R B 168 Grundbesitzwert des Betriebs der Land- und Forstwirtschaft"
+  },
+  {
+    "zeile": 22036,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-168",
+    "text": "H B 168"
+  },
+  {
+    "zeile": 22039,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-168-beispiel",
+    "text": "Beispiel Übergang eines Anteils im Erbfall:"
+  },
+  {
+    "zeile": 22151,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel Übergang eines Anteils und von Sonderbetriebsvermögen im Wege der Schenkung:"
+  },
+  {
+    "zeile": 22317,
+    "art": "teilueberschrift",
+    "ebene": 3,
+    "sprungmarke": "teil-iii-e",
+    "text": "E. Grundvermögen"
+  },
+  {
+    "zeile": 22318,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-176-bewg",
+    "text": "Zu § 176 BewG"
+  },
+  {
+    "zeile": 22319,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-176-1",
+    "text": "R B 176.1 Begriff des Grundvermögens"
+  },
+  {
+    "zeile": 22328,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-176-1",
+    "text": "H B 176.1"
+  },
+  {
+    "zeile": 22333,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-176-2",
+    "text": "R B 176.2 Grundstück"
+  },
+  {
+    "zeile": 22340,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-176-2",
+    "text": "H B 176.2"
+  },
+  {
+    "zeile": 22345,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-177-bewg",
+    "text": "Zu § 177 BewG"
+  },
+  {
+    "zeile": 22346,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-177",
+    "text": "R B 177 Bewertungsmaßstab"
+  },
+  {
+    "zeile": 22349,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-177",
+    "text": "H B 177"
+  },
+  {
+    "zeile": 22354,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-178-bewg",
+    "text": "Zu § 178 BewG"
+  },
+  {
+    "zeile": 22355,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-178",
+    "text": "R B 178 Begriff des unbebauten Grundstücks"
+  },
+  {
+    "zeile": 22364,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-178-abs-1",
+    "text": "H B 178 (1)"
+  },
+  {
+    "zeile": 22367,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-178-abs-3",
+    "text": "H B 178 (3)"
+  },
+  {
+    "zeile": 22372,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-178-abs-4",
+    "text": "H B 178 (4)"
+  },
+  {
+    "zeile": 22377,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-179-bewg",
+    "text": "Zu § 179 BewG"
+  },
+  {
+    "zeile": 22378,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-179-1",
+    "text": "R B 179.1 Bewertung von unbebauten Grundstücken"
+  },
+  {
+    "zeile": 22393,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-179-1",
+    "text": "H B 179.1"
+  },
+  {
+    "zeile": 22396,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-179-2",
+    "text": "R B 179.2 Ansatz der Bodenrichtwerte"
+  },
+  {
+    "zeile": 22429,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-179-2",
+    "text": "H B 179.2"
+  },
+  {
+    "zeile": 22530,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-179-2-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 22540,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-179-2-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 22550,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-179-2-beispiel-3",
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 22638,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung"
+  },
+  {
+    "zeile": 22874,
+    "art": "loesung",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Lösung"
+  },
+  {
+    "zeile": 22902,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-179-3",
+    "text": "R B 179.3 Ansatz des Bodenwerts"
+  },
+  {
+    "zeile": 22907,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-179-3-abs-2",
+    "text": "H B 179.3 (2)"
+  },
+  {
+    "zeile": 22930,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-180-bewg",
+    "text": "Zu § 180 BewG"
+  },
+  {
+    "zeile": 22931,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-180",
+    "text": "R B 180 Begriff des bebauten Grundstücks"
+  },
+  {
+    "zeile": 22942,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-180",
+    "text": "H B 180"
+  },
+  {
+    "zeile": 22947,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-181-bewg",
+    "text": "Zu § 181 BewG"
+  },
+  {
+    "zeile": 22948,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-181-1",
+    "text": "R B 181.1 Grundstücksarten"
+  },
+  {
+    "zeile": 23003,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-181-1",
+    "text": "H B 181.1"
+  },
+  {
+    "zeile": 23006,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-181-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 23012,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-181-2",
+    "text": "R B 181.2 Wohnungs- und Teileigentum"
+  },
+  {
+    "zeile": 23023,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-181-2",
+    "text": "H B 181.2"
+  },
+  {
+    "zeile": 23026,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-182-bewg",
+    "text": "Zu § 182 BewG"
+  },
+  {
+    "zeile": 23027,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-182",
+    "text": "R B 182 Zuordnung zu den Bewertungsverfahren"
+  },
+  {
+    "zeile": 23042,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-182-abs-4",
+    "text": "H B 182 (4)"
+  },
+  {
+    "zeile": 23045,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-182-abs-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 23049,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-183-bewg",
+    "text": "Zu § 183 BewG[4]"
+  },
+  {
+    "zeile": 23053,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-183",
+    "text": "R B 183 Vergleichswertverfahren[1]"
+  },
+  {
+    "zeile": 23068,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-183-abs-2",
+    "text": "H B 183 (2)"
+  },
+  {
+    "zeile": 23078,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-183-abs-3",
+    "text": "H B 183 (3)"
+  },
+  {
+    "zeile": 23085,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-183-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 23095,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-183-abs-4",
+    "text": "H B 183 (4)"
+  },
+  {
+    "zeile": 23098,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-183-abs-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 23206,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-184-bewg",
+    "text": "Zu § 184 BewG"
+  },
+  {
+    "zeile": 23207,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-184",
+    "text": "R B 184 Allgemeine Grundsätze des Ertragswertverfahrens"
+  },
+  {
+    "zeile": 23210,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-184",
+    "text": "H B 184"
+  },
+  {
+    "zeile": 23303,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-185-bewg",
+    "text": "Zu § 185 BewG"
+  },
+  {
+    "zeile": 23304,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-185-1",
+    "text": "R B 185.1 Bodenwertverzinsung"
+  },
+  {
+    "zeile": 23313,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-185-1-abs-3",
+    "text": "H B 185.1 (3)"
+  },
+  {
+    "zeile": 23316,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-185-1-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 23322,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-185-2",
+    "text": "R B 185.2 Vervielfältiger"
+  },
+  {
+    "zeile": 23325,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-185-3",
+    "text": "R B 185.3 Restnutzungsdauer"
+  },
+  {
+    "zeile": 23754,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-185-4",
+    "text": "R B 185.4 Grundstück mit mehreren Gebäuden bzw. Gebäudeteilen"
+  },
+  {
+    "zeile": 23773,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-185-4",
+    "text": "H B 185.4"
+  },
+  {
+    "zeile": 23820,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-185-4-beispiel-1",
+    "text": "Beispiel 1 (gewogene Restnutzungsdauer):"
+  },
+  {
+    "zeile": 23920,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-185-4-beispiel-2",
+    "text": "Beispiel 2 (gewichtete Restnutzungsdauer):"
+  },
+  {
+    "zeile": 24020,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-186-bewg",
+    "text": "Zu § 186 BewG"
+  },
+  {
+    "zeile": 24021,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-186-1",
+    "text": "R B 186.1 Rohertrag"
+  },
+  {
+    "zeile": 24062,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-186-1",
+    "text": "H B 186.1"
+  },
+  {
+    "zeile": 24065,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-186-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 24073,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 24095,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 24137,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 24157,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-186-2",
+    "text": "R B 186.2 Betriebskosten"
+  },
+  {
+    "zeile": 24162,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-186-2",
+    "text": "H B 186.2"
+  },
+  {
+    "zeile": 24165,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-186-3",
+    "text": "R B 186.3 Vermietung zu gewerblichen, freiberuflichen oder öffentlichen Zwecken"
+  },
+  {
+    "zeile": 24168,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-186-4",
+    "text": "R B 186.4[1] Ansatz der üblichen Miete"
+  },
+  {
+    "zeile": 24188,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-186-5",
+    "text": "R B 186.5 Ermittlung der üblichen Miete"
+  },
+  {
+    "zeile": 24211,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-186-5",
+    "text": "H B 186.5"
+  },
+  {
+    "zeile": 24216,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-186-5-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 24260,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 24334,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-187-bewg",
+    "text": "Zu § 187 BewG"
+  },
+  {
+    "zeile": 24335,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-187",
+    "text": "R B 187 Bewirtschaftungskosten[1]"
+  },
+  {
+    "zeile": 24346,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-187-abs-2",
+    "text": "H B 187 (2)"
+  },
+  {
+    "zeile": 24349,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-188-bewg",
+    "text": "Zu § 188 BewG"
+  },
+  {
+    "zeile": 24350,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-188",
+    "text": "R B 188 Liegenschaftszinssatz[1]"
+  },
+  {
+    "zeile": 24363,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-188-abs-2",
+    "text": "H B 188 (2)"
+  },
+  {
+    "zeile": 24374,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-188-abs-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 24378,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-189-bewg",
+    "text": "Zu § 189 BewG[5]"
+  },
+  {
+    "zeile": 24382,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-189",
+    "text": "R B 189 Allgemeine Grundsätze des Sachwertverfahrens[1]"
+  },
+  {
+    "zeile": 24388,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-189",
+    "text": "H B 189"
+  },
+  {
+    "zeile": 24485,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-189-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 24823,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-190-bewg",
+    "text": "Zu § 190 BewG"
+  },
+  {
+    "zeile": 24824,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-190-1",
+    "text": "R B 190.1 Regelherstellungskosten"
+  },
+  {
+    "zeile": 24829,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-190-1-abs-1",
+    "text": "H B 190.1 (1)"
+  },
+  {
+    "zeile": 24832,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-190-2",
+    "text": "R B 190.2 Gebäudeart"
+  },
+  {
+    "zeile": 24839,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-190-2-abs-1",
+    "text": "H B 190.2 (1)"
+  },
+  {
+    "zeile": 24846,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-190-2-abs-2",
+    "text": "H B 190.2 (2)"
+  },
+  {
+    "zeile": 24945,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-190-3",
+    "text": "R B 190.3 Gebäudestandard"
+  },
+  {
+    "zeile": 24948,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-190-3",
+    "text": "H B 190.3"
+  },
+  {
+    "zeile": 24951,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-190-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 25135,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 25257,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-190-4",
+    "text": "R B 190.4[1] Baupreisindex[2]"
+  },
+  {
+    "zeile": 25268,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-190-4",
+    "text": "H B 190.4"
+  },
+  {
+    "zeile": 25271,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-190-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 25301,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-190-5",
+    "text": "R B 190.5 Besonders werthaltige Außenanlagen"
+  },
+  {
+    "zeile": 25304,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Tabelle:",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 25445,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-190-5",
+    "text": "H B 190.5"
+  },
+  {
+    "zeile": 25448,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-190-6",
+    "text": "R B 190.6 Brutto-Grundfläche"
+  },
+  {
+    "zeile": 25487,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-190-6",
+    "text": "H B 190.6"
+  },
+  {
+    "zeile": 25492,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-190-7",
+    "text": "R B 190.7 Alterswertminderung"
+  },
+  {
+    "zeile": 25971,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-190-7-abs-3",
+    "text": "H B 190.7 (3)"
+  },
+  {
+    "zeile": 25974,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-190-7-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 25994,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-190-8",
+    "text": "R B 190.8 Grundstück mit mehreren Gebäuden bzw. Gebäudeteilen"
+  },
+  {
+    "zeile": 26001,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-190-8-abs-1",
+    "text": "H B 190.8 (1)"
+  },
+  {
+    "zeile": 26004,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-190-8-abs-1-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 26008,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-191-bewg",
+    "text": "Zu § 191 BewG"
+  },
+  {
+    "zeile": 26009,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-191",
+    "text": "R B 191 Wertzahlen"
+  },
+  {
+    "zeile": 26016,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-191-abs-2",
+    "text": "H B 191 (2)"
+  },
+  {
+    "zeile": 26017,
+    "art": "zwischenueberschrift",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Sachwertfaktoren.",
+    "signal": "Folgezeile ohne Leerzeile"
+  },
+  {
+    "zeile": 26020,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-191-abs-3",
+    "text": "H B 191 (3)"
+  },
+  {
+    "zeile": 26023,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-192-bewg",
+    "text": "Zu § 192 BewG"
+  },
+  {
+    "zeile": 26024,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-192-1",
+    "text": "R B 192.1 Begriff des Erbbaurechts"
+  },
+  {
+    "zeile": 26033,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-192-1",
+    "text": "H B 192.1"
+  },
+  {
+    "zeile": 26036,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-192-2",
+    "text": "R B 192.2 Bewertung in Erbbaurechtsfällen"
+  },
+  {
+    "zeile": 26039,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-193-bewg",
+    "text": "Zu § 193 BewG"
+  },
+  {
+    "zeile": 26040,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-193",
+    "text": "R B 193 Bewertung des Erbbaurechts"
+  },
+  {
+    "zeile": 26061,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-193-abs-5",
+    "text": "H B 193 (5)"
+  },
+  {
+    "zeile": 26064,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-193-abs-5-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 26166,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": null,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 26272,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-193-abs-7",
+    "text": "H B 193 (7)"
+  },
+  {
+    "zeile": 26275,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-193-abs-7-beispiel-1",
+    "text": "Beispiel 1 (Ertragswertverfahren):"
+  },
+  {
+    "zeile": 26537,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-193-abs-7-beispiel-2",
+    "text": "Beispiel 2 (Sachwertverfahren):"
+  },
+  {
+    "zeile": 26811,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-194-bewg",
+    "text": "Zu § 194 BewG"
+  },
+  {
+    "zeile": 26812,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-194",
+    "text": "R B 194 Bewertung des Erbbaugrundstücks (belastetes Grundstück)"
+  },
+  {
+    "zeile": 26827,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-194",
+    "text": "H B 194"
+  },
+  {
+    "zeile": 26830,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-194-beispiel",
+    "text": "Beispiel (Sachverhalt wie in H B 193.7 Beispiel 1):"
+  },
+  {
+    "zeile": 27012,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-195-bewg",
+    "text": "Zu § 195 BewG"
+  },
+  {
+    "zeile": 27013,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-195-1",
+    "text": "R B 195.1 Gebäude auf fremdem Grund und Boden"
+  },
+  {
+    "zeile": 27020,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-195-1",
+    "text": "H B 195.1"
+  },
+  {
+    "zeile": 27027,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-195-2",
+    "text": "R B 195.2 Wertermittlung bei Gebäuden auf fremdem Grund und Boden und belasteten Grundstücken"
+  },
+  {
+    "zeile": 27032,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-195-2",
+    "text": "H B 195.2"
+  },
+  {
+    "zeile": 27035,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-195-2-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 27117,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-195-2-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 27237,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-195-2-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 27261,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-196-bewg",
+    "text": "Zu § 196 BewG"
+  },
+  {
+    "zeile": 27262,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-196-1",
+    "text": "R B 196.1 Grundstücke im Zustand der Bebauung"
+  },
+  {
+    "zeile": 27271,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-196-2",
+    "text": "R B 196.2 Wertermittlung bei Grundstücken im Zustand der Bebauung"
+  },
+  {
+    "zeile": 27280,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-196-2-abs-3",
+    "text": "H B 196.2 (3)"
+  },
+  {
+    "zeile": 27283,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-196-2-abs-3-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 27309,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-196-2-abs-3-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 27335,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-196-2-abs-3-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 27403,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-196-2-abs-4",
+    "text": "H B 196.2 (4)"
+  },
+  {
+    "zeile": 27406,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-196-2-abs-4-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 27520,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-197-bewg",
+    "text": "Zu § 197 BewG"
+  },
+  {
+    "zeile": 27521,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-197",
+    "text": "R B 197 Gebäude und Gebäudeteile für den Zivilschutz"
+  },
+  {
+    "zeile": 27526,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-198-bewg",
+    "text": "Zu § 198 BewG"
+  },
+  {
+    "zeile": 27527,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-198",
+    "text": "R B 198[1] Nachweis des niedrigeren gemeinen Werts"
+  },
+  {
+    "zeile": 27539,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-198",
+    "text": "H B 198"
+  },
+  {
+    "zeile": 27564,
+    "art": "teilueberschrift",
+    "ebene": 3,
+    "sprungmarke": "teil-iii-f",
+    "text": "F. Vereinfachtes Ertragswertverfahren"
+  },
+  {
+    "zeile": 27565,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-199-bewg",
+    "text": "Zu § 199 BewG"
+  },
+  {
+    "zeile": 27566,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-199-1",
+    "text": "R B 199.1 Anwendung des vereinfachten Ertragswertverfahrens[1]"
+  },
+  {
+    "zeile": 27603,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-199-2",
+    "text": "R B 199.2 Ausländische Kapitalgesellschaften und ausländisches Betriebsvermögen"
+  },
+  {
+    "zeile": 27606,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-200-bewg",
+    "text": "Zu § 200 BewG"
+  },
+  {
+    "zeile": 27607,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-200",
+    "text": "R B 200 Wertermittlung im vereinfachten Ertragswertverfahren[1]"
+  },
+  {
+    "zeile": 27641,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-200",
+    "text": "H B 200"
+  },
+  {
+    "zeile": 27644,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-200-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 27648,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-200-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 27652,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-201-bewg",
+    "text": "Zu § 201 BewG"
+  },
+  {
+    "zeile": 27653,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-201",
+    "text": "R B 201 Ermittlung des Jahresertrags[1]"
+  },
+  {
+    "zeile": 27667,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-201",
+    "text": "H B 201"
+  },
+  {
+    "zeile": 27670,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-201-beispiel",
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 27690,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-202-bewg",
+    "text": "Zu § 202 BewG"
+  },
+  {
+    "zeile": 27691,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-202",
+    "text": "R B 202 Betriebsergebnis"
+  },
+  {
+    "zeile": 27732,
+    "art": "hinweis",
+    "ebene": 5,
+    "sprungmarke": "h-b-202",
+    "text": "H B 202"
+  },
+  {
+    "zeile": 27735,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-202-beispiel-1",
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 27741,
+    "art": "beispiel",
+    "ebene": 6,
+    "sprungmarke": "h-b-202-beispiel-2",
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 27747,
+    "art": "paragraphengruppe",
+    "ebene": 4,
+    "sprungmarke": "zu-203-bewg",
+    "text": "Zu § 203 BewG"
+  },
+  {
+    "zeile": 27748,
+    "art": "richtlinie",
+    "ebene": 5,
+    "sprungmarke": "r-b-203",
+    "text": "R B 203 Kapitalisierungsfaktor"
+  },
+  {
+    "zeile": 27751,
+    "art": "anlage",
+    "ebene": 2,
+    "sprungmarke": "anlage-1",
+    "text": "Anlage 1"
+  },
+  {
+    "zeile": 27754,
+    "art": "tabelle",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Anbauflächen bzw. Tierarten",
+    "umfang": {
+      "anlage": 1,
+      "zeilen": 4,
+      "spalten": 2,
+      "amtliche_seite": "183",
+      "zeile_von": 27754,
+      "zeile_bis": 27798
+    }
+  },
+  {
+    "zeile": 27815,
+    "art": "anlage",
+    "ebene": 2,
+    "sprungmarke": "anlage-2",
+    "text": "Anlage 2"
+  },
+  {
+    "zeile": 27818,
+    "art": "tabelle",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Standarddeckungsbeiträge",
+    "umfang": {
+      "anlage": 2,
+      "block_ab_zeile": 27818,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "184",
+      "zeile_von": 27818,
+      "zeile_bis": 28611
+    }
+  },
+  {
+    "zeile": 28612,
+    "art": "tabelle",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Standarddeckungsbeiträge",
+    "umfang": {
+      "anlage": 2,
+      "block_ab_zeile": 28612,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "185",
+      "zeile_von": 28612,
+      "zeile_bis": 29405
+    }
+  },
+  {
+    "zeile": 29406,
+    "art": "tabelle",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Standarddeckungsbeiträge",
+    "umfang": {
+      "anlage": 2,
+      "block_ab_zeile": 29406,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "186",
+      "zeile_von": 29406,
+      "zeile_bis": 30199
+    }
+  },
+  {
+    "zeile": 30200,
+    "art": "tabelle",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Standarddeckungsbeiträge",
+    "umfang": {
+      "anlage": 2,
+      "block_ab_zeile": 30200,
+      "wertspalten": 4,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "187",
+      "zeile_von": 30200,
+      "zeile_bis": 30881
+    }
+  },
+  {
+    "zeile": 30882,
+    "art": "tabelle",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Standarddeckungsbeiträge",
+    "umfang": {
+      "anlage": 2,
+      "block_ab_zeile": 30882,
+      "wertspalten": 7,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "188",
+      "zeile_von": 30882,
+      "zeile_bis": 31899
+    }
+  },
+  {
+    "zeile": 31900,
+    "art": "tabelle",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Standarddeckungsbeiträge",
+    "umfang": {
+      "anlage": 2,
+      "block_ab_zeile": 31900,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "189",
+      "zeile_von": 31900,
+      "zeile_bis": 32693
+    }
+  },
+  {
+    "zeile": 32694,
+    "art": "tabelle",
+    "ebene": null,
+    "sprungmarke": null,
+    "text": "Standarddeckungsbeiträge",
+    "umfang": {
+      "anlage": 2,
+      "block_ab_zeile": 32694,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "190",
+      "zeile_von": 32694,
+      "zeile_bis": 33484
+    }
+  }
+]

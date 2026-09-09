@@ -1,0 +1,42 @@
+{
+  "kuerzel": "PublG",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/publg/",
+  "pdf_url": "https://www.gesetze-im-internet.de/publg/PublG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/publg/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/publg/BJNR011890969.html",
+  "original_dateiname": "PublG.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 13,
+  "dateien": [
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "1ec90face92c09e150f71cb53d57259145475012960f4bf4f6f3904034f99803"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "1bf4ae06eec8d3e38e21998464c26d1b17398d31bb2df2b0ce0ce8653f793e45"
+    },
+    {
+      "datei": "Quellen/PublG_aktuell.pdf",
+      "sha256": "edd500689b70acc24120f81b1965c24c38a6a9779f1ea819a341b2acd84c6876"
+    },
+    {
+      "datei": "Quellen/PublG_bereitgestellt.pdf",
+      "sha256": "edd500689b70acc24120f81b1965c24c38a6a9779f1ea819a341b2acd84c6876"
+    },
+    {
+      "datei": "Quellen/PublG_PDF_Rohtext.txt",
+      "sha256": "69ca6cdb8031c5d51af02054825e7ec39d0a6d8170582a24fc4977dd65925cf6"
+    },
+    {
+      "datei": "Quellen/XML/BJNR011890969.xml",
+      "sha256": "fe2485fe7430aa9c33eef976d9f277231e819de054976dbe0eda9dd0e5ceca4a"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "06ccd5cb08808d442bac5fae925430586319c9d03a29c29e681d22278797d948"
+    }
+  ]
+}

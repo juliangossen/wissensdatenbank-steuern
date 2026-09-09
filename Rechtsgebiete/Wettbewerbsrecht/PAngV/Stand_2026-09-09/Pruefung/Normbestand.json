@@ -1,0 +1,246 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR492110021",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "82373a54fa571ae67d4755a06fd7139946b6138c8cf97330566cd77bad8ae83d"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR492110021BJNE000100000",
+    "enbez": "Inhaltsübersicht",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "614333522050b9c3b0af8f9a1d5b2e2079dce7b98880df2511d7226572793c14"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR492110021BJNG000100000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010",
+      "gliederungsbez": "Abschnitt 1",
+      "gliederungstitel": "Allgemeine Bestimmungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR492110021BJNE000200000",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Anwendungsbereich; Grundsatz",
+    "sha256_xml_text": "659d4b1922f5b9959122b3d7bcda64934215f668c7c69ea96903dd1b970e7ce5"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR492110021BJNE000300000",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Begriffsbestimmungen",
+    "sha256_xml_text": "60c0476ab763bb213f757a50656de3b2dc2c938865e60e17611be020f3a46262"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR492110021BJNG000200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020",
+      "gliederungsbez": "Abschnitt 2",
+      "gliederungstitel": "Grundvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR492110021BJNE000400000",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Pflicht zur Angabe des Gesamtpreises",
+    "sha256_xml_text": "19dbb456be11bbb11076842240813efe731c74c4c89b978134480b2999e00ee8"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR492110021BJNE000500000",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Pflicht zur Angabe des Grundpreises",
+    "sha256_xml_text": "5bb047117bffb4d5f7814b3ceb7596d9207c14810f24a05ac74072bbcf888fb3"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR492110021BJNE000600000",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Mengeneinheit für die Angabe des Grundpreises",
+    "sha256_xml_text": "1896c1cdd11f04b50a284ae98782814c180e397b4a8c198b1e22ad11fe7d2461"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR492110021BJNE000701128",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Preisangaben bei Fernabsatzverträgen",
+    "sha256_xml_text": "4d45516af31dbe01efcfc6373ad8937cd2adeba92b04bb031cf531250bfddf8c"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR492110021BJNE000800000",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Rückerstattbare Sicherheit",
+    "sha256_xml_text": "153c258e3de039ce05374d9b7a12425a4efbb4d692ce191bded39c3d3d86e7c9"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR492110021BJNE000900000",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Preisangaben mit Änderungsvorbehalt; Reisepreisänderungen",
+    "sha256_xml_text": "1b70bb47893081b8cbc3be5adedf7c020f03c49a918dda898e749fbc6851cd94"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR492110021BJNE001000000",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": "Preisermäßigungen",
+    "sha256_xml_text": "45a0ea88fb2d6c2fe1a2e66483c272df1810bd1aee8ab9c0808d5188aa610a4c"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR492110021BJNG000300000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030",
+      "gliederungsbez": "Abschnitt 3",
+      "gliederungstitel": "Besondere Bestimmungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR492110021BJNE001100000",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Preisangaben im Handel",
+    "sha256_xml_text": "ec8f56c70430902f2b28b0500ce615877fe9adcd73b508b2602e62f9479826dd"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR492110021BJNE001200000",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Zusätzliche Preisangabenpflicht bei Preisermäßigungen für Waren",
+    "sha256_xml_text": "5be8fc4b06a0cead56704ad9709ac25d6993abc28dc8b488c96ab50a80f8e55f"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR492110021BJNE001300000",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Preisangaben für Leistungen",
+    "sha256_xml_text": "cae65555a4b3d9ab0c585ee1b7ce60b116cceac22c54c20fccc0b5fe7047ca55"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR492110021BJNE001400000",
+    "enbez": "§ 13",
+    "gliederung": null,
+    "titel": "Gaststätten, Beherbergungsbetriebe",
+    "sha256_xml_text": "89798b734a1e30a44b95d3bee760678efff4bee6da28ff2605bbcfb2a9ec22f9"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR492110021BJNE001500000",
+    "enbez": "§ 14",
+    "gliederung": null,
+    "titel": "Elektrizität, Gas, Fernwärme und Wasser",
+    "sha256_xml_text": "7c784f889d83cdb10ea66cba37abd8f7b83dfd287e600d5bb818b58c67bc7e77"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR492110021BJNE001600000",
+    "enbez": "§ 15",
+    "gliederung": null,
+    "titel": "Tankstellen, Parkplätze",
+    "sha256_xml_text": "0f066ec0566333b4363c130bacfe7ae1fdf6183ee1f36e93a665d14a68b3885f"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR492110021BJNG000400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040",
+      "gliederungsbez": "Abschnitt 4",
+      "gliederungstitel": "Bestimmungen zu Finanzdienstleistungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR492110021BJNE001700000",
+    "enbez": "§ 16",
+    "gliederung": null,
+    "titel": "Verbraucherdarlehen",
+    "sha256_xml_text": "1468f11686f0396940a8839543702ade34e00cc21e6d66265f21207c330af0e8"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR492110021BJNE001800000",
+    "enbez": "§ 17",
+    "gliederung": null,
+    "titel": "Werbung für Verbraucherdarlehen",
+    "sha256_xml_text": "3f1a3d7eb6a913d6ea2d8c5b9e0bfe1c8575787e03f066539249948307342fb6"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR492110021BJNE001900000",
+    "enbez": "§ 18",
+    "gliederung": null,
+    "titel": "Überziehungsmöglichkeiten",
+    "sha256_xml_text": "23b1209193f6cf962e6982ea2c9fec56ac570286ae508457b6e39ba85fb3e6be"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR492110021BJNE002000000",
+    "enbez": "§ 19",
+    "gliederung": null,
+    "titel": "Entgeltliche Finanzierungshilfen",
+    "sha256_xml_text": "48871317555608eb6844b4f7e1e34525d8fd9942cb3582322da800fae0fe6192"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR492110021BJNG000500000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050",
+      "gliederungsbez": "Abschnitt 5",
+      "gliederungstitel": "Ordnungswidrigkeiten"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR492110021BJNE002100000",
+    "enbez": "§ 20",
+    "gliederung": null,
+    "titel": "Ordnungswidrigkeiten",
+    "sha256_xml_text": "2a0ce69cca48cb931c5a46faa4cf11c0b955c520a4ff35b8995b75e0ed5cfdf0"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR492110021BJNE002200000",
+    "enbez": "Anlage",
+    "gliederung": null,
+    "titel": "(zu § 16)Berechnung des effektiven Jahreszinses",
+    "sha256_xml_text": "fce2a476ef052db2b2ef4743f2bc4c08b9add4fe5f0428b58fd73d43e15a5061"
+  }
+]

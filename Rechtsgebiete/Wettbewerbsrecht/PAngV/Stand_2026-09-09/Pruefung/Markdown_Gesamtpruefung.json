@@ -1,0 +1,237 @@
+{
+  "kuerzel": "PAngV",
+  "pruefdatum": "2026-09-09",
+  "methode": "Fertige Markdown-Datei unabhängig normweise an Überschriftsankern zerlegt; alle sichtbaren Texte aus dem gerenderten Markdown gegen sämtliche XML-Normen in derselben Reihenfolge verglichen. Nur redaktionelle Metadaten und markierte Ergänzungen, PDF-technischer (XXXX)-Präfix, NFC/Whitespace ausgenommen. Aus XML-Attributen stammende Fußnotenmarker werden zusätzlich auf vollständige Zahl und Kennzeichnung geprüft.",
+  "sha256_markdown": "f644c263af7883198b167dfdbf8582d1d6cf598cb431bed71f53ac777cfdca4c",
+  "normen_erwartet": 28,
+  "normen_vorhanden": 28,
+  "alle_normtexte_identisch": true,
+  "alle_fussnotenverweise_erhalten": true,
+  "fussnoten": [],
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR492110021",
+      "anzeige": "Dokumentkopf",
+      "identisch": true,
+      "zeichen": 375,
+      "sha256": "2b9acccb50140dbc6980b972990181c2d189efe06d366ab6674833dc48489c1a"
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR492110021BJNE000100000",
+      "anzeige": "Inhaltsübersicht",
+      "identisch": true,
+      "zeichen": 872,
+      "sha256": "0ed3b2da59e36440524c4e5506c222d1c3846e54b19d4b27e48350fc627f8f22"
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR492110021BJNG000100000",
+      "anzeige": "010Abschnitt 1Allgemeine Bestimmungen",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "bf292bb94cc4efcbcaac2bd413e7ed61f34aecf60a2f8f6409f9e8cdda461f81"
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR492110021BJNE000200000",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 795,
+      "sha256": "aa0ead71f4b159c405f72abf86e5898dd3d1b595f8ad2607f88e28993b8267a7"
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR492110021BJNE000300000",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1269,
+      "sha256": "129231389520079542af6be5249bef5b6b84e5cad1856b971251acb365ecf620"
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR492110021BJNG000200000",
+      "anzeige": "020Abschnitt 2Grundvorschriften",
+      "identisch": true,
+      "zeichen": 27,
+      "sha256": "f5d71820c77a171a16ec0a795e6fca0192cd1d051ca1309669f2d2b5a7ba3f41"
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR492110021BJNE000400000",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 587,
+      "sha256": "b4edb522e906aeac03d2d308ae380c1aa2eb1430ba1c13911cf9b23cfcff917e"
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR492110021BJNE000500000",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 1586,
+      "sha256": "d4c0f7cd59beeb84d9db1c2b7bf3da1ae031f9dc4e3746536fc0127bf0079e69"
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR492110021BJNE000600000",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 1063,
+      "sha256": "a510d6e31768a4c00837763373d6a2bdb91ff687e94d063d20347e5192bf9b62"
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR492110021BJNE000701128",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 675,
+      "sha256": "2a6ec22a391d41150c485e3b5a02fac605d89c3f846fac6a343d836e17e2d838"
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR492110021BJNE000800000",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 322,
+      "sha256": "7161c7a34659ebe0a88f0463460fc661e22921be51b4ef2acd1a720e27ff7d01"
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR492110021BJNE000900000",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 606,
+      "sha256": "ef08006e9f1d6110fdaa637eed6c14f9e6bc275795a69b92df46153923cf24e9"
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR492110021BJNE001000000",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 713,
+      "sha256": "3ab8e9d7ec9b4a6b925b5b14532d848ccde9a5a453935e993a9a8f09c83dd6ca"
+    },
+    {
+      "xml_index": 13,
+      "doknr": "BJNR492110021BJNG000300000",
+      "anzeige": "030Abschnitt 3Besondere Bestimmungen",
+      "identisch": true,
+      "zeichen": 31,
+      "sha256": "a6d7d9cac9266cb2760326b76673159a8c6f3ffe878f10eaeefba2fff431cee8"
+    },
+    {
+      "xml_index": 14,
+      "doknr": "BJNR492110021BJNE001100000",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 1803,
+      "sha256": "32a8c8b78bceba61a566f4a5a038cfa34ca9fd6e70c302eb0b3eac238ec26565"
+    },
+    {
+      "xml_index": 15,
+      "doknr": "BJNR492110021BJNE001200000",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 1029,
+      "sha256": "095d7578fffe26e03ccbc612da383807202fef9efdceda4fdcd9ef938b9776bc"
+    },
+    {
+      "xml_index": 16,
+      "doknr": "BJNR492110021BJNE001300000",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 1471,
+      "sha256": "15ab73fc25363f0c045fcc0d83c5b2a7fb56b76db1f7b5734bdfb3b2ac80d06f"
+    },
+    {
+      "xml_index": 17,
+      "doknr": "BJNR492110021BJNE001400000",
+      "anzeige": "§ 13",
+      "identisch": true,
+      "zeichen": 1584,
+      "sha256": "5bc6e647ce58028ebd539692c5a4056c35762cc147b631f6759c1b845c604992"
+    },
+    {
+      "xml_index": 18,
+      "doknr": "BJNR492110021BJNE001500000",
+      "anzeige": "§ 14",
+      "identisch": true,
+      "zeichen": 1473,
+      "sha256": "11ff4bd954c15bda2fccf50b54b3291d823f5ec27f77825d47619c5b1d8310a5"
+    },
+    {
+      "xml_index": 19,
+      "doknr": "BJNR492110021BJNE001600000",
+      "anzeige": "§ 15",
+      "identisch": true,
+      "zeichen": 572,
+      "sha256": "6cf705bf2d3f8607cab50821298fc3a66a7bfc339aef81ab36b52a2f77e304e5"
+    },
+    {
+      "xml_index": 20,
+      "doknr": "BJNR492110021BJNG000400000",
+      "anzeige": "040Abschnitt 4Bestimmungen zu Finanzdienstleistungen",
+      "identisch": true,
+      "zeichen": 46,
+      "sha256": "9485fb516786f4229f94622375bcdcbc0d9eb7e205a535c53e1e32f560c14de1"
+    },
+    {
+      "xml_index": 21,
+      "doknr": "BJNR492110021BJNE001700000",
+      "anzeige": "§ 16",
+      "identisch": true,
+      "zeichen": 4135,
+      "sha256": "c570816769b00434306e6807f7dc1b7bdd0aae13119a817cee445d937f3fd181"
+    },
+    {
+      "xml_index": 22,
+      "doknr": "BJNR492110021BJNE001800000",
+      "anzeige": "§ 17",
+      "identisch": true,
+      "zeichen": 2496,
+      "sha256": "589806df348c5b151acef97c27b62dcb68da237fce79a1eb3e05ce42b9c5dd54"
+    },
+    {
+      "xml_index": 23,
+      "doknr": "BJNR492110021BJNE001900000",
+      "anzeige": "§ 18",
+      "identisch": true,
+      "zeichen": 314,
+      "sha256": "43880ce0e7f7ef990e6c5c739562b681916d8541ef4a252b9b68c90f386cea06"
+    },
+    {
+      "xml_index": 24,
+      "doknr": "BJNR492110021BJNE002000000",
+      "anzeige": "§ 19",
+      "identisch": true,
+      "zeichen": 250,
+      "sha256": "f1a4b314eab13af392c587ffaec3b946c66c09b0785eb339cd4afb01886fbf0d"
+    },
+    {
+      "xml_index": 25,
+      "doknr": "BJNR492110021BJNG000500000",
+      "anzeige": "050Abschnitt 5Ordnungswidrigkeiten",
+      "identisch": true,
+      "zeichen": 30,
+      "sha256": "64e3aed2c4ef9e68ef930f153a59af5a67874e424447c9976a1ea206c063630d"
+    },
+    {
+      "xml_index": 26,
+      "doknr": "BJNR492110021BJNE002100000",
+      "anzeige": "§ 20",
+      "identisch": true,
+      "zeichen": 994,
+      "sha256": "e557b57ba9c5fd75097ef598cc61b94a440f8623fb8e401283002755cdc5c90f"
+    },
+    {
+      "xml_index": 27,
+      "doknr": "BJNR492110021BJNE002200000",
+      "anzeige": "Anlage",
+      "identisch": true,
+      "zeichen": 10553,
+      "sha256": "d6ad7528ab90b0293dbe8036d3cde386fc77faf3edda96c614289f5558b09d96"
+    }
+  ]
+}

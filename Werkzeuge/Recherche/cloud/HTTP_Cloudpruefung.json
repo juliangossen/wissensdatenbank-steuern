@@ -1,0 +1,8 @@
+{
+  "http_mcp": true,
+  "backend": "supabase",
+  "loopback_only": true,
+  "tools": 5,
+  "release_id": "r-ad68e666980668e7ca4e6b81",
+  "search_and_fetch": true
+}

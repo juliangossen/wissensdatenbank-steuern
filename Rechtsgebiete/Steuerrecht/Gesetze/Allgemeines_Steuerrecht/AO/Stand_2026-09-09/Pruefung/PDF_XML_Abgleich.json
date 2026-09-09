@@ -1,0 +1,4803 @@
+{
+  "kuerzel": "AO",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 1044,
+      "xml_chars": 1044,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 23134,
+      "xml_chars": 23134,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Erster TeilEinleitende Vorschriften",
+      "pdf_chars": 33,
+      "xml_chars": 33,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "Erster AbschnittAnwendungsbereich",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 1",
+      "pdf_chars": 1310,
+      "xml_chars": 1310,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 2",
+      "pdf_chars": 1437,
+      "xml_chars": 1437,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 2a",
+      "pdf_chars": 1970,
+      "xml_chars": 1970,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "Zweiter AbschnittSteuerliche Begriffsbestimmungen",
+      "pdf_chars": 47,
+      "xml_chars": 47,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 3",
+      "pdf_chars": 2126,
+      "xml_chars": 2126,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 4",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 5",
+      "pdf_chars": 177,
+      "xml_chars": 177,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 6",
+      "pdf_chars": 2691,
+      "xml_chars": 2691,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 7",
+      "pdf_chars": 313,
+      "xml_chars": 313,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 8",
+      "pdf_chars": 142,
+      "xml_chars": 142,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 9",
+      "pdf_chars": 523,
+      "xml_chars": 523,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 10",
+      "pdf_chars": 81,
+      "xml_chars": 81,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 11",
+      "pdf_chars": 168,
+      "xml_chars": 168,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 12",
+      "pdf_chars": 707,
+      "xml_chars": 707,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 13",
+      "pdf_chars": 343,
+      "xml_chars": 343,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 14",
+      "pdf_chars": 436,
+      "xml_chars": 436,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 14a",
+      "pdf_chars": 1017,
+      "xml_chars": 1017,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 14b",
+      "pdf_chars": 804,
+      "xml_chars": 804,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 15",
+      "pdf_chars": 855,
+      "xml_chars": 855,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "Dritter AbschnittZuständigkeit der Finanzbehörden",
+      "pdf_chars": 46,
+      "xml_chars": 46,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 16",
+      "pdf_chars": 147,
+      "xml_chars": 147,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 17",
+      "pdf_chars": 120,
+      "xml_chars": 120,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 18",
+      "pdf_chars": 2196,
+      "xml_chars": 2196,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 19",
+      "pdf_chars": 3390,
+      "xml_chars": 3390,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 20",
+      "pdf_chars": 982,
+      "xml_chars": 982,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 20a",
+      "pdf_chars": 1079,
+      "xml_chars": 1079,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 21",
+      "pdf_chars": 836,
+      "xml_chars": 836,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 22",
+      "pdf_chars": 1188,
+      "xml_chars": 1188,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 22a",
+      "pdf_chars": 313,
+      "xml_chars": 313,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 23",
+      "pdf_chars": 839,
+      "xml_chars": 839,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 24",
+      "pdf_chars": 167,
+      "xml_chars": 167,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 25",
+      "pdf_chars": 450,
+      "xml_chars": 450,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 26",
+      "pdf_chars": 714,
+      "xml_chars": 714,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 27",
+      "pdf_chars": 487,
+      "xml_chars": 487,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 28",
+      "pdf_chars": 328,
+      "xml_chars": 328,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 29",
+      "pdf_chars": 212,
+      "xml_chars": 212,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 29a",
+      "pdf_chars": 600,
+      "xml_chars": 600,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "Vierter AbschnittVerarbeitung geschützter Daten und Steuergeheimnis",
+      "pdf_chars": 62,
+      "xml_chars": 62,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "§ 29b",
+      "pdf_chars": 822,
+      "xml_chars": 822,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 29c",
+      "pdf_chars": 2440,
+      "xml_chars": 2440,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 30",
+      "pdf_chars": 6710,
+      "xml_chars": 6710,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 31",
+      "pdf_chars": 1919,
+      "xml_chars": 1919,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "§ 31a",
+      "pdf_chars": 1991,
+      "xml_chars": 1991,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 31b",
+      "pdf_chars": 3874,
+      "xml_chars": 3874,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 31c",
+      "pdf_chars": 1605,
+      "xml_chars": 1605,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "Fünfter AbschnittHaftungsbeschränkung für Amtsträger",
+      "pdf_chars": 49,
+      "xml_chars": 49,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "§ 32",
+      "pdf_chars": 456,
+      "xml_chars": 456,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "Sechster AbschnittRechte der betroffenen Person",
+      "pdf_chars": 43,
+      "xml_chars": 43,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "§ 32a",
+      "pdf_chars": 2757,
+      "xml_chars": 2757,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 32b",
+      "pdf_chars": 2115,
+      "xml_chars": 2115,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "§ 32c",
+      "pdf_chars": 2599,
+      "xml_chars": 2599,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 32d",
+      "pdf_chars": 794,
+      "xml_chars": 794,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§ 32e",
+      "pdf_chars": 513,
+      "xml_chars": 513,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 32f",
+      "pdf_chars": 2169,
+      "xml_chars": 2169,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "Siebter AbschnittDatenschutzaufsicht, Gerichtlicher Rechtsschutz in datenschutzrechtlichen Angelegenheiten",
+      "pdf_chars": 100,
+      "xml_chars": 100,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "§ 32g",
+      "pdf_chars": 216,
+      "xml_chars": 216,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 60,
+      "name": "§ 32h",
+      "pdf_chars": 1339,
+      "xml_chars": 1339,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 61,
+      "name": "§ 32i",
+      "pdf_chars": 3415,
+      "xml_chars": 3415,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 62,
+      "name": "§ 32j",
+      "pdf_chars": 512,
+      "xml_chars": 512,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 63,
+      "name": "Zweiter TeilSteuerschuldrecht",
+      "pdf_chars": 28,
+      "xml_chars": 28,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 64,
+      "name": "Erster AbschnittSteuerpflichtiger",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 65,
+      "name": "§ 33",
+      "pdf_chars": 512,
+      "xml_chars": 512,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 66,
+      "name": "§ 34",
+      "pdf_chars": 948,
+      "xml_chars": 948,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 67,
+      "name": "§ 35",
+      "pdf_chars": 201,
+      "xml_chars": 201,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 36",
+      "pdf_chars": 267,
+      "xml_chars": 267,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 69,
+      "name": "Zweiter AbschnittSteuerschuldverhältnis",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 70,
+      "name": "§ 37",
+      "pdf_chars": 780,
+      "xml_chars": 780,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 38",
+      "pdf_chars": 178,
+      "xml_chars": 178,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 72,
+      "name": "§ 39",
+      "pdf_chars": 855,
+      "xml_chars": 855,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 73,
+      "name": "§ 40",
+      "pdf_chars": 209,
+      "xml_chars": 209,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 74,
+      "name": "§ 41",
+      "pdf_chars": 482,
+      "xml_chars": 482,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 75,
+      "name": "§ 42",
+      "pdf_chars": 871,
+      "xml_chars": 871,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 76,
+      "name": "§ 43",
+      "pdf_chars": 209,
+      "xml_chars": 209,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 77,
+      "name": "§ 44",
+      "pdf_chars": 586,
+      "xml_chars": 586,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 78,
+      "name": "§ 45",
+      "pdf_chars": 430,
+      "xml_chars": 430,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 79,
+      "name": "§ 46",
+      "pdf_chars": 1717,
+      "xml_chars": 1717,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 80,
+      "name": "§ 47",
+      "pdf_chars": 234,
+      "xml_chars": 234,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 81,
+      "name": "§ 48",
+      "pdf_chars": 225,
+      "xml_chars": 225,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 82,
+      "name": "§ 49",
+      "pdf_chars": 157,
+      "xml_chars": 157,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 83,
+      "name": "§ 50",
+      "pdf_chars": 938,
+      "xml_chars": 938,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 84,
+      "name": "Dritter AbschnittSteuerbegünstigte Zwecke",
+      "pdf_chars": 39,
+      "xml_chars": 39,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 85,
+      "name": "§ 51",
+      "pdf_chars": 1502,
+      "xml_chars": 1502,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 86,
+      "name": "§ 52",
+      "pdf_chars": 4362,
+      "xml_chars": 4362,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 87,
+      "name": "§ 53",
+      "pdf_chars": 1980,
+      "xml_chars": 1980,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 88,
+      "name": "§ 54",
+      "pdf_chars": 632,
+      "xml_chars": 632,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 89,
+      "name": "§ 55",
+      "pdf_chars": 2683,
+      "xml_chars": 2683,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 90,
+      "name": "§ 56",
+      "pdf_chars": 123,
+      "xml_chars": 123,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 91,
+      "name": "§ 57",
+      "pdf_chars": 1206,
+      "xml_chars": 1206,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 92,
+      "name": "§ 58",
+      "pdf_chars": 2797,
+      "xml_chars": 2797,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 93,
+      "name": "§ 58a",
+      "pdf_chars": 1325,
+      "xml_chars": 1325,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 94,
+      "name": "§ 59",
+      "pdf_chars": 393,
+      "xml_chars": 393,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 95,
+      "name": "§ 60",
+      "pdf_chars": 553,
+      "xml_chars": 553,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 96,
+      "name": "§ 60a",
+      "pdf_chars": 1967,
+      "xml_chars": 1967,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 97,
+      "name": "§ 60b",
+      "pdf_chars": 1434,
+      "xml_chars": 1434,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 98,
+      "name": "§ 61",
+      "pdf_chars": 850,
+      "xml_chars": 850,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 99,
+      "name": "§ 62",
+      "pdf_chars": 2169,
+      "xml_chars": 2169,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 100,
+      "name": "§ 63",
+      "pdf_chars": 1397,
+      "xml_chars": 1397,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 101,
+      "name": "§ 64",
+      "pdf_chars": 1836,
+      "xml_chars": 1836,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 102,
+      "name": "§ 65",
+      "pdf_chars": 444,
+      "xml_chars": 444,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 103,
+      "name": "§ 66",
+      "pdf_chars": 560,
+      "xml_chars": 560,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 104,
+      "name": "§ 67",
+      "pdf_chars": 755,
+      "xml_chars": 755,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 105,
+      "name": "§ 67a",
+      "pdf_chars": 1746,
+      "xml_chars": 1746,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 106,
+      "name": "§ 68",
+      "pdf_chars": 3409,
+      "xml_chars": 3409,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 107,
+      "name": "Vierter AbschnittHaftung",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 108,
+      "name": "§ 69",
+      "pdf_chars": 467,
+      "xml_chars": 467,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 109,
+      "name": "§ 70",
+      "pdf_chars": 736,
+      "xml_chars": 736,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 110,
+      "name": "§ 71",
+      "pdf_chars": 372,
+      "xml_chars": 372,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 111,
+      "name": "§ 72",
+      "pdf_chars": 274,
+      "xml_chars": 274,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 112,
+      "name": "§ 72a",
+      "pdf_chars": 1362,
+      "xml_chars": 1362,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 113,
+      "name": "§ 73",
+      "pdf_chars": 383,
+      "xml_chars": 383,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 114,
+      "name": "§ 74",
+      "pdf_chars": 889,
+      "xml_chars": 889,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 115,
+      "name": "§ 75",
+      "pdf_chars": 778,
+      "xml_chars": 778,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 116,
+      "name": "§ 76",
+      "pdf_chars": 1119,
+      "xml_chars": 1119,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 117,
+      "name": "§ 77",
+      "pdf_chars": 513,
+      "xml_chars": 513,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 118,
+      "name": "Dritter TeilAllgemeine Verfahrensvorschriften",
+      "pdf_chars": 43,
+      "xml_chars": 43,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 119,
+      "name": "Erster AbschnittVerfahrensgrundsätze",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 120,
+      "name": "1. UnterabschnittBeteiligung am Verfahren",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 121,
+      "name": "§ 78",
+      "pdf_chars": 241,
+      "xml_chars": 241,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 122,
+      "name": "§ 79",
+      "pdf_chars": 999,
+      "xml_chars": 999,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 123,
+      "name": "§ 80",
+      "pdf_chars": 3154,
+      "xml_chars": 3154,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 124,
+      "name": "§ 80a",
+      "pdf_chars": 1634,
+      "xml_chars": 1634,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 125,
+      "name": "§ 81",
+      "pdf_chars": 1895,
+      "xml_chars": 1895,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 126,
+      "name": "2. UnterabschnittAusschließung und Ablehnung von Amtsträgern und anderen Personen",
+      "pdf_chars": 73,
+      "xml_chars": 73,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 127,
+      "name": "§ 82",
+      "pdf_chars": 1388,
+      "xml_chars": 1388,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 128,
+      "name": "§ 83",
+      "pdf_chars": 548,
+      "xml_chars": 548,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 129,
+      "name": "§ 84",
+      "pdf_chars": 651,
+      "xml_chars": 651,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 130,
+      "name": "3. UnterabschnittBesteuerungsgrundsätze, Beweismittel",
+      "pdf_chars": 51,
+      "xml_chars": 51,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 131,
+      "name": "I.Allgemeines",
+      "pdf_chars": 13,
+      "xml_chars": 13,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 132,
+      "name": "§ 85",
+      "pdf_chars": 272,
+      "xml_chars": 272,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 133,
+      "name": "§ 86",
+      "pdf_chars": 283,
+      "xml_chars": 283,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 134,
+      "name": "§ 87",
+      "pdf_chars": 1614,
+      "xml_chars": 1614,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 135,
+      "name": "§ 87a",
+      "pdf_chars": 5337,
+      "xml_chars": 5337,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 136,
+      "name": "§ 87b",
+      "pdf_chars": 1808,
+      "xml_chars": 1808,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 137,
+      "name": "§ 87c",
+      "pdf_chars": 2193,
+      "xml_chars": 2193,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 138,
+      "name": "§ 87d",
+      "pdf_chars": 1451,
+      "xml_chars": 1451,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 139,
+      "name": "§ 87e",
+      "pdf_chars": 272,
+      "xml_chars": 272,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 140,
+      "name": "§ 88",
+      "pdf_chars": 3403,
+      "xml_chars": 3403,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 141,
+      "name": "§ 88a",
+      "pdf_chars": 395,
+      "xml_chars": 395,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 142,
+      "name": "§ 88b",
+      "pdf_chars": 1155,
+      "xml_chars": 1155,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 143,
+      "name": "§ 88c",
+      "pdf_chars": 1801,
+      "xml_chars": 1801,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 144,
+      "name": "§ 89",
+      "pdf_chars": 3678,
+      "xml_chars": 3678,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 145,
+      "name": "§ 89a",
+      "pdf_chars": 8655,
+      "xml_chars": 8655,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 146,
+      "name": "§ 89b",
+      "pdf_chars": 7537,
+      "xml_chars": 7537,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 147,
+      "name": "§ 90",
+      "pdf_chars": 3313,
+      "xml_chars": 3313,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 148,
+      "name": "§ 91",
+      "pdf_chars": 1451,
+      "xml_chars": 1451,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 149,
+      "name": "§ 92",
+      "pdf_chars": 300,
+      "xml_chars": 300,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 150,
+      "name": "II.Beweis durch Auskünfte und Sachverständigengutachten",
+      "pdf_chars": 51,
+      "xml_chars": 51,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 151,
+      "name": "§ 93",
+      "pdf_chars": 8342,
+      "xml_chars": 8342,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 152,
+      "name": "§ 93a",
+      "pdf_chars": 3671,
+      "xml_chars": 3671,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 153,
+      "name": "§ 93b",
+      "pdf_chars": 1159,
+      "xml_chars": 1159,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 154,
+      "name": "§ 93c",
+      "pdf_chars": 4592,
+      "xml_chars": 4592,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 155,
+      "name": "§ 93d",
+      "pdf_chars": 493,
+      "xml_chars": 493,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 156,
+      "name": "§ 94",
+      "pdf_chars": 909,
+      "xml_chars": 909,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 157,
+      "name": "§ 95",
+      "pdf_chars": 2020,
+      "xml_chars": 2020,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 158,
+      "name": "§ 96",
+      "pdf_chars": 2225,
+      "xml_chars": 2225,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 159,
+      "name": "III.Beweis durch Urkunden und Augenschein",
+      "pdf_chars": 37,
+      "xml_chars": 37,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 160,
+      "name": "§ 97",
+      "pdf_chars": 691,
+      "xml_chars": 691,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 161,
+      "name": "§ 98",
+      "pdf_chars": 177,
+      "xml_chars": 177,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 162,
+      "name": "§ 99",
+      "pdf_chars": 677,
+      "xml_chars": 677,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 163,
+      "name": "§ 100",
+      "pdf_chars": 368,
+      "xml_chars": 368,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 164,
+      "name": "IV.Auskunfts- und Vorlageverweigerungsrechte",
+      "pdf_chars": 42,
+      "xml_chars": 42,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 165,
+      "name": "§ 101",
+      "pdf_chars": 497,
+      "xml_chars": 497,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 166,
+      "name": "§ 102",
+      "pdf_chars": 2395,
+      "xml_chars": 2395,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 167,
+      "name": "§ 103",
+      "pdf_chars": 450,
+      "xml_chars": 450,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 168,
+      "name": "§ 104",
+      "pdf_chars": 494,
+      "xml_chars": 494,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 169,
+      "name": "§ 105",
+      "pdf_chars": 630,
+      "xml_chars": 630,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 170,
+      "name": "§ 106",
+      "pdf_chars": 292,
+      "xml_chars": 292,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 171,
+      "name": "V.Entschädigung der Auskunftspflichtigen und der Sachverständigen",
+      "pdf_chars": 60,
+      "xml_chars": 60,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 172,
+      "name": "§ 107",
+      "pdf_chars": 402,
+      "xml_chars": 402,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 173,
+      "name": "4. UnterabschnittFristen, Termine, Wiedereinsetzung",
+      "pdf_chars": 48,
+      "xml_chars": 48,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 174,
+      "name": "§ 108",
+      "pdf_chars": 912,
+      "xml_chars": 912,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 175,
+      "name": "§ 109",
+      "pdf_chars": 1535,
+      "xml_chars": 1535,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 176,
+      "name": "§ 110",
+      "pdf_chars": 837,
+      "xml_chars": 837,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 177,
+      "name": "5. UnterabschnittRechts- und Amtshilfe",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 178,
+      "name": "§ 111",
+      "pdf_chars": 890,
+      "xml_chars": 890,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 179,
+      "name": "§ 112",
+      "pdf_chars": 1618,
+      "xml_chars": 1618,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 180,
+      "name": "§ 113",
+      "pdf_chars": 200,
+      "xml_chars": 200,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 181,
+      "name": "§ 114",
+      "pdf_chars": 407,
+      "xml_chars": 407,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 182,
+      "name": "§ 115",
+      "pdf_chars": 505,
+      "xml_chars": 505,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 183,
+      "name": "§ 116",
+      "pdf_chars": 882,
+      "xml_chars": 882,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 184,
+      "name": "§ 117",
+      "pdf_chars": 2875,
+      "xml_chars": 2875,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 185,
+      "name": "§ 117a",
+      "pdf_chars": 3206,
+      "xml_chars": 3206,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 186,
+      "name": "§ 117b",
+      "pdf_chars": 2263,
+      "xml_chars": 2263,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 187,
+      "name": "§ 117c",
+      "pdf_chars": 2629,
+      "xml_chars": 2629,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 188,
+      "name": "§ 117d",
+      "pdf_chars": 777,
+      "xml_chars": 777,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 189,
+      "name": "§ 117e",
+      "pdf_chars": 2536,
+      "xml_chars": 2536,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 190,
+      "name": "§ 117f",
+      "pdf_chars": 1202,
+      "xml_chars": 1202,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 191,
+      "name": "§ 117g",
+      "pdf_chars": 1407,
+      "xml_chars": 1407,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 192,
+      "name": "§ 117h",
+      "pdf_chars": 1003,
+      "xml_chars": 1003,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 193,
+      "name": "§ 117i",
+      "pdf_chars": 339,
+      "xml_chars": 339,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 194,
+      "name": "§ 117j",
+      "pdf_chars": 973,
+      "xml_chars": 973,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 195,
+      "name": "§ 117k",
+      "pdf_chars": 651,
+      "xml_chars": 651,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 196,
+      "name": "§ 117l",
+      "pdf_chars": 271,
+      "xml_chars": 271,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 197,
+      "name": "Zweiter AbschnittVerwaltungsakte",
+      "pdf_chars": 31,
+      "xml_chars": 31,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 198,
+      "name": "§ 118",
+      "pdf_chars": 457,
+      "xml_chars": 457,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 199,
+      "name": "§ 119",
+      "pdf_chars": 1211,
+      "xml_chars": 1211,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 200,
+      "name": "§ 120",
+      "pdf_chars": 946,
+      "xml_chars": 946,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 201,
+      "name": "§ 121",
+      "pdf_chars": 846,
+      "xml_chars": 846,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 202,
+      "name": "§ 122",
+      "pdf_chars": 3444,
+      "xml_chars": 3444,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 203,
+      "name": "§ 122a",
+      "pdf_chars": 1555,
+      "xml_chars": 1555,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 204,
+      "name": "§ 123",
+      "pdf_chars": 775,
+      "xml_chars": 775,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 205,
+      "name": "§ 124",
+      "pdf_chars": 437,
+      "xml_chars": 437,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 206,
+      "name": "§ 125",
+      "pdf_chars": 1345,
+      "xml_chars": 1345,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 207,
+      "name": "§ 126",
+      "pdf_chars": 1038,
+      "xml_chars": 1038,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 208,
+      "name": "§ 127",
+      "pdf_chars": 310,
+      "xml_chars": 310,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 209,
+      "name": "§ 128",
+      "pdf_chars": 817,
+      "xml_chars": 817,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 210,
+      "name": "§ 129",
+      "pdf_chars": 426,
+      "xml_chars": 426,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 211,
+      "name": "§ 130",
+      "pdf_chars": 1253,
+      "xml_chars": 1253,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 212,
+      "name": "§ 131",
+      "pdf_chars": 1232,
+      "xml_chars": 1232,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 213,
+      "name": "§ 132",
+      "pdf_chars": 490,
+      "xml_chars": 490,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 214,
+      "name": "§ 133",
+      "pdf_chars": 740,
+      "xml_chars": 740,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 215,
+      "name": "Vierter TeilDurchführung der Besteuerung",
+      "pdf_chars": 37,
+      "xml_chars": 37,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 216,
+      "name": "Erster AbschnittErfassung der Steuerpflichtigen",
+      "pdf_chars": 44,
+      "xml_chars": 44,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 217,
+      "name": "1. UnterabschnittPersonenstands- und Betriebsaufnahme",
+      "pdf_chars": 50,
+      "xml_chars": 50,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 218,
+      "name": "§§ 134 bis 136",
+      "pdf_chars": 79,
+      "xml_chars": 79,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 219,
+      "name": "2. UnterabschnittAnzeigepflichten",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 220,
+      "name": "§ 137",
+      "pdf_chars": 503,
+      "xml_chars": 503,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 221,
+      "name": "§ 138",
+      "pdf_chars": 5880,
+      "xml_chars": 5880,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 222,
+      "name": "§ 138a",
+      "pdf_chars": 6173,
+      "xml_chars": 6173,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 223,
+      "name": "§ 138b",
+      "pdf_chars": 2835,
+      "xml_chars": 2835,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 224,
+      "name": "§ 138c",
+      "pdf_chars": 1431,
+      "xml_chars": 1431,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 225,
+      "name": "§ 138d",
+      "pdf_chars": 3929,
+      "xml_chars": 3929,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 226,
+      "name": "§ 138e",
+      "pdf_chars": 9872,
+      "xml_chars": 9872,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 227,
+      "name": "§ 138f",
+      "pdf_chars": 8403,
+      "xml_chars": 8403,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 228,
+      "name": "§ 138g",
+      "pdf_chars": 2074,
+      "xml_chars": 2074,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 229,
+      "name": "§ 138h",
+      "pdf_chars": 969,
+      "xml_chars": 969,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 230,
+      "name": "§ 138i",
+      "pdf_chars": 519,
+      "xml_chars": 519,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 231,
+      "name": "§ 138j",
+      "pdf_chars": 1807,
+      "xml_chars": 1807,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 232,
+      "name": "§ 138k",
+      "pdf_chars": 726,
+      "xml_chars": 726,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 233,
+      "name": "§ 139",
+      "pdf_chars": 764,
+      "xml_chars": 764,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 234,
+      "name": "3. UnterabschnittIdentifikationsmerkmal",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 235,
+      "name": "§ 139a",
+      "pdf_chars": 1121,
+      "xml_chars": 1121,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 236,
+      "name": "§ 139b",
+      "pdf_chars": 10444,
+      "xml_chars": 10444,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 237,
+      "name": "§ 139c",
+      "pdf_chars": 6122,
+      "xml_chars": 6122,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 238,
+      "name": "§ 139d",
+      "pdf_chars": 511,
+      "xml_chars": 511,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 239,
+      "name": "§ 139e",
+      "pdf_chars": 1788,
+      "xml_chars": 1788,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 240,
+      "name": "Zweiter AbschnittMitwirkungspflichten",
+      "pdf_chars": 36,
+      "xml_chars": 36,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 241,
+      "name": "1. UnterabschnittFührung von Büchern und Aufzeichnungen",
+      "pdf_chars": 50,
+      "xml_chars": 50,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 242,
+      "name": "§ 140",
+      "pdf_chars": 266,
+      "xml_chars": 266,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 243,
+      "name": "§ 141",
+      "pdf_chars": 1410,
+      "xml_chars": 1410,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 244,
+      "name": "§ 142",
+      "pdf_chars": 945,
+      "xml_chars": 945,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 245,
+      "name": "§ 143",
+      "pdf_chars": 859,
+      "xml_chars": 859,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 246,
+      "name": "§ 144",
+      "pdf_chars": 1391,
+      "xml_chars": 1391,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 247,
+      "name": "§ 145",
+      "pdf_chars": 415,
+      "xml_chars": 415,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 248,
+      "name": "§ 146",
+      "pdf_chars": 4711,
+      "xml_chars": 4711,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 249,
+      "name": "§ 146a",
+      "pdf_chars": 4179,
+      "xml_chars": 4179,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 250,
+      "name": "§ 146b",
+      "pdf_chars": 1783,
+      "xml_chars": 1783,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 251,
+      "name": "§ 147",
+      "pdf_chars": 4704,
+      "xml_chars": 4704,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 252,
+      "name": "§ 147a",
+      "pdf_chars": 2126,
+      "xml_chars": 2126,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 253,
+      "name": "§ 147b",
+      "pdf_chars": 595,
+      "xml_chars": 595,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 254,
+      "name": "§ 148",
+      "pdf_chars": 408,
+      "xml_chars": 408,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 255,
+      "name": "2. UnterabschnittSteuererklärungen",
+      "pdf_chars": 33,
+      "xml_chars": 33,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 256,
+      "name": "§ 149",
+      "pdf_chars": 5163,
+      "xml_chars": 5163,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 257,
+      "name": "§ 150",
+      "pdf_chars": 4130,
+      "xml_chars": 4130,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 258,
+      "name": "§ 151",
+      "pdf_chars": 481,
+      "xml_chars": 481,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 259,
+      "name": "§ 152",
+      "pdf_chars": 6319,
+      "xml_chars": 6319,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 260,
+      "name": "§ 153",
+      "pdf_chars": 1482,
+      "xml_chars": 1482,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 261,
+      "name": "3. UnterabschnittKontenwahrheit",
+      "pdf_chars": 30,
+      "xml_chars": 30,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 262,
+      "name": "§ 154",
+      "pdf_chars": 3744,
+      "xml_chars": 3744,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 263,
+      "name": "Dritter AbschnittFestsetzungs- und Feststellungsverfahren",
+      "pdf_chars": 54,
+      "xml_chars": 54,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 264,
+      "name": "1. UnterabschnittSteuerfestsetzung",
+      "pdf_chars": 33,
+      "xml_chars": 33,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 265,
+      "name": "I.Allgemeine Vorschriften",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 266,
+      "name": "§ 155",
+      "pdf_chars": 2268,
+      "xml_chars": 2268,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 267,
+      "name": "§ 156",
+      "pdf_chars": 1596,
+      "xml_chars": 1596,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 268,
+      "name": "§ 157",
+      "pdf_chars": 582,
+      "xml_chars": 582,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 269,
+      "name": "§ 158",
+      "pdf_chars": 612,
+      "xml_chars": 612,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 270,
+      "name": "§ 159",
+      "pdf_chars": 390,
+      "xml_chars": 390,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 271,
+      "name": "§ 160",
+      "pdf_chars": 369,
+      "xml_chars": 369,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 272,
+      "name": "§ 161",
+      "pdf_chars": 531,
+      "xml_chars": 531,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 273,
+      "name": "§ 162",
+      "pdf_chars": 4408,
+      "xml_chars": 4408,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 274,
+      "name": "§ 163",
+      "pdf_chars": 1794,
+      "xml_chars": 1794,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 275,
+      "name": "§ 164",
+      "pdf_chars": 1119,
+      "xml_chars": 1119,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 276,
+      "name": "§ 165",
+      "pdf_chars": 1909,
+      "xml_chars": 1909,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 277,
+      "name": "§ 166",
+      "pdf_chars": 309,
+      "xml_chars": 309,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 278,
+      "name": "§ 167",
+      "pdf_chars": 792,
+      "xml_chars": 792,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 279,
+      "name": "§ 168",
+      "pdf_chars": 393,
+      "xml_chars": 393,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 280,
+      "name": "II.Festsetzungsverjährung",
+      "pdf_chars": 25,
+      "xml_chars": 25,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 281,
+      "name": "§ 169",
+      "pdf_chars": 1400,
+      "xml_chars": 1400,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 282,
+      "name": "§ 170",
+      "pdf_chars": 3024,
+      "xml_chars": 3024,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 283,
+      "name": "§ 171",
+      "pdf_chars": 7482,
+      "xml_chars": 7482,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 284,
+      "name": "III.Bestandskraft",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 285,
+      "name": "§ 172",
+      "pdf_chars": 1849,
+      "xml_chars": 1849,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 286,
+      "name": "§ 173",
+      "pdf_chars": 976,
+      "xml_chars": 976,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 287,
+      "name": "§ 173a",
+      "pdf_chars": 406,
+      "xml_chars": 406,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 288,
+      "name": "§ 174",
+      "pdf_chars": 2354,
+      "xml_chars": 2354,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 289,
+      "name": "§ 175",
+      "pdf_chars": 930,
+      "xml_chars": 930,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 290,
+      "name": "§ 175a",
+      "pdf_chars": 742,
+      "xml_chars": 742,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 291,
+      "name": "§ 175b",
+      "pdf_chars": 956,
+      "xml_chars": 956,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 292,
+      "name": "§ 176",
+      "pdf_chars": 1205,
+      "xml_chars": 1205,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 293,
+      "name": "§ 177",
+      "pdf_chars": 804,
+      "xml_chars": 804,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 294,
+      "name": "IV.Kosten",
+      "pdf_chars": 9,
+      "xml_chars": 9,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 295,
+      "name": "§ 178",
+      "pdf_chars": 2299,
+      "xml_chars": 2299,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 296,
+      "name": "2. UnterabschnittGesonderte Feststellung von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen",
+      "pdf_chars": 96,
+      "xml_chars": 96,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 297,
+      "name": "I.Gesonderte Feststellungen",
+      "pdf_chars": 26,
+      "xml_chars": 26,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 298,
+      "name": "§ 179",
+      "pdf_chars": 783,
+      "xml_chars": 783,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 299,
+      "name": "§ 180",
+      "pdf_chars": 4135,
+      "xml_chars": 4135,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 300,
+      "name": "§ 181",
+      "pdf_chars": 3471,
+      "xml_chars": 3471,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 301,
+      "name": "§ 182",
+      "pdf_chars": 1625,
+      "xml_chars": 1625,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 302,
+      "name": "§ 183",
+      "pdf_chars": 1786,
+      "xml_chars": 1786,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 303,
+      "name": "§ 183a",
+      "pdf_chars": 2243,
+      "xml_chars": 2243,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 304,
+      "name": "II.Festsetzung von Steuermessbeträgen",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 305,
+      "name": "§ 184",
+      "pdf_chars": 1246,
+      "xml_chars": 1246,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 306,
+      "name": "3. UnterabschnittZerlegung und Zuteilung",
+      "pdf_chars": 37,
+      "xml_chars": 37,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 307,
+      "name": "§ 185",
+      "pdf_chars": 219,
+      "xml_chars": 219,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 308,
+      "name": "§ 186",
+      "pdf_chars": 307,
+      "xml_chars": 307,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 309,
+      "name": "§ 187",
+      "pdf_chars": 191,
+      "xml_chars": 191,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 310,
+      "name": "§ 188",
+      "pdf_chars": 526,
+      "xml_chars": 526,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 311,
+      "name": "§ 189",
+      "pdf_chars": 754,
+      "xml_chars": 754,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 312,
+      "name": "§ 190",
+      "pdf_chars": 322,
+      "xml_chars": 322,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 313,
+      "name": "4. UnterabschnittHaftung",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 314,
+      "name": "§ 191",
+      "pdf_chars": 2435,
+      "xml_chars": 2435,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 315,
+      "name": "§ 192",
+      "pdf_chars": 175,
+      "xml_chars": 175,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 316,
+      "name": "Vierter AbschnittAußenprüfung",
+      "pdf_chars": 28,
+      "xml_chars": 28,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 317,
+      "name": "1. UnterabschnittAllgemeine Vorschriften",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 318,
+      "name": "§ 193",
+      "pdf_chars": 793,
+      "xml_chars": 793,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 319,
+      "name": "§ 194",
+      "pdf_chars": 1610,
+      "xml_chars": 1610,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 320,
+      "name": "§ 195",
+      "pdf_chars": 380,
+      "xml_chars": 380,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 321,
+      "name": "§ 196",
+      "pdf_chars": 266,
+      "xml_chars": 266,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 322,
+      "name": "§ 197",
+      "pdf_chars": 2114,
+      "xml_chars": 2114,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 323,
+      "name": "§ 198",
+      "pdf_chars": 256,
+      "xml_chars": 256,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 324,
+      "name": "§ 199",
+      "pdf_chars": 921,
+      "xml_chars": 921,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 325,
+      "name": "§ 200",
+      "pdf_chars": 1551,
+      "xml_chars": 1551,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 326,
+      "name": "§ 200a",
+      "pdf_chars": 4265,
+      "xml_chars": 4265,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 327,
+      "name": "§ 201",
+      "pdf_chars": 907,
+      "xml_chars": 907,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 328,
+      "name": "§ 202",
+      "pdf_chars": 1116,
+      "xml_chars": 1116,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 329,
+      "name": "§ 203",
+      "pdf_chars": 732,
+      "xml_chars": 732,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 330,
+      "name": "§ 203a",
+      "pdf_chars": 534,
+      "xml_chars": 534,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 331,
+      "name": "2. UnterabschnittVerbindliche Zusagen auf Grund einer Außenprüfung",
+      "pdf_chars": 60,
+      "xml_chars": 60,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 332,
+      "name": "§ 204",
+      "pdf_chars": 946,
+      "xml_chars": 946,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 333,
+      "name": "§ 205",
+      "pdf_chars": 449,
+      "xml_chars": 449,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 334,
+      "name": "§ 206",
+      "pdf_chars": 325,
+      "xml_chars": 325,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 335,
+      "name": "§ 207",
+      "pdf_chars": 480,
+      "xml_chars": 480,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 336,
+      "name": "Fünfter AbschnittSteuerfahndung (Zollfahndung)",
+      "pdf_chars": 44,
+      "xml_chars": 44,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 337,
+      "name": "§ 208",
+      "pdf_chars": 1112,
+      "xml_chars": 1112,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 338,
+      "name": "§ 208a",
+      "pdf_chars": 502,
+      "xml_chars": 502,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 339,
+      "name": "Sechster AbschnittSteueraufsicht in besonderen Fällen",
+      "pdf_chars": 49,
+      "xml_chars": 49,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 340,
+      "name": "§ 209",
+      "pdf_chars": 683,
+      "xml_chars": 683,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 341,
+      "name": "§ 210",
+      "pdf_chars": 2314,
+      "xml_chars": 2314,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 342,
+      "name": "§ 211",
+      "pdf_chars": 838,
+      "xml_chars": 838,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 343,
+      "name": "§ 212",
+      "pdf_chars": 1644,
+      "xml_chars": 1644,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 344,
+      "name": "§ 213",
+      "pdf_chars": 508,
+      "xml_chars": 508,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 345,
+      "name": "§ 214",
+      "pdf_chars": 273,
+      "xml_chars": 273,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 346,
+      "name": "§ 215",
+      "pdf_chars": 1099,
+      "xml_chars": 1099,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 347,
+      "name": "§ 216",
+      "pdf_chars": 2073,
+      "xml_chars": 2073,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 348,
+      "name": "§ 217",
+      "pdf_chars": 218,
+      "xml_chars": 218,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 349,
+      "name": "Fünfter TeilErhebungsverfahren",
+      "pdf_chars": 29,
+      "xml_chars": 29,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 350,
+      "name": "Erster AbschnittVerwirklichung, Fälligkeit und Erlöschen von Ansprüchen aus dem Steuerschuldverhältnis",
+      "pdf_chars": 93,
+      "xml_chars": 93,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 351,
+      "name": "1. UnterabschnittVerwirklichung und Fälligkeit von Ansprüchen aus dem Steuerschuldverhältnis",
+      "pdf_chars": 84,
+      "xml_chars": 84,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 352,
+      "name": "§ 218",
+      "pdf_chars": 1045,
+      "xml_chars": 1045,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 353,
+      "name": "§ 219",
+      "pdf_chars": 554,
+      "xml_chars": 554,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 354,
+      "name": "§ 220",
+      "pdf_chars": 478,
+      "xml_chars": 478,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 355,
+      "name": "§ 221",
+      "pdf_chars": 658,
+      "xml_chars": 658,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 356,
+      "name": "§ 222",
+      "pdf_chars": 674,
+      "xml_chars": 674,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 357,
+      "name": "§ 223",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 358,
+      "name": "2. UnterabschnittZahlung, Aufrechnung, Erlass",
+      "pdf_chars": 42,
+      "xml_chars": 42,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 359,
+      "name": "§ 224",
+      "pdf_chars": 1486,
+      "xml_chars": 1486,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 360,
+      "name": "§ 224a",
+      "pdf_chars": 1332,
+      "xml_chars": 1332,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 361,
+      "name": "§ 225",
+      "pdf_chars": 923,
+      "xml_chars": 923,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 362,
+      "name": "§ 226",
+      "pdf_chars": 619,
+      "xml_chars": 619,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 363,
+      "name": "§ 227",
+      "pdf_chars": 244,
+      "xml_chars": 244,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 364,
+      "name": "3. UnterabschnittZahlungsverjährung",
+      "pdf_chars": 34,
+      "xml_chars": 34,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 365,
+      "name": "§ 228",
+      "pdf_chars": 199,
+      "xml_chars": 199,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 366,
+      "name": "§ 229",
+      "pdf_chars": 911,
+      "xml_chars": 911,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 367,
+      "name": "§ 230",
+      "pdf_chars": 340,
+      "xml_chars": 340,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 368,
+      "name": "§ 231",
+      "pdf_chars": 1659,
+      "xml_chars": 1659,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 369,
+      "name": "§ 232",
+      "pdf_chars": 120,
+      "xml_chars": 120,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 370,
+      "name": "Zweiter AbschnittVerzinsung, Säumniszuschläge",
+      "pdf_chars": 43,
+      "xml_chars": 43,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 371,
+      "name": "1. UnterabschnittVerzinsung",
+      "pdf_chars": 26,
+      "xml_chars": 26,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 372,
+      "name": "§ 233",
+      "pdf_chars": 319,
+      "xml_chars": 319,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 373,
+      "name": "§ 233a",
+      "pdf_chars": 5067,
+      "xml_chars": 5067,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 374,
+      "name": "§ 234",
+      "pdf_chars": 646,
+      "xml_chars": 646,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 375,
+      "name": "§ 235",
+      "pdf_chars": 1942,
+      "xml_chars": 1942,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 376,
+      "name": "§ 236",
+      "pdf_chars": 1493,
+      "xml_chars": 1493,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 377,
+      "name": "§ 237",
+      "pdf_chars": 1725,
+      "xml_chars": 1725,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 378,
+      "name": "§ 238",
+      "pdf_chars": 1258,
+      "xml_chars": 1258,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 379,
+      "name": "§ 239",
+      "pdf_chars": 2062,
+      "xml_chars": 2062,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 380,
+      "name": "2. UnterabschnittSäumniszuschläge",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 381,
+      "name": "§ 240",
+      "pdf_chars": 1597,
+      "xml_chars": 1597,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 382,
+      "name": "Dritter AbschnittSicherheitsleistung",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 383,
+      "name": "§ 241",
+      "pdf_chars": 2794,
+      "xml_chars": 2794,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 384,
+      "name": "§ 242",
+      "pdf_chars": 412,
+      "xml_chars": 412,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 385,
+      "name": "§ 243",
+      "pdf_chars": 735,
+      "xml_chars": 735,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 386,
+      "name": "§ 244",
+      "pdf_chars": 2436,
+      "xml_chars": 2436,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 387,
+      "name": "§ 245",
+      "pdf_chars": 315,
+      "xml_chars": 315,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 388,
+      "name": "§ 246",
+      "pdf_chars": 439,
+      "xml_chars": 439,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 389,
+      "name": "§ 247",
+      "pdf_chars": 180,
+      "xml_chars": 180,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 390,
+      "name": "§ 248",
+      "pdf_chars": 111,
+      "xml_chars": 111,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 391,
+      "name": "Sechster TeilVollstreckung",
+      "pdf_chars": 25,
+      "xml_chars": 25,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 392,
+      "name": "Erster AbschnittAllgemeine Vorschriften",
+      "pdf_chars": 37,
+      "xml_chars": 37,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 393,
+      "name": "§ 249",
+      "pdf_chars": 1121,
+      "xml_chars": 1121,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 394,
+      "name": "§ 250",
+      "pdf_chars": 619,
+      "xml_chars": 619,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 395,
+      "name": "§ 251",
+      "pdf_chars": 1047,
+      "xml_chars": 1047,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 396,
+      "name": "§ 252",
+      "pdf_chars": 151,
+      "xml_chars": 151,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 397,
+      "name": "§ 253",
+      "pdf_chars": 117,
+      "xml_chars": 117,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 398,
+      "name": "§ 254",
+      "pdf_chars": 990,
+      "xml_chars": 990,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 399,
+      "name": "§ 255",
+      "pdf_chars": 483,
+      "xml_chars": 483,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 400,
+      "name": "§ 256",
+      "pdf_chars": 179,
+      "xml_chars": 179,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 401,
+      "name": "§ 257",
+      "pdf_chars": 695,
+      "xml_chars": 695,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 402,
+      "name": "§ 258",
+      "pdf_chars": 211,
+      "xml_chars": 211,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 403,
+      "name": "Zweiter AbschnittVollstreckung wegen Geldforderungen",
+      "pdf_chars": 49,
+      "xml_chars": 49,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 404,
+      "name": "1. UnterabschnittAllgemeine Vorschriften",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 405,
+      "name": "§ 259",
+      "pdf_chars": 303,
+      "xml_chars": 303,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 406,
+      "name": "§ 260",
+      "pdf_chars": 184,
+      "xml_chars": 184,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 407,
+      "name": "§ 261",
+      "pdf_chars": 266,
+      "xml_chars": 266,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 408,
+      "name": "§ 262",
+      "pdf_chars": 891,
+      "xml_chars": 891,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 409,
+      "name": "§ 263",
+      "pdf_chars": 247,
+      "xml_chars": 247,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 410,
+      "name": "§ 264",
+      "pdf_chars": 178,
+      "xml_chars": 178,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 411,
+      "name": "§ 265",
+      "pdf_chars": 208,
+      "xml_chars": 208,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 412,
+      "name": "§ 266",
+      "pdf_chars": 364,
+      "xml_chars": 364,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 413,
+      "name": "§ 267",
+      "pdf_chars": 504,
+      "xml_chars": 504,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 414,
+      "name": "2. UnterabschnittAufteilung einer Gesamtschuld",
+      "pdf_chars": 43,
+      "xml_chars": 43,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 415,
+      "name": "§ 268",
+      "pdf_chars": 291,
+      "xml_chars": 291,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 416,
+      "name": "§ 269",
+      "pdf_chars": 528,
+      "xml_chars": 528,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 417,
+      "name": "§ 270",
+      "pdf_chars": 477,
+      "xml_chars": 477,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 418,
+      "name": "§ 271",
+      "pdf_chars": 927,
+      "xml_chars": 927,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 419,
+      "name": "§ 272",
+      "pdf_chars": 863,
+      "xml_chars": 863,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 420,
+      "name": "§ 273",
+      "pdf_chars": 512,
+      "xml_chars": 512,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 421,
+      "name": "§ 274",
+      "pdf_chars": 334,
+      "xml_chars": 334,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 422,
+      "name": "§ 275",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 423,
+      "name": "§ 276",
+      "pdf_chars": 1114,
+      "xml_chars": 1114,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 424,
+      "name": "§ 277",
+      "pdf_chars": 204,
+      "xml_chars": 204,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 425,
+      "name": "§ 278",
+      "pdf_chars": 609,
+      "xml_chars": 609,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 426,
+      "name": "§ 279",
+      "pdf_chars": 1072,
+      "xml_chars": 1072,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 427,
+      "name": "§ 280",
+      "pdf_chars": 515,
+      "xml_chars": 515,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 428,
+      "name": "3. UnterabschnittVollstreckung in das bewegliche Vermögen",
+      "pdf_chars": 52,
+      "xml_chars": 52,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 429,
+      "name": "I.Allgemeines",
+      "pdf_chars": 13,
+      "xml_chars": 13,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 430,
+      "name": "§ 281",
+      "pdf_chars": 339,
+      "xml_chars": 339,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 431,
+      "name": "§ 282",
+      "pdf_chars": 467,
+      "xml_chars": 467,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 432,
+      "name": "§ 283",
+      "pdf_chars": 206,
+      "xml_chars": 206,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 433,
+      "name": "§ 284",
+      "pdf_chars": 7636,
+      "xml_chars": 7636,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 434,
+      "name": "II.Vollstreckung in Sachen",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 435,
+      "name": "§ 285",
+      "pdf_chars": 319,
+      "xml_chars": 319,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 436,
+      "name": "§ 286",
+      "pdf_chars": 625,
+      "xml_chars": 625,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 437,
+      "name": "§ 287",
+      "pdf_chars": 1079,
+      "xml_chars": 1079,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 438,
+      "name": "§ 288",
+      "pdf_chars": 432,
+      "xml_chars": 432,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 439,
+      "name": "§ 289",
+      "pdf_chars": 328,
+      "xml_chars": 328,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 440,
+      "name": "§ 290",
+      "pdf_chars": 390,
+      "xml_chars": 390,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 441,
+      "name": "§ 291",
+      "pdf_chars": 644,
+      "xml_chars": 644,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 442,
+      "name": "§ 292",
+      "pdf_chars": 462,
+      "xml_chars": 462,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 443,
+      "name": "§ 293",
+      "pdf_chars": 535,
+      "xml_chars": 535,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 444,
+      "name": "§ 294",
+      "pdf_chars": 436,
+      "xml_chars": 436,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 445,
+      "name": "§ 295",
+      "pdf_chars": 282,
+      "xml_chars": 282,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 446,
+      "name": "§ 296",
+      "pdf_chars": 412,
+      "xml_chars": 412,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 447,
+      "name": "§ 297",
+      "pdf_chars": 177,
+      "xml_chars": 177,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 448,
+      "name": "§ 298",
+      "pdf_chars": 834,
+      "xml_chars": 834,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 449,
+      "name": "§ 299",
+      "pdf_chars": 1396,
+      "xml_chars": 1396,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 450,
+      "name": "§ 300",
+      "pdf_chars": 881,
+      "xml_chars": 881,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 451,
+      "name": "§ 301",
+      "pdf_chars": 425,
+      "xml_chars": 425,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 452,
+      "name": "§ 302",
+      "pdf_chars": 178,
+      "xml_chars": 178,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 453,
+      "name": "§ 303",
+      "pdf_chars": 334,
+      "xml_chars": 334,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 454,
+      "name": "§ 304",
+      "pdf_chars": 211,
+      "xml_chars": 211,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 455,
+      "name": "§ 305",
+      "pdf_chars": 315,
+      "xml_chars": 315,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 456,
+      "name": "§ 306",
+      "pdf_chars": 523,
+      "xml_chars": 523,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 457,
+      "name": "§ 307",
+      "pdf_chars": 556,
+      "xml_chars": 556,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 458,
+      "name": "§ 308",
+      "pdf_chars": 1042,
+      "xml_chars": 1042,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 459,
+      "name": "III.Vollstreckung in Forderungen und andere Vermögensrechte",
+      "pdf_chars": 54,
+      "xml_chars": 54,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 460,
+      "name": "§ 309",
+      "pdf_chars": 812,
+      "xml_chars": 812,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 461,
+      "name": "§ 310",
+      "pdf_chars": 870,
+      "xml_chars": 870,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 462,
+      "name": "§ 311",
+      "pdf_chars": 1097,
+      "xml_chars": 1097,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 463,
+      "name": "§ 312",
+      "pdf_chars": 203,
+      "xml_chars": 203,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 464,
+      "name": "§ 313",
+      "pdf_chars": 640,
+      "xml_chars": 640,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 465,
+      "name": "§ 314",
+      "pdf_chars": 679,
+      "xml_chars": 679,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 466,
+      "name": "§ 315",
+      "pdf_chars": 1417,
+      "xml_chars": 1417,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 467,
+      "name": "§ 316",
+      "pdf_chars": 1294,
+      "xml_chars": 1294,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 468,
+      "name": "§ 317",
+      "pdf_chars": 356,
+      "xml_chars": 356,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 469,
+      "name": "§ 318",
+      "pdf_chars": 1534,
+      "xml_chars": 1534,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 470,
+      "name": "§ 319",
+      "pdf_chars": 212,
+      "xml_chars": 212,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 471,
+      "name": "§ 320",
+      "pdf_chars": 504,
+      "xml_chars": 504,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 472,
+      "name": "§ 321",
+      "pdf_chars": 1148,
+      "xml_chars": 1148,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 473,
+      "name": "4. UnterabschnittVollstreckung in das unbewegliche Vermögen",
+      "pdf_chars": 54,
+      "xml_chars": 54,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 474,
+      "name": "§ 322",
+      "pdf_chars": 2315,
+      "xml_chars": 2315,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 475,
+      "name": "§ 323",
+      "pdf_chars": 387,
+      "xml_chars": 387,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 476,
+      "name": "5. UnterabschnittArrest",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 477,
+      "name": "§ 324",
+      "pdf_chars": 1495,
+      "xml_chars": 1495,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 478,
+      "name": "§ 325",
+      "pdf_chars": 168,
+      "xml_chars": 168,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 479,
+      "name": "§ 326",
+      "pdf_chars": 771,
+      "xml_chars": 771,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 480,
+      "name": "6. UnterabschnittVerwertung von Sicherheiten",
+      "pdf_chars": 41,
+      "xml_chars": 41,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 481,
+      "name": "§ 327",
+      "pdf_chars": 448,
+      "xml_chars": 448,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 482,
+      "name": "Dritter AbschnittVollstreckung wegen anderer Leistungen als Geldforderungen",
+      "pdf_chars": 69,
+      "xml_chars": 69,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 483,
+      "name": "1. UnterabschnittVollstreckung wegen Handlungen, Duldungen oder Unterlassungen",
+      "pdf_chars": 72,
+      "xml_chars": 72,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 484,
+      "name": "§ 328",
+      "pdf_chars": 480,
+      "xml_chars": 480,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 485,
+      "name": "§ 329",
+      "pdf_chars": 114,
+      "xml_chars": 114,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 486,
+      "name": "§ 330",
+      "pdf_chars": 240,
+      "xml_chars": 240,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 487,
+      "name": "§ 331",
+      "pdf_chars": 204,
+      "xml_chars": 204,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 488,
+      "name": "§ 332",
+      "pdf_chars": 905,
+      "xml_chars": 905,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 489,
+      "name": "§ 333",
+      "pdf_chars": 200,
+      "xml_chars": 200,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 490,
+      "name": "§ 334",
+      "pdf_chars": 1002,
+      "xml_chars": 1002,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 491,
+      "name": "§ 335",
+      "pdf_chars": 120,
+      "xml_chars": 120,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 492,
+      "name": "2. UnterabschnittErzwingung von Sicherheiten",
+      "pdf_chars": 41,
+      "xml_chars": 41,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 493,
+      "name": "§ 336",
+      "pdf_chars": 253,
+      "xml_chars": 253,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 494,
+      "name": "Vierter AbschnittKosten",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 495,
+      "name": "§ 337",
+      "pdf_chars": 193,
+      "xml_chars": 193,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 496,
+      "name": "§ 338",
+      "pdf_chars": 130,
+      "xml_chars": 130,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 497,
+      "name": "§ 339",
+      "pdf_chars": 892,
+      "xml_chars": 892,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 498,
+      "name": "§ 340",
+      "pdf_chars": 446,
+      "xml_chars": 446,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 499,
+      "name": "§ 341",
+      "pdf_chars": 354,
+      "xml_chars": 354,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 500,
+      "name": "§ 342",
+      "pdf_chars": 433,
+      "xml_chars": 433,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 501,
+      "name": "§ 343",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 502,
+      "name": "§ 344",
+      "pdf_chars": 2583,
+      "xml_chars": 2583,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 503,
+      "name": "§ 345",
+      "pdf_chars": 212,
+      "xml_chars": 212,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 504,
+      "name": "§ 346",
+      "pdf_chars": 393,
+      "xml_chars": 393,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 505,
+      "name": "Siebenter TeilAußergerichtliches Rechtsbehelfsverfahren",
+      "pdf_chars": 53,
+      "xml_chars": 53,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 506,
+      "name": "Erster AbschnittZulässigkeit",
+      "pdf_chars": 27,
+      "xml_chars": 27,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 507,
+      "name": "§ 347",
+      "pdf_chars": 1454,
+      "xml_chars": 1454,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 508,
+      "name": "§ 348",
+      "pdf_chars": 410,
+      "xml_chars": 410,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 509,
+      "name": "§ 349",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 510,
+      "name": "§ 350",
+      "pdf_chars": 124,
+      "xml_chars": 124,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 511,
+      "name": "§ 351",
+      "pdf_chars": 411,
+      "xml_chars": 411,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 512,
+      "name": "§ 352",
+      "pdf_chars": 2010,
+      "xml_chars": 2010,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 513,
+      "name": "§ 353",
+      "pdf_chars": 384,
+      "xml_chars": 384,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 514,
+      "name": "§ 354",
+      "pdf_chars": 1032,
+      "xml_chars": 1032,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 515,
+      "name": "Zweiter AbschnittVerfahrensvorschriften",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 516,
+      "name": "§ 355",
+      "pdf_chars": 364,
+      "xml_chars": 364,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 517,
+      "name": "§ 356",
+      "pdf_chars": 649,
+      "xml_chars": 649,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 518,
+      "name": "§ 357",
+      "pdf_chars": 1261,
+      "xml_chars": 1261,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 519,
+      "name": "§ 358",
+      "pdf_chars": 268,
+      "xml_chars": 268,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 520,
+      "name": "§ 359",
+      "pdf_chars": 127,
+      "xml_chars": 127,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 521,
+      "name": "§ 360",
+      "pdf_chars": 1642,
+      "xml_chars": 1642,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 522,
+      "name": "§ 361",
+      "pdf_chars": 2052,
+      "xml_chars": 2052,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 523,
+      "name": "§ 362",
+      "pdf_chars": 503,
+      "xml_chars": 503,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 524,
+      "name": "§ 363",
+      "pdf_chars": 1449,
+      "xml_chars": 1449,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 525,
+      "name": "§ 364",
+      "pdf_chars": 200,
+      "xml_chars": 200,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 526,
+      "name": "§ 364a",
+      "pdf_chars": 796,
+      "xml_chars": 796,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 527,
+      "name": "§ 364b",
+      "pdf_chars": 590,
+      "xml_chars": 590,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 528,
+      "name": "§ 365",
+      "pdf_chars": 689,
+      "xml_chars": 689,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 529,
+      "name": "§ 366",
+      "pdf_chars": 666,
+      "xml_chars": 666,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 530,
+      "name": "§ 367",
+      "pdf_chars": 1993,
+      "xml_chars": 1993,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 531,
+      "name": "§ 368",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 532,
+      "name": "Achter TeilStraf- und Bußgeldvorschriften, Straf- und Bußgeldverfahren",
+      "pdf_chars": 64,
+      "xml_chars": 64,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 533,
+      "name": "Erster AbschnittStrafvorschriften",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 534,
+      "name": "§ 369",
+      "pdf_chars": 402,
+      "xml_chars": 402,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 535,
+      "name": "§ 370",
+      "pdf_chars": 3068,
+      "xml_chars": 3068,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 536,
+      "name": "§ 371",
+      "pdf_chars": 3789,
+      "xml_chars": 3789,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 537,
+      "name": "§ 372",
+      "pdf_chars": 271,
+      "xml_chars": 271,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 538,
+      "name": "§ 373",
+      "pdf_chars": 884,
+      "xml_chars": 884,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 539,
+      "name": "§ 374",
+      "pdf_chars": 712,
+      "xml_chars": 712,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 540,
+      "name": "§ 375",
+      "pdf_chars": 776,
+      "xml_chars": 776,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 541,
+      "name": "§ 376",
+      "pdf_chars": 665,
+      "xml_chars": 665,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 542,
+      "name": "Zweiter AbschnittBußgeldvorschriften",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 543,
+      "name": "§ 377",
+      "pdf_chars": 367,
+      "xml_chars": 367,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 544,
+      "name": "§ 378",
+      "pdf_chars": 829,
+      "xml_chars": 829,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 545,
+      "name": "§ 379",
+      "pdf_chars": 3572,
+      "xml_chars": 3572,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 546,
+      "name": "§ 380",
+      "pdf_chars": 338,
+      "xml_chars": 338,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 547,
+      "name": "§ 381",
+      "pdf_chars": 811,
+      "xml_chars": 811,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 548,
+      "name": "§ 382",
+      "pdf_chars": 1668,
+      "xml_chars": 1668,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 549,
+      "name": "§ 383",
+      "pdf_chars": 242,
+      "xml_chars": 242,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 550,
+      "name": "§ 383a",
+      "pdf_chars": 512,
+      "xml_chars": 512,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 551,
+      "name": "§ 383b",
+      "pdf_chars": 469,
+      "xml_chars": 469,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 552,
+      "name": "§ 384",
+      "pdf_chars": 114,
+      "xml_chars": 114,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 553,
+      "name": "§ 384a",
+      "pdf_chars": 897,
+      "xml_chars": 897,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 554,
+      "name": "Dritter AbschnittStrafverfahren",
+      "pdf_chars": 30,
+      "xml_chars": 30,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 555,
+      "name": "1. UnterabschnittAllgemeine Vorschriften",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 556,
+      "name": "§ 385",
+      "pdf_chars": 622,
+      "xml_chars": 622,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 557,
+      "name": "§ 386",
+      "pdf_chars": 960,
+      "xml_chars": 960,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 558,
+      "name": "§ 387",
+      "pdf_chars": 864,
+      "xml_chars": 864,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 559,
+      "name": "§ 388",
+      "pdf_chars": 695,
+      "xml_chars": 695,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 560,
+      "name": "§ 389",
+      "pdf_chars": 215,
+      "xml_chars": 215,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 561,
+      "name": "§ 390",
+      "pdf_chars": 388,
+      "xml_chars": 388,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 562,
+      "name": "§ 391",
+      "pdf_chars": 996,
+      "xml_chars": 996,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 563,
+      "name": "§ 392",
+      "pdf_chars": 475,
+      "xml_chars": 475,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 564,
+      "name": "§ 393",
+      "pdf_chars": 1501,
+      "xml_chars": 1501,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 565,
+      "name": "§ 394",
+      "pdf_chars": 633,
+      "xml_chars": 633,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 566,
+      "name": "§ 395",
+      "pdf_chars": 280,
+      "xml_chars": 280,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 567,
+      "name": "§ 396",
+      "pdf_chars": 486,
+      "xml_chars": 486,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 568,
+      "name": "2. UnterabschnittErmittlungsverfahren",
+      "pdf_chars": 36,
+      "xml_chars": 36,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 569,
+      "name": "I.Allgemeines",
+      "pdf_chars": 13,
+      "xml_chars": 13,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 570,
+      "name": "§ 397",
+      "pdf_chars": 557,
+      "xml_chars": 557,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 571,
+      "name": "§ 398",
+      "pdf_chars": 539,
+      "xml_chars": 539,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 572,
+      "name": "§ 398a",
+      "pdf_chars": 1276,
+      "xml_chars": 1276,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 573,
+      "name": "II.Verfahren der Finanzbehörde bei Steuerstraftaten",
+      "pdf_chars": 47,
+      "xml_chars": 47,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 574,
+      "name": "§ 399",
+      "pdf_chars": 707,
+      "xml_chars": 707,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 575,
+      "name": "§ 400",
+      "pdf_chars": 316,
+      "xml_chars": 316,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 576,
+      "name": "§ 401",
+      "pdf_chars": 264,
+      "xml_chars": 264,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 577,
+      "name": "III.Stellung der Finanzbehörde im Verfahren der Staatsanwaltschaft",
+      "pdf_chars": 60,
+      "xml_chars": 60,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 578,
+      "name": "§ 402",
+      "pdf_chars": 408,
+      "xml_chars": 408,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 579,
+      "name": "§ 403",
+      "pdf_chars": 679,
+      "xml_chars": 679,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 580,
+      "name": "IV.Steuer- und Zollfahndung",
+      "pdf_chars": 25,
+      "xml_chars": 25,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 581,
+      "name": "§ 404",
+      "pdf_chars": 657,
+      "xml_chars": 657,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 582,
+      "name": "V.Entschädigung der Zeugen und der Sachverständigen",
+      "pdf_chars": 46,
+      "xml_chars": 46,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 583,
+      "name": "§ 405",
+      "pdf_chars": 248,
+      "xml_chars": 248,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 584,
+      "name": "3. UnterabschnittGerichtliches Verfahren",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 585,
+      "name": "§ 406",
+      "pdf_chars": 618,
+      "xml_chars": 618,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 586,
+      "name": "§ 407",
+      "pdf_chars": 621,
+      "xml_chars": 621,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 587,
+      "name": "4. UnterabschnittKosten des Verfahrens",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 588,
+      "name": "§ 408",
+      "pdf_chars": 414,
+      "xml_chars": 414,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 589,
+      "name": "Vierter AbschnittBußgeldverfahren",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 590,
+      "name": "§ 409",
+      "pdf_chars": 232,
+      "xml_chars": 232,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 591,
+      "name": "§ 410",
+      "pdf_chars": 1013,
+      "xml_chars": 1013,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 592,
+      "name": "§ 411",
+      "pdf_chars": 500,
+      "xml_chars": 500,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 593,
+      "name": "§ 412",
+      "pdf_chars": 890,
+      "xml_chars": 890,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 594,
+      "name": "Neunter TeilSchlussvorschriften",
+      "pdf_chars": 30,
+      "xml_chars": 30,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 595,
+      "name": "§ 413",
+      "pdf_chars": 317,
+      "xml_chars": 317,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 596,
+      "name": "§ 414",
+      "pdf_chars": 20,
+      "xml_chars": 20,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 597,
+      "name": "§ 415",
+      "pdf_chars": 19,
+      "xml_chars": 19,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 598,
+      "name": "Anlage 1",
+      "pdf_chars": 3792,
+      "xml_chars": 3792,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 599,
+  "gesamt": 599,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "8348afd93d8e05d31cd566edb14fd27e1ba547cde8ce867a33616f8fadfe750c",
+  "xml_sha256": "3c138548236c53e4f7f04327837272cfeec962b848ae6f007152f56f8dd47ba8"
+}

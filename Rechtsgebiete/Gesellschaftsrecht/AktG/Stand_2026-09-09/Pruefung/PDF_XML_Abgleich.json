@@ -1,0 +1,4179 @@
+{
+  "kuerzel": "AktG",
+  "datum": "2026-09-09",
+  "methode": "Vollständige Normtexte in Reihenfolge. NFC/Whitespace und PDF-Seitenservice entfernt. XML-FnArea setzt die bezeichneten Fußnoten an die Druckposition; zentrale Footnotes-Definitionen werden dort einmal ausgegeben. Wiederholte XML-Gliederungsmetadaten werden wie in der PDF nur bei Gruppenwechsel ausgegeben; alleinstehendes technisches Gliederungskennzeichen Minus entfällt im PDF. XML-FILE repräsentiert den Druckverweis; referenzierte Originaldateien werden zusätzlich separat vollständig integriert. Verbleibende Abweichungen nur bei konkret benannter und einzeln geprüfter Layoutausnahme zugelassen.",
+  "normdatensaetze": 463,
+  "exakt_identisch": 463,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "sha256_pdf": "791f5e6e371a0e2eeb8eb92c281065147fba54e4329444728427f58c27a01bd0",
+  "sha256_xml": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+  "normen": [
+    {
+      "index": 0,
+      "name": "Dokumentkopf",
+      "identisch": true,
+      "xml_zeichen": 584,
+      "pdf_zeichen": 584,
+      "sha256_xml_text": "d66a3cee7b2cea34e1af37ee35077442c6959bece6f3771074e0c527da76e2ce",
+      "sha256_pdf_text": "d66a3cee7b2cea34e1af37ee35077442c6959bece6f3771074e0c527da76e2ce"
+    },
+    {
+      "index": 1,
+      "name": "Inhaltsübersicht",
+      "identisch": true,
+      "xml_zeichen": 3868,
+      "pdf_zeichen": 3868,
+      "sha256_xml_text": "8b476fe646363233df159360ed2f0689cdfeda732581b9d0e893805ae2417cef",
+      "sha256_pdf_text": "8b476fe646363233df159360ed2f0689cdfeda732581b9d0e893805ae2417cef"
+    },
+    {
+      "index": 2,
+      "name": "Eingangsformel",
+      "identisch": true,
+      "xml_zeichen": 85,
+      "pdf_zeichen": 85,
+      "sha256_xml_text": "644b634910a3092ddf9de2af282eacfe635b7f22f7cf9602d1bdce8ef58dc78e",
+      "sha256_pdf_text": "644b634910a3092ddf9de2af282eacfe635b7f22f7cf9602d1bdce8ef58dc78e"
+    },
+    {
+      "index": 3,
+      "name": "Erstes BuchAktiengesellschaft",
+      "identisch": true,
+      "xml_zeichen": 28,
+      "pdf_zeichen": 28,
+      "sha256_xml_text": "54f594f71c90a7b5769f0a9b0532f602a49db5433a34686e7f56875f6ebae7cb",
+      "sha256_pdf_text": "54f594f71c90a7b5769f0a9b0532f602a49db5433a34686e7f56875f6ebae7cb"
+    },
+    {
+      "index": 4,
+      "name": "Erster TeilAllgemeine Vorschriften",
+      "identisch": true,
+      "xml_zeichen": 32,
+      "pdf_zeichen": 32,
+      "sha256_xml_text": "035fda46854af8950191742e642d9d69f5a6b136df9b1fe23dc9d1c4b029b869",
+      "sha256_pdf_text": "035fda46854af8950191742e642d9d69f5a6b136df9b1fe23dc9d1c4b029b869"
+    },
+    {
+      "index": 5,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 247,
+      "pdf_zeichen": 247,
+      "sha256_xml_text": "f007175e09b954fef4e41462da40b1da15be8f41f7ba27e65d8d8d6023a5f8ac",
+      "sha256_pdf_text": "f007175e09b954fef4e41462da40b1da15be8f41f7ba27e65d8d8d6023a5f8ac"
+    },
+    {
+      "index": 6,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 149,
+      "pdf_zeichen": 149,
+      "sha256_xml_text": "efc4c05ff6ca7904859cb246a143219158a998c9ac44cced9e83c34fc2b09f82",
+      "sha256_pdf_text": "efc4c05ff6ca7904859cb246a143219158a998c9ac44cced9e83c34fc2b09f82"
+    },
+    {
+      "index": 7,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 387,
+      "pdf_zeichen": 387,
+      "sha256_xml_text": "c5cfebbee3f55e7d69abd3c2cfdc0cd5fdd5ae15df266fa79d1842677b0a0bfd",
+      "sha256_pdf_text": "c5cfebbee3f55e7d69abd3c2cfdc0cd5fdd5ae15df266fa79d1842677b0a0bfd"
+    },
+    {
+      "index": 8,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 234,
+      "pdf_zeichen": 234,
+      "sha256_xml_text": "d97c0e3184ce0811a55129a4c83ce110f00d3ebb9787ba492597a9706db63c17",
+      "sha256_pdf_text": "d97c0e3184ce0811a55129a4c83ce110f00d3ebb9787ba492597a9706db63c17"
+    },
+    {
+      "index": 9,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 65,
+      "pdf_zeichen": 65,
+      "sha256_xml_text": "0f796599b08e779c37d44c625abb715dfb1189df1bbe7102076ebf5e39a603b0",
+      "sha256_pdf_text": "0f796599b08e779c37d44c625abb715dfb1189df1bbe7102076ebf5e39a603b0"
+    },
+    {
+      "index": 10,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 63,
+      "pdf_zeichen": 63,
+      "sha256_xml_text": "2f02ca10f8f7cd968d5c0018ed4c982e854c6cb152b0bc2d15c195985616d2fc",
+      "sha256_pdf_text": "2f02ca10f8f7cd968d5c0018ed4c982e854c6cb152b0bc2d15c195985616d2fc"
+    },
+    {
+      "index": 11,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 93,
+      "pdf_zeichen": 93,
+      "sha256_xml_text": "925090c51c208b3d31ad076ff30bde7471cba48b70f8cbc139827a9ae115962b",
+      "sha256_pdf_text": "925090c51c208b3d31ad076ff30bde7471cba48b70f8cbc139827a9ae115962b"
+    },
+    {
+      "index": 12,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 1209,
+      "pdf_zeichen": 1209,
+      "sha256_xml_text": "cb7d6cccc45a2fac4d6b3804c50f1a017bfed2a212c32532763ebfc7d63fcaa1",
+      "sha256_pdf_text": "cb7d6cccc45a2fac4d6b3804c50f1a017bfed2a212c32532763ebfc7d63fcaa1"
+    },
+    {
+      "index": 13,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 247,
+      "pdf_zeichen": 247,
+      "sha256_xml_text": "b0197f87ba283489f9597c73a04e89dc40b4f28c3d5215dd839a55430330fe07",
+      "sha256_pdf_text": "b0197f87ba283489f9597c73a04e89dc40b4f28c3d5215dd839a55430330fe07"
+    },
+    {
+      "index": 14,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 1730,
+      "pdf_zeichen": 1730,
+      "sha256_xml_text": "c2c0b22e426af295996f676f35a072ddad784ecea90aacb3a5185ee6023b3867",
+      "sha256_pdf_text": "c2c0b22e426af295996f676f35a072ddad784ecea90aacb3a5185ee6023b3867"
+    },
+    {
+      "index": 15,
+      "name": "§ 11",
+      "identisch": true,
+      "xml_zeichen": 175,
+      "pdf_zeichen": 175,
+      "sha256_xml_text": "7fb4fe3218d2d9da2223222e053c6615e66c334291add82714eac1f3a8f79347",
+      "sha256_pdf_text": "7fb4fe3218d2d9da2223222e053c6615e66c334291add82714eac1f3a8f79347"
+    },
+    {
+      "index": 16,
+      "name": "§ 12",
+      "identisch": true,
+      "xml_zeichen": 161,
+      "pdf_zeichen": 161,
+      "sha256_xml_text": "158a518b4c94bc736062758f9f3aec73fc1ed696ac364302c536b95bed3bf8cd",
+      "sha256_pdf_text": "158a518b4c94bc736062758f9f3aec73fc1ed696ac364302c536b95bed3bf8cd"
+    },
+    {
+      "index": 17,
+      "name": "§ 13",
+      "identisch": true,
+      "xml_zeichen": 299,
+      "pdf_zeichen": 299,
+      "sha256_xml_text": "981b5d94aa15871a2b42a422f323a65bd0ce7441ab5b01bdcd73a14d44605e04",
+      "sha256_pdf_text": "981b5d94aa15871a2b42a422f323a65bd0ce7441ab5b01bdcd73a14d44605e04"
+    },
+    {
+      "index": 18,
+      "name": "§ 14",
+      "identisch": true,
+      "xml_zeichen": 112,
+      "pdf_zeichen": 112,
+      "sha256_xml_text": "f401ebae4bf89dfd4694abd416d44621d1a8c71fae6cd207c5d0601770e5f09a",
+      "sha256_pdf_text": "f401ebae4bf89dfd4694abd416d44621d1a8c71fae6cd207c5d0601770e5f09a"
+    },
+    {
+      "index": 19,
+      "name": "§ 15",
+      "identisch": true,
+      "xml_zeichen": 345,
+      "pdf_zeichen": 345,
+      "sha256_xml_text": "d744acc71d45f51b8f36137b49ffc8006ad17daf061e76a0b88884c666e00f7c",
+      "sha256_pdf_text": "d744acc71d45f51b8f36137b49ffc8006ad17daf061e76a0b88884c666e00f7c"
+    },
+    {
+      "index": 20,
+      "name": "§ 16",
+      "identisch": true,
+      "xml_zeichen": 1407,
+      "pdf_zeichen": 1407,
+      "sha256_xml_text": "ffa76af97fbc91caa4825a533bd6b1c3fd81f671868c3d88b5065e194415fb2a",
+      "sha256_pdf_text": "ffa76af97fbc91caa4825a533bd6b1c3fd81f671868c3d88b5065e194415fb2a"
+    },
+    {
+      "index": 21,
+      "name": "§ 17",
+      "identisch": true,
+      "xml_zeichen": 333,
+      "pdf_zeichen": 333,
+      "sha256_xml_text": "edb190628eb7441e4f6b3170b832dbc54459ca5334b24dd5918886011ce1ea28",
+      "sha256_pdf_text": "edb190628eb7441e4f6b3170b832dbc54459ca5334b24dd5918886011ce1ea28"
+    },
+    {
+      "index": 22,
+      "name": "§ 18",
+      "identisch": true,
+      "xml_zeichen": 699,
+      "pdf_zeichen": 699,
+      "sha256_xml_text": "9a5ed391bcc716ced16c679816cac9fdf16964ac5bc357c5200e89b4bcd97bff",
+      "sha256_pdf_text": "9a5ed391bcc716ced16c679816cac9fdf16964ac5bc357c5200e89b4bcd97bff"
+    },
+    {
+      "index": 23,
+      "name": "§ 19",
+      "identisch": true,
+      "xml_zeichen": 963,
+      "pdf_zeichen": 963,
+      "sha256_xml_text": "7dde18384cc00b2533a5e01c6e1b8beb707f33bdbd00e3039bf81cbb20fd6a42",
+      "sha256_pdf_text": "7dde18384cc00b2533a5e01c6e1b8beb707f33bdbd00e3039bf81cbb20fd6a42"
+    },
+    {
+      "index": 24,
+      "name": "§ 20",
+      "identisch": true,
+      "xml_zeichen": 2051,
+      "pdf_zeichen": 2051,
+      "sha256_xml_text": "e3b605f420fb8183b51f3c0c3de8f3a99b8db450552980d47df389b0b8779d23",
+      "sha256_pdf_text": "e3b605f420fb8183b51f3c0c3de8f3a99b8db450552980d47df389b0b8779d23"
+    },
+    {
+      "index": 25,
+      "name": "§ 21",
+      "identisch": true,
+      "xml_zeichen": 966,
+      "pdf_zeichen": 966,
+      "sha256_xml_text": "134c5f1facf5649762aaadebadd147411555296ee04096da6ee5de43cdb8dbbc",
+      "sha256_pdf_text": "134c5f1facf5649762aaadebadd147411555296ee04096da6ee5de43cdb8dbbc"
+    },
+    {
+      "index": 26,
+      "name": "§ 22",
+      "identisch": true,
+      "xml_zeichen": 189,
+      "pdf_zeichen": 189,
+      "sha256_xml_text": "104b6da1aef29b0dfa635e5c3bb844cadf721a73f0c9c9d5e90ddce6dde53680",
+      "sha256_pdf_text": "104b6da1aef29b0dfa635e5c3bb844cadf721a73f0c9c9d5e90ddce6dde53680"
+    },
+    {
+      "index": 27,
+      "name": "Zweiter TeilGründung der Gesellschaft",
+      "identisch": true,
+      "xml_zeichen": 34,
+      "pdf_zeichen": 34,
+      "sha256_xml_text": "ad9270bed6734b1e59bf1a51675750ca73e4ef10f31ad22d57fe4fbcab701daf",
+      "sha256_pdf_text": "ad9270bed6734b1e59bf1a51675750ca73e4ef10f31ad22d57fe4fbcab701daf"
+    },
+    {
+      "index": 28,
+      "name": "§ 23",
+      "identisch": true,
+      "xml_zeichen": 1364,
+      "pdf_zeichen": 1364,
+      "sha256_xml_text": "e9fc19b259e4691c170f20d2bc97ce7f5bc6fb2d22ea7607e96f174afa7318c9",
+      "sha256_pdf_text": "e9fc19b259e4691c170f20d2bc97ce7f5bc6fb2d22ea7607e96f174afa7318c9"
+    },
+    {
+      "index": 29,
+      "name": "§ 24",
+      "identisch": true,
+      "xml_zeichen": 16,
+      "pdf_zeichen": 16,
+      "sha256_xml_text": "41443843f11a0ed3a88f7fdcb4016d53e68230c74bdf1bc38b02cea575d04d33",
+      "sha256_pdf_text": "41443843f11a0ed3a88f7fdcb4016d53e68230c74bdf1bc38b02cea575d04d33"
+    },
+    {
+      "index": 30,
+      "name": "§ 25",
+      "identisch": true,
+      "xml_zeichen": 182,
+      "pdf_zeichen": 182,
+      "sha256_xml_text": "cd48f7622141587972001a7a0f277c4823bf10fbc356ca7982796d1714a50497",
+      "sha256_pdf_text": "cd48f7622141587972001a7a0f277c4823bf10fbc356ca7982796d1714a50497"
+    },
+    {
+      "index": 31,
+      "name": "§ 26",
+      "identisch": true,
+      "xml_zeichen": 948,
+      "pdf_zeichen": 948,
+      "sha256_xml_text": "dee3446c82b54ff570adfb6ff7d701315204cb85d0225278650bc008431bbe01",
+      "sha256_pdf_text": "dee3446c82b54ff570adfb6ff7d701315204cb85d0225278650bc008431bbe01"
+    },
+    {
+      "index": 32,
+      "name": "§ 27",
+      "identisch": true,
+      "xml_zeichen": 2243,
+      "pdf_zeichen": 2243,
+      "sha256_xml_text": "00264839895fbd7c1d839524d40a16a7ab6f1893e65eac8a43774375d8d015c0",
+      "sha256_pdf_text": "00264839895fbd7c1d839524d40a16a7ab6f1893e65eac8a43774375d8d015c0"
+    },
+    {
+      "index": 33,
+      "name": "§ 28",
+      "identisch": true,
+      "xml_zeichen": 84,
+      "pdf_zeichen": 84,
+      "sha256_xml_text": "372da9d3c4f4b75a690dbe3e7a5de552ac5d629ebb1fb37fadb9184e8b3a63c0",
+      "sha256_pdf_text": "372da9d3c4f4b75a690dbe3e7a5de552ac5d629ebb1fb37fadb9184e8b3a63c0"
+    },
+    {
+      "index": 34,
+      "name": "§ 29",
+      "identisch": true,
+      "xml_zeichen": 97,
+      "pdf_zeichen": 97,
+      "sha256_xml_text": "40730a2c727265bce58753c93868c2fb219920d5a960d91f94baad4513fa20b4",
+      "sha256_pdf_text": "40730a2c727265bce58753c93868c2fb219920d5a960d91f94baad4513fa20b4"
+    },
+    {
+      "index": 35,
+      "name": "§ 30",
+      "identisch": true,
+      "xml_zeichen": 815,
+      "pdf_zeichen": 815,
+      "sha256_xml_text": "8220ae68d3cbdc5d68955cc26c5072bfb28b8b7a3fe6012eee6cf2b47299e6a1",
+      "sha256_pdf_text": "8220ae68d3cbdc5d68955cc26c5072bfb28b8b7a3fe6012eee6cf2b47299e6a1"
+    },
+    {
+      "index": 36,
+      "name": "§ 31",
+      "identisch": true,
+      "xml_zeichen": 1499,
+      "pdf_zeichen": 1499,
+      "sha256_xml_text": "cab91d1c2a6749bf876b2339b472144ac639cb60be1f909a6674395411988833",
+      "sha256_pdf_text": "cab91d1c2a6749bf876b2339b472144ac639cb60be1f909a6674395411988833"
+    },
+    {
+      "index": 37,
+      "name": "§ 32",
+      "identisch": true,
+      "xml_zeichen": 859,
+      "pdf_zeichen": 859,
+      "sha256_xml_text": "d06044a2b544862b92c0ec276594b5b086f7032de0b36b6acc8581b349007bdf",
+      "sha256_pdf_text": "d06044a2b544862b92c0ec276594b5b086f7032de0b36b6acc8581b349007bdf"
+    },
+    {
+      "index": 38,
+      "name": "§ 33",
+      "identisch": true,
+      "xml_zeichen": 1440,
+      "pdf_zeichen": 1440,
+      "sha256_xml_text": "9c21792134b23f69b5d50762582dbd2ec859017c3461e14c40220c3cc421fc29",
+      "sha256_pdf_text": "9c21792134b23f69b5d50762582dbd2ec859017c3461e14c40220c3cc421fc29"
+    },
+    {
+      "index": 39,
+      "name": "§ 33a",
+      "identisch": true,
+      "xml_zeichen": 1283,
+      "pdf_zeichen": 1283,
+      "sha256_xml_text": "3b0c1d48b02bd42bb8ca37301a4dcbdf95246469e2cbef682a784af395e9348a",
+      "sha256_pdf_text": "3b0c1d48b02bd42bb8ca37301a4dcbdf95246469e2cbef682a784af395e9348a"
+    },
+    {
+      "index": 40,
+      "name": "§ 34",
+      "identisch": true,
+      "xml_zeichen": 998,
+      "pdf_zeichen": 998,
+      "sha256_xml_text": "991549ae9da1440fd71f2b81bc0e4c81f3dc23a11cb24d9e3999002427433707",
+      "sha256_pdf_text": "991549ae9da1440fd71f2b81bc0e4c81f3dc23a11cb24d9e3999002427433707"
+    },
+    {
+      "index": 41,
+      "name": "§ 35",
+      "identisch": true,
+      "xml_zeichen": 835,
+      "pdf_zeichen": 835,
+      "sha256_xml_text": "9bfdf0c1736cb9e8f1f4e63e8b7b0c9f6f97cc70b90507e594ebda8404d706ec",
+      "sha256_pdf_text": "9bfdf0c1736cb9e8f1f4e63e8b7b0c9f6f97cc70b90507e594ebda8404d706ec"
+    },
+    {
+      "index": 42,
+      "name": "§ 36",
+      "identisch": true,
+      "xml_zeichen": 459,
+      "pdf_zeichen": 459,
+      "sha256_xml_text": "0fb62600906e90ce695a470c8c527abd79e0cd49a25387fc21b5398ce72c3538",
+      "sha256_pdf_text": "0fb62600906e90ce695a470c8c527abd79e0cd49a25387fc21b5398ce72c3538"
+    },
+    {
+      "index": 43,
+      "name": "§ 36a",
+      "identisch": true,
+      "xml_zeichen": 547,
+      "pdf_zeichen": 547,
+      "sha256_xml_text": "04d4012f49b3d44c1e2917e979d7b8212716e2c1685316b3aa4fb2f7eb682ffa",
+      "sha256_pdf_text": "04d4012f49b3d44c1e2917e979d7b8212716e2c1685316b3aa4fb2f7eb682ffa"
+    },
+    {
+      "index": 44,
+      "name": "§ 37",
+      "identisch": true,
+      "xml_zeichen": 2065,
+      "pdf_zeichen": 2065,
+      "sha256_xml_text": "bcfde24eba428e7c41d93c1acb29369e4fae089b661b3c211899191ebce125af",
+      "sha256_pdf_text": "bcfde24eba428e7c41d93c1acb29369e4fae089b661b3c211899191ebce125af"
+    },
+    {
+      "index": 45,
+      "name": "§ 37a",
+      "identisch": true,
+      "xml_zeichen": 1397,
+      "pdf_zeichen": 1397,
+      "sha256_xml_text": "172b2ab8c099b8c9a70079baf41ba92740826db500f531e4cbbef8b9f747d0b7",
+      "sha256_pdf_text": "172b2ab8c099b8c9a70079baf41ba92740826db500f531e4cbbef8b9f747d0b7"
+    },
+    {
+      "index": 46,
+      "name": "§ 38",
+      "identisch": true,
+      "xml_zeichen": 1510,
+      "pdf_zeichen": 1510,
+      "sha256_xml_text": "dbb9549ac5de1e6ce5a372032b6155f9be0ce013cad9f1e8637c5e53492beba1",
+      "sha256_pdf_text": "dbb9549ac5de1e6ce5a372032b6155f9be0ce013cad9f1e8637c5e53492beba1"
+    },
+    {
+      "index": 47,
+      "name": "§ 39",
+      "identisch": true,
+      "xml_zeichen": 845,
+      "pdf_zeichen": 845,
+      "sha256_xml_text": "90991ee8f7bd42bd524fc37547d37925559e2881febe544053f01602aee3b0f0",
+      "sha256_pdf_text": "90991ee8f7bd42bd524fc37547d37925559e2881febe544053f01602aee3b0f0"
+    },
+    {
+      "index": 48,
+      "name": "§ 40",
+      "identisch": true,
+      "xml_zeichen": 17,
+      "pdf_zeichen": 17,
+      "sha256_xml_text": "6b50b7cb2d5fc855041a61c215ed163f13104678614689d1706dbcb5c5b9cf9e",
+      "sha256_pdf_text": "6b50b7cb2d5fc855041a61c215ed163f13104678614689d1706dbcb5c5b9cf9e"
+    },
+    {
+      "index": 49,
+      "name": "§ 41",
+      "identisch": true,
+      "xml_zeichen": 1078,
+      "pdf_zeichen": 1078,
+      "sha256_xml_text": "94a58d1f1f128e3f88576b1640617c10fd6bd8d6092acba22932be3e953dbb5b",
+      "sha256_pdf_text": "94a58d1f1f128e3f88576b1640617c10fd6bd8d6092acba22932be3e953dbb5b"
+    },
+    {
+      "index": 50,
+      "name": "§ 42",
+      "identisch": true,
+      "xml_zeichen": 232,
+      "pdf_zeichen": 232,
+      "sha256_xml_text": "86b7f9dbebf22f41c32634f894f614f0f6aa48b54dbac9b1f8d5b151abef0447",
+      "sha256_pdf_text": "86b7f9dbebf22f41c32634f894f614f0f6aa48b54dbac9b1f8d5b151abef0447"
+    },
+    {
+      "index": 51,
+      "name": "§§ 43 und 44",
+      "identisch": true,
+      "xml_zeichen": 13,
+      "pdf_zeichen": 13,
+      "sha256_xml_text": "49e4a7d0d3faca6831150a196ab4079d7861ab566c0d0ea151a8cc777a17075c",
+      "sha256_pdf_text": "49e4a7d0d3faca6831150a196ab4079d7861ab566c0d0ea151a8cc777a17075c"
+    },
+    {
+      "index": 52,
+      "name": "§ 45",
+      "identisch": true,
+      "xml_zeichen": 1185,
+      "pdf_zeichen": 1185,
+      "sha256_xml_text": "152cb230a0b49ec206025ae5dedbbdaddee8ff303b9d1a39fd4795da0fb79c2c",
+      "sha256_pdf_text": "152cb230a0b49ec206025ae5dedbbdaddee8ff303b9d1a39fd4795da0fb79c2c"
+    },
+    {
+      "index": 53,
+      "name": "§ 46",
+      "identisch": true,
+      "xml_zeichen": 1578,
+      "pdf_zeichen": 1578,
+      "sha256_xml_text": "100f98ec8182942e6592f8c0462217cb6648f9a3dbefe1b003e55c42c8416df6",
+      "sha256_pdf_text": "100f98ec8182942e6592f8c0462217cb6648f9a3dbefe1b003e55c42c8416df6"
+    },
+    {
+      "index": 54,
+      "name": "§ 47",
+      "identisch": true,
+      "xml_zeichen": 985,
+      "pdf_zeichen": 985,
+      "sha256_xml_text": "479b155d60dcafcd1ccbc961357cd930724ea265ac6e6a40d17e72162af7fe74",
+      "sha256_pdf_text": "479b155d60dcafcd1ccbc961357cd930724ea265ac6e6a40d17e72162af7fe74"
+    },
+    {
+      "index": 55,
+      "name": "§ 48",
+      "identisch": true,
+      "xml_zeichen": 577,
+      "pdf_zeichen": 577,
+      "sha256_xml_text": "0a4f88dfdec436daac1884479d5e25b788f6dd6ac4c900c9e2dd56ab5b822d73",
+      "sha256_pdf_text": "0a4f88dfdec436daac1884479d5e25b788f6dd6ac4c900c9e2dd56ab5b822d73"
+    },
+    {
+      "index": 56,
+      "name": "§ 49",
+      "identisch": true,
+      "xml_zeichen": 130,
+      "pdf_zeichen": 130,
+      "sha256_xml_text": "6786da4905b0ce0a91e098b64ca5c2f557369a5793a7664caf9054464692141b",
+      "sha256_pdf_text": "6786da4905b0ce0a91e098b64ca5c2f557369a5793a7664caf9054464692141b"
+    },
+    {
+      "index": 57,
+      "name": "§ 50",
+      "identisch": true,
+      "xml_zeichen": 632,
+      "pdf_zeichen": 632,
+      "sha256_xml_text": "d80707400215c0c18afe56b29f07fd2f1139df5b2c4cefcfcc97b94a07314484",
+      "sha256_pdf_text": "d80707400215c0c18afe56b29f07fd2f1139df5b2c4cefcfcc97b94a07314484"
+    },
+    {
+      "index": 58,
+      "name": "§ 51",
+      "identisch": true,
+      "xml_zeichen": 263,
+      "pdf_zeichen": 263,
+      "sha256_xml_text": "5312feb3e723ba5c46f2d2e8d7632000d94209bdd761b1c8713db078f2722d2a",
+      "sha256_pdf_text": "5312feb3e723ba5c46f2d2e8d7632000d94209bdd761b1c8713db078f2722d2a"
+    },
+    {
+      "index": 59,
+      "name": "§ 52",
+      "identisch": true,
+      "xml_zeichen": 3056,
+      "pdf_zeichen": 3056,
+      "sha256_xml_text": "ad657a1186af8b3a9c4aa0c8e249994910efced988d138a09508d0b815e9057d",
+      "sha256_pdf_text": "ad657a1186af8b3a9c4aa0c8e249994910efced988d138a09508d0b815e9057d"
+    },
+    {
+      "index": 60,
+      "name": "§ 53",
+      "identisch": true,
+      "xml_zeichen": 412,
+      "pdf_zeichen": 412,
+      "sha256_xml_text": "74eac0448601333d0889e712d79b86345e0fc0b567ea75ba25021ab4699a909a",
+      "sha256_pdf_text": "74eac0448601333d0889e712d79b86345e0fc0b567ea75ba25021ab4699a909a"
+    },
+    {
+      "index": 61,
+      "name": "Dritter TeilRechtsverhältnisse der\nGesellschaft und der Gesellschafter",
+      "identisch": true,
+      "xml_zeichen": 64,
+      "pdf_zeichen": 64,
+      "sha256_xml_text": "f35359f9611333cbf78cb7c35028de848323d1352a7cc37b5dcd9ad0d0c514b4",
+      "sha256_pdf_text": "f35359f9611333cbf78cb7c35028de848323d1352a7cc37b5dcd9ad0d0c514b4"
+    },
+    {
+      "index": 62,
+      "name": "§ 53a",
+      "identisch": true,
+      "xml_zeichen": 91,
+      "pdf_zeichen": 91,
+      "sha256_xml_text": "59636c758ef0dcc2801ec2d2035411a0fcbf4164adb71a3110717f85877cd34f",
+      "sha256_pdf_text": "59636c758ef0dcc2801ec2d2035411a0fcbf4164adb71a3110717f85877cd34f"
+    },
+    {
+      "index": 63,
+      "name": "§ 54",
+      "identisch": true,
+      "xml_zeichen": 867,
+      "pdf_zeichen": 867,
+      "sha256_xml_text": "a8e7e520881699fa19c022e02bc36f6fa1a7d3b1c65ca78f24b8355ad2d21e8d",
+      "sha256_pdf_text": "a8e7e520881699fa19c022e02bc36f6fa1a7d3b1c65ca78f24b8355ad2d21e8d"
+    },
+    {
+      "index": 64,
+      "name": "§ 55",
+      "identisch": true,
+      "xml_zeichen": 520,
+      "pdf_zeichen": 520,
+      "sha256_xml_text": "a51b1babaafb8931ced2d2f56320c1c6879d7c78a4e2de7087a34c008c9ab918",
+      "sha256_pdf_text": "a51b1babaafb8931ced2d2f56320c1c6879d7c78a4e2de7087a34c008c9ab918"
+    },
+    {
+      "index": 65,
+      "name": "§ 56",
+      "identisch": true,
+      "xml_zeichen": 1266,
+      "pdf_zeichen": 1266,
+      "sha256_xml_text": "c55182c04651be1a7ae510c058a089c9782e2d829d8a3a94457e30d2f3d3af0e",
+      "sha256_pdf_text": "c55182c04651be1a7ae510c058a089c9782e2d829d8a3a94457e30d2f3d3af0e"
+    },
+    {
+      "index": 66,
+      "name": "§ 57",
+      "identisch": true,
+      "xml_zeichen": 691,
+      "pdf_zeichen": 691,
+      "sha256_xml_text": "65e00b977a1be29f48f117ebf81c0c128dcc407b424e9e7b3a4a2f0ffc203b22",
+      "sha256_pdf_text": "65e00b977a1be29f48f117ebf81c0c128dcc407b424e9e7b3a4a2f0ffc203b22"
+    },
+    {
+      "index": 67,
+      "name": "§ 58",
+      "identisch": true,
+      "xml_zeichen": 2055,
+      "pdf_zeichen": 2055,
+      "sha256_xml_text": "f92802801f370aaf249407611362bb6a34a8bb35f4d65d9678a8cc122c0bb186",
+      "sha256_pdf_text": "f92802801f370aaf249407611362bb6a34a8bb35f4d65d9678a8cc122c0bb186"
+    },
+    {
+      "index": 68,
+      "name": "§ 59",
+      "identisch": true,
+      "xml_zeichen": 605,
+      "pdf_zeichen": 605,
+      "sha256_xml_text": "dfbf71e788161907df10ec708ec091796f870281aee417256afee305058541e0",
+      "sha256_pdf_text": "dfbf71e788161907df10ec708ec091796f870281aee417256afee305058541e0"
+    },
+    {
+      "index": 69,
+      "name": "§ 60",
+      "identisch": true,
+      "xml_zeichen": 562,
+      "pdf_zeichen": 562,
+      "sha256_xml_text": "33bdd9b3b963b888480eb2cd0b3cea7ee99f700bd33f567285b6b895ba1ea9a4",
+      "sha256_pdf_text": "33bdd9b3b963b888480eb2cd0b3cea7ee99f700bd33f567285b6b895ba1ea9a4"
+    },
+    {
+      "index": 70,
+      "name": "§ 61",
+      "identisch": true,
+      "xml_zeichen": 260,
+      "pdf_zeichen": 260,
+      "sha256_xml_text": "d76e1f136161ec85c3694b87d51f542febb0ed699427851a84296cef7735bb72",
+      "sha256_pdf_text": "d76e1f136161ec85c3694b87d51f542febb0ed699427851a84296cef7735bb72"
+    },
+    {
+      "index": 71,
+      "name": "§ 62",
+      "identisch": true,
+      "xml_zeichen": 779,
+      "pdf_zeichen": 779,
+      "sha256_xml_text": "7064427736ede43666c605ad29776722498312e171014f6736b11dff64ae9cdc",
+      "sha256_pdf_text": "7064427736ede43666c605ad29776722498312e171014f6736b11dff64ae9cdc"
+    },
+    {
+      "index": 72,
+      "name": "§ 63",
+      "identisch": true,
+      "xml_zeichen": 489,
+      "pdf_zeichen": 489,
+      "sha256_xml_text": "bca1465bb3d0b1004bd9b5d47118fdfee038c8d7f9f7e1e7eaf042c85b125f58",
+      "sha256_pdf_text": "bca1465bb3d0b1004bd9b5d47118fdfee038c8d7f9f7e1e7eaf042c85b125f58"
+    },
+    {
+      "index": 73,
+      "name": "§ 64",
+      "identisch": true,
+      "xml_zeichen": 1263,
+      "pdf_zeichen": 1263,
+      "sha256_xml_text": "58208dd1a42200c20e0d249713dde4193a7bf6430d4256c7351e5592623f1e61",
+      "sha256_pdf_text": "58208dd1a42200c20e0d249713dde4193a7bf6430d4256c7351e5592623f1e61"
+    },
+    {
+      "index": 74,
+      "name": "§ 65",
+      "identisch": true,
+      "xml_zeichen": 1334,
+      "pdf_zeichen": 1334,
+      "sha256_xml_text": "ff3fe175c8a6d081bd9471bb6c699e97929aa35efe0f7e2d64b99fb7aea7c14a",
+      "sha256_pdf_text": "ff3fe175c8a6d081bd9471bb6c699e97929aa35efe0f7e2d64b99fb7aea7c14a"
+    },
+    {
+      "index": 75,
+      "name": "§ 66",
+      "identisch": true,
+      "xml_zeichen": 778,
+      "pdf_zeichen": 778,
+      "sha256_xml_text": "74ea3d9db49c6b593ce8223f4ed306993ff8014d98d1cbd879a2a362eaff0246",
+      "sha256_pdf_text": "74ea3d9db49c6b593ce8223f4ed306993ff8014d98d1cbd879a2a362eaff0246"
+    },
+    {
+      "index": 76,
+      "name": "§ 67",
+      "identisch": true,
+      "xml_zeichen": 4288,
+      "pdf_zeichen": 4288,
+      "sha256_xml_text": "8d3e619fe2debb73f2144f9de73d1ff870fde88e9cd7bbdc917b089881c2d905",
+      "sha256_pdf_text": "8d3e619fe2debb73f2144f9de73d1ff870fde88e9cd7bbdc917b089881c2d905"
+    },
+    {
+      "index": 77,
+      "name": "§ 67a",
+      "identisch": true,
+      "xml_zeichen": 2329,
+      "pdf_zeichen": 2329,
+      "sha256_xml_text": "302180c3c0675c3e26034d362bc3ed58d7cb033827db771f2368b8b0a009534f",
+      "sha256_pdf_text": "302180c3c0675c3e26034d362bc3ed58d7cb033827db771f2368b8b0a009534f"
+    },
+    {
+      "index": 78,
+      "name": "§ 67b",
+      "identisch": true,
+      "xml_zeichen": 449,
+      "pdf_zeichen": 449,
+      "sha256_xml_text": "74a3587e2998dda1012999db3797fc5cfe4c6f1992e29d79604aa122a71d8faa",
+      "sha256_pdf_text": "74a3587e2998dda1012999db3797fc5cfe4c6f1992e29d79604aa122a71d8faa"
+    },
+    {
+      "index": 79,
+      "name": "§ 67c",
+      "identisch": true,
+      "xml_zeichen": 1393,
+      "pdf_zeichen": 1393,
+      "sha256_xml_text": "f11f99f5159c1fe5b75566e3b64b160ff05f15408f2b1aa17bf0cbd8070de8a5",
+      "sha256_pdf_text": "f11f99f5159c1fe5b75566e3b64b160ff05f15408f2b1aa17bf0cbd8070de8a5"
+    },
+    {
+      "index": 80,
+      "name": "§ 67d",
+      "identisch": true,
+      "xml_zeichen": 1734,
+      "pdf_zeichen": 1734,
+      "sha256_xml_text": "bb7c7a02fd1b3a5fcde665655db7ba48b5d5020b767b456a0d67655f619f5950",
+      "sha256_pdf_text": "bb7c7a02fd1b3a5fcde665655db7ba48b5d5020b767b456a0d67655f619f5950"
+    },
+    {
+      "index": 81,
+      "name": "§ 67e",
+      "identisch": true,
+      "xml_zeichen": 1076,
+      "pdf_zeichen": 1076,
+      "sha256_xml_text": "82de1c3a7e0af09a9a006d123576035b08f1f63734d638b148d8e27ea4e7461d",
+      "sha256_pdf_text": "82de1c3a7e0af09a9a006d123576035b08f1f63734d638b148d8e27ea4e7461d"
+    },
+    {
+      "index": 82,
+      "name": "§ 67f",
+      "identisch": true,
+      "xml_zeichen": 2340,
+      "pdf_zeichen": 2340,
+      "sha256_xml_text": "76961d68c2a0c0535d997a073a277fb49dc2d766b425f0ac058b1d76412ce971",
+      "sha256_pdf_text": "76961d68c2a0c0535d997a073a277fb49dc2d766b425f0ac058b1d76412ce971"
+    },
+    {
+      "index": 83,
+      "name": "§ 68",
+      "identisch": true,
+      "xml_zeichen": 721,
+      "pdf_zeichen": 721,
+      "sha256_xml_text": "45ceb5e1b51b60fba7701e8a178d319e89811dfa45f5247e62898cc1df1f25cb",
+      "sha256_pdf_text": "45ceb5e1b51b60fba7701e8a178d319e89811dfa45f5247e62898cc1df1f25cb"
+    },
+    {
+      "index": 84,
+      "name": "§ 69",
+      "identisch": true,
+      "xml_zeichen": 546,
+      "pdf_zeichen": 546,
+      "sha256_xml_text": "b488f01cb595af9c86d89076723716b6a2632061ee2aa68b1786de9041133f69",
+      "sha256_pdf_text": "b488f01cb595af9c86d89076723716b6a2632061ee2aa68b1786de9041133f69"
+    },
+    {
+      "index": 85,
+      "name": "§ 70",
+      "identisch": true,
+      "xml_zeichen": 671,
+      "pdf_zeichen": 671,
+      "sha256_xml_text": "b8fcf2989cab4af3866871bf2da94096637e5d2756c827edf175ba16d9f3c2f4",
+      "sha256_pdf_text": "b8fcf2989cab4af3866871bf2da94096637e5d2756c827edf175ba16d9f3c2f4"
+    },
+    {
+      "index": 86,
+      "name": "§ 71",
+      "identisch": true,
+      "xml_zeichen": 2903,
+      "pdf_zeichen": 2903,
+      "sha256_xml_text": "8855132562310f60d41e99997a57f0d51227d070a104ba732a42712ccced7788",
+      "sha256_pdf_text": "8855132562310f60d41e99997a57f0d51227d070a104ba732a42712ccced7788"
+    },
+    {
+      "index": 87,
+      "name": "§ 71a",
+      "identisch": true,
+      "xml_zeichen": 1259,
+      "pdf_zeichen": 1259,
+      "sha256_xml_text": "0a02e5c6daa9b1cc22b2720604a2819f411d243247c5979bbbea58afad9acf7a",
+      "sha256_pdf_text": "0a02e5c6daa9b1cc22b2720604a2819f411d243247c5979bbbea58afad9acf7a"
+    },
+    {
+      "index": 88,
+      "name": "§ 71b",
+      "identisch": true,
+      "xml_zeichen": 77,
+      "pdf_zeichen": 77,
+      "sha256_xml_text": "391c08cf6258c42c61501ac62d9307670ab7e556ca447df89cb0f12c97294d4a",
+      "sha256_pdf_text": "391c08cf6258c42c61501ac62d9307670ab7e556ca447df89cb0f12c97294d4a"
+    },
+    {
+      "index": 89,
+      "name": "§ 71c",
+      "identisch": true,
+      "xml_zeichen": 538,
+      "pdf_zeichen": 538,
+      "sha256_xml_text": "cd87060b301dfc9963e1d514163b07a485423a602a8584deb7a601b921195280",
+      "sha256_pdf_text": "cd87060b301dfc9963e1d514163b07a485423a602a8584deb7a601b921195280"
+    },
+    {
+      "index": 90,
+      "name": "§ 71d",
+      "identisch": true,
+      "xml_zeichen": 836,
+      "pdf_zeichen": 836,
+      "sha256_xml_text": "5866cb10382ddff2cce3743f3abd7a81b17575b420a1390a1f94735275318607",
+      "sha256_pdf_text": "5866cb10382ddff2cce3743f3abd7a81b17575b420a1390a1f94735275318607"
+    },
+    {
+      "index": 91,
+      "name": "§ 71e",
+      "identisch": true,
+      "xml_zeichen": 567,
+      "pdf_zeichen": 567,
+      "sha256_xml_text": "7ff2eabcfd044f9dd58ab39bcb9a34a9b8e65c5c4078ad3823b9c99dcca62411",
+      "sha256_pdf_text": "7ff2eabcfd044f9dd58ab39bcb9a34a9b8e65c5c4078ad3823b9c99dcca62411"
+    },
+    {
+      "index": 92,
+      "name": "§ 72",
+      "identisch": true,
+      "xml_zeichen": 613,
+      "pdf_zeichen": 613,
+      "sha256_xml_text": "890082bb6f563f9a21a96dda71fa43e390a4c4288b765e147c19ec505aa53136",
+      "sha256_pdf_text": "890082bb6f563f9a21a96dda71fa43e390a4c4288b765e147c19ec505aa53136"
+    },
+    {
+      "index": 93,
+      "name": "§ 73",
+      "identisch": true,
+      "xml_zeichen": 1507,
+      "pdf_zeichen": 1507,
+      "sha256_xml_text": "8df109d64b7551ff1421792536bf8d839cf32faf9185613bddb1ee4d9805c03c",
+      "sha256_pdf_text": "8df109d64b7551ff1421792536bf8d839cf32faf9185613bddb1ee4d9805c03c"
+    },
+    {
+      "index": 94,
+      "name": "§ 74",
+      "identisch": true,
+      "xml_zeichen": 413,
+      "pdf_zeichen": 413,
+      "sha256_xml_text": "6cc1efee951c809e3f716ab0a524cf97fa08d3b967baeded692c8ac6c1cd6405",
+      "sha256_pdf_text": "6cc1efee951c809e3f716ab0a524cf97fa08d3b967baeded692c8ac6c1cd6405"
+    },
+    {
+      "index": 95,
+      "name": "§ 75",
+      "identisch": true,
+      "xml_zeichen": 269,
+      "pdf_zeichen": 269,
+      "sha256_xml_text": "d4bafb5c88884878ab87480ea999ba775c4e59bb769e6949dc9c02d85d62bf8a",
+      "sha256_pdf_text": "d4bafb5c88884878ab87480ea999ba775c4e59bb769e6949dc9c02d85d62bf8a"
+    },
+    {
+      "index": 96,
+      "name": "Vierter TeilVerfassung der Aktiengesellschaft",
+      "identisch": true,
+      "xml_zeichen": 42,
+      "pdf_zeichen": 42,
+      "sha256_xml_text": "8330fb7fb46be92444fe957e361e3da73f5697756bcc2128b62d81d0e06835a3",
+      "sha256_pdf_text": "8330fb7fb46be92444fe957e361e3da73f5697756bcc2128b62d81d0e06835a3"
+    },
+    {
+      "index": 97,
+      "name": "Erster AbschnittVorstand",
+      "identisch": true,
+      "xml_zeichen": 23,
+      "pdf_zeichen": 23,
+      "sha256_xml_text": "8dd972ce00b76e1216fd810a60c32815d0e6cd8db65fddd3d478e0310b6019bd",
+      "sha256_pdf_text": "8dd972ce00b76e1216fd810a60c32815d0e6cd8db65fddd3d478e0310b6019bd"
+    },
+    {
+      "index": 98,
+      "name": "§ 76",
+      "identisch": true,
+      "xml_zeichen": 3564,
+      "pdf_zeichen": 3564,
+      "sha256_xml_text": "c9cc0c991c62bf4b1917c2247813151aabf22b7085871c093c77425ea685776d",
+      "sha256_pdf_text": "c9cc0c991c62bf4b1917c2247813151aabf22b7085871c093c77425ea685776d"
+    },
+    {
+      "index": 99,
+      "name": "§ 77",
+      "identisch": true,
+      "xml_zeichen": 672,
+      "pdf_zeichen": 672,
+      "sha256_xml_text": "c1e838d9c6982aedd1700462f5de3f07739a6de688dea94551990a8d89da0b36",
+      "sha256_pdf_text": "c1e838d9c6982aedd1700462f5de3f07739a6de688dea94551990a8d89da0b36"
+    },
+    {
+      "index": 100,
+      "name": "§ 78",
+      "identisch": true,
+      "xml_zeichen": 1469,
+      "pdf_zeichen": 1469,
+      "sha256_xml_text": "02e651921c89d8b9317392613820d1a74cc56b73de80989020c0100e2a8d3c2c",
+      "sha256_pdf_text": "02e651921c89d8b9317392613820d1a74cc56b73de80989020c0100e2a8d3c2c"
+    },
+    {
+      "index": 101,
+      "name": "§ 79",
+      "identisch": true,
+      "xml_zeichen": 17,
+      "pdf_zeichen": 17,
+      "sha256_xml_text": "8d023c06c80409f088a78b15ce09c655ab0f82a7f30794efc41116fe45826441",
+      "sha256_pdf_text": "8d023c06c80409f088a78b15ce09c655ab0f82a7f30794efc41116fe45826441"
+    },
+    {
+      "index": 102,
+      "name": "§ 80",
+      "identisch": true,
+      "xml_zeichen": 1525,
+      "pdf_zeichen": 1525,
+      "sha256_xml_text": "41826c75b4994af95d5c9139c77a0fef56058d0a818300f6a9a676520823f5fc",
+      "sha256_pdf_text": "41826c75b4994af95d5c9139c77a0fef56058d0a818300f6a9a676520823f5fc"
+    },
+    {
+      "index": 103,
+      "name": "§ 81",
+      "identisch": true,
+      "xml_zeichen": 585,
+      "pdf_zeichen": 585,
+      "sha256_xml_text": "b980b223ae0c19ffa1852ea5f5e463c21f42543dd12afe5f99e297586301dd80",
+      "sha256_pdf_text": "b980b223ae0c19ffa1852ea5f5e463c21f42543dd12afe5f99e297586301dd80"
+    },
+    {
+      "index": 104,
+      "name": "§ 82",
+      "identisch": true,
+      "xml_zeichen": 424,
+      "pdf_zeichen": 424,
+      "sha256_xml_text": "2fe6f437508747be542deee26b031c67aeb86ab27dbec2a4ff5655274bfc57ef",
+      "sha256_pdf_text": "2fe6f437508747be542deee26b031c67aeb86ab27dbec2a4ff5655274bfc57ef"
+    },
+    {
+      "index": 105,
+      "name": "§ 83",
+      "identisch": true,
+      "xml_zeichen": 534,
+      "pdf_zeichen": 534,
+      "sha256_xml_text": "94460068860e33424a0939a9f73f908a55ec1c4211d5cc4c48166a49a95d6f29",
+      "sha256_pdf_text": "94460068860e33424a0939a9f73f908a55ec1c4211d5cc4c48166a49a95d6f29"
+    },
+    {
+      "index": 106,
+      "name": "§ 84",
+      "identisch": true,
+      "xml_zeichen": 3226,
+      "pdf_zeichen": 3226,
+      "sha256_xml_text": "6354c7e441b20214b0ea99debf3a604e409c9273f01fd67976769b5d33e4ed8d",
+      "sha256_pdf_text": "6354c7e441b20214b0ea99debf3a604e409c9273f01fd67976769b5d33e4ed8d"
+    },
+    {
+      "index": 107,
+      "name": "§ 85",
+      "identisch": true,
+      "xml_zeichen": 764,
+      "pdf_zeichen": 764,
+      "sha256_xml_text": "5a79e1801c1a7aa73eacb20769fa82e3d5a71c5c9fa97fe09e65b6a1c872fd21",
+      "sha256_pdf_text": "5a79e1801c1a7aa73eacb20769fa82e3d5a71c5c9fa97fe09e65b6a1c872fd21"
+    },
+    {
+      "index": 108,
+      "name": "§ 86",
+      "identisch": true,
+      "xml_zeichen": 16,
+      "pdf_zeichen": 16,
+      "sha256_xml_text": "601c5511fea3bbf0c3d44401391a4f8e630fba75155c7b0a56a5f3ec7f3aacc8",
+      "sha256_pdf_text": "601c5511fea3bbf0c3d44401391a4f8e630fba75155c7b0a56a5f3ec7f3aacc8"
+    },
+    {
+      "index": 109,
+      "name": "§ 87",
+      "identisch": true,
+      "xml_zeichen": 1904,
+      "pdf_zeichen": 1904,
+      "sha256_xml_text": "97504d678d5c352c4a1467ace9ade4868a1b82e1d343e2344d38ffd73b0adc64",
+      "sha256_pdf_text": "97504d678d5c352c4a1467ace9ade4868a1b82e1d343e2344d38ffd73b0adc64"
+    },
+    {
+      "index": 110,
+      "name": "§ 87a",
+      "identisch": true,
+      "xml_zeichen": 2553,
+      "pdf_zeichen": 2553,
+      "sha256_xml_text": "f42f58eeda667582d418b615886333323d4f9a090152ed8b43bbff9c42c6a598",
+      "sha256_pdf_text": "f42f58eeda667582d418b615886333323d4f9a090152ed8b43bbff9c42c6a598"
+    },
+    {
+      "index": 111,
+      "name": "§ 88",
+      "identisch": true,
+      "xml_zeichen": 1145,
+      "pdf_zeichen": 1145,
+      "sha256_xml_text": "0ec4c0b05295c027d1b45fa319d8f6730ef2a86bd47629d9237e55cc79f26729",
+      "sha256_pdf_text": "0ec4c0b05295c027d1b45fa319d8f6730ef2a86bd47629d9237e55cc79f26729"
+    },
+    {
+      "index": 112,
+      "name": "§ 89",
+      "identisch": true,
+      "xml_zeichen": 2659,
+      "pdf_zeichen": 2659,
+      "sha256_xml_text": "9a105203524ce2b681b6a9351c64794adaac76554c9ee2db3580db3d061b4132",
+      "sha256_pdf_text": "9a105203524ce2b681b6a9351c64794adaac76554c9ee2db3580db3d061b4132"
+    },
+    {
+      "index": 113,
+      "name": "§ 90",
+      "identisch": true,
+      "xml_zeichen": 2413,
+      "pdf_zeichen": 2413,
+      "sha256_xml_text": "6edcd2af487320595e9b6995a69a555ede4ffcc9a183f1a16d02fd4d00a4939a",
+      "sha256_pdf_text": "6edcd2af487320595e9b6995a69a555ede4ffcc9a183f1a16d02fd4d00a4939a"
+    },
+    {
+      "index": 114,
+      "name": "§ 91",
+      "identisch": true,
+      "xml_zeichen": 495,
+      "pdf_zeichen": 495,
+      "sha256_xml_text": "c44867255276002bbe4a87d9ec42ad506894c59c6e206ad45f411b36e0a41abf",
+      "sha256_pdf_text": "c44867255276002bbe4a87d9ec42ad506894c59c6e206ad45f411b36e0a41abf"
+    },
+    {
+      "index": 115,
+      "name": "§ 92",
+      "identisch": true,
+      "xml_zeichen": 324,
+      "pdf_zeichen": 324,
+      "sha256_xml_text": "c898dad4a169dec3043dbac5c0b0a423cfb99d936de87916e51ff77c417bbc97",
+      "sha256_pdf_text": "c898dad4a169dec3043dbac5c0b0a423cfb99d936de87916e51ff77c417bbc97"
+    },
+    {
+      "index": 116,
+      "name": "§ 93",
+      "identisch": true,
+      "xml_zeichen": 3334,
+      "pdf_zeichen": 3334,
+      "sha256_xml_text": "e3099e9948f55c0f56e05fc386eae16a793298987d401bc342c86e21fe62f49c",
+      "sha256_pdf_text": "e3099e9948f55c0f56e05fc386eae16a793298987d401bc342c86e21fe62f49c"
+    },
+    {
+      "index": 117,
+      "name": "§ 94",
+      "identisch": true,
+      "xml_zeichen": 112,
+      "pdf_zeichen": 112,
+      "sha256_xml_text": "43712c83c05a80f2a79cbd082c834dc59211fbf556eda4e40f73292250d208a8",
+      "sha256_pdf_text": "43712c83c05a80f2a79cbd082c834dc59211fbf556eda4e40f73292250d208a8"
+    },
+    {
+      "index": 118,
+      "name": "Zweiter AbschnittAufsichtsrat",
+      "identisch": true,
+      "xml_zeichen": 28,
+      "pdf_zeichen": 28,
+      "sha256_xml_text": "8d8117e1dafd862ff32fd6c843ce72d7a53b564fbd383b7d885ea0be4d806536",
+      "sha256_pdf_text": "8d8117e1dafd862ff32fd6c843ce72d7a53b564fbd383b7d885ea0be4d806536"
+    },
+    {
+      "index": 119,
+      "name": "§ 95",
+      "identisch": true,
+      "xml_zeichen": 568,
+      "pdf_zeichen": 568,
+      "sha256_xml_text": "9c3c4c52e174ef1295cbc80bcaf7e321a8274bb6f1dd4a3a14f4b13b80a6f35f",
+      "sha256_pdf_text": "9c3c4c52e174ef1295cbc80bcaf7e321a8274bb6f1dd4a3a14f4b13b80a6f35f"
+    },
+    {
+      "index": 120,
+      "name": "§ 96",
+      "identisch": true,
+      "xml_zeichen": 3251,
+      "pdf_zeichen": 3251,
+      "sha256_xml_text": "35893b7542d44b8d73a2a70a23e77ea6b13864d4a8c6b3c297b24fa027f03a45",
+      "sha256_pdf_text": "35893b7542d44b8d73a2a70a23e77ea6b13864d4a8c6b3c297b24fa027f03a45"
+    },
+    {
+      "index": 121,
+      "name": "§ 97",
+      "identisch": true,
+      "xml_zeichen": 1643,
+      "pdf_zeichen": 1643,
+      "sha256_xml_text": "69077c61573a35643291bd3ec007a355840f524e55e6764450b126c3f28da424",
+      "sha256_pdf_text": "69077c61573a35643291bd3ec007a355840f524e55e6764450b126c3f28da424"
+    },
+    {
+      "index": 122,
+      "name": "§ 98",
+      "identisch": true,
+      "xml_zeichen": 2466,
+      "pdf_zeichen": 2466,
+      "sha256_xml_text": "19cf4069aae734177a59cdd6f157e08b275cc862be682a2a6bfc925f8ccbb8e2",
+      "sha256_pdf_text": "19cf4069aae734177a59cdd6f157e08b275cc862be682a2a6bfc925f8ccbb8e2"
+    },
+    {
+      "index": 123,
+      "name": "§ 99",
+      "identisch": true,
+      "xml_zeichen": 1852,
+      "pdf_zeichen": 1852,
+      "sha256_xml_text": "41cbe58fe9d80d0a0602ceecdd9b47ac979d56ea4fc48dc536b64f5b9e76d6ad",
+      "sha256_pdf_text": "41cbe58fe9d80d0a0602ceecdd9b47ac979d56ea4fc48dc536b64f5b9e76d6ad"
+    },
+    {
+      "index": 124,
+      "name": "§ 100",
+      "identisch": true,
+      "xml_zeichen": 2282,
+      "pdf_zeichen": 2282,
+      "sha256_xml_text": "1a6a03a63e2beadc31245fb17cfe0369df9e71d0a60309e26cdbd9f6e03d5e31",
+      "sha256_pdf_text": "1a6a03a63e2beadc31245fb17cfe0369df9e71d0a60309e26cdbd9f6e03d5e31"
+    },
+    {
+      "index": 125,
+      "name": "§ 101",
+      "identisch": true,
+      "xml_zeichen": 1742,
+      "pdf_zeichen": 1742,
+      "sha256_xml_text": "f0614eb1cb4affd28819b6fecab612e557f35065570802e700fce78804dcff88",
+      "sha256_pdf_text": "f0614eb1cb4affd28819b6fecab612e557f35065570802e700fce78804dcff88"
+    },
+    {
+      "index": 126,
+      "name": "§ 102",
+      "identisch": true,
+      "xml_zeichen": 389,
+      "pdf_zeichen": 389,
+      "sha256_xml_text": "f9fff8041b7f39ac9c34680c52c3bbb5a935f0bb9d00b1a5d07768b6f91a4271",
+      "sha256_pdf_text": "f9fff8041b7f39ac9c34680c52c3bbb5a935f0bb9d00b1a5d07768b6f91a4271"
+    },
+    {
+      "index": 127,
+      "name": "§ 103",
+      "identisch": true,
+      "xml_zeichen": 1768,
+      "pdf_zeichen": 1768,
+      "sha256_xml_text": "7cc0a7613d2b6d9424c89590dac12576387db896c8ace14bfcadd3010b06d7d9",
+      "sha256_pdf_text": "7cc0a7613d2b6d9424c89590dac12576387db896c8ace14bfcadd3010b06d7d9"
+    },
+    {
+      "index": 128,
+      "name": "§ 104",
+      "identisch": true,
+      "xml_zeichen": 4695,
+      "pdf_zeichen": 4695,
+      "sha256_xml_text": "a371bf1b1d64d7c96f0b77559468b7e5be614fed42066abedc9e42760009d07b",
+      "sha256_pdf_text": "a371bf1b1d64d7c96f0b77559468b7e5be614fed42066abedc9e42760009d07b"
+    },
+    {
+      "index": 129,
+      "name": "§ 105",
+      "identisch": true,
+      "xml_zeichen": 745,
+      "pdf_zeichen": 745,
+      "sha256_xml_text": "27c36aa518415432fa87dd455b1145fcd596b6a5ab866aeffdb716ea0d6c6d18",
+      "sha256_pdf_text": "27c36aa518415432fa87dd455b1145fcd596b6a5ab866aeffdb716ea0d6c6d18"
+    },
+    {
+      "index": 130,
+      "name": "§ 106",
+      "identisch": true,
+      "xml_zeichen": 398,
+      "pdf_zeichen": 398,
+      "sha256_xml_text": "abc12f4cc939fb4c38abc2916c084a88aee51ffa9061023235ccc684b9b5ec78",
+      "sha256_pdf_text": "abc12f4cc939fb4c38abc2916c084a88aee51ffa9061023235ccc684b9b5ec78"
+    },
+    {
+      "index": 131,
+      "name": "§ 107",
+      "identisch": true,
+      "xml_zeichen": 2963,
+      "pdf_zeichen": 2963,
+      "sha256_xml_text": "6309f7383d8ae4e9ad0cb3f7a48339b0a9b3832577bb181f80655738691e3bac",
+      "sha256_pdf_text": "6309f7383d8ae4e9ad0cb3f7a48339b0a9b3832577bb181f80655738691e3bac"
+    },
+    {
+      "index": 132,
+      "name": "§ 108",
+      "identisch": true,
+      "xml_zeichen": 1321,
+      "pdf_zeichen": 1321,
+      "sha256_xml_text": "06b4c40df222e1edf7fb8dd35f8c2b3026f5f457efa5c54da688d73b124a0f2e",
+      "sha256_pdf_text": "06b4c40df222e1edf7fb8dd35f8c2b3026f5f457efa5c54da688d73b124a0f2e"
+    },
+    {
+      "index": 133,
+      "name": "§ 109",
+      "identisch": true,
+      "xml_zeichen": 885,
+      "pdf_zeichen": 885,
+      "sha256_xml_text": "ee7174162e4f713748c241c8d5696fd58533251019b49d6d8326442c64f1c5b3",
+      "sha256_pdf_text": "ee7174162e4f713748c241c8d5696fd58533251019b49d6d8326442c64f1c5b3"
+    },
+    {
+      "index": 134,
+      "name": "§ 110",
+      "identisch": true,
+      "xml_zeichen": 598,
+      "pdf_zeichen": 598,
+      "sha256_xml_text": "dde5d26d9a1382f08b448bea6dcb39796e4e316c6f1feaf9f5a509b7a8584034",
+      "sha256_pdf_text": "dde5d26d9a1382f08b448bea6dcb39796e4e316c6f1feaf9f5a509b7a8584034"
+    },
+    {
+      "index": 135,
+      "name": "§ 111",
+      "identisch": true,
+      "xml_zeichen": 2438,
+      "pdf_zeichen": 2438,
+      "sha256_xml_text": "a69e6b050be82ed150d47a3c8112b91eb5c0958db5df2f240fb3c08db90a318d",
+      "sha256_pdf_text": "a69e6b050be82ed150d47a3c8112b91eb5c0958db5df2f240fb3c08db90a318d"
+    },
+    {
+      "index": 136,
+      "name": "§ 111a",
+      "identisch": true,
+      "xml_zeichen": 3211,
+      "pdf_zeichen": 3211,
+      "sha256_xml_text": "f721972d48650fa7dc17adcbd4e151f7e84b0a06ceed1976c6755ff48e385f2c",
+      "sha256_pdf_text": "f721972d48650fa7dc17adcbd4e151f7e84b0a06ceed1976c6755ff48e385f2c"
+    },
+    {
+      "index": 137,
+      "name": "§ 111b",
+      "identisch": true,
+      "xml_zeichen": 1703,
+      "pdf_zeichen": 1703,
+      "sha256_xml_text": "dc62b4cd250197772a89108e992da0b3d2d39774753be5a1c2ccf2c6a963f423",
+      "sha256_pdf_text": "dc62b4cd250197772a89108e992da0b3d2d39774753be5a1c2ccf2c6a963f423"
+    },
+    {
+      "index": 138,
+      "name": "§ 111c",
+      "identisch": true,
+      "xml_zeichen": 2315,
+      "pdf_zeichen": 2315,
+      "sha256_xml_text": "b760b4c2981e74974cfb1bafeba1174031e786564b785e7fd9424bfab79bbb55",
+      "sha256_pdf_text": "b760b4c2981e74974cfb1bafeba1174031e786564b785e7fd9424bfab79bbb55"
+    },
+    {
+      "index": 139,
+      "name": "§ 112",
+      "identisch": true,
+      "xml_zeichen": 186,
+      "pdf_zeichen": 186,
+      "sha256_xml_text": "e8cd1b23c2a209d976db588f4af80884f2c9b281c00e8be9d709198d7641b87f",
+      "sha256_pdf_text": "e8cd1b23c2a209d976db588f4af80884f2c9b281c00e8be9d709198d7641b87f"
+    },
+    {
+      "index": 140,
+      "name": "§ 113",
+      "identisch": true,
+      "xml_zeichen": 1030,
+      "pdf_zeichen": 1030,
+      "sha256_xml_text": "d364ccf8d52d62bfbdf872ec580be8422095a7eaaa41b51af47257487155d4d7",
+      "sha256_pdf_text": "d364ccf8d52d62bfbdf872ec580be8422095a7eaaa41b51af47257487155d4d7"
+    },
+    {
+      "index": 141,
+      "name": "§ 114",
+      "identisch": true,
+      "xml_zeichen": 784,
+      "pdf_zeichen": 784,
+      "sha256_xml_text": "c57b7120aceee3e9f54a02dd0fff7469a53358079991fe6a652b53d666bf2a4b",
+      "sha256_pdf_text": "c57b7120aceee3e9f54a02dd0fff7469a53358079991fe6a652b53d666bf2a4b"
+    },
+    {
+      "index": 142,
+      "name": "§ 115",
+      "identisch": true,
+      "xml_zeichen": 1960,
+      "pdf_zeichen": 1960,
+      "sha256_xml_text": "c4ea2995afa03eb5567658c540c61c3385c3e9c9bb15bfbff1c77770a3d5b970",
+      "sha256_pdf_text": "c4ea2995afa03eb5567658c540c61c3385c3e9c9bb15bfbff1c77770a3d5b970"
+    },
+    {
+      "index": 143,
+      "name": "§ 116",
+      "identisch": true,
+      "xml_zeichen": 502,
+      "pdf_zeichen": 502,
+      "sha256_xml_text": "ab520fabd214b764880cd0acc0ad46f3f033baa35dab0025c51ee098b9591a0c",
+      "sha256_pdf_text": "ab520fabd214b764880cd0acc0ad46f3f033baa35dab0025c51ee098b9591a0c"
+    },
+    {
+      "index": 144,
+      "name": "Dritter AbschnittBenutzung des Einflusses\nauf die Gesellschaft",
+      "identisch": true,
+      "xml_zeichen": 56,
+      "pdf_zeichen": 56,
+      "sha256_xml_text": "94c43a0ccf5b028e0c3ca7e45520c6b8cd301859a33bd0e9c1b1bdc9d9fc8217",
+      "sha256_pdf_text": "94c43a0ccf5b028e0c3ca7e45520c6b8cd301859a33bd0e9c1b1bdc9d9fc8217"
+    },
+    {
+      "index": 145,
+      "name": "§ 117",
+      "identisch": true,
+      "xml_zeichen": 2111,
+      "pdf_zeichen": 2111,
+      "sha256_xml_text": "c2644423bf14fc02146dd5a5100bb87c963bd1fc200b1e98ee5bb7a468402700",
+      "sha256_pdf_text": "c2644423bf14fc02146dd5a5100bb87c963bd1fc200b1e98ee5bb7a468402700"
+    },
+    {
+      "index": 146,
+      "name": "Vierter AbschnittHauptversammlung",
+      "identisch": true,
+      "xml_zeichen": 32,
+      "pdf_zeichen": 32,
+      "sha256_xml_text": "86129608c5ba2db4912c1b3b495d9b59acfe12c2cc18a621692092e359caa0e7",
+      "sha256_pdf_text": "86129608c5ba2db4912c1b3b495d9b59acfe12c2cc18a621692092e359caa0e7"
+    },
+    {
+      "index": 147,
+      "name": "Erster UnterabschnittRechte der Hauptversammlung",
+      "identisch": true,
+      "xml_zeichen": 45,
+      "pdf_zeichen": 45,
+      "sha256_xml_text": "d6b7672664c22f4bf7a6b1e3a9abe9f011e6e792e71b41d87cb73a0914cf561d",
+      "sha256_pdf_text": "d6b7672664c22f4bf7a6b1e3a9abe9f011e6e792e71b41d87cb73a0914cf561d"
+    },
+    {
+      "index": 148,
+      "name": "§ 118",
+      "identisch": true,
+      "xml_zeichen": 1439,
+      "pdf_zeichen": 1439,
+      "sha256_xml_text": "db459cec97682030c8bd47c8a23a7a0bd687758e5caebd5b3a22ac3ea7b5bda0",
+      "sha256_pdf_text": "db459cec97682030c8bd47c8a23a7a0bd687758e5caebd5b3a22ac3ea7b5bda0"
+    },
+    {
+      "index": 149,
+      "name": "§ 118a",
+      "identisch": true,
+      "xml_zeichen": 3235,
+      "pdf_zeichen": 3235,
+      "sha256_xml_text": "d18f2f40f6b30af6de0d3d6db222e6ab568fa44fadb16b1d68722c82b87c90a5",
+      "sha256_pdf_text": "d18f2f40f6b30af6de0d3d6db222e6ab568fa44fadb16b1d68722c82b87c90a5"
+    },
+    {
+      "index": 150,
+      "name": "§ 119",
+      "identisch": true,
+      "xml_zeichen": 1104,
+      "pdf_zeichen": 1104,
+      "sha256_xml_text": "ac98e56252ed82accdd7e6ae33a69b8915a5f1012e78050c31cf1dea9d30c1fd",
+      "sha256_pdf_text": "ac98e56252ed82accdd7e6ae33a69b8915a5f1012e78050c31cf1dea9d30c1fd"
+    },
+    {
+      "index": 151,
+      "name": "§ 120",
+      "identisch": true,
+      "xml_zeichen": 716,
+      "pdf_zeichen": 716,
+      "sha256_xml_text": "0b3a3573573ad7aceb93f1a30708d75101a3770e099bc5b90aee4cfb52a588f4",
+      "sha256_pdf_text": "0b3a3573573ad7aceb93f1a30708d75101a3770e099bc5b90aee4cfb52a588f4"
+    },
+    {
+      "index": 152,
+      "name": "§ 120a",
+      "identisch": true,
+      "xml_zeichen": 1264,
+      "pdf_zeichen": 1264,
+      "sha256_xml_text": "569ae2c1cbaf611f1cd9f24f331d23fa65e8248a8b50c0b04966de4a4448dbad",
+      "sha256_pdf_text": "569ae2c1cbaf611f1cd9f24f331d23fa65e8248a8b50c0b04966de4a4448dbad"
+    },
+    {
+      "index": 153,
+      "name": "Zweiter UnterabschnittEinberufung der\nHauptversammlung",
+      "identisch": true,
+      "xml_zeichen": 51,
+      "pdf_zeichen": 51,
+      "sha256_xml_text": "d58b21d7f6652c734ab803782f361a40a65dcba9506e0bf66bb514b51b6649e7",
+      "sha256_pdf_text": "d58b21d7f6652c734ab803782f361a40a65dcba9506e0bf66bb514b51b6649e7"
+    },
+    {
+      "index": 154,
+      "name": "§ 121",
+      "identisch": true,
+      "xml_zeichen": 3937,
+      "pdf_zeichen": 3937,
+      "sha256_xml_text": "37aa9e633da3bfd850aec92a6f390f29a4c79325b8f5c55c3307f9b9d7668f8f",
+      "sha256_pdf_text": "37aa9e633da3bfd850aec92a6f390f29a4c79325b8f5c55c3307f9b9d7668f8f"
+    },
+    {
+      "index": 155,
+      "name": "§ 122",
+      "identisch": true,
+      "xml_zeichen": 1648,
+      "pdf_zeichen": 1648,
+      "sha256_xml_text": "924dcf6c03c6645572dc696a789cb8fb037d86de1354a5dbe8e200dd0ca28fac",
+      "sha256_pdf_text": "924dcf6c03c6645572dc696a789cb8fb037d86de1354a5dbe8e200dd0ca28fac"
+    },
+    {
+      "index": 156,
+      "name": "§ 123",
+      "identisch": true,
+      "xml_zeichen": 1654,
+      "pdf_zeichen": 1654,
+      "sha256_xml_text": "15d27f67976cf6cf95ab53e3a8d6e64682ff9334779ab6ae7ccff04fdf264c46",
+      "sha256_pdf_text": "15d27f67976cf6cf95ab53e3a8d6e64682ff9334779ab6ae7ccff04fdf264c46"
+    },
+    {
+      "index": 157,
+      "name": "§ 124",
+      "identisch": true,
+      "xml_zeichen": 2787,
+      "pdf_zeichen": 2787,
+      "sha256_xml_text": "850321045ec88b4fc24d0974d2dc52fdefa18fba2578f7132a290a59ae5af7c3",
+      "sha256_pdf_text": "850321045ec88b4fc24d0974d2dc52fdefa18fba2578f7132a290a59ae5af7c3"
+    },
+    {
+      "index": 158,
+      "name": "§ 124a",
+      "identisch": true,
+      "xml_zeichen": 1085,
+      "pdf_zeichen": 1085,
+      "sha256_xml_text": "2f2fabd2813569451d439e6a52074e69f633015259eb8b58941ceffb6a4771c9",
+      "sha256_pdf_text": "2f2fabd2813569451d439e6a52074e69f633015259eb8b58941ceffb6a4771c9"
+    },
+    {
+      "index": 159,
+      "name": "§ 125",
+      "identisch": true,
+      "xml_zeichen": 2225,
+      "pdf_zeichen": 2225,
+      "sha256_xml_text": "144026ad58a1be5bbe192a873c4b08e1c752e873d49569371cc716951ea3b940",
+      "sha256_pdf_text": "144026ad58a1be5bbe192a873c4b08e1c752e873d49569371cc716951ea3b940"
+    },
+    {
+      "index": 160,
+      "name": "§ 126",
+      "identisch": true,
+      "xml_zeichen": 2432,
+      "pdf_zeichen": 2432,
+      "sha256_xml_text": "e53756fbef4e2c3555c51c8361403dd0bbe9d45ba494c5508c8ca1aa5ae8cdab",
+      "sha256_pdf_text": "e53756fbef4e2c3555c51c8361403dd0bbe9d45ba494c5508c8ca1aa5ae8cdab"
+    },
+    {
+      "index": 161,
+      "name": "§ 127",
+      "identisch": true,
+      "xml_zeichen": 817,
+      "pdf_zeichen": 817,
+      "sha256_xml_text": "9259cb627caa110c5d216767eb5e952f6dd26d2101f92587b0dfb593add5c86a",
+      "sha256_pdf_text": "9259cb627caa110c5d216767eb5e952f6dd26d2101f92587b0dfb593add5c86a"
+    },
+    {
+      "index": 162,
+      "name": "§ 127a",
+      "identisch": true,
+      "xml_zeichen": 1032,
+      "pdf_zeichen": 1032,
+      "sha256_xml_text": "a4fda5fbb6d09fa58ada455c2c788f56c5432f5d9d7d93d9e503a1b8b04b67b3",
+      "sha256_pdf_text": "a4fda5fbb6d09fa58ada455c2c788f56c5432f5d9d7d93d9e503a1b8b04b67b3"
+    },
+    {
+      "index": 163,
+      "name": "§ 128",
+      "identisch": true,
+      "xml_zeichen": 17,
+      "pdf_zeichen": 17,
+      "sha256_xml_text": "2cb011065b9feb808fe7ff605a77430d5ae01aebc0becb3e8fa10a754449fc2d",
+      "sha256_pdf_text": "2cb011065b9feb808fe7ff605a77430d5ae01aebc0becb3e8fa10a754449fc2d"
+    },
+    {
+      "index": 164,
+      "name": "Dritter UnterabschnittVerhandlungsniederschrift. Auskunftsrecht",
+      "identisch": true,
+      "xml_zeichen": 61,
+      "pdf_zeichen": 61,
+      "sha256_xml_text": "2636e702e789f3259c1b2b108061324365200aadcf6e36b3535f0b2e64e00baf",
+      "sha256_pdf_text": "2636e702e789f3259c1b2b108061324365200aadcf6e36b3535f0b2e64e00baf"
+    },
+    {
+      "index": 165,
+      "name": "§ 129",
+      "identisch": true,
+      "xml_zeichen": 2316,
+      "pdf_zeichen": 2316,
+      "sha256_xml_text": "d5a9d4f9af07a5308527672fc5220027a4ee10e29f31cc94669ac01eacf33973",
+      "sha256_pdf_text": "d5a9d4f9af07a5308527672fc5220027a4ee10e29f31cc94669ac01eacf33973"
+    },
+    {
+      "index": 166,
+      "name": "§ 130",
+      "identisch": true,
+      "xml_zeichen": 1989,
+      "pdf_zeichen": 1989,
+      "sha256_xml_text": "1e0bc5d415f78f0c1244884b074b6b7e9c01ec9dd92925603a37e03ee08c8052",
+      "sha256_pdf_text": "1e0bc5d415f78f0c1244884b074b6b7e9c01ec9dd92925603a37e03ee08c8052"
+    },
+    {
+      "index": 167,
+      "name": "§ 130a",
+      "identisch": true,
+      "xml_zeichen": 1714,
+      "pdf_zeichen": 1714,
+      "sha256_xml_text": "09cb950800ae4d0efbae97f22e42e96eb2e62da25053bd74766ed01a47b69c0b",
+      "sha256_pdf_text": "09cb950800ae4d0efbae97f22e42e96eb2e62da25053bd74766ed01a47b69c0b"
+    },
+    {
+      "index": 168,
+      "name": "§ 131",
+      "identisch": true,
+      "xml_zeichen": 5509,
+      "pdf_zeichen": 5509,
+      "sha256_xml_text": "892052d960e591580bc73b4b1089c1f1caca8d2f4ec7e66f57870c2a6950079f",
+      "sha256_pdf_text": "892052d960e591580bc73b4b1089c1f1caca8d2f4ec7e66f57870c2a6950079f"
+    },
+    {
+      "index": 169,
+      "name": "§ 132",
+      "identisch": true,
+      "xml_zeichen": 1457,
+      "pdf_zeichen": 1457,
+      "sha256_xml_text": "edf16c5c9fdc635f7e5458695146863adcbe3726623fc66406bf6f33105e0727",
+      "sha256_pdf_text": "edf16c5c9fdc635f7e5458695146863adcbe3726623fc66406bf6f33105e0727"
+    },
+    {
+      "index": 170,
+      "name": "Vierter UnterabschnittStimmrecht",
+      "identisch": true,
+      "xml_zeichen": 31,
+      "pdf_zeichen": 31,
+      "sha256_xml_text": "0f4e405f2cdc656b682eedecdb27e0ba2782c37ce10a3b4c635325bf161517a3",
+      "sha256_pdf_text": "0f4e405f2cdc656b682eedecdb27e0ba2782c37ce10a3b4c635325bf161517a3"
+    },
+    {
+      "index": 171,
+      "name": "§ 133",
+      "identisch": true,
+      "xml_zeichen": 274,
+      "pdf_zeichen": 274,
+      "sha256_xml_text": "3ea04d3c5d09f74dbdf473764a0d7ef28c0a5ab78dcbf18ea87b832545e64624",
+      "sha256_pdf_text": "3ea04d3c5d09f74dbdf473764a0d7ef28c0a5ab78dcbf18ea87b832545e64624"
+    },
+    {
+      "index": 172,
+      "name": "§ 134",
+      "identisch": true,
+      "xml_zeichen": 2614,
+      "pdf_zeichen": 2614,
+      "sha256_xml_text": "53325091143fbcf7237f70b4b902f36291495104585d8d89348b183b8c181684",
+      "sha256_pdf_text": "53325091143fbcf7237f70b4b902f36291495104585d8d89348b183b8c181684"
+    },
+    {
+      "index": 173,
+      "name": "§ 134a",
+      "identisch": true,
+      "xml_zeichen": 1801,
+      "pdf_zeichen": 1801,
+      "sha256_xml_text": "0ad827ebcff827ee1d13068bb723f0a591890f09ec7e86d98f4e6538a459d889",
+      "sha256_pdf_text": "0ad827ebcff827ee1d13068bb723f0a591890f09ec7e86d98f4e6538a459d889"
+    },
+    {
+      "index": 174,
+      "name": "§ 134b",
+      "identisch": true,
+      "xml_zeichen": 1721,
+      "pdf_zeichen": 1721,
+      "sha256_xml_text": "68f17edb8042bed2feb005041daa79ddb2462e5dc8ef39991bfaf1f1fc044f7c",
+      "sha256_pdf_text": "68f17edb8042bed2feb005041daa79ddb2462e5dc8ef39991bfaf1f1fc044f7c"
+    },
+    {
+      "index": 175,
+      "name": "§ 134c",
+      "identisch": true,
+      "xml_zeichen": 2496,
+      "pdf_zeichen": 2496,
+      "sha256_xml_text": "1e84ce8b09c2e6eb673057d82c89648ded8634870be92835d91e3fa834ee5e0e",
+      "sha256_pdf_text": "1e84ce8b09c2e6eb673057d82c89648ded8634870be92835d91e3fa834ee5e0e"
+    },
+    {
+      "index": 176,
+      "name": "§ 134d",
+      "identisch": true,
+      "xml_zeichen": 1336,
+      "pdf_zeichen": 1336,
+      "sha256_xml_text": "67ac84b41d6f48a89e928c1ce878c274404de2735c67108d25f0690259292142",
+      "sha256_pdf_text": "67ac84b41d6f48a89e928c1ce878c274404de2735c67108d25f0690259292142"
+    },
+    {
+      "index": 177,
+      "name": "§ 135",
+      "identisch": true,
+      "xml_zeichen": 5443,
+      "pdf_zeichen": 5443,
+      "sha256_xml_text": "65d08ac3dde7c24bd37c4698d0684a921e57761dd152093d39c368e04406b24a",
+      "sha256_pdf_text": "65d08ac3dde7c24bd37c4698d0684a921e57761dd152093d39c368e04406b24a"
+    },
+    {
+      "index": 178,
+      "name": "§ 135a",
+      "identisch": true,
+      "xml_zeichen": 1362,
+      "pdf_zeichen": 1362,
+      "sha256_xml_text": "fed6494576cab0d59c6a44847d21b1e1f1c0c8965dd4bb2a99c15ab25d5bd7d6",
+      "sha256_pdf_text": "fed6494576cab0d59c6a44847d21b1e1f1c0c8965dd4bb2a99c15ab25d5bd7d6"
+    },
+    {
+      "index": 179,
+      "name": "§ 136",
+      "identisch": true,
+      "xml_zeichen": 705,
+      "pdf_zeichen": 705,
+      "sha256_xml_text": "d888b4fc70ef962752a4f220bc6d7ab87f3b18a4b6dd79fd51525af3a8a31107",
+      "sha256_pdf_text": "d888b4fc70ef962752a4f220bc6d7ab87f3b18a4b6dd79fd51525af3a8a31107"
+    },
+    {
+      "index": 180,
+      "name": "§ 137",
+      "identisch": true,
+      "xml_zeichen": 367,
+      "pdf_zeichen": 367,
+      "sha256_xml_text": "bbad5a653865559986fc1182d887a76fb7eef07df1a167396bcdea15ea0fd718",
+      "sha256_pdf_text": "bbad5a653865559986fc1182d887a76fb7eef07df1a167396bcdea15ea0fd718"
+    },
+    {
+      "index": 181,
+      "name": "Fünfter UnterabschnittSonderbeschluß",
+      "identisch": true,
+      "xml_zeichen": 35,
+      "pdf_zeichen": 35,
+      "sha256_xml_text": "dfed5c9967084aabdd233c33790c86602fdc00cc8abff39f23eab53e16ae6eae",
+      "sha256_pdf_text": "dfed5c9967084aabdd233c33790c86602fdc00cc8abff39f23eab53e16ae6eae"
+    },
+    {
+      "index": 182,
+      "name": "§ 138",
+      "identisch": true,
+      "xml_zeichen": 856,
+      "pdf_zeichen": 856,
+      "sha256_xml_text": "5f6a7e9db58e2c29ed7dd5881c7ab74c379ec97757671fec45edbff9dde54f91",
+      "sha256_pdf_text": "5f6a7e9db58e2c29ed7dd5881c7ab74c379ec97757671fec45edbff9dde54f91"
+    },
+    {
+      "index": 183,
+      "name": "Sechster UnterabschnittVorzugsaktien\nohne Stimmrecht",
+      "identisch": true,
+      "xml_zeichen": 49,
+      "pdf_zeichen": 49,
+      "sha256_xml_text": "ed4c4b821f0bd6048886d24d99ab17dc9cdcbee96fa43490d505b6469693488f",
+      "sha256_pdf_text": "ed4c4b821f0bd6048886d24d99ab17dc9cdcbee96fa43490d505b6469693488f"
+    },
+    {
+      "index": 184,
+      "name": "§ 139",
+      "identisch": true,
+      "xml_zeichen": 504,
+      "pdf_zeichen": 504,
+      "sha256_xml_text": "d0fd5e797cc85ec74bb48190b120c4248c6760a7eeb5025e4d7d991b39b45c50",
+      "sha256_pdf_text": "d0fd5e797cc85ec74bb48190b120c4248c6760a7eeb5025e4d7d991b39b45c50"
+    },
+    {
+      "index": 185,
+      "name": "§ 140",
+      "identisch": true,
+      "xml_zeichen": 925,
+      "pdf_zeichen": 925,
+      "sha256_xml_text": "3b628590e339074c335138724736f414be6974eb31c55b02c3ccb68fb1463ee1",
+      "sha256_pdf_text": "3b628590e339074c335138724736f414be6974eb31c55b02c3ccb68fb1463ee1"
+    },
+    {
+      "index": 186,
+      "name": "§ 141",
+      "identisch": true,
+      "xml_zeichen": 1192,
+      "pdf_zeichen": 1192,
+      "sha256_xml_text": "69fed1005d4cd9d71a6a219838aa8bc4df9ae4a8b3481cf1a2e3e2e2fff83e77",
+      "sha256_pdf_text": "69fed1005d4cd9d71a6a219838aa8bc4df9ae4a8b3481cf1a2e3e2e2fff83e77"
+    },
+    {
+      "index": 187,
+      "name": "Siebenter UnterabschnittSonderprüfung.\nGeltendmachung von Ersatzansprüchen",
+      "identisch": true,
+      "xml_zeichen": 70,
+      "pdf_zeichen": 70,
+      "sha256_xml_text": "19041dc6e7992028a727dfe0b175587277cc25dd57fe2ad412f34cff23477461",
+      "sha256_pdf_text": "19041dc6e7992028a727dfe0b175587277cc25dd57fe2ad412f34cff23477461"
+    },
+    {
+      "index": 188,
+      "name": "§ 142",
+      "identisch": true,
+      "xml_zeichen": 3669,
+      "pdf_zeichen": 3669,
+      "sha256_xml_text": "265b9566cb56ce8f31cad7afadef5da124af7c01b7aad5e8b84a4c6d541b0657",
+      "sha256_pdf_text": "265b9566cb56ce8f31cad7afadef5da124af7c01b7aad5e8b84a4c6d541b0657"
+    },
+    {
+      "index": 189,
+      "name": "§ 143",
+      "identisch": true,
+      "xml_zeichen": 1244,
+      "pdf_zeichen": 1244,
+      "sha256_xml_text": "e045c401abbb3c7ab45e709eb18d12b96707497ae7dbba51383cf9b32629a5e3",
+      "sha256_pdf_text": "e045c401abbb3c7ab45e709eb18d12b96707497ae7dbba51383cf9b32629a5e3"
+    },
+    {
+      "index": 190,
+      "name": "§ 144",
+      "identisch": true,
+      "xml_zeichen": 119,
+      "pdf_zeichen": 119,
+      "sha256_xml_text": "281a3612fc6826921ec29a75b56e11656ff48a61430a3c601b43e9244f751268",
+      "sha256_pdf_text": "281a3612fc6826921ec29a75b56e11656ff48a61430a3c601b43e9244f751268"
+    },
+    {
+      "index": 191,
+      "name": "§ 145",
+      "identisch": true,
+      "xml_zeichen": 1599,
+      "pdf_zeichen": 1599,
+      "sha256_xml_text": "1924e21e3e70becd3c02210a0dcb43a2618be922f542f203835e643252aaf6cf",
+      "sha256_pdf_text": "1924e21e3e70becd3c02210a0dcb43a2618be922f542f203835e643252aaf6cf"
+    },
+    {
+      "index": 192,
+      "name": "§ 146",
+      "identisch": true,
+      "xml_zeichen": 252,
+      "pdf_zeichen": 252,
+      "sha256_xml_text": "7e8f15d615779a1821c7c09c5dd9c4ade085898c1f883f649beea431df2e0127",
+      "sha256_pdf_text": "7e8f15d615779a1821c7c09c5dd9c4ade085898c1f883f649beea431df2e0127"
+    },
+    {
+      "index": 193,
+      "name": "§ 147",
+      "identisch": true,
+      "xml_zeichen": 1352,
+      "pdf_zeichen": 1352,
+      "sha256_xml_text": "2219b25f688d57fac3b7096355aabf0718986483fa1db2f65bfa38e6c3beb50f",
+      "sha256_pdf_text": "2219b25f688d57fac3b7096355aabf0718986483fa1db2f65bfa38e6c3beb50f"
+    },
+    {
+      "index": 194,
+      "name": "§ 148",
+      "identisch": true,
+      "xml_zeichen": 4063,
+      "pdf_zeichen": 4063,
+      "sha256_xml_text": "f823b41b4d37b7f78bac30a46ca839c33c06272c7e71a19ec1f955485dc5848e",
+      "sha256_pdf_text": "f823b41b4d37b7f78bac30a46ca839c33c06272c7e71a19ec1f955485dc5848e"
+    },
+    {
+      "index": 195,
+      "name": "§ 149",
+      "identisch": true,
+      "xml_zeichen": 862,
+      "pdf_zeichen": 862,
+      "sha256_xml_text": "5c5a7c82f5236f89965026402d9b851ee9f43ebdb47cb2b2854d99b90fe03de6",
+      "sha256_pdf_text": "5c5a7c82f5236f89965026402d9b851ee9f43ebdb47cb2b2854d99b90fe03de6"
+    },
+    {
+      "index": 196,
+      "name": "Fünfter TeilRechnungslegung\nGewinnverwendung",
+      "identisch": true,
+      "xml_zeichen": 42,
+      "pdf_zeichen": 42,
+      "sha256_xml_text": "adb6dfaa7854365075d6f6f15d170b37f479630834d7b3ebb84dd2bfa12d6b73",
+      "sha256_pdf_text": "adb6dfaa7854365075d6f6f15d170b37f479630834d7b3ebb84dd2bfa12d6b73"
+    },
+    {
+      "index": 197,
+      "name": "Erster AbschnittJahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht",
+      "identisch": true,
+      "xml_zeichen": 86,
+      "pdf_zeichen": 86,
+      "sha256_xml_text": "144bca5a76d62cafe1435a8e4268b5f3ec8877a96850b8a18f9dfb6d0fca1317",
+      "sha256_pdf_text": "144bca5a76d62cafe1435a8e4268b5f3ec8877a96850b8a18f9dfb6d0fca1317"
+    },
+    {
+      "index": 198,
+      "name": "§ 150",
+      "identisch": true,
+      "xml_zeichen": 1615,
+      "pdf_zeichen": 1615,
+      "sha256_xml_text": "df8ed955ef26af474e6573a74ba636b0a0b959dfd2ada07d54338c49536b7c1e",
+      "sha256_pdf_text": "df8ed955ef26af474e6573a74ba636b0a0b959dfd2ada07d54338c49536b7c1e"
+    },
+    {
+      "index": 199,
+      "name": "§ 150a",
+      "identisch": true,
+      "xml_zeichen": 68,
+      "pdf_zeichen": 68,
+      "sha256_xml_text": "87e0fbaf872c5fb22459c69ad819f71632e6750d3c57358e1b3a0988d31707e4",
+      "sha256_pdf_text": "87e0fbaf872c5fb22459c69ad819f71632e6750d3c57358e1b3a0988d31707e4"
+    },
+    {
+      "index": 200,
+      "name": "§ 151",
+      "identisch": true,
+      "xml_zeichen": 66,
+      "pdf_zeichen": 66,
+      "sha256_xml_text": "0c2b7418bc0b0c4a38061a1795639e7ef0fec7cd202c5cc05096fb1b6d06a4aa",
+      "sha256_pdf_text": "0c2b7418bc0b0c4a38061a1795639e7ef0fec7cd202c5cc05096fb1b6d06a4aa"
+    },
+    {
+      "index": 201,
+      "name": "§ 152",
+      "identisch": true,
+      "xml_zeichen": 1259,
+      "pdf_zeichen": 1259,
+      "sha256_xml_text": "5729785e7b856f7cfa9f35f8bbd8fbb9aa89c1aa24e86a9d4933ed75ceb55ea0",
+      "sha256_pdf_text": "5729785e7b856f7cfa9f35f8bbd8fbb9aa89c1aa24e86a9d4933ed75ceb55ea0"
+    },
+    {
+      "index": 202,
+      "name": "§§ 153 bis 157",
+      "identisch": true,
+      "xml_zeichen": 80,
+      "pdf_zeichen": 80,
+      "sha256_xml_text": "35a8a903c22314d19e3ac62053da7c7f8a7be46f57b19cf59e22b676557e9b03",
+      "sha256_pdf_text": "35a8a903c22314d19e3ac62053da7c7f8a7be46f57b19cf59e22b676557e9b03"
+    },
+    {
+      "index": 203,
+      "name": "§ 158",
+      "identisch": true,
+      "xml_zeichen": 1279,
+      "pdf_zeichen": 1279,
+      "sha256_xml_text": "aff2b74efc0608f4d47866f1cdcfc0e437ee12d183e1aa92e95909b3e36e4de3",
+      "sha256_pdf_text": "aff2b74efc0608f4d47866f1cdcfc0e437ee12d183e1aa92e95909b3e36e4de3"
+    },
+    {
+      "index": 204,
+      "name": "§ 159",
+      "identisch": true,
+      "xml_zeichen": 5,
+      "pdf_zeichen": 5,
+      "sha256_xml_text": "696baabce72a895ae454bc410c38dfdf6fbe230598eb6d50552ccb7d73c81e1c",
+      "sha256_pdf_text": "696baabce72a895ae454bc410c38dfdf6fbe230598eb6d50552ccb7d73c81e1c"
+    },
+    {
+      "index": 205,
+      "name": "§ 160",
+      "identisch": true,
+      "xml_zeichen": 2645,
+      "pdf_zeichen": 2645,
+      "sha256_xml_text": "9437bfc728c2aa758401427aae19e74889953881766d9907a42c76e2b509af13",
+      "sha256_pdf_text": "9437bfc728c2aa758401427aae19e74889953881766d9907a42c76e2b509af13"
+    },
+    {
+      "index": 206,
+      "name": "§ 161",
+      "identisch": true,
+      "xml_zeichen": 867,
+      "pdf_zeichen": 867,
+      "sha256_xml_text": "cf20a50e1c99d8c4f3fd35852a371f10b6eec4b7edb3c0845ce153fe2813c5a5",
+      "sha256_pdf_text": "cf20a50e1c99d8c4f3fd35852a371f10b6eec4b7edb3c0845ce153fe2813c5a5"
+    },
+    {
+      "index": 207,
+      "name": "§ 162",
+      "identisch": true,
+      "xml_zeichen": 4046,
+      "pdf_zeichen": 4046,
+      "sha256_xml_text": "40d4ce4568883bd65b982d67d4e14e8f4d31cfd3f657cd2538e6eb868cc0734b",
+      "sha256_pdf_text": "40d4ce4568883bd65b982d67d4e14e8f4d31cfd3f657cd2538e6eb868cc0734b"
+    },
+    {
+      "index": 208,
+      "name": "Zweiter AbschnittPrüfung des Jahresabschlusses",
+      "identisch": true,
+      "xml_zeichen": 43,
+      "pdf_zeichen": 43,
+      "sha256_xml_text": "1b12ea616ee1c009757876ed1955839c3ee2681b74af9d52436b3eaf64833989",
+      "sha256_pdf_text": "1b12ea616ee1c009757876ed1955839c3ee2681b74af9d52436b3eaf64833989"
+    },
+    {
+      "index": 209,
+      "name": "Erster UnterabschnittPrüfung durch Abschlußprüfer",
+      "identisch": true,
+      "xml_zeichen": 46,
+      "pdf_zeichen": 46,
+      "sha256_xml_text": "08df58c5c79d07bb2ce83b9d87fcaaf3a02b692529d4c9b8a3feb2c6a7b535f7",
+      "sha256_pdf_text": "08df58c5c79d07bb2ce83b9d87fcaaf3a02b692529d4c9b8a3feb2c6a7b535f7"
+    },
+    {
+      "index": 210,
+      "name": "§§ 163 bis 169",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "7ca8f31e3e4310f5b9d93038b46cfe2a3a894b3d4e3aa3fff1d223aef94ff9f8",
+      "sha256_pdf_text": "7ca8f31e3e4310f5b9d93038b46cfe2a3a894b3d4e3aa3fff1d223aef94ff9f8"
+    },
+    {
+      "index": 211,
+      "name": "Zweiter UnterabschnittPrüfung durch\nden Aufsichtsrat",
+      "identisch": true,
+      "xml_zeichen": 48,
+      "pdf_zeichen": 48,
+      "sha256_xml_text": "4f377ff5dd95f9a655cab2b0fa5b892de85c716630a772118b97a3ec5dd5bd91",
+      "sha256_pdf_text": "4f377ff5dd95f9a655cab2b0fa5b892de85c716630a772118b97a3ec5dd5bd91"
+    },
+    {
+      "index": 212,
+      "name": "§ 170",
+      "identisch": true,
+      "xml_zeichen": 1206,
+      "pdf_zeichen": 1206,
+      "sha256_xml_text": "46eb6226867ae4cc22557b292a870724d4ac429cae115d324f8c19fdd91ce3b9",
+      "sha256_pdf_text": "46eb6226867ae4cc22557b292a870724d4ac429cae115d324f8c19fdd91ce3b9"
+    },
+    {
+      "index": 213,
+      "name": "§ 171",
+      "identisch": true,
+      "xml_zeichen": 2593,
+      "pdf_zeichen": 2593,
+      "sha256_xml_text": "dc4fa165f8a6bc18e32ee4c2664b2cb35738fdfcac3f3abb08af8ab10a1ebfaa",
+      "sha256_pdf_text": "dc4fa165f8a6bc18e32ee4c2664b2cb35738fdfcac3f3abb08af8ab10a1ebfaa"
+    },
+    {
+      "index": 214,
+      "name": "Dritter AbschnittFeststellung des\nJahresabschlusses. Gewinnverwendung",
+      "identisch": true,
+      "xml_zeichen": 65,
+      "pdf_zeichen": 65,
+      "sha256_xml_text": "4b6d4a9849129a60c042486c94498412833b09bde2b5cb5b9e48b564f2f0c131",
+      "sha256_pdf_text": "4b6d4a9849129a60c042486c94498412833b09bde2b5cb5b9e48b564f2f0c131"
+    },
+    {
+      "index": 215,
+      "name": "Erster UnterabschnittFeststellung\ndes Jahresabschlusses",
+      "identisch": true,
+      "xml_zeichen": 52,
+      "pdf_zeichen": 52,
+      "sha256_xml_text": "a5f4cac5d07a861828187bb25268a5586da6feb96b2398bb90acf57b097927ad",
+      "sha256_pdf_text": "a5f4cac5d07a861828187bb25268a5586da6feb96b2398bb90acf57b097927ad"
+    },
+    {
+      "index": 216,
+      "name": "§ 172",
+      "identisch": true,
+      "xml_zeichen": 330,
+      "pdf_zeichen": 330,
+      "sha256_xml_text": "3bbdb05d28d68b14965ee580b70206fe828ba65d710c064b99be47461c61b030",
+      "sha256_pdf_text": "3bbdb05d28d68b14965ee580b70206fe828ba65d710c064b99be47461c61b030"
+    },
+    {
+      "index": 217,
+      "name": "§ 173",
+      "identisch": true,
+      "xml_zeichen": 1191,
+      "pdf_zeichen": 1191,
+      "sha256_xml_text": "6a90782400aa5f311e3a55e352c11d13f269a6901bca5990aa267df2959cbe89",
+      "sha256_pdf_text": "6a90782400aa5f311e3a55e352c11d13f269a6901bca5990aa267df2959cbe89"
+    },
+    {
+      "index": 218,
+      "name": "Zweiter UnterabschnittGewinnverwendung",
+      "identisch": true,
+      "xml_zeichen": 37,
+      "pdf_zeichen": 37,
+      "sha256_xml_text": "47c888d5d75ba9f7454580d8ad7240a27ae1dd7a9b62a81e1178dd22721e6c4b",
+      "sha256_pdf_text": "47c888d5d75ba9f7454580d8ad7240a27ae1dd7a9b62a81e1178dd22721e6c4b"
+    },
+    {
+      "index": 219,
+      "name": "§ 174",
+      "identisch": true,
+      "xml_zeichen": 473,
+      "pdf_zeichen": 473,
+      "sha256_xml_text": "360e074ee9b49d528efdcf01773b7e50e198243302e69d1a77523d12d27154b2",
+      "sha256_pdf_text": "360e074ee9b49d528efdcf01773b7e50e198243302e69d1a77523d12d27154b2"
+    },
+    {
+      "index": 220,
+      "name": "Dritter UnterabschnittOrdentliche\nHauptversammlung",
+      "identisch": true,
+      "xml_zeichen": 48,
+      "pdf_zeichen": 48,
+      "sha256_xml_text": "fae0911c6fef631d6401bc60d94efb39ab502cc7584da3be104ad7ecaeb32d64",
+      "sha256_pdf_text": "fae0911c6fef631d6401bc60d94efb39ab502cc7584da3be104ad7ecaeb32d64"
+    },
+    {
+      "index": 221,
+      "name": "§ 175",
+      "identisch": true,
+      "xml_zeichen": 2156,
+      "pdf_zeichen": 2156,
+      "sha256_xml_text": "7f94e7d5cbdbda027de6c508f9e58328354aa34c1abb9f2d415d464a4ffa46b3",
+      "sha256_pdf_text": "7f94e7d5cbdbda027de6c508f9e58328354aa34c1abb9f2d415d464a4ffa46b3"
+    },
+    {
+      "index": 222,
+      "name": "§ 176",
+      "identisch": true,
+      "xml_zeichen": 846,
+      "pdf_zeichen": 846,
+      "sha256_xml_text": "fb214a05c01367abaa36e80c0c7ec751e6d35cb11e05d3a80116c5b818124457",
+      "sha256_pdf_text": "fb214a05c01367abaa36e80c0c7ec751e6d35cb11e05d3a80116c5b818124457"
+    },
+    {
+      "index": 223,
+      "name": "Vierter AbschnittBekanntmachung des\nJahresabschlusses",
+      "identisch": true,
+      "xml_zeichen": 50,
+      "pdf_zeichen": 50,
+      "sha256_xml_text": "19ea5aebb9f4a99dffe0b8f8416a7a6d8da1124b5d72bb9e43c7bf3640128a6e",
+      "sha256_pdf_text": "19ea5aebb9f4a99dffe0b8f8416a7a6d8da1124b5d72bb9e43c7bf3640128a6e"
+    },
+    {
+      "index": 224,
+      "name": "§ 177",
+      "identisch": true,
+      "xml_zeichen": 5,
+      "pdf_zeichen": 5,
+      "sha256_xml_text": "8cc35a33db009d46f06c2e103cfdbeb077473357f245abd9bd68f0716a2e4823",
+      "sha256_pdf_text": "8cc35a33db009d46f06c2e103cfdbeb077473357f245abd9bd68f0716a2e4823"
+    },
+    {
+      "index": 225,
+      "name": "§ 178",
+      "identisch": true,
+      "xml_zeichen": 5,
+      "pdf_zeichen": 5,
+      "sha256_xml_text": "009867ed0b9e306dbc4945ba6188f3118ab4131125015ba146d06b88b648c15b",
+      "sha256_pdf_text": "009867ed0b9e306dbc4945ba6188f3118ab4131125015ba146d06b88b648c15b"
+    },
+    {
+      "index": 226,
+      "name": "Sechster TeilSatzungsänderung.\nMaßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+      "identisch": true,
+      "xml_zeichen": 81,
+      "pdf_zeichen": 81,
+      "sha256_xml_text": "0916e4a664f9248a8c984f85d3cd45d070a726227b80565826892816bb80a6ad",
+      "sha256_pdf_text": "0916e4a664f9248a8c984f85d3cd45d070a726227b80565826892816bb80a6ad"
+    },
+    {
+      "index": 227,
+      "name": "Erster AbschnittSatzungsänderung",
+      "identisch": true,
+      "xml_zeichen": 31,
+      "pdf_zeichen": 31,
+      "sha256_xml_text": "4965eb565638647c69c836eca58d75dbbaa05b7d5749f904f3a93e1af8025970",
+      "sha256_pdf_text": "4965eb565638647c69c836eca58d75dbbaa05b7d5749f904f3a93e1af8025970"
+    },
+    {
+      "index": 228,
+      "name": "§ 179",
+      "identisch": true,
+      "xml_zeichen": 783,
+      "pdf_zeichen": 783,
+      "sha256_xml_text": "fd300e34a8b18919ca5ee7d3182fae76d5c9b118c8f316b0d09a0f6009c4f446",
+      "sha256_pdf_text": "fd300e34a8b18919ca5ee7d3182fae76d5c9b118c8f316b0d09a0f6009c4f446"
+    },
+    {
+      "index": 229,
+      "name": "§ 179a",
+      "identisch": true,
+      "xml_zeichen": 1089,
+      "pdf_zeichen": 1089,
+      "sha256_xml_text": "0601c928693ab455406abb2595d4fbf59c20b91bd2b9dbdb4ea31ea31d7399eb",
+      "sha256_pdf_text": "0601c928693ab455406abb2595d4fbf59c20b91bd2b9dbdb4ea31ea31d7399eb"
+    },
+    {
+      "index": 230,
+      "name": "§ 180",
+      "identisch": true,
+      "xml_zeichen": 291,
+      "pdf_zeichen": 291,
+      "sha256_xml_text": "ebf0fa619d781cad37515cbffcfa4f93a411d7f74f12295c59a3150cea3c78fa",
+      "sha256_pdf_text": "ebf0fa619d781cad37515cbffcfa4f93a411d7f74f12295c59a3150cea3c78fa"
+    },
+    {
+      "index": 231,
+      "name": "§ 181",
+      "identisch": true,
+      "xml_zeichen": 640,
+      "pdf_zeichen": 640,
+      "sha256_xml_text": "108b62fdfb272efe187e4fcc7742ff5684c8e4ebb26911922066de68dae1f471",
+      "sha256_pdf_text": "108b62fdfb272efe187e4fcc7742ff5684c8e4ebb26911922066de68dae1f471"
+    },
+    {
+      "index": 232,
+      "name": "Zweiter AbschnittMaßnahmen der\nKapitalbeschaffung",
+      "identisch": true,
+      "xml_zeichen": 46,
+      "pdf_zeichen": 46,
+      "sha256_xml_text": "e9671dc4000f3500b7953c76c6f5a5e910fbf3f0f9b57c7109f19ef86d246fa3",
+      "sha256_pdf_text": "e9671dc4000f3500b7953c76c6f5a5e910fbf3f0f9b57c7109f19ef86d246fa3"
+    },
+    {
+      "index": 233,
+      "name": "Erster UnterabschnittKapitalerhöhung gegen Einlagen",
+      "identisch": true,
+      "xml_zeichen": 48,
+      "pdf_zeichen": 48,
+      "sha256_xml_text": "43877ca69524c4b4c70e0cd5255aba93509081bf805130a17f312b31c66439e1",
+      "sha256_pdf_text": "43877ca69524c4b4c70e0cd5255aba93509081bf805130a17f312b31c66439e1"
+    },
+    {
+      "index": 234,
+      "name": "§ 182",
+      "identisch": true,
+      "xml_zeichen": 1252,
+      "pdf_zeichen": 1252,
+      "sha256_xml_text": "451f8204318def4badfb481d648d910c8b707829e4568c05cb5c7f4c2a677ae6",
+      "sha256_pdf_text": "451f8204318def4badfb481d648d910c8b707829e4568c05cb5c7f4c2a677ae6"
+    },
+    {
+      "index": 235,
+      "name": "§ 183",
+      "identisch": true,
+      "xml_zeichen": 621,
+      "pdf_zeichen": 621,
+      "sha256_xml_text": "dc96fba69671c9ef2c6c1be364511e20fb78976df8d3579ac41bea913669d1d2",
+      "sha256_pdf_text": "dc96fba69671c9ef2c6c1be364511e20fb78976df8d3579ac41bea913669d1d2"
+    },
+    {
+      "index": 236,
+      "name": "§ 183a",
+      "identisch": true,
+      "xml_zeichen": 981,
+      "pdf_zeichen": 981,
+      "sha256_xml_text": "1355f15ab19f06463720eafb5a382c1ba0e35586ad8526f39b500d3891471bc6",
+      "sha256_pdf_text": "1355f15ab19f06463720eafb5a382c1ba0e35586ad8526f39b500d3891471bc6"
+    },
+    {
+      "index": 237,
+      "name": "§ 184",
+      "identisch": true,
+      "xml_zeichen": 910,
+      "pdf_zeichen": 910,
+      "sha256_xml_text": "d0b153a478b0306b2a75b86890bb4879e7185cf839d9801338f009375cb57206",
+      "sha256_pdf_text": "d0b153a478b0306b2a75b86890bb4879e7185cf839d9801338f009375cb57206"
+    },
+    {
+      "index": 238,
+      "name": "§ 185",
+      "identisch": true,
+      "xml_zeichen": 1255,
+      "pdf_zeichen": 1255,
+      "sha256_xml_text": "7e2b13a248ec911b71757ddb2f3094a685ece14228a69950f1e18fab840a39d1",
+      "sha256_pdf_text": "7e2b13a248ec911b71757ddb2f3094a685ece14228a69950f1e18fab840a39d1"
+    },
+    {
+      "index": 239,
+      "name": "§ 186",
+      "identisch": true,
+      "xml_zeichen": 2151,
+      "pdf_zeichen": 2151,
+      "sha256_xml_text": "e5ac59ab05b52f9fdae2a5c42639ee782b468b7a53dc7b24090af9cf8c2a6355",
+      "sha256_pdf_text": "e5ac59ab05b52f9fdae2a5c42639ee782b468b7a53dc7b24090af9cf8c2a6355"
+    },
+    {
+      "index": 240,
+      "name": "§ 187",
+      "identisch": true,
+      "xml_zeichen": 245,
+      "pdf_zeichen": 245,
+      "sha256_xml_text": "0b610fa0d7a47bc9b1ac2f973fde4c3613111c265ee583a1310bc790d06d6f74",
+      "sha256_pdf_text": "0b610fa0d7a47bc9b1ac2f973fde4c3613111c265ee583a1310bc790d06d6f74"
+    },
+    {
+      "index": 241,
+      "name": "§ 188",
+      "identisch": true,
+      "xml_zeichen": 913,
+      "pdf_zeichen": 913,
+      "sha256_xml_text": "7bbb3dc06ae01f51edf9ed8f5f5ad64a9855f60840c354c4fa29f4d28195367e",
+      "sha256_pdf_text": "7bbb3dc06ae01f51edf9ed8f5f5ad64a9855f60840c354c4fa29f4d28195367e"
+    },
+    {
+      "index": 242,
+      "name": "§ 189",
+      "identisch": true,
+      "xml_zeichen": 118,
+      "pdf_zeichen": 118,
+      "sha256_xml_text": "0f5790f207ba27f1b0ca26db6ab6f05e75fa9a65814df114a794df5340d6f262",
+      "sha256_pdf_text": "0f5790f207ba27f1b0ca26db6ab6f05e75fa9a65814df114a794df5340d6f262"
+    },
+    {
+      "index": 243,
+      "name": "§ 190",
+      "identisch": true,
+      "xml_zeichen": 18,
+      "pdf_zeichen": 18,
+      "sha256_xml_text": "a15fbacd521a1f694bf173820e6709622a9d7789dd6f330737fb7135bf7737b0",
+      "sha256_pdf_text": "a15fbacd521a1f694bf173820e6709622a9d7789dd6f330737fb7135bf7737b0"
+    },
+    {
+      "index": 244,
+      "name": "§ 191",
+      "identisch": true,
+      "xml_zeichen": 346,
+      "pdf_zeichen": 346,
+      "sha256_xml_text": "cd18f4794a868f57b100bc060fe860321117e11c0edd11f2976875da450045f8",
+      "sha256_pdf_text": "cd18f4794a868f57b100bc060fe860321117e11c0edd11f2976875da450045f8"
+    },
+    {
+      "index": 245,
+      "name": "Zweiter UnterabschnittBedingte\nKapitalerhöhung",
+      "identisch": true,
+      "xml_zeichen": 44,
+      "pdf_zeichen": 44,
+      "sha256_xml_text": "50be4bed5c12a3fdea64e61ad379755436f7dc150da2efa212134d98d48e9ff0",
+      "sha256_pdf_text": "50be4bed5c12a3fdea64e61ad379755436f7dc150da2efa212134d98d48e9ff0"
+    },
+    {
+      "index": 246,
+      "name": "§ 192",
+      "identisch": true,
+      "xml_zeichen": 1818,
+      "pdf_zeichen": 1818,
+      "sha256_xml_text": "8c5d5dd686375368a0acad458f70a8c144ffda71b764fd4940fb704277b34ce9",
+      "sha256_pdf_text": "8c5d5dd686375368a0acad458f70a8c144ffda71b764fd4940fb704277b34ce9"
+    },
+    {
+      "index": 247,
+      "name": "§ 193",
+      "identisch": true,
+      "xml_zeichen": 922,
+      "pdf_zeichen": 922,
+      "sha256_xml_text": "76cb16c1ff9f01a3a53a4885426ac0debc12f63135e24dffb0d6a201276f9da7",
+      "sha256_pdf_text": "76cb16c1ff9f01a3a53a4885426ac0debc12f63135e24dffb0d6a201276f9da7"
+    },
+    {
+      "index": 248,
+      "name": "§ 194",
+      "identisch": true,
+      "xml_zeichen": 983,
+      "pdf_zeichen": 983,
+      "sha256_xml_text": "83b00e28ec7646d479d4a20e76ccb9eb2b779c980645050160f5e99a45d6108f",
+      "sha256_pdf_text": "83b00e28ec7646d479d4a20e76ccb9eb2b779c980645050160f5e99a45d6108f"
+    },
+    {
+      "index": 249,
+      "name": "§ 195",
+      "identisch": true,
+      "xml_zeichen": 803,
+      "pdf_zeichen": 803,
+      "sha256_xml_text": "f5728abb973560b212b336e5afb9a6a37edac8771cf70c37305d4712f6ace1de",
+      "sha256_pdf_text": "f5728abb973560b212b336e5afb9a6a37edac8771cf70c37305d4712f6ace1de"
+    },
+    {
+      "index": 250,
+      "name": "§ 196",
+      "identisch": true,
+      "xml_zeichen": 18,
+      "pdf_zeichen": 18,
+      "sha256_xml_text": "43bbaae6dbca4f07a62fc3774a83d99be05e6cf856adf047446a128d1a38d75d",
+      "sha256_pdf_text": "43bbaae6dbca4f07a62fc3774a83d99be05e6cf856adf047446a128d1a38d75d"
+    },
+    {
+      "index": 251,
+      "name": "§ 197",
+      "identisch": true,
+      "xml_zeichen": 323,
+      "pdf_zeichen": 323,
+      "sha256_xml_text": "391e3a7d500e226bf5d4829a491da1178186e62d32834a90d759d896edca0a16",
+      "sha256_pdf_text": "391e3a7d500e226bf5d4829a491da1178186e62d32834a90d759d896edca0a16"
+    },
+    {
+      "index": 252,
+      "name": "§ 198",
+      "identisch": true,
+      "xml_zeichen": 945,
+      "pdf_zeichen": 945,
+      "sha256_xml_text": "e72d7599bb41c2a4996a956af6f4acc8ed50a2bd3c8a82b4395a4dacf3eac92a",
+      "sha256_pdf_text": "e72d7599bb41c2a4996a956af6f4acc8ed50a2bd3c8a82b4395a4dacf3eac92a"
+    },
+    {
+      "index": 253,
+      "name": "§ 199",
+      "identisch": true,
+      "xml_zeichen": 721,
+      "pdf_zeichen": 721,
+      "sha256_xml_text": "32ede546fb74af0342e124882360fcc9600af76659a95bac5e0664bae34c9035",
+      "sha256_pdf_text": "32ede546fb74af0342e124882360fcc9600af76659a95bac5e0664bae34c9035"
+    },
+    {
+      "index": 254,
+      "name": "§ 200",
+      "identisch": true,
+      "xml_zeichen": 97,
+      "pdf_zeichen": 97,
+      "sha256_xml_text": "218c59677f0ec397269823827d279a978a6505ee25d3cf9f1a08cbd2b8c06bab",
+      "sha256_pdf_text": "218c59677f0ec397269823827d279a978a6505ee25d3cf9f1a08cbd2b8c06bab"
+    },
+    {
+      "index": 255,
+      "name": "§ 201",
+      "identisch": true,
+      "xml_zeichen": 705,
+      "pdf_zeichen": 705,
+      "sha256_xml_text": "a6638b5a3fb812c5a41729dd22df1843f94e229bc94a75743b9b784b1400d819",
+      "sha256_pdf_text": "a6638b5a3fb812c5a41729dd22df1843f94e229bc94a75743b9b784b1400d819"
+    },
+    {
+      "index": 256,
+      "name": "Dritter UnterabschnittGenehmigtes\nKapital",
+      "identisch": true,
+      "xml_zeichen": 39,
+      "pdf_zeichen": 39,
+      "sha256_xml_text": "e96406ccfa8678fb95b55a6b57a75f20db85ddfa292c733233c50cd2a758f59f",
+      "sha256_pdf_text": "e96406ccfa8678fb95b55a6b57a75f20db85ddfa292c733233c50cd2a758f59f"
+    },
+    {
+      "index": 257,
+      "name": "§ 202",
+      "identisch": true,
+      "xml_zeichen": 924,
+      "pdf_zeichen": 924,
+      "sha256_xml_text": "de4ba070ce77e34424140cf90fa45ca33a157ac60f805bcab6e9f8fc24d4a09d",
+      "sha256_pdf_text": "de4ba070ce77e34424140cf90fa45ca33a157ac60f805bcab6e9f8fc24d4a09d"
+    },
+    {
+      "index": 258,
+      "name": "§ 203",
+      "identisch": true,
+      "xml_zeichen": 1009,
+      "pdf_zeichen": 1009,
+      "sha256_xml_text": "6335d4c655a5c23d395aa3092f3f4a1d300bfcd545affa46a887abdc7c0d8116",
+      "sha256_pdf_text": "6335d4c655a5c23d395aa3092f3f4a1d300bfcd545affa46a887abdc7c0d8116"
+    },
+    {
+      "index": 259,
+      "name": "§ 204",
+      "identisch": true,
+      "xml_zeichen": 1155,
+      "pdf_zeichen": 1155,
+      "sha256_xml_text": "1189c3fa95bc0aeb2b90419e81c987bad2c090b43ee3ec51539068364dde41c7",
+      "sha256_pdf_text": "1189c3fa95bc0aeb2b90419e81c987bad2c090b43ee3ec51539068364dde41c7"
+    },
+    {
+      "index": 260,
+      "name": "§ 205",
+      "identisch": true,
+      "xml_zeichen": 1460,
+      "pdf_zeichen": 1460,
+      "sha256_xml_text": "abb4f6517495891d22918723ae6549673aca61d3b36a99c680144dc0fc909d94",
+      "sha256_pdf_text": "abb4f6517495891d22918723ae6549673aca61d3b36a99c680144dc0fc909d94"
+    },
+    {
+      "index": 261,
+      "name": "§ 206",
+      "identisch": true,
+      "xml_zeichen": 550,
+      "pdf_zeichen": 550,
+      "sha256_xml_text": "fd8aa9dedb7ea4827e5de8c620345a820890086f099fac9d37d8003918271cb4",
+      "sha256_pdf_text": "fd8aa9dedb7ea4827e5de8c620345a820890086f099fac9d37d8003918271cb4"
+    },
+    {
+      "index": 262,
+      "name": "Vierter UnterabschnittKapitalerhöhung aus\nGesellschaftsmitteln",
+      "identisch": true,
+      "xml_zeichen": 59,
+      "pdf_zeichen": 59,
+      "sha256_xml_text": "ff86f13c4b4f92361cd5edfe6a83a8a5c1104e6e083677cd0b8e0baca7ec86e1",
+      "sha256_pdf_text": "ff86f13c4b4f92361cd5edfe6a83a8a5c1104e6e083677cd0b8e0baca7ec86e1"
+    },
+    {
+      "index": 263,
+      "name": "§ 207",
+      "identisch": true,
+      "xml_zeichen": 424,
+      "pdf_zeichen": 424,
+      "sha256_xml_text": "de756f23864a9b3196082329a02405e36fafe0950c4e38b9b88a229e4f363529",
+      "sha256_pdf_text": "de756f23864a9b3196082329a02405e36fafe0950c4e38b9b88a229e4f363529"
+    },
+    {
+      "index": 264,
+      "name": "§ 208",
+      "identisch": true,
+      "xml_zeichen": 1026,
+      "pdf_zeichen": 1026,
+      "sha256_xml_text": "1e61cdea5887cf51812d1982be6c88352f5988aa4018e765b0ccae96ec466209",
+      "sha256_pdf_text": "1e61cdea5887cf51812d1982be6c88352f5988aa4018e765b0ccae96ec466209"
+    },
+    {
+      "index": 265,
+      "name": "§ 209",
+      "identisch": true,
+      "xml_zeichen": 1647,
+      "pdf_zeichen": 1647,
+      "sha256_xml_text": "9d17342d22d0a6336fbf36394853af94bd3d6d4a59155c838d6c63b31a3df6b2",
+      "sha256_pdf_text": "9d17342d22d0a6336fbf36394853af94bd3d6d4a59155c838d6c63b31a3df6b2"
+    },
+    {
+      "index": 266,
+      "name": "§ 210",
+      "identisch": true,
+      "xml_zeichen": 967,
+      "pdf_zeichen": 967,
+      "sha256_xml_text": "99352c2e186789e48a5413c63cba69944cb841f7f61acb33d8510ffcfebcb8ef",
+      "sha256_pdf_text": "99352c2e186789e48a5413c63cba69944cb841f7f61acb33d8510ffcfebcb8ef"
+    },
+    {
+      "index": 267,
+      "name": "§ 211",
+      "identisch": true,
+      "xml_zeichen": 140,
+      "pdf_zeichen": 140,
+      "sha256_xml_text": "2e99075e0bf02cfa353ed030b2c8649927ea0dcd09220df6f8ee5693a342917e",
+      "sha256_pdf_text": "2e99075e0bf02cfa353ed030b2c8649927ea0dcd09220df6f8ee5693a342917e"
+    },
+    {
+      "index": 268,
+      "name": "§ 212",
+      "identisch": true,
+      "xml_zeichen": 174,
+      "pdf_zeichen": 174,
+      "sha256_xml_text": "a98d067990c375baefd8a7409c99d20567960d1135e7a44d66fe7563c0f18104",
+      "sha256_pdf_text": "a98d067990c375baefd8a7409c99d20567960d1135e7a44d66fe7563c0f18104"
+    },
+    {
+      "index": 269,
+      "name": "§ 213",
+      "identisch": true,
+      "xml_zeichen": 475,
+      "pdf_zeichen": 475,
+      "sha256_xml_text": "08c95e2493c684d87b634c843c414bab346e72f43839731c5fa98ddf8f268dcc",
+      "sha256_pdf_text": "08c95e2493c684d87b634c843c414bab346e72f43839731c5fa98ddf8f268dcc"
+    },
+    {
+      "index": 270,
+      "name": "§ 214",
+      "identisch": true,
+      "xml_zeichen": 1382,
+      "pdf_zeichen": 1382,
+      "sha256_xml_text": "58b2cabd8a4b00f3fb2f4ec9c3a0cd9228bb04823a7e9a860a17ad5023b1672f",
+      "sha256_pdf_text": "58b2cabd8a4b00f3fb2f4ec9c3a0cd9228bb04823a7e9a860a17ad5023b1672f"
+    },
+    {
+      "index": 271,
+      "name": "§ 215",
+      "identisch": true,
+      "xml_zeichen": 789,
+      "pdf_zeichen": 789,
+      "sha256_xml_text": "c797df491eb4176cabfa6a098af3f11d49aaf43ec43336580bd60939baeaef9d",
+      "sha256_pdf_text": "c797df491eb4176cabfa6a098af3f11d49aaf43ec43336580bd60939baeaef9d"
+    },
+    {
+      "index": 272,
+      "name": "§ 216",
+      "identisch": true,
+      "xml_zeichen": 951,
+      "pdf_zeichen": 951,
+      "sha256_xml_text": "623b2944c1af3ce829d92105bc7fc4c17e0de442c21a8427a8c6f26855f13653",
+      "sha256_pdf_text": "623b2944c1af3ce829d92105bc7fc4c17e0de442c21a8427a8c6f26855f13653"
+    },
+    {
+      "index": 273,
+      "name": "§ 217",
+      "identisch": true,
+      "xml_zeichen": 1078,
+      "pdf_zeichen": 1078,
+      "sha256_xml_text": "5dc0031a41759ee417658052ed9627257720c6269e889a15d23846b387c78689",
+      "sha256_pdf_text": "5dc0031a41759ee417658052ed9627257720c6269e889a15d23846b387c78689"
+    },
+    {
+      "index": 274,
+      "name": "§ 218",
+      "identisch": true,
+      "xml_zeichen": 439,
+      "pdf_zeichen": 439,
+      "sha256_xml_text": "76233ee7da78f50811bbdcee9c53223fcdc3ac96a2b34bd82c253d6f2e2c2866",
+      "sha256_pdf_text": "76233ee7da78f50811bbdcee9c53223fcdc3ac96a2b34bd82c253d6f2e2c2866"
+    },
+    {
+      "index": 275,
+      "name": "§ 219",
+      "identisch": true,
+      "xml_zeichen": 185,
+      "pdf_zeichen": 185,
+      "sha256_xml_text": "4e7fa57703efbe89775b3e74dffa59e2987e2dd851f571c01459b46361b030e1",
+      "sha256_pdf_text": "4e7fa57703efbe89775b3e74dffa59e2987e2dd851f571c01459b46361b030e1"
+    },
+    {
+      "index": 276,
+      "name": "§ 220",
+      "identisch": true,
+      "xml_zeichen": 394,
+      "pdf_zeichen": 394,
+      "sha256_xml_text": "7a1cbfe04c5666aca229ee35fc36a925ac92c213bfcfd77b79ee672208c0d980",
+      "sha256_pdf_text": "7a1cbfe04c5666aca229ee35fc36a925ac92c213bfcfd77b79ee672208c0d980"
+    },
+    {
+      "index": 277,
+      "name": "Fünfter UnterabschnittWandelschuldverschreibungen. Gewinnschuldverschreibungen",
+      "identisch": true,
+      "xml_zeichen": 76,
+      "pdf_zeichen": 76,
+      "sha256_xml_text": "a9bb763949d38fcd4f3633fb901b2a31fde2c5abf8d51e333b48cf7a3d349313",
+      "sha256_pdf_text": "a9bb763949d38fcd4f3633fb901b2a31fde2c5abf8d51e333b48cf7a3d349313"
+    },
+    {
+      "index": 278,
+      "name": "§ 221",
+      "identisch": true,
+      "xml_zeichen": 1119,
+      "pdf_zeichen": 1119,
+      "sha256_xml_text": "20b4d708a2fee254703bc68d1528d77238ef4418447bcc758fe7c672ca7f695d",
+      "sha256_pdf_text": "20b4d708a2fee254703bc68d1528d77238ef4418447bcc758fe7c672ca7f695d"
+    },
+    {
+      "index": 279,
+      "name": "Dritter AbschnittMaßnahmen der\nKapitalherabsetzung",
+      "identisch": true,
+      "xml_zeichen": 47,
+      "pdf_zeichen": 47,
+      "sha256_xml_text": "7f308947806ffa8539e8e62c87d0a80a42f8598d4523c43a26b3147d8a770188",
+      "sha256_pdf_text": "7f308947806ffa8539e8e62c87d0a80a42f8598d4523c43a26b3147d8a770188"
+    },
+    {
+      "index": 280,
+      "name": "Erster UnterabschnittOrdentliche\nKapitalherabsetzung",
+      "identisch": true,
+      "xml_zeichen": 50,
+      "pdf_zeichen": 50,
+      "sha256_xml_text": "534c55ddb61f63586da6a442f892f4d3864d660fe8405f6a9b41b3acde72256c",
+      "sha256_pdf_text": "534c55ddb61f63586da6a442f892f4d3864d660fe8405f6a9b41b3acde72256c"
+    },
+    {
+      "index": 281,
+      "name": "§ 222",
+      "identisch": true,
+      "xml_zeichen": 991,
+      "pdf_zeichen": 991,
+      "sha256_xml_text": "851edb30a8f822d3839246542b49b30137f892fd64575b36a1e728467c554789",
+      "sha256_pdf_text": "851edb30a8f822d3839246542b49b30137f892fd64575b36a1e728467c554789"
+    },
+    {
+      "index": 282,
+      "name": "§ 223",
+      "identisch": true,
+      "xml_zeichen": 166,
+      "pdf_zeichen": 166,
+      "sha256_xml_text": "6942114b5f7b8c2cb9a353a84f831826d9f46215a6506967b6214d72696abf7a",
+      "sha256_pdf_text": "6942114b5f7b8c2cb9a353a84f831826d9f46215a6506967b6214d72696abf7a"
+    },
+    {
+      "index": 283,
+      "name": "§ 224",
+      "identisch": true,
+      "xml_zeichen": 135,
+      "pdf_zeichen": 135,
+      "sha256_xml_text": "bf5025369354909bd41ae5350df03183c9baa065b1004820286a184446ef283f",
+      "sha256_pdf_text": "bf5025369354909bd41ae5350df03183c9baa065b1004820286a184446ef283f"
+    },
+    {
+      "index": 284,
+      "name": "§ 225",
+      "identisch": true,
+      "xml_zeichen": 1184,
+      "pdf_zeichen": 1184,
+      "sha256_xml_text": "77905352336df356fa5470a72e95c466a93c47582784694cafdde1242d9309ba",
+      "sha256_pdf_text": "77905352336df356fa5470a72e95c466a93c47582784694cafdde1242d9309ba"
+    },
+    {
+      "index": 285,
+      "name": "§ 226",
+      "identisch": true,
+      "xml_zeichen": 1555,
+      "pdf_zeichen": 1555,
+      "sha256_xml_text": "019336d7647ba47f8cae98bc8af7a6008777ff7e66cacb772511bf713b3c74a9",
+      "sha256_pdf_text": "019336d7647ba47f8cae98bc8af7a6008777ff7e66cacb772511bf713b3c74a9"
+    },
+    {
+      "index": 286,
+      "name": "§ 227",
+      "identisch": true,
+      "xml_zeichen": 286,
+      "pdf_zeichen": 286,
+      "sha256_xml_text": "dc996b6ab77bda78ce1d65db65fa0452c21b1492e902ac6fcb47a93c3fd16698",
+      "sha256_pdf_text": "dc996b6ab77bda78ce1d65db65fa0452c21b1492e902ac6fcb47a93c3fd16698"
+    },
+    {
+      "index": 287,
+      "name": "§ 228",
+      "identisch": true,
+      "xml_zeichen": 616,
+      "pdf_zeichen": 616,
+      "sha256_xml_text": "9037e20b75cade6baaefaa070b41fd561aa21d39867842b86a5c539da25fbfe6",
+      "sha256_pdf_text": "9037e20b75cade6baaefaa070b41fd561aa21d39867842b86a5c539da25fbfe6"
+    },
+    {
+      "index": 288,
+      "name": "Zweiter UnterabschnittVereinfachte\nKapitalherabsetzung",
+      "identisch": true,
+      "xml_zeichen": 52,
+      "pdf_zeichen": 52,
+      "sha256_xml_text": "f4b22777c8eb5c6693c1b225d9ccf7056785ad4b77f7b7be36d2d8d0a414bc40",
+      "sha256_pdf_text": "f4b22777c8eb5c6693c1b225d9ccf7056785ad4b77f7b7be36d2d8d0a414bc40"
+    },
+    {
+      "index": 289,
+      "name": "§ 229",
+      "identisch": true,
+      "xml_zeichen": 679,
+      "pdf_zeichen": 679,
+      "sha256_xml_text": "9aebcd5985e755715db6a666f3798cc1ad68f8494ea77991a6633e4e170a9379",
+      "sha256_pdf_text": "9aebcd5985e755715db6a666f3798cc1ad68f8494ea77991a6633e4e170a9379"
+    },
+    {
+      "index": 290,
+      "name": "§ 230",
+      "identisch": true,
+      "xml_zeichen": 525,
+      "pdf_zeichen": 525,
+      "sha256_xml_text": "f15005a2b46988bb5c7c0b6cf9f2e1c849d781e4673385308d4eac78bbf13ca0",
+      "sha256_pdf_text": "f15005a2b46988bb5c7c0b6cf9f2e1c849d781e4673385308d4eac78bbf13ca0"
+    },
+    {
+      "index": 291,
+      "name": "§ 231",
+      "identisch": true,
+      "xml_zeichen": 762,
+      "pdf_zeichen": 762,
+      "sha256_xml_text": "dbcc73968aed46d19d2de9a8402fd6a73d5a9946d90c32bc345d6a16c6c0e76b",
+      "sha256_pdf_text": "dbcc73968aed46d19d2de9a8402fd6a73d5a9946d90c32bc345d6a16c6c0e76b"
+    },
+    {
+      "index": 292,
+      "name": "§ 232",
+      "identisch": true,
+      "xml_zeichen": 421,
+      "pdf_zeichen": 421,
+      "sha256_xml_text": "fc031b14294ee168c13b565dc642cc2b388defcee673b3ea1c65b3ebe37884df",
+      "sha256_pdf_text": "fc031b14294ee168c13b565dc642cc2b388defcee673b3ea1c65b3ebe37884df"
+    },
+    {
+      "index": 293,
+      "name": "§ 233",
+      "identisch": true,
+      "xml_zeichen": 1391,
+      "pdf_zeichen": 1391,
+      "sha256_xml_text": "da374ac270ebba11434c3f0a2126a6421ad876901b0bb09cc0a8864dfeb3a2d3",
+      "sha256_pdf_text": "da374ac270ebba11434c3f0a2126a6421ad876901b0bb09cc0a8864dfeb3a2d3"
+    },
+    {
+      "index": 294,
+      "name": "§ 234",
+      "identisch": true,
+      "xml_zeichen": 676,
+      "pdf_zeichen": 676,
+      "sha256_xml_text": "66b61345a4f325c52803efd6265db83394fa029235a64c9e82effcdfd2b3c388",
+      "sha256_pdf_text": "66b61345a4f325c52803efd6265db83394fa029235a64c9e82effcdfd2b3c388"
+    },
+    {
+      "index": 295,
+      "name": "§ 235",
+      "identisch": true,
+      "xml_zeichen": 965,
+      "pdf_zeichen": 965,
+      "sha256_xml_text": "12e804fb19069f83a31a281014f749b289ee8649857e66e046fdd4d075a7d556",
+      "sha256_pdf_text": "12e804fb19069f83a31a281014f749b289ee8649857e66e046fdd4d075a7d556"
+    },
+    {
+      "index": 296,
+      "name": "§ 236",
+      "identisch": true,
+      "xml_zeichen": 301,
+      "pdf_zeichen": 301,
+      "sha256_xml_text": "cf55e4f965e4d040b979b1365817592bf7eb6b34f0f46f1ed6dd030a9d736ab5",
+      "sha256_pdf_text": "cf55e4f965e4d040b979b1365817592bf7eb6b34f0f46f1ed6dd030a9d736ab5"
+    },
+    {
+      "index": 297,
+      "name": "Dritter UnterabschnittKapitalherabsetzung durch Einziehung von Aktien. Ausnahme für Stückaktien",
+      "identisch": true,
+      "xml_zeichen": 87,
+      "pdf_zeichen": 87,
+      "sha256_xml_text": "e909f4702a89203a23c50b2d5a036a3de0979eea5c183cbf300addf901b5c10f",
+      "sha256_pdf_text": "e909f4702a89203a23c50b2d5a036a3de0979eea5c183cbf300addf901b5c10f"
+    },
+    {
+      "index": 298,
+      "name": "§ 237",
+      "identisch": true,
+      "xml_zeichen": 2095,
+      "pdf_zeichen": 2095,
+      "sha256_xml_text": "8ba0b82bd2486ba01284b151f71ccf4e8961c6b3f75e76a7b9527636b315f5ef",
+      "sha256_pdf_text": "8ba0b82bd2486ba01284b151f71ccf4e8961c6b3f75e76a7b9527636b315f5ef"
+    },
+    {
+      "index": 299,
+      "name": "§ 238",
+      "identisch": true,
+      "xml_zeichen": 486,
+      "pdf_zeichen": 486,
+      "sha256_xml_text": "309388fe9600de3da305ce246b53a0369dec8b71b7d5ebac4027ac763a4ba525",
+      "sha256_pdf_text": "309388fe9600de3da305ce246b53a0369dec8b71b7d5ebac4027ac763a4ba525"
+    },
+    {
+      "index": 300,
+      "name": "§ 239",
+      "identisch": true,
+      "xml_zeichen": 353,
+      "pdf_zeichen": 353,
+      "sha256_xml_text": "fc9eda1a9719cb625dbc2f018bd25e7501ad8558fff06005d47db03834164cf0",
+      "sha256_pdf_text": "fc9eda1a9719cb625dbc2f018bd25e7501ad8558fff06005d47db03834164cf0"
+    },
+    {
+      "index": 301,
+      "name": "Vierter UnterabschnittAusweis der\nKapitalherabsetzung",
+      "identisch": true,
+      "xml_zeichen": 50,
+      "pdf_zeichen": 50,
+      "sha256_xml_text": "3ec39b3b797201a16e29d296af727db3580f09ae0f81515a8ee4c547b6ec57b1",
+      "sha256_pdf_text": "3ec39b3b797201a16e29d296af727db3580f09ae0f81515a8ee4c547b6ec57b1"
+    },
+    {
+      "index": 302,
+      "name": "§ 240",
+      "identisch": true,
+      "xml_zeichen": 764,
+      "pdf_zeichen": 764,
+      "sha256_xml_text": "90d139f28ff585a6b10df26b8f8bc3bb2c55885e69ce1267ac0cfcb72c2ddf7e",
+      "sha256_pdf_text": "90d139f28ff585a6b10df26b8f8bc3bb2c55885e69ce1267ac0cfcb72c2ddf7e"
+    },
+    {
+      "index": 303,
+      "name": "Siebenter TeilNichtigkeit von\nHauptversammlungsbeschlüssen und des festgestellten\nJahresabschlusses. Sonderprüfung wegen unzulässiger\nUnterbewertung",
+      "identisch": true,
+      "xml_zeichen": 137,
+      "pdf_zeichen": 137,
+      "sha256_xml_text": "c51082ff611c5db4b544f92ff87df4c9a671999848749cc31980a96d90b869ce",
+      "sha256_pdf_text": "c51082ff611c5db4b544f92ff87df4c9a671999848749cc31980a96d90b869ce"
+    },
+    {
+      "index": 304,
+      "name": "Erster AbschnittNichtigkeit von\nHauptversammlungsbeschlüssen",
+      "identisch": true,
+      "xml_zeichen": 57,
+      "pdf_zeichen": 57,
+      "sha256_xml_text": "9a830121ffd716054fdeab837b848ff7c2f662933d5fe4463dc50d87de5c5460",
+      "sha256_pdf_text": "9a830121ffd716054fdeab837b848ff7c2f662933d5fe4463dc50d87de5c5460"
+    },
+    {
+      "index": 305,
+      "name": "Erster UnterabschnittAllgemeines",
+      "identisch": true,
+      "xml_zeichen": 31,
+      "pdf_zeichen": 31,
+      "sha256_xml_text": "c44726e0c7b9b806a01fb8c0f351a62b5c81f38a8774fc88f7b3e9082a66c781",
+      "sha256_pdf_text": "c44726e0c7b9b806a01fb8c0f351a62b5c81f38a8774fc88f7b3e9082a66c781"
+    },
+    {
+      "index": 306,
+      "name": "§ 241",
+      "identisch": true,
+      "xml_zeichen": 815,
+      "pdf_zeichen": 815,
+      "sha256_xml_text": "fbb29c17868b96114f2ecf6d5bd5233a8bfa39495eea1f56c9b2146954a7d0d2",
+      "sha256_pdf_text": "fbb29c17868b96114f2ecf6d5bd5233a8bfa39495eea1f56c9b2146954a7d0d2"
+    },
+    {
+      "index": 307,
+      "name": "§ 242",
+      "identisch": true,
+      "xml_zeichen": 1562,
+      "pdf_zeichen": 1562,
+      "sha256_xml_text": "92c9049bff6d9d8333ec861e0f7e6cb78dd8b9565c23250ce1a7b1be4dd52536",
+      "sha256_pdf_text": "92c9049bff6d9d8333ec861e0f7e6cb78dd8b9565c23250ce1a7b1be4dd52536"
+    },
+    {
+      "index": 308,
+      "name": "§ 243",
+      "identisch": true,
+      "xml_zeichen": 2099,
+      "pdf_zeichen": 2099,
+      "sha256_xml_text": "fe1790c72e160b7715fe7612486e2478b5068340866b34ed22e4846251ad21aa",
+      "sha256_pdf_text": "fe1790c72e160b7715fe7612486e2478b5068340866b34ed22e4846251ad21aa"
+    },
+    {
+      "index": 309,
+      "name": "§ 244",
+      "identisch": true,
+      "xml_zeichen": 528,
+      "pdf_zeichen": 528,
+      "sha256_xml_text": "14edc5c7a293ef27308ec33617fd243f11ac1e4d42c0a7a2b777eb82932b8b7e",
+      "sha256_pdf_text": "14edc5c7a293ef27308ec33617fd243f11ac1e4d42c0a7a2b777eb82932b8b7e"
+    },
+    {
+      "index": 310,
+      "name": "§ 245",
+      "identisch": true,
+      "xml_zeichen": 923,
+      "pdf_zeichen": 923,
+      "sha256_xml_text": "f2d932534ced970d22e63fc933ec46e09ba4f915af8824e42268c5a9650c029b",
+      "sha256_pdf_text": "f2d932534ced970d22e63fc933ec46e09ba4f915af8824e42268c5a9650c029b"
+    },
+    {
+      "index": 311,
+      "name": "§ 246",
+      "identisch": true,
+      "xml_zeichen": 1096,
+      "pdf_zeichen": 1096,
+      "sha256_xml_text": "e94d2ea7d02d55f00e0fc29ce6ac61da046f34fc5ae2cf5dd891e0ee1213fded",
+      "sha256_pdf_text": "e94d2ea7d02d55f00e0fc29ce6ac61da046f34fc5ae2cf5dd891e0ee1213fded"
+    },
+    {
+      "index": 312,
+      "name": "§ 246a",
+      "identisch": true,
+      "xml_zeichen": 2239,
+      "pdf_zeichen": 2239,
+      "sha256_xml_text": "773e7eec519b27043c5b7088cde03de812d4b6a91dbe28683c2311d936aae3b6",
+      "sha256_pdf_text": "773e7eec519b27043c5b7088cde03de812d4b6a91dbe28683c2311d936aae3b6"
+    },
+    {
+      "index": 313,
+      "name": "§ 247",
+      "identisch": true,
+      "xml_zeichen": 1530,
+      "pdf_zeichen": 1530,
+      "sha256_xml_text": "d107472450f4fc6851a949345b8a4256e489b6144723271ed2a0cc9b1749d6be",
+      "sha256_pdf_text": "d107472450f4fc6851a949345b8a4256e489b6144723271ed2a0cc9b1749d6be"
+    },
+    {
+      "index": 314,
+      "name": "§ 248",
+      "identisch": true,
+      "xml_zeichen": 680,
+      "pdf_zeichen": 680,
+      "sha256_xml_text": "3c7aab3fd46f123cb3a2e1996c4479377507983c0dc8c3f87dcb27624bcc78ed",
+      "sha256_pdf_text": "3c7aab3fd46f123cb3a2e1996c4479377507983c0dc8c3f87dcb27624bcc78ed"
+    },
+    {
+      "index": 315,
+      "name": "§ 248a",
+      "identisch": true,
+      "xml_zeichen": 221,
+      "pdf_zeichen": 221,
+      "sha256_xml_text": "0fd578639a53ec1b60a38bb5374cc01883ef300fb7ba7ec5b05a422dacc6bd8c",
+      "sha256_pdf_text": "0fd578639a53ec1b60a38bb5374cc01883ef300fb7ba7ec5b05a422dacc6bd8c"
+    },
+    {
+      "index": 316,
+      "name": "§ 249",
+      "identisch": true,
+      "xml_zeichen": 728,
+      "pdf_zeichen": 728,
+      "sha256_xml_text": "7728b2ab8897f45b80c75c0aedbc8bb2575d411a04b95be29c0aa6dcd50557c2",
+      "sha256_pdf_text": "7728b2ab8897f45b80c75c0aedbc8bb2575d411a04b95be29c0aa6dcd50557c2"
+    },
+    {
+      "index": 317,
+      "name": "Zweiter UnterabschnittNichtigkeit\nbestimmter Hauptversammlungsbeschlüsse",
+      "identisch": true,
+      "xml_zeichen": 69,
+      "pdf_zeichen": 69,
+      "sha256_xml_text": "f2ced816dafe16ff4e6009e6baf65e2dbc3a9ce0be03745b3aa919331ed9b455",
+      "sha256_pdf_text": "f2ced816dafe16ff4e6009e6baf65e2dbc3a9ce0be03745b3aa919331ed9b455"
+    },
+    {
+      "index": 318,
+      "name": "§ 250",
+      "identisch": true,
+      "xml_zeichen": 2212,
+      "pdf_zeichen": 2212,
+      "sha256_xml_text": "eaf31430d596f32a2d90836b3bd2d4c1a7a6a76ef7e435fedd2d9600c1c0e098",
+      "sha256_pdf_text": "eaf31430d596f32a2d90836b3bd2d4c1a7a6a76ef7e435fedd2d9600c1c0e098"
+    },
+    {
+      "index": 319,
+      "name": "§ 251",
+      "identisch": true,
+      "xml_zeichen": 977,
+      "pdf_zeichen": 977,
+      "sha256_xml_text": "082fe2b7af708aede8bf92a58d8336dd1c0dd0b1bb70a52db971b9fb1cf4dae9",
+      "sha256_pdf_text": "082fe2b7af708aede8bf92a58d8336dd1c0dd0b1bb70a52db971b9fb1cf4dae9"
+    },
+    {
+      "index": 320,
+      "name": "§ 252",
+      "identisch": true,
+      "xml_zeichen": 1087,
+      "pdf_zeichen": 1087,
+      "sha256_xml_text": "7b34987cb2f3399f89f0db2013fb792482cbe8f09bdceff63f6eb35930ca4059",
+      "sha256_pdf_text": "7b34987cb2f3399f89f0db2013fb792482cbe8f09bdceff63f6eb35930ca4059"
+    },
+    {
+      "index": 321,
+      "name": "§ 253",
+      "identisch": true,
+      "xml_zeichen": 479,
+      "pdf_zeichen": 479,
+      "sha256_xml_text": "3176ed2eb210faa9135e8eaecc2d20c3faaea46b4d24ff70a0698e6b2f4ff677",
+      "sha256_pdf_text": "3176ed2eb210faa9135e8eaecc2d20c3faaea46b4d24ff70a0698e6b2f4ff677"
+    },
+    {
+      "index": 322,
+      "name": "§ 254",
+      "identisch": true,
+      "xml_zeichen": 1053,
+      "pdf_zeichen": 1053,
+      "sha256_xml_text": "710cf4faa6a7aaa15b5d3dc55c4a4b6ca90ac390dcb373c501a5253470075bd9",
+      "sha256_pdf_text": "710cf4faa6a7aaa15b5d3dc55c4a4b6ca90ac390dcb373c501a5253470075bd9"
+    },
+    {
+      "index": 323,
+      "name": "§ 255",
+      "identisch": true,
+      "xml_zeichen": 2760,
+      "pdf_zeichen": 2760,
+      "sha256_xml_text": "f03fa29aac0cb23def36976b6a66f51af086e83c600e23c7c5a5db9cc190f4fd",
+      "sha256_pdf_text": "f03fa29aac0cb23def36976b6a66f51af086e83c600e23c7c5a5db9cc190f4fd"
+    },
+    {
+      "index": 324,
+      "name": "§ 255a",
+      "identisch": true,
+      "xml_zeichen": 2280,
+      "pdf_zeichen": 2280,
+      "sha256_xml_text": "61650f6231d725c58a027fe8c9f87c1830d89a90c750d1c9f1daa3a97fdbc40a",
+      "sha256_pdf_text": "61650f6231d725c58a027fe8c9f87c1830d89a90c750d1c9f1daa3a97fdbc40a"
+    },
+    {
+      "index": 325,
+      "name": "§ 255b",
+      "identisch": true,
+      "xml_zeichen": 2319,
+      "pdf_zeichen": 2319,
+      "sha256_xml_text": "1205d912176004f565bb5bf807e99520092d62a41e03a58be0037e8edb6b06cf",
+      "sha256_pdf_text": "1205d912176004f565bb5bf807e99520092d62a41e03a58be0037e8edb6b06cf"
+    },
+    {
+      "index": 326,
+      "name": "Zweiter AbschnittNichtigkeit des\nfestgestellten Jahresabschlusses",
+      "identisch": true,
+      "xml_zeichen": 61,
+      "pdf_zeichen": 61,
+      "sha256_xml_text": "ce3e86a86b8198ac73363a6558e09345734007247e7914bb558ae7752de9bf41",
+      "sha256_pdf_text": "ce3e86a86b8198ac73363a6558e09345734007247e7914bb558ae7752de9bf41"
+    },
+    {
+      "index": 327,
+      "name": "§ 256",
+      "identisch": true,
+      "xml_zeichen": 4097,
+      "pdf_zeichen": 4097,
+      "sha256_xml_text": "5340aeebb8ba4600de74640742642aac8155f0facbda4279baf7c3779aed3caa",
+      "sha256_pdf_text": "5340aeebb8ba4600de74640742642aac8155f0facbda4279baf7c3779aed3caa"
+    },
+    {
+      "index": 328,
+      "name": "§ 257",
+      "identisch": true,
+      "xml_zeichen": 457,
+      "pdf_zeichen": 457,
+      "sha256_xml_text": "03530d347debab0a5ab1894ec9cc0fce57b6caafae176a619db428254695b677",
+      "sha256_pdf_text": "03530d347debab0a5ab1894ec9cc0fce57b6caafae176a619db428254695b677"
+    },
+    {
+      "index": 329,
+      "name": "Dritter AbschnittSonderprüfung wegen\nunzulässiger Unterbewertung",
+      "identisch": true,
+      "xml_zeichen": 60,
+      "pdf_zeichen": 60,
+      "sha256_xml_text": "bd5bd2d1eafd8a205c5c31a92b5ff783d804a7cda7d73555fd8deb908cc8b2aa",
+      "sha256_pdf_text": "bd5bd2d1eafd8a205c5c31a92b5ff783d804a7cda7d73555fd8deb908cc8b2aa"
+    },
+    {
+      "index": 330,
+      "name": "§ 258",
+      "identisch": true,
+      "xml_zeichen": 2799,
+      "pdf_zeichen": 2799,
+      "sha256_xml_text": "cf8cedfce65a64bdbe3663526b3b740471d70d3486640048306003cdf639fee2",
+      "sha256_pdf_text": "cf8cedfce65a64bdbe3663526b3b740471d70d3486640048306003cdf639fee2"
+    },
+    {
+      "index": 331,
+      "name": "§ 259",
+      "identisch": true,
+      "xml_zeichen": 2428,
+      "pdf_zeichen": 2428,
+      "sha256_xml_text": "909c60a78e6e17fe11196b3b5d26f35a4fe81273a777cec4fb835dd4538804df",
+      "sha256_pdf_text": "909c60a78e6e17fe11196b3b5d26f35a4fe81273a777cec4fb835dd4538804df"
+    },
+    {
+      "index": 332,
+      "name": "§ 260",
+      "identisch": true,
+      "xml_zeichen": 1837,
+      "pdf_zeichen": 1837,
+      "sha256_xml_text": "571971ec51a33ae37eb66c3e12983699e33ad10399b1fc16b9c00c29c022f87f",
+      "sha256_pdf_text": "571971ec51a33ae37eb66c3e12983699e33ad10399b1fc16b9c00c29c022f87f"
+    },
+    {
+      "index": 333,
+      "name": "§ 261",
+      "identisch": true,
+      "xml_zeichen": 2327,
+      "pdf_zeichen": 2327,
+      "sha256_xml_text": "f0da57faee3f144bb4e895a2da712ac5afe9249c80676b40d44dcf842397f79e",
+      "sha256_pdf_text": "f0da57faee3f144bb4e895a2da712ac5afe9249c80676b40d44dcf842397f79e"
+    },
+    {
+      "index": 334,
+      "name": "§ 261a",
+      "identisch": true,
+      "xml_zeichen": 679,
+      "pdf_zeichen": 679,
+      "sha256_xml_text": "1c85e643087f275e7ac98d515c2be4dd340ed61a59ddfc24ca21eb69aadc2377",
+      "sha256_pdf_text": "1c85e643087f275e7ac98d515c2be4dd340ed61a59ddfc24ca21eb69aadc2377"
+    },
+    {
+      "index": 335,
+      "name": "Achter TeilAuflösung und Nichtigerklärung\nder Gesellschaft",
+      "identisch": true,
+      "xml_zeichen": 53,
+      "pdf_zeichen": 53,
+      "sha256_xml_text": "b9f8727498c87dd1e02964880ab0ef3fb166c3d17f5644dbeb48f4ce3d749fc3",
+      "sha256_pdf_text": "b9f8727498c87dd1e02964880ab0ef3fb166c3d17f5644dbeb48f4ce3d749fc3"
+    },
+    {
+      "index": 336,
+      "name": "Erster AbschnittAuflösung",
+      "identisch": true,
+      "xml_zeichen": 24,
+      "pdf_zeichen": 24,
+      "sha256_xml_text": "e678bceb12cce95903e1b1f6a1c3992fc603a82ce07c2a20f8777a44716b2317",
+      "sha256_pdf_text": "e678bceb12cce95903e1b1f6a1c3992fc603a82ce07c2a20f8777a44716b2317"
+    },
+    {
+      "index": 337,
+      "name": "Erster UnterabschnittAuflösungsgründe\nund Anmeldung",
+      "identisch": true,
+      "xml_zeichen": 48,
+      "pdf_zeichen": 48,
+      "sha256_xml_text": "744074600a665203454aeb6f23a1694817c16065a06a71fdd4665686ed893d30",
+      "sha256_pdf_text": "744074600a665203454aeb6f23a1694817c16065a06a71fdd4665686ed893d30"
+    },
+    {
+      "index": 338,
+      "name": "§ 262",
+      "identisch": true,
+      "xml_zeichen": 937,
+      "pdf_zeichen": 937,
+      "sha256_xml_text": "a601912f85f86002cf048ce9ad66eecad48e9b04ad77379824ac8704b56f8acf",
+      "sha256_pdf_text": "a601912f85f86002cf048ce9ad66eecad48e9b04ad77379824ac8704b56f8acf"
+    },
+    {
+      "index": 339,
+      "name": "§ 263",
+      "identisch": true,
+      "xml_zeichen": 463,
+      "pdf_zeichen": 463,
+      "sha256_xml_text": "f9e0b76c0636f5bbbdbb7de92fb5e0a953d140c37a5cc3de374fc3b5cc8027d5",
+      "sha256_pdf_text": "f9e0b76c0636f5bbbdbb7de92fb5e0a953d140c37a5cc3de374fc3b5cc8027d5"
+    },
+    {
+      "index": 340,
+      "name": "Zweiter UnterabschnittAbwicklung",
+      "identisch": true,
+      "xml_zeichen": 31,
+      "pdf_zeichen": 31,
+      "sha256_xml_text": "b6b7ef0789fedb1a9aae6c6ae4f859cc322c1199a740396d59dc9c2c79fa36a3",
+      "sha256_pdf_text": "b6b7ef0789fedb1a9aae6c6ae4f859cc322c1199a740396d59dc9c2c79fa36a3"
+    },
+    {
+      "index": 341,
+      "name": "§ 264",
+      "identisch": true,
+      "xml_zeichen": 627,
+      "pdf_zeichen": 627,
+      "sha256_xml_text": "7483c7972581857388c21d723e15e60b5b8e1cb1592e089fff410caca7b842f8",
+      "sha256_pdf_text": "7483c7972581857388c21d723e15e60b5b8e1cb1592e089fff410caca7b842f8"
+    },
+    {
+      "index": 342,
+      "name": "§ 265",
+      "identisch": true,
+      "xml_zeichen": 1428,
+      "pdf_zeichen": 1428,
+      "sha256_xml_text": "252ae8c77f9c11ae271ae4153a960049a98c7d9faea4cb42d246b115762092fb",
+      "sha256_pdf_text": "252ae8c77f9c11ae271ae4153a960049a98c7d9faea4cb42d246b115762092fb"
+    },
+    {
+      "index": 343,
+      "name": "§ 266",
+      "identisch": true,
+      "xml_zeichen": 698,
+      "pdf_zeichen": 698,
+      "sha256_xml_text": "afec8cafca875bbe3f0ed9c19d75ee54d5afbdeea411bdb60254a7bc2ed6da94",
+      "sha256_pdf_text": "afec8cafca875bbe3f0ed9c19d75ee54d5afbdeea411bdb60254a7bc2ed6da94"
+    },
+    {
+      "index": 344,
+      "name": "§ 267",
+      "identisch": true,
+      "xml_zeichen": 205,
+      "pdf_zeichen": 205,
+      "sha256_xml_text": "f4733613d2c9c99d22e7b13ae3dca438ce20fc14acce663586704d499a4ca080",
+      "sha256_pdf_text": "f4733613d2c9c99d22e7b13ae3dca438ce20fc14acce663586704d499a4ca080"
+    },
+    {
+      "index": 345,
+      "name": "§ 268",
+      "identisch": true,
+      "xml_zeichen": 1381,
+      "pdf_zeichen": 1381,
+      "sha256_xml_text": "ea9813bec854f433376577d4b533a4810664c7e9c37323529a6bf747f74a48b9",
+      "sha256_pdf_text": "ea9813bec854f433376577d4b533a4810664c7e9c37323529a6bf747f74a48b9"
+    },
+    {
+      "index": 346,
+      "name": "§ 269",
+      "identisch": true,
+      "xml_zeichen": 1094,
+      "pdf_zeichen": 1094,
+      "sha256_xml_text": "a98a363f4cd1011f89ee80cdb0c9c3badf5d344398dc3fb20ca40d3cc0621026",
+      "sha256_pdf_text": "a98a363f4cd1011f89ee80cdb0c9c3badf5d344398dc3fb20ca40d3cc0621026"
+    },
+    {
+      "index": 347,
+      "name": "§ 270",
+      "identisch": true,
+      "xml_zeichen": 1036,
+      "pdf_zeichen": 1036,
+      "sha256_xml_text": "e10a965288bb73ed987f22e88197a98756cbc1faf5e01ff52e6fc85ffc562a7e",
+      "sha256_pdf_text": "e10a965288bb73ed987f22e88197a98756cbc1faf5e01ff52e6fc85ffc562a7e"
+    },
+    {
+      "index": 348,
+      "name": "§ 271",
+      "identisch": true,
+      "xml_zeichen": 639,
+      "pdf_zeichen": 639,
+      "sha256_xml_text": "aa24115905744fbd196cb65bd2cb94feeb77dc8004e603471ebd7f38b6b0572a",
+      "sha256_pdf_text": "aa24115905744fbd196cb65bd2cb94feeb77dc8004e603471ebd7f38b6b0572a"
+    },
+    {
+      "index": 349,
+      "name": "§ 272",
+      "identisch": true,
+      "xml_zeichen": 408,
+      "pdf_zeichen": 408,
+      "sha256_xml_text": "abdd63f95f9b229dd285df3ae260cee9135181f4d2e93c4ace5424e07046a4f3",
+      "sha256_pdf_text": "abdd63f95f9b229dd285df3ae260cee9135181f4d2e93c4ace5424e07046a4f3"
+    },
+    {
+      "index": 350,
+      "name": "§ 273",
+      "identisch": true,
+      "xml_zeichen": 667,
+      "pdf_zeichen": 667,
+      "sha256_xml_text": "b3fb30116c4a3a9a2c2150d28e39d88b505c60aade6ab48922523fec3c030953",
+      "sha256_pdf_text": "b3fb30116c4a3a9a2c2150d28e39d88b505c60aade6ab48922523fec3c030953"
+    },
+    {
+      "index": 351,
+      "name": "§ 274",
+      "identisch": true,
+      "xml_zeichen": 1484,
+      "pdf_zeichen": 1484,
+      "sha256_xml_text": "d40dc3493d2da329d347dd371155b311e4915abfced6fdb2c125a93b6eba7df6",
+      "sha256_pdf_text": "d40dc3493d2da329d347dd371155b311e4915abfced6fdb2c125a93b6eba7df6"
+    },
+    {
+      "index": 352,
+      "name": "Zweiter AbschnittNichtigerklärung der\nGesellschaft",
+      "identisch": true,
+      "xml_zeichen": 47,
+      "pdf_zeichen": 47,
+      "sha256_xml_text": "7cef80868341558323e6291602d52095e655324958b1bb002e0beab6ad17e6de",
+      "sha256_pdf_text": "7cef80868341558323e6291602d52095e655324958b1bb002e0beab6ad17e6de"
+    },
+    {
+      "index": 353,
+      "name": "§ 275",
+      "identisch": true,
+      "xml_zeichen": 1104,
+      "pdf_zeichen": 1104,
+      "sha256_xml_text": "98a7dfcfa7ad6510363befbfd066817dec6401c8faa5ae97a6d70400d47f9644",
+      "sha256_pdf_text": "98a7dfcfa7ad6510363befbfd066817dec6401c8faa5ae97a6d70400d47f9644"
+    },
+    {
+      "index": 354,
+      "name": "§ 276",
+      "identisch": true,
+      "xml_zeichen": 183,
+      "pdf_zeichen": 183,
+      "sha256_xml_text": "3dcc9373dacbf6c4af30061ebd3c559e4c75c00b6de5496de31aaa0d1213ea6c",
+      "sha256_pdf_text": "3dcc9373dacbf6c4af30061ebd3c559e4c75c00b6de5496de31aaa0d1213ea6c"
+    },
+    {
+      "index": 355,
+      "name": "§ 277",
+      "identisch": true,
+      "xml_zeichen": 466,
+      "pdf_zeichen": 466,
+      "sha256_xml_text": "3bbf998f0a044386d1b7b927c3c91e8053b28d878c5cb3b3a8d18d5699cc8a6b",
+      "sha256_pdf_text": "3bbf998f0a044386d1b7b927c3c91e8053b28d878c5cb3b3a8d18d5699cc8a6b"
+    },
+    {
+      "index": 356,
+      "name": "Zweites BuchKommanditgesellschaft auf Aktien",
+      "identisch": true,
+      "xml_zeichen": 41,
+      "pdf_zeichen": 41,
+      "sha256_xml_text": "739746c3f65ae4214a9d4654db36737da1c6598a8bdbe5c6a9729822bcd963db",
+      "sha256_pdf_text": "739746c3f65ae4214a9d4654db36737da1c6598a8bdbe5c6a9729822bcd963db"
+    },
+    {
+      "index": 357,
+      "name": "§ 278",
+      "identisch": true,
+      "xml_zeichen": 965,
+      "pdf_zeichen": 965,
+      "sha256_xml_text": "77bd0ac935c807cf2dc2716e21dbe5f1e2087e07a1c23b9fd3ee4a6e8834e889",
+      "sha256_pdf_text": "77bd0ac935c807cf2dc2716e21dbe5f1e2087e07a1c23b9fd3ee4a6e8834e889"
+    },
+    {
+      "index": 358,
+      "name": "§ 279",
+      "identisch": true,
+      "xml_zeichen": 547,
+      "pdf_zeichen": 547,
+      "sha256_xml_text": "284d337a794a5eafbb8bb833f4a75a5e59c154991f980fcc85adf9fc3d28db13",
+      "sha256_pdf_text": "284d337a794a5eafbb8bb833f4a75a5e59c154991f980fcc85adf9fc3d28db13"
+    },
+    {
+      "index": 359,
+      "name": "§ 280",
+      "identisch": true,
+      "xml_zeichen": 643,
+      "pdf_zeichen": 643,
+      "sha256_xml_text": "cbf8aeaaf5e1944a2e810da84834fcba751bde281a4207f6cfcae2e6c1d68e2a",
+      "sha256_pdf_text": "cbf8aeaaf5e1944a2e810da84834fcba751bde281a4207f6cfcae2e6c1d68e2a"
+    },
+    {
+      "index": 360,
+      "name": "§ 281",
+      "identisch": true,
+      "xml_zeichen": 367,
+      "pdf_zeichen": 367,
+      "sha256_xml_text": "111b010885f3b7d354a117e3d93e3e27a93f61ee032eaebe1e62463edde3c609",
+      "sha256_pdf_text": "111b010885f3b7d354a117e3d93e3e27a93f61ee032eaebe1e62463edde3c609"
+    },
+    {
+      "index": 361,
+      "name": "§ 282",
+      "identisch": true,
+      "xml_zeichen": 315,
+      "pdf_zeichen": 315,
+      "sha256_xml_text": "4575661865dc559eb2ffecb710ec5d1c3487302a092adae13a762fb0788622ca",
+      "sha256_pdf_text": "4575661865dc559eb2ffecb710ec5d1c3487302a092adae13a762fb0788622ca"
+    },
+    {
+      "index": 362,
+      "name": "§ 283",
+      "identisch": true,
+      "xml_zeichen": 1336,
+      "pdf_zeichen": 1336,
+      "sha256_xml_text": "2edfd094fc958617df8223ce9c42db4d0458e7bb9c9e625193eff5959c7f53f1",
+      "sha256_pdf_text": "2edfd094fc958617df8223ce9c42db4d0458e7bb9c9e625193eff5959c7f53f1"
+    },
+    {
+      "index": 363,
+      "name": "§ 284",
+      "identisch": true,
+      "xml_zeichen": 1220,
+      "pdf_zeichen": 1220,
+      "sha256_xml_text": "bc2750aa5b7a34d0db3fdfdf8a740ea56b3cf7cdd371b8119b7f5119313ba9b8",
+      "sha256_pdf_text": "bc2750aa5b7a34d0db3fdfdf8a740ea56b3cf7cdd371b8119b7f5119313ba9b8"
+    },
+    {
+      "index": 364,
+      "name": "§ 285",
+      "identisch": true,
+      "xml_zeichen": 1411,
+      "pdf_zeichen": 1411,
+      "sha256_xml_text": "a8555207d4b9a9fb7c20c1f636d69ee79d7c0faea5d82f48a1032e312b8f0909",
+      "sha256_pdf_text": "a8555207d4b9a9fb7c20c1f636d69ee79d7c0faea5d82f48a1032e312b8f0909"
+    },
+    {
+      "index": 365,
+      "name": "§ 286",
+      "identisch": true,
+      "xml_zeichen": 1605,
+      "pdf_zeichen": 1605,
+      "sha256_xml_text": "751f3dc6f8ea848864583b2e896dd2dd80cf0ab3a4aff1fe660eba6f65b48f67",
+      "sha256_pdf_text": "751f3dc6f8ea848864583b2e896dd2dd80cf0ab3a4aff1fe660eba6f65b48f67"
+    },
+    {
+      "index": 366,
+      "name": "§ 287",
+      "identisch": true,
+      "xml_zeichen": 640,
+      "pdf_zeichen": 640,
+      "sha256_xml_text": "828198efd63e31c3b69dc744fa2ad3d066e056d7719f6fd73d4a490bbad66647",
+      "sha256_pdf_text": "828198efd63e31c3b69dc744fa2ad3d066e056d7719f6fd73d4a490bbad66647"
+    },
+    {
+      "index": 367,
+      "name": "§ 288",
+      "identisch": true,
+      "xml_zeichen": 1061,
+      "pdf_zeichen": 1061,
+      "sha256_xml_text": "97dd5b220eb9c7cff8b99f1b17e8bcc0946d14dc1d9052fe7eef41f50ca0cefa",
+      "sha256_pdf_text": "97dd5b220eb9c7cff8b99f1b17e8bcc0946d14dc1d9052fe7eef41f50ca0cefa"
+    },
+    {
+      "index": 368,
+      "name": "§ 289",
+      "identisch": true,
+      "xml_zeichen": 1943,
+      "pdf_zeichen": 1943,
+      "sha256_xml_text": "44a7b6acbe5c3359cd1d88d0cae4f6bc57b851a7e1ff91ab5be73bfe0b17542d",
+      "sha256_pdf_text": "44a7b6acbe5c3359cd1d88d0cae4f6bc57b851a7e1ff91ab5be73bfe0b17542d"
+    },
+    {
+      "index": 369,
+      "name": "§ 290",
+      "identisch": true,
+      "xml_zeichen": 595,
+      "pdf_zeichen": 595,
+      "sha256_xml_text": "aa20240c86dfde376aac2092d97b7fba1a365967ac30ea30bd2f2e16a2df7446",
+      "sha256_pdf_text": "aa20240c86dfde376aac2092d97b7fba1a365967ac30ea30bd2f2e16a2df7446"
+    },
+    {
+      "index": 370,
+      "name": "Drittes BuchVerbundene Unternehmen",
+      "identisch": true,
+      "xml_zeichen": 32,
+      "pdf_zeichen": 32,
+      "sha256_xml_text": "f6b1dbc7a2eb023a61ca56374d702a65775b8006bc61c0cef269d959f6327b2b",
+      "sha256_pdf_text": "f6b1dbc7a2eb023a61ca56374d702a65775b8006bc61c0cef269d959f6327b2b"
+    },
+    {
+      "index": 371,
+      "name": "Erster TeilUnternehmensverträge",
+      "identisch": true,
+      "xml_zeichen": 30,
+      "pdf_zeichen": 30,
+      "sha256_xml_text": "2335a9779024c9e543b4b2e7645a74016f1c3fabf24d9c342be6df53f6cc7c13",
+      "sha256_pdf_text": "2335a9779024c9e543b4b2e7645a74016f1c3fabf24d9c342be6df53f6cc7c13"
+    },
+    {
+      "index": 372,
+      "name": "Erster AbschnittArten von\nUnternehmensverträgen",
+      "identisch": true,
+      "xml_zeichen": 44,
+      "pdf_zeichen": 44,
+      "sha256_xml_text": "41623ede9e2b6974c7118a53d68b100e2953cc9c5889acdfe71bb1c88c1b7b11",
+      "sha256_pdf_text": "41623ede9e2b6974c7118a53d68b100e2953cc9c5889acdfe71bb1c88c1b7b11"
+    },
+    {
+      "index": 373,
+      "name": "§ 291",
+      "identisch": true,
+      "xml_zeichen": 879,
+      "pdf_zeichen": 879,
+      "sha256_xml_text": "1833633503d3d907ac11ff91730f7b2d33abd9ffcf0c972887c1ddfa984a025e",
+      "sha256_pdf_text": "1833633503d3d907ac11ff91730f7b2d33abd9ffcf0c972887c1ddfa984a025e"
+    },
+    {
+      "index": 374,
+      "name": "§ 292",
+      "identisch": true,
+      "xml_zeichen": 1145,
+      "pdf_zeichen": 1145,
+      "sha256_xml_text": "f4960b4cddcfc8228d91645c3cf97f76a3e105042cb6d4365c523472d7363520",
+      "sha256_pdf_text": "f4960b4cddcfc8228d91645c3cf97f76a3e105042cb6d4365c523472d7363520"
+    },
+    {
+      "index": 375,
+      "name": "Zweiter AbschnittAbschluß, Änderung\nund Beendigung von Unternehmensverträgen",
+      "identisch": true,
+      "xml_zeichen": 70,
+      "pdf_zeichen": 70,
+      "sha256_xml_text": "b187b4768c3b92e03509bfcf706de41106c8774929d287e6ccd9c29efa5fa895",
+      "sha256_pdf_text": "b187b4768c3b92e03509bfcf706de41106c8774929d287e6ccd9c29efa5fa895"
+    },
+    {
+      "index": 376,
+      "name": "§ 293",
+      "identisch": true,
+      "xml_zeichen": 688,
+      "pdf_zeichen": 688,
+      "sha256_xml_text": "cb27af436e6cab7b7a4d01900b6966b70aec5cdf17c3fe62128f2bbda0a58a9c",
+      "sha256_pdf_text": "cb27af436e6cab7b7a4d01900b6966b70aec5cdf17c3fe62128f2bbda0a58a9c"
+    },
+    {
+      "index": 377,
+      "name": "§ 293a",
+      "identisch": true,
+      "xml_zeichen": 1084,
+      "pdf_zeichen": 1084,
+      "sha256_xml_text": "fece767983f331a1c6f7c6c3e35f4a68f903349aa3a9c902b5780b6b5aae5aba",
+      "sha256_pdf_text": "fece767983f331a1c6f7c6c3e35f4a68f903349aa3a9c902b5780b6b5aae5aba"
+    },
+    {
+      "index": 378,
+      "name": "§ 293b",
+      "identisch": true,
+      "xml_zeichen": 343,
+      "pdf_zeichen": 343,
+      "sha256_xml_text": "c70f0a0f5d4dac9c00e6655f404c99091e44ed8361f67192ed81f799b2ed4806",
+      "sha256_pdf_text": "c70f0a0f5d4dac9c00e6655f404c99091e44ed8361f67192ed81f799b2ed4806"
+    },
+    {
+      "index": 379,
+      "name": "§ 293c",
+      "identisch": true,
+      "xml_zeichen": 604,
+      "pdf_zeichen": 604,
+      "sha256_xml_text": "967bad1d8ea4c0aa2937ea0911b9317fe870142b4640c800c1909a063883c26b",
+      "sha256_pdf_text": "967bad1d8ea4c0aa2937ea0911b9317fe870142b4640c800c1909a063883c26b"
+    },
+    {
+      "index": 380,
+      "name": "§ 293d",
+      "identisch": true,
+      "xml_zeichen": 1164,
+      "pdf_zeichen": 1164,
+      "sha256_xml_text": "e52234cb836a1527aa746e6dd40b2b5cf0b1a57d612eff2dda5dc012299c0966",
+      "sha256_pdf_text": "e52234cb836a1527aa746e6dd40b2b5cf0b1a57d612eff2dda5dc012299c0966"
+    },
+    {
+      "index": 381,
+      "name": "§ 293e",
+      "identisch": true,
+      "xml_zeichen": 823,
+      "pdf_zeichen": 823,
+      "sha256_xml_text": "3e38294afc7e0db1e55a4f2703661d2896ec10be03e3c2c70d76e872cbb9541d",
+      "sha256_pdf_text": "3e38294afc7e0db1e55a4f2703661d2896ec10be03e3c2c70d76e872cbb9541d"
+    },
+    {
+      "index": 382,
+      "name": "§ 293f",
+      "identisch": true,
+      "xml_zeichen": 766,
+      "pdf_zeichen": 766,
+      "sha256_xml_text": "44bc5839b49209e20c82e28e3121a681218ac3c6b8d4415131a4ee87b3d4a2ee",
+      "sha256_pdf_text": "44bc5839b49209e20c82e28e3121a681218ac3c6b8d4415131a4ee87b3d4a2ee"
+    },
+    {
+      "index": 383,
+      "name": "§ 293g",
+      "identisch": true,
+      "xml_zeichen": 392,
+      "pdf_zeichen": 392,
+      "sha256_xml_text": "461e9a3240b8eeffcc83634c3ed3f1712a9cb6ac968602ddcf15ba45aadcfabc",
+      "sha256_pdf_text": "461e9a3240b8eeffcc83634c3ed3f1712a9cb6ac968602ddcf15ba45aadcfabc"
+    },
+    {
+      "index": 384,
+      "name": "§ 294",
+      "identisch": true,
+      "xml_zeichen": 722,
+      "pdf_zeichen": 722,
+      "sha256_xml_text": "95b0f434f93a3c493f0c7da976a088fd77f30b7e574880c25a4ad5c78499cbba",
+      "sha256_pdf_text": "95b0f434f93a3c493f0c7da976a088fd77f30b7e574880c25a4ad5c78499cbba"
+    },
+    {
+      "index": 385,
+      "name": "§ 295",
+      "identisch": true,
+      "xml_zeichen": 618,
+      "pdf_zeichen": 618,
+      "sha256_xml_text": "fa95b8535d345b9c21bff07ec3c72671910989a24ae65ed99f127fd9c20fe795",
+      "sha256_pdf_text": "fa95b8535d345b9c21bff07ec3c72671910989a24ae65ed99f127fd9c20fe795"
+    },
+    {
+      "index": 386,
+      "name": "§ 296",
+      "identisch": true,
+      "xml_zeichen": 475,
+      "pdf_zeichen": 475,
+      "sha256_xml_text": "4bcf6666cbceca89f2a7fc63cf1105f9f81b2afda4cd8afdadb19ce731f2b3c4",
+      "sha256_pdf_text": "4bcf6666cbceca89f2a7fc63cf1105f9f81b2afda4cd8afdadb19ce731f2b3c4"
+    },
+    {
+      "index": 387,
+      "name": "§ 297",
+      "identisch": true,
+      "xml_zeichen": 622,
+      "pdf_zeichen": 622,
+      "sha256_xml_text": "b7304203065ad775503116614a80b54132044a1b892ba792dec66460a4843bce",
+      "sha256_pdf_text": "b7304203065ad775503116614a80b54132044a1b892ba792dec66460a4843bce"
+    },
+    {
+      "index": 388,
+      "name": "§ 298",
+      "identisch": true,
+      "xml_zeichen": 186,
+      "pdf_zeichen": 186,
+      "sha256_xml_text": "7a151b918b0e5a33e21afd254742e533b2c755d5688b76ec3e65d6c848cf7433",
+      "sha256_pdf_text": "7a151b918b0e5a33e21afd254742e533b2c755d5688b76ec3e65d6c848cf7433"
+    },
+    {
+      "index": 389,
+      "name": "§ 299",
+      "identisch": true,
+      "xml_zeichen": 159,
+      "pdf_zeichen": 159,
+      "sha256_xml_text": "46d771d10e9c0135e77f784c8fe0248ab270500b9aa7d043ebf8cf28a0fdf0d7",
+      "sha256_pdf_text": "46d771d10e9c0135e77f784c8fe0248ab270500b9aa7d043ebf8cf28a0fdf0d7"
+    },
+    {
+      "index": 390,
+      "name": "Dritter AbschnittSicherung der\nGesellschaft und der Gläubiger",
+      "identisch": true,
+      "xml_zeichen": 55,
+      "pdf_zeichen": 55,
+      "sha256_xml_text": "25e59a88b650c97d96a073d2ca654b9fa1acbab1f4a845b5005290c898fc8e6b",
+      "sha256_pdf_text": "25e59a88b650c97d96a073d2ca654b9fa1acbab1f4a845b5005290c898fc8e6b"
+    },
+    {
+      "index": 391,
+      "name": "§ 300",
+      "identisch": true,
+      "xml_zeichen": 1104,
+      "pdf_zeichen": 1104,
+      "sha256_xml_text": "477181498643f3f3e4932e2badc5a98e83232afac99397c42bf39f1110651868",
+      "sha256_pdf_text": "477181498643f3f3e4932e2badc5a98e83232afac99397c42bf39f1110651868"
+    },
+    {
+      "index": 392,
+      "name": "§ 301",
+      "identisch": true,
+      "xml_zeichen": 573,
+      "pdf_zeichen": 573,
+      "sha256_xml_text": "ee9deb9fff467ceab0efc87769a869ad28c9b55205c86647abaec7642da5075a",
+      "sha256_pdf_text": "ee9deb9fff467ceab0efc87769a869ad28c9b55205c86647abaec7642da5075a"
+    },
+    {
+      "index": 393,
+      "name": "§ 302",
+      "identisch": true,
+      "xml_zeichen": 1473,
+      "pdf_zeichen": 1473,
+      "sha256_xml_text": "de958f279cff7f6afa0c3f4dc0515462733a8ea4208f5bbf2ca25365a7b5899c",
+      "sha256_pdf_text": "de958f279cff7f6afa0c3f4dc0515462733a8ea4208f5bbf2ca25365a7b5899c"
+    },
+    {
+      "index": 394,
+      "name": "§ 303",
+      "identisch": true,
+      "xml_zeichen": 868,
+      "pdf_zeichen": 868,
+      "sha256_xml_text": "9ad94ac2ef9e7de03ae22c2fc86942e58bed5d3e87f1e819b316f95fb92c49dd",
+      "sha256_pdf_text": "9ad94ac2ef9e7de03ae22c2fc86942e58bed5d3e87f1e819b316f95fb92c49dd"
+    },
+    {
+      "index": 395,
+      "name": "Vierter AbschnittSicherung der\naußenstehenden Aktionäre bei Beherrschungs- und\nGewinnabführungsverträgen",
+      "identisch": true,
+      "xml_zeichen": 96,
+      "pdf_zeichen": 96,
+      "sha256_xml_text": "8ad23eb799cfbee3600206b3692e488ad15227aab00a10117e735ad96dfeea19",
+      "sha256_pdf_text": "8ad23eb799cfbee3600206b3692e488ad15227aab00a10117e735ad96dfeea19"
+    },
+    {
+      "index": 396,
+      "name": "§ 304",
+      "identisch": true,
+      "xml_zeichen": 2177,
+      "pdf_zeichen": 2177,
+      "sha256_xml_text": "32a4c103fb86c0febb24695e1e10674cdf63dff49177ad88e6c474898b33ed4e",
+      "sha256_pdf_text": "32a4c103fb86c0febb24695e1e10674cdf63dff49177ad88e6c474898b33ed4e"
+    },
+    {
+      "index": 397,
+      "name": "§ 305",
+      "identisch": true,
+      "xml_zeichen": 3013,
+      "pdf_zeichen": 3013,
+      "sha256_xml_text": "650cd995009c0e904129a0f664aeb67eb5d51eb300ebc0ed6e46f3a7ee864bb6",
+      "sha256_pdf_text": "650cd995009c0e904129a0f664aeb67eb5d51eb300ebc0ed6e46f3a7ee864bb6"
+    },
+    {
+      "index": 398,
+      "name": "§ 306",
+      "identisch": true,
+      "xml_zeichen": 17,
+      "pdf_zeichen": 17,
+      "sha256_xml_text": "197512fba87fe6712217e55f8d6ededd9cf17270ffdbd0772db70d09b325acbc",
+      "sha256_pdf_text": "197512fba87fe6712217e55f8d6ededd9cf17270ffdbd0772db70d09b325acbc"
+    },
+    {
+      "index": 399,
+      "name": "§ 307",
+      "identisch": true,
+      "xml_zeichen": 299,
+      "pdf_zeichen": 299,
+      "sha256_xml_text": "487d9a2c63148508396efd337247060cccdf8b2c0de434b44a78f21c828af04f",
+      "sha256_pdf_text": "487d9a2c63148508396efd337247060cccdf8b2c0de434b44a78f21c828af04f"
+    },
+    {
+      "index": 400,
+      "name": "Zweiter TeilLeitungsmacht und\nVerantwortlichkeit bei Abhängigkeit von Unternehmen",
+      "identisch": true,
+      "xml_zeichen": 74,
+      "pdf_zeichen": 74,
+      "sha256_xml_text": "3faf31eb1f0875bf9709d7a2b43f2a91d88ec6e3d7665c258def1d6243396e1f",
+      "sha256_pdf_text": "3faf31eb1f0875bf9709d7a2b43f2a91d88ec6e3d7665c258def1d6243396e1f"
+    },
+    {
+      "index": 401,
+      "name": "Erster AbschnittLeitungsmacht und\nVerantwortlichkeit bei Bestehen eines Beherrschungsvertrags",
+      "identisch": true,
+      "xml_zeichen": 86,
+      "pdf_zeichen": 86,
+      "sha256_xml_text": "61bcb8848b3ff2137bc9ddc93af299935d68001eb956a4c34380005e8237e631",
+      "sha256_pdf_text": "61bcb8848b3ff2137bc9ddc93af299935d68001eb956a4c34380005e8237e631"
+    },
+    {
+      "index": 402,
+      "name": "§ 308",
+      "identisch": true,
+      "xml_zeichen": 1190,
+      "pdf_zeichen": 1190,
+      "sha256_xml_text": "eb8fff225333912ec8be9b79a9d3220a85e6b4779310ca6620446edfac4dea30",
+      "sha256_pdf_text": "eb8fff225333912ec8be9b79a9d3220a85e6b4779310ca6620446edfac4dea30"
+    },
+    {
+      "index": 403,
+      "name": "§ 309",
+      "identisch": true,
+      "xml_zeichen": 1744,
+      "pdf_zeichen": 1744,
+      "sha256_xml_text": "f63edc62144213e23e6f42719db4ef84e4055457e6809440a7cd7bf43ccc9128",
+      "sha256_pdf_text": "f63edc62144213e23e6f42719db4ef84e4055457e6809440a7cd7bf43ccc9128"
+    },
+    {
+      "index": 404,
+      "name": "§ 310",
+      "identisch": true,
+      "xml_zeichen": 623,
+      "pdf_zeichen": 623,
+      "sha256_xml_text": "e4db5d8d1a55056d5553a8f965bfa3f6d8579e993d95b08143f1ab67b08eb5fe",
+      "sha256_pdf_text": "e4db5d8d1a55056d5553a8f965bfa3f6d8579e993d95b08143f1ab67b08eb5fe"
+    },
+    {
+      "index": 405,
+      "name": "Zweiter AbschnittVerantwortlichkeit\nbei Fehlen eines Beherrschungsvertrags",
+      "identisch": true,
+      "xml_zeichen": 69,
+      "pdf_zeichen": 69,
+      "sha256_xml_text": "b7cc56a2cd01f009809cf35426993ea1217c8413012566e241bb47e8cf2c8f6c",
+      "sha256_pdf_text": "b7cc56a2cd01f009809cf35426993ea1217c8413012566e241bb47e8cf2c8f6c"
+    },
+    {
+      "index": 406,
+      "name": "§ 311",
+      "identisch": true,
+      "xml_zeichen": 715,
+      "pdf_zeichen": 715,
+      "sha256_xml_text": "66a8b470005d8b79a4bedccbb6e644da91ce6eebd2a35e36b6bcdc7f17db6996",
+      "sha256_pdf_text": "66a8b470005d8b79a4bedccbb6e644da91ce6eebd2a35e36b6bcdc7f17db6996"
+    },
+    {
+      "index": 407,
+      "name": "§ 312",
+      "identisch": true,
+      "xml_zeichen": 1504,
+      "pdf_zeichen": 1504,
+      "sha256_xml_text": "edaaf481f291e12aa041d4e873ae60e734bdbd2c134fccd442d451ce9b3893ce",
+      "sha256_pdf_text": "edaaf481f291e12aa041d4e873ae60e734bdbd2c134fccd442d451ce9b3893ce"
+    },
+    {
+      "index": 408,
+      "name": "§ 313",
+      "identisch": true,
+      "xml_zeichen": 2652,
+      "pdf_zeichen": 2652,
+      "sha256_xml_text": "89da43d26b9d70402f64b46c9a80808e7c30f3d0297fdf9a9c2489565ddf8d50",
+      "sha256_pdf_text": "89da43d26b9d70402f64b46c9a80808e7c30f3d0297fdf9a9c2489565ddf8d50"
+    },
+    {
+      "index": 409,
+      "name": "§ 314",
+      "identisch": true,
+      "xml_zeichen": 1367,
+      "pdf_zeichen": 1367,
+      "sha256_xml_text": "ef7982f190c0ee5a561efaf5d2d77ba706ab5f2ac3209fb26a00e1613624fc19",
+      "sha256_pdf_text": "ef7982f190c0ee5a561efaf5d2d77ba706ab5f2ac3209fb26a00e1613624fc19"
+    },
+    {
+      "index": 410,
+      "name": "§ 315",
+      "identisch": true,
+      "xml_zeichen": 1191,
+      "pdf_zeichen": 1191,
+      "sha256_xml_text": "c8a4a40d300bb1114083784871a469a3d6ebdf46ef1b0a672fe67c802accd4fa",
+      "sha256_pdf_text": "c8a4a40d300bb1114083784871a469a3d6ebdf46ef1b0a672fe67c802accd4fa"
+    },
+    {
+      "index": 411,
+      "name": "§ 316",
+      "identisch": true,
+      "xml_zeichen": 203,
+      "pdf_zeichen": 203,
+      "sha256_xml_text": "53fb947d8592ed429b16626e47c23a57c4fe40d2950abd723efacb68c49399dc",
+      "sha256_pdf_text": "53fb947d8592ed429b16626e47c23a57c4fe40d2950abd723efacb68c49399dc"
+    },
+    {
+      "index": 412,
+      "name": "§ 317",
+      "identisch": true,
+      "xml_zeichen": 1097,
+      "pdf_zeichen": 1097,
+      "sha256_xml_text": "c6426f1fba3eca797d08823d541b0585907002557e0a7f2f19a7b0aa4a1fea3d",
+      "sha256_pdf_text": "c6426f1fba3eca797d08823d541b0585907002557e0a7f2f19a7b0aa4a1fea3d"
+    },
+    {
+      "index": 413,
+      "name": "§ 318",
+      "identisch": true,
+      "xml_zeichen": 1134,
+      "pdf_zeichen": 1134,
+      "sha256_xml_text": "4016dd0d260bc96f9deea0bc7be7c2eb985c8bc0a7f4362eeb73b2672d1f5281",
+      "sha256_pdf_text": "4016dd0d260bc96f9deea0bc7be7c2eb985c8bc0a7f4362eeb73b2672d1f5281"
+    },
+    {
+      "index": 414,
+      "name": "Dritter TeilEingegliederte Gesellschaften",
+      "identisch": true,
+      "xml_zeichen": 39,
+      "pdf_zeichen": 39,
+      "sha256_xml_text": "97ebcf0f4fac9c7c94c9077088b11b1b4be456f0dd1f9108b24d22170db5e143",
+      "sha256_pdf_text": "97ebcf0f4fac9c7c94c9077088b11b1b4be456f0dd1f9108b24d22170db5e143"
+    },
+    {
+      "index": 415,
+      "name": "§ 319",
+      "identisch": true,
+      "xml_zeichen": 4619,
+      "pdf_zeichen": 4619,
+      "sha256_xml_text": "cc12e57546aebea3dd909a650affaef49e4d6327f43aaed678c343b1e212081f",
+      "sha256_pdf_text": "cc12e57546aebea3dd909a650affaef49e4d6327f43aaed678c343b1e212081f"
+    },
+    {
+      "index": 416,
+      "name": "§ 320",
+      "identisch": true,
+      "xml_zeichen": 1775,
+      "pdf_zeichen": 1775,
+      "sha256_xml_text": "d0fd47ec9e694e41af6552f4ab27e98fd33b0bf7efcc5ff9cb1eb3299f8d9438",
+      "sha256_pdf_text": "d0fd47ec9e694e41af6552f4ab27e98fd33b0bf7efcc5ff9cb1eb3299f8d9438"
+    },
+    {
+      "index": 417,
+      "name": "§ 320a",
+      "identisch": true,
+      "xml_zeichen": 291,
+      "pdf_zeichen": 291,
+      "sha256_xml_text": "cc135b597300d6464ce419d33725b56905bebed8bdfc1d2d279f4660771c771a",
+      "sha256_pdf_text": "cc135b597300d6464ce419d33725b56905bebed8bdfc1d2d279f4660771c771a"
+    },
+    {
+      "index": 418,
+      "name": "§ 320b",
+      "identisch": true,
+      "xml_zeichen": 1697,
+      "pdf_zeichen": 1697,
+      "sha256_xml_text": "bce141f6469b301a1a97a3dc1c96a77943a454d8a851570cc9a0f28469c242ac",
+      "sha256_pdf_text": "bce141f6469b301a1a97a3dc1c96a77943a454d8a851570cc9a0f28469c242ac"
+    },
+    {
+      "index": 419,
+      "name": "§ 321",
+      "identisch": true,
+      "xml_zeichen": 630,
+      "pdf_zeichen": 630,
+      "sha256_xml_text": "06c5beb615ac9b2ae113330a735157ccf4574b1103cf88d2a539b82b6c22e6d9",
+      "sha256_pdf_text": "06c5beb615ac9b2ae113330a735157ccf4574b1103cf88d2a539b82b6c22e6d9"
+    },
+    {
+      "index": 420,
+      "name": "§ 322",
+      "identisch": true,
+      "xml_zeichen": 1118,
+      "pdf_zeichen": 1118,
+      "sha256_xml_text": "df9228006b8243e8da965bbfab0207e1d5c32387e254079f6a74fedcf74d2d4b",
+      "sha256_pdf_text": "df9228006b8243e8da965bbfab0207e1d5c32387e254079f6a74fedcf74d2d4b"
+    },
+    {
+      "index": 421,
+      "name": "§ 323",
+      "identisch": true,
+      "xml_zeichen": 399,
+      "pdf_zeichen": 399,
+      "sha256_xml_text": "fe5af27c363f77d2e59df2dde8a1de334ca082843bb0918faef32de54a740a79",
+      "sha256_pdf_text": "fe5af27c363f77d2e59df2dde8a1de334ca082843bb0918faef32de54a740a79"
+    },
+    {
+      "index": 422,
+      "name": "§ 324",
+      "identisch": true,
+      "xml_zeichen": 875,
+      "pdf_zeichen": 875,
+      "sha256_xml_text": "375f9a2db22db8791c584f178ea4e70de29f051fa4dd7fef24f2f0a30e79fc72",
+      "sha256_pdf_text": "375f9a2db22db8791c584f178ea4e70de29f051fa4dd7fef24f2f0a30e79fc72"
+    },
+    {
+      "index": 423,
+      "name": "§ 325",
+      "identisch": true,
+      "xml_zeichen": 5,
+      "pdf_zeichen": 5,
+      "sha256_xml_text": "c8b3be04dfe32b4911a84391f91418c0e04544abedae7d2ec9efa8b66e39348a",
+      "sha256_pdf_text": "c8b3be04dfe32b4911a84391f91418c0e04544abedae7d2ec9efa8b66e39348a"
+    },
+    {
+      "index": 424,
+      "name": "§ 326",
+      "identisch": true,
+      "xml_zeichen": 202,
+      "pdf_zeichen": 202,
+      "sha256_xml_text": "11709c60277ca273e5edbcaa40c03bdbe47d4890eca03fa121fd8f065963797a",
+      "sha256_pdf_text": "11709c60277ca273e5edbcaa40c03bdbe47d4890eca03fa121fd8f065963797a"
+    },
+    {
+      "index": 425,
+      "name": "§ 327",
+      "identisch": true,
+      "xml_zeichen": 1612,
+      "pdf_zeichen": 1612,
+      "sha256_xml_text": "aaaad2e33b18674f28e848a5609a1d9a94746b9624069605b92227fccdd6f714",
+      "sha256_pdf_text": "aaaad2e33b18674f28e848a5609a1d9a94746b9624069605b92227fccdd6f714"
+    },
+    {
+      "index": 426,
+      "name": "Vierter TeilAusschluss von Minderheitsaktionären",
+      "identisch": true,
+      "xml_zeichen": 45,
+      "pdf_zeichen": 45,
+      "sha256_xml_text": "f0c6fe8328b736dfb84745df0dd250132a0f6ca45719babe5f798f53ecb75881",
+      "sha256_pdf_text": "f0c6fe8328b736dfb84745df0dd250132a0f6ca45719babe5f798f53ecb75881"
+    },
+    {
+      "index": 427,
+      "name": "§ 327a",
+      "identisch": true,
+      "xml_zeichen": 500,
+      "pdf_zeichen": 500,
+      "sha256_xml_text": "505e52638da08045c603185f0755fe1e489b48d7951ed737cd682d476448750a",
+      "sha256_pdf_text": "505e52638da08045c603185f0755fe1e489b48d7951ed737cd682d476448750a"
+    },
+    {
+      "index": 428,
+      "name": "§ 327b",
+      "identisch": true,
+      "xml_zeichen": 947,
+      "pdf_zeichen": 947,
+      "sha256_xml_text": "109397b94b43bbc3bef5a0e26d72c43a863e14cde5a0bf299fb0dbf4409815fb",
+      "sha256_pdf_text": "109397b94b43bbc3bef5a0e26d72c43a863e14cde5a0bf299fb0dbf4409815fb"
+    },
+    {
+      "index": 429,
+      "name": "§ 327c",
+      "identisch": true,
+      "xml_zeichen": 1269,
+      "pdf_zeichen": 1269,
+      "sha256_xml_text": "abd667255715e2464853efc767dccc09fcf08c3c16c9d24e48eb2e4d595f66fd",
+      "sha256_pdf_text": "abd667255715e2464853efc767dccc09fcf08c3c16c9d24e48eb2e4d595f66fd"
+    },
+    {
+      "index": 430,
+      "name": "§ 327d",
+      "identisch": true,
+      "xml_zeichen": 280,
+      "pdf_zeichen": 280,
+      "sha256_xml_text": "d66abb3ce9e57db6c8d46c69a6fc25413b28d3c58a751ad01b30f43e2b0e4e37",
+      "sha256_pdf_text": "d66abb3ce9e57db6c8d46c69a6fc25413b28d3c58a751ad01b30f43e2b0e4e37"
+    },
+    {
+      "index": 431,
+      "name": "§ 327e",
+      "identisch": true,
+      "xml_zeichen": 545,
+      "pdf_zeichen": 545,
+      "sha256_xml_text": "1b6fd1d3a081e1b618ef32199450e9e62cd70505cfd01f6ef3bce3f85226db71",
+      "sha256_pdf_text": "1b6fd1d3a081e1b618ef32199450e9e62cd70505cfd01f6ef3bce3f85226db71"
+    },
+    {
+      "index": 432,
+      "name": "§ 327f",
+      "identisch": true,
+      "xml_zeichen": 552,
+      "pdf_zeichen": 552,
+      "sha256_xml_text": "57d0850b36961f227c90c2fa3d2da9deda5ecdd1c89a6479450d49acde779d3b",
+      "sha256_pdf_text": "57d0850b36961f227c90c2fa3d2da9deda5ecdd1c89a6479450d49acde779d3b"
+    },
+    {
+      "index": 433,
+      "name": "Fünfter TeilWechselseitig\nbeteiligte Unternehmen",
+      "identisch": true,
+      "xml_zeichen": 45,
+      "pdf_zeichen": 45,
+      "sha256_xml_text": "4552ca9668c32d04525aa828c909805de7d405d129607947af5aaaca1bd7fcae",
+      "sha256_pdf_text": "4552ca9668c32d04525aa828c909805de7d405d129607947af5aaaca1bd7fcae"
+    },
+    {
+      "index": 434,
+      "name": "§ 328",
+      "identisch": true,
+      "xml_zeichen": 1247,
+      "pdf_zeichen": 1247,
+      "sha256_xml_text": "68a8290f8e2ed9d4861216afd252bd3484c90dada02c0fe5adfad9cfa3c50f37",
+      "sha256_pdf_text": "68a8290f8e2ed9d4861216afd252bd3484c90dada02c0fe5adfad9cfa3c50f37"
+    },
+    {
+      "index": 435,
+      "name": "Sechster TeilRechnungslegung im Konzern",
+      "identisch": true,
+      "xml_zeichen": 36,
+      "pdf_zeichen": 36,
+      "sha256_xml_text": "060ca9116899730345fae2d1d3bc8b58d0cc10a59dc2c4fe387c68d89090e42d",
+      "sha256_pdf_text": "060ca9116899730345fae2d1d3bc8b58d0cc10a59dc2c4fe387c68d89090e42d"
+    },
+    {
+      "index": 436,
+      "name": "§§ 329 bis 336",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "1cdfff618e43e939424e1b96aa5ad7bbe0e26f6f541c7e7d1bf922cb041e54fd",
+      "sha256_pdf_text": "1cdfff618e43e939424e1b96aa5ad7bbe0e26f6f541c7e7d1bf922cb041e54fd"
+    },
+    {
+      "index": 437,
+      "name": "§ 337",
+      "identisch": true,
+      "xml_zeichen": 17,
+      "pdf_zeichen": 17,
+      "sha256_xml_text": "645bd0bdc41c3fee0a294a368cd3576040e26f7f7c8f338b6c5aaa45946a8f1d",
+      "sha256_pdf_text": "645bd0bdc41c3fee0a294a368cd3576040e26f7f7c8f338b6c5aaa45946a8f1d"
+    },
+    {
+      "index": 438,
+      "name": "§ 338",
+      "identisch": true,
+      "xml_zeichen": 5,
+      "pdf_zeichen": 5,
+      "sha256_xml_text": "adb2ec83014fee5d82ac186cfab2b8541283071790e717cffbd83133d0edd421",
+      "sha256_pdf_text": "adb2ec83014fee5d82ac186cfab2b8541283071790e717cffbd83133d0edd421"
+    },
+    {
+      "index": 439,
+      "name": "Viertes BuchSonder-, Straf- und Schlußvorschriften",
+      "identisch": true,
+      "xml_zeichen": 46,
+      "pdf_zeichen": 46,
+      "sha256_xml_text": "79d5cc08ae16664ed5020c44f50a0a07add04a19462db79c080d2984b49658a2",
+      "sha256_pdf_text": "79d5cc08ae16664ed5020c44f50a0a07add04a19462db79c080d2984b49658a2"
+    },
+    {
+      "index": 440,
+      "name": "Erster TeilSondervorschriften bei Beteiligung von Gebietskörperschaften",
+      "identisch": true,
+      "xml_zeichen": 66,
+      "pdf_zeichen": 66,
+      "sha256_xml_text": "e7bba6c6da1d51ec783e983ee52bd2c3bdb3abd59a8a4eabb95d1ec6daa0821c",
+      "sha256_pdf_text": "e7bba6c6da1d51ec783e983ee52bd2c3bdb3abd59a8a4eabb95d1ec6daa0821c"
+    },
+    {
+      "index": 441,
+      "name": "§ 393a",
+      "identisch": true,
+      "xml_zeichen": 1728,
+      "pdf_zeichen": 1728,
+      "sha256_xml_text": "0678bbd89fd09686e63ea0402093ecc3c650705b87e4f58baa16a4047f27e15e",
+      "sha256_pdf_text": "0678bbd89fd09686e63ea0402093ecc3c650705b87e4f58baa16a4047f27e15e"
+    },
+    {
+      "index": 442,
+      "name": "§ 394",
+      "identisch": true,
+      "xml_zeichen": 549,
+      "pdf_zeichen": 549,
+      "sha256_xml_text": "fcf11e86e2f35c466af29e1a4d508bf9c8383474c2ab7c42b674bc93790efd23",
+      "sha256_pdf_text": "fcf11e86e2f35c466af29e1a4d508bf9c8383474c2ab7c42b674bc93790efd23"
+    },
+    {
+      "index": 443,
+      "name": "§ 395",
+      "identisch": true,
+      "xml_zeichen": 711,
+      "pdf_zeichen": 711,
+      "sha256_xml_text": "acbfeab9140a9283bbe3f15e50e00171908b3dce2a3f07071c05c264027dd961",
+      "sha256_pdf_text": "acbfeab9140a9283bbe3f15e50e00171908b3dce2a3f07071c05c264027dd961"
+    },
+    {
+      "index": 444,
+      "name": "Zweiter TeilGerichtliche Auflösung",
+      "identisch": true,
+      "xml_zeichen": 32,
+      "pdf_zeichen": 32,
+      "sha256_xml_text": "acc7df7ab429cce945418bf79b8aa0bbbcfc09a646cf8377d00a1108c93fbec6",
+      "sha256_pdf_text": "acc7df7ab429cce945418bf79b8aa0bbbcfc09a646cf8377d00a1108c93fbec6"
+    },
+    {
+      "index": 445,
+      "name": "§ 396",
+      "identisch": true,
+      "xml_zeichen": 649,
+      "pdf_zeichen": 649,
+      "sha256_xml_text": "7d372fc7d0d1647f8814942ebd385aa46971b3a40b1078194db40f6c28987f90",
+      "sha256_pdf_text": "7d372fc7d0d1647f8814942ebd385aa46971b3a40b1078194db40f6c28987f90"
+    },
+    {
+      "index": 446,
+      "name": "§ 397",
+      "identisch": true,
+      "xml_zeichen": 175,
+      "pdf_zeichen": 175,
+      "sha256_xml_text": "f07a7ec139ee3acbdc14c468b845d9bee91df3e82f46af4707fb39d35cf5a5b9",
+      "sha256_pdf_text": "f07a7ec139ee3acbdc14c468b845d9bee91df3e82f46af4707fb39d35cf5a5b9"
+    },
+    {
+      "index": 447,
+      "name": "§ 398",
+      "identisch": true,
+      "xml_zeichen": 173,
+      "pdf_zeichen": 173,
+      "sha256_xml_text": "edf4639004004646f0373868df36ffb590d3d30d63d990ad3a08ef295d0a6f8d",
+      "sha256_pdf_text": "edf4639004004646f0373868df36ffb590d3d30d63d990ad3a08ef295d0a6f8d"
+    },
+    {
+      "index": 448,
+      "name": "Dritter TeilStraf- und\nBußgeldvorschriften. Schlußvorschriften",
+      "identisch": true,
+      "xml_zeichen": 58,
+      "pdf_zeichen": 58,
+      "sha256_xml_text": "ca214d04b778e073f4b9978a2b645f19398432a39c71a03e53a015b45b42d6ef",
+      "sha256_pdf_text": "ca214d04b778e073f4b9978a2b645f19398432a39c71a03e53a015b45b42d6ef"
+    },
+    {
+      "index": 449,
+      "name": "§ 399",
+      "identisch": true,
+      "xml_zeichen": 1582,
+      "pdf_zeichen": 1582,
+      "sha256_xml_text": "044d30ac058b5edfaea739fea005a6ea3279f6026289dbea8bcca023401e9df7",
+      "sha256_pdf_text": "044d30ac058b5edfaea739fea005a6ea3279f6026289dbea8bcca023401e9df7"
+    },
+    {
+      "index": 450,
+      "name": "§ 400",
+      "identisch": true,
+      "xml_zeichen": 1000,
+      "pdf_zeichen": 1000,
+      "sha256_xml_text": "3554f24468d48ce9d00da999ba51fe11a003972c9de80fff8370f085ac50b9e5",
+      "sha256_pdf_text": "3554f24468d48ce9d00da999ba51fe11a003972c9de80fff8370f085ac50b9e5"
+    },
+    {
+      "index": 451,
+      "name": "§ 401",
+      "identisch": true,
+      "xml_zeichen": 373,
+      "pdf_zeichen": 373,
+      "sha256_xml_text": "53d1fe7390230d8003f2a5e245f74038c9dd4c51a084bb26459a91b30de4e49d",
+      "sha256_pdf_text": "53d1fe7390230d8003f2a5e245f74038c9dd4c51a084bb26459a91b30de4e49d"
+    },
+    {
+      "index": 452,
+      "name": "§ 402",
+      "identisch": true,
+      "xml_zeichen": 509,
+      "pdf_zeichen": 509,
+      "sha256_xml_text": "dab438e6fa86c218a73758e30f17df5ea11111d6c74bd3f72b1d95e412570cd1",
+      "sha256_pdf_text": "dab438e6fa86c218a73758e30f17df5ea11111d6c74bd3f72b1d95e412570cd1"
+    },
+    {
+      "index": 453,
+      "name": "§ 403",
+      "identisch": true,
+      "xml_zeichen": 385,
+      "pdf_zeichen": 385,
+      "sha256_xml_text": "0cebd66ad3c74ea4ee5f2493fa077ac6f2c35a75e677cafc0bb6b8646ead2279",
+      "sha256_pdf_text": "0cebd66ad3c74ea4ee5f2493fa077ac6f2c35a75e677cafc0bb6b8646ead2279"
+    },
+    {
+      "index": 454,
+      "name": "§ 404",
+      "identisch": true,
+      "xml_zeichen": 1092,
+      "pdf_zeichen": 1092,
+      "sha256_xml_text": "8b262cc7a4604d5746243c07a7d6fde47f26048d9e56eb3ae45e39869f698b7d",
+      "sha256_pdf_text": "8b262cc7a4604d5746243c07a7d6fde47f26048d9e56eb3ae45e39869f698b7d"
+    },
+    {
+      "index": 455,
+      "name": "§ 404a",
+      "identisch": true,
+      "xml_zeichen": 727,
+      "pdf_zeichen": 727,
+      "sha256_xml_text": "8498f9db84b59b336f8d6179c721992de648f3b0403771864cbe0ba23aea4cc6",
+      "sha256_pdf_text": "8498f9db84b59b336f8d6179c721992de648f3b0403771864cbe0ba23aea4cc6"
+    },
+    {
+      "index": 456,
+      "name": "§ 405",
+      "identisch": true,
+      "xml_zeichen": 6885,
+      "pdf_zeichen": 6885,
+      "sha256_xml_text": "14da3ad0479ce42e7eafc67b13e5dff46f840cb3674c66aaae6c4a5d08479c18",
+      "sha256_pdf_text": "14da3ad0479ce42e7eafc67b13e5dff46f840cb3674c66aaae6c4a5d08479c18"
+    },
+    {
+      "index": 457,
+      "name": "§ 406",
+      "identisch": true,
+      "xml_zeichen": 18,
+      "pdf_zeichen": 18,
+      "sha256_xml_text": "4ae3f17b1996b922727bb4dfb8387eb0d0ad3d7e486dd881dcc6fdfe579c421b",
+      "sha256_pdf_text": "4ae3f17b1996b922727bb4dfb8387eb0d0ad3d7e486dd881dcc6fdfe579c421b"
+    },
+    {
+      "index": 458,
+      "name": "§ 407",
+      "identisch": true,
+      "xml_zeichen": 729,
+      "pdf_zeichen": 729,
+      "sha256_xml_text": "0c05b23b8cbae4450c50bb0ce2224941b15a0f95e95ef63c813e84341ec8d3d0",
+      "sha256_pdf_text": "0c05b23b8cbae4450c50bb0ce2224941b15a0f95e95ef63c813e84341ec8d3d0"
+    },
+    {
+      "index": 459,
+      "name": "§ 407a",
+      "identisch": true,
+      "xml_zeichen": 570,
+      "pdf_zeichen": 570,
+      "sha256_xml_text": "02b1716b87ee5a26d41e000b55565e0e4bcb4f3bc86d4cca75df94a9ebeda86c",
+      "sha256_pdf_text": "02b1716b87ee5a26d41e000b55565e0e4bcb4f3bc86d4cca75df94a9ebeda86c"
+    },
+    {
+      "index": 460,
+      "name": "§ 408",
+      "identisch": true,
+      "xml_zeichen": 273,
+      "pdf_zeichen": 273,
+      "sha256_xml_text": "bc550e31923ab7c8a774053a8f054e33e50c2ad74f2797a2e177f63603870069",
+      "sha256_pdf_text": "bc550e31923ab7c8a774053a8f054e33e50c2ad74f2797a2e177f63603870069"
+    },
+    {
+      "index": 461,
+      "name": "§ 409",
+      "identisch": true,
+      "xml_zeichen": 255,
+      "pdf_zeichen": 255,
+      "sha256_xml_text": "d3cb0185ed8ff1965c073730bca8a38b8cc6dafcb57629843ff1cd5577af545b",
+      "sha256_pdf_text": "d3cb0185ed8ff1965c073730bca8a38b8cc6dafcb57629843ff1cd5577af545b"
+    },
+    {
+      "index": 462,
+      "name": "§ 410",
+      "identisch": true,
+      "xml_zeichen": 56,
+      "pdf_zeichen": 56,
+      "sha256_xml_text": "e360728034eb8015732a0d6e02efc46f6b57ab929be9c3e5898b6ecd24e94f7f",
+      "sha256_pdf_text": "e360728034eb8015732a0d6e02efc46f6b57ab929be9c3e5898b6ecd24e94f7f"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+mcp==2.2.0
+fastembed==0.8.0
+psycopg[binary]==3.3.5
+pywin32==312; sys_platform == 'win32'

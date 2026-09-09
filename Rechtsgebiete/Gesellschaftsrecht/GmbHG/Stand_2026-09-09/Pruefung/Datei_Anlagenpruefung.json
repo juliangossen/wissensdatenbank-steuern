@@ -1,0 +1,14 @@
+{
+  "datei": "Quellen/XML/bgbl1_2021_j3364_0010.pdf",
+  "pdf_seiten": 2,
+  "textdatei": "Quellen/Dateianlagen/bgbl1_2021_j3364_0010_Text.txt",
+  "sha256_uebernommener_text": "9e8c7ed5aac3f6e6453c5046850071dfadf6ac0edb17274eb8252f631ef35429",
+  "methode": "Vollständiger pdftotext-Rohtext der XML-Dateianlage, nur Bundesgesetzblatt-Seitenkopf und Druckservice entfernt; HTML-escaped als vollständiger Textblock übernommen. Zusätzlich jede Originalseite als Abbildung.",
+  "fertiges_markdown_anhangtext_identisch": true,
+  "sha256_markdown": "59ee7970ef3f311408f1d662eaffd30429011dbd3aa7d83822b0471743aa9832",
+  "visuell_gepruefte_formularseiten": [
+    1,
+    2
+  ],
+  "sha256_anlagen_pdf": "37334a664f4e5262d91486a15625a735a11be7d068d6904b56648d65038cac8a"
+}

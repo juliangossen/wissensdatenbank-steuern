@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR063000009",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR063000009BJNE000100000",
+    "enbez": "Eingangsformel",
+    "titel": ""
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR063000009BJNE000202123",
+    "enbez": "§ 1",
+    "titel": "Gegenstand, Form und Frist der Meldung"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR063000009BJNE000300000",
+    "enbez": "§ 2",
+    "titel": "Inhalt der Meldung"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR063000009BJNE000400000",
+    "enbez": "§ 3",
+    "titel": "Meldepflichtiger"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR063000009BJNE000501123",
+    "enbez": "§ 4",
+    "titel": "Ordnungswidrigkeit"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR063000009BJNE000600000",
+    "enbez": "§ 5",
+    "titel": "Inkrafttreten"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR063000009BJNE000700000",
+    "enbez": "Schlussformel",
+    "titel": ""
+  }
+]

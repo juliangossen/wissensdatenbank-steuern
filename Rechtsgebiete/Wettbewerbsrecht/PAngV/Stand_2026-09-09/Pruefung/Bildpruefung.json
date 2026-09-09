@@ -1,0 +1,24 @@
+{
+  "kuerzel": "PAngV",
+  "alle_formelbilder_visuell_bestaetigt": true,
+  "bilder": [
+    {
+      "datei": "Quellen/XML/bgbl1_2021_j4921-1_0010.jpg",
+      "pdf_seite": 10,
+      "pdf_bilddatei": "Pruefung/Visuelle_Pruefung/PDF_Formel_1.jpg",
+      "sha256_datei": "afeab9e21e6d73edc1a075aaa96b0e016b0e62a0e5db5b67b1cbfc558d1842e2",
+      "sha256_pdf_bild": "cc87f1ad0450d159baba55a0cd79a6b592d84dfab0e84d8940834426a665c952",
+      "pdf_bilddaten_bytegleich": false,
+      "visuelle_zuordnung": "Gleiche Formel und gleiche Abmessungen; PDF enth?lt erneut komprimierte JPEG-Bilddaten."
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_j4921-1_0020.jpg",
+      "pdf_seite": 11,
+      "pdf_bilddatei": "Pruefung/Visuelle_Pruefung/PDF_Formel_2.jpg",
+      "sha256_datei": "2dd6604527e601b16f1e24fd223801c374edc7d608d896cbef7b09fd7dd7f097",
+      "sha256_pdf_bild": "c45b51bf77e3900a89c948571be1d71d3c4fc08c429b1f58b233baed6c3e78f2",
+      "pdf_bilddaten_bytegleich": false,
+      "visuelle_zuordnung": "Gleiche Formel und gleiche Abmessungen; PDF enth?lt erneut komprimierte JPEG-Bilddaten."
+    }
+  ]
+}

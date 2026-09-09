@@ -1,0 +1,42 @@
+{
+  "kuerzel": "StBerG",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/stberg/",
+  "pdf_url": "https://www.gesetze-im-internet.de/stberg/StBerG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/stberg/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/stberg/BJNR013010961.html",
+  "original_dateiname": "StBerG.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 89,
+  "dateien": [
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "f0b49857582aa6b525dcc376057a71b366db9c1cabfc893d6f93fd1d8e2426ac"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "2924c280c4de2ff22926bdec33b3936978f7c13226da8af6d1e06954dbe58aae"
+    },
+    {
+      "datei": "Quellen/StBerG_aktuell.pdf",
+      "sha256": "3a1c32085f44a6f4732586160269b4ee042ef9c926e96f6627ec354fc5861c29"
+    },
+    {
+      "datei": "Quellen/StBerG_bereitgestellt.pdf",
+      "sha256": "3a1c32085f44a6f4732586160269b4ee042ef9c926e96f6627ec354fc5861c29"
+    },
+    {
+      "datei": "Quellen/StBerG_PDF_Rohtext.txt",
+      "sha256": "bef304039aea6648e5154f032a9ba3a27b808ab9fb75d749ed30aeea5af765f0"
+    },
+    {
+      "datei": "Quellen/XML/BJNR013010961.xml",
+      "sha256": "90fca87d08696e54c5b5b39f6dc961b890220f051ace6f66d314d3c91e266d37"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "c4c7c0b76466db57c014cb6a6dbb6872ace0319b079486700158377d92d152d8"
+    }
+  ]
+}

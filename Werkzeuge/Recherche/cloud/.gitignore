@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+.validation/
+normalized/
+test-normalize-*/
+__pycache__/

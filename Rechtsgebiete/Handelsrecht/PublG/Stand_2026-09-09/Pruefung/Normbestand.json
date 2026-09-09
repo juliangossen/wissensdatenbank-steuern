@@ -1,0 +1,246 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR011890969",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "92076eec91cd1ab428dc502123849d48ad3ceb9527459946c0ef1a01b7fb69e2"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR011890969BJNG000200300",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Rechnungslegung von Unternehmen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR011890969BJNE000305360",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Zur Rechnungslegung verpflichtete Unternehmen",
+    "sha256_xml_text": "32ad2bd3390fb07e5584a991d66ca096b1ce127ee62e7b907da0a0b57be510ef"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR011890969BJNE000409360",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Beginn und Dauer der Pflicht zur Rechnungslegung",
+    "sha256_xml_text": "b084e86ec4b6182f25b3f55f63908c692000f6d81e4de5e04fb68d06a43f63a6"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR011890969BJNE000505123",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Geltungsbereich",
+    "sha256_xml_text": "6c084c53f129aa1a867d89e6e921b91b569ca6b63ae64e17b63b58624b893eed"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR011890969BJNE000600300",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Gesetzliche Vertreter, Aufsichtsrat, Feststellung, Gericht",
+    "sha256_xml_text": "d8c2b4a02cbc7f8515242cd2b770cfb0acadddfdbaaf4f5772e6b623fc2272db"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR011890969BJNE000706360",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Aufstellung von Jahresabschluß und Lagebericht",
+    "sha256_xml_text": "b951ff7f63af3dd94103eed7dd1d2373d7c68bdd5761ebb88c2df25a815e62ed"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR011890969BJNE000808360",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Prüfung durch die Abschlußprüfer",
+    "sha256_xml_text": "b83f157bf775920d17ee82551f231b743ccc9441a7d729c6790856bffba7b90b"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR011890969BJNE000905360",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Prüfung durch den Aufsichtsrat",
+    "sha256_xml_text": "5cf540f1d855e5df8f311d69e6bfec972b4f0162afc78233e2377eb1fbc1212f"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR011890969BJNE001002305",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Feststellung des Jahresabschlusses",
+    "sha256_xml_text": "d234ee1c7ac0f92d8a49c023b12fe2de571794e100d44f6661655f51e4d81b35"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR011890969BJNE001106360",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": "Offenlegung des Jahresabschlusses und des LageberichtsPrüfung durch die das Unternehmensregister führende Stelle",
+    "sha256_xml_text": "b708e33cf888030d7982e9a312fff1306e43b69b24ac22a55c16f91a979d8502"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR011890969BJNE001202360",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Nichtigkeit des Jahresabschlusses",
+    "sha256_xml_text": "c344264d27d27084de4285767b284475eece7a18338c3f069fef363b5b138e84"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR011890969BJNG001300300",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Rechnungslegung von Konzernen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR011890969BJNE001409123",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Zur Rechnungslegung verpflichtete Mutterunternehmen",
+    "sha256_xml_text": "57dee8261765a5cd65f6e1758abcb2143850a36b6b612e53e4746cc7bac257cf"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR011890969BJNE001505360",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Beginn und Dauer der Pflicht zur Konzernrechnungslegung",
+    "sha256_xml_text": "dd65888e88249b3bf437a96d55b2b507a134aceb0b525f8252a13069969c0b64"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR011890969BJNE001606123",
+    "enbez": "§ 13",
+    "gliederung": null,
+    "titel": "Aufstellung von Konzernabschluß und Konzernlagebericht",
+    "sha256_xml_text": "aba69270bcaf1f9b1a46041ce0b95d355ffa0bbacb308ba410cd51a351ffd13c"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR011890969BJNE001704360",
+    "enbez": "§ 14",
+    "gliederung": null,
+    "titel": "Prüfung des Konzernabschlusses",
+    "sha256_xml_text": "f6ab273fc9955b2b93b8613dd4ad20cd54cd5a477d9bff765ee73870a86f2b5b"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR011890969BJNE001804360",
+    "enbez": "§ 15",
+    "gliederung": null,
+    "titel": "Offenlegung des Konzernabschlusses",
+    "sha256_xml_text": "021abeed2fe472c4b651db469c64472918305990b3bbb1dcddd414a64a87e91a"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR011890969BJNE001901306",
+    "enbez": "§ 16",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR011890969BJNG002000300",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Straf-, Bußgeld- und\nSchlußvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR011890969BJNE002105360",
+    "enbez": "§ 17",
+    "gliederung": null,
+    "titel": "Unrichtige Darstellung",
+    "sha256_xml_text": "e8c448dd8f0f74110ad54c69f4d2aae97b2b799417677b3f2c3967cfa996e74a"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR011890969BJNE002201360",
+    "enbez": "§ 18",
+    "gliederung": null,
+    "titel": "Verletzung der Berichtspflicht",
+    "sha256_xml_text": "de13dfbc209fce66717376375e731379bd296b9833bb67eac831b162ca47483b"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR011890969BJNE002300300",
+    "enbez": "§ 19",
+    "gliederung": null,
+    "titel": "Verletzung der Geheimhaltungspflicht",
+    "sha256_xml_text": "d4796743a01fbe7c89236d4f02f4e7f3f2acfee58ccede2e05bfe57bba6d638c"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR011890969BJNE003000123",
+    "enbez": "§ 19a",
+    "gliederung": null,
+    "titel": "Verletzung der Pflichten bei Abschlussprüfungen",
+    "sha256_xml_text": "56716147a97ec2d60640978491589b44c8dbbe596f14ddd641c65b57d38f5335"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR011890969BJNE002410360",
+    "enbez": "§ 20",
+    "gliederung": null,
+    "titel": "Bußgeldvorschriften",
+    "sha256_xml_text": "67901a8aae6ae2ae8c98683145cf1136a24585723e1371866e77de5dad3a49a6"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR011890969BJNE002507360",
+    "enbez": "§ 21",
+    "gliederung": null,
+    "titel": "Festsetzung von Ordnungsgeld",
+    "sha256_xml_text": "b695cfccc4e86dd8b532c4a1a60e2f81178152c26d3fbcc9871f5a45f108a33e"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR011890969BJNE003101360",
+    "enbez": "§ 21a",
+    "gliederung": null,
+    "titel": "Mitteilungen an die Abschlussprüferaufsichtsstelle",
+    "sha256_xml_text": "22a1ff3982196c05f65bd1fe2a5f56c0e13e2240cbcdf39dd85715be98c6a457"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR011890969BJNE002911360",
+    "enbez": "§ 22",
+    "gliederung": null,
+    "titel": "Erstmalige Anwendung geänderter Vorschriften",
+    "sha256_xml_text": "65833d745e9c186f5e16bdba5a14ab584c79edbd4e0ca4d0bbf0fff3ee9986fe"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR011890969BJNE002801377",
+    "enbez": "§ 23",
+    "gliederung": null,
+    "titel": "Inkrafttreten",
+    "sha256_xml_text": "87dcc018de705bfcf7b4a6b7169b2ad869b305556dc01a82459d9c6a0086b02e"
+  }
+]

@@ -1,0 +1,5738 @@
+[
+  {
+    "zeile": 87,
+    "art": "dokumentkopf",
+    "ebene": 2,
+    "text": "Anwendungserlass zur Abgabenordnung"
+  },
+  {
+    "zeile": 105,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 1 – Anwendungsbereich:"
+  },
+  {
+    "zeile": 116,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 3 – Steuern, steuerliche Nebenleistungen:"
+  },
+  {
+    "zeile": 119,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 4 – Gesetz:[1]"
+  },
+  {
+    "zeile": 120,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Rechtsnorm"
+  },
+  {
+    "zeile": 123,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Auslegung der Steuergesetze"
+  },
+  {
+    "zeile": 128,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Wirtschaftliche Betrachtungsweise"
+  },
+  {
+    "zeile": 131,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Treu und Glauben im Steuerrecht"
+  },
+  {
+    "zeile": 139,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 5 – Ermessen:"
+  },
+  {
+    "zeile": 144,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 7 – Amtsträger:"
+  },
+  {
+    "zeile": 151,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO vor §§ 8, 9 – Wohnsitz, gewöhnlicher Aufenthalt:[1]"
+  },
+  {
+    "zeile": 169,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 8 – Wohnsitz:[1]"
+  },
+  {
+    "zeile": 171,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 209,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Allgemeines"
+  },
+  {
+    "zeile": 216,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Wohnung"
+  },
+  {
+    "zeile": 219,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Innehaben der Wohnung"
+  },
+  {
+    "zeile": 222,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Nutzung zu Wohnzwecken"
+  },
+  {
+    "zeile": 231,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Familienwohnsitz"
+  },
+  {
+    "zeile": 240,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Wohnsitz bei Aufenthalt in einem anderen Staat"
+  },
+  {
+    "zeile": 247,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "6.1. Auslandsaufenthalt eines Arbeitnehmers"
+  },
+  {
+    "zeile": 256,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "6.2. Auslandsaufenthalt eines Kindes"
+  },
+  {
+    "zeile": 273,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7. NATO-Truppenstatut"
+  },
+  {
+    "zeile": 276,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8. Wiener Übereinkommen über diplomatische Beziehungen und über konsularische Beziehungen"
+  },
+  {
+    "zeile": 281,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "9. Protokoll (Nr. 7) über die Vorrechte und Befreiungen der Europäischen Union (EU)"
+  },
+  {
+    "zeile": 290,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 9 – Gewöhnlicher Aufenthalt:"
+  },
+  {
+    "zeile": 302,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 10 – Geschäftsleitung:[1]"
+  },
+  {
+    "zeile": 326,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 12 – Betriebstätte:[1][2]"
+  },
+  {
+    "zeile": 370,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 14a – Personenvereinigungen:[1]"
+  },
+  {
+    "zeile": 422,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 14b – Körperschaften mit Sitz im Ausland:[1]"
+  },
+  {
+    "zeile": 430,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 15 – Angehörige:"
+  },
+  {
+    "zeile": 461,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 16 – Sachliche Zuständigkeit:"
+  },
+  {
+    "zeile": 468,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 17 – Örtliche Zuständigkeit:[1]"
+  },
+  {
+    "zeile": 481,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 18 – Gesonderte Feststellung:[1]"
+  },
+  {
+    "zeile": 522,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 19 – Steuern vom Einkommen und Vermögen natürlicher Personen:[1]"
+  },
+  {
+    "zeile": 548,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 20 – Steuern vom Einkommen und Vermögen der Körperschaften, Personenvereinigungen, Vermögensmassen:"
+  },
+  {
+    "zeile": 551,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 20a – Steuern vom Einkommen bei Bauleistungen:"
+  },
+  {
+    "zeile": 562,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 21 – Umsatzsteuer:"
+  },
+  {
+    "zeile": 569,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 24 – Ersatzzuständigkeit:"
+  },
+  {
+    "zeile": 574,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 25 – Mehrfache örtliche Zuständigkeit:"
+  },
+  {
+    "zeile": 577,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 26 – Zuständigkeitswechsel:"
+  },
+  {
+    "zeile": 593,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 27 – Zuständigkeitsvereinbarung:"
+  },
+  {
+    "zeile": 611,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 30 – Steuergeheimnis:[1][2]"
+  },
+  {
+    "zeile": 613,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 671,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Gegenstand des Steuergeheimnisses"
+  },
+  {
+    "zeile": 700,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Verpflichteter Personenkreis"
+  },
+  {
+    "zeile": 709,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Offenbarung oder Verwertung geschützter Daten"
+  },
+  {
+    "zeile": 744,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Offenbarung oder Verwertung zur Durchführung eines steuerlichen Verfahrens (§ 30 Abs. 4 Nr. 1 AO)"
+  },
+  {
+    "zeile": 773,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.7. Gerichtliche Verfahren im Vollstreckungsverfahren"
+  },
+  {
+    "zeile": 797,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Offenbarung zur Durchführung eines Bußgeldverfahrens nach Art. 83 DSGVO (§ 30 Abs. 4 Nr. 1b AO)"
+  },
+  {
+    "zeile": 800,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7.[6] Gesetzlich zugelassene Offenbarung (§ 30 Abs. 4 Nr. 2 AO)"
+  },
+  {
+    "zeile": 883,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8.[8] Europarechtlich vorgeschriebene oder zugelassene Offenbarung (§ 30 Abs 4 Nr. 2a AO)"
+  },
+  {
+    "zeile": 886,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 894,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "9. Offenbarung bei Zustimmung des Betroffenen (§ 30 Abs. 4 Nr. 3 AO)"
+  },
+  {
+    "zeile": 897,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "10. Offenbarung zur Durchführung eines außersteuerlichen Strafverfahrens (§ 30 Abs. 4 Nr. 4 AO)"
+  },
+  {
+    "zeile": 902,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "11. Offenbarung aus zwingendem öffentlichen Interesse (§ 30 Abs. 4 Nr. 5 AO)"
+  },
+  {
+    "zeile": 993,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "12. Offenbarung vorsätzlich falscher Angaben (§ 30 Abs. 5 AO)"
+  },
+  {
+    "zeile": 996,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "13. Auskunft über Anzeigeerstatter"
+  },
+  {
+    "zeile": 1009,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "14. Auskunftsersuchen der Meldestellen nach dem HinSchG an Finanzbehörden[16]"
+  },
+  {
+    "zeile": 1012,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "15.[18] Abruf geschützter Daten (§ 30 Abs. 6 AO)"
+  },
+  {
+    "zeile": 1075,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 30a – Schutz von Bankkunden:[1]"
+  },
+  {
+    "zeile": 1081,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 31 – Mitteilung von Besteuerungsgrundlagen:"
+  },
+  {
+    "zeile": 1090,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3.[2] Auskünfte gegenüber Krankenkassen bei freiwillig Versicherten"
+  },
+  {
+    "zeile": 1091,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.1.[3] Freiwillig Versicherte, die hauptberuflich selbständig erwerbstätig sind"
+  },
+  {
+    "zeile": 1096,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.2. Andere freiwillig Versicherte"
+  },
+  {
+    "zeile": 1097,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.2.1. Rechtslage bis einschließlich Veranlagungszeitraum 2014"
+  },
+  {
+    "zeile": 1100,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.2.2. Rechtslage ab Veranlagungszeitraum 2015"
+  },
+  {
+    "zeile": 1119,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 31a – Mitteilungen zur Bekämpfung der illegalen Beschäftigung und des Leistungsmissbrauchs:"
+  },
+  {
+    "zeile": 1121,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 1199,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1.[1] Allgemeines"
+  },
+  {
+    "zeile": 1210,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Bekämpfung von illegaler Beschäftigung oder Schwarzarbeit (§ 31a Abs. 1 Satz 1 Nr. 1 Buchstabe a AO)[2]"
+  },
+  {
+    "zeile": 1211,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.1.[3] Illegale Beschäftigung"
+  },
+  {
+    "zeile": 1234,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.2.[4] Schwarzarbeit"
+  },
+  {
+    "zeile": 1249,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.3.[5] Ausnahmen (§ 1 Abs. 4 SchwarzArbG)"
+  },
+  {
+    "zeile": 1262,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.4.[7] Zuständige Stellen"
+  },
+  {
+    "zeile": 1265,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.5. Mitteilungen[8]"
+  },
+  {
+    "zeile": 1268,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.6.[9] Verfahren FKS"
+  },
+  {
+    "zeile": 1271,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Entscheidung über Arbeitnehmerüberlassung (§ 31a Abs. 1 Satz 1 Nr. 1 Buchstabe b Doppelbuchstabe aa AO)[10]"
+  },
+  {
+    "zeile": 1272,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.1. Arbeitnehmerüberlassung"
+  },
+  {
+    "zeile": 1277,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.2. Zuständige Stellen"
+  },
+  {
+    "zeile": 1280,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.3.[11] Mitteilungen"
+  },
+  {
+    "zeile": 1301,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.4.[12] Verfahren"
+  },
+  {
+    "zeile": 1304,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4.[13] Entscheidung über Leistungen aus öffentlichen Mitteln (§ 31a Abs. 1 Satz 1 Nr. 1 Buchstabe b Doppelbuchstabe bb AO)[14]"
+  },
+  {
+    "zeile": 1305,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.1. Leistungen aus öffentlichen Mitteln"
+  },
+  {
+    "zeile": 1308,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.1.1. Sozialleistungen"
+  },
+  {
+    "zeile": 1311,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.1.2. Subventionen"
+  },
+  {
+    "zeile": 1316,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.2. Zuständige Stellen"
+  },
+  {
+    "zeile": 1319,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.3.[15] Mitteilungen"
+  },
+  {
+    "zeile": 1338,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5.[16] Rückgewähr einer Leistung aus öffentlichen Mitteln (§ 31a Abs. 1 Satz 1 Nr. 2 AO)"
+  },
+  {
+    "zeile": 1397,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 31b – Mitteilungen zur Bekämpfung der Geldwäsche und der Terrorismusfinanzierung:[1]"
+  },
+  {
+    "zeile": 1398,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Offenbarungsbefugnis nach § 31b Abs. 1 AO"
+  },
+  {
+    "zeile": 1423,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2.[3] Mitteilungspflicht nach § 31b Abs. 2 AO"
+  },
+  {
+    "zeile": 1434,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Mitteilungspflicht nach § 31b Abs. 3 AO"
+  },
+  {
+    "zeile": 1443,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele für gebotene aufsichtsrechtliche Maßnahmen:"
+  },
+  {
+    "zeile": 1451,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Verbot der Informationsweitergabe"
+  },
+  {
+    "zeile": 1470,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5.[5] Rückmeldungen der Finanzämter an die FIU"
+  },
+  {
+    "zeile": 1488,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 32 – Haftungsbeschränkung für Amtsträger:"
+  },
+  {
+    "zeile": 1491,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 33 – Steuerpflichtiger:"
+  },
+  {
+    "zeile": 1498,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 34 – Pflichten der gesetzlichen Vertreter und der Vermögensverwalter:[1]"
+  },
+  {
+    "zeile": 1499,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Allgemeines"
+  },
+  {
+    "zeile": 1502,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Gesetzliche Vertretung einer Personenhandelsgesellschaft oder einer rechtsfähigen Personengesellschaft"
+  },
+  {
+    "zeile": 1503,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.1. Offene Handelsgesellschaften (OHG)"
+  },
+  {
+    "zeile": 1518,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.2. Kommanditgesellschaften (KG)"
+  },
+  {
+    "zeile": 1521,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.3. Rechtsfähige Personengesellschaften (rechtsfähige GbR)"
+  },
+  {
+    "zeile": 1540,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.4. Nicht rechtsfähige Personenvereinigungen"
+  },
+  {
+    "zeile": 1543,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Vertretung einer GmbH oder AG ohne Geschäftsführer"
+  },
+  {
+    "zeile": 1550,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Vertretung im Insolvenzverfahren"
+  },
+  {
+    "zeile": 1556,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 35 – Pflichten des Verfügungsberechtigten:"
+  },
+  {
+    "zeile": 1563,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 36 – Erlöschen der Vertretungsmacht:"
+  },
+  {
+    "zeile": 1566,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 37 – Ansprüche aus dem Steuerschuldverhältnis:"
+  },
+  {
+    "zeile": 1568,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 1598,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Ansprüche aus dem Steuerschuldverhältnis (§ 37 Abs. 1 AO)"
+  },
+  {
+    "zeile": 1601,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Erstattungsanspruch nach § 37 Abs. 2 AO"
+  },
+  {
+    "zeile": 1606,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.1.[1] Rückforderungsanspruch des Finanzamts"
+  },
+  {
+    "zeile": 1629,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.2. Erstattungsanspruch des Steuerpflichtigen"
+  },
+  {
+    "zeile": 1630,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.2.1. Allgemeines"
+  },
+  {
+    "zeile": 1633,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.2.2. Erstattungsanspruch bei Gesamtschuldnern"
+  },
+  {
+    "zeile": 1638,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.3.[2] Erstattungsanspruch bei der Einkommensteuer"
+  },
+  {
+    "zeile": 1647,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 38 – Entstehung der Ansprüche aus dem Steuerschuldverhältnis:"
+  },
+  {
+    "zeile": 1658,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 39 – Zurechnung:[1]"
+  },
+  {
+    "zeile": 1659,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Wirtschaftliches Eigentum"
+  },
+  {
+    "zeile": 1666,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Anteilige Zurechnung von Wirtschaftsgütern/Gesamthandsvermögen"
+  },
+  {
+    "zeile": 1674,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 41 – Unwirksame Rechtsgeschäfte:"
+  },
+  {
+    "zeile": 1681,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 42 – Missbrauch von rechtlichen Gestaltungsmöglichkeiten:"
+  },
+  {
+    "zeile": 1737,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 44 – Gesamtschuldner:"
+  },
+  {
+    "zeile": 1740,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 45 – Gesamtrechtsnachfolge:[1]"
+  },
+  {
+    "zeile": 1755,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 46 – Abtretung, Verpfändung, Pfändung:"
+  },
+  {
+    "zeile": 1813,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 47 – Erlöschen:"
+  },
+  {
+    "zeile": 1816,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 48 – Leistung durch Dritte, Haftung Dritter:"
+  },
+  {
+    "zeile": 1819,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 51 – Allgemeines:[1]"
+  },
+  {
+    "zeile": 1820,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 51 Abs. 1 AO:"
+  },
+  {
+    "zeile": 1841,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 51 Abs. 2 AO:"
+  },
+  {
+    "zeile": 1852,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 51 Abs. 3 AO:"
+  },
+  {
+    "zeile": 1897,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 52 – Gemeinnützige Zwecke:"
+  },
+  {
+    "zeile": 1900,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.1.[3] Allgemeines"
+  },
+  {
+    "zeile": 1909,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.2.[4] Investitionsumlage"
+  },
+  {
+    "zeile": 1916,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.3. Durchschnittsberechnung"
+  },
+  {
+    "zeile": 1919,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.3.1. Zu berücksichtigende Leistungen der Mitglieder"
+  },
+  {
+    "zeile": 1920,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.3.1.1. Grundsatz"
+  },
+  {
+    "zeile": 1923,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.3.1.2. Sonderentgelte und Nachzahlungen"
+  },
+  {
+    "zeile": 1928,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.3.1.3. Auswärtige Mitglieder"
+  },
+  {
+    "zeile": 1931,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.3.1.4. Juristische Personen und Unternehmen in anderer Rechtsform"
+  },
+  {
+    "zeile": 1934,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.3.1.5.[5] Darlehen"
+  },
+  {
+    "zeile": 1939,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.3.1.6.[6] Beteiligung an Gesellschaften"
+  },
+  {
+    "zeile": 1944,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.3.1.7.[7] Spenden"
+  },
+  {
+    "zeile": 1959,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.3.2. Zu berücksichtigende Mitglieder"
+  },
+  {
+    "zeile": 1966,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Gemeinnützige Zwecke[8]"
+  },
+  {
+    "zeile": 2061,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "16.[34] Politik kein eigenständiger steuerbegünstigter Zweck"
+  },
+  {
+    "zeile": 2064,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Politische Betätigung als Mittel zur Verwirklichung satzungsmäßiger steuerbegünstigter Zwecke"
+  },
+  {
+    "zeile": 2069,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Politische Betätigung außerhalb der satzungsmäßigen steuerbegünstigten Zwecke"
+  },
+  {
+    "zeile": 2174,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 53 – Mildtätige Zwecke:"
+  },
+  {
+    "zeile": 2239,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 54 – Kirchliche Zwecke:"
+  },
+  {
+    "zeile": 2242,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 55 – Selbstlosigkeit:"
+  },
+  {
+    "zeile": 2243,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 55 Abs. 1 Nr. 1 AO:[1]"
+  },
+  {
+    "zeile": 2262,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5.[6] Ausnahmeregelungen"
+  },
+  {
+    "zeile": 2331,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 55 Abs. 1 Nr. 2 und 4 AO:"
+  },
+  {
+    "zeile": 2334,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 55 Abs. 1 Nr. 3 AO:"
+  },
+  {
+    "zeile": 2343,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 55 Abs. 1 Nr. 4 AO:"
+  },
+  {
+    "zeile": 2352,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 55 Abs. 1 Nr. 5 AO:"
+  },
+  {
+    "zeile": 2373,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 55 Abs. 2 AO:"
+  },
+  {
+    "zeile": 2376,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 55 Abs. 3 AO:"
+  },
+  {
+    "zeile": 2489,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 56 – Ausschließlichkeit:"
+  },
+  {
+    "zeile": 2501,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 57 – Unmittelbarkeit:"
+  },
+  {
+    "zeile": 2502,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 57 Abs. 1 AO:[1]"
+  },
+  {
+    "zeile": 2511,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 57 Abs. 2 AO:[3]"
+  },
+  {
+    "zeile": 2514,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 57 Abs. 3 AO:"
+  },
+  {
+    "zeile": 2547,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 57 Abs. 4 AO:"
+  },
+  {
+    "zeile": 2604,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 58 – Steuerlich unschädliche Betätigungen:"
+  },
+  {
+    "zeile": 2605,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 58 Nr. 1 AO:[1]"
+  },
+  {
+    "zeile": 2638,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 58 Nr. 3 AO:"
+  },
+  {
+    "zeile": 2653,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 58 Nr. 4 AO:"
+  },
+  {
+    "zeile": 2656,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 58 Nr. 5 AO:"
+  },
+  {
+    "zeile": 2659,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 58 Nr. 6 AO:"
+  },
+  {
+    "zeile": 2682,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 58 Nr. 7 AO:"
+  },
+  {
+    "zeile": 2685,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 58 Nr. 9 AO:"
+  },
+  {
+    "zeile": 2688,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 58 Nr. 10 AO:"
+  },
+  {
+    "zeile": 2693,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2731,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 58 Nr. 2 bis 10 AO:"
+  },
+  {
+    "zeile": 2791,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 58a – Vertrauensschutz bei Mittelweitergaben:[1]"
+  },
+  {
+    "zeile": 2801,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 59 – Voraussetzung der Steuervergünstigung:"
+  },
+  {
+    "zeile": 2823,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 60 – Anforderungen an die Satzung:"
+  },
+  {
+    "zeile": 2879,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 60a – Feststellung der satzungsmäßigen Voraussetzungen:"
+  },
+  {
+    "zeile": 2882,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 60a Abs. 1 AO:"
+  },
+  {
+    "zeile": 2893,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 60a Abs. 2 AO:"
+  },
+  {
+    "zeile": 2896,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 60a Abs. 3 AO:"
+  },
+  {
+    "zeile": 2899,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 60a Abs. 4 AO:"
+  },
+  {
+    "zeile": 2912,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 60a Abs. 5 AO:"
+  },
+  {
+    "zeile": 2915,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 60a Abs. 6 AO:"
+  },
+  {
+    "zeile": 2944,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 61 – Satzungsmäßige Vermögensbindung:"
+  },
+  {
+    "zeile": 2959,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2967,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 2987,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 62 – Rücklagen und Vermögensbildung:"
+  },
+  {
+    "zeile": 2992,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 62 Abs. 1 AO:"
+  },
+  {
+    "zeile": 2995,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 62 Abs. 1 Nr. 1 AO:"
+  },
+  {
+    "zeile": 3002,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 62 Abs. 1 Nr. 2 AO:"
+  },
+  {
+    "zeile": 3009,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 62 Abs. 1 Nr. 3 AO:"
+  },
+  {
+    "zeile": 3022,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 62 Abs. 1 Nr. 4 AO:"
+  },
+  {
+    "zeile": 3027,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3029,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel für eine Rücklagenbildung nach § 62 Abs. 1 Nrn. 3 und 4 AO:"
+  },
+  {
+    "zeile": 3135,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 62 Abs. 2 AO:"
+  },
+  {
+    "zeile": 3144,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 62 Abs. 3 AO:"
+  },
+  {
+    "zeile": 3149,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 62 Abs. 4 AO:"
+  },
+  {
+    "zeile": 3166,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 63 – Anforderungen an die tatsächliche Geschäftsführung:"
+  },
+  {
+    "zeile": 3191,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 64 – Steuerpflichtige wirtschaftliche Geschäftsbetriebe:"
+  },
+  {
+    "zeile": 3192,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 64 Abs. 1 AO:"
+  },
+  {
+    "zeile": 3229,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 64 Abs. 2 AO:"
+  },
+  {
+    "zeile": 3256,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 64 Abs. 3 AO:"
+  },
+  {
+    "zeile": 3285,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3311,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 64 Abs. 4 AO:"
+  },
+  {
+    "zeile": 3314,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 64 Abs. 5 AO:"
+  },
+  {
+    "zeile": 3321,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 64 Abs. 6 AO:"
+  },
+  {
+    "zeile": 3342,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 64 Abs. 5 und 6 AO:"
+  },
+  {
+    "zeile": 3480,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 65 – Zweckbetrieb:[1][2][3]"
+  },
+  {
+    "zeile": 3513,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 66 – Wohlfahrtspflege:"
+  },
+  {
+    "zeile": 3582,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 67 – Krankenhäuser:[1]"
+  },
+  {
+    "zeile": 3600,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 67a – Sportliche Veranstaltungen:"
+  },
+  {
+    "zeile": 3663,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 67a Abs. 1 AO:"
+  },
+  {
+    "zeile": 3672,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 67a Abs. 2 AO:"
+  },
+  {
+    "zeile": 3677,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 67a Abs. 3 AO:"
+  },
+  {
+    "zeile": 3718,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 67a Abs. 4 AO:"
+  },
+  {
+    "zeile": 3764,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 68 – Einzelne Zweckbetriebe:"
+  },
+  {
+    "zeile": 3768,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 68 Nr. 1 AO:"
+  },
+  {
+    "zeile": 3777,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 68 Nr. 2 AO:"
+  },
+  {
+    "zeile": 3780,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 68 Nr. 3 AO:"
+  },
+  {
+    "zeile": 3805,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 68 Nr. 4 AO:"
+  },
+  {
+    "zeile": 3808,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 68 Nr. 6 AO:"
+  },
+  {
+    "zeile": 3813,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 68 Nr. 7 AO:"
+  },
+  {
+    "zeile": 3820,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 68 Nr. 8 AO:[16]"
+  },
+  {
+    "zeile": 3823,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Zu § 68 Nr. 9 AO:[18]"
+  },
+  {
+    "zeile": 3846,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 3981,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 69 – Haftung der Vertreter:"
+  },
+  {
+    "zeile": 3986,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 70 – Haftung des Vertretenen:"
+  },
+  {
+    "zeile": 3989,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 71 – Haftung des Steuerhinterziehers und des Steuer­hehlers:[1][2][3]"
+  },
+  {
+    "zeile": 4001,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 73 – Haftung bei Organschaft:[1]"
+  },
+  {
+    "zeile": 4003,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 4045,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1.[2] Art der Haftung und Haftungsschuldner"
+  },
+  {
+    "zeile": 4052,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2.[3] Haftungsvoraussetzungen"
+  },
+  {
+    "zeile": 4057,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Umfang der Haftung"
+  },
+  {
+    "zeile": 4058,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.1.[4] Sachliche Beschränkung"
+  },
+  {
+    "zeile": 4073,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.1.1. Körperschaftsteuer"
+  },
+  {
+    "zeile": 4080,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.1.2.[5] Umsatzsteuer"
+  },
+  {
+    "zeile": 4083,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.2.[6] Zeitliche Beschränkung"
+  },
+  {
+    "zeile": 4088,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.3. Folgen mangelnder Mitwirkung"
+  },
+  {
+    "zeile": 4100,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4.[8] Erstmalige Anwendung des § 73 Satz 2 AO n.F."
+  },
+  {
+    "zeile": 4127,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 74 – Haftung des Eigentümers von Gegenständen:"
+  },
+  {
+    "zeile": 4150,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 75 – Haftung des Betriebsübernehmers:"
+  },
+  {
+    "zeile": 4152,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 4206,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Art der Haftung"
+  },
+  {
+    "zeile": 4209,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Haftungsschuldner"
+  },
+  {
+    "zeile": 4212,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Haftungstatbestand"
+  },
+  {
+    "zeile": 4215,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.1. Übereignung eines Unternehmens oder gesondert geführten Betriebes"
+  },
+  {
+    "zeile": 4220,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.2. Übereignung der wesentlichen Betriebsgrundlagen"
+  },
+  {
+    "zeile": 4235,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.3. Lebendes Unternehmen"
+  },
+  {
+    "zeile": 4242,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.4. Haftungsausschluss für Erwerbe aus einer Insolvenzmasse und im Vollstreckungsverfahren"
+  },
+  {
+    "zeile": 4249,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Umfang der Haftung"
+  },
+  {
+    "zeile": 4250,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.1. Sachliche Beschränkung"
+  },
+  {
+    "zeile": 4263,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.2. Zeitliche Beschränkung"
+  },
+  {
+    "zeile": 4268,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.3. Gegenständliche Beschränkung der Haftung"
+  },
+  {
+    "zeile": 4273,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Verjährung"
+  },
+  {
+    "zeile": 4276,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Auskunftserteilung bei Betriebsübernahme"
+  },
+  {
+    "zeile": 4281,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 77 – Duldungspflicht:"
+  },
+  {
+    "zeile": 4286,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 78 – Beteiligte:"
+  },
+  {
+    "zeile": 4289,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 79 – Handlungsfähigkeit:[1]"
+  },
+  {
+    "zeile": 4319,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 80 – Bevollmächtigte und Beistände:[1]"
+  },
+  {
+    "zeile": 4349,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 80a – Elektronische Übermittlung von Vollmachtsdaten an Landesfinanzbehörden:[1]"
+  },
+  {
+    "zeile": 4363,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 81 – Bestellung eines Vertreters von Amts wegen:"
+  },
+  {
+    "zeile": 4366,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 82 – Ausgeschlossene Personen:"
+  },
+  {
+    "zeile": 4373,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 83 – Besorgnis der Befangenheit:"
+  },
+  {
+    "zeile": 4378,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 85 – Besteuerungsgrundsätze:"
+  },
+  {
+    "zeile": 4393,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 87 – Amtssprache:"
+  },
+  {
+    "zeile": 4398,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 87a – Elektronische Kommunikation:[1]"
+  },
+  {
+    "zeile": 4399,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1.[2] Zugangseröffnung"
+  },
+  {
+    "zeile": 4420,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Zugang elektronischer Dokumente"
+  },
+  {
+    "zeile": 4429,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Elektronische Übermittlung bei gesetzlich angeordneter Schriftform"
+  },
+  {
+    "zeile": 4454,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4.[14] Telefax kein elektronisches Dokument"
+  },
+  {
+    "zeile": 4501,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO vor §§ 87b bis 87e:[1]"
+  },
+  {
+    "zeile": 4507,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 87d – Datenübermittlungen an Finanzbehörden im Auftrag:[1]"
+  },
+  {
+    "zeile": 4508,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Natürliche Person als Auftraggeber"
+  },
+  {
+    "zeile": 4540,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Aufzeichnungs- und Aufbewahrungspflicht"
+  },
+  {
+    "zeile": 4552,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 88 – Untersuchungsgrundsatz:[1]"
+  },
+  {
+    "zeile": 4579,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 89 – Beratung, Auskunft:"
+  },
+  {
+    "zeile": 4581,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 4651,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Beratung des Steuerpflichtigen"
+  },
+  {
+    "zeile": 4656,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2.[1] Auskünfte nach § 89 Abs. 1 Satz 2 AO"
+  },
+  {
+    "zeile": 4659,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Verbindliche Auskünfte nach § 89 Abs. 2 AO"
+  },
+  {
+    "zeile": 4660,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.1.[2] Allgemeines"
+  },
+  {
+    "zeile": 4663,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.2. Antragsteller"
+  },
+  {
+    "zeile": 4672,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.3.[6] Zuständigkeit für die Erteilung verbindlicher Auskünfte"
+  },
+  {
+    "zeile": 4675,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.3.1.[7] Zuständigkeit des BZSt nach § 89 Abs. 2 Satz 3 AO"
+  },
+  {
+    "zeile": 4684,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 4710,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.3.2. Zuständigkeit eines Finanzamts nach § 89 Abs. 2 Satz 2 AO"
+  },
+  {
+    "zeile": 4717,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.3.3.[15] Zuständigkeit eines Finanzamts bei einheitlicher Auskunftserteilung nach § 1 Abs. 3 StAuskV"
+  },
+  {
+    "zeile": 4722,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.4. Form, Inhalt und Voraussetzungen des Antrags auf Erteilung einer verbindlichen Auskunft"
+  },
+  {
+    "zeile": 4731,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.5. Erteilung einer verbindlichen Auskunft"
+  },
+  {
+    "zeile": 4760,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.6. Bindungswirkung einer verbindlichen Auskunft"
+  },
+  {
+    "zeile": 4803,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.7. Rechtsbehelfsmöglichkeiten[31]"
+  },
+  {
+    "zeile": 4810,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Gebühren für die Bearbeitung von Anträgen auf Erteilung einer verbindlichen Auskunft (§ 89 Abs. 3 bis 7 AO)"
+  },
+  {
+    "zeile": 4811,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.1. Gebührenpflicht"
+  },
+  {
+    "zeile": 4820,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.1.4.[36] [aufgehoben]"
+  },
+  {
+    "zeile": 4822,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.2. Gegenstandswert"
+  },
+  {
+    "zeile": 4843,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.3. Zeitgebühr"
+  },
+  {
+    "zeile": 4848,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.4. Gebührenfestsetzung"
+  },
+  {
+    "zeile": 4855,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.5. Ermäßigung der Gebühr"
+  },
+  {
+    "zeile": 4864,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5.[43] Anwendung der StAuskV"
+  },
+  {
+    "zeile": 5006,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 89a – Vorabverständigungsverfahren:[1]"
+  },
+  {
+    "zeile": 5008,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 5038,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Eröffnung des Vorabverständigungsverfahrens"
+  },
+  {
+    "zeile": 5039,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Zuständigkeiten"
+  },
+  {
+    "zeile": 5042,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Antragstellung"
+  },
+  {
+    "zeile": 5083,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Vorgespräch (Prefiling Meeting)"
+  },
+  {
+    "zeile": 5086,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Inhalt und Umfang des Antrags"
+  },
+  {
+    "zeile": 5087,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Allgemeines"
+  },
+  {
+    "zeile": 5090,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Vorzulegende Unterlagen und Aufzeichnungen"
+  },
+  {
+    "zeile": 5111,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Verletzung Mitwirkungspflichten"
+  },
+  {
+    "zeile": 5114,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Abschluss oder anderweitige Beendigung des Vorabverständigungsverfahrens"
+  },
+  {
+    "zeile": 5115,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Allgemeines"
+  },
+  {
+    "zeile": 5120,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Fristen"
+  },
+  {
+    "zeile": 5123,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Rechtsbehelfsverzicht"
+  },
+  {
+    "zeile": 5128,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Scheitern des Vorabverständigungsverfahrens, Gründe des Scheiterns"
+  },
+  {
+    "zeile": 5131,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Fortgeltung der Vorabverständigungsvereinbarung"
+  },
+  {
+    "zeile": 5134,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Bindungswirkung der Vorabverständigungsvereinbarung"
+  },
+  {
+    "zeile": 5135,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Bindungswirkung"
+  },
+  {
+    "zeile": 5138,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Compliance Report"
+  },
+  {
+    "zeile": 5143,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Gültigkeitsbedingungen"
+  },
+  {
+    "zeile": 5146,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 5166,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Widerruf"
+  },
+  {
+    "zeile": 5171,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Geltungszeitraum und Roll Back"
+  },
+  {
+    "zeile": 5172,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Geltungszeitraum"
+  },
+  {
+    "zeile": 5177,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Roll Back"
+  },
+  {
+    "zeile": 5180,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7. Gebühren"
+  },
+  {
+    "zeile": 5181,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Allgemeines"
+  },
+  {
+    "zeile": 5188,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Gebührenfestsetzung und Folgen bei Nichtzahlung"
+  },
+  {
+    "zeile": 5195,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Antragsrücknahme und Antragsablehnung"
+  },
+  {
+    "zeile": 5201,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 90 – Mitwirkungspflichten der Beteiligten:[1][2]"
+  },
+  {
+    "zeile": 5210,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 91 – Anhörung Beteiligter:"
+  },
+  {
+    "zeile": 5222,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 92 – Beweismittel:"
+  },
+  {
+    "zeile": 5229,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 93 – Auskunftspflicht der Beteiligten und anderer Personen:"
+  },
+  {
+    "zeile": 5231,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 5253,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1.[1] Auskunftsersuchen nach § 93 Abs. 1 Satz 1 und Abs. 1a AO"
+  },
+  {
+    "zeile": 5256,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.1. Allgemeines/Voraussetzungen"
+  },
+  {
+    "zeile": 5269,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.2. Zulässigkeit von Auskunftsersuchen an Dritte[8]"
+  },
+  {
+    "zeile": 5302,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2.[17] Kontenabruf nach § 93 Abs. 7 AO in der ab dem 1.1.2018 geltenden Fassung[18]"
+  },
+  {
+    "zeile": 5371,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3.[29] Kontenabruf nach § 93 Abs. 8 AO"
+  },
+  {
+    "zeile": 5461,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 93a – Allgemeine Mitteilungspflichten:[1]"
+  },
+  {
+    "zeile": 5472,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 93c – Datenübermittlung durch Dritte:[1][2]"
+  },
+  {
+    "zeile": 5485,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 95 – Versicherung an Eides statt:"
+  },
+  {
+    "zeile": 5488,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 99 – Betreten von Grundstücken und Räumen:"
+  },
+  {
+    "zeile": 5491,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 101 – Auskunfts- und Eidesverweigerungsrecht der Angehörigen:"
+  },
+  {
+    "zeile": 5496,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 104 – Verweigerung der Erstattung eines Gutachtens und der Vorlage von Urkunden:"
+  },
+  {
+    "zeile": 5499,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 107 – Entschädigung der Auskunftspflichtigen und Sachverständigen:"
+  },
+  {
+    "zeile": 5512,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 108 – Fristen und Termine:"
+  },
+  {
+    "zeile": 5520,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 109 – Verlängerung von Fristen:[1]"
+  },
+  {
+    "zeile": 5567,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 110 – Wiedereinsetzung in den vorigen Stand:"
+  },
+  {
+    "zeile": 5592,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 111 – Amtshilfepflicht:"
+  },
+  {
+    "zeile": 5597,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 112 – Voraussetzungen und Grenzen der Amtshilfe:"
+  },
+  {
+    "zeile": 5600,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 117 – Zwischenstaatliche Rechts- und Amtshilfe in Steuersachen:"
+  },
+  {
+    "zeile": 5652,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 118 – Begriff des Verwaltungsakts:"
+  },
+  {
+    "zeile": 5655,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 120 – Nebenbestimmungen zum Verwaltungsakt:"
+  },
+  {
+    "zeile": 5664,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 121 – Begründung des Verwaltungsakts:"
+  },
+  {
+    "zeile": 5671,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 122 – Bekanntgabe des Verwaltungsakts:[1][2]"
+  },
+  {
+    "zeile": 5673,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 5835,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Allgemeines"
+  },
+  {
+    "zeile": 5836,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.1. Bekanntgabe von Verwaltungsakten"
+  },
+  {
+    "zeile": 5853,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.1.5.[3] Lebenspartner"
+  },
+  {
+    "zeile": 5856,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.2. Steuerbescheide"
+  },
+  {
+    "zeile": 5859,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.3. Bezeichnung des Inhaltsadressaten"
+  },
+  {
+    "zeile": 5870,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.4. Bezeichnung des Bekanntgabeadressaten"
+  },
+  {
+    "zeile": 5891,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.5. Bezeichnung des Empfängers"
+  },
+  {
+    "zeile": 5896,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 5946,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 5968,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.6. Anschriftenfeld"
+  },
+  {
+    "zeile": 5971,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.7. Übermittlung an Bevollmächtigte"
+  },
+  {
+    "zeile": 5999,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.8. Form der Bekanntgabe"
+  },
+  {
+    "zeile": 6002,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.8.1.[13] Schriftform"
+  },
+  {
+    "zeile": 6007,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.8.2.[15] Übermittlung durch die Post oder durch Telefax"
+  },
+  {
+    "zeile": 6012,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.8.3.[17] Förmliche Bekanntgabe (Zustellung)"
+  },
+  {
+    "zeile": 6025,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "1.8.4.[18] Bekanntgabe an Empfänger im Ausland"
+  },
+  {
+    "zeile": 6032,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Bekanntgabe von Bescheiden"
+  },
+  {
+    "zeile": 6033,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.1. Bekanntgabe von Bescheiden an Ehegatten"
+  },
+  {
+    "zeile": 6034,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.1.1. Allgemeines"
+  },
+  {
+    "zeile": 6041,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.1.2. Bekanntgabe nach § 122 Abs. 7 AO"
+  },
+  {
+    "zeile": 6070,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6076,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.1.3. Bekanntgabe nach § 122 Abs. 6 AO"
+  },
+  {
+    "zeile": 6083,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel für die Bekanntgabe an einen der Ehegatten mit Einverständnis beider:"
+  },
+  {
+    "zeile": 6097,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.1.4. Einzelbekanntgabe"
+  },
+  {
+    "zeile": 6108,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel für die Bekanntgabe an den Ehemann:"
+  },
+  {
+    "zeile": 6130,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.1.5.[19] Sonderfälle"
+  },
+  {
+    "zeile": 6135,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.2. Bekanntgabe an gesetzliche Vertreter natürlicher Personen"
+  },
+  {
+    "zeile": 6142,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6176,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.3. Bescheide an Ehegatten mit Kindern oder Alleinstehende mit Kindern"
+  },
+  {
+    "zeile": 6177,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.3.1. Allgemeines"
+  },
+  {
+    "zeile": 6180,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.3.2. Bekanntgabe nach § 122 Abs. 7 AO"
+  },
+  {
+    "zeile": 6183,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.4.[21][22] Personenvereinigungen"
+  },
+  {
+    "zeile": 6188,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.4.1. Bescheide an die Personenvereinigung"
+  },
+  {
+    "zeile": 6213,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.4.1.1. Rechtsfähige Personenvereinigungen"
+  },
+  {
+    "zeile": 6222,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6238,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6256,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6276,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6298,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.4.1.2. Nicht rechtsfähige Personenvereinigungen[23]"
+  },
+  {
+    "zeile": 6311,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6329,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.4.1.3. Nicht rechtsfähige GbR (Innengesellschaft)"
+  },
+  {
+    "zeile": 6332,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.4.2. Bescheide an Gesellschafter (Mitglieder)"
+  },
+  {
+    "zeile": 6335,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.5.[24] Bescheide über gesonderte und einheitliche Feststellungen"
+  },
+  {
+    "zeile": 6346,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.5.2. Bekanntgabe des gesonderten und einheitlichen Feststellungsbescheids bei rechtsfähigen Personenvereinigungen (§ 183 AO)"
+  },
+  {
+    "zeile": 6372,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.5.4. Einheitswertbescheide oder Grundsteuerwertbescheide an Eheleute, Eltern mit Kindern und Alleinstehende mit Kindern"
+  },
+  {
+    "zeile": 6381,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.5.5. Ausnahmen von der Bekanntgabe an die rechtsfähige Personenvereinigung oder an Empfangsbevollmächtigte"
+  },
+  {
+    "zeile": 6416,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.6. Grundsteuermessbescheide, Grunderwerbsteuerbescheide"
+  },
+  {
+    "zeile": 6421,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.7.[26] Personengesellschaften (Gemeinschaften) in Liquidation"
+  },
+  {
+    "zeile": 6438,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.8. Bekanntgabe an juristische Personen"
+  },
+  {
+    "zeile": 6441,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6459,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.8.2. Bekanntgabe an juristische Personen des öffentlichen Rechts"
+  },
+  {
+    "zeile": 6464,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6480,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.8.3. Juristische Personen in und nach Liquidation (Abwicklung)"
+  },
+  {
+    "zeile": 6483,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6503,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.11.[29] Zwangsverwaltung"
+  },
+  {
+    "zeile": 6510,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel für die Bekanntgabe eines Einheitswertbescheids oder Grundsteuerwertbescheids:"
+  },
+  {
+    "zeile": 6548,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.12. Gesamtrechtsnachfolge (z.B. Erbfolge)"
+  },
+  {
+    "zeile": 6553,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6573,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6593,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6619,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.12.4. Beispiele:"
+  },
+  {
+    "zeile": 6770,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.12.7. Vollstreckung in den Nachlass"
+  },
+  {
+    "zeile": 6773,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.12.8. Umwandlung von Gesellschaften"
+  },
+  {
+    "zeile": 6776,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.13.[32] Testamentsvollstreckung, Nachlasspflegschaft, Nachlassverwaltung"
+  },
+  {
+    "zeile": 6789,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.13.4. Erbschaftsteuerbescheide"
+  },
+  {
+    "zeile": 6796,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 6818,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.14. Haftende"
+  },
+  {
+    "zeile": 6823,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele für Lohnsteuerhaftungsbescheide bei Inanspruchnahme:"
+  },
+  {
+    "zeile": 6863,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.15. Spaltung"
+  },
+  {
+    "zeile": 6870,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 6886,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 6922,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 6942,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 4:"
+  },
+  {
+    "zeile": 6978,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.16.[33] Formwechselnde Umwandlung"
+  },
+  {
+    "zeile": 6985,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Besonderheiten des Zustellungsverfahrens"
+  },
+  {
+    "zeile": 6986,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.1. Zustellungsarten"
+  },
+  {
+    "zeile": 7005,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.1.1. Zustellung durch die Post mit Zustellungsurkunde (§ 3 VwZG)"
+  },
+  {
+    "zeile": 7016,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 7078,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 7116,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.1.2.[35] Zustellung durch die Post mittels Einschreiben (§ 4 VwZG)"
+  },
+  {
+    "zeile": 7125,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.1.3. Zustellung gegen Empfangsbekenntnis (§ 5 VwZG)"
+  },
+  {
+    "zeile": 7152,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.1.4. Zustellung im Ausland (§ 9 VwZG)"
+  },
+  {
+    "zeile": 7160,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Argentinien[40]"
+  },
+  {
+    "zeile": 7166,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Republik Korea[41]"
+  },
+  {
+    "zeile": 7172,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Kuwait[42]"
+  },
+  {
+    "zeile": 7178,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "San Marino[43]"
+  },
+  {
+    "zeile": 7184,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Schweiz[44][45][46]"
+  },
+  {
+    "zeile": 7210,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "3.1.5. Öffentliche Zustellung (§ 10 VwZG)"
+  },
+  {
+    "zeile": 7231,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.2. Zustellung an mehrere Beteiligte"
+  },
+  {
+    "zeile": 7234,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.3. Zustellung an Bevollmächtigte (§ 7 VwZG)"
+  },
+  {
+    "zeile": 7247,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.4. Zustellung an Ehegatten"
+  },
+  {
+    "zeile": 7254,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.5.[51] Zustellung bei gerichtlich bestellter Betreuung"
+  },
+  {
+    "zeile": 7257,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Folgen von Verfahrens- und Formfehlern"
+  },
+  {
+    "zeile": 7258,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.1. Unwirksamkeit des Verwaltungsakts wegen inhaltlicher Mängel"
+  },
+  {
+    "zeile": 7269,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.2. Wirksamkeit des Verwaltungsakts trotz inhaltlicher Mängel"
+  },
+  {
+    "zeile": 7276,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7284,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.3. Unwirksamkeit des Verwaltungsakts wegen eines Bekanntgabemangels"
+  },
+  {
+    "zeile": 7289,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7295,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.4. Wirksame Bekanntgabe"
+  },
+  {
+    "zeile": 7302,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.4.4. Heilung von Bekanntgabemängeln"
+  },
+  {
+    "zeile": 7309,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.4.5. Zusammengefasste Steuerbescheide"
+  },
+  {
+    "zeile": 7312,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.5. Fehler bei förmlichen Zustellungen"
+  },
+  {
+    "zeile": 7319,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.6. Fehlerhafte Bekanntgabe von Grundlagenbescheiden"
+  },
+  {
+    "zeile": 7322,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.7. Bekanntgabe von gesonderten und einheitlichen Feststellungen an einzelne Beteiligte"
+  },
+  {
+    "zeile": 7489,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO[1] zu § 122a – Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf:"
+  },
+  {
+    "zeile": 7514,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 123 – Bestellung eines Empfangsbevollmächtigten:"
+  },
+  {
+    "zeile": 7527,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 124 – Wirksamkeit des Verwaltungsakts:"
+  },
+  {
+    "zeile": 7542,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 125 – Nichtigkeit des Verwaltungsakts:"
+  },
+  {
+    "zeile": 7564,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 126 – Heilung von Verfahrens- und Formfehlern:"
+  },
+  {
+    "zeile": 7571,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 127 – Folgen von Verfahrens- und Formfehlern:"
+  },
+  {
+    "zeile": 7581,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 129 – Offenbare Unrichtigkeit beim Erlass eines Verwaltungsakts:"
+  },
+  {
+    "zeile": 7630,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO vor §§ 130, 131 – Rücknahme und Widerruf von Verwaltungsakten:"
+  },
+  {
+    "zeile": 7683,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 130 – Rücknahme eines rechtswidrigen Verwaltungsakts:"
+  },
+  {
+    "zeile": 7690,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 7696,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 7716,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 131 – Widerruf eines rechtmäßigen Verwaltungsakts:"
+  },
+  {
+    "zeile": 7725,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 7737,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 7745,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 138 – Anzeigen über die Erwerbstätigkeit:[1]"
+  },
+  {
+    "zeile": 7762,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 138a – Länderbezogener Bericht multinationaler Unternehmensgruppen:[1]"
+  },
+  {
+    "zeile": 7765,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Datenquellen"
+  },
+  {
+    "zeile": 7768,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Sekundärmechanismus"
+  },
+  {
+    "zeile": 7788,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 140 – Buchführungs- und Aufzeichnungspflichten nach anderen Gesetzen:[1]"
+  },
+  {
+    "zeile": 7794,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 141 – Buchführungspflicht bestimmter Steuerpflichtiger:"
+  },
+  {
+    "zeile": 7825,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 143 – Aufzeichnung des Wareneingangs:"
+  },
+  {
+    "zeile": 7830,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 144 – Aufzeichnung des Warenausgangs:[1]"
+  },
+  {
+    "zeile": 7836,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 146 – Ordnungsvorschriften für die Buchführung und für Aufzeichnungen:[1]"
+  },
+  {
+    "zeile": 7838,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht[2]"
+  },
+  {
+    "zeile": 7868,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Allgemeines"
+  },
+  {
+    "zeile": 7877,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Einzelaufzeichnungspflicht (§ 146 Abs. 1 AO)"
+  },
+  {
+    "zeile": 7878,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.1. Grundsätze der Einzelaufzeichnung"
+  },
+  {
+    "zeile": 7893,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.2. Ausnahme von der Einzelaufzeichnungspflicht aus Zumutbarkeitsgründen"
+  },
+  {
+    "zeile": 7908,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Aufzeichnungspflichten bei Verwendung einer offenen Ladenkasse"
+  },
+  {
+    "zeile": 7921,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4.[16][17] Verzögerungsgeld (§ 146 Abs. 2c AO)"
+  },
+  {
+    "zeile": 7924,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5.[18] DV-gestützte Buchführung und Aufzeichnungen (§ 146 Abs. 5 AO)"
+  },
+  {
+    "zeile": 7984,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 146a – Ordnungsvorschriften für die Buchführung und für Aufzeichnungen mittels elektronischer Aufzeichnungssysteme; Verordnungsermächtigung:[1]"
+  },
+  {
+    "zeile": 7985,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 8243,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Allgemeines und Begriffsdefinition"
+  },
+  {
+    "zeile": 8244,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.1.[2] Elektronische Aufzeichnungssysteme"
+  },
+  {
+    "zeile": 8249,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.2. Elektronische oder computergestützte Kassensysteme oder Registrierkassen"
+  },
+  {
+    "zeile": 8257,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.3. EU-Taxameter"
+  },
+  {
+    "zeile": 8264,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.4.[4] Wegstreckenzähler"
+  },
+  {
+    "zeile": 8273,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.5. Systeme, die nach § 1 Abs. 1 Satz 2 KassenSichV nicht als elektronische Aufzeichnungssysteme i.S.d. § 146a AO gelten"
+  },
+  {
+    "zeile": 8296,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.6. Schutz durch eine TSE (§ 146a Abs. 1 Satz 2 AO)"
+  },
+  {
+    "zeile": 8301,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.7. Schutzziele"
+  },
+  {
+    "zeile": 8310,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.8. Vorgang"
+  },
+  {
+    "zeile": 8313,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "1.9. Transaktion"
+  },
+  {
+    "zeile": 8481,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Kassen und Kassensysteme"
+  },
+  {
+    "zeile": 8643,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3.[22] EU-Taxameter"
+  },
+  {
+    "zeile": 8644,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.1. Sachlicher und zeitlicher Anwendungsbereich"
+  },
+  {
+    "zeile": 8655,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.2.[23] Der Einsatz einer TSE im EU-Taxameter"
+  },
+  {
+    "zeile": 8753,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.3. Einheitliche digitale Schnittstelle für steuerliche Außenprüfungen und Nachschauen bei EU-Taxametern"
+  },
+  {
+    "zeile": 8756,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.4. Anforderungen an den Beleg"
+  },
+  {
+    "zeile": 8779,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.5. Belegausgabe"
+  },
+  {
+    "zeile": 8790,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.6. Ausfall der TSE bei EU-Taxametern"
+  },
+  {
+    "zeile": 8798,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4.[30] Wegstreckenzähler"
+  },
+  {
+    "zeile": 8918,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.4. Anforderungen an den Beleg"
+  },
+  {
+    "zeile": 9067,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 146b – Kassen-Nachschau:[1]"
+  },
+  {
+    "zeile": 9095,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 147 – Ordnungsvorschriften für die Aufbewahrung von Unterlagen:[1][2]"
+  },
+  {
+    "zeile": 9106,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6.[7] [aufgehoben]"
+  },
+  {
+    "zeile": 9133,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 147a – Ordnungsvorschriften für die Aufbewahrung von Unterlagen:[1]"
+  },
+  {
+    "zeile": 9151,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 148 – Bewilligung von Erleichterungen:[1][2]"
+  },
+  {
+    "zeile": 9160,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 149 – Abgabe von Steuererklärungen:[1]"
+  },
+  {
+    "zeile": 9274,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 150 – Form und Inhalt der Steuererklärungen:[1]"
+  },
+  {
+    "zeile": 9321,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 151 – Aufnahme der Steuererklärung an Amtsstelle:"
+  },
+  {
+    "zeile": 9324,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 152 – Verspätungszuschlag:[1]"
+  },
+  {
+    "zeile": 9326,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 9380,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1.[2] Zeitlicher Anwendungsbereich"
+  },
+  {
+    "zeile": 9429,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Ermessensabhängige Festsetzung von Verspätungszuschlägen"
+  },
+  {
+    "zeile": 9436,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Entschuldbarkeit der verspäteten Erklärungsabgabe"
+  },
+  {
+    "zeile": 9439,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Gesetzlich vorgeschriebene Festsetzung von Verspätungszuschlägen"
+  },
+  {
+    "zeile": 9450,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 9454,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Rückausnahme gemäß § 152 Abs. 3 AO"
+  },
+  {
+    "zeile": 9471,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6.[5] Inhaltsadressat der Verspätungszuschlagsfestsetzung"
+  },
+  {
+    "zeile": 9488,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7. Gesetzliche Vorgaben zur Berechnung von Verspätungszuschlägen"
+  },
+  {
+    "zeile": 9493,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8. Berechnung von Verspätungszuschlägen bei anlassbezogenen Steueranmeldungen"
+  },
+  {
+    "zeile": 9496,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "9.[6] Berechnungszeitraum"
+  },
+  {
+    "zeile": 9507,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "10. Abrundung und Höchstbetrag"
+  },
+  {
+    "zeile": 9510,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "11.[7] Festsetzung, Fälligkeit, Verjährung"
+  },
+  {
+    "zeile": 9515,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "12.[8] Korrektur von Verspätungszuschlagsfestsetzungen"
+  },
+  {
+    "zeile": 9518,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "13.[9] [nicht mehr besetzt]"
+  },
+  {
+    "zeile": 9546,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 153 – Berichtigung von Erklärungen:[1]"
+  },
+  {
+    "zeile": 9547,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Allgemeines"
+  },
+  {
+    "zeile": 9552,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Abgrenzung der Anzeige- und Berichtigungspflicht von einer Selbstanzeige"
+  },
+  {
+    "zeile": 9571,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Umfang der Anzeige- und Berichtigungspflicht"
+  },
+  {
+    "zeile": 9574,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Zur Anzeige und Berichtigung verpflichtete Personen"
+  },
+  {
+    "zeile": 9577,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Zeitpunkt der Anzeige und Berichtigung"
+  },
+  {
+    "zeile": 9596,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 154 – Kontenwahrheit:[1][2]"
+  },
+  {
+    "zeile": 9598,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 9652,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Verbot der Verwendung falscher oder erdichteter Namen"
+  },
+  {
+    "zeile": 9655,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Konten auf den Namen Dritter/CpD-Konten"
+  },
+  {
+    "zeile": 9660,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Konto"
+  },
+  {
+    "zeile": 9663,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Verfügungsberechtigter"
+  },
+  {
+    "zeile": 9674,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Wirtschaftlich Berechtigter"
+  },
+  {
+    "zeile": 9679,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Verpflichteter"
+  },
+  {
+    "zeile": 9690,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7. Identifizierungs- und Aktualisierungspflicht"
+  },
+  {
+    "zeile": 9723,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8. Aufzeichnungspflicht"
+  },
+  {
+    "zeile": 9732,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "9. Auskunftsbereitschaft"
+  },
+  {
+    "zeile": 9741,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "10. Erhebung und Aufzeichnung steuerlicher Ordnungsmerkmale und Vergeblichkeitsmeldung"
+  },
+  {
+    "zeile": 9764,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "11. Erleichterungen gemäß § 154 Abs. 2d AO"
+  },
+  {
+    "zeile": 9765,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "11.1.[5] Erleichterungen hinsichtlich der Verfügungsberechtigten"
+  },
+  {
+    "zeile": 9800,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "11.2.[6] Erleichterungen hinsichtlich der wirtschaftlich Berechtigten"
+  },
+  {
+    "zeile": 9815,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "12. Haftung bei Verstoß gegen § 154 AO"
+  },
+  {
+    "zeile": 9822,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "13. Ordnungswidrigkeiten"
+  },
+  {
+    "zeile": 9851,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 155 – Steuerfestsetzung:"
+  },
+  {
+    "zeile": 9863,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 156 – Absehen von Steuerfestsetzung:[1]"
+  },
+  {
+    "zeile": 9869,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 157 – Form und Inhalt der Steuerbescheide:[1]"
+  },
+  {
+    "zeile": 9877,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 158 – Beweiskraft der Buchführung:[1]"
+  },
+  {
+    "zeile": 9898,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 159 – Nachweis der Treuhänderschaft:"
+  },
+  {
+    "zeile": 9901,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 160 – Benennung von Gläubigern und Zahlungsempfängern:"
+  },
+  {
+    "zeile": 9940,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 162 – Schätzung von Besteuerungsgrundlagen:[1]"
+  },
+  {
+    "zeile": 9969,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 163 – Abweichende Festsetzung von Steuern aus Billigkeitsgründen:[1]"
+  },
+  {
+    "zeile": 9994,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 164 – Steuerfestsetzung unter Vorbehalt der Nachprüfung:"
+  },
+  {
+    "zeile": 10025,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 165 – Vorläufige Steuerfestsetzung, Aussetzung der Steuerfestsetzung:"
+  },
+  {
+    "zeile": 10087,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 167 – Steueranmeldung, Verwendung von Steuerzeichen oder Steuerstemplern:"
+  },
+  {
+    "zeile": 10098,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 168 – Wirkung einer Steueranmeldung:"
+  },
+  {
+    "zeile": 10142,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO vor §§ 169 bis 171 – Festsetzungsverjährung:"
+  },
+  {
+    "zeile": 10174,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 169 – Festsetzungsfrist:"
+  },
+  {
+    "zeile": 10226,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 170 – Beginn der Festsetzungsfrist:"
+  },
+  {
+    "zeile": 10252,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 171 – Ablaufhemmung:"
+  },
+  {
+    "zeile": 10255,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2.[1] Ablaufhemmung nach § 171 Abs. 3 AO"
+  },
+  {
+    "zeile": 10274,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3.[3] Ablaufhemmung wegen Beginn einer Außenprüfung (§ 171 Abs. 4 AO)[4]"
+  },
+  {
+    "zeile": 10323,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4.[11] Ablaufhemmung wegen Ermittlungen der Steuerfahndung"
+  },
+  {
+    "zeile": 10358,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "6.8.[20] Beispiele zur Anwendung des § 171 Abs. 10 Satz 1 AO[21]"
+  },
+  {
+    "zeile": 10360,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 10368,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 10376,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 10462,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO vor §§ 172 bis 177 – Bestandskraft:"
+  },
+  {
+    "zeile": 10477,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8.[3] Steuerliche Wahlrechte"
+  },
+  {
+    "zeile": 10523,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 172 – Aufhebung und Änderung von Steuerbescheiden:"
+  },
+  {
+    "zeile": 10561,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 173 – Aufhebung oder Änderung von Steuerbescheiden wegen neuer Tatsachen oder Beweismittel:"
+  },
+  {
+    "zeile": 10563,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 10605,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Tatsachen und Beweismittel"
+  },
+  {
+    "zeile": 10624,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Nachträgliches Bekanntwerden der Tatsachen oder Beweismittel"
+  },
+  {
+    "zeile": 10647,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Rechtserheblichkeit der Tatsachen oder Beweismittel"
+  },
+  {
+    "zeile": 10654,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Ermittlungsfehler des Finanzamts"
+  },
+  {
+    "zeile": 10665,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Grobes Verschulden des Steuerpflichtigen"
+  },
+  {
+    "zeile": 10688,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Unbeachtlichkeit des Verschuldens des Steuerpflichtigen"
+  },
+  {
+    "zeile": 10697,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7. Änderung von Schätzungsveranlagungen"
+  },
+  {
+    "zeile": 10708,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8. Änderungssperre (§ 173 Abs. 2 AO)"
+  },
+  {
+    "zeile": 10733,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "9. Umfang der Änderung"
+  },
+  {
+    "zeile": 10736,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "10.[10] Anwendung des § 173 AO in Feststellungsfällen"
+  },
+  {
+    "zeile": 10749,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 10787,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 173a – Schreib- oder Rechenfehler bei Erstellung einer Steuererklärung:[1]"
+  },
+  {
+    "zeile": 10806,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 174 – Widerstreitende Steuerfestsetzungen:"
+  },
+  {
+    "zeile": 10807,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1.[1] Allgemeines"
+  },
+  {
+    "zeile": 10816,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2.[4] Zu § 174 Abs. 1 AO"
+  },
+  {
+    "zeile": 10821,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3.[5] Zu § 174 Abs. 2 AO"
+  },
+  {
+    "zeile": 10826,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4.[6] „Widerstreit“ im Sinne des § 174 Abs. 1 und 2 AO"
+  },
+  {
+    "zeile": 10829,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5.[7] Unionskonforme Auslegung des § 174 Abs. 1 und 2 AO"
+  },
+  {
+    "zeile": 10834,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 10844,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6.[9][10] Zu § 174 Abs. 3 AO"
+  },
+  {
+    "zeile": 10849,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 10855,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7.[11] Zu § 174 Abs. 4 AO"
+  },
+  {
+    "zeile": 10860,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "7.3. Beispiele:"
+  },
+  {
+    "zeile": 10868,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8.[13] Änderung nach § 174 Abs. 4 i.V.m. Abs. 5 AO zu Lasten eines Dritten"
+  },
+  {
+    "zeile": 10883,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "9.[14][15] Alternative oder kumulative Erfassung bestimmter Sachverhalte beim Steuerpflichtigen und beim Dritten"
+  },
+  {
+    "zeile": 10931,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 175 – Änderung von Steuerbescheiden auf Grund von Grundlagenbescheiden und bei rückwirkenden Ereignissen:[1]"
+  },
+  {
+    "zeile": 10932,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Aufhebung oder Änderung von Folgebescheiden nach § 175 Abs. 1 Satz 1 Nr. 1 AO"
+  },
+  {
+    "zeile": 10955,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Aufhebung oder Änderung von Steuerbescheiden wegen Eintritts eines rückwirkenden Ereignisses (§ 175 Abs. 1 Satz 1 Nr. 2 AO)"
+  },
+  {
+    "zeile": 10972,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.4.[9] Beispiele für rückwirkende Ereignisse:"
+  },
+  {
+    "zeile": 11048,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Doppelbesteuerungsabkommen"
+  },
+  {
+    "zeile": 11058,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Investitionszulage"
+  },
+  {
+    "zeile": 11090,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Bewertung"
+  },
+  {
+    "zeile": 11124,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 175a – Umsetzung von Verständigungsvereinbarungen:[1]"
+  },
+  {
+    "zeile": 11130,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 175b – Änderung von Steuerbescheiden bei Datenübermittlung durch Dritte:[1]"
+  },
+  {
+    "zeile": 11155,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 176 – Vertrauensschutz bei der Aufhebung und Änderung von Steuerbescheiden:"
+  },
+  {
+    "zeile": 11172,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 177 – Berichtigung von materiellen Fehlern:"
+  },
+  {
+    "zeile": 11181,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 11195,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 179 – Feststellung von Besteuerungsgrundlagen:"
+  },
+  {
+    "zeile": 11255,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 180 – Gesonderte Feststellung von Besteuerungsgrundlagen:"
+  },
+  {
+    "zeile": 11286,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7.[10] Gesonderte Feststellung durch Teilabschlussbescheid"
+  },
+  {
+    "zeile": 11348,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 181 – Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist, Erklärungspflicht:"
+  },
+  {
+    "zeile": 11349,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1.[1] Erlass eines Feststellungsbescheids trotz Ablaufs der Feststellungsfrist"
+  },
+  {
+    "zeile": 11360,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2.[2] Anlaufhemmung für die gesonderte Feststellung von Einheitswerten oder Grundsteuerwerten"
+  },
+  {
+    "zeile": 11363,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3.[3] Feststellungserklärungspflicht bei rechtsfähigen Personenvereinigungen"
+  },
+  {
+    "zeile": 11384,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 182 – Wirkung der gesonderten Feststellung:"
+  },
+  {
+    "zeile": 11402,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 183 – Bekanntgabe bei der gesonderten und einheitlichen Feststellung gegenüber rechtsfähigen Personenvereinigungen:[1]"
+  },
+  {
+    "zeile": 11422,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 183a – Empfangsbevollmächtigte bei der gesonderten und einheitlichen Feststellung bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen:[1]"
+  },
+  {
+    "zeile": 11442,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 184 – Festsetzung von Steuermessbeträgen:"
+  },
+  {
+    "zeile": 11445,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 188 – Zerlegungsbescheid:"
+  },
+  {
+    "zeile": 11448,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 191 – Haftungsbescheide, Duldungsbescheide:[1]"
+  },
+  {
+    "zeile": 11523,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 192 – Vertragliche Haftung:"
+  },
+  {
+    "zeile": 11526,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 193 – Zulässigkeit einer Außenprüfung:[1][2]"
+  },
+  {
+    "zeile": 11556,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 194 – Sachlicher Umfang einer Außenprüfung:"
+  },
+  {
+    "zeile": 11577,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 195 – Zuständigkeit:"
+  },
+  {
+    "zeile": 11580,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 196 – Prüfungsanordnung:[1]"
+  },
+  {
+    "zeile": 11612,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 197 – Bekanntgabe der Prüfungsanordnung:[1]"
+  },
+  {
+    "zeile": 11614,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 11660,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Allgemeines"
+  },
+  {
+    "zeile": 11663,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Bekanntgabe von Prüfungsanordnungen"
+  },
+  {
+    "zeile": 11672,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.1. Inhaltsadressat"
+  },
+  {
+    "zeile": 11675,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.2. Bekanntgabeadressat"
+  },
+  {
+    "zeile": 11680,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 11688,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.3. Empfänger"
+  },
+  {
+    "zeile": 11697,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.4. Übermittlung an Bevollmächtigte (§§ 80 Abs. 1, 122 Abs. 1 Satz 3 AO)"
+  },
+  {
+    "zeile": 11700,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 11710,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Bekanntgabe von Prüfungsanordnungen an Ehegatten bzw. Lebenspartner"
+  },
+  {
+    "zeile": 11715,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Bekanntgabe an gesetzliche Vertreter natürlicher Personen"
+  },
+  {
+    "zeile": 11718,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 11732,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Personenvereinigungen"
+  },
+  {
+    "zeile": 11759,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.2. Nicht rechtsfähige Personenvereinigungen"
+  },
+  {
+    "zeile": 11798,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.3. Sonderfälle"
+  },
+  {
+    "zeile": 11809,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.4. Arbeitsgemeinschaften"
+  },
+  {
+    "zeile": 11812,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.5. Atypisch stille Gesellschaften"
+  },
+  {
+    "zeile": 11815,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 11835,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.6. Personengesellschaften (Gemeinschaften) in Liquidation"
+  },
+  {
+    "zeile": 11840,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.7. Eintritt, Ausscheiden und Wechsel von Mitgliedern/Gesellschaftern/Gemeinschaftern einer Personengesellschaft"
+  },
+  {
+    "zeile": 11851,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Juristische Personen"
+  },
+  {
+    "zeile": 11854,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7. Insolvenzfälle"
+  },
+  {
+    "zeile": 11857,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8. Gesamtrechtsnachfolge in Erbfällen"
+  },
+  {
+    "zeile": 11860,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 11924,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "9. Umwandlungen"
+  },
+  {
+    "zeile": 11935,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "10. Festlegung des voraussichtlichen Prüfungsbeginns"
+  },
+  {
+    "zeile": 11942,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "11. Antrag des Steuerpflichtigen auf Verschiebung des Prüfungsbeginns (§ 197 Abs. 2 AO)"
+  },
+  {
+    "zeile": 11958,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 198 – Ausweispflicht, Beginn der Außenprüfung:"
+  },
+  {
+    "zeile": 11967,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 200 – Mitwirkungspflichten des Steuerpflichtigen:"
+  },
+  {
+    "zeile": 11990,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 201 – Schlussbesprechung:"
+  },
+  {
+    "zeile": 12017,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 202 – Inhalt und Bekanntgabe des Prüfungsberichts:"
+  },
+  {
+    "zeile": 12022,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 203 – Abgekürzte Außenprüfung:"
+  },
+  {
+    "zeile": 12037,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 204 – Voraussetzung der verbindlichen Zusage:"
+  },
+  {
+    "zeile": 12057,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 205 – Form der verbindlichen Zusage:"
+  },
+  {
+    "zeile": 12060,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 206 – Bindungswirkung:"
+  },
+  {
+    "zeile": 12063,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 207 – Außerkrafttreten, Aufhebung und Änderung der verbindlichen Zusage:"
+  },
+  {
+    "zeile": 12068,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 208 – Steuerfahndung, Zollfahndung:[1]"
+  },
+  {
+    "zeile": 12104,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 218 – Verwirklichung von Ansprüchen aus dem Steuerschuldverhältnis:[1]"
+  },
+  {
+    "zeile": 12105,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Konkretisierung der Ansprüche aus dem Steuerschuldverhältnis"
+  },
+  {
+    "zeile": 12110,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Säumniszuschläge"
+  },
+  {
+    "zeile": 12113,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Abrechnungsbescheid"
+  },
+  {
+    "zeile": 12118,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Widerstreitende Anrechnungsverfügungen oder Abrechnungsbescheide"
+  },
+  {
+    "zeile": 12145,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 219 – Zahlungsaufforderung bei Haftungsbescheiden:"
+  },
+  {
+    "zeile": 12153,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 220 – Fälligkeit:"
+  },
+  {
+    "zeile": 12161,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 224 – Leistungsort, Tag der Zahlung:"
+  },
+  {
+    "zeile": 12174,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 226 – Aufrechnung:"
+  },
+  {
+    "zeile": 12194,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 228 – Gegenstand der Verjährung, Verjährungsfrist:"
+  },
+  {
+    "zeile": 12204,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 229 – Beginn der Verjährung:[1]"
+  },
+  {
+    "zeile": 12212,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 230 – Hemmung der Verjährung:[1]"
+  },
+  {
+    "zeile": 12228,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 231 – Unterbrechung der Verjährung:"
+  },
+  {
+    "zeile": 12236,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 233a – Verzinsung von Steuernachforderungen und Steuererstattungen:[1]"
+  },
+  {
+    "zeile": 12238,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 12299,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Sachlicher und zeitlicher Geltungsbereich"
+  },
+  {
+    "zeile": 12304,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Zinsschuldner/‑gläubiger"
+  },
+  {
+    "zeile": 12307,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Zinslauf"
+  },
+  {
+    "zeile": 12416,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "10. Besonderer Zinslauf bei rückwirkenden Ereignissen und Verlust­rückträgen"
+  },
+  {
+    "zeile": 12423,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "10.3. Einzelfragen:"
+  },
+  {
+    "zeile": 12434,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Grundsätze der Zinsberechnung"
+  },
+  {
+    "zeile": 12447,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Zinsberechnung bei der erstmaligen Steuerfestsetzung"
+  },
+  {
+    "zeile": 12460,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "20. Beispiel 1:"
+  },
+  {
+    "zeile": 12495,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "22. Beispiel 2:"
+  },
+  {
+    "zeile": 12536,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "26. Beispiel 3:"
+  },
+  {
+    "zeile": 12581,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "30. Beispiel 4:"
+  },
+  {
+    "zeile": 12636,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Schattenveranlagung (Steuerfestsetzung ohne Berücksichtigung des Verlustrücktrags und des rückwirkenden Ereignisses):"
+  },
+  {
+    "zeile": 12656,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Schattenveranlagung (1. Schattenveranlagung + Verlustrücktrag aus 2019)"
+  },
+  {
+    "zeile": 12676,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Schattenveranlagung (2. Schattenveranlagung + rückwirkendes Ereignis aus 2020):"
+  },
+  {
+    "zeile": 12702,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "33. Beispiel 5:"
+  },
+  {
+    "zeile": 12749,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Schattenveranlagung (Steuerfestsetzung ohne Berücksichtigung des rückwirkenden Ereignisses):"
+  },
+  {
+    "zeile": 12769,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Schattenveranlagung (1. Schattenveranlagung + rückwirkendes Ereignis aus 2019)"
+  },
+  {
+    "zeile": 12823,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "34. Beispiel 6:"
+  },
+  {
+    "zeile": 12872,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Schattenveranlagung (Steuerfestsetzung ohne Berücksichtigung des rückwirkenden Ereignisses):"
+  },
+  {
+    "zeile": 12892,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Schattenveranlagung (1. Schattenveranlagung + rückwirkendes Ereignis aus 2019)"
+  },
+  {
+    "zeile": 12956,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "36. Beispiel 7:"
+  },
+  {
+    "zeile": 13007,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Schattenveranlagung (Steuerfestsetzung ohne Berücksichtigung des rückwirkenden Ereignisses):"
+  },
+  {
+    "zeile": 13027,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Schattenveranlagung (1. Schattenveranlagung + rückwirkendes Ereignis aus 2019):"
+  },
+  {
+    "zeile": 13135,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "37. Beispiel 8:"
+  },
+  {
+    "zeile": 13186,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Schattenveranlagung (Steuerfestsetzung ohne Berücksichtigung des rückwirkenden Ereignisses):"
+  },
+  {
+    "zeile": 13206,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Schattenveranlagung (1. Schattenveranlagung + rückwirkendes Ereignis aus 2019):"
+  },
+  {
+    "zeile": 13396,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "39. Beispiel 9:"
+  },
+  {
+    "zeile": 13447,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Schattenveranlagung (Steuerfestsetzung ohne Berücksichtigung der rückwirkenden Ereignisse aus 2019 und 2020):"
+  },
+  {
+    "zeile": 13467,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Schattenveranlagung (1. Schattenveranlagung + rückwirkendes Ereignis aus 2019):"
+  },
+  {
+    "zeile": 13487,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Schattenveranlagung (2. Schattenveranlagung + rückwirkendes Ereignis aus 2020):"
+  },
+  {
+    "zeile": 13678,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Zinsberechnung bei einer Korrektur der Steuerfestsetzung oder der Anrechnung von Steuerbeträgen"
+  },
+  {
+    "zeile": 13699,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "48. Beispiel 10:"
+  },
+  {
+    "zeile": 13778,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Schattenveranlagung (bisherige Festsetzung + neue Tatsache):"
+  },
+  {
+    "zeile": 13798,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Schattenveranlagung (1. Schattenveranlagung + Verlustrücktrag aus 2019):"
+  },
+  {
+    "zeile": 13818,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Schattenveranlagung (2. Schattenveranlagung + rückwirkendes Ereignis aus 2020):"
+  },
+  {
+    "zeile": 13846,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "52. Beispiel 11:"
+  },
+  {
+    "zeile": 13919,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "55. Beispiel 12:"
+  },
+  {
+    "zeile": 14046,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "58. Beispiel 13 (Fortsetzung von Beispiel 9):"
+  },
+  {
+    "zeile": 14198,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Zinsberechnung bei sog. NV-Fällen"
+  },
+  {
+    "zeile": 14201,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "61. Sonderregelungen für Zinsberechnungen bei der Umsatzsteuer"
+  },
+  {
+    "zeile": 14202,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "61.1. Zinsberechnung bei Vorsteuer-Vergütungsansprüchen"
+  },
+  {
+    "zeile": 14203,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "61.1.1. Im übrigen Gemeinschaftsgebiet ansässige Unternehmer"
+  },
+  {
+    "zeile": 14206,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "61.1.2. Im Drittlandsgebiet ansässige Unternehmer"
+  },
+  {
+    "zeile": 14211,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "61.2. Zinsberechnung bei der Umsatzsteuer in Fällen des Mini-one-stop-shop-Verfahrens (MOSS-Verfahren)"
+  },
+  {
+    "zeile": 14214,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Verhältnis zu anderen steuerlichen Nebenleistungen"
+  },
+  {
+    "zeile": 14231,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Billigkeitsmaßnahmen"
+  },
+  {
+    "zeile": 14232,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "69. Allgemeines"
+  },
+  {
+    "zeile": 14249,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "70. Einzelfragen"
+  },
+  {
+    "zeile": 14250,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "70.1. Leistungen vor Festsetzung der zu verzinsenden Steuer"
+  },
+  {
+    "zeile": 14257,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 14 (Fortsetzung von Beispiel 1):"
+  },
+  {
+    "zeile": 14282,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 15 (Fortsetzung von Beispiel 1):"
+  },
+  {
+    "zeile": 14324,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "70.3. Gewinnverlagerungen"
+  },
+  {
+    "zeile": 14327,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Rechtsbehelfe"
+  },
+  {
+    "zeile": 14334,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Berücksichtigung rückwirkender Ereignisse in Grundlagenbescheiden"
+  },
+  {
+    "zeile": 14360,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 234 – Stundungszinsen:"
+  },
+  {
+    "zeile": 14371,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 14381,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 14391,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 14401,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 14447,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele für gesondert zu verzinsende Ansprüche:"
+  },
+  {
+    "zeile": 14455,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 14493,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 14495,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Variante:"
+  },
+  {
+    "zeile": 14503,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Rate"
+  },
+  {
+    "zeile": 14509,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Rate"
+  },
+  {
+    "zeile": 14515,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Rate"
+  },
+  {
+    "zeile": 14525,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Variante:"
+  },
+  {
+    "zeile": 14533,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Rate"
+  },
+  {
+    "zeile": 14539,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Rate"
+  },
+  {
+    "zeile": 14545,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Rate"
+  },
+  {
+    "zeile": 14561,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 14573,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Rate in € (14.7.2005)"
+  },
+  {
+    "zeile": 14577,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Rate in € (14.8.2005)"
+  },
+  {
+    "zeile": 14581,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Rate in € (14.9.2005)"
+  },
+  {
+    "zeile": 14848,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 235 – Verzinsung von hinterzogenen Steuern:[1]"
+  },
+  {
+    "zeile": 14850,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht [2]"
+  },
+  {
+    "zeile": 14912,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Zweck und Voraussetzungen der Verzinsung"
+  },
+  {
+    "zeile": 14939,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Gegenstand der Verzinsung"
+  },
+  {
+    "zeile": 14958,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Zinsschuldner"
+  },
+  {
+    "zeile": 14967,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Zinslauf"
+  },
+  {
+    "zeile": 14994,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Höhe der Hinterziehungszinsen"
+  },
+  {
+    "zeile": 14995,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.1. Berechnung der Hinterziehungszinsen im Allgemeinen"
+  },
+  {
+    "zeile": 15008,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.2. Berechnung der Hinterziehungszinsen auf Vorauszahlungen"
+  },
+  {
+    "zeile": 15017,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.3.[13] Beispiele zur Berechnung der Hinterziehungszinsen bei Veranlagungssteuern"
+  },
+  {
+    "zeile": 15018,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 1:[14]"
+  },
+  {
+    "zeile": 15100,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 15148,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.4.[15] Beispiele zur Berechnung der Hinterziehungszinsen bei Fälligkeitssteuern"
+  },
+  {
+    "zeile": 15149,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 15177,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 2:[16]"
+  },
+  {
+    "zeile": 15215,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 15241,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 4:[20]"
+  },
+  {
+    "zeile": 15279,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 5:"
+  },
+  {
+    "zeile": 15305,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 6:[24]"
+  },
+  {
+    "zeile": 15343,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Verfahren"
+  },
+  {
+    "zeile": 15352,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7.[27] Festsetzungsverjährung"
+  },
+  {
+    "zeile": 15442,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 236 – Prozesszinsen auf Erstattungsbeträge:"
+  },
+  {
+    "zeile": 15471,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 237 – Zinsen bei Aussetzung der Vollziehung:"
+  },
+  {
+    "zeile": 15506,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 238 – Höhe und Berechnung der Zinsen:[1]"
+  },
+  {
+    "zeile": 15569,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 239 – Festsetzung der Zinsen:"
+  },
+  {
+    "zeile": 15584,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 240 – Säumniszuschläge:[1]"
+  },
+  {
+    "zeile": 15668,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu §§ 241 bis 248 – Sicherheitsleistung:"
+  },
+  {
+    "zeile": 15676,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 251 – Insolvenzverfahren:"
+  },
+  {
+    "zeile": 15678,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht[1]"
+  },
+  {
+    "zeile": 15960,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Allgemeines"
+  },
+  {
+    "zeile": 15965,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Voraussetzung für die Eröffnung des Verfahrens"
+  },
+  {
+    "zeile": 15966,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.1. Eröffnungsgründe"
+  },
+  {
+    "zeile": 15977,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.1.1. Zahlungsunfähigkeit"
+  },
+  {
+    "zeile": 15982,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.1.2.[2] Drohende Zahlungsunfähigkeit"
+  },
+  {
+    "zeile": 15985,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "2.1.3.[3] Überschuldung"
+  },
+  {
+    "zeile": 15988,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.2.[4] Eröffnungsantrag"
+  },
+  {
+    "zeile": 15995,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "2.3. Rechtsbehelfe"
+  },
+  {
+    "zeile": 16000,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Insolvenzeröffnungsverfahren"
+  },
+  {
+    "zeile": 16001,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.1.[5] Sicherungsmaßnahmen"
+  },
+  {
+    "zeile": 16010,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "3.2.[7] Besonderheiten bei beantragter Eigenverwaltung"
+  },
+  {
+    "zeile": 16013,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Eröffnung des Verfahrens"
+  },
+  {
+    "zeile": 16014,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.1. Wirkung der Eröffnung des Verfahrens"
+  },
+  {
+    "zeile": 16015,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.1.1.[8] Allgemeines"
+  },
+  {
+    "zeile": 16024,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.1.2.[9] Unterbrechungswirkung (analog § 240 ZPO)"
+  },
+  {
+    "zeile": 16041,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.1.3. Auswirkungen auf bei Insolvenzeröffnung anhängige Rechtsbehelfsverfahren und Anträge auf Aussetzung der Vollziehung"
+  },
+  {
+    "zeile": 16046,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.1.4. Auswirkungen auf Stundung und Vollstreckungsaufschub"
+  },
+  {
+    "zeile": 16049,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.1.5. Wirkungen auf Verfahren gegen Dritte"
+  },
+  {
+    "zeile": 16052,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.2.[10] Stellung und steuerliche Pflichten des Insolvenzverwalters"
+  },
+  {
+    "zeile": 16065,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.3. Verwaltungsakte im Insolvenzverfahren"
+  },
+  {
+    "zeile": 16066,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.3.1.[11] Vor Insolvenzeröffnung begründete Ansprüche"
+  },
+  {
+    "zeile": 16099,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.3.2. Nach Insolvenzeröffnung begründete Ansprüche"
+  },
+  {
+    "zeile": 16112,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.3.3.[12] Beispiele für Bescheiderläuterungen bei Bekanntgabe an den Insolvenzverwalter:"
+  },
+  {
+    "zeile": 16121,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.4. Besonderheiten bei der gesonderten Feststellung von Besteuerungsgrundlagen"
+  },
+  {
+    "zeile": 16122,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.4.1. Personengesellschaften"
+  },
+  {
+    "zeile": 16123,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.4.1.1.[13] Insolvenz der rechtsfähigen Personengesellschaft"
+  },
+  {
+    "zeile": 16138,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.4.1.2. Insolvenz eines (oder mehrerer) Gesellschafters der Personengesellschaft"
+  },
+  {
+    "zeile": 16161,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "4.4.2.[14] Sonstige Feststellungen von Besteuerungsgrundlagen"
+  },
+  {
+    "zeile": 16164,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.5.[15] Auskunftsrechte des Insolvenzverwalters gegenüber dem Finanzamt"
+  },
+  {
+    "zeile": 16179,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Insolvenzforderungen"
+  },
+  {
+    "zeile": 16180,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.1.[17] Begriff"
+  },
+  {
+    "zeile": 16187,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Beispiel 1 (Umsatzsteuer)"
+  },
+  {
+    "zeile": 16195,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Beispiel 2 (Vorsteuerrückforderung)"
+  },
+  {
+    "zeile": 16199,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Beispiel 3 (Lohnsteuer)"
+  },
+  {
+    "zeile": 16203,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Beispiel 4 (Rückforderung Investitionszulage)"
+  },
+  {
+    "zeile": 16225,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.2.[19] Geltendmachung von Insolvenzforderungen"
+  },
+  {
+    "zeile": 16228,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.3. Insolvenzforderungen im Prüfungstermin; Auswirkungen auf das Besteuerungsverfahren"
+  },
+  {
+    "zeile": 16238,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "5.3.1.1. Nicht titulierte Forderungen"
+  },
+  {
+    "zeile": 16241,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "5.3.1.2.[21] Titulierte Forderungen"
+  },
+  {
+    "zeile": 16244,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "5.3.1.2.1.[22] Nicht bestandskräftiger und nicht angefochtener Steuerbescheid"
+  },
+  {
+    "zeile": 16251,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "5.3.1.2.2.[23] Angefochtener Steuerbescheid"
+  },
+  {
+    "zeile": 16280,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "5.3.1.2.3. Bestandskräftiger Steuerbescheid"
+  },
+  {
+    "zeile": 16283,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "5.3.2.[24] Vom Schuldner bestrittene Forderungen"
+  },
+  {
+    "zeile": 16300,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "5.3.3. Feststellung der Forderung zur Tabelle"
+  },
+  {
+    "zeile": 16309,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "5.3.4. Feststellungsbescheid gem. § 251 Abs. 3 AO"
+  },
+  {
+    "zeile": 16312,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "5.3.5.[25] Änderung von zur Insolvenztabelle festgestellten Steuerforderungen"
+  },
+  {
+    "zeile": 16317,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Sonstige Masseverbindlichkeiten (§ 55 InsO)"
+  },
+  {
+    "zeile": 16318,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "6.1.[26] Begründung von sonstigen Masseverbindlichkeiten"
+  },
+  {
+    "zeile": 16351,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "6.2. Durchsetzung von sonstigen Masseverbindlichkeiten"
+  },
+  {
+    "zeile": 16354,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7.[28] Insolvenzfreies Vermögen"
+  },
+  {
+    "zeile": 16363,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8.[29] Aufrechnung im Insolvenzverfahren"
+  },
+  {
+    "zeile": 16378,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 16384,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 16394,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 16404,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 16412,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 16420,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "9.[30] Verteilung der Steuerforderungen und ‑erstattungsansprüche auf die insolvenzrechtlichen Vermögensbereiche"
+  },
+  {
+    "zeile": 16423,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "9.1.[31] Einkommensteuer"
+  },
+  {
+    "zeile": 16426,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "9.1.1.[32] Einzelveranlagung"
+  },
+  {
+    "zeile": 16429,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 16473,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 2 (Fortsetzung von Beispiel 1):"
+  },
+  {
+    "zeile": 16525,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "9.1.2.[34] Zusammenveranlagung"
+  },
+  {
+    "zeile": 16530,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 16536,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Schritt:"
+  },
+  {
+    "zeile": 16588,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Schritt:"
+  },
+  {
+    "zeile": 16620,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Vorauszahlungen/anzurechnende Steuerabzugsbeträge"
+  },
+  {
+    "zeile": 16623,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 4 (Fortsetzung von Beispiel 3):"
+  },
+  {
+    "zeile": 16704,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 5:"
+  },
+  {
+    "zeile": 16718,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 6,
+    "text": "9.1.4.[36] Einkommensteuererstattungen"
+  },
+  {
+    "zeile": 16729,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 6:"
+  },
+  {
+    "zeile": 16877,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "9.2.[37] Umsatzsteuer"
+  },
+  {
+    "zeile": 16888,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "10. Befriedigung der Insolvenzgläubiger"
+  },
+  {
+    "zeile": 16891,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "11.[38] Insolvenzplan"
+  },
+  {
+    "zeile": 16914,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "12.[39] Verbraucherinsolvenzverfahren nach §§ 304 ff. InsO"
+  },
+  {
+    "zeile": 16921,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "12.1.[40] Außergerichtlicher Einigungsversuch"
+  },
+  {
+    "zeile": 16928,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "12.2.[41] Schuldenbereinigungsverfahren"
+  },
+  {
+    "zeile": 16967,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "12.3.[42] Eröffnetes Insolvenzverfahren"
+  },
+  {
+    "zeile": 16974,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "13.[43] Eigenverwaltung"
+  },
+  {
+    "zeile": 16977,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "13.1. Vorläufiges Eigenverwaltungsverfahren"
+  },
+  {
+    "zeile": 16986,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "13.2. Besonderheiten bei der Vorbereitung einer Sanierung nach § 270d InsO (Schutzschirm)"
+  },
+  {
+    "zeile": 16991,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "13.3.[44] Eröffnung des Insolvenzverfahrens"
+  },
+  {
+    "zeile": 17004,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "14.[45] Vorgehensweise nach Aufhebung des Insolvenzverfahrens"
+  },
+  {
+    "zeile": 17027,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "15.[46] Restschuldbefreiung"
+  },
+  {
+    "zeile": 17030,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "15.1.[47] Laufzeit der Abtretungserklärung"
+  },
+  {
+    "zeile": 17049,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "15.2.[48] Ausgenommene Forderungen"
+  },
+  {
+    "zeile": 17068,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "15.3.[49] Erteilung der Restschuldbefreiung"
+  },
+  {
+    "zeile": 17232,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO vor § 347 – Außergerichtliches Rechtsbehelfsverfahren:"
+  },
+  {
+    "zeile": 17251,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 347 – Statthaftigkeit des Einspruchs:"
+  },
+  {
+    "zeile": 17283,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 350 – Beschwer:"
+  },
+  {
+    "zeile": 17311,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 351 – Bindungswirkung anderer Verwaltungsakte:"
+  },
+  {
+    "zeile": 17316,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiele:"
+  },
+  {
+    "zeile": 17329,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 352 – Einspruchsbefugnis bei der gesonderten und einheitlichen Feststellung:[1]"
+  },
+  {
+    "zeile": 17371,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 353 – Einspruchsbefugnis des Rechtsnachfolgers:"
+  },
+  {
+    "zeile": 17388,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 355 – Einspruchsfrist:"
+  },
+  {
+    "zeile": 17403,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 357[1] – Einlegung des Einspruchs:"
+  },
+  {
+    "zeile": 17421,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 360 – Hinzuziehung zum Verfahren:"
+  },
+  {
+    "zeile": 17430,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 361 – Aussetzung der Vollziehung:"
+  },
+  {
+    "zeile": 17432,
+    "art": "inhaltsuebersicht_position",
+    "ebene": 4,
+    "text": "Inhaltsübersicht"
+  },
+  {
+    "zeile": 17526,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "1. Anwendungsbereich des § 361 AO und des § 69 Abs. 2 FGO/Abgrenzung zur gerichtlichen Vollziehungsaussetzung und zur Stundung"
+  },
+  {
+    "zeile": 17537,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "2. Voraussetzungen für eine Vollziehungsaussetzung"
+  },
+  {
+    "zeile": 17618,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "3. Summarisches Verfahren/Vollstreckung bei anhängigem Vollziehungsaussetzungsantrag/Zuständigkeit"
+  },
+  {
+    "zeile": 17627,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "4. Berechnung der auszusetzenden Steuer"
+  },
+  {
+    "zeile": 17640,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.1. Die streitbefangene Steuer ist kleiner als die Abschlusszahlung"
+  },
+  {
+    "zeile": 17641,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 17661,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 17681,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.2. Die streitbefangene Steuer ist kleiner als die Abschlusszahlung einschließlich nicht geleisteter Vorauszahlungen"
+  },
+  {
+    "zeile": 17682,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 17714,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 17746,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.3. Die streitbefangene Steuer ist größer als die Abschlusszahlung"
+  },
+  {
+    "zeile": 17747,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 17771,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.4. Die streitbefangene Steuer ist größer als die Abschlusszahlung einschließlich nicht geleisteter Vorauszahlungen"
+  },
+  {
+    "zeile": 17772,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 17804,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 17836,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.5. Die Steuerfestsetzung führt zu einer Erstattung"
+  },
+  {
+    "zeile": 17837,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 1:"
+  },
+  {
+    "zeile": 17861,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 2:"
+  },
+  {
+    "zeile": 17891,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel 3:"
+  },
+  {
+    "zeile": 17921,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.6. Sonderfälle"
+  },
+  {
+    "zeile": 17940,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "4.7. Außersteuerliche Verwaltungsakte"
+  },
+  {
+    "zeile": 17943,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "5. Aussetzung der Vollziehung von Grundlagenbescheiden"
+  },
+  {
+    "zeile": 17984,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "5.4. Unterrichtungspflicht"
+  },
+  {
+    "zeile": 17993,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Aussetzung der Vollziehung von Folgebescheiden"
+  },
+  {
+    "zeile": 18002,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7. Aufhebung der Vollziehung durch das Finanzamt"
+  },
+  {
+    "zeile": 18007,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "Beispiel:"
+  },
+  {
+    "zeile": 18031,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8. Dauer der Aussetzung/Aufhebung der Vollziehung"
+  },
+  {
+    "zeile": 18032,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "8.1. Beginn der Aussetzung/Aufhebung der Vollziehung"
+  },
+  {
+    "zeile": 18043,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "8.2. Ende der Aussetzung/Aufhebung der Vollziehung"
+  },
+  {
+    "zeile": 18050,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "9. Nebenbestimmungen zur Aussetzung/Aufhebung der Vollziehung"
+  },
+  {
+    "zeile": 18051,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "9.1. Widerrufsvorbehalt"
+  },
+  {
+    "zeile": 18054,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 5,
+    "text": "9.2. Sicherheitsleistung"
+  },
+  {
+    "zeile": 18067,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "10. Ablehnung der Vollziehungsaussetzung"
+  },
+  {
+    "zeile": 18072,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "11. Rechtsbehelfe"
+  },
+  {
+    "zeile": 18077,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "12.[8] Aussetzungszinsen"
+  },
+  {
+    "zeile": 18104,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 362 – Rücknahme des Einspruchs:[1]"
+  },
+  {
+    "zeile": 18117,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 363 – Aussetzung und Ruhen des Verfahrens:"
+  },
+  {
+    "zeile": 18136,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 364 – Offenlegen der Besteuerungsunterlagen:[1]"
+  },
+  {
+    "zeile": 18145,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 364a – Erörterung des Sach- und Rechtsstands:"
+  },
+  {
+    "zeile": 18159,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 364b – Fristsetzung:"
+  },
+  {
+    "zeile": 18170,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 365 – Anwendung von Verfahrensvorschriften:"
+  },
+  {
+    "zeile": 18188,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 366 – Form, Inhalt und Erteilung der Einspruchsentscheidung:[1]"
+  },
+  {
+    "zeile": 18209,
+    "art": "gliederungsposition",
+    "ebene": 3,
+    "text": "AEAO zu § 367 – Entscheidung über den Einspruch:"
+  },
+  {
+    "zeile": 18238,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "6. Teil-Einspruchsentscheidung[2][3]"
+  },
+  {
+    "zeile": 18263,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "7. Allgemeinverfügung"
+  },
+  {
+    "zeile": 18274,
+    "art": "nummerierte_ueberschrift",
+    "ebene": 4,
+    "text": "8. Insolvenzverfahren"
+  },
+  {
+    "zeile": 18298,
+    "art": "anlage",
+    "ebene": 3,
+    "text": "Anlage 1[1] Abtretungs-/Verpfändungsanzeige"
+  },
+  {
+    "zeile": 18308,
+    "art": "anlage",
+    "ebene": 3,
+    "text": "Anlage 2[1] Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts, geistliche Genossenschaften und Kapitalgesellschaften"
+  },
+  {
+    "zeile": 18312,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "§ 1"
+  },
+  {
+    "zeile": 18319,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "§ 2"
+  },
+  {
+    "zeile": 18322,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "§ 3"
+  },
+  {
+    "zeile": 18325,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "§ 4"
+  },
+  {
+    "zeile": 18328,
+    "art": "zwischenueberschrift_form",
+    "ebene": 4,
+    "text": "§ 5"
+  },
+  {
+    "zeile": 18337,
+    "art": "zwischenueberschrift_kontext",
+    "ebene": 4,
+    "text": "Weitere Hinweise"
+  },
+  {
+    "zeile": 18367,
+    "art": "anlage",
+    "ebene": 3,
+    "text": "Anlage 3 Muster einer Erklärung der Ordensgemeinschaften"
+  }
+]

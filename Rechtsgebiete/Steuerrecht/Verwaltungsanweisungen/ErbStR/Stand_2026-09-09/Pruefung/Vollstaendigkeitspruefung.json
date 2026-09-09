@@ -1,0 +1,106 @@
+{
+  "pruefung_erfolgreich": true,
+  "sha256_original_quelle": "cf27a1a4edce887a670bce6ae01dd603dfd4dcd9461a753004d5d21e592822de",
+  "sha256_markdown": "1029329157d4836c99a7ce0a32f78f797df09da0fe6cf218fcf9b05ab0acd876",
+  "quellzeilen_gesamt": 33485,
+  "quellzeilen_sachinhalt_nichtleer": 17059,
+  "quellbloecke": 4527,
+  "hauptteile": 3,
+  "teilueberschriften_bewg": 6,
+  "paragraphengruppen": 90,
+  "richtlinien_erbstg": 146,
+  "hinweise_erbstg": 137,
+  "richtlinien_bewg": 135,
+  "hinweise_bewg": 111,
+  "anlagen": 2,
+  "gliederungspositionen": 529,
+  "fussnoten": 224,
+  "fussnoten_amtlich": 10,
+  "beispiele": 243,
+  "zwischenueberschriften": 41,
+  "loesungen": 13,
+  "unbesetzte_positionen": 21,
+  "nummerierte_absaetze": 852,
+  "aufzaehlungen": 248,
+  "kurze_quellzeilenbloecke": 383,
+  "tabellen": 8,
+  "tabellenbeschreibung": [
+    {
+      "anlage": 1,
+      "zeilen": 4,
+      "spalten": 2,
+      "amtliche_seite": "183",
+      "zeile_von": 27754,
+      "zeile_bis": 27798
+    },
+    {
+      "anlage": 2,
+      "block_ab_zeile": 27818,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "184",
+      "zeile_von": 27818,
+      "zeile_bis": 28611
+    },
+    {
+      "anlage": 2,
+      "block_ab_zeile": 28612,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "185",
+      "zeile_von": 28612,
+      "zeile_bis": 29405
+    },
+    {
+      "anlage": 2,
+      "block_ab_zeile": 29406,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "186",
+      "zeile_von": 29406,
+      "zeile_bis": 30199
+    },
+    {
+      "anlage": 2,
+      "block_ab_zeile": 30200,
+      "wertspalten": 4,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "187",
+      "zeile_von": 30200,
+      "zeile_bis": 30881
+    },
+    {
+      "anlage": 2,
+      "block_ab_zeile": 30882,
+      "wertspalten": 7,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "188",
+      "zeile_von": 30882,
+      "zeile_bis": 31899
+    },
+    {
+      "anlage": 2,
+      "block_ab_zeile": 31900,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "189",
+      "zeile_von": 31900,
+      "zeile_bis": 32693
+    },
+    {
+      "anlage": 2,
+      "block_ab_zeile": 32694,
+      "wertspalten": 5,
+      "merkmalzeilen": 54,
+      "amtliche_seite": "190",
+      "zeile_von": 32694,
+      "zeile_bis": 33484
+    }
+  ],
+  "sprungmarken_absaetze": 852,
+  "sprungmarken_nummerierte_punkte": 323,
+  "sprungmarken_beispiele": 185,
+  "satznummern": 2986,
+  "uebernahme": "Alle nichtleeren Sachtextzeilen 34 bis 33484 genau einmal; vollständiger sichtbarer Textrückvergleich pro Quellblock.",
+  "einschraenkung": "Vollständigkeit der übernommenen Textkopie geprüft. Die Kopie enthält keine Inhaltsübersicht, keinen Artikel 2, keine Schlussformel/Unterschriften der ErbStR 2019 und keinen Länderministerienblock der ErbStH 2019. Gliederungsebenen, Zwischenüberschriften und die Zuordnung abgeflachter Tabellenzeilen sind dokumentierte Strukturentscheidungen; nur Anlage 1 und 2 sind nach amtlich geprüftem Spaltenaufbau als Tabellen gesetzt."
+}

@@ -1,0 +1,2525 @@
+{
+  "kuerzel": "EStG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 419,
+      "xml_chars": 419,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 11867,
+      "xml_chars": 11867,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "I.Steuerpflicht",
+      "pdf_chars": 15,
+      "xml_chars": 15,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 3383,
+      "xml_chars": 3383,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 1a",
+      "pdf_chars": 1714,
+      "xml_chars": 1714,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "II.Einkommen",
+      "pdf_chars": 12,
+      "xml_chars": 12,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "1.Sachliche Voraussetzungen für die Besteuerung",
+      "pdf_chars": 43,
+      "xml_chars": 43,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 2",
+      "pdf_chars": 3944,
+      "xml_chars": 3944,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 2a",
+      "pdf_chars": 4777,
+      "xml_chars": 4777,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "2.Steuerfreie Einnahmen",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 3",
+      "pdf_chars": 47049,
+      "xml_chars": 47049,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 3a",
+      "pdf_chars": 6087,
+      "xml_chars": 6087,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 3b",
+      "pdf_chars": 1203,
+      "xml_chars": 1203,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 3c",
+      "pdf_chars": 4327,
+      "xml_chars": 4327,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "3.Gewinn",
+      "pdf_chars": 8,
+      "xml_chars": 8,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 4",
+      "pdf_chars": 13642,
+      "xml_chars": 13642,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 4a",
+      "pdf_chars": 1590,
+      "xml_chars": 1590,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 4b",
+      "pdf_chars": 646,
+      "xml_chars": 646,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 4c",
+      "pdf_chars": 774,
+      "xml_chars": 774,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 4d",
+      "pdf_chars": 8945,
+      "xml_chars": 8945,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 4e",
+      "pdf_chars": 1502,
+      "xml_chars": 1502,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 4f",
+      "pdf_chars": 2053,
+      "xml_chars": 2053,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 4g",
+      "pdf_chars": 2232,
+      "xml_chars": 2232,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 4h",
+      "pdf_chars": 8058,
+      "xml_chars": 8058,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 4i",
+      "pdf_chars": 387,
+      "xml_chars": 387,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 4j",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 4k",
+      "pdf_chars": 5838,
+      "xml_chars": 5838,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 5",
+      "pdf_chars": 5440,
+      "xml_chars": 5440,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 5a",
+      "pdf_chars": 6470,
+      "xml_chars": 6470,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 5b",
+      "pdf_chars": 1473,
+      "xml_chars": 1473,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 6",
+      "pdf_chars": 21083,
+      "xml_chars": 21083,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 6a",
+      "pdf_chars": 5908,
+      "xml_chars": 5908,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 6b",
+      "pdf_chars": 9782,
+      "xml_chars": 9782,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 6c",
+      "pdf_chars": 1144,
+      "xml_chars": 1144,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 6d",
+      "pdf_chars": 1348,
+      "xml_chars": 1348,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 6e",
+      "pdf_chars": 1484,
+      "xml_chars": 1484,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 7",
+      "pdf_chars": 9744,
+      "xml_chars": 9744,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 7a",
+      "pdf_chars": 4045,
+      "xml_chars": 4045,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 7b",
+      "pdf_chars": 4143,
+      "xml_chars": 4143,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§§ 7c bis 7d",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 7e",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§ 7f",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "§ 7g",
+      "pdf_chars": 5924,
+      "xml_chars": 5924,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 7h",
+      "pdf_chars": 2561,
+      "xml_chars": 2561,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 7i",
+      "pdf_chars": 2420,
+      "xml_chars": 2420,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 7k",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "4.Überschuss der Einnahmen über die Werbungskosten",
+      "pdf_chars": 45,
+      "xml_chars": 45,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 8",
+      "pdf_chars": 5470,
+      "xml_chars": 5470,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 9",
+      "pdf_chars": 13924,
+      "xml_chars": 13924,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "§ 9a",
+      "pdf_chars": 992,
+      "xml_chars": 992,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "4a.Umsatzsteuerrechtlicher Vorsteuerabzug",
+      "pdf_chars": 40,
+      "xml_chars": 40,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 9b",
+      "pdf_chars": 699,
+      "xml_chars": 699,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "5.Sonderausgaben",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 10",
+      "pdf_chars": 22385,
+      "xml_chars": 22385,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "§ 10a",
+      "pdf_chars": 9031,
+      "xml_chars": 9031,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 10b",
+      "pdf_chars": 6691,
+      "xml_chars": 6691,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§ 10c",
+      "pdf_chars": 311,
+      "xml_chars": 311,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 10d",
+      "pdf_chars": 3680,
+      "xml_chars": 3680,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "§ 10e",
+      "pdf_chars": 8902,
+      "xml_chars": 8902,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "§ 10f",
+      "pdf_chars": 2893,
+      "xml_chars": 2893,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 60,
+      "name": "§ 10g",
+      "pdf_chars": 3572,
+      "xml_chars": 3572,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 61,
+      "name": "§ 10h",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 62,
+      "name": "§ 10i",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 63,
+      "name": "6.Vereinnahmung und Verausgabung",
+      "pdf_chars": 30,
+      "xml_chars": 30,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 64,
+      "name": "§ 11",
+      "pdf_chars": 1421,
+      "xml_chars": 1421,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 65,
+      "name": "§ 11a",
+      "pdf_chars": 1438,
+      "xml_chars": 1438,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 66,
+      "name": "§ 11b",
+      "pdf_chars": 1176,
+      "xml_chars": 1176,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 67,
+      "name": "7.Nicht abzugsfähige Ausgaben",
+      "pdf_chars": 27,
+      "xml_chars": 27,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 12",
+      "pdf_chars": 1430,
+      "xml_chars": 1430,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 69,
+      "name": "8.Die einzelnen Einkunftsarten",
+      "pdf_chars": 28,
+      "xml_chars": 28,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 70,
+      "name": "a)Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1)",
+      "pdf_chars": 48,
+      "xml_chars": 48,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 13",
+      "pdf_chars": 4434,
+      "xml_chars": 4434,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 72,
+      "name": "§ 13a",
+      "pdf_chars": 6047,
+      "xml_chars": 6047,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 73,
+      "name": "§ 13b",
+      "pdf_chars": 3334,
+      "xml_chars": 3334,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 74,
+      "name": "§ 14",
+      "pdf_chars": 1456,
+      "xml_chars": 1456,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 75,
+      "name": "§ 14a",
+      "pdf_chars": 5512,
+      "xml_chars": 5512,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 76,
+      "name": "b)Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2)",
+      "pdf_chars": 39,
+      "xml_chars": 39,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 77,
+      "name": "§ 15",
+      "pdf_chars": 5937,
+      "xml_chars": 5937,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 78,
+      "name": "§ 15a",
+      "pdf_chars": 5586,
+      "xml_chars": 5586,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 79,
+      "name": "§ 15b",
+      "pdf_chars": 2858,
+      "xml_chars": 2858,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 80,
+      "name": "§ 16",
+      "pdf_chars": 5494,
+      "xml_chars": 5494,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 81,
+      "name": "§ 17",
+      "pdf_chars": 6110,
+      "xml_chars": 6110,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 82,
+      "name": "c)Selbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 3)",
+      "pdf_chars": 43,
+      "xml_chars": 43,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 83,
+      "name": "§ 18",
+      "pdf_chars": 2321,
+      "xml_chars": 2321,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 84,
+      "name": "d)Nichtselbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4)",
+      "pdf_chars": 48,
+      "xml_chars": 48,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 85,
+      "name": "§ 19",
+      "pdf_chars": 8339,
+      "xml_chars": 8089,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "Versorgungsfreibetrag",
+          "before": "betragsinddernachstehendenTabellezuentnehmen:",
+          "after": "JahrdesVersorgungsbeginnsVersorgungsfreibetra"
+        },
+        {
+          "kind": "delete",
+          "xml": "VersorgungsfreibetragZuschlagzumVersorgungsfreibetraginEuro",
+          "pdf": "",
+          "before": "nTabellezuentnehmen:JahrdesVersorgungsbeginns",
+          "after": "in%derVersorgungsbezügeHöchstbetraginEurobis2"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "betraginEuroZuschlagzumVersorgungsfrei",
+          "before": "freibetraginEuroin%derVersorgungsbezügeHöchst",
+          "after": "betraginEurobis200540,03000900ab200638,428808"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "VersorgungsfreibetragJahrdesVersorgungsbeginnsin%derVersorgungsbezügeHöchstbetraginEuroZuschlagzumVersorgungsfreibetraginEuro",
+          "before": "201425,61920576201524,01800540201622,41680504",
+          "after": "201720,81560468201819,21440432201917,61320396"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "VersorgungsfreibetragJahrdesVersorgungsbeginnsin%derVersorgungsbezügeHöchstbetraginEuroZuschlagzumVersorgungsfreibetraginEuro",
+          "before": "03,22407220512,82106320522,41805420532,015045",
+          "after": "20541,61203620551,2902720560,8601820570,43092"
+        }
+      ],
+      "nach_layoutabgleich_identisch": true,
+      "layoutpruefung": [
+        {
+          "art": "Tabellenkopf-Lesereihenfolge und/oder Wiederholung am Seitenumbruch",
+          "pdf_kopf": "VersorgungsfreibetragJahrdesVersorgungsbeginnsin%derVersorgungsbezügeHöchstbetraginEuroZuschlagzumVersorgungsfreibetraginEuro",
+          "xml_kopf": "JahrdesVersorgungsbeginnsVersorgungsfreibetragZuschlagzumVersorgungsfreibetraginEuroin%derVersorgungsbezügeHöchstbetraginEuro",
+          "pdf_vorkommen": 3,
+          "zeichenbestand_kopf_identisch": true
+        }
+      ]
+    },
+    {
+      "norm_index": 86,
+      "name": "§ 19a",
+      "pdf_chars": 4901,
+      "xml_chars": 4901,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 87,
+      "name": "e)Kapitalvermögen (§ 2 Absatz 1 Satz 1 Nummer 5)",
+      "pdf_chars": 40,
+      "xml_chars": 40,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 88,
+      "name": "§ 20",
+      "pdf_chars": 19069,
+      "xml_chars": 19069,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 89,
+      "name": "f)Vermietung und Verpachtung (§ 2 Absatz 1 Satz 1 Nummer 6)",
+      "pdf_chars": 49,
+      "xml_chars": 49,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 90,
+      "name": "§ 21",
+      "pdf_chars": 1368,
+      "xml_chars": 1368,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 91,
+      "name": "g)Sonstige Einkünfte (§ 2 Absatz 1 Satz 1 Nummer 7)",
+      "pdf_chars": 42,
+      "xml_chars": 42,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 92,
+      "name": "§ 22",
+      "pdf_chars": 11865,
+      "xml_chars": 11789,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "BeiBeginnderRentevollendetesLebensjahrdesRenten-berechtigtenErtragsanteilin%",
+          "before": "4333bis3442354136bis3740383939bis403841374236",
+          "after": "43bis4435453446bis473348324931503051bis522953"
+        }
+      ],
+      "nach_layoutabgleich_identisch": true,
+      "layoutpruefung": [
+        {
+          "art": "Tabellenkopf-Lesereihenfolge und/oder Wiederholung am Seitenumbruch",
+          "pdf_kopf": "BeiBeginnderRentevollendetesLebensjahrdesRenten-berechtigtenErtragsanteilin%",
+          "xml_kopf": "BeiBeginnderRentevollendetesLebensjahrdesRenten-berechtigtenErtragsanteilin%",
+          "pdf_vorkommen": 2,
+          "zeichenbestand_kopf_identisch": true
+        }
+      ]
+    },
+    {
+      "norm_index": 93,
+      "name": "§ 22a",
+      "pdf_chars": 6504,
+      "xml_chars": 6504,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 94,
+      "name": "§ 23",
+      "pdf_chars": 3939,
+      "xml_chars": 3939,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 95,
+      "name": "h)Gemeinsame Vorschriften",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 96,
+      "name": "§ 24",
+      "pdf_chars": 755,
+      "xml_chars": 755,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 97,
+      "name": "§ 24a",
+      "pdf_chars": 1758,
+      "xml_chars": 1645,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "Altersentlastungsbetrag",
+          "before": "etragssinddernachstehendenTabellezuentnehmen:",
+          "after": "DasaufdieVollendungdes64.Lebensjahresfolgende"
+        },
+        {
+          "kind": "delete",
+          "xml": "Altersentlastungsbetrag",
+          "pdf": "",
+          "before": "lendungdes64.LebensjahresfolgendeKalenderjahr",
+          "after": "in%derEinkünfteHöchstbetraginEuro200540,01900"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "AltersentlastungsbetragDasaufdieVollendungdes64.LebensjahresfolgendeKalenderjahrin%derEinkünfteHöchstbetraginEuro",
+          "before": "0202115,2722202214,4684202314,0665202413,6646",
+          "after": "202513,2627202612,8608202712,4589202812,05702"
+        }
+      ],
+      "nach_layoutabgleich_identisch": true,
+      "layoutpruefung": [
+        {
+          "art": "Tabellenkopf-Lesereihenfolge und/oder Wiederholung am Seitenumbruch",
+          "pdf_kopf": "AltersentlastungsbetragDasaufdieVollendungdes64.LebensjahresfolgendeKalenderjahrin%derEinkünfteHöchstbetraginEuro",
+          "xml_kopf": "DasaufdieVollendungdes64.LebensjahresfolgendeKalenderjahrAltersentlastungsbetragin%derEinkünfteHöchstbetraginEuro",
+          "pdf_vorkommen": 2,
+          "zeichenbestand_kopf_identisch": true
+        }
+      ]
+    },
+    {
+      "norm_index": 98,
+      "name": "§ 24b",
+      "pdf_chars": 2149,
+      "xml_chars": 2149,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 99,
+      "name": "III.Veranlagung",
+      "pdf_chars": 15,
+      "xml_chars": 15,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 100,
+      "name": "§ 25",
+      "pdf_chars": 1031,
+      "xml_chars": 1031,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 101,
+      "name": "§ 26",
+      "pdf_chars": 1995,
+      "xml_chars": 1995,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 102,
+      "name": "§ 26a",
+      "pdf_chars": 995,
+      "xml_chars": 995,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 103,
+      "name": "§ 26b",
+      "pdf_chars": 490,
+      "xml_chars": 490,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 104,
+      "name": "§ 27",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 105,
+      "name": "§ 28",
+      "pdf_chars": 198,
+      "xml_chars": 198,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 106,
+      "name": "§§ 29 und 30",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 107,
+      "name": "IV.Tarif",
+      "pdf_chars": 8,
+      "xml_chars": 8,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 108,
+      "name": "§ 31",
+      "pdf_chars": 1354,
+      "xml_chars": 1354,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 109,
+      "name": "§ 32",
+      "pdf_chars": 7420,
+      "xml_chars": 7420,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 110,
+      "name": "§ 32a",
+      "pdf_chars": 2283,
+      "xml_chars": 2283,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 111,
+      "name": "§ 32b",
+      "pdf_chars": 7232,
+      "xml_chars": 7232,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 112,
+      "name": "§ 32c",
+      "pdf_chars": 8319,
+      "xml_chars": 8319,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 113,
+      "name": "§ 32d",
+      "pdf_chars": 6777,
+      "xml_chars": 6777,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 114,
+      "name": "§ 33",
+      "pdf_chars": 3029,
+      "xml_chars": 3029,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 115,
+      "name": "§ 33a",
+      "pdf_chars": 4704,
+      "xml_chars": 4704,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 116,
+      "name": "§ 33b",
+      "pdf_chars": 5128,
+      "xml_chars": 5128,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 117,
+      "name": "§ 34",
+      "pdf_chars": 2759,
+      "xml_chars": 2759,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 118,
+      "name": "§ 34a",
+      "pdf_chars": 9502,
+      "xml_chars": 9502,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 119,
+      "name": "§ 34b",
+      "pdf_chars": 2436,
+      "xml_chars": 2436,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 120,
+      "name": "V.Steuerermäßigungen",
+      "pdf_chars": 20,
+      "xml_chars": 20,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 121,
+      "name": "1.Steuerermäßigung bei ausländischen Einkünften",
+      "pdf_chars": 44,
+      "xml_chars": 44,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 122,
+      "name": "§ 34c",
+      "pdf_chars": 4292,
+      "xml_chars": 4292,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 123,
+      "name": "§ 34d",
+      "pdf_chars": 3534,
+      "xml_chars": 3534,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 124,
+      "name": "2.Steuerermäßigung bei Einkünften aus Land- und Forstwirtschaft",
+      "pdf_chars": 57,
+      "xml_chars": 57,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 125,
+      "name": "§ 34e",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 126,
+      "name": "2a.Steuerermäßigung für Steuerpflichtige mit Kindern bei Inanspruchnahme erhöhter Absetzungen für Wohngebäude oder der Steuerbegünstigungen für eigengenutztes Wohneigentum",
+      "pdf_chars": 155,
+      "xml_chars": 155,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 127,
+      "name": "§ 34f",
+      "pdf_chars": 2782,
+      "xml_chars": 2782,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 128,
+      "name": "2b.Steuerermäßigung bei Zuwendungen an politische Parteien und an unabhängige Wählervereinigungen",
+      "pdf_chars": 88,
+      "xml_chars": 88,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 129,
+      "name": "§ 34g",
+      "pdf_chars": 1361,
+      "xml_chars": 1361,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 130,
+      "name": "3.Steuerermäßigung bei Einkünften aus Gewerbebetrieb",
+      "pdf_chars": 48,
+      "xml_chars": 48,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 131,
+      "name": "§ 35",
+      "pdf_chars": 3578,
+      "xml_chars": 3578,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "SummeallerpositivenEinkünfte",
+          "before": "itteln:SummederpositivengewerblichenEinkünfte",
+          "after": "•gemindertetariflicheSteuer.Summeallerpositiv"
+        },
+        {
+          "kind": "delete",
+          "xml": "SummeallerpositivenEinkünfte",
+          "pdf": "",
+          "before": "rblichenEinkünfte•gemindertetariflicheSteuer.",
+          "after": "3GewerblicheEinkünfteimSinnederSätze1und2sind"
+        }
+      ],
+      "nach_layoutabgleich_identisch": true,
+      "layoutpruefung": [
+        {
+          "art": "Bruchformel: PDF liest Zähler/Nenner vor rechtem Faktor; XML zeilenweise",
+          "pdf_reihenfolge": "SummederpositivengewerblichenEinkünfteSummeallerpositivenEinkünfte•gemindertetariflicheSteuer.",
+          "xml_reihenfolge": "SummederpositivengewerblichenEinkünfte•gemindertetariflicheSteuer.SummeallerpositivenEinkünfte",
+          "zeichenbestand_identisch": true
+        }
+      ]
+    },
+    {
+      "norm_index": 132,
+      "name": "4.Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse und für die Inanspruchnahme haushaltsnaher Dienstleistungen",
+      "pdf_chars": 129,
+      "xml_chars": 129,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 133,
+      "name": "§ 35a",
+      "pdf_chars": 2788,
+      "xml_chars": 2788,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 134,
+      "name": "5.Steuerermäßigung bei Belastung mit Erbschaftsteuer",
+      "pdf_chars": 48,
+      "xml_chars": 48,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 135,
+      "name": "§ 35b",
+      "pdf_chars": 758,
+      "xml_chars": 758,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 136,
+      "name": "6.Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden",
+      "pdf_chars": 82,
+      "xml_chars": 82,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 137,
+      "name": "§ 35c",
+      "pdf_chars": 4367,
+      "xml_chars": 4367,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 138,
+      "name": "VI.Steuererhebung",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 139,
+      "name": "1.Erhebung der Einkommensteuer",
+      "pdf_chars": 28,
+      "xml_chars": 28,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 140,
+      "name": "§ 36",
+      "pdf_chars": 5399,
+      "xml_chars": 5399,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 141,
+      "name": "§ 36a",
+      "pdf_chars": 3680,
+      "xml_chars": 3680,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 142,
+      "name": "§ 37",
+      "pdf_chars": 3457,
+      "xml_chars": 3457,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 143,
+      "name": "§ 37a",
+      "pdf_chars": 1272,
+      "xml_chars": 1272,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 144,
+      "name": "§ 37b",
+      "pdf_chars": 1973,
+      "xml_chars": 1973,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 145,
+      "name": "2.Steuerabzug vom Arbeitslohn (Lohnsteuer)",
+      "pdf_chars": 39,
+      "xml_chars": 39,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 146,
+      "name": "§ 38",
+      "pdf_chars": 4046,
+      "xml_chars": 4046,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 147,
+      "name": "§ 38a",
+      "pdf_chars": 1434,
+      "xml_chars": 1434,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 148,
+      "name": "§ 38b",
+      "pdf_chars": 3690,
+      "xml_chars": 3690,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 149,
+      "name": "§ 39",
+      "pdf_chars": 7337,
+      "xml_chars": 7337,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 150,
+      "name": "§ 39a",
+      "pdf_chars": 8099,
+      "xml_chars": 8099,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 151,
+      "name": "§ 39b",
+      "pdf_chars": 9744,
+      "xml_chars": 9744,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 152,
+      "name": "§ 39c",
+      "pdf_chars": 1858,
+      "xml_chars": 1858,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 153,
+      "name": "§ 39d",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 154,
+      "name": "§ 39e",
+      "pdf_chars": 11600,
+      "xml_chars": 11600,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 155,
+      "name": "§ 39f",
+      "pdf_chars": 2510,
+      "xml_chars": 2510,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 156,
+      "name": "§ 40",
+      "pdf_chars": 6005,
+      "xml_chars": 6005,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 157,
+      "name": "§ 40a",
+      "pdf_chars": 5030,
+      "xml_chars": 5030,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 158,
+      "name": "§ 40b",
+      "pdf_chars": 1849,
+      "xml_chars": 1849,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 159,
+      "name": "§ 41",
+      "pdf_chars": 3024,
+      "xml_chars": 3024,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 160,
+      "name": "§ 41a",
+      "pdf_chars": 4218,
+      "xml_chars": 4218,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 161,
+      "name": "§ 41b",
+      "pdf_chars": 5419,
+      "xml_chars": 5419,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 162,
+      "name": "§ 41c",
+      "pdf_chars": 2814,
+      "xml_chars": 2814,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 163,
+      "name": "§§ 42 und 42a",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 164,
+      "name": "§ 42b",
+      "pdf_chars": 3906,
+      "xml_chars": 3906,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 165,
+      "name": "§ 42c",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 166,
+      "name": "§ 42d",
+      "pdf_chars": 5046,
+      "xml_chars": 5046,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 167,
+      "name": "§ 42e",
+      "pdf_chars": 763,
+      "xml_chars": 763,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 168,
+      "name": "§ 42f",
+      "pdf_chars": 1023,
+      "xml_chars": 1023,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 169,
+      "name": "§ 42g",
+      "pdf_chars": 1530,
+      "xml_chars": 1530,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 170,
+      "name": "3.Steuerabzug vom Kapitalertrag (Kapitalertragsteuer)",
+      "pdf_chars": 50,
+      "xml_chars": 50,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 171,
+      "name": "§ 43",
+      "pdf_chars": 11342,
+      "xml_chars": 11342,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 172,
+      "name": "§ 43a",
+      "pdf_chars": 6495,
+      "xml_chars": 6495,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 173,
+      "name": "§ 43b",
+      "pdf_chars": 2641,
+      "xml_chars": 2641,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 174,
+      "name": "§ 44",
+      "pdf_chars": 12360,
+      "xml_chars": 12360,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 175,
+      "name": "§ 44a",
+      "pdf_chars": 13808,
+      "xml_chars": 13808,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 176,
+      "name": "§ 44b",
+      "pdf_chars": 4366,
+      "xml_chars": 4366,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 177,
+      "name": "§ 45",
+      "pdf_chars": 625,
+      "xml_chars": 625,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 178,
+      "name": "§ 45a",
+      "pdf_chars": 4207,
+      "xml_chars": 4207,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 179,
+      "name": "§ 45b",
+      "pdf_chars": 11861,
+      "xml_chars": 11861,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 180,
+      "name": "§ 45c",
+      "pdf_chars": 3705,
+      "xml_chars": 3705,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 181,
+      "name": "§ 45d",
+      "pdf_chars": 1598,
+      "xml_chars": 1598,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 182,
+      "name": "§ 45e",
+      "pdf_chars": 320,
+      "xml_chars": 320,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 183,
+      "name": "4.Veranlagung von Steuerpflichtigen mit steuerabzugspflichtigen Einkünften",
+      "pdf_chars": 69,
+      "xml_chars": 69,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 184,
+      "name": "§ 46",
+      "pdf_chars": 5174,
+      "xml_chars": 5174,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 185,
+      "name": "§ 47",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 186,
+      "name": "VII.Steuerabzug bei Bauleistungen",
+      "pdf_chars": 31,
+      "xml_chars": 31,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 187,
+      "name": "§ 48",
+      "pdf_chars": 1507,
+      "xml_chars": 1507,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 188,
+      "name": "§ 48a",
+      "pdf_chars": 1567,
+      "xml_chars": 1567,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 189,
+      "name": "§ 48b",
+      "pdf_chars": 1546,
+      "xml_chars": 1546,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 190,
+      "name": "§ 48c",
+      "pdf_chars": 1725,
+      "xml_chars": 1725,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 191,
+      "name": "§ 48d",
+      "pdf_chars": 908,
+      "xml_chars": 908,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 192,
+      "name": "VIII.Besteuerung beschränkt Steuerpflichtiger",
+      "pdf_chars": 43,
+      "xml_chars": 43,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 193,
+      "name": "§ 49",
+      "pdf_chars": 12900,
+      "xml_chars": 12900,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 194,
+      "name": "§ 50",
+      "pdf_chars": 7193,
+      "xml_chars": 7193,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 195,
+      "name": "§ 50a",
+      "pdf_chars": 7020,
+      "xml_chars": 7020,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 196,
+      "name": "IX.Sonstige Vorschriften, Bußgeld-, Ermächtigungs- und Schlussvorschriften",
+      "pdf_chars": 69,
+      "xml_chars": 69,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 197,
+      "name": "§ 50b",
+      "pdf_chars": 479,
+      "xml_chars": 479,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 198,
+      "name": "§ 50c",
+      "pdf_chars": 5300,
+      "xml_chars": 5300,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 199,
+      "name": "§ 50d",
+      "pdf_chars": 9754,
+      "xml_chars": 9754,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 200,
+      "name": "§ 50e",
+      "pdf_chars": 2354,
+      "xml_chars": 2354,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 201,
+      "name": "§ 50f",
+      "pdf_chars": 482,
+      "xml_chars": 482,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 202,
+      "name": "§ 50g",
+      "pdf_chars": 7697,
+      "xml_chars": 7697,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 203,
+      "name": "§ 50h",
+      "pdf_chars": 653,
+      "xml_chars": 653,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 204,
+      "name": "§ 50i",
+      "pdf_chars": 3004,
+      "xml_chars": 3004,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 205,
+      "name": "§ 50j",
+      "pdf_chars": 2877,
+      "xml_chars": 2877,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 206,
+      "name": "§ 51",
+      "pdf_chars": 27342,
+      "xml_chars": 27342,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 207,
+      "name": "§ 51a",
+      "pdf_chars": 10395,
+      "xml_chars": 10395,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 208,
+      "name": "§ 52",
+      "pdf_chars": 74261,
+      "xml_chars": 74261,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 209,
+      "name": "§ 52a",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 210,
+      "name": "§ 52b",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 211,
+      "name": "§ 53",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 212,
+      "name": "§ 54",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 213,
+      "name": "§ 55",
+      "pdf_chars": 4830,
+      "xml_chars": 4830,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 214,
+      "name": "§ 56",
+      "pdf_chars": 487,
+      "xml_chars": 487,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 215,
+      "name": "§ 57",
+      "pdf_chars": 1262,
+      "xml_chars": 1262,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 216,
+      "name": "§ 58",
+      "pdf_chars": 1870,
+      "xml_chars": 1870,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 217,
+      "name": "§§ 59 bis 61",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 218,
+      "name": "X.Kindergeld",
+      "pdf_chars": 12,
+      "xml_chars": 12,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 219,
+      "name": "§ 62",
+      "pdf_chars": 3896,
+      "xml_chars": 3896,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 220,
+      "name": "§ 63",
+      "pdf_chars": 1541,
+      "xml_chars": 1541,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 221,
+      "name": "§ 64",
+      "pdf_chars": 1232,
+      "xml_chars": 1232,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 222,
+      "name": "§ 65",
+      "pdf_chars": 1303,
+      "xml_chars": 1303,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 223,
+      "name": "§ 66",
+      "pdf_chars": 466,
+      "xml_chars": 466,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 224,
+      "name": "§ 67",
+      "pdf_chars": 910,
+      "xml_chars": 910,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 225,
+      "name": "§ 68",
+      "pdf_chars": 3376,
+      "xml_chars": 3376,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 226,
+      "name": "§ 69",
+      "pdf_chars": 1094,
+      "xml_chars": 1094,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 227,
+      "name": "§ 70",
+      "pdf_chars": 1186,
+      "xml_chars": 1186,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 228,
+      "name": "§ 71",
+      "pdf_chars": 846,
+      "xml_chars": 846,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 229,
+      "name": "§ 72",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 230,
+      "name": "§ 73",
+      "pdf_chars": 55,
+      "xml_chars": 55,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 231,
+      "name": "§ 74",
+      "pdf_chars": 653,
+      "xml_chars": 653,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 232,
+      "name": "§ 75",
+      "pdf_chars": 689,
+      "xml_chars": 689,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 233,
+      "name": "§ 76",
+      "pdf_chars": 166,
+      "xml_chars": 166,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 234,
+      "name": "§ 76a",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 235,
+      "name": "§ 77",
+      "pdf_chars": 976,
+      "xml_chars": 976,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 236,
+      "name": "§ 78",
+      "pdf_chars": 614,
+      "xml_chars": 614,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 237,
+      "name": "XI.Altersvorsorgezulage",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 238,
+      "name": "§ 79",
+      "pdf_chars": 880,
+      "xml_chars": 880,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 239,
+      "name": "§ 80",
+      "pdf_chars": 195,
+      "xml_chars": 195,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 240,
+      "name": "§ 81",
+      "pdf_chars": 89,
+      "xml_chars": 89,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 241,
+      "name": "§ 81a",
+      "pdf_chars": 809,
+      "xml_chars": 809,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 242,
+      "name": "§ 82",
+      "pdf_chars": 4501,
+      "xml_chars": 4501,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 243,
+      "name": "§ 83",
+      "pdf_chars": 169,
+      "xml_chars": 169,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 244,
+      "name": "§ 84",
+      "pdf_chars": 400,
+      "xml_chars": 400,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 245,
+      "name": "§ 85",
+      "pdf_chars": 1334,
+      "xml_chars": 1334,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 246,
+      "name": "§ 86",
+      "pdf_chars": 3160,
+      "xml_chars": 3160,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 247,
+      "name": "§ 87",
+      "pdf_chars": 557,
+      "xml_chars": 557,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 248,
+      "name": "§ 88",
+      "pdf_chars": 156,
+      "xml_chars": 156,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 249,
+      "name": "§ 89",
+      "pdf_chars": 3369,
+      "xml_chars": 3369,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 250,
+      "name": "§ 90",
+      "pdf_chars": 6475,
+      "xml_chars": 6475,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 251,
+      "name": "§ 91",
+      "pdf_chars": 2085,
+      "xml_chars": 2085,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 252,
+      "name": "§ 92",
+      "pdf_chars": 1726,
+      "xml_chars": 1726,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 253,
+      "name": "§ 92a",
+      "pdf_chars": 15418,
+      "xml_chars": 15418,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 254,
+      "name": "§ 92b",
+      "pdf_chars": 2059,
+      "xml_chars": 2059,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 255,
+      "name": "§ 93",
+      "pdf_chars": 7166,
+      "xml_chars": 7166,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 256,
+      "name": "§ 94",
+      "pdf_chars": 2259,
+      "xml_chars": 2259,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 257,
+      "name": "§ 95",
+      "pdf_chars": 796,
+      "xml_chars": 796,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 258,
+      "name": "§ 96",
+      "pdf_chars": 1926,
+      "xml_chars": 1926,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 259,
+      "name": "§ 97",
+      "pdf_chars": 256,
+      "xml_chars": 256,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 260,
+      "name": "§ 98",
+      "pdf_chars": 134,
+      "xml_chars": 134,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 261,
+      "name": "§ 99",
+      "pdf_chars": 1288,
+      "xml_chars": 1288,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 262,
+      "name": "XII.Förderbetrag zur betrieblichen Altersversorgung",
+      "pdf_chars": 48,
+      "xml_chars": 48,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 263,
+      "name": "§ 100",
+      "pdf_chars": 3398,
+      "xml_chars": 3398,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 264,
+      "name": "XIII.Mobilitätsprämie",
+      "pdf_chars": 21,
+      "xml_chars": 21,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 265,
+      "name": "§ 101",
+      "pdf_chars": 1030,
+      "xml_chars": 1030,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 266,
+      "name": "§ 102",
+      "pdf_chars": 103,
+      "xml_chars": 103,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 267,
+      "name": "§ 103",
+      "pdf_chars": 377,
+      "xml_chars": 377,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 268,
+      "name": "§ 104",
+      "pdf_chars": 397,
+      "xml_chars": 397,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 269,
+      "name": "§ 105",
+      "pdf_chars": 1118,
+      "xml_chars": 1118,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 270,
+      "name": "§ 106",
+      "pdf_chars": 145,
+      "xml_chars": 145,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 271,
+      "name": "§ 107",
+      "pdf_chars": 175,
+      "xml_chars": 175,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 272,
+      "name": "§ 108",
+      "pdf_chars": 525,
+      "xml_chars": 525,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 273,
+      "name": "§ 109",
+      "pdf_chars": 186,
+      "xml_chars": 186,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 274,
+      "name": "XIV.Sondervorschriften zur Bewältigung der Corona-Pandemie",
+      "pdf_chars": 54,
+      "xml_chars": 54,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 275,
+      "name": "§ 110",
+      "pdf_chars": 945,
+      "xml_chars": 945,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 276,
+      "name": "§ 111",
+      "pdf_chars": 2774,
+      "xml_chars": 2774,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 277,
+      "name": "XV.Energiepreispauschale",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 278,
+      "name": "§ 112",
+      "pdf_chars": 194,
+      "xml_chars": 194,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 279,
+      "name": "§ 113",
+      "pdf_chars": 196,
+      "xml_chars": 196,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 280,
+      "name": "§ 114",
+      "pdf_chars": 90,
+      "xml_chars": 90,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 281,
+      "name": "§ 115",
+      "pdf_chars": 238,
+      "xml_chars": 238,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 282,
+      "name": "§ 116",
+      "pdf_chars": 395,
+      "xml_chars": 395,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 283,
+      "name": "§ 117",
+      "pdf_chars": 1619,
+      "xml_chars": 1619,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 284,
+      "name": "§ 118",
+      "pdf_chars": 1095,
+      "xml_chars": 1095,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 285,
+      "name": "§ 119",
+      "pdf_chars": 641,
+      "xml_chars": 641,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 286,
+      "name": "§ 120",
+      "pdf_chars": 325,
+      "xml_chars": 325,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 287,
+      "name": "§ 121",
+      "pdf_chars": 563,
+      "xml_chars": 563,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 288,
+      "name": "§ 122",
+      "pdf_chars": 251,
+      "xml_chars": 251,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 289,
+      "name": "Anlage 1",
+      "pdf_chars": 758,
+      "xml_chars": 573,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "delete",
+          "xml": "ErreichtesAlterdesLeistungs-empfängers(Jahre)",
+          "pdf": "",
+          "before": "erstützungskassen(Fundstelle:BGBl.I2009,3530)",
+          "after": "DieJahresbeiträgederlaufendenLeistungensindzu"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "ErreichtesAlterdesLeistungs-empfängers(Jahre)",
+          "before": "denLeistungensindzuvervielfachenbeiLeistungen",
+          "after": "anmännlicheLeistungs-empfängermitanweiblicheL"
+        },
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "DieJahresbeiträgederlaufendenLeistungensindzuvervielfachenbeiLeistungenErreichtesAlterdesLeistungs-empfängers(Jahre)anmännlicheLeistungs-empfängermitanweiblicheLeistungs-empfängermit123",
+          "before": "875bis7787788679bis817682bis846585bis87548844",
+          "after": "89und904391bis9333943295undälter22"
+        }
+      ],
+      "nach_layoutabgleich_identisch": true,
+      "layoutpruefung": [
+        {
+          "art": "Tabellenkopf-Lesereihenfolge und/oder Wiederholung am Seitenumbruch",
+          "pdf_kopf": "DieJahresbeiträgederlaufendenLeistungensindzuvervielfachenbeiLeistungenErreichtesAlterdesLeistungs-empfängers(Jahre)anmännlicheLeistungs-empfängermitanweiblicheLeistungs-empfängermit123",
+          "xml_kopf": "ErreichtesAlterdesLeistungs-empfängers(Jahre)DieJahresbeiträgederlaufendenLeistungensindzuvervielfachenbeiLeistungenanmännlicheLeistungs-empfängermitanweiblicheLeistungs-empfängermit123",
+          "pdf_vorkommen": 2,
+          "zeichenbestand_kopf_identisch": true
+        }
+      ]
+    },
+    {
+      "norm_index": 290,
+      "name": "Anlage 1a",
+      "pdf_chars": 1188,
+      "xml_chars": 1166,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "NutzungGrenzeGrenze123",
+          "before": "aSondernutzungSpargel0,42ha0,1haSondernutzung",
+          "after": "Hopfen0,78ha0,19haBinnenfischerei2000kgJahres"
+        }
+      ],
+      "nach_layoutabgleich_identisch": true,
+      "layoutpruefung": [
+        {
+          "art": "Tabellenkopf-Lesereihenfolge und/oder Wiederholung am Seitenumbruch",
+          "pdf_kopf": "NutzungGrenzeGrenze123",
+          "xml_kopf": "NutzungGrenzeGrenze123",
+          "pdf_vorkommen": 2,
+          "zeichenbestand_kopf_identisch": true
+        }
+      ]
+    },
+    {
+      "norm_index": 291,
+      "name": "Anlage 2",
+      "pdf_chars": 9143,
+      "xml_chars": 9143,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 292,
+      "name": "Anlage 3",
+      "pdf_chars": 5765,
+      "xml_chars": 5765,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 287,
+  "gesamt": 293,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "e9480c773127a89216c2439b02534d56321c9174f28f1f4d591afa8b754a5445",
+  "xml_sha256": "13ff1917a1080a63f1dddb8900a14ba1624f516fa7eb7a547e8bb0f910e2fd5c"
+}

@@ -1,0 +1,129 @@
+{
+  "kuerzel": "AAG",
+  "datum": "2026-09-09",
+  "methode": "Vollständige Normtexte in Reihenfolge. NFC/Whitespace und PDF-Seitenservice entfernt. XML-FnArea setzt die bezeichneten Fußnoten an die Druckposition; zentrale Footnotes-Definitionen werden dort einmal ausgegeben. Wiederholte XML-Gliederungsmetadaten werden wie in der PDF nur bei Gruppenwechsel ausgegeben; alleinstehendes technisches Gliederungskennzeichen Minus entfällt im PDF. XML-FILE repräsentiert den Druckverweis; referenzierte Originaldateien werden zusätzlich separat vollständig integriert. Verbleibende Abweichungen nur bei konkret benannter und einzeln geprüfter Layoutausnahme zugelassen.",
+  "normdatensaetze": 13,
+  "exakt_identisch": 13,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "sha256_pdf": "61994cad2908a15473c00fd83fad37861d6f1085c596537ae731ac09738cadba",
+  "sha256_xml": "5baaeffca8506fe1ec9a808b07810790e3a2bd03337c8d6eae85dc14e7b5134a",
+  "normen": [
+    {
+      "index": 0,
+      "name": "Dokumentkopf",
+      "identisch": true,
+      "xml_zeichen": 249,
+      "pdf_zeichen": 249,
+      "sha256_xml_text": "7a79a20161e7b3589d3c4b529c0731a5ca62247b5c45827997e91e709eed5867",
+      "sha256_pdf_text": "7a79a20161e7b3589d3c4b529c0731a5ca62247b5c45827997e91e709eed5867"
+    },
+    {
+      "index": 1,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 1726,
+      "pdf_zeichen": 1726,
+      "sha256_xml_text": "0f5845f3f5c0e04b0155e86716e03735fa1dc0322b83878e391d7e56637ffdc4",
+      "sha256_pdf_text": "0f5845f3f5c0e04b0155e86716e03735fa1dc0322b83878e391d7e56637ffdc4"
+    },
+    {
+      "index": 2,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1887,
+      "pdf_zeichen": 1887,
+      "sha256_xml_text": "baf5051ee4ddf596fbb6d5a6ccfb0fa24f9d56ff240bcdd57d6d5240723fdb67",
+      "sha256_pdf_text": "baf5051ee4ddf596fbb6d5a6ccfb0fa24f9d56ff240bcdd57d6d5240723fdb67"
+    },
+    {
+      "index": 3,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 1760,
+      "pdf_zeichen": 1760,
+      "sha256_xml_text": "fffbf3187c99cb686f18a7b0d229891d91de288dfdef7d6eacf89e6286c91ab7",
+      "sha256_pdf_text": "fffbf3187c99cb686f18a7b0d229891d91de288dfdef7d6eacf89e6286c91ab7"
+    },
+    {
+      "index": 4,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 775,
+      "pdf_zeichen": 775,
+      "sha256_xml_text": "67241dd15ea573cdc4b03d4c224ac238ecd9a22a1728281e134be5b4d8438519",
+      "sha256_pdf_text": "67241dd15ea573cdc4b03d4c224ac238ecd9a22a1728281e134be5b4d8438519"
+    },
+    {
+      "index": 5,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 271,
+      "pdf_zeichen": 271,
+      "sha256_xml_text": "9bc90dc29bd347c498bb42aea98a3a35b2fdf141c24e433d25a10f4ea3e54359",
+      "sha256_pdf_text": "9bc90dc29bd347c498bb42aea98a3a35b2fdf141c24e433d25a10f4ea3e54359"
+    },
+    {
+      "index": 6,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 612,
+      "pdf_zeichen": 612,
+      "sha256_xml_text": "9c2b45c73dadf5c7ea6eee973914e04bf6419f39a812121ba9ed6dd5e56f8d56",
+      "sha256_pdf_text": "9c2b45c73dadf5c7ea6eee973914e04bf6419f39a812121ba9ed6dd5e56f8d56"
+    },
+    {
+      "index": 7,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 1124,
+      "pdf_zeichen": 1124,
+      "sha256_xml_text": "b92644c2fdd9f02576a2fd2121becc0a449f384fb954518ca9fb8a07e9d7c435",
+      "sha256_pdf_text": "b92644c2fdd9f02576a2fd2121becc0a449f384fb954518ca9fb8a07e9d7c435"
+    },
+    {
+      "index": 8,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 571,
+      "pdf_zeichen": 571,
+      "sha256_xml_text": "1e5df721ac562e491230143217a236a76f6348412a64b7309bcba790ac832bb7",
+      "sha256_pdf_text": "1e5df721ac562e491230143217a236a76f6348412a64b7309bcba790ac832bb7"
+    },
+    {
+      "index": 9,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 1026,
+      "pdf_zeichen": 1026,
+      "sha256_xml_text": "31c335035d8660e1f423f68af1c4b7ad264a572e381df7793820840b80b27d30",
+      "sha256_pdf_text": "31c335035d8660e1f423f68af1c4b7ad264a572e381df7793820840b80b27d30"
+    },
+    {
+      "index": 10,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 183,
+      "pdf_zeichen": 183,
+      "sha256_xml_text": "7062081c9bdfe33fa33f856cbb8b4aa3163bf7695c475cdb479435962550024e",
+      "sha256_pdf_text": "7062081c9bdfe33fa33f856cbb8b4aa3163bf7695c475cdb479435962550024e"
+    },
+    {
+      "index": 11,
+      "name": "§ 11",
+      "identisch": true,
+      "xml_zeichen": 2220,
+      "pdf_zeichen": 2220,
+      "sha256_xml_text": "030b41308330b10868309406ca939902968acbf7b8393f70edbaeea8daf07c0e",
+      "sha256_pdf_text": "030b41308330b10868309406ca939902968acbf7b8393f70edbaeea8daf07c0e"
+    },
+    {
+      "index": 12,
+      "name": "§ 12",
+      "identisch": true,
+      "xml_zeichen": 730,
+      "pdf_zeichen": 730,
+      "sha256_xml_text": "45a428b6de12ee853fd480cc548b6e292f2129074ece05de3f4171c4589f8622",
+      "sha256_pdf_text": "45a428b6de12ee853fd480cc548b6e292f2129074ece05de3f4171c4589f8622"
+    }
+  ]
+}

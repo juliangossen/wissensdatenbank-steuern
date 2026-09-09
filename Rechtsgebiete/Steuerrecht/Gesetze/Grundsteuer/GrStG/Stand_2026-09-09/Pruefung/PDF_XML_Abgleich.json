@@ -1,0 +1,371 @@
+{
+  "kuerzel": "GrStG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 1204,
+      "xml_chars": 1204,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 1440,
+      "xml_chars": 1440,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Abschnitt ISteuerpflicht",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 381,
+      "xml_chars": 381,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 2",
+      "pdf_chars": 967,
+      "xml_chars": 967,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3",
+      "pdf_chars": 3158,
+      "xml_chars": 3158,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 4",
+      "pdf_chars": 1963,
+      "xml_chars": 1963,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 5",
+      "pdf_chars": 1183,
+      "xml_chars": 1183,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 6",
+      "pdf_chars": 462,
+      "xml_chars": 462,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 7",
+      "pdf_chars": 268,
+      "xml_chars": 268,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 8",
+      "pdf_chars": 504,
+      "xml_chars": 504,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 9",
+      "pdf_chars": 220,
+      "xml_chars": 220,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 10",
+      "pdf_chars": 209,
+      "xml_chars": 209,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 11",
+      "pdf_chars": 517,
+      "xml_chars": 517,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 12",
+      "pdf_chars": 78,
+      "xml_chars": 78,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "Abschnitt IIBemessung der Grundsteuer",
+      "pdf_chars": 34,
+      "xml_chars": 34,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 13",
+      "pdf_chars": 909,
+      "xml_chars": 909,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 14",
+      "pdf_chars": 126,
+      "xml_chars": 126,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 15",
+      "pdf_chars": 4097,
+      "xml_chars": 4097,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 16",
+      "pdf_chars": 1412,
+      "xml_chars": 1412,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 17",
+      "pdf_chars": 1848,
+      "xml_chars": 1848,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 18",
+      "pdf_chars": 1318,
+      "xml_chars": 1318,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 19",
+      "pdf_chars": 1796,
+      "xml_chars": 1796,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 20",
+      "pdf_chars": 1157,
+      "xml_chars": 1157,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 21",
+      "pdf_chars": 284,
+      "xml_chars": 284,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 22",
+      "pdf_chars": 831,
+      "xml_chars": 831,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 23",
+      "pdf_chars": 527,
+      "xml_chars": 527,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 24",
+      "pdf_chars": 527,
+      "xml_chars": 527,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "Abschnitt IIIFestsetzung und Entrichtung der\nGrundsteuer",
+      "pdf_chars": 51,
+      "xml_chars": 51,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 25",
+      "pdf_chars": 3930,
+      "xml_chars": 3930,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 26",
+      "pdf_chars": 385,
+      "xml_chars": 385,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 27",
+      "pdf_chars": 892,
+      "xml_chars": 892,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 28",
+      "pdf_chars": 1043,
+      "xml_chars": 1043,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 29",
+      "pdf_chars": 443,
+      "xml_chars": 443,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 30",
+      "pdf_chars": 817,
+      "xml_chars": 817,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 31",
+      "pdf_chars": 297,
+      "xml_chars": 297,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "Abschnitt IVErlaß der Grundsteuer",
+      "pdf_chars": 30,
+      "xml_chars": 30,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 32",
+      "pdf_chars": 1120,
+      "xml_chars": 1120,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 33",
+      "pdf_chars": 1403,
+      "xml_chars": 1403,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 34",
+      "pdf_chars": 1518,
+      "xml_chars": 1518,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 35",
+      "pdf_chars": 529,
+      "xml_chars": 529,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "Abschnitt VÜbergangs- und Schlußvorschriften",
+      "pdf_chars": 41,
+      "xml_chars": 41,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "§ 36",
+      "pdf_chars": 697,
+      "xml_chars": 697,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 37",
+      "pdf_chars": 438,
+      "xml_chars": 438,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 38",
+      "pdf_chars": 132,
+      "xml_chars": 132,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 45,
+  "gesamt": 45,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "d1501382c2269e1c723296204e20f434767ab0e3e86b06e304205510b3861c66",
+  "xml_sha256": "9e3c182c877c0b6db6b5f5d04f3801a8577ee9ad395c87e924baed18cf99ece4"
+}

@@ -1,0 +1,812 @@
+{
+  "abgerufen_am": "2026-09-09T16:44:09.902695+00:00",
+  "quellenstand": "2026-06-02",
+  "quellenstand_bestaetigung": "Titelseite der aktuellen amtlichen PDF: Stand 2. Juni 2026. Passt zum Geltungsstand 02.06.2026 in der bereitgestellten Webkopie.",
+  "uebersichtsseite_url": "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Umsatzsteuer/Umsatzsteuer_Anwendungserlass/umsatzsteuer_anwendungserlass.html",
+  "pdf_url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/Umsatzsteuer-Anwendungserlass-aktuell.pdf?__blob=publicationFile&v=52",
+  "pdf_pfad": "Quellen/Onlineabgleich/UStAE_BMF_Stand_2026-06-02.pdf",
+  "pdf_sha256": "ab78ca30d2e9573755053f3b2d2a96f0987b26953176c1ade54a44f5c152aa5f",
+  "pdf_bytes": 7928607,
+  "pdf_seiten": 886,
+  "amtliche_nummerierte_abschnitte": 432,
+  "amtliche_anlagen": 8,
+  "quelltext_sha256": "20ac2d39600b1d406389aebffb4eaf2040425dc1d9a936c13f395c2ec294ed4d",
+  "vollstaendiger_textidentitaetsabgleich_mit_bmf": false,
+  "abgleichumfang": "Standdatum, amtliches Inhaltsverzeichnis, fehlende Formular- und Schemaabbildungen sowie gestrichener Abschnitt 25d.1. Kein vollständiger Wort-für-Wort-Abgleich der Beck-Webkopie gegen den amtlichen PDF-Text.",
+  "fehlender_gestrichener_abschnitt": {
+    "abschnitt": "25d.1",
+    "amtlicher_text": "25d.1. - gestrichen -",
+    "pdf_seite": 849,
+    "gedruckte_seite": 825
+  },
+  "anlagen_details": [
+    {
+      "anlage": 1,
+      "titel": "Anlage 1 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.4)",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_01_Seite_01.png",
+          "pdf_seite": 870,
+          "gedruckte_seite": 846,
+          "sha256": "07b085653a90bfb74db66998544baede21fb58c7d332fb26f270f07f441a8845",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ],
+      "webkopie_einschraenkung": "Formularinhalt fehlt; nur Titel oder Alternativtext vorhanden"
+    },
+    {
+      "anlage": 2,
+      "titel": "Anlage 2 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.4)",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_02_Seite_01.png",
+          "pdf_seite": 871,
+          "gedruckte_seite": 847,
+          "sha256": "6755ea2b78089edb22c25bf2c7bc033badcf341a6b758f8b2d42d0be7c531ca4",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ],
+      "webkopie_einschraenkung": "Formularinhalt fehlt; nur Titel oder Alternativtext vorhanden"
+    },
+    {
+      "anlage": 3,
+      "titel": "Anlage 3 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.4)",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_03_Seite_01.png",
+          "pdf_seite": 872,
+          "gedruckte_seite": 848,
+          "sha256": "6d09666388a96af11e258aa0e66d18242ea6a1f8ff72a8639dce13732c4b7d9b",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ],
+      "webkopie_einschraenkung": "Formularinhalt fehlt; nur Titel oder Alternativtext vorhanden"
+    },
+    {
+      "anlage": 4,
+      "titel": "Anlage 4 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.5)",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_04_Seite_01.png",
+          "pdf_seite": 873,
+          "gedruckte_seite": 849,
+          "sha256": "c65e3594bb404a9dba145565dd70ef4c3381f715b384b139f775c090c2252439",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ],
+      "webkopie_einschraenkung": "Formularinhalt fehlt; nur Titel oder Alternativtext vorhanden"
+    },
+    {
+      "anlage": 5,
+      "titel": "Anlage 5 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.5)",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_05_Seite_01.png",
+          "pdf_seite": 874,
+          "gedruckte_seite": 850,
+          "sha256": "efbe6c4baeb0bcbd4c648b7ad7adee44116f5d0a4c4805ea3f438368dbf77eb0",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ],
+      "webkopie_einschraenkung": "Formularinhalt fehlt; nur Titel oder Alternativtext vorhanden"
+    },
+    {
+      "anlage": 6,
+      "titel": "Anlage 6 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.5)",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_06_Seite_01.png",
+          "pdf_seite": 875,
+          "gedruckte_seite": 851,
+          "sha256": "6ce40fd0f1115f2747210193ce28fd0a1528792945b24f8c9132356e3ddc9a6b",
+          "breite_pixel": 2105,
+          "hoehe_pixel": 1489,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_06_Seite_02.png",
+          "pdf_seite": 876,
+          "gedruckte_seite": 852,
+          "sha256": "0ec10580c7280f13cc4e9ec475e4a3483c7058b0a04b8c175543e4f8df5f51fa",
+          "breite_pixel": 2105,
+          "hoehe_pixel": 1489,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_06_Seite_03.png",
+          "pdf_seite": 877,
+          "gedruckte_seite": 853,
+          "sha256": "871abae04e6d88d04c76591b9f4cc442d38cf05de28472e3d1f96c7c476a095b",
+          "breite_pixel": 2105,
+          "hoehe_pixel": 1489,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_06_Seite_04.png",
+          "pdf_seite": 878,
+          "gedruckte_seite": 854,
+          "sha256": "d8794841544e197a88eb39b402d5f072ee1b78f7f00e3c4a3b79b9e3c43fdf8e",
+          "breite_pixel": 2105,
+          "hoehe_pixel": 1489,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_06_Seite_05.png",
+          "pdf_seite": 879,
+          "gedruckte_seite": 855,
+          "sha256": "fcdc6ec1d04f3b1a579b7e6b41ff6e532d36fb8e0d891d48e906240d6a71f452",
+          "breite_pixel": 2105,
+          "hoehe_pixel": 1489,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_06_Seite_06.png",
+          "pdf_seite": 880,
+          "gedruckte_seite": 856,
+          "sha256": "dce019848ef41e074c1d1a458cd347a47ef94f00efb11a4da2d715de2f430b4a",
+          "breite_pixel": 2105,
+          "hoehe_pixel": 1489,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ],
+      "webkopie_einschraenkung": "Tabelle als linearisierter Text vorhanden; Spaltenlayout in der Webkopie verloren"
+    },
+    {
+      "anlage": 7,
+      "titel": "Anlage 7 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.5)",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_07_Seite_01.png",
+          "pdf_seite": 881,
+          "gedruckte_seite": 857,
+          "sha256": "8e9782de8ebe7d8dac76604cde390194413813e631c6bf7a609fd5736cc1ff80",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_07_Seite_02.png",
+          "pdf_seite": 882,
+          "gedruckte_seite": 858,
+          "sha256": "bf61f23ef69794b0800b671d1eb09c3419c7389b9620f90f02ec1c122fcbcecd",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ],
+      "webkopie_einschraenkung": "Formularinhalt fehlt; nur Titel oder Alternativtext vorhanden"
+    },
+    {
+      "anlage": 8,
+      "titel": "Anlage 8 zum Umsatzsteuer-Anwendungserlass (zu den Abschnitten 14.5 und 14a.1)",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_08_Seite_01.png",
+          "pdf_seite": 883,
+          "gedruckte_seite": 859,
+          "sha256": "0fcbb9ede0507d3e13d429d9167528b2e7f90970fe0324776a72f1df8d1dfcbd",
+          "breite_pixel": 2105,
+          "hoehe_pixel": 1489,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_08_Seite_02.png",
+          "pdf_seite": 884,
+          "gedruckte_seite": 860,
+          "sha256": "cbf86902aa8177e8737692e4feed9d36d88b68793c5f938eae48493dc4695feb",
+          "breite_pixel": 2105,
+          "hoehe_pixel": 1489,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Anlage_08_Seite_03.png",
+          "pdf_seite": 885,
+          "gedruckte_seite": 861,
+          "sha256": "731e19b0bbbcc8468ebfa3d5182c12c08d8bc483775d999c5505ff0451f5f5b5",
+          "breite_pixel": 2105,
+          "hoehe_pixel": 1489,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ],
+      "webkopie_einschraenkung": "Tabelle als linearisierter Text vorhanden; Spaltenlayout in der Webkopie verloren"
+    }
+  ],
+  "schemata_haupttext": [
+    {
+      "abschnitt": "3.14",
+      "schema_marker_in_webkopie": 13,
+      "hinweis": "Vollständige amtliche Abschnittsseiten als Ergänzung der in der Webkopie nur als Alternativtext vorhandenen Schemata.",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_139.png",
+          "pdf_seite": 139,
+          "gedruckte_seite": 115,
+          "sha256": "90d054d4363dc8777b9c900a6a5e97a32ac8702884fde99e36642a4c193f807b",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_140.png",
+          "pdf_seite": 140,
+          "gedruckte_seite": 116,
+          "sha256": "063e6232210dee060a6621008e45b5d87a5129ee0f652e3f848e65e0f5e12a2a",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_141.png",
+          "pdf_seite": 141,
+          "gedruckte_seite": 117,
+          "sha256": "433bf511b305d3722ca8358610f7620132f6ab75acb0e1063869b27232b71371",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_142.png",
+          "pdf_seite": 142,
+          "gedruckte_seite": 118,
+          "sha256": "7cb47a49eb16f7d6d8833112ba841b983f1ebcc8e6abec592ab2a3b4dd21204f",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_143.png",
+          "pdf_seite": 143,
+          "gedruckte_seite": 119,
+          "sha256": "5257b2f9fa3244048b5e8935ae4230324b03c9a23b21027a48fb8991ca0c234a",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_144.png",
+          "pdf_seite": 144,
+          "gedruckte_seite": 120,
+          "sha256": "cae2a701cce687ccfe50cc54c5db53c89726bcbe2714146a39737f60c2231710",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_145.png",
+          "pdf_seite": 145,
+          "gedruckte_seite": 121,
+          "sha256": "6ff1e4944e61092d37dbeca9d3b5cdc3011d307f18c6c1236de1e2ff60c7bfc3",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_146.png",
+          "pdf_seite": 146,
+          "gedruckte_seite": 122,
+          "sha256": "09ee6905453d7b7ff9135b4b3d41c5347eb608094ac8b989517f3450bbf01693",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_147.png",
+          "pdf_seite": 147,
+          "gedruckte_seite": 123,
+          "sha256": "afedf6cacac0a68ef7da32e30ceb36c30106061bae89113b3d77611f75d636dc",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_148.png",
+          "pdf_seite": 148,
+          "gedruckte_seite": 124,
+          "sha256": "0272faf21e2735279b92a4de7f7fbc14681d4c2bf10eaedbaee0f4ac6246b532",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_149.png",
+          "pdf_seite": 149,
+          "gedruckte_seite": 125,
+          "sha256": "ae9b5b52b36ef60efd43c67f027c33ad90a021d433e859a412b0b459404b5d86",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ]
+    },
+    {
+      "abschnitt": "3.15",
+      "schema_marker_in_webkopie": 6,
+      "hinweis": "Vollständige amtliche Abschnittsseiten als Ergänzung der in der Webkopie nur als Alternativtext vorhandenen Schemata.",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_150.png",
+          "pdf_seite": 150,
+          "gedruckte_seite": 126,
+          "sha256": "32e96ab9b64a0630021761026bbbed25ac937ed379373adcaf6e84f3b8bac177",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_151.png",
+          "pdf_seite": 151,
+          "gedruckte_seite": 127,
+          "sha256": "5076af6cbadd751a8372317cefd37a728f01ce01c2488e2324e11cb26482ba2c",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_152.png",
+          "pdf_seite": 152,
+          "gedruckte_seite": 128,
+          "sha256": "657a0e29d44f8c8ca6c79bdaa2f180783db402cd018f570ca303027f9fc16dfb",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_153.png",
+          "pdf_seite": 153,
+          "gedruckte_seite": 129,
+          "sha256": "6b6d5601ba61bde4e3f1657b2849ff91589aaebb7029b480686584c7b7fad583",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ]
+    },
+    {
+      "abschnitt": "25b.1",
+      "schema_marker_in_webkopie": 4,
+      "hinweis": "Vollständige amtliche Abschnittsseiten als Ergänzung der in der Webkopie nur als Alternativtext vorhandenen Schemata.",
+      "seiten": [
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_844.png",
+          "pdf_seite": 844,
+          "gedruckte_seite": 820,
+          "sha256": "af60e4ef79406d215e70d318e3e8a1e41d2fb3dc5254306895aad45dd57e6bd3",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_845.png",
+          "pdf_seite": 845,
+          "gedruckte_seite": 821,
+          "sha256": "c17d9cf583b55af3a32da01bf831e45a00b262c71baf6535c59c14de2d9fafa3",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_846.png",
+          "pdf_seite": 846,
+          "gedruckte_seite": 822,
+          "sha256": "4196fe23d49b8b4220ec971a246d2fad4de71568ef3eb5ee34257c38f00cdad1",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        },
+        {
+          "pfad": "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_847.png",
+          "pdf_seite": 847,
+          "gedruckte_seite": 823,
+          "sha256": "83779eed2d1949cf9993cfa844a27eea8b2ee0c16c25ac299961db6d90a4310e",
+          "breite_pixel": 1489,
+          "hoehe_pixel": 2105,
+          "dpi": 180,
+          "vollstaendige_seite_ohne_beschnitt": true
+        }
+      ]
+    }
+  ],
+  "schema_marker_in_webkopie": [
+    {
+      "quellzeile": 5438,
+      "text": "Schema zu Rechnungsweg und Warenweg bei direkter Beförderung"
+    },
+    {
+      "quellzeile": 5446,
+      "text": "Schema zu Rechnungsweg und Warenweg bei Lagerhaltung"
+    },
+    {
+      "quellzeile": 5459,
+      "text": "Schema zu Rechnungsweg und Warenweg bei ruhender Lieferung"
+    },
+    {
+      "quellzeile": 5474,
+      "text": "Schema zu Rechnungsweg und Warenweg bei Versendungslieferung "
+    },
+    {
+      "quellzeile": 5490,
+      "text": "Schema zu Rechnungsweg und Warenweg bei Reihengeschäft"
+    },
+    {
+      "quellzeile": 5505,
+      "text": "Schema zu Rechnungsweg und Warenweg, 2 Lieferungen nacheinander"
+    },
+    {
+      "quellzeile": 5518,
+      "text": "Schema zu Rechnungsweg und Warenweg"
+    },
+    {
+      "quellzeile": 5531,
+      "text": "Schema zu Rechnungsweg und Warenweg bei auf das Inland beschränkten Warenlieferungen"
+    },
+    {
+      "quellzeile": 5544,
+      "text": "Schema zu Rechnungsweg und Warenweg bei innergemeinschaftlicher Beförderung und innergemeinschaftlichem Erwerb"
+    },
+    {
+      "quellzeile": 5577,
+      "text": "Schema zu Rechnungsweg und Warenweg bei Warenbewegung im Verhältnis zum Drittland"
+    },
+    {
+      "quellzeile": 5602,
+      "text": "Schema zu Rechnungsweg und Warenweg bei Warenbewegnung im Verhältnis zum Drittland"
+    },
+    {
+      "quellzeile": 5617,
+      "text": "Schema zu Rechnungsweg und Warenweg bei Lieferung im Rahmen eines Reihengeschäfts"
+    },
+    {
+      "quellzeile": 5640,
+      "text": "Schema zu Rechnungsweg und Warenweg bei Reihengeschäften mit privaten Endabnehmern"
+    },
+    {
+      "quellzeile": 5684,
+      "text": "Schema zur Leistungskette bei Leistungseinkaufskommission"
+    },
+    {
+      "quellzeile": 5693,
+      "text": "Schema zur Leistungskette bei Leistungseinkaufskommission"
+    },
+    {
+      "quellzeile": 5703,
+      "text": "Schema zur Leistungskette bei Leistungseinkaufskommission"
+    },
+    {
+      "quellzeile": 5716,
+      "text": "Schema zur Leistungskette bei Leistungsverkaufskommission"
+    },
+    {
+      "quellzeile": 5738,
+      "text": "Schema zur Leistungskette bei Leistungen in der Kreditwirtschaft"
+    },
+    {
+      "quellzeile": 5749,
+      "text": "Schema zur Leistungskette bei Vermietung beweglicher Gegenstände"
+    },
+    {
+      "quellzeile": 21866,
+      "text": "Schema zu Rechnungsweg und Warenweg bei innergemeinschaflichen Dreiecksgeschäften"
+    },
+    {
+      "quellzeile": 21876,
+      "text": "Schema zu Rechnungsweg und Warenweg bei innergemeinschaflichen Dreiecksgeschäften"
+    },
+    {
+      "quellzeile": 21888,
+      "text": "Schema zu Rechnungsweg und Warenweg bei innergemeinschaflichen Dreiecksgeschäften"
+    },
+    {
+      "quellzeile": 21906,
+      "text": "Schema zu Rechnungsweg und Warenweg bei innergemeinschaflichem Erwerb des ersten Abnehmers"
+    }
+  ],
+  "nicht_gerenderte_leere_schlussseite": 886,
+  "redaktionelle_zusatzinhalte_webkopie": "Die Webkopie enthält Beck-Oberfläche, redaktionelle Änderungs-/Anwendungshinweise und eine zusätzliche Synopse. Diese Inhalte sind von amtlichem Erlasstext und amtlichen BMF-Abbildungen zu unterscheiden.",
+  "visuelle_pruefung": {
+    "geprueft_am": "2026-09-09T16:44:00.725043+00:00",
+    "ergebnis": "Alle 35 vollständigen Seitendarstellungen im Kontrollbogen visuell geprüft; Anlagen 1, 6 (erste Seite), 7 (beide Seiten) und 8 (letzte Seite) zusätzlich einzeln vergrößert geprüft. Titel, Formularränder, Fußnoten und alle Fortsetzungen enthalten; keine durch die Wiedergabe entstandenen Beschnitte.",
+    "quellenbedingte_einschraenkungen": "Anlage 7 ist bereits in der amtlichen PDF ein Scan mit begrenzter Auflösung. Einige Schemata sind bereits in der amtlichen PDF über zwei Seiten verteilt.",
+    "gepruefte_abbildungen": {
+      "Quellen/Abbildungen/Anlage_01_Seite_01.png": "07b085653a90bfb74db66998544baede21fb58c7d332fb26f270f07f441a8845",
+      "Quellen/Abbildungen/Anlage_02_Seite_01.png": "6755ea2b78089edb22c25bf2c7bc033badcf341a6b758f8b2d42d0be7c531ca4",
+      "Quellen/Abbildungen/Anlage_03_Seite_01.png": "6d09666388a96af11e258aa0e66d18242ea6a1f8ff72a8639dce13732c4b7d9b",
+      "Quellen/Abbildungen/Anlage_04_Seite_01.png": "c65e3594bb404a9dba145565dd70ef4c3381f715b384b139f775c090c2252439",
+      "Quellen/Abbildungen/Anlage_05_Seite_01.png": "efbe6c4baeb0bcbd4c648b7ad7adee44116f5d0a4c4805ea3f438368dbf77eb0",
+      "Quellen/Abbildungen/Anlage_06_Seite_01.png": "6ce40fd0f1115f2747210193ce28fd0a1528792945b24f8c9132356e3ddc9a6b",
+      "Quellen/Abbildungen/Anlage_06_Seite_02.png": "0ec10580c7280f13cc4e9ec475e4a3483c7058b0a04b8c175543e4f8df5f51fa",
+      "Quellen/Abbildungen/Anlage_06_Seite_03.png": "871abae04e6d88d04c76591b9f4cc442d38cf05de28472e3d1f96c7c476a095b",
+      "Quellen/Abbildungen/Anlage_06_Seite_04.png": "d8794841544e197a88eb39b402d5f072ee1b78f7f00e3c4a3b79b9e3c43fdf8e",
+      "Quellen/Abbildungen/Anlage_06_Seite_05.png": "fcdc6ec1d04f3b1a579b7e6b41ff6e532d36fb8e0d891d48e906240d6a71f452",
+      "Quellen/Abbildungen/Anlage_06_Seite_06.png": "dce019848ef41e074c1d1a458cd347a47ef94f00efb11a4da2d715de2f430b4a",
+      "Quellen/Abbildungen/Anlage_07_Seite_01.png": "8e9782de8ebe7d8dac76604cde390194413813e631c6bf7a609fd5736cc1ff80",
+      "Quellen/Abbildungen/Anlage_07_Seite_02.png": "bf61f23ef69794b0800b671d1eb09c3419c7389b9620f90f02ec1c122fcbcecd",
+      "Quellen/Abbildungen/Anlage_08_Seite_01.png": "0fcbb9ede0507d3e13d429d9167528b2e7f90970fe0324776a72f1df8d1dfcbd",
+      "Quellen/Abbildungen/Anlage_08_Seite_02.png": "cbf86902aa8177e8737692e4feed9d36d88b68793c5f938eae48493dc4695feb",
+      "Quellen/Abbildungen/Anlage_08_Seite_03.png": "731e19b0bbbcc8468ebfa3d5182c12c08d8bc483775d999c5505ff0451f5f5b5",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_139.png": "90d054d4363dc8777b9c900a6a5e97a32ac8702884fde99e36642a4c193f807b",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_140.png": "063e6232210dee060a6621008e45b5d87a5129ee0f652e3f848e65e0f5e12a2a",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_141.png": "433bf511b305d3722ca8358610f7620132f6ab75acb0e1063869b27232b71371",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_142.png": "7cb47a49eb16f7d6d8833112ba841b983f1ebcc8e6abec592ab2a3b4dd21204f",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_143.png": "5257b2f9fa3244048b5e8935ae4230324b03c9a23b21027a48fb8991ca0c234a",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_144.png": "cae2a701cce687ccfe50cc54c5db53c89726bcbe2714146a39737f60c2231710",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_145.png": "6ff1e4944e61092d37dbeca9d3b5cdc3011d307f18c6c1236de1e2ff60c7bfc3",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_146.png": "09ee6905453d7b7ff9135b4b3d41c5347eb608094ac8b989517f3450bbf01693",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_147.png": "afedf6cacac0a68ef7da32e30ceb36c30106061bae89113b3d77611f75d636dc",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_148.png": "0272faf21e2735279b92a4de7f7fbc14681d4c2bf10eaedbaee0f4ac6246b532",
+      "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_149.png": "ae9b5b52b36ef60efd43c67f027c33ad90a021d433e859a412b0b459404b5d86",
+      "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_150.png": "32e96ab9b64a0630021761026bbbed25ac937ed379373adcaf6e84f3b8bac177",
+      "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_151.png": "5076af6cbadd751a8372317cefd37a728f01ce01c2488e2324e11cb26482ba2c",
+      "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_152.png": "657a0e29d44f8c8ca6c79bdaa2f180783db402cd018f570ca303027f9fc16dfb",
+      "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_153.png": "6b6d5601ba61bde4e3f1657b2849ff91589aaebb7029b480686584c7b7fad583",
+      "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_844.png": "af60e4ef79406d215e70d318e3e8a1e41d2fb3dc5254306895aad45dd57e6bd3",
+      "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_845.png": "c17d9cf583b55af3a32da01bf831e45a00b262c71baf6535c59c14de2d9fafa3",
+      "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_846.png": "4196fe23d49b8b4220ec971a246d2fad4de71568ef3eb5ee34257c38f00cdad1",
+      "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_847.png": "83779eed2d1949cf9993cfa844a27eea8b2ee0c16c25ac299961db6d90a4310e"
+    }
+  },
+  "stand": "2026-06-02",
+  "pdf_datei": "Quellen/Onlineabgleich/UStAE_BMF_Stand_2026-06-02.pdf",
+  "seiten": 886,
+  "abschnitte": 432,
+  "anlagen": 8,
+  "fehlender_abschnitt_25d_1": {
+    "text": "25d.1. - gestrichen -",
+    "pdf_seite": 849
+  },
+  "abbildungen": [
+    {
+      "anlage": 1,
+      "datei": "Quellen/Abbildungen/Anlage_01_Seite_01.png",
+      "pdf_seite": 870,
+      "sha256": "07b085653a90bfb74db66998544baede21fb58c7d332fb26f270f07f441a8845"
+    },
+    {
+      "anlage": 2,
+      "datei": "Quellen/Abbildungen/Anlage_02_Seite_01.png",
+      "pdf_seite": 871,
+      "sha256": "6755ea2b78089edb22c25bf2c7bc033badcf341a6b758f8b2d42d0be7c531ca4"
+    },
+    {
+      "anlage": 3,
+      "datei": "Quellen/Abbildungen/Anlage_03_Seite_01.png",
+      "pdf_seite": 872,
+      "sha256": "6d09666388a96af11e258aa0e66d18242ea6a1f8ff72a8639dce13732c4b7d9b"
+    },
+    {
+      "anlage": 4,
+      "datei": "Quellen/Abbildungen/Anlage_04_Seite_01.png",
+      "pdf_seite": 873,
+      "sha256": "c65e3594bb404a9dba145565dd70ef4c3381f715b384b139f775c090c2252439"
+    },
+    {
+      "anlage": 5,
+      "datei": "Quellen/Abbildungen/Anlage_05_Seite_01.png",
+      "pdf_seite": 874,
+      "sha256": "efbe6c4baeb0bcbd4c648b7ad7adee44116f5d0a4c4805ea3f438368dbf77eb0"
+    },
+    {
+      "anlage": 6,
+      "datei": "Quellen/Abbildungen/Anlage_06_Seite_01.png",
+      "pdf_seite": 875,
+      "sha256": "6ce40fd0f1115f2747210193ce28fd0a1528792945b24f8c9132356e3ddc9a6b"
+    },
+    {
+      "anlage": 6,
+      "datei": "Quellen/Abbildungen/Anlage_06_Seite_02.png",
+      "pdf_seite": 876,
+      "sha256": "0ec10580c7280f13cc4e9ec475e4a3483c7058b0a04b8c175543e4f8df5f51fa"
+    },
+    {
+      "anlage": 6,
+      "datei": "Quellen/Abbildungen/Anlage_06_Seite_03.png",
+      "pdf_seite": 877,
+      "sha256": "871abae04e6d88d04c76591b9f4cc442d38cf05de28472e3d1f96c7c476a095b"
+    },
+    {
+      "anlage": 6,
+      "datei": "Quellen/Abbildungen/Anlage_06_Seite_04.png",
+      "pdf_seite": 878,
+      "sha256": "d8794841544e197a88eb39b402d5f072ee1b78f7f00e3c4a3b79b9e3c43fdf8e"
+    },
+    {
+      "anlage": 6,
+      "datei": "Quellen/Abbildungen/Anlage_06_Seite_05.png",
+      "pdf_seite": 879,
+      "sha256": "fcdc6ec1d04f3b1a579b7e6b41ff6e532d36fb8e0d891d48e906240d6a71f452"
+    },
+    {
+      "anlage": 6,
+      "datei": "Quellen/Abbildungen/Anlage_06_Seite_06.png",
+      "pdf_seite": 880,
+      "sha256": "dce019848ef41e074c1d1a458cd347a47ef94f00efb11a4da2d715de2f430b4a"
+    },
+    {
+      "anlage": 7,
+      "datei": "Quellen/Abbildungen/Anlage_07_Seite_01.png",
+      "pdf_seite": 881,
+      "sha256": "8e9782de8ebe7d8dac76604cde390194413813e631c6bf7a609fd5736cc1ff80"
+    },
+    {
+      "anlage": 7,
+      "datei": "Quellen/Abbildungen/Anlage_07_Seite_02.png",
+      "pdf_seite": 882,
+      "sha256": "bf61f23ef69794b0800b671d1eb09c3419c7389b9620f90f02ec1c122fcbcecd"
+    },
+    {
+      "anlage": 8,
+      "datei": "Quellen/Abbildungen/Anlage_08_Seite_01.png",
+      "pdf_seite": 883,
+      "sha256": "0fcbb9ede0507d3e13d429d9167528b2e7f90970fe0324776a72f1df8d1dfcbd"
+    },
+    {
+      "anlage": 8,
+      "datei": "Quellen/Abbildungen/Anlage_08_Seite_02.png",
+      "pdf_seite": 884,
+      "sha256": "cbf86902aa8177e8737692e4feed9d36d88b68793c5f938eae48493dc4695feb"
+    },
+    {
+      "anlage": 8,
+      "datei": "Quellen/Abbildungen/Anlage_08_Seite_03.png",
+      "pdf_seite": 885,
+      "sha256": "731e19b0bbbcc8468ebfa3d5182c12c08d8bc483775d999c5505ff0451f5f5b5"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_139.png",
+      "pdf_seite": 139,
+      "sha256": "90d054d4363dc8777b9c900a6a5e97a32ac8702884fde99e36642a4c193f807b"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_140.png",
+      "pdf_seite": 140,
+      "sha256": "063e6232210dee060a6621008e45b5d87a5129ee0f652e3f848e65e0f5e12a2a"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_141.png",
+      "pdf_seite": 141,
+      "sha256": "433bf511b305d3722ca8358610f7620132f6ab75acb0e1063869b27232b71371"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_142.png",
+      "pdf_seite": 142,
+      "sha256": "7cb47a49eb16f7d6d8833112ba841b983f1ebcc8e6abec592ab2a3b4dd21204f"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_143.png",
+      "pdf_seite": 143,
+      "sha256": "5257b2f9fa3244048b5e8935ae4230324b03c9a23b21027a48fb8991ca0c234a"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_144.png",
+      "pdf_seite": 144,
+      "sha256": "cae2a701cce687ccfe50cc54c5db53c89726bcbe2714146a39737f60c2231710"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_145.png",
+      "pdf_seite": 145,
+      "sha256": "6ff1e4944e61092d37dbeca9d3b5cdc3011d307f18c6c1236de1e2ff60c7bfc3"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_146.png",
+      "pdf_seite": 146,
+      "sha256": "09ee6905453d7b7ff9135b4b3d41c5347eb608094ac8b989517f3450bbf01693"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_147.png",
+      "pdf_seite": 147,
+      "sha256": "afedf6cacac0a68ef7da32e30ceb36c30106061bae89113b3d77611f75d636dc"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_148.png",
+      "pdf_seite": 148,
+      "sha256": "0272faf21e2735279b92a4de7f7fbc14681d4c2bf10eaedbaee0f4ac6246b532"
+    },
+    {
+      "abschnitt": "3.14",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_14_PDF_Seite_149.png",
+      "pdf_seite": 149,
+      "sha256": "ae9b5b52b36ef60efd43c67f027c33ad90a021d433e859a412b0b459404b5d86"
+    },
+    {
+      "abschnitt": "3.15",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_150.png",
+      "pdf_seite": 150,
+      "sha256": "32e96ab9b64a0630021761026bbbed25ac937ed379373adcaf6e84f3b8bac177"
+    },
+    {
+      "abschnitt": "3.15",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_151.png",
+      "pdf_seite": 151,
+      "sha256": "5076af6cbadd751a8372317cefd37a728f01ce01c2488e2324e11cb26482ba2c"
+    },
+    {
+      "abschnitt": "3.15",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_152.png",
+      "pdf_seite": 152,
+      "sha256": "657a0e29d44f8c8ca6c79bdaa2f180783db402cd018f570ca303027f9fc16dfb"
+    },
+    {
+      "abschnitt": "3.15",
+      "datei": "Quellen/Abbildungen/Abschnitt_3_15_PDF_Seite_153.png",
+      "pdf_seite": 153,
+      "sha256": "6b6d5601ba61bde4e3f1657b2849ff91589aaebb7029b480686584c7b7fad583"
+    },
+    {
+      "abschnitt": "25b.1",
+      "datei": "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_844.png",
+      "pdf_seite": 844,
+      "sha256": "af60e4ef79406d215e70d318e3e8a1e41d2fb3dc5254306895aad45dd57e6bd3"
+    },
+    {
+      "abschnitt": "25b.1",
+      "datei": "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_845.png",
+      "pdf_seite": 845,
+      "sha256": "c17d9cf583b55af3a32da01bf831e45a00b262c71baf6535c59c14de2d9fafa3"
+    },
+    {
+      "abschnitt": "25b.1",
+      "datei": "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_846.png",
+      "pdf_seite": 846,
+      "sha256": "4196fe23d49b8b4220ec971a246d2fad4de71568ef3eb5ee34257c38f00cdad1"
+    },
+    {
+      "abschnitt": "25b.1",
+      "datei": "Quellen/Abbildungen/Abschnitt_25b_1_PDF_Seite_847.png",
+      "pdf_seite": 847,
+      "sha256": "83779eed2d1949cf9993cfa844a27eea8b2ee0c16c25ac299961db6d90a4310e"
+    }
+  ]
+}

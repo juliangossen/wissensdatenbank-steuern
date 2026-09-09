@@ -1,0 +1,315 @@
+{
+  "kuerzel": "GrEStG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 118,
+      "xml_chars": 118,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Erster AbschnittGegenstand der Steuer",
+      "pdf_chars": 34,
+      "xml_chars": 34,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "§ 1",
+      "pdf_chars": 9248,
+      "xml_chars": 9248,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 2",
+      "pdf_chars": 789,
+      "xml_chars": 789,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "Zweiter AbschnittSteuervergünstigungen",
+      "pdf_chars": 37,
+      "xml_chars": 37,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3",
+      "pdf_chars": 2096,
+      "xml_chars": 2096,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 4",
+      "pdf_chars": 2504,
+      "xml_chars": 2504,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 5",
+      "pdf_chars": 1650,
+      "xml_chars": 1650,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 6",
+      "pdf_chars": 3148,
+      "xml_chars": 3148,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 6a",
+      "pdf_chars": 1462,
+      "xml_chars": 1462,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 7",
+      "pdf_chars": 1265,
+      "xml_chars": 1265,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "Dritter AbschnittBemessungsgrundlage",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 8",
+      "pdf_chars": 1374,
+      "xml_chars": 1374,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 9",
+      "pdf_chars": 2196,
+      "xml_chars": 2196,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 10",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "Vierter AbschnittSteuerberechnung",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 11",
+      "pdf_chars": 103,
+      "xml_chars": 103,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 12",
+      "pdf_chars": 250,
+      "xml_chars": 250,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "Fünfter AbschnittSteuerschuld",
+      "pdf_chars": 28,
+      "xml_chars": 28,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 13",
+      "pdf_chars": 1104,
+      "xml_chars": 1104,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 14",
+      "pdf_chars": 229,
+      "xml_chars": 229,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 15",
+      "pdf_chars": 135,
+      "xml_chars": 135,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "Sechster AbschnittNichtfestsetzung der Steuer,\nAufhebung oder Änderung der Steuerfestsetzung",
+      "pdf_chars": 84,
+      "xml_chars": 84,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 16",
+      "pdf_chars": 2040,
+      "xml_chars": 2040,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "Siebenter AbschnittÖrtliche Zuständigkeit,\nFeststellung von Besteuerungsgrundlagen, Anzeigepflichten und\nErteilung der Unbedenklichkeitsbescheinigung",
+      "pdf_chars": 139,
+      "xml_chars": 139,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 17",
+      "pdf_chars": 2151,
+      "xml_chars": 2151,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 18",
+      "pdf_chars": 2287,
+      "xml_chars": 2287,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 19",
+      "pdf_chars": 4382,
+      "xml_chars": 4382,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 20",
+      "pdf_chars": 1876,
+      "xml_chars": 1876,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 21",
+      "pdf_chars": 335,
+      "xml_chars": 335,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 22",
+      "pdf_chars": 826,
+      "xml_chars": 826,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "Achter AbschnittDurchführung",
+      "pdf_chars": 27,
+      "xml_chars": 27,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 22a",
+      "pdf_chars": 779,
+      "xml_chars": 779,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "Neunter AbschnittÜbergangs- und Schlußvorschriften",
+      "pdf_chars": 47,
+      "xml_chars": 47,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 23",
+      "pdf_chars": 8950,
+      "xml_chars": 8950,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 24",
+      "pdf_chars": 195,
+      "xml_chars": 195,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§§ 25 bis 27",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 28",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 38,
+  "gesamt": 38,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "d27726ada00c65f14da5fa54c6c0db5321c8cfaedb4ac2edd8e6902033e52bf2",
+  "xml_sha256": "cdc5e0d3c8aee7906ab309fa40e5c3f810d22f34956c024304f2ddc4ec8b23b9"
+}

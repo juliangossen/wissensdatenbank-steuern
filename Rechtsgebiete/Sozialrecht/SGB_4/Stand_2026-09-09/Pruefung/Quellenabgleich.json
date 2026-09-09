@@ -1,0 +1,50 @@
+{
+  "kuerzel": "SGB_4",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/sgb_4/",
+  "pdf_url": "https://www.gesetze-im-internet.de/sgb_4/SGB_4.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/sgb_4/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html",
+  "original_dateiname": "SGB_4.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 105,
+  "dateien": [
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "9d3a2992158caea6c3e18f28a820086e026c98a65031940fd0c2a5d37f8ff948"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "85fd640cf15f484b63c3391428af64dafa38d322f57be28852d8f21d5f705794"
+    },
+    {
+      "datei": "Quellen/SGB_4_aktuell.pdf",
+      "sha256": "eb2891e82029f31a8332f6f6f13a1e47027f62672e8a008fd8d6dbaa605ca2b4"
+    },
+    {
+      "datei": "Quellen/SGB_4_bereitgestellt.pdf",
+      "sha256": "eb2891e82029f31a8332f6f6f13a1e47027f62672e8a008fd8d6dbaa605ca2b4"
+    },
+    {
+      "datei": "Quellen/SGB_4_PDF_Rohtext.txt",
+      "sha256": "c2c5a42bb9e3df8d3c41ca96ad3e6fa35f8a7afba05bbf7b1cde1061773d943a"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2022_j1988_0010.jpg",
+      "sha256": "a0e3028d2af137c2435a97f845eb6ca6114758b459a545e936f6e69f02b738f6"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2022_j1988_0020.jpg",
+      "sha256": "bd1d4b30170b16e2efe69d38bcb5db072217318f8eb7a2e9575df0b9f1f7950f"
+    },
+    {
+      "datei": "Quellen/XML/BJNR138450976.xml",
+      "sha256": "ec8703c7a8601dc8a2597ee35d7d024b4466848cb83d43ac1f8a137c21b13793"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "c0dbda08d0c7f045077cc3c66b39003c850db217731b3b7120f7d0ec3f960d33"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-09-09T21:04:38.927345+00:00",
+  "migration": "004-supabase-mcp-reader",
+  "project_ref": "vtriyndfmuwzqwrkpkde",
+  "role": "supabase_read_only_user",
+  "fixed_reader_execute_verified": true,
+  "activation_denied": true,
+  "document_insert_denied": true,
+  "anonymous_read_denied": true,
+  "oauth_connection_tested": false,
+  "mcp_url": "https://mcp.supabase.com/mcp?project_ref=vtriyndfmuwzqwrkpkde&read_only=true&features=database",
+  "oauth_connection_tested_by_user": true,
+  "user_reported_release": "r-ad68e666980668e7ca4e6b81",
+  "user_report_received_at": "2026-09-09T21:14:50.772012+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "kuerzel": "AO",
+  "titel": "Abgabenordnung",
+  "rechtsgebiet": "Steuerrecht / Allgemeines Steuerrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/ao_1977/",
+  "quelle_html": "https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/ao_1977/AO.pdf",
+  "lokale_pdf": "AO.pdf",
+  "aktuelle_pdf": "AO_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR006130976.xml",
+  "ausfertigungsdatum": "1976-03-16",
+  "stand": [
+    "Neugefasst durch Bek. v. 23.1.2025 I Nr. 24;",
+    "zuletzt geändert durch Art. 15 Abs. 6 G v. 3.7.2026 I Nr. 199"
+  ],
+  "vollzitat": "\"Abgabenordnung in der Fassung der Bekanntmachung vom 23. Januar 2025 (BGBl. 2025 I Nr. 24), die zuletzt durch Artikel 15 Absatz 6 des Gesetzes vom 3. Juli 2026 (BGBl. 2026 I Nr. 199) geändert worden ist\"",
+  "pdf_seiten": 209,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260831215507",
+  "sha256_lokale_pdf": "8348afd93d8e05d31cd566edb14fd27e1ba547cde8ce867a33616f8fadfe750c",
+  "sha256_aktuelle_pdf": "8348afd93d8e05d31cd566edb14fd27e1ba547cde8ce867a33616f8fadfe750c",
+  "sha256_xml": "3c138548236c53e4f7f04327837272cfeec962b848ae6f007152f56f8dd47ba8",
+  "normenbestand": {
+    "normdatensaetze": 599,
+    "gliederungsteile": 94,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 502,
+    "anlagen": 1,
+    "tabellen": 72,
+    "tabellenzeilen": 505,
+    "tabellenzellen": 1010,
+    "aufzaehlungskennzeichen": 1190
+  }
+}

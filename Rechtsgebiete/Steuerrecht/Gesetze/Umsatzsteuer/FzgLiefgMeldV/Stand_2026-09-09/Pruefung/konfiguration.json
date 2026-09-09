@@ -1,0 +1,34 @@
+{
+  "kuerzel": "FzgLiefgMeldV",
+  "titel": "Fahrzeuglieferungs-Meldepflichtverordnung",
+  "rechtsgebiet": "Steuerrecht / Umsatzsteuer",
+  "quelle_url": "https://www.gesetze-im-internet.de/fzgliefgmeldv/",
+  "quelle_html": "https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/fzgliefgmeldv/FzgLiefgMeldV.pdf",
+  "quelle_xml": "https://www.gesetze-im-internet.de/fzgliefgmeldv/xml.zip",
+  "lokale_pdf": "FzgLiefgMeldV.pdf",
+  "aktuelle_pdf": "FzgLiefgMeldV_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR063000009.xml",
+  "ausfertigungsdatum": "2009-03-18",
+  "stand": [
+    "Zuletzt geändert durch Art. 11 V v. 19.12.2025 I Nr. 372"
+  ],
+  "vollzitat": "\"Fahrzeuglieferungs-Meldepflichtverordnung vom 18. März 2009 (BGBl. I S. 630), die zuletzt durch Artikel 11 der Verordnung vom 19. Dezember 2025 (BGBl. 2025 I Nr. 372) geändert worden ist\"",
+  "pdf_seiten": 2,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260506174547",
+  "sha256_lokale_pdf": "c39f7890556dd8e97c013a103c5b1905685a6975d9234eb0b952266bbc4bcd5c",
+  "sha256_aktuelle_pdf": "c39f7890556dd8e97c013a103c5b1905685a6975d9234eb0b952266bbc4bcd5c",
+  "sha256_xml": "742c3feae488dac4a190362ab49ebbd8752c4e3f2795e1ca3036d207a28bd427",
+  "normenbestand": {
+    "normdatensaetze": 8,
+    "gliederungsteile": 0,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 5,
+    "anlagen": 0,
+    "tabellen": 0,
+    "tabellenzeilen": 0,
+    "tabellenzellen": 0,
+    "aufzaehlungskennzeichen": 14
+  }
+}

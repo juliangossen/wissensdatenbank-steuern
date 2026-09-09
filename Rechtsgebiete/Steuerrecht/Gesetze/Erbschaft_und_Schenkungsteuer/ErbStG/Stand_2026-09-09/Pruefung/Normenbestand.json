@@ -1,0 +1,326 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR109330974",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR109330974BJNE005702123",
+    "enbez": "Inhaltsübersicht",
+    "titel": ""
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR109330974BJNG000203140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR109330974BJNE001502301",
+    "enbez": "§ 1",
+    "titel": "Steuerpflichtige Vorgänge"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR109330974BJNE001608123",
+    "enbez": "§ 2",
+    "titel": "Persönliche Steuerpflicht"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR109330974BJNE006200123",
+    "enbez": "§ 2a",
+    "titel": "Rechtsfähige Personengesellschaft"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR109330974BJNE001707123",
+    "enbez": "§ 3",
+    "titel": "Erwerb von Todes wegen"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR109330974BJNE001803140",
+    "enbez": "§ 4",
+    "titel": "Fortgesetzte Gütergemeinschaft"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR109330974BJNE001906123",
+    "enbez": "§ 5",
+    "titel": "Zugewinngemeinschaft"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR109330974BJNE002003140",
+    "enbez": "§ 6",
+    "titel": "Vor- und Nacherbschaft"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR109330974BJNE002107123",
+    "enbez": "§ 7",
+    "titel": "Schenkungen unter Lebenden"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR109330974BJNE002202301",
+    "enbez": "§ 8",
+    "titel": "Zweckzuwendungen"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR109330974BJNE002307116",
+    "enbez": "§ 9",
+    "titel": "Entstehung der Steuer"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR109330974BJNG000303140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR109330974BJNE002411123",
+    "enbez": "§ 10",
+    "titel": "Steuerpflichtiger Erwerb"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR109330974BJNE002502301",
+    "enbez": "§ 11",
+    "titel": "Bewertungsstichtag"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR109330974BJNE002608123",
+    "enbez": "§ 12",
+    "titel": "Bewertung"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR109330974BJNE002719123",
+    "enbez": "§ 13",
+    "titel": "Steuerbefreiungen"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR109330974BJNE005514123",
+    "enbez": "§ 13a",
+    "titel": "Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR109330974BJNE005809123",
+    "enbez": "§ 13b",
+    "titel": "Begünstigtes Vermögen"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR109330974BJNE006000377",
+    "enbez": "§ 13c",
+    "titel": "Verschonungsabschlag bei Großerwerben von begünstigtem Vermögen"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR109330974BJNE005902123",
+    "enbez": "§ 13d",
+    "titel": "Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR109330974BJNG000403140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR109330974BJNE002805123",
+    "enbez": "§ 14",
+    "titel": "Berücksichtigung früherer Erwerbe"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR109330974BJNE002907140",
+    "enbez": "§ 15",
+    "titel": "Steuerklassen"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR109330974BJNE003008116",
+    "enbez": "§ 16",
+    "titel": "Freibeträge"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR109330974BJNE003108123",
+    "enbez": "§ 17",
+    "titel": "Besonderer Versorgungsfreibetrag"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR109330974BJNE003204123",
+    "enbez": "§ 18",
+    "titel": "Mitgliederbeiträge"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR109330974BJNE003308116",
+    "enbez": "§ 19",
+    "titel": "Steuersätze"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR109330974BJNE005609123",
+    "enbez": "§ 19a",
+    "titel": "Tarifbegrenzung beim Erwerb von Betriebsvermögen, von Betrieben der Land- und Forstwirtschaft und von Anteilen an Kapitalgesellschaften"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR109330974BJNG000503140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR109330974BJNE003406123",
+    "enbez": "§ 20",
+    "titel": "Steuerschuldner"
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR109330974BJNE003504116",
+    "enbez": "§ 21",
+    "titel": "Anrechnung ausländischer Erbschaftsteuer"
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR109330974BJNE003603301",
+    "enbez": "§ 22",
+    "titel": "Kleinbetragsgrenze"
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR109330974BJNE003702301",
+    "enbez": "§ 23",
+    "titel": "Besteuerung von Renten, Nutzungen und Leistungen"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR109330974BJNE003803140",
+    "enbez": "§ 24",
+    "titel": "Verrentung der Steuerschuld in den Fällen des § 1 Abs. 1 Nr. 4"
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR109330974BJNE003903140",
+    "enbez": "§ 25",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR109330974BJNE004003140",
+    "enbez": "§ 26",
+    "titel": "Ermäßigung der Steuer bei Aufhebung einer Familienstiftung oder Auflösung eines Vereins"
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR109330974BJNE004104140",
+    "enbez": "§ 27",
+    "titel": "Mehrfacher Erwerb desselben Vermögens"
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR109330974BJNE004208123",
+    "enbez": "§ 28",
+    "titel": "Stundung"
+  },
+  {
+    "index": 40,
+    "doknr": "BJNR109330974BJNE006101123",
+    "enbez": "§ 28a",
+    "titel": "Verschonungsbedarfsprüfung"
+  },
+  {
+    "index": 41,
+    "doknr": "BJNR109330974BJNE004309123",
+    "enbez": "§ 29",
+    "titel": "Erlöschen der Steuer in besonderen Fällen"
+  },
+  {
+    "index": 42,
+    "doknr": "BJNR109330974BJNE004406123",
+    "enbez": "§ 30",
+    "titel": "Anzeige des Erwerbs"
+  },
+  {
+    "index": 43,
+    "doknr": "BJNR109330974BJNE004504123",
+    "enbez": "§ 31",
+    "titel": "Steuererklärung"
+  },
+  {
+    "index": 44,
+    "doknr": "BJNR109330974BJNE004603140",
+    "enbez": "§ 32",
+    "titel": "Bekanntgabe des Steuerbescheides an Vertreter"
+  },
+  {
+    "index": 45,
+    "doknr": "BJNR109330974BJNE004703301",
+    "enbez": "§ 33",
+    "titel": "Anzeigepflicht der Vermögensverwahrer,\nVermögensverwalter und Versicherungsunternehmen"
+  },
+  {
+    "index": 46,
+    "doknr": "BJNR109330974BJNE004804116",
+    "enbez": "§ 34",
+    "titel": "Anzeigepflicht der Gerichte, Behörden, Beamten und Notare"
+  },
+  {
+    "index": 47,
+    "doknr": "BJNR109330974BJNE004906123",
+    "enbez": "§ 35",
+    "titel": "Örtliche Zuständigkeit"
+  },
+  {
+    "index": 48,
+    "doknr": "BJNR109330974BJNG000603140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 49,
+    "doknr": "BJNR109330974BJNE005004301",
+    "enbez": "§ 36",
+    "titel": "Ermächtigungen"
+  },
+  {
+    "index": 50,
+    "doknr": "BJNR109330974BJNE005138123",
+    "enbez": "§ 37",
+    "titel": "Anwendung des Gesetzes"
+  },
+  {
+    "index": 51,
+    "doknr": "BJNR109330974BJNE005404140",
+    "enbez": "§ 37a",
+    "titel": "Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands"
+  },
+  {
+    "index": 52,
+    "doknr": "BJNR109330974BJNE005203301",
+    "enbez": "§ 38",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 53,
+    "doknr": "BJNR109330974BJNE005303301",
+    "enbez": "§ 39",
+    "titel": "(weggefallen)"
+  }
+]

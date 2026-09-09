@@ -1,0 +1,29 @@
+{
+  "kuerzel": "SGB_4",
+  "alle_formelbilder_pixelidentisch_in_pdf": true,
+  "methode": "Sichtbar platzierte PDF-XObjects ermittelt. RGB-Pixel jeder archivierten XML-Abbildung gegen das passende PDF-Bild vollst?ndig verglichen. JPEG-Dateimetadaten k?nnen abweichen; alle Pixel und Abmessungen m?ssen identisch sein.",
+  "bilder": [
+    {
+      "datei": "Quellen/XML/bgbl1_2022_j1988_0010.jpg",
+      "pdf_seite": 26,
+      "sha256_datei": "a0e3028d2af137c2435a97f845eb6ca6114758b459a545e936f6e69f02b738f6",
+      "pdf_bilddaten_bytegleich": true,
+      "pdf_bildpixel_identisch": true,
+      "abmessungen": [
+        484,
+        66
+      ]
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2022_j1988_0020.jpg",
+      "pdf_seite": 26,
+      "sha256_datei": "bd1d4b30170b16e2efe69d38bcb5db072217318f8eb7a2e9575df0b9f1f7950f",
+      "pdf_bilddaten_bytegleich": true,
+      "pdf_bildpixel_identisch": true,
+      "abmessungen": [
+        281,
+        64
+      ]
+    }
+  ]
+}

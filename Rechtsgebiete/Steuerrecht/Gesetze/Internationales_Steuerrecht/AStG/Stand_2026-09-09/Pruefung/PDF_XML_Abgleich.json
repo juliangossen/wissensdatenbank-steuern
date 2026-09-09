@@ -1,0 +1,267 @@
+{
+  "kuerzel": "AStG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 261,
+      "xml_chars": 261,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 1121,
+      "xml_chars": 1121,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Erster TeilInternationale Verflechtungen",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 13257,
+      "xml_chars": 13257,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 1a",
+      "pdf_chars": 1957,
+      "xml_chars": 1957,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "Zweiter TeilWohnsitzwechsel in niedrigbesteuernde\nGebiete",
+      "pdf_chars": 53,
+      "xml_chars": 53,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 2",
+      "pdf_chars": 4597,
+      "xml_chars": 4597,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 3",
+      "pdf_chars": 15,
+      "xml_chars": 15,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 4",
+      "pdf_chars": 748,
+      "xml_chars": 748,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 5",
+      "pdf_chars": 1097,
+      "xml_chars": 1097,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "Dritter TeilBehandlung einer Beteiligung im Sinne des\n§ 17 des Einkommensteuergesetzes bei Wohnsitzwechsel ins Ausland",
+      "pdf_chars": 104,
+      "xml_chars": 104,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 6",
+      "pdf_chars": 6744,
+      "xml_chars": 6744,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "Vierter TeilHinzurechnungsbesteuerung",
+      "pdf_chars": 36,
+      "xml_chars": 36,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 7",
+      "pdf_chars": 3018,
+      "xml_chars": 3018,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 8",
+      "pdf_chars": 7739,
+      "xml_chars": 7739,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 9",
+      "pdf_chars": 444,
+      "xml_chars": 444,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 10",
+      "pdf_chars": 3110,
+      "xml_chars": 3110,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 11",
+      "pdf_chars": 2720,
+      "xml_chars": 2720,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 12",
+      "pdf_chars": 1113,
+      "xml_chars": 1113,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 13",
+      "pdf_chars": 2750,
+      "xml_chars": 2750,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 14",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "Fünfter TeilFamilienstiftungen",
+      "pdf_chars": 29,
+      "xml_chars": 29,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 15",
+      "pdf_chars": 5075,
+      "xml_chars": 5075,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "Sechster TeilErmittlung und Verfahren",
+      "pdf_chars": 34,
+      "xml_chars": 34,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 16",
+      "pdf_chars": 876,
+      "xml_chars": 876,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 17",
+      "pdf_chars": 1279,
+      "xml_chars": 1279,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 18",
+      "pdf_chars": 3062,
+      "xml_chars": 3062,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "Siebenter TeilSchlußvorschriften",
+      "pdf_chars": 31,
+      "xml_chars": 31,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 19",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 20",
+      "pdf_chars": 917,
+      "xml_chars": 917,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 21",
+      "pdf_chars": 6794,
+      "xml_chars": 6794,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 22",
+      "pdf_chars": 145,
+      "xml_chars": 145,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 32,
+  "gesamt": 32,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "d92333fdb6c421d3f444b97c9f714b88e3c08ad201000ac01ff5dbc86869392f",
+  "xml_sha256": "f9ad61bde5ca690fd1784130363b84ccc33329c22c49d6b5f4b5586ed9d251fd"
+}

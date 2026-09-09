@@ -1,0 +1,35 @@
+{
+  "project_url": "https://vtriyndfmuwzqwrkpkde.supabase.co",
+  "project_ref": "vtriyndfmuwzqwrkpkde",
+  "connection_endpoint": {
+    "host": "aws-0-eu-central-1.pooler.supabase.com",
+    "port": "5432",
+    "dbname": "postgres",
+    "user": "postgres.vtriyndfmuwzqwrkpkde"
+  },
+  "name": "steuerrecht-wissensdatenbank",
+  "data_api_enabled_by_user": true,
+  "database_schema": "kb",
+  "storage_bucket": "knowledge-assets",
+  "connection_tested": true,
+  "schema_installed": true,
+  "files_uploaded": true,
+  "remote_mcp_deployed": false,
+  "custom_remote_mcp_deployed": false,
+  "note": "Cloudfassung mit 58 registrierten Dokumenten vollständig hochgeladen, zurückgelesen und aktiviert. Die MCP-Clientverbindung wird gesondert geprüft.",
+  "connection_check": {
+    "database": "postgres",
+    "postgres_version": "17.6",
+    "kb_schema_present": true
+  },
+  "active_release": "r-2ba1572b7978ca909270331f",
+  "asset_storage": "private_postgres_bytea",
+  "storage_bucket_created": false,
+  "reader_login_tested": true,
+  "reader_verified_release": "r-2ba1572b7978ca909270331f",
+  "reader_verified_at": "2026-09-09T22:12:21.680600+00:00",
+  "reader_credential_target": "Wissensdatenbank/Supabase/vtriyndfmuwzqwrkpkde/Lesen",
+  "official_mcp_connection_reported_by_user": true,
+  "official_mcp_user_reported_release": "r-ad68e666980668e7ca4e6b81",
+  "official_mcp_url": "https://mcp.supabase.com/mcp?project_ref=vtriyndfmuwzqwrkpkde&read_only=true&features=database"
+}

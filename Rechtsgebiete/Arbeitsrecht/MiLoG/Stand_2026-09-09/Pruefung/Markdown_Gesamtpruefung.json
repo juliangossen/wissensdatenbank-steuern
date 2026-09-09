@@ -1,0 +1,269 @@
+{
+  "kuerzel": "MiLoG",
+  "pruefdatum": "2026-09-09",
+  "methode": "Fertige Markdown-Datei unabhängig normweise an Überschriftsankern zerlegt; alle sichtbaren Texte aus dem gerenderten Markdown gegen sämtliche XML-Normen in derselben Reihenfolge verglichen. Nur redaktionelle Metadaten und markierte Ergänzungen, PDF-technischer (XXXX)-Präfix, NFC/Whitespace ausgenommen. Aus XML-Attributen stammende Fußnotenmarker werden zusätzlich auf vollständige Zahl und Kennzeichnung geprüft.",
+  "sha256_markdown": "cfea35f837dc58d9c0ee7e1f6064c897406eb4489b7a7c2ffe9ba922593b0a14",
+  "normen_erwartet": 32,
+  "normen_vorhanden": 32,
+  "alle_normtexte_identisch": true,
+  "alle_fussnotenverweise_erhalten": true,
+  "fussnoten": [],
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR134810014",
+      "anzeige": "Dokumentkopf",
+      "identisch": true,
+      "zeichen": 598,
+      "sha256": "7eef3af871b65e625d97ae87475057f06afb82ac637b8a7031eed31607f82bd9"
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR134810014BJNE000101000",
+      "anzeige": "Inhaltsübersicht",
+      "identisch": true,
+      "zeichen": 1024,
+      "sha256": "a347c3726f2260cca9ed4c72956741d85448e0a31f23cc3e308fbbf58b2e19d8"
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR134810014BJNG000100000",
+      "anzeige": "010Abschnitt 1Festsetzung des allgemeinen Mindestlohns",
+      "identisch": true,
+      "zeichen": 47,
+      "sha256": "1659e6a67978410e12e4c779313ec65676bffabd477d14860156dfe9972355f1"
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR134810014BJNG000200000",
+      "anzeige": "010010Unterabschnitt 1Inhalt des Mindestlohns",
+      "identisch": true,
+      "zeichen": 36,
+      "sha256": "a2a008b2066a7827c3265f3824f53ad74556b04394d34e6cdf313e0f271348e7"
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR134810014BJNE000202311",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 784,
+      "sha256": "6a645d408ff170f64d9ba605a6d26ff070c6a094a06495775d4e081a06a6f256"
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR134810014BJNE000300000",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1414,
+      "sha256": "8699f8ade309193bc0d575a1d5f0d925d6b95fed3147bd2516646a0f996e592e"
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR134810014BJNE000400000",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 363,
+      "sha256": "51c2018f2baec5dbe29bd6d75b601976bf04bd38a5cc452cdb1a49df3ee88af2"
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR134810014BJNG000300000",
+      "anzeige": "010020Unterabschnitt 2Mindestlohnkommission",
+      "identisch": true,
+      "zeichen": 36,
+      "sha256": "b9c6d20ee8f587f55551d1ea8f920c3ac8704e419b20b4e71112159e2693251c"
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR134810014BJNE000500000",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 365,
+      "sha256": "0ce02d8465a71312ffb73863ce86d17785c2fd7eb098abaf46c842c79aec80d6"
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR134810014BJNE000600000",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 887,
+      "sha256": "3c3d63e165b3b2a0f7604477261a2cc487bd71b759ac8d52b6c54c83b2d6cb85"
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR134810014BJNE000700000",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 635,
+      "sha256": "d1405ec2ebe2429857af39e080b5ef3cdf6ac299b1db3891374e0e3d088bb3b7"
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR134810014BJNE000800000",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 849,
+      "sha256": "d2aff5a0a6fe5d74d7acc1af459faaaf0b0a78900c8314d68928c98e9c8d0d93"
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR134810014BJNE000900000",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 587,
+      "sha256": "10cb7de25c07f91d555143a5a56c8934f202973bd27600944a8dd2a63f30eab2"
+    },
+    {
+      "xml_index": 13,
+      "doknr": "BJNR134810014BJNE001001311",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 1029,
+      "sha256": "cf1252c0e9d7a70397646b4c3e851771066fbc6a89c5edc801bff8daa5d1823e"
+    },
+    {
+      "xml_index": 14,
+      "doknr": "BJNR134810014BJNE001101119",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 1443,
+      "sha256": "3e8cd0d460b5f9509c4a7fd966bfccfb102a79d964fcdba0dca212ea48f87592"
+    },
+    {
+      "xml_index": 15,
+      "doknr": "BJNR134810014BJNE001200000",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 840,
+      "sha256": "f78793a11826ce9b3cbe0eb8264c4357dade22cd7d56f6b55c43231d8f7265ee"
+    },
+    {
+      "xml_index": 16,
+      "doknr": "BJNR134810014BJNE001300000",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 625,
+      "sha256": "0820b2ee923a8f9c081e90e1d81c9c624c482f459da8faf1337318bca49d4054"
+    },
+    {
+      "xml_index": 17,
+      "doknr": "BJNR134810014BJNG000400000",
+      "anzeige": "020Abschnitt 2Zivilrechtliche Durchsetzung",
+      "identisch": true,
+      "zeichen": 37,
+      "sha256": "6bf72f01725b185c6ededeb572fb33e8381f10ed89437adcad16d691222ee0a0"
+    },
+    {
+      "xml_index": 18,
+      "doknr": "BJNR134810014BJNE001400000",
+      "anzeige": "§ 13",
+      "identisch": true,
+      "zeichen": 90,
+      "sha256": "812db18e9be90c4c597d930444ae910b7e73dbd55e1e3f4d0fb836df787fdf65"
+    },
+    {
+      "xml_index": 19,
+      "doknr": "BJNR134810014BJNG000500000",
+      "anzeige": "030Abschnitt 3Kontrolle und Durchsetzung durch staatliche Behörden",
+      "identisch": true,
+      "zeichen": 57,
+      "sha256": "c1e8907f33fb4f5efca176dfb27adf3ffcbb61be94e64bb4722044b297dca3e8"
+    },
+    {
+      "xml_index": 20,
+      "doknr": "BJNR134810014BJNE001500000",
+      "anzeige": "§ 14",
+      "identisch": true,
+      "zeichen": 120,
+      "sha256": "8ee6fd99dae52fa34cf05484aac166be3b9dd86d8720592b515ba6e32b91b350"
+    },
+    {
+      "xml_index": 21,
+      "doknr": "BJNR134810014BJNE001601125",
+      "anzeige": "§ 15",
+      "identisch": true,
+      "zeichen": 695,
+      "sha256": "1a164c70e67857652c254e93365b3de8a995babdabd44a58d635635eb2d36bdf"
+    },
+    {
+      "xml_index": 22,
+      "doknr": "BJNR134810014BJNE001702125",
+      "anzeige": "§ 16",
+      "identisch": true,
+      "zeichen": 5161,
+      "sha256": "beef3aff2a759296c887fe67dd72bab00339f2844e5101c352f00da10b338738"
+    },
+    {
+      "xml_index": 23,
+      "doknr": "BJNR134810014BJNE001801126",
+      "anzeige": "§ 17",
+      "identisch": true,
+      "zeichen": 6141,
+      "sha256": "45e25f72d6fd7fb2bada2d4a872584c4577edfdfea53e70a5b79253bdfaca03d"
+    },
+    {
+      "xml_index": 24,
+      "doknr": "BJNR134810014BJNE001901126",
+      "anzeige": "§ 18",
+      "identisch": true,
+      "zeichen": 976,
+      "sha256": "edbafc5f85ee53cfa70ef57b75b835d72b33075a9f1e26c7860d4d554a9cba61"
+    },
+    {
+      "xml_index": 25,
+      "doknr": "BJNR134810014BJNE002007131",
+      "anzeige": "§ 19",
+      "identisch": true,
+      "zeichen": 1666,
+      "sha256": "f25a784715e90c3ac1bf9baaf87ccd91b65d0c5f60c7f17b7c1f44048714650a"
+    },
+    {
+      "xml_index": 26,
+      "doknr": "BJNR134810014BJNE002100000",
+      "anzeige": "§ 20",
+      "identisch": true,
+      "zeichen": 288,
+      "sha256": "09446cca759b8dd4bc15b2214ab403989f26c1c456d67b681f1351e0638afb6a"
+    },
+    {
+      "xml_index": 27,
+      "doknr": "BJNR134810014BJNE002204125",
+      "anzeige": "§ 21",
+      "identisch": true,
+      "zeichen": 3357,
+      "sha256": "1d4027953b9b9b6e552fd8e0081dccb1c46da7bc9642df1559c6aa9f3f4aefed"
+    },
+    {
+      "xml_index": 28,
+      "doknr": "BJNR134810014BJNG000600000",
+      "anzeige": "040Abschnitt 4Schlussvorschriften",
+      "identisch": true,
+      "zeichen": 29,
+      "sha256": "fb45b183138d52996b4adf64472e9c6d1f5fc48285d058131769683e5b6af21d"
+    },
+    {
+      "xml_index": 29,
+      "doknr": "BJNR134810014BJNE002300000",
+      "anzeige": "§ 22",
+      "identisch": true,
+      "zeichen": 2095,
+      "sha256": "866c9f38adae5d541ea14fd041464bc7fc1ce38d37aef2f74022bfaecbc5f6a8"
+    },
+    {
+      "xml_index": 30,
+      "doknr": "BJNR134810014BJNE002400000",
+      "anzeige": "§ 23",
+      "identisch": true,
+      "zeichen": 51,
+      "sha256": "dde491899be488658459dfa145d54201e3e7af82c90281d87718ae4cfe8979d9"
+    },
+    {
+      "xml_index": 31,
+      "doknr": "BJNR134810014BJNE002501000",
+      "anzeige": "§ 24",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "41443843f11a0ed3a88f7fdcb4016d53e68230c74bdf1bc38b02cea575d04d33"
+    }
+  ]
+}

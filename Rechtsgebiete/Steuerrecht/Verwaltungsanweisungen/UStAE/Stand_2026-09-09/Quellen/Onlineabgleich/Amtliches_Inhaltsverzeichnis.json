@@ -1,0 +1,2207 @@
+[
+  [
+    1,
+    "Abkürzungsverzeichnis",
+    20
+  ],
+  [
+    1,
+    "1.1. Leistungsaustausch",
+    25
+  ],
+  [
+    1,
+    "1.2. Verwertung von Sachen",
+    30
+  ],
+  [
+    1,
+    "1.3. Schadensersatz",
+    31
+  ],
+  [
+    1,
+    "1.4. Mitgliederbeiträge",
+    34
+  ],
+  [
+    1,
+    "1.5. Geschäftsveräußerung",
+    35
+  ],
+  [
+    1,
+    "1.6. Leistungsaustausch bei Gesellschaftsverhältnissen",
+    38
+  ],
+  [
+    1,
+    "1.7. Lieferung von Gas, Elektrizität oder Wärme/Kälte",
+    44
+  ],
+  [
+    1,
+    "1.8. Sachzuwendungen und sonstige Leistungen an das Personal",
+    46
+  ],
+  [
+    1,
+    "1.9. Inland – Ausland",
+    52
+  ],
+  [
+    1,
+    "1.10. Gemeinschaftsgebiet – Drittlandsgebiet",
+    53
+  ],
+  [
+    1,
+    "1.11. Umsätze in Freihäfen usw. (§ 1 Abs. 3 Satz 1 Nr. 1 bis 3 UStG)",
+    54
+  ],
+  [
+    1,
+    "1.12. Freihafen-Veredelungsverkehr, Freihafenlagerung und einfuhrumsatzsteuerrechtlich freier Verkehr (§ 1 Abs. 3 Satz 1 Nr. 4 und 5 UStG)",
+    55
+  ],
+  [
+    1,
+    "1a.1. Innergemeinschaftlicher Erwerb",
+    56
+  ],
+  [
+    1,
+    "1a.2. Innergemeinschaftliches Verbringen",
+    57
+  ],
+  [
+    1,
+    "1b.1. Innergemeinschaftlicher Erwerb neuer Fahrzeuge",
+    61
+  ],
+  [
+    1,
+    "1c.1. Ausnahme vom innergemeinschaftlichen Erwerb beidiplomatischen Missionen usw. (§ 1c Abs. 1 UStG)",
+    62
+  ],
+  [
+    1,
+    "2.1. Unternehmer",
+    63
+  ],
+  [
+    1,
+    "2.2. Selbständigkeit",
+    66
+  ],
+  [
+    1,
+    "2.3. Gewerbliche oder berufliche Tätigkeit",
+    69
+  ],
+  [
+    1,
+    "2.4. Forderungskauf und Forderungseinzug",
+    73
+  ],
+  [
+    1,
+    "2.5. Betrieb von Anlagen zur Energieerzeugung",
+    75
+  ],
+  [
+    1,
+    "2.6. Beginn und Ende der Unternehmereigenschaft",
+    80
+  ],
+  [
+    1,
+    "2.7. Unternehmen",
+    82
+  ],
+  [
+    1,
+    "2.8. Organschaft",
+    83
+  ],
+  [
+    1,
+    "2.9. Beschränkung der Organschaft auf das Inland",
+    90
+  ],
+  [
+    1,
+    "2.10. Unternehmereigenschaft und Vorsteuerabzug bei Vereinen, Forschungseinrichtungen und ähnlichen Einrichtungen",
+    93
+  ],
+  [
+    1,
+    "2.11. Juristische Personen des öffentlichen Rechts (§ 2 Abs. 3 UStG)",
+    100
+  ],
+  [
+    1,
+    "2b.1 Juristische Personen des öffentlichen Rechts (§ 2b UStG)",
+    104
+  ],
+  [
+    1,
+    "3.1. Lieferungen und sonstige Leistungen",
+    105
+  ],
+  [
+    1,
+    "3.2. Unentgeltliche Wertabgaben",
+    107
+  ],
+  [
+    1,
+    "3.3. Den Lieferungen gleichgestellte Wertabgaben",
+    109
+  ],
+  [
+    1,
+    "3.4. Den sonstigen Leistungen gleichgestellte Wertabgaben",
+    113
+  ],
+  [
+    1,
+    "3.5. Abgrenzung zwischen Lieferungen und sonstigen Leistungen",
+    116
+  ],
+  [
+    1,
+    "3.6. Abgrenzung von Lieferungen und sonstigen Leistungen bei der Abgabe von Speisen und Getränken",
+    120
+  ],
+  [
+    1,
+    "3.7. Vermittlung oder Eigenhandel",
+    126
+  ],
+  [
+    1,
+    "3.8. Werklieferung, Werkleistung",
+    128
+  ],
+  [
+    1,
+    "3.9. Lieferungsgegenstand bei noch nicht abgeschlossenen Werklieferungen",
+    130
+  ],
+  [
+    1,
+    "3.10. Einheitlichkeit der Leistung",
+    131
+  ],
+  [
+    1,
+    "3.11. Kreditgewährung im Zusammenhang mit anderen Umsätzen",
+    134
+  ],
+  [
+    1,
+    "3.12. Ort der Lieferung",
+    136
+  ],
+  [
+    1,
+    "3.13. Lieferort in besonderen Fällen (§ 3 Abs. 8 UStG)",
+    138
+  ],
+  [
+    1,
+    "3.14. Reihengeschäfte",
+    139
+  ],
+  [
+    1,
+    "3.15. Dienstleistungskommission (§ 3 Abs. 11 UStG)",
+    150
+  ],
+  [
+    1,
+    "3.16. Leistungsbeziehungen bei der Abgabe werthaltiger Abfälle",
+    154
+  ],
+  [
+    1,
+    "3.17. Einzweck- und Mehrzweck-Gutscheine",
+    157
+  ],
+  [
+    1,
+    "3.18. Einbeziehung von Betreibern elektronischer Schnittstellen in fiktive Lieferketten",
+    164
+  ],
+  [
+    1,
+    "3a.1. Ort der sonstigen Leistung bei Leistungen an Nichtunternehmer",
+    170
+  ],
+  [
+    1,
+    "3a.2. Ort der sonstigen Leistung bei Leistungen an Unternehmer und diesen gleichstellte juristische Personen",
+    172
+  ],
+  [
+    1,
+    "3a.3. Ort der sonstigen Leistung im Zusammenhang mit einem Grundstück",
+    178
+  ],
+  [
+    1,
+    "3a.4. Ort der sonstigen Leistung bei Messen, Ausstellungen und Kongressen",
+    182
+  ],
+  [
+    1,
+    "3a.5. Ort der Vermietung eines Beförderungsmittels",
+    184
+  ],
+  [
+    1,
+    "3a.6. Ort der Tätigkeit",
+    187
+  ],
+  [
+    1,
+    "3a.7. Ort der Vermittlungsleistung",
+    190
+  ],
+  [
+    1,
+    "3a.7a. Ort der Veranstaltung",
+    191
+  ],
+  [
+    1,
+    "3a.8. Ort der in § 3a Abs. 4 Satz 2 UStG bezeichneten sonstigen Leistungen",
+    192
+  ],
+  [
+    1,
+    "3a.9. Leistungskatalog des § 3a Abs. 4 Satz 2 Nr. 1 bis 10 UStG",
+    193
+  ],
+  [
+    1,
+    "3a.9a. Ort der sonstigen Leistungen auf dem Gebiet der Telekommunikation, der Rundfunk- und Fernsehdienstleistungen und der auf elektronischem Weg erbrachten sonstigen Leistungen",
+    197
+  ],
+  [
+    1,
+    "3a.10. Sonstige Leistungen auf dem Gebiet der Telekommunikation",
+    200
+  ],
+  [
+    1,
+    "3a.11. Rundfunk- und Fernsehdienstleistungen",
+    203
+  ],
+  [
+    1,
+    "3a.12. Auf elektronischem Weg erbrachte sonstige Leistungen",
+    204
+  ],
+  [
+    1,
+    "3a.13. Gewährung des Zugangs zu Erdgas- und Elektrizitätsnetzen und die Fernleitung, die Übertragung oder die Verteilung über diese Netze sowie damit unmittelbar zusammenhängende sonstige Leistungen",
+    207
+  ],
+  [
+    1,
+    "3a.14. Sonderfälle des Orts der sonstigen Leistung",
+    208
+  ],
+  [
+    1,
+    "3a.15. Ort der sonstigen Leistung bei Einschaltung eines Erfüllungsgehilfen",
+    210
+  ],
+  [
+    1,
+    "3a.16. Besteuerungsverfahren bei sonstigen Leistungen",
+    211
+  ],
+  [
+    1,
+    "3b.1. Ort einer Personenbeförderung und Ort einer Güterbeförderung, die keine innergemeinschaftliche Güterbeförderung ist",
+    213
+  ],
+  [
+    1,
+    "3b.2. Ort der Leistung, die im Zusammenhang mit einer Güterbeförderung steht",
+    218
+  ],
+  [
+    1,
+    "3b.3. Ort der innergemeinschaftlichen Güterbeförderung",
+    219
+  ],
+  [
+    1,
+    "3b.4. Ort der gebrochenen innergemeinschaftlichen Güterbeförderung",
+    220
+  ],
+  [
+    1,
+    "3c.1. Ort der Lieferung beim Fernverkauf",
+    222
+  ],
+  [
+    1,
+    "3d.1. Ort des innergemeinschaftlichen Erwerbs",
+    225
+  ],
+  [
+    1,
+    "3e.1. Ort der Lieferung und der Restaurationsleistung während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in der Eisenbahn (§ 3e UStG)",
+    226
+  ],
+  [
+    1,
+    "3f.1. - gestrichen -",
+    227
+  ],
+  [
+    1,
+    "3g.1. Ort der Lieferung von Gas oder Elektrizität",
+    228
+  ],
+  [
+    1,
+    "4.1.1. Ausfuhrlieferungen und Lohnveredelungen an Gegenständen der Ausfuhr",
+    230
+  ],
+  [
+    1,
+    "4.1.2. Innergemeinschaftliche Lieferungen",
+    231
+  ],
+  [
+    1,
+    "4.2.1. Umsätze für die Seeschifffahrt und für die Luftfahrt",
+    232
+  ],
+  [
+    1,
+    "4.3.1. Allgemeines",
+    233
+  ],
+  [
+    1,
+    "4.3.2. Grenzüberschreitende Güterbeförderungen",
+    234
+  ],
+  [
+    1,
+    "4.3.3. Grenzüberschreitende Güterbeförderungen und andere sonstige Leistungen, die sich auf Gegenstände der Einfuhr beziehen",
+    235
+  ],
+  [
+    1,
+    "4.3.4. Grenzüberschreitende Beförderungen und andere sonstige Leistungen, die sich unmittelbar auf Gegenstände der Ausfuhr oder der Durchfuhr beziehen",
+    239
+  ],
+  [
+    1,
+    "4.3.5. Ausnahmen von der Steuerbefreiung",
+    242
+  ],
+  [
+    1,
+    "4.3.6. Buchmäßiger Nachweis",
+    243
+  ],
+  [
+    1,
+    "4.4.1. Lieferungen von Gold an Zentralbanken",
+    244
+  ],
+  [
+    1,
+    "4.4a.1. - gestrichen - 47F",
+    245
+  ],
+  [
+    1,
+    "4.4b.1. Steuerbefreiung für die einer Einfuhr vorangehenden Lieferungen von Gegenständen",
+    246
+  ],
+  [
+    1,
+    "4.4c.1. Steuerbefreiung der Lieferung im Sinne des § 3 Abs. 3a Satz 1 UStG an einen Unternehmer",
+    251
+  ],
+  [
+    1,
+    "4.5.1. Steuerfreie Vermittlungsleistungen",
+    252
+  ],
+  [
+    1,
+    "4.5.2. Vermittlungsleistungen der Reisebüros",
+    253
+  ],
+  [
+    1,
+    "4.5.3. Verkauf von Flugscheinen durch Reisebüros oder Tickethändler („Consolidator“)",
+    255
+  ],
+  [
+    1,
+    "4.5.4. Buchmäßiger Nachweis",
+    257
+  ],
+  [
+    1,
+    "4.6.1. Leistungen der Eisenbahnen des Bundes",
+    258
+  ],
+  [
+    1,
+    "4.6.2. Steuerbefreiung für Restaurationsumsätze an Bord von Seeschiffen",
+    259
+  ],
+  [
+    1,
+    "4.7.1. Leistungen an Vertragsparteien des Nordatlantikvertrages, NATO-Streitkräfte, diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Mitgliedstaaten der Europäischen Union im Rahmen der GSVP",
+    260
+  ],
+  [
+    1,
+    "4.8.1. Vermittlungsleistungen im Sinne des § 4 Nr. 8 und 11 UStG",
+    262
+  ],
+  [
+    1,
+    "4.8.2. Gewährung und Vermittlung von Krediten",
+    263
+  ],
+  [
+    1,
+    "4.8.4. Umsätze im Geschäft mit Forderungen",
+    264
+  ],
+  [
+    1,
+    "4.8.3. Gesetzliche Zahlungsmittel",
+    265
+  ],
+  [
+    1,
+    "4.8.5. Einlagengeschäft",
+    266
+  ],
+  [
+    1,
+    "4.8.6. Inkasso von Handelspapieren",
+    267
+  ],
+  [
+    1,
+    "4.8.7. Zahlungs-, Überweisungs- und Kontokorrentverkehr",
+    268
+  ],
+  [
+    1,
+    "4.8.8. Umsätze im Geschäft mit Wertpapieren",
+    269
+  ],
+  [
+    1,
+    "4.8.9. Verwahrung und Verwaltung von Wertpapieren",
+    270
+  ],
+  [
+    1,
+    "4.8.10. Gesellschaftsanteile",
+    271
+  ],
+  [
+    1,
+    "4.8.11. Übernahme von Verbindlichkeiten",
+    272
+  ],
+  [
+    1,
+    "4.8.12. Übernahme von Bürgschaften und anderen Sicherheiten",
+    273
+  ],
+  [
+    1,
+    "4.8.13. Verwaltung von Investmentvermögen und von Versorgungseinrichtungen",
+    274
+  ],
+  [
+    1,
+    "4.8.14. Amtliche Wertzeichen",
+    279
+  ],
+  [
+    1,
+    "4.9.1. Umsätze, die unter das Grunderwerbsteuergesetz fallen",
+    280
+  ],
+  [
+    1,
+    "4.9.2. Umsätze, die unter das Rennwett- und Lotteriegesetz fallen",
+    281
+  ],
+  [
+    1,
+    "4.10.1. Versicherungsleistungen",
+    282
+  ],
+  [
+    1,
+    "4.10.2. Verschaffung von Versicherungsschutz",
+    283
+  ],
+  [
+    1,
+    "4.11.1. Bausparkassenvertreter, Versicherungsvertreter, Versicherungsmakler",
+    284
+  ],
+  [
+    1,
+    "4.11b.1. Umsatzsteuerbefreiung für Post-Universaldienstleistungen",
+    285
+  ],
+  [
+    1,
+    "4.12.1. Vermietung und Verpachtung von Grundstücken",
+    290
+  ],
+  [
+    1,
+    "4.12.2. Vermietung von Plätzen für das Abstellen von Fahrzeugen",
+    292
+  ],
+  [
+    1,
+    "4.12.3. Vermietung von Campingflächen",
+    294
+  ],
+  [
+    1,
+    "4.12.4. Abbau- und Ablagerungsverträge",
+    295
+  ],
+  [
+    1,
+    "4.12.5. Gemischte Verträge",
+    296
+  ],
+  [
+    1,
+    "4.12.6. Verträge besonderer Art",
+    297
+  ],
+  [
+    1,
+    "4.12.7. Kaufanwartschaftsverhältnisse",
+    298
+  ],
+  [
+    1,
+    "4.12.8. Dingliche Nutzungsrechte",
+    299
+  ],
+  [
+    1,
+    "4.12.9. Beherbergungsumsätze",
+    300
+  ],
+  [
+    1,
+    "4.12.10. Vermietung und Verpachtung von Betriebsvorrichtungen",
+    301
+  ],
+  [
+    1,
+    "4.12.11. Nutzungsüberlassung von Sportanlagen und anderen Anlagen",
+    302
+  ],
+  [
+    1,
+    "4.13.1. Gemeinschaften der Wohnungseigentümer",
+    306
+  ],
+  [
+    1,
+    "4.14.1. Anwendungsbereich und Umfang der Steuerbefreiung",
+    307
+  ],
+  [
+    1,
+    "4.14.2. Tätigkeit als Arzt",
+    310
+  ],
+  [
+    1,
+    "4.14.3. Tätigkeit als Zahnarzt",
+    311
+  ],
+  [
+    1,
+    "4.14.4. Tätigkeit als Heilpraktiker, Physiotherapeut, Hebamme sowie als Angehöriger ähnlicher Heilberufe",
+    312
+  ],
+  [
+    1,
+    "4.14.5. Krankenhausbehandlungen und ärztliche Heilbehandlungen",
+    315
+  ],
+  [
+    1,
+    "4.14.6. Eng mit Krankenhausbehandlungen und ärztlichen Heilbehandlungen verbundene Umsätze",
+    319
+  ],
+  [
+    1,
+    "4.14.7. Rechtsform des Unternehmers",
+    321
+  ],
+  [
+    1,
+    "4.14.8. – gestrichen -",
+    322
+  ],
+  [
+    1,
+    "4.14.9. Leistungen von Einrichtungen mit Versorgungsverträgen nach §§ 73b, 73c oder 140a SGB V",
+    323
+  ],
+  [
+    1,
+    "4.15.1. Sozialversicherung, Grundsicherung für Arbeitsuchende, Sozialhilfe, Kriegsopferversorgung",
+    325
+  ],
+  [
+    1,
+    "4.16.1. Anwendungsbereich und Umfang der Steuerbefreiung",
+    326
+  ],
+  [
+    1,
+    "4.16.2. Nachweis der Voraussetzungen",
+    328
+  ],
+  [
+    1,
+    "4.16.3. Einrichtungen nach § 4 Nr. 16 Satz 1 Buchstabe n UStG",
+    329
+  ],
+  [
+    1,
+    "4.16.4. Leistungen der Altenheime, Pflegeheime und Altenwohnheime",
+    331
+  ],
+  [
+    1,
+    "4.16.5. Weitere Betreuungs- und/oder Pflegeeinrichtungen",
+    332
+  ],
+  [
+    1,
+    "4.16.6. Eng verbundene Umsätze",
+    335
+  ],
+  [
+    1,
+    "4.17.1. Menschliche Organe, menschliches Blut und Frauenmilch",
+    336
+  ],
+  [
+    1,
+    "4.17.2. Beförderung von kranken und verletzten Personen",
+    337
+  ],
+  [
+    1,
+    "4.18.1. Eng mit der Sozialfürsorge und der sozialen Sicherheit verbundene Leistungen",
+    338
+  ],
+  [
+    1,
+    "4.19.1. Blinde",
+    340
+  ],
+  [
+    1,
+    "4.19.2. Blindenwerkstätten",
+    341
+  ],
+  [
+    1,
+    "4.20.1. Theater",
+    342
+  ],
+  [
+    1,
+    "4.20.2. Orchester, Kammermusikensembles und Chöre",
+    343
+  ],
+  [
+    1,
+    "4.20.3. Museen und Denkmäler der Bau- und Gartenbaukunst",
+    344
+  ],
+  [
+    1,
+    "4.20.4. Zoologische Gärten und Tierparks",
+    345
+  ],
+  [
+    1,
+    "4.20.5. Bescheinigungsverfahren",
+    346
+  ],
+  [
+    1,
+    "4.21.1. Unmittelbar dem Schul- und Bildungszweck dienende Leistungen",
+    347
+  ],
+  [
+    1,
+    "4.21.2. Nicht unmittelbar dem Schul- und Bildungszweck dienende Leistungen",
+    350
+  ],
+  [
+    1,
+    "4.21.3. Einrichtungen des öffentlichen Rechts",
+    351
+  ],
+  [
+    1,
+    "4.21.4. Ersatzschulen",
+    352
+  ],
+  [
+    1,
+    "4.21.5. Ergänzungsschulen und andere allgemeinbildende oder berufsbildende Einrichtungen",
+    353
+  ],
+  [
+    1,
+    "4.21.6. Erteilung von Unterricht durch selbständige Lehrer an Schulen und Hochschulen",
+    355
+  ],
+  [
+    1,
+    "4.21.7. Bescheinigungsverfahren",
+    356
+  ],
+  [
+    1,
+    "4.21.8. Privatlehrer",
+    358
+  ],
+  [
+    1,
+    "4.22.1. Veranstaltung wissenschaftlicher und belehrender Art",
+    359
+  ],
+  [
+    1,
+    "4.22.2. Andere kulturelle und sportliche Veranstaltungen",
+    360
+  ],
+  [
+    1,
+    "4.23.1. Beherbergung und Beköstigung von Jugendlichen",
+    361
+  ],
+  [
+    1,
+    "4.24.1. Jugendherbergswesen",
+    363
+  ],
+  [
+    1,
+    "4.25.1. Leistungen im Rahmen der Kinder- und Jugendhilfe",
+    364
+  ],
+  [
+    1,
+    "4.25.2. Eng mit der Jugendhilfe verbundene Leistungen",
+    366
+  ],
+  [
+    1,
+    "4.26.1. Ehrenamtliche Tätigkeit",
+    368
+  ],
+  [
+    1,
+    "4.27.1. Gestellung von Personal durch religiöse und weltanschauliche Einrichtungen",
+    370
+  ],
+  [
+    1,
+    "4.27.2. Gestellung von land- und forstwirtschaftlichen Arbeitskräften sowie Gestellung von Betriebshelfern",
+    371
+  ],
+  [
+    1,
+    "4.28.1. Lieferung bestimmter Gegenstände",
+    372
+  ],
+  [
+    1,
+    "4.29.1. Befreiung der Leistungen von selbständigen Personenzusammenschlüssen an ihre Mitglieder",
+    373
+  ],
+  [
+    1,
+    "4a.1. Vergütungsberechtigte",
+    374
+  ],
+  [
+    1,
+    "4a.2. Voraussetzungen für die Vergütung",
+    375
+  ],
+  [
+    1,
+    "4a.3. Nachweis der Voraussetzungen",
+    376
+  ],
+  [
+    1,
+    "4a.4. Antragsverfahren",
+    377
+  ],
+  [
+    1,
+    "4a.5. Wiedereinfuhr von Gegenständen",
+    378
+  ],
+  [
+    1,
+    "4b.1. Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen",
+    379
+  ],
+  [
+    1,
+    "6.1. Ausfuhrlieferungen",
+    380
+  ],
+  [
+    1,
+    "6.2. Elektronisches Ausfuhrverfahren (Allgemeines)",
+    381
+  ],
+  [
+    1,
+    "6.3. Ausländischer Abnehmer",
+    382
+  ],
+  [
+    1,
+    "6.4. Ausschluss der Steuerbefreiung bei der Ausrüstung und Versorgung von Beförderungsmitteln",
+    383
+  ],
+  [
+    1,
+    "6.5. Ausfuhrnachweis (Allgemeines)",
+    385
+  ],
+  [
+    1,
+    "6.6. Ausfuhrnachweis in Beförderungsfällen",
+    387
+  ],
+  [
+    1,
+    "6.7. Ausfuhrnachweis in Versendungsfällen",
+    390
+  ],
+  [
+    1,
+    "6.7a. Ausgangsvermerke als Ausfuhrnachweis",
+    392
+  ],
+  [
+    1,
+    "6.8. Ausfuhrnachweis in Bearbeitungs- und Verarbeitungsfällen",
+    393
+  ],
+  [
+    1,
+    "6.9. Sonderregelungen zum Ausfuhrnachweis",
+    394
+  ],
+  [
+    1,
+    "6.10. Buchmäßiger Nachweis",
+    398
+  ],
+  [
+    1,
+    "6.11. Ausfuhrlieferungen im nichtkommerziellen Reiseverkehr",
+    400
+  ],
+  [
+    1,
+    "6.12. Gesonderter Steuerausweis bei Ausfuhrlieferungen",
+    404
+  ],
+  [
+    1,
+    "6a.1. Innergemeinschaftliche Lieferungen",
+    405
+  ],
+  [
+    1,
+    "6a.2. Nachweis der Voraussetzungen der Steuerbefreiung für innergemeinschaftliche Lieferungen",
+    409
+  ],
+  [
+    1,
+    "6a.3. Belegnachweis in Beförderungs- und Versendungsfällen – Allgemeines",
+    411
+  ],
+  [
+    1,
+    "6a.3a. Belegnachweis in Beförderungs- und Versendungsfällen - Gelangensvermutung",
+    412
+  ],
+  [
+    1,
+    "6a.4. Belegnachweis in Beförderungs- und Versendungsfällen – Gelangensbestätigung",
+    413
+  ],
+  [
+    1,
+    "6a.5. Belegnachweis in Beförderungs- und Versendungsfällen – Andere Belege als die Gelangensbestätigung",
+    416
+  ],
+  [
+    1,
+    "6a.6. Belegnachweis in Bearbeitungs- oder Verarbeitungsfällen",
+    420
+  ],
+  [
+    1,
+    "6a.7. Buchmäßiger Nachweis",
+    421
+  ],
+  [
+    1,
+    "6a.8. Gewährung von Vertrauensschutz",
+    423
+  ],
+  [
+    1,
+    "6b.1. Lieferung in ein Lager im Sinne des § 6b UStG im Gemeinschaftsgebiet (Konsignationslagerregelung)",
+    425
+  ],
+  [
+    1,
+    "6b.2. Nachweis der Voraussetzungen der Konsignationslagerregelung nach § 6b UStG",
+    431
+  ],
+  [
+    1,
+    "7.1. Lohnveredelung an Gegenständen der Ausfuhr",
+    432
+  ],
+  [
+    1,
+    "7.2. Ausfuhrnachweis",
+    434
+  ],
+  [
+    1,
+    "7.3. Buchmäßiger Nachweis",
+    435
+  ],
+  [
+    1,
+    "7.4. Abgrenzung zwischen Lohnveredelungen im Sinne des § 7 UStG und Ausfuhrlieferungen im Sinne des § 6 UStG",
+    436
+  ],
+  [
+    1,
+    "8.1. Umsätze für die Seeschifffahrt",
+    437
+  ],
+  [
+    1,
+    "8.2. Umsätze für die Luftfahrt",
+    440
+  ],
+  [
+    1,
+    "8.3. Buchmäßiger Nachweis",
+    442
+  ],
+  [
+    1,
+    "9.1. Verzicht auf Steuerbefreiungen (§ 9 Abs. 1 UStG)",
+    443
+  ],
+  [
+    1,
+    "9.2. Einschränkung des Verzichts auf Steuerbefreiungen (§ 9 Abs. 2 und 3 UStG)",
+    444
+  ],
+  [
+    1,
+    "10.1. Entgelt",
+    448
+  ],
+  [
+    1,
+    "10.2. Zuschüsse",
+    452
+  ],
+  [
+    1,
+    "10.3. Entgeltminderungen",
+    459
+  ],
+  [
+    1,
+    "10.4. Durchlaufende Posten",
+    461
+  ],
+  [
+    1,
+    "10.5. Bemessungsgrundlage beim Tausch und bei tauschähnlichen Umsätzen",
+    462
+  ],
+  [
+    1,
+    "10.6. Bemessungsgrundlage bei unentgeltlichen Wertabgaben",
+    465
+  ],
+  [
+    1,
+    "10.7. Mindestbemessungsgrundlage (§ 10 Abs. 5 UStG)",
+    467
+  ],
+  [
+    1,
+    "10.8. Durchschnittsbeförderungsentgelt",
+    469
+  ],
+  [
+    1,
+    "12.1. Steuersätze (§ 12 Abs. 1, 2 und 3 UStG)",
+    470
+  ],
+  [
+    1,
+    "12.2. Vieh- und Pflanzenzucht (§ 12 Abs. 2 Nr. 3 UStG)",
+    472
+  ],
+  [
+    1,
+    "12.3. Vatertierhaltung, Förderung der Tierzucht usw. (§ 12 Abs. 2 Nr. 4 UStG)",
+    473
+  ],
+  [
+    1,
+    "12.4. Umsätze der Zahntechniker und Zahnärzte (§ 12 Abs. 2 Nr. 6 UStG)",
+    475
+  ],
+  [
+    1,
+    "12.5. Eintrittsberechtigung für Theater, Konzerte, Museen usw. (§ 12 Abs. 2 Nr. 7 Buchstabe a UStG)",
+    476
+  ],
+  [
+    1,
+    "12.6. Überlassung von Filmen und Filmvorführungen (§ 12 Abs. 2 Nr. 7 Buchstabe b UStG)",
+    478
+  ],
+  [
+    1,
+    "12.7. Einräumung, Übertragung und Wahrnehmung urheberrechtlicher Schutzrechte (§ 12 Abs. 2 Nr. 7 Buchstabe c UStG)",
+    479
+  ],
+  [
+    1,
+    "12.8. Zirkusunternehmen, Schausteller und zoologische Gärten (§ 12 Abs. 2 Nr. 7 Buchstabe d UStG)",
+    484
+  ],
+  [
+    1,
+    "12.9. Gemeinnützige, mildtätige und kirchliche Einrichtungen (§ 12 Abs. 2 Nr. 8 Buchstabe a UStG)",
+    485
+  ],
+  [
+    1,
+    "12.10. Zusammenschlüsse steuerbegünstigter Einrichtungen (§ 12 Abs. 2 Nr. 8 Buchstabe b UStG)",
+    490
+  ],
+  [
+    1,
+    "12.11. Schwimm- und Heilbäder, Bereitstellung von Kureinrichtungen (§ 12 Abs. 2 Nr. 9 UStG)",
+    491
+  ],
+  [
+    1,
+    "12.12. - gestrichen -",
+    493
+  ],
+  [
+    1,
+    "12.13. Begünstigte Verkehrsarten",
+    494
+  ],
+  [
+    1,
+    "12.14. Begünstigte Beförderungsstrecken",
+    497
+  ],
+  [
+    1,
+    "12.15. Beförderung von Arbeitnehmern zwischen Wohnung und Arbeitsstelle",
+    498
+  ],
+  [
+    1,
+    "12.16. Umsätze aus der kurzfristigen Vermietung von Wohn- und Schlafräumen sowie aus der kurzfristigen Vermietung von Campingflächen (§ 12 Abs. 2 Nr. 11 UStG)",
+    499
+  ],
+  [
+    1,
+    "12.17. Digitale Medien (§ 12 Abs. 2 Nr. 14 UStG)",
+    502
+  ],
+  [
+    1,
+    "12.18. Nullsteuersatz für bestimmte Photovoltaikanlagen",
+    504
+  ],
+  [
+    1,
+    "13.1. Entstehung der Steuer bei der Versteuerung nach vereinbarten Entgelten",
+    508
+  ],
+  [
+    1,
+    "13.2. Sollversteuerung in der Bauwirtschaft",
+    509
+  ],
+  [
+    1,
+    "13.3. Sollversteuerung bei Architekten und Ingenieuren",
+    510
+  ],
+  [
+    1,
+    "13.4. Teilleistungen",
+    511
+  ],
+  [
+    1,
+    "13.5. Istversteuerung von Anzahlungen",
+    512
+  ],
+  [
+    1,
+    "13.6. Entstehung der Steuer bei der Versteuerung nach vereinnahmten Entgelten",
+    513
+  ],
+  [
+    1,
+    "13.7. Entstehung der Steuer in den Fällen des unrichtigen Steuerausweises",
+    514
+  ],
+  [
+    1,
+    "13.8. Entstehung der Steuer in den Fällen des § 3 Abs. 3a und § 18k UStG",
+    515
+  ],
+  [
+    1,
+    "13b.1. Leistungsempfänger als Steuerschuldner",
+    516
+  ],
+  [
+    1,
+    "13b.2. Bauleistungen",
+    519
+  ],
+  [
+    1,
+    "13b.3. Bauleistender Unternehmer als Leistungsempfänger",
+    521
+  ],
+  [
+    1,
+    "13b.3a. Lieferungen von Gas, Elektrizität, Wärme oder Kälte",
+    523
+  ],
+  [
+    1,
+    "13b.4. Lieferungen von Industrieschrott, Altmetallen und sonstigen Abfallstoffen",
+    525
+  ],
+  [
+    1,
+    "13b.5. Reinigung von Gebäuden und Gebäudeteilen",
+    529
+  ],
+  [
+    1,
+    "13b.6. Lieferungen von Gold mit einem Feingehalt von mindestens 325 Tausendstel",
+    530
+  ],
+  [
+    1,
+    "13b.7. Lieferungen von Mobilfunkgeräten, Tablet-Computern, Spielekonsolen und integrierten Schaltkreisen",
+    531
+  ],
+  [
+    1,
+    "13b.7a. Lieferungen von Edelmetallen, unedlen Metallen und Cermets",
+    534
+  ],
+  [
+    1,
+    "13b.7b. Sonstige Leistungen auf dem Gebiet der Telekommunikation",
+    536
+  ],
+  [
+    1,
+    "13b.8. Vereinfachungsregelung",
+    538
+  ],
+  [
+    1,
+    "13b.9. Unfreie Versendungen",
+    539
+  ],
+  [
+    1,
+    "13b.10. Ausnahmen",
+    540
+  ],
+  [
+    1,
+    "13b.11. Im Ausland bzw. im übrigen Gemeinschaftsgebiet ansässiger Unternehmer",
+    541
+  ],
+  [
+    1,
+    "13b.12. Entstehung der Steuer beim Leistungsempfänger",
+    542
+  ],
+  [
+    1,
+    "13b.13. Bemessungsgrundlage und Berechnung der Steuer",
+    543
+  ],
+  [
+    1,
+    "13b.14. Rechnungserteilung",
+    544
+  ],
+  [
+    1,
+    "13b.15. Vorsteuerabzug des Leistungsempfängers",
+    545
+  ],
+  [
+    1,
+    "13b.16. Steuerschuldnerschaft des Leistungsempfängers und allgemeines Besteuerungsverfahren",
+    546
+  ],
+  [
+    1,
+    "13b.17. Aufzeichnungspflichten",
+    547
+  ],
+  [
+    1,
+    "13b.18. Übergangsregelungen",
+    548
+  ],
+  [
+    1,
+    "13c.1. Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen",
+    549
+  ],
+  [
+    1,
+    "14.1. Zum Begriff der Rechnung",
+    556
+  ],
+  [
+    1,
+    "14.2. Rechnungsausstellungspflicht bei steuerpflichtigen Leistungen im Zusammenhang mit einem Grundstück",
+    562
+  ],
+  [
+    1,
+    "14.3. Rechnung in Form der Gutschrift",
+    563
+  ],
+  [
+    1,
+    "14.4. Echtheit, Unversehrtheit und Lesbarkeit von Rechnungen",
+    564
+  ],
+  [
+    1,
+    "14.5. Pflichtangaben in der Rechnung",
+    566
+  ],
+  [
+    1,
+    "14.6. Rechnungen über Kleinbeträge",
+    572
+  ],
+  [
+    1,
+    "14.7. Fahrausweise als Rechnungen",
+    573
+  ],
+  [
+    1,
+    "14.7a. Rechnungen von Kleinunternehmern",
+    574
+  ],
+  [
+    1,
+    "14.8. Rechnungserteilung bei der Istversteuerung von Anzahlungen",
+    575
+  ],
+  [
+    1,
+    "14.9. Rechnungserteilung bei verbilligten Leistungen (§ 10 Abs. 5 UStG)",
+    579
+  ],
+  [
+    1,
+    "14.10. Rechnungserteilung in Einzelfällen",
+    580
+  ],
+  [
+    1,
+    "14.11. Berichtigung von Rechnungen",
+    581
+  ],
+  [
+    1,
+    "14a.1. Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen",
+    582
+  ],
+  [
+    1,
+    "14b.1. Aufbewahrung von Rechnungen",
+    584
+  ],
+  [
+    1,
+    "14c.1. Unrichtiger Steuerausweis (§ 14c Abs. 1 UStG)",
+    586
+  ],
+  [
+    1,
+    "14c.2. Unberechtigter Steuerausweis (§ 14c Abs. 2 UStG)",
+    590
+  ],
+  [
+    1,
+    "15.1. Zum Vorsteuerabzug berechtigter Personenkreis",
+    593
+  ],
+  [
+    1,
+    "15.2. Allgemeines zum Vorsteuerabzug",
+    595
+  ],
+  [
+    1,
+    "15.2a. Ordnungsmäßige Rechnung als Voraussetzung für den Vorsteuerabzug",
+    597
+  ],
+  [
+    1,
+    "15.2b. Leistung für das Unternehmen",
+    602
+  ],
+  [
+    1,
+    "15.2c. Zuordnung von Leistungen zum Unternehmen",
+    609
+  ],
+  [
+    1,
+    "15.2d. Regelungen zum Vorsteuerabzug in Einzelfällen",
+    624
+  ],
+  [
+    1,
+    "15.3. Vorsteuerabzug bei Zahlungen vor Ausführung der Umsätze",
+    625
+  ],
+  [
+    1,
+    "15.4. Vorsteuerabzug bei Rechnungen über Kleinbeträge",
+    626
+  ],
+  [
+    1,
+    "15.5. Vorsteuerabzug bei Fahrausweisen",
+    627
+  ],
+  [
+    1,
+    "15.6. Vorsteuerabzug bei Repräsentationsaufwendungen",
+    628
+  ],
+  [
+    1,
+    "15.6a. Vorsteuerabzug bei teilunternehmerisch genutzten Grundstücken",
+    630
+  ],
+  [
+    1,
+    "15.7. Vorsteuerabzug bei unfreien Versendungen und Güterbeförderungen",
+    634
+  ],
+  [
+    1,
+    "15.8. Abzug der Einfuhrumsatzsteuer bei Einfuhr im Inland",
+    635
+  ],
+  [
+    1,
+    "15.9. Abzug der Einfuhrumsatzsteuer in den Fällen des § 1 Abs. 3 UStG",
+    638
+  ],
+  [
+    1,
+    "15.10. Vorsteuerabzug ohne gesonderten Steuerausweis in einer Rechnung",
+    640
+  ],
+  [
+    1,
+    "15.11. Nachweis der Voraussetzungen für den Vorsteuerabzug",
+    641
+  ],
+  [
+    1,
+    "15.12. Allgemeines zum Ausschluss vom Vorsteuerabzug",
+    643
+  ],
+  [
+    1,
+    "15.13. Ausschluss des Vorsteuerabzugs bei steuerfreien Umsätzen",
+    646
+  ],
+  [
+    1,
+    "15.14. Ausschluss des Vorsteuerabzugs bei Umsätzen im Ausland",
+    648
+  ],
+  [
+    1,
+    "15.15. Vorsteuerabzug bei Eingangsleistungen im Zusammenhang mit unentgeltlichen Leistungen",
+    649
+  ],
+  [
+    1,
+    "15.16. Grundsätze zur Aufteilung der Vorsteuerbeträge",
+    651
+  ],
+  [
+    1,
+    "15.17. Aufteilung der Vorsteuerbeträge nach § 15 Abs. 4 UStG",
+    652
+  ],
+  [
+    1,
+    "15.18. Erleichterungen bei der Aufteilung der Vorsteuerbeträge",
+    657
+  ],
+  [
+    1,
+    "15.19. Vorsteuerabzug bei juristischen Personen des öffentlichen Rechts",
+    659
+  ],
+  [
+    1,
+    "15.20. Vorsteuerabzug bei Überlassung von Gegenständen durch Gesellschafter an die Gesellschaft",
+    662
+  ],
+  [
+    1,
+    "15.21. Vorsteuerabzug aus Aufwendungen im Zusammenhang mit der Ausgabe von gesellschaftsrechtlichen Anteilen",
+    663
+  ],
+  [
+    1,
+    "15.22. Vorsteuerabzug im Zusammenhang mit dem Halten und Veräußern von gesellschaftsrechtlichen Beteiligungen",
+    665
+  ],
+  [
+    1,
+    "15.23. Vorsteuerabzug und Umsatzbesteuerung bei (teil-)unternehmerisch verwendeten Fahrzeugen",
+    666
+  ],
+  [
+    1,
+    "15.24. Vorsteuerabzug und Umsatzbesteuerung bei (teil-)unternehmerisch verwendeten Fahrrädern",
+    674
+  ],
+  [
+    1,
+    "15a.1. Anwendungsgrundsätze",
+    675
+  ],
+  [
+    1,
+    "15a.2. Änderung der Verhältnisse",
+    679
+  ],
+  [
+    1,
+    "15a.3. Berichtigungszeitraum nach § 15a Abs. 1 UStG",
+    683
+  ],
+  [
+    1,
+    "15a.4. Berichtigung nach § 15a Abs. 1 UStG",
+    686
+  ],
+  [
+    1,
+    "15a.5. Berichtigung nach § 15a Abs. 2 UStG",
+    689
+  ],
+  [
+    1,
+    "15a.6. Berichtigung nach § 15a Abs. 3 UStG",
+    690
+  ],
+  [
+    1,
+    "15a.7. Berichtigung nach § 15a Abs. 4 UStG",
+    696
+  ],
+  [
+    1,
+    "15a.8. Berichtigung nach § 15a Abs. 6 UStG",
+    698
+  ],
+  [
+    1,
+    "15a.9. Berichtigung nach § 15a Abs. 7 UStG",
+    699
+  ],
+  [
+    1,
+    "15a.10. Geschäftsveräußerung im Sinne des § 1 Abs. 1a UStG und andere Formen der Rechtsnachfolge",
+    701
+  ],
+  [
+    1,
+    "15a.11. Vereinfachungen bei der Berichtigung des Vorsteuerabzugs",
+    702
+  ],
+  [
+    1,
+    "15a.12. Aufzeichnungspflichten für die Berichtigung des Vorsteuerabzugs",
+    703
+  ],
+  [
+    1,
+    "16.1. Steuerberechnung",
+    704
+  ],
+  [
+    1,
+    "16.2. Beförderungseinzelbesteuerung",
+    705
+  ],
+  [
+    1,
+    "16.3. Fahrzeugeinzelbesteuerung",
+    707
+  ],
+  [
+    1,
+    "16.4. Umrechnung von Werten in fremder Währung",
+    708
+  ],
+  [
+    1,
+    "17.1. Steuer- und Vorsteuerberichtigung bei Änderung der Bemessungsgrundlage",
+    709
+  ],
+  [
+    1,
+    "17.2. Preisnachlässe und Preiserstattungen außerhalb unmittelbarer Leistungsbeziehungen sowie Maßnahmen zur Verkaufsförderung",
+    714
+  ],
+  [
+    1,
+    "18.1. Verfahren bei der Besteuerung nach § 18 Abs. 1 bis 4 UStG",
+    718
+  ],
+  [
+    1,
+    "18.2. Voranmeldungszeitraum",
+    719
+  ],
+  [
+    1,
+    "18.3. Vordrucke, die von den amtlich vorgeschriebenen Vordrucken abweichen",
+    720
+  ],
+  [
+    1,
+    "18.4. Dauerfristverlängerung",
+    721
+  ],
+  [
+    1,
+    "18.5. Vereinfachte Steuerberechnung bei Kreditverkäufen",
+    722
+  ],
+  [
+    1,
+    "18.6. Abgabe der Voranmeldungen in Sonderfällen",
+    723
+  ],
+  [
+    1,
+    "18.7. Abgabe von Voranmeldungen in Neugründungsfällen",
+    724
+  ],
+  [
+    1,
+    "18.7a. Besteuerungsverfahren für nicht im Gemeinschaftsgebiet ansässige Unternehmer, die vor dem 01.07.2021 sonstige Leistungen nach § 3a Abs. 5 UStG erbringen",
+    725
+  ],
+  [
+    1,
+    "18.7b. Besteuerungsverfahren für im übrigen Gemeinschaftsgebiet ansässige Unternehmer, die vor dem 01.07.2021 sonstige Leistungen nach § 3a Abs. 5 UStG im Inland erbringen",
+    727
+  ],
+  [
+    1,
+    "18.7c Dezentrale Besteuerung von Organisationseinheiten der Gebietskörperschaften Bund bzw. Länder (§ 18 Abs. 4f und 4g UStG)",
+    729
+  ],
+  [
+    1,
+    "18.8. Verfahren bei der Beförderungseinzelbesteuerung",
+    730
+  ],
+  [
+    1,
+    "18.9. Verfahren bei der Fahrzeugeinzelbesteuerung",
+    731
+  ],
+  [
+    1,
+    "18.10. Unter das Vorsteuer-Vergütungsverfahren fallende Unternehmer und Vorsteuerbeträge",
+    732
+  ],
+  [
+    1,
+    "18.11. Vom Vorsteuer-Vergütungsverfahren ausgeschlossene Vorsteuerbeträge",
+    733
+  ],
+  [
+    1,
+    "18.12. Vergütungszeitraum",
+    735
+  ],
+  [
+    1,
+    "18.13. Vorsteuer-Vergütungsverfahren für im übrigen Gemeinschaftsgebiet ansässige Unternehmer",
+    736
+  ],
+  [
+    1,
+    "18.14. Vorsteuer-Vergütungsverfahren für im Drittlandsgebiet ansässige Unternehmer",
+    738
+  ],
+  [
+    1,
+    "18.15. Vorsteuer-Vergütungsverfahren und allgemeines  Besteuerungsverfahren",
+    740
+  ],
+  [
+    1,
+    "18.16. Unternehmerbescheinigung für Unternehmer, die im Inland ansässig sind",
+    741
+  ],
+  [
+    1,
+    "18.17. Umsatzsteuerliche Erfassung von im Ausland ansässigen Unternehmern, die grenzüberschreitende Personenbeförderungen mit nicht im Inland zugelassenen Kraftomnibussen durchführen",
+    742
+  ],
+  [
+    1,
+    "18a.1. Abgabe der Zusammenfassenden Meldung",
+    743
+  ],
+  [
+    1,
+    "18a.2. Abgabefrist",
+    744
+  ],
+  [
+    1,
+    "18a.3. Angaben für den Meldezeitraum",
+    746
+  ],
+  [
+    1,
+    "18a.4. Änderung der Bemessungsgrundlage für meldepflichtige Umsätze",
+    747
+  ],
+  [
+    1,
+    "18a.5. Berichtigung der Zusammenfassenden Meldung",
+    748
+  ],
+  [
+    1,
+    "18c.1. Verfahren zur Übermittlung der Meldungen nach der Fahrzeuglieferungs-Meldepflichtverordnung",
+    749
+  ],
+  [
+    1,
+    "18d.1. Zuständigkeit und Verfahren",
+    750
+  ],
+  [
+    1,
+    "18e.1. Bestätigung einer ausländischen Umsatzsteuer-Identifikationsnummer",
+    751
+  ],
+  [
+    1,
+    "18e.2. Aufbau der Umsatzsteuer-Identifikationsnummern in den EU-Mitgliedstaaten",
+    752
+  ],
+  [
+    1,
+    "18e.3. Bestätigungsverfahren für Betreiber elektronischer Schnittstellen im Sinne von § 25e Abs. 1 UStG",
+    753
+  ],
+  [
+    1,
+    "18f.1. Sicherheitsleistung",
+    754
+  ],
+  [
+    1,
+    "18g.1. Vorsteuer-Vergütungsverfahren in einem anderen Mitgliedstaat für im Inland  ansässige Unternehmer",
+    755
+  ],
+  [
+    1,
+    "18h.1. Besteuerungsverfahren für im Inland ansässige Unternehmer, die vor dem 01.07.2021 sonstige Leistungen nach § 3a Abs. 5 UStG im übrigen Gemeinschaftsgebiet erbringen",
+    757
+  ],
+  [
+    1,
+    "18i.1. Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen",
+    759
+  ],
+  [
+    1,
+    "18j.1. Besonderes Besteuerungsverfahren für den innergemeinschaftlichen Fernverkauf, für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle und für von im Gemeinschaftsgebiet, nicht aber im Mitgliedstaat des Verbrauchs a...",
+    761
+  ],
+  [
+    1,
+    "18k.1. Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 €",
+    764
+  ],
+  [
+    1,
+    "19.1. Steuerbefreiung für inländische Kleinunternehmer",
+    767
+  ],
+  [
+    1,
+    "19.2. Gesamtumsatz",
+    768
+  ],
+  [
+    1,
+    "19.3. Verzicht auf die Anwendung des § 19 Abs. 1 UStG für inländische Kleinunternehmer",
+    769
+  ],
+  [
+    1,
+    "19.4. Steuerbefreiung für im übrigen Gemeinschaftsgebiet ansässige Unternehmer",
+    770
+  ],
+  [
+    1,
+    "19.5. Verzicht auf die Anwendung des § 19 Abs. 4 UStG durch im übrigen Gemeinschaftsgebiet ansässige Unternehmer",
+    771
+  ],
+  [
+    1,
+    "19.6. Verhältnis des § 19 zu § 24 UStG",
+    772
+  ],
+  [
+    1,
+    "19.7. Wechsel der Besteuerungsform",
+    773
+  ],
+  [
+    1,
+    "19a.1. Teilnahme am besonderen Meldeverfahren",
+    775
+  ],
+  [
+    1,
+    "19a.2. Beendigung der Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat",
+    776
+  ],
+  [
+    1,
+    "19a.3. Umsatzmeldung",
+    777
+  ],
+  [
+    1,
+    "19a.4. Überschreitung des Jahresumsatzes im Gemeinschaftsgebiet",
+    778
+  ],
+  [
+    1,
+    "20.1. Berechnung der Steuer nach vereinnahmten Entgelten",
+    779
+  ],
+  [
+    1,
+    "21a.1. Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 €",
+    780
+  ],
+  [
+    1,
+    "22.1. Ordnungsgrundsätze",
+    781
+  ],
+  [
+    1,
+    "22.2. Umfang der Aufzeichnungspflichten",
+    782
+  ],
+  [
+    1,
+    "22.3. Aufzeichnungspflichten bei innergemeinschaftlichen Lieferungen, innergemeinschaftlichen sonstigen Leistungen im Sinne des § 3a Abs. 2 UStG und innergemeinschaftlichen Erwerben",
+    784
+  ],
+  [
+    1,
+    "22.3a. Aufzeichnungspflichten bei Teilnahme an einem der besonderen Besteuerungsverfahren",
+    785
+  ],
+  [
+    1,
+    "22.3b. Aufzeichnungspflichten bei Lieferungen in ein Lager im Sinne des § 6b UStG",
+    787
+  ],
+  [
+    1,
+    "22.4. Aufzeichnungen bei Aufteilung der Vorsteuern",
+    788
+  ],
+  [
+    1,
+    "22.5. Erleichterungen der Aufzeichnungspflichten",
+    789
+  ],
+  [
+    1,
+    "22.6. Erleichterungen für die Trennung der Bemessungsgrundlagen",
+    790
+  ],
+  [
+    1,
+    "22a.1. Fiskalvertretung",
+    794
+  ],
+  [
+    1,
+    "22b.1. Rechte und Pflichten eines Fiskalvertreters",
+    797
+  ],
+  [
+    1,
+    "22c.1. Rechnungsangaben für vertretene Unternehmer",
+    798
+  ],
+  [
+    1,
+    "22d.1. Zuständigkeit und Verfahren",
+    799
+  ],
+  [
+    1,
+    "22e.1. Untersagung der Fiskalvertretung",
+    800
+  ],
+  [
+    1,
+    "22f.1. Aufzeichnungspflichten für Betreiber elektronischer Schnittstellen im Sinne von § 25e Abs. 1 UStG beim Handel mit Waren",
+    801
+  ],
+  [
+    1,
+    "22f.2. Benennung eines Empfangsbevollmächtigten im Inland in besonderen Fällen",
+    802
+  ],
+  [
+    1,
+    "22f.3. Weitere Aufzeichnungspflichten für Betreiber elektronischer Schnittstellen",
+    803
+  ],
+  [
+    1,
+    "23.1. - gestrichen -",
+    804
+  ],
+  [
+    1,
+    "23.2. - gestrichen -",
+    805
+  ],
+  [
+    1,
+    "23.3. - gestrichen -",
+    806
+  ],
+  [
+    1,
+    "23.4. - gestrichen -",
+    807
+  ],
+  [
+    1,
+    "24.1. Umsätze im Rahmen eines land- und forstwirtschaftlichen Betriebs",
+    808
+  ],
+  [
+    1,
+    "24.1a. Umsatzgrenze",
+    810
+  ],
+  [
+    1,
+    "24.2. Erzeugnisse im Sinne des § 24 Abs. 1 Satz 1 UStG",
+    811
+  ],
+  [
+    1,
+    "24.3. Sonstige Leistungen",
+    814
+  ],
+  [
+    1,
+    "24.4. Steuerfreie Umsätze im Sinne des § 4 Nr. 8 ff. UStG im Rahmen eines land- und forstwirtschaftlichen Betriebs",
+    818
+  ],
+  [
+    1,
+    "24.5. Ausfuhrlieferungen und Umsätze im Ausland bei land- und forstwirtschaftlichen Betrieben",
+    819
+  ],
+  [
+    1,
+    "24.6. Vereinfachungsregelung für bestimmte Umsätze von land- und forstwirtschaftlichen Betrieben",
+    820
+  ],
+  [
+    1,
+    "24.7. Zusammentreffen der Durchschnittssatzbesteuerung mit anderen Besteuerungsformen",
+    821
+  ],
+  [
+    1,
+    "24.8. Verzicht auf die Durchschnittssatzbesteuerung",
+    822
+  ],
+  [
+    1,
+    "24.9. Ausstellung von Rechnungen bei land- und forstwirtschaftlichen Betrieben",
+    823
+  ],
+  [
+    1,
+    "25.1. Besteuerung von Reiseleistungen",
+    824
+  ],
+  [
+    1,
+    "25.2. Steuerfreiheit von Reiseleistungen nach § 25 Abs. 2 UStG",
+    829
+  ],
+  [
+    1,
+    "25.3. Bemessungsgrundlage bei Reiseleistungen",
+    831
+  ],
+  [
+    1,
+    "25.4. Vorsteuerabzug bei Reisen",
+    836
+  ],
+  [
+    1,
+    "25.5. Aufzeichnungspflichten bei Reiseleistungen",
+    837
+  ],
+  [
+    1,
+    "25a.1. Differenzbesteuerung",
+    838
+  ],
+  [
+    1,
+    "25b.1. Innergemeinschaftliche Dreiecksgeschäfte",
+    844
+  ],
+  [
+    1,
+    "25c.1. Besteuerung von Umsätzen mit Anlagegold",
+    848
+  ],
+  [
+    1,
+    "25d.1. - gestrichen -",
+    849
+  ],
+  [
+    1,
+    "25e.1. Voraussetzung für die Haftung",
+    850
+  ],
+  [
+    1,
+    "25e.2. Tatbestandsmerkmale für einen Haftungsausschluss",
+    852
+  ],
+  [
+    1,
+    "25e.3. Verfahren bei Vorliegen von Pflichtverletzungen",
+    854
+  ],
+  [
+    1,
+    "25e.4. Einleitung des Haftungsverfahrens",
+    855
+  ],
+  [
+    1,
+    "25f.1. Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung",
+    856
+  ],
+  [
+    1,
+    "25f.2. Auswirkungen im Rahmen innergemeinschaftlicher Dreiecksgeschäfte",
+    858
+  ],
+  [
+    1,
+    "26.1. Luftverkehrsunternehmer",
+    859
+  ],
+  [
+    1,
+    "26.2. Grenzüberschreitende Beförderungen im Luftverkehr",
+    860
+  ],
+  [
+    1,
+    "26.3. Beförderung über Teilstrecken durch verschiedene Luftverkehrsunternehmer",
+    861
+  ],
+  [
+    1,
+    "26.4. Gegenseitigkeit",
+    862
+  ],
+  [
+    1,
+    "26.5. Zuständigkeit",
+    863
+  ],
+  [
+    1,
+    "27.1. Übergangsvorschriften",
+    864
+  ],
+  [
+    1,
+    "27a.1. Antrag auf Erteilung der Umsatzsteuer-Identifikationsnummer",
+    865
+  ],
+  [
+    1,
+    "27b.1. Umsatzsteuer-Nachschau",
+    866
+  ],
+  [
+    1,
+    "29.1. Zivilrechtliche Ausgleichsansprüche für umsatzsteuerliche Mehr- und Minderbelastungen",
+    868
+  ],
+  [
+    1,
+    "29.2. Anwendungszeitraum",
+    869
+  ],
+  [
+    1,
+    "Anlage 1 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.4)",
+    870
+  ],
+  [
+    1,
+    "Anlage 2 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.4)",
+    871
+  ],
+  [
+    1,
+    "Anlage 3 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.4)",
+    872
+  ],
+  [
+    1,
+    "Anlage 4 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.5)",
+    873
+  ],
+  [
+    1,
+    "Anlage 5 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.5)",
+    874
+  ],
+  [
+    1,
+    "Anlage 6 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.5)",
+    875
+  ],
+  [
+    1,
+    "Anlage 7 zum Umsatzsteuer-Anwendungserlass (zu Abschnitt 6a.5)",
+    881
+  ],
+  [
+    1,
+    "Anlage 8 zum Umsatzsteuer-Anwendungserlass (zu den Abschnitten 14.5 und 14a.1)",
+    883
+  ]
+]

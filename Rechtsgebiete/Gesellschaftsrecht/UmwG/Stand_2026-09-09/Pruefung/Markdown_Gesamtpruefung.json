@@ -1,0 +1,3733 @@
+{
+  "kuerzel": "UmwG",
+  "pruefdatum": "2026-09-09",
+  "methode": "Fertige Markdown-Datei unabhängig normweise an Überschriftsankern zerlegt; alle sichtbaren Texte aus dem gerenderten Markdown gegen sämtliche XML-Normen in derselben Reihenfolge verglichen. Nur redaktionelle Metadaten und markierte Ergänzungen, PDF-technischer (XXXX)-Präfix, NFC/Whitespace ausgenommen. Aus XML-Attributen stammende Fußnotenmarker werden zusätzlich auf vollständige Zahl und Kennzeichnung geprüft.",
+  "sha256_markdown": "add76756f3e623f922da50622ef52a0f87bed5958fd92b325fa25ed3143635f5",
+  "normen_erwartet": 465,
+  "normen_vorhanden": 465,
+  "alle_normtexte_identisch": true,
+  "alle_fussnotenverweise_erhalten": true,
+  "fussnoten": [],
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR321010994",
+      "anzeige": "Dokumentkopf",
+      "identisch": true,
+      "zeichen": 1565,
+      "sha256": "3a7bfa861c544366e82b66e38a61f772236254c65882e01e801b79e2bba50fd3"
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR321010994BJNE000207360",
+      "anzeige": "Inhaltsübersicht",
+      "identisch": true,
+      "zeichen": 5953,
+      "sha256": "6b3ff7eff152d36c9e7a2f2fb415cc43b5d05b5f376a42ac66e33a73f621d1e6"
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR321010994BJNG036800000",
+      "anzeige": "010Erstes BuchMöglichkeiten von Umwandlungen",
+      "identisch": true,
+      "zeichen": 38,
+      "sha256": "63e1ace4d1dd2fb9c40da6c52159eca704157cf2ab9dc0fa144aab28c2aab939"
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR321010994BJNE000301377",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 619,
+      "sha256": "cd2b1ebea79c51e7847991cab4cb763cb1cb9b5620c9dbb47c10b7475b7f5fb1"
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR321010994BJNG036900000",
+      "anzeige": "020Zweites BuchVerschmelzung",
+      "identisch": true,
+      "zeichen": 24,
+      "sha256": "9942c6552a5cc422766385db2896156a58e6540fd805bacfa7b241857c0332bb"
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR321010994BJNG037000000",
+      "anzeige": "020010Erster TeilAllgemeine Vorschriften",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "035fda46854af8950191742e642d9d69f5a6b136df9b1fe23dc9d1c4b029b869"
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR321010994BJNG000400000",
+      "anzeige": "020010010Erster AbschnittMöglichkeit der Verschmelzung",
+      "identisch": true,
+      "zeichen": 42,
+      "sha256": "48035f456eaca7471761131ff9a724b8515c3b581c860b4880b763bc87f43680"
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR321010994BJNE000502377",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 632,
+      "sha256": "70f09e20a5b2285327b0e6c420196de9280e5855885530924577d1cd4e876a19"
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR321010994BJNE000602360",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 1143,
+      "sha256": "289ec16e4521e6663fd5f63cbb460533593f42d3a0da46740478eb8658742b7a"
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR321010994BJNG000700000",
+      "anzeige": "020010020Zweiter AbschnittVerschmelzung durch Aufnahme",
+      "identisch": true,
+      "zeichen": 42,
+      "sha256": "aff26c88a8eed2bbc6ce4d55391daea65d3a20d85d921cbc92a3102eada3c017"
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR321010994BJNE000801377",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 325,
+      "sha256": "e6642b1cbded42693ad011ba9ea6dc736b94cdf3b572fa84481e585d043d6e51"
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR321010994BJNE000901307",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 1972,
+      "sha256": "dedeaf14db0983cfae0af738c46f17860362fe7086d69653b2b52b5e2d0e857b"
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR321010994BJNE001000000",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 84,
+      "sha256": "1763196062848ad0496e7531c6742c0737e741f38f8e48d96150fdc3419a89a7"
+    },
+    {
+      "xml_index": 13,
+      "doknr": "BJNR321010994BJNE001100000",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 423,
+      "sha256": "5b5fd45c49272e8981051e9408edc7f2cd1a647ed68ddbb169ad210fa51ed5c9"
+    },
+    {
+      "xml_index": 14,
+      "doknr": "BJNR321010994BJNE001201360",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 1934,
+      "sha256": "29e0317729c33deff127e1bce8e81624d5827f4d64b50126b0347a7135fec9d9"
+    },
+    {
+      "xml_index": 15,
+      "doknr": "BJNR321010994BJNE001301360",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 214,
+      "sha256": "353bab9cdca5acb2a65d570ef4d4f05195a7195ea5bdec282f048286c2487898"
+    },
+    {
+      "xml_index": 16,
+      "doknr": "BJNR321010994BJNE001403140",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 1185,
+      "sha256": "ec02bfeb034f3ecd5f8608be243d5ed136ef2f4bb821dc6b51f4a306f1e6f4c9"
+    },
+    {
+      "xml_index": 17,
+      "doknr": "BJNR321010994BJNE001503360",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 1673,
+      "sha256": "34cda939c8dbefa9c8b4c093401c996cb77d055310f0ae1975a95bf580960099"
+    },
+    {
+      "xml_index": 18,
+      "doknr": "BJNR321010994BJNE001601360",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 1129,
+      "sha256": "267586e6bf8660e5c7f08e51486c1386832a206688dd516fdf078e01d274e0c3"
+    },
+    {
+      "xml_index": 19,
+      "doknr": "BJNR321010994BJNE001700000",
+      "anzeige": "§ 13",
+      "identisch": true,
+      "zeichen": 897,
+      "sha256": "84fe468948d772e9f9bab1a17c5582d24a78ff0847221bead8b76e29833a219b"
+    },
+    {
+      "xml_index": 20,
+      "doknr": "BJNR321010994BJNE001801360",
+      "anzeige": "§ 14",
+      "identisch": true,
+      "zeichen": 473,
+      "sha256": "773cf74ee1a340f3e0990f54089ca84484d82309b6d71fe76d175e6940b7169b"
+    },
+    {
+      "xml_index": 21,
+      "doknr": "BJNR321010994BJNE001905360",
+      "anzeige": "§ 15",
+      "identisch": true,
+      "zeichen": 993,
+      "sha256": "294bd5bbe3b98c8b37546ff6a2c13a27bdd94723626bd02e8d57c05bbc518a28"
+    },
+    {
+      "xml_index": 22,
+      "doknr": "BJNR321010994BJNE002004360",
+      "anzeige": "§ 16",
+      "identisch": true,
+      "zeichen": 2998,
+      "sha256": "3224e291bfac119b235e375350e3ea453cdfb4455dc4b773031475c36969bfd0"
+    },
+    {
+      "xml_index": 23,
+      "doknr": "BJNR321010994BJNE002103360",
+      "anzeige": "§ 17",
+      "identisch": true,
+      "zeichen": 1027,
+      "sha256": "53a3116475da2a0200e879efa384c0eb137ad0472d5e2273717282bd4f6278a1"
+    },
+    {
+      "xml_index": 24,
+      "doknr": "BJNR321010994BJNE002202307",
+      "anzeige": "§ 18",
+      "identisch": true,
+      "zeichen": 950,
+      "sha256": "661a2a3abc279ca556b20a26bb2dd07080da22766393a2a1529aa3bfa76b43eb"
+    },
+    {
+      "xml_index": 25,
+      "doknr": "BJNR321010994BJNE002303360",
+      "anzeige": "§ 19",
+      "identisch": true,
+      "zeichen": 1196,
+      "sha256": "995e103dc8da3b3409fe2b4a7f5fd39a8b678c0f16550ee1f027053ecb9f32a3"
+    },
+    {
+      "xml_index": 26,
+      "doknr": "BJNR321010994BJNE002400000",
+      "anzeige": "§ 20",
+      "identisch": true,
+      "zeichen": 1152,
+      "sha256": "9c1831ca5f81200738a57b81f0f55c57735f7620fe84d8c9ed4cad13b6f8e7da"
+    },
+    {
+      "xml_index": 27,
+      "doknr": "BJNR321010994BJNE002500000",
+      "anzeige": "§ 21",
+      "identisch": true,
+      "zeichen": 433,
+      "sha256": "aad83bbd7f79f521f958dcd669c64bb6dc898ed080a4e943b62b9b1ee4113140"
+    },
+    {
+      "xml_index": 28,
+      "doknr": "BJNR321010994BJNE002603125",
+      "anzeige": "§ 22",
+      "identisch": true,
+      "zeichen": 809,
+      "sha256": "9945ac6d508b8e00a1d50fc5e810620954d1e4e9096616ad5a554476746fcb78"
+    },
+    {
+      "xml_index": 29,
+      "doknr": "BJNR321010994BJNE002700000",
+      "anzeige": "§ 23",
+      "identisch": true,
+      "zeichen": 308,
+      "sha256": "15fbf047f2f64fe9433e61a903c281362312e73c9a41a12d95dcd12a293929b9"
+    },
+    {
+      "xml_index": 30,
+      "doknr": "BJNR321010994BJNE002800000",
+      "anzeige": "§ 24",
+      "identisch": true,
+      "zeichen": 245,
+      "sha256": "5cb086071a2babc2812791a4daa0d968d86248246dda1fd994e5c6fc00479131"
+    },
+    {
+      "xml_index": 31,
+      "doknr": "BJNR321010994BJNE002901377",
+      "anzeige": "§ 25",
+      "identisch": true,
+      "zeichen": 960,
+      "sha256": "409ada2b00ba3b9a81726e3fe244a2507fb28dbe6d27862174eb0b88837bed39"
+    },
+    {
+      "xml_index": 32,
+      "doknr": "BJNR321010994BJNE003005360",
+      "anzeige": "§ 26",
+      "identisch": true,
+      "zeichen": 1918,
+      "sha256": "ebb5d3958ca1dd1e99b09e19defe45038d60eb6f4cc9761bbf2728c4357ef9d5"
+    },
+    {
+      "xml_index": 33,
+      "doknr": "BJNR321010994BJNE003101377",
+      "anzeige": "§ 27",
+      "identisch": true,
+      "zeichen": 413,
+      "sha256": "d437ae6d0400e7ddd849538958f3981a04d3b0eb9c3300e8bffc4571d335d413"
+    },
+    {
+      "xml_index": 34,
+      "doknr": "BJNR321010994BJNE003200000",
+      "anzeige": "§ 28",
+      "identisch": true,
+      "zeichen": 289,
+      "sha256": "b85b8837b6c32934090c81a5f415ea57d5c3ed8bacc612a9f9d22997ceec9948"
+    },
+    {
+      "xml_index": 35,
+      "doknr": "BJNR321010994BJNE003303360",
+      "anzeige": "§ 29",
+      "identisch": true,
+      "zeichen": 1564,
+      "sha256": "b7ed45d0cf2e459a48fd73aa3a083c195bd744ee5ee8872334cd8301ca430d23"
+    },
+    {
+      "xml_index": 36,
+      "doknr": "BJNR321010994BJNE003400000",
+      "anzeige": "§ 30",
+      "identisch": true,
+      "zeichen": 490,
+      "sha256": "d28d1fc9d431cd36f086e2c36dcc858dd4ba422c92230f3e28c30bd245ffbba9"
+    },
+    {
+      "xml_index": 37,
+      "doknr": "BJNR321010994BJNE003502360",
+      "anzeige": "§ 31",
+      "identisch": true,
+      "zeichen": 409,
+      "sha256": "1a003afdd9be39b6e3037ae524c666f29fc079650da77140f711e2fe226b9a36"
+    },
+    {
+      "xml_index": 38,
+      "doknr": "BJNR321010994BJNE003601360",
+      "anzeige": "§ 32",
+      "identisch": true,
+      "zeichen": 297,
+      "sha256": "64eeaf0862845c6ca5700d18342aa30655e2f6f895f00aecbc32ffe3928ca8d3"
+    },
+    {
+      "xml_index": 39,
+      "doknr": "BJNR321010994BJNE003702360",
+      "anzeige": "§ 33",
+      "identisch": true,
+      "zeichen": 286,
+      "sha256": "cadb592711818b5565f92e6c19a3e04fba033e46bdc1a9db764f198af18be219"
+    },
+    {
+      "xml_index": 40,
+      "doknr": "BJNR321010994BJNE003802360",
+      "anzeige": "§ 34",
+      "identisch": true,
+      "zeichen": 379,
+      "sha256": "ec4a5512f74347fe29c71b9497813a0f013320c84b9abead904733d5a2612754"
+    },
+    {
+      "xml_index": 41,
+      "doknr": "BJNR321010994BJNE003901377",
+      "anzeige": "§ 35",
+      "identisch": true,
+      "zeichen": 862,
+      "sha256": "5ae8396e8a2dbcf1b0a95a9fd7cd950dff27d826f321ac2a8cec179afb670ef4"
+    },
+    {
+      "xml_index": 42,
+      "doknr": "BJNR321010994BJNE040200360",
+      "anzeige": "§ 35a",
+      "identisch": true,
+      "zeichen": 462,
+      "sha256": "3108648c78d0a5c6d413001775f4655dbda5cf5d5ab0309af56816465ec0b932"
+    },
+    {
+      "xml_index": 43,
+      "doknr": "BJNR321010994BJNG004000000",
+      "anzeige": "020010030Dritter AbschnittVerschmelzung durch Neugründung",
+      "identisch": true,
+      "zeichen": 45,
+      "sha256": "2eb037b1b332e339b91b263564ff0df5883d487c7b8bd7511c05b30b9b35479d"
+    },
+    {
+      "xml_index": 44,
+      "doknr": "BJNR321010994BJNE004100000",
+      "anzeige": "§ 36",
+      "identisch": true,
+      "zeichen": 655,
+      "sha256": "f944ebb2dd34ff466792becabfdcacc91f12476e2370b1e13495c570af7fc91c"
+    },
+    {
+      "xml_index": 45,
+      "doknr": "BJNR321010994BJNE004202377",
+      "anzeige": "§ 37",
+      "identisch": true,
+      "zeichen": 182,
+      "sha256": "5d1d49726bd0c6e5ec1c00919712887627e66bd9d98a6f378ebf1f1f53251a73"
+    },
+    {
+      "xml_index": 46,
+      "doknr": "BJNR321010994BJNE004300000",
+      "anzeige": "§ 38",
+      "identisch": true,
+      "zeichen": 358,
+      "sha256": "9ed8ff448a1fe4d2e0d6c070a5272394878d177c4cddadf2206660ef37b99cb7"
+    },
+    {
+      "xml_index": 47,
+      "doknr": "BJNR321010994BJNG037101307",
+      "anzeige": "020020Zweiter TeilBesondere Vorschriften",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "c36c31b1b3eed0b2b0c77767e90dce25a1b0b86301173fcea99e240336632995"
+    },
+    {
+      "xml_index": 48,
+      "doknr": "BJNR321010994BJNG004401307",
+      "anzeige": "020020010Erster AbschnittVerschmelzung unter Beteiligung von Personengesellschaften",
+      "identisch": true,
+      "zeichen": 69,
+      "sha256": "e654eaa8adb44f6afe4e959d16c626b93da8652b7e1e61e56d4fc3685b3b5fcc"
+    },
+    {
+      "xml_index": 49,
+      "doknr": "BJNR321010994BJNG041400360",
+      "anzeige": "020020010010Erster UnterabschnittVerschmelzung unter Beteiligung von Gesellschaften bürgerlichen Rechts",
+      "identisch": true,
+      "zeichen": 84,
+      "sha256": "1329134a781172eab2c3a386feed03c354ba8c9c94a9fb286a51e54864cf459e"
+    },
+    {
+      "xml_index": 50,
+      "doknr": "BJNR321010994BJNE039000360",
+      "anzeige": "§ 39",
+      "identisch": true,
+      "zeichen": 271,
+      "sha256": "f7ea943d239b6d44df3da4b8ab6facedcaeb23821072e9b76b6fce9703ac38b0"
+    },
+    {
+      "xml_index": 51,
+      "doknr": "BJNR321010994BJNE039100360",
+      "anzeige": "§ 39a",
+      "identisch": true,
+      "zeichen": 209,
+      "sha256": "d9dd120be32b22dd905e04355bdf2e3f5587a85d75896f0f5ed31294842ea097"
+    },
+    {
+      "xml_index": 52,
+      "doknr": "BJNR321010994BJNE039200360",
+      "anzeige": "§ 39b",
+      "identisch": true,
+      "zeichen": 330,
+      "sha256": "308c587be722b152f204d07d1e0ed78a5f7099aef330867306df26607ed36245"
+    },
+    {
+      "xml_index": 53,
+      "doknr": "BJNR321010994BJNE039300360",
+      "anzeige": "§ 39c",
+      "identisch": true,
+      "zeichen": 351,
+      "sha256": "de2861d52b0f1900b5c7694a79fada64484e79ba60f5f35e43e273402da6286e"
+    },
+    {
+      "xml_index": 54,
+      "doknr": "BJNR321010994BJNE039400360",
+      "anzeige": "§ 39d",
+      "identisch": true,
+      "zeichen": 308,
+      "sha256": "27786dcbaeb0380fd408a7b73e2702680c2cf117e62c5f253779bfab9e5aa950"
+    },
+    {
+      "xml_index": 55,
+      "doknr": "BJNR321010994BJNE039500360",
+      "anzeige": "§ 39e",
+      "identisch": true,
+      "zeichen": 312,
+      "sha256": "a35bbb8824f548643c2c6c6eeee8a5fd3abb83d2eca7a1510826b6ecf1500b4a"
+    },
+    {
+      "xml_index": 56,
+      "doknr": "BJNR321010994BJNE039600360",
+      "anzeige": "§ 39f",
+      "identisch": true,
+      "zeichen": 1203,
+      "sha256": "464ca9c7f6a6bf905691580d526b85304a427a00c37854c310d7d953703d3bd6"
+    },
+    {
+      "xml_index": 57,
+      "doknr": "BJNR321010994BJNG040901360",
+      "anzeige": "020020010010Zweiter UnterabschnittVerschmelzung unter Beteiligung von Personenhandelsgesellschaften",
+      "identisch": true,
+      "zeichen": 82,
+      "sha256": "eb39f2d1f884b5fb88609c5edbf37abaecd697bf37d23ed3ee818c9bf99ca02f"
+    },
+    {
+      "xml_index": 58,
+      "doknr": "BJNR321010994BJNE004600000",
+      "anzeige": "§ 40",
+      "identisch": true,
+      "zeichen": 670,
+      "sha256": "6a2fe6602ff26c77baa5cc1323517810e59069e15d51e1c0db61d882a671595b"
+    },
+    {
+      "xml_index": 59,
+      "doknr": "BJNR321010994BJNE004701360",
+      "anzeige": "§ 41",
+      "identisch": true,
+      "zeichen": 471,
+      "sha256": "31394e213918c12b2b1d1975203898a5a194cafb01ac29e7a28a798eb57f5652"
+    },
+    {
+      "xml_index": 60,
+      "doknr": "BJNR321010994BJNE004801360",
+      "anzeige": "§ 42",
+      "identisch": true,
+      "zeichen": 95,
+      "sha256": "7f40f6674ba72529490d6bfc97921907c65dfda508ab502fb0ad807b2aa89b8c"
+    },
+    {
+      "xml_index": 61,
+      "doknr": "BJNR321010994BJNE004902360",
+      "anzeige": "§ 43",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "7d8f4f01b0a2595004d6f2a9e1e09aff0f967014e88f5cc3d0e24ea541ba19f5"
+    },
+    {
+      "xml_index": 62,
+      "doknr": "BJNR321010994BJNE005002360",
+      "anzeige": "§ 44",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "4f0b8adae6e110706e3ee3c3656d228e9fa2f0313f68c6f3e122bafd7531142e"
+    },
+    {
+      "xml_index": 63,
+      "doknr": "BJNR321010994BJNE005103360",
+      "anzeige": "§ 45",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "d28f8df5ce8b2572669690f5b0a0bedf1e3524f86a7b5e6d43409f542089c251"
+    },
+    {
+      "xml_index": 64,
+      "doknr": "BJNR321010994BJNG041001360",
+      "anzeige": "020020010020Dritter UnterabschnittVerschmelzung unter Beteiligung von Partnerschaftsgesellschaften",
+      "identisch": true,
+      "zeichen": 81,
+      "sha256": "a7a7dc9faabbbf195759b09bd78ee9b9f8e5ea3d55419165f5d85db772a58ca0"
+    },
+    {
+      "xml_index": 65,
+      "doknr": "BJNR321010994BJNE036800307",
+      "anzeige": "§ 45a",
+      "identisch": true,
+      "zeichen": 334,
+      "sha256": "18ad7400fc4099748cd888ce64a6fdfb5fea64d85c4c182e542cf4e52e70e4f7"
+    },
+    {
+      "xml_index": 66,
+      "doknr": "BJNR321010994BJNE036900307",
+      "anzeige": "§ 45b",
+      "identisch": true,
+      "zeichen": 296,
+      "sha256": "b71731963b852f0ba87da74fb731d16cff00925e6ffe5ad48d255e2aff49cf26"
+    },
+    {
+      "xml_index": 67,
+      "doknr": "BJNR321010994BJNE037001360",
+      "anzeige": "§ 45c",
+      "identisch": true,
+      "zeichen": 338,
+      "sha256": "2067ebb623b1a1bfd04a69e58061e5c4ce4b74c18c2c96692fd8dce466a25b3d"
+    },
+    {
+      "xml_index": 68,
+      "doknr": "BJNR321010994BJNE037100307",
+      "anzeige": "§ 45d",
+      "identisch": true,
+      "zeichen": 328,
+      "sha256": "63342bea094e5384597e04e187de88e57c5594bfbcd0212fec746059c7660c55"
+    },
+    {
+      "xml_index": 69,
+      "doknr": "BJNR321010994BJNE037201360",
+      "anzeige": "§ 45e",
+      "identisch": true,
+      "zeichen": 125,
+      "sha256": "2d57848f73a8de7a07fb486aeeaa390d5571281759bd58f60ba03a22f9912f51"
+    },
+    {
+      "xml_index": 70,
+      "doknr": "BJNR321010994BJNG005200000",
+      "anzeige": "020020020Zweiter AbschnittVerschmelzung unter Beteiligung von Gesellschaften\nmit beschränkter Haftung",
+      "identisch": true,
+      "zeichen": 84,
+      "sha256": "0bce1ca62863c42203bc7d06aeabfdbf3d1d481d1acceed34590f01da0fc790f"
+    },
+    {
+      "xml_index": 71,
+      "doknr": "BJNR321010994BJNG037200000",
+      "anzeige": "020020020010Erster UnterabschnittVerschmelzung durch Aufnahme",
+      "identisch": true,
+      "zeichen": 46,
+      "sha256": "b3a9f89727f79a3cd95c157a84064bcc79fae76a06a870b58549e14d3539132f"
+    },
+    {
+      "xml_index": 72,
+      "doknr": "BJNR321010994BJNE005305140",
+      "anzeige": "§ 46",
+      "identisch": true,
+      "zeichen": 1022,
+      "sha256": "b2b388be1d04e02f6240a7c67e72a42ea239bad7fca139b3f516af27f1570b8a"
+    },
+    {
+      "xml_index": 73,
+      "doknr": "BJNR321010994BJNE005400000",
+      "anzeige": "§ 47",
+      "identisch": true,
+      "zeichen": 247,
+      "sha256": "23031c11569a415a6f6584dafca27298e6827edc057af76df5a71023e3885076"
+    },
+    {
+      "xml_index": 74,
+      "doknr": "BJNR321010994BJNE005502360",
+      "anzeige": "§ 48",
+      "identisch": true,
+      "zeichen": 460,
+      "sha256": "dd11c7c9c1b834a66c13a4543d902ccde52c61570098f5c0310d56f2bfe0017e"
+    },
+    {
+      "xml_index": 75,
+      "doknr": "BJNR321010994BJNE005600000",
+      "anzeige": "§ 49",
+      "identisch": true,
+      "zeichen": 635,
+      "sha256": "54a5d5a62e816b47c173837a1a0ff78069ccdb1103fbbb05da2093a3001514d5"
+    },
+    {
+      "xml_index": 76,
+      "doknr": "BJNR321010994BJNE005700000",
+      "anzeige": "§ 50",
+      "identisch": true,
+      "zeichen": 733,
+      "sha256": "2fea9ae05a98d046cc35495cd787a8898dd7b45b52cf46af3769cc09932a5541"
+    },
+    {
+      "xml_index": 77,
+      "doknr": "BJNR321010994BJNE005805360",
+      "anzeige": "§ 51",
+      "identisch": true,
+      "zeichen": 1034,
+      "sha256": "a43673a3fc1ea2a45fee0e8b843ba9de43024f2a7d93567c314f0aa9e7a56469"
+    },
+    {
+      "xml_index": 78,
+      "doknr": "BJNR321010994BJNE005904360",
+      "anzeige": "§ 52",
+      "identisch": true,
+      "zeichen": 801,
+      "sha256": "f625091c26c16537edea750b3c2beb322f3792069bc935e762303c3e20b2d2fb"
+    },
+    {
+      "xml_index": 79,
+      "doknr": "BJNR321010994BJNE006000000",
+      "anzeige": "§ 53",
+      "identisch": true,
+      "zeichen": 229,
+      "sha256": "3a1223d73e02b555bb3d03fdad0b5dfe9336edfc85535157b8d4e2433c0c40eb"
+    },
+    {
+      "xml_index": 80,
+      "doknr": "BJNR321010994BJNE006103140",
+      "anzeige": "§ 54",
+      "identisch": true,
+      "zeichen": 1852,
+      "sha256": "cac5e31f160d2d3d97f0ce27fa285f2fb080eccd51d5cc5f5c208f671fb147ab"
+    },
+    {
+      "xml_index": 81,
+      "doknr": "BJNR321010994BJNE006203360",
+      "anzeige": "§ 55",
+      "identisch": true,
+      "zeichen": 601,
+      "sha256": "925551eaa0a5a49655ed9395b437c35a10f7ece1aa35ead4dc2ce1153749b639"
+    },
+    {
+      "xml_index": 82,
+      "doknr": "BJNR321010994BJNG037300000",
+      "anzeige": "020020020020Zweiter UnterabschnittVerschmelzung durch Neugründung",
+      "identisch": true,
+      "zeichen": 50,
+      "sha256": "9a44ddc8005a3775447f7f962b92557420b853ada8f87c512a3d2dc74e886dab"
+    },
+    {
+      "xml_index": 83,
+      "doknr": "BJNR321010994BJNE006301360",
+      "anzeige": "§ 56",
+      "identisch": true,
+      "zeichen": 176,
+      "sha256": "9dfbb0d6fa02987d0d90ca1e35a99dd67e1c074d497e1ddc6e06b74b5be6c37b"
+    },
+    {
+      "xml_index": 84,
+      "doknr": "BJNR321010994BJNE006402377",
+      "anzeige": "§ 57",
+      "identisch": true,
+      "zeichen": 261,
+      "sha256": "602df60f793b254d9f11df691a30b404f7d3955766d7608575d7c8cf0b0bc033"
+    },
+    {
+      "xml_index": 85,
+      "doknr": "BJNR321010994BJNE006500000",
+      "anzeige": "§ 58",
+      "identisch": true,
+      "zeichen": 335,
+      "sha256": "531cf54e9f5dfeed330d1d09f6d5a07a77e691dce7e84477f7d7e8ee5b403a22"
+    },
+    {
+      "xml_index": 86,
+      "doknr": "BJNR321010994BJNE006601377",
+      "anzeige": "§ 59",
+      "identisch": true,
+      "zeichen": 357,
+      "sha256": "143e859a222c226e500b990aa3dff8fd0b9231742d0f84114a9c94eaf872567b"
+    },
+    {
+      "xml_index": 87,
+      "doknr": "BJNR321010994BJNG006700000",
+      "anzeige": "020020030Dritter AbschnittVerschmelzung unter Beteiligung von Aktiengesellschaften",
+      "identisch": true,
+      "zeichen": 68,
+      "sha256": "d3eb6edda7ac57590365c6a6c755c37aa6e2adafbc5a15ca61849dcaf22b52f3"
+    },
+    {
+      "xml_index": 88,
+      "doknr": "BJNR321010994BJNG037400000",
+      "anzeige": "020020030010Erster UnterabschnittVerschmelzung durch Aufnahme",
+      "identisch": true,
+      "zeichen": 46,
+      "sha256": "b3a9f89727f79a3cd95c157a84064bcc79fae76a06a870b58549e14d3539132f"
+    },
+    {
+      "xml_index": 89,
+      "doknr": "BJNR321010994BJNE006802360",
+      "anzeige": "§ 60",
+      "identisch": true,
+      "zeichen": 304,
+      "sha256": "032042df733a7af3d7a5e25f94f80ffaa738248a2e513a8306a941ec045e734c"
+    },
+    {
+      "xml_index": 90,
+      "doknr": "BJNR321010994BJNE006902360",
+      "anzeige": "§ 61",
+      "identisch": true,
+      "zeichen": 461,
+      "sha256": "cd2cd0859cb31f5812a895cde7bd3d2acec7feba53119bd7b595865ad7028f61"
+    },
+    {
+      "xml_index": 91,
+      "doknr": "BJNR321010994BJNE007003360",
+      "anzeige": "§ 62",
+      "identisch": true,
+      "zeichen": 4145,
+      "sha256": "3a33c9cd1dad669f45944e2cb0315896316f2898640f5b59d4c1d98719ea15fc"
+    },
+    {
+      "xml_index": 92,
+      "doknr": "BJNR321010994BJNE007104360",
+      "anzeige": "§ 63",
+      "identisch": true,
+      "zeichen": 2039,
+      "sha256": "6d4853db5380ff025299268bd577bc7000b31f42108f25f27658e157d238ac86"
+    },
+    {
+      "xml_index": 93,
+      "doknr": "BJNR321010994BJNE007203360",
+      "anzeige": "§ 64",
+      "identisch": true,
+      "zeichen": 842,
+      "sha256": "29f9d65cbc7274b9a2e9830d898cd61e705ce8388e508b9972d8aa9d5c2cf285"
+    },
+    {
+      "xml_index": 94,
+      "doknr": "BJNR321010994BJNE007300000",
+      "anzeige": "§ 65",
+      "identisch": true,
+      "zeichen": 498,
+      "sha256": "adfc92dfb1229f3f54ae9d5d9cda2ff7f51aa2c4aa711e5eb0babfded2cb1e93"
+    },
+    {
+      "xml_index": 95,
+      "doknr": "BJNR321010994BJNE007400000",
+      "anzeige": "§ 66",
+      "identisch": true,
+      "zeichen": 244,
+      "sha256": "50f4a236bf31b5c70764b02848f19b650733d487f0628540beb15ebb5417c201"
+    },
+    {
+      "xml_index": 96,
+      "doknr": "BJNR321010994BJNE007502377",
+      "anzeige": "§ 67",
+      "identisch": true,
+      "zeichen": 641,
+      "sha256": "368531cecc3b7dd16ce8640011ded66e8e12799979ef0a306d94c07ac05768fa"
+    },
+    {
+      "xml_index": 97,
+      "doknr": "BJNR321010994BJNE007602377",
+      "anzeige": "§ 68",
+      "identisch": true,
+      "zeichen": 1206,
+      "sha256": "c01be88a2c10bf8bb0b68d92c150bf06c4804c7522ce2019c6b3e95de3e85ad2"
+    },
+    {
+      "xml_index": 98,
+      "doknr": "BJNR321010994BJNE007707360",
+      "anzeige": "§ 69",
+      "identisch": true,
+      "zeichen": 1335,
+      "sha256": "9c5f4982da3c22e63d0e270278b50e4a4d61ec773d2b5427b897d6b5b8c13290"
+    },
+    {
+      "xml_index": 99,
+      "doknr": "BJNR321010994BJNE007800000",
+      "anzeige": "§ 70",
+      "identisch": true,
+      "zeichen": 242,
+      "sha256": "e2f7e41753e021bc4074152f1ab3089cf83a318ba4a8e3c228edf51e5073ce48"
+    },
+    {
+      "xml_index": 100,
+      "doknr": "BJNR321010994BJNE007900000",
+      "anzeige": "§ 71",
+      "identisch": true,
+      "zeichen": 351,
+      "sha256": "2933b7c013b46bfda59701226d7a2ef962b96a24bc0f2ce629c6d9ce7fe40a2f"
+    },
+    {
+      "xml_index": 101,
+      "doknr": "BJNR321010994BJNE008000000",
+      "anzeige": "§ 72",
+      "identisch": true,
+      "zeichen": 456,
+      "sha256": "95d51955f3693f0b09cebf6a904a4558761bfea055405f2e23619d4809d8487d"
+    },
+    {
+      "xml_index": 102,
+      "doknr": "BJNR321010994BJNE040300360",
+      "anzeige": "§ 72a",
+      "identisch": true,
+      "zeichen": 3113,
+      "sha256": "e0ad0e986f70ab2e8b8b8e220b04404535232fa65d54613c543d89891a5e70cd"
+    },
+    {
+      "xml_index": 103,
+      "doknr": "BJNR321010994BJNE040400360",
+      "anzeige": "§ 72b",
+      "identisch": true,
+      "zeichen": 2397,
+      "sha256": "c0d454022126de129053e4ad3e2b9eef0deb680eaf18ca17ea5877cf589e53dd"
+    },
+    {
+      "xml_index": 104,
+      "doknr": "BJNR321010994BJNG037500000",
+      "anzeige": "020020030020Zweiter UnterabschnittVerschmelzung durch Neugründung",
+      "identisch": true,
+      "zeichen": 50,
+      "sha256": "9a44ddc8005a3775447f7f962b92557420b853ada8f87c512a3d2dc74e886dab"
+    },
+    {
+      "xml_index": 105,
+      "doknr": "BJNR321010994BJNE008101360",
+      "anzeige": "§ 73",
+      "identisch": true,
+      "zeichen": 167,
+      "sha256": "75b6e44f70152d2dd7120cefc6d358919b6d96a481f678f4fe183eecfbc6f5b6"
+    },
+    {
+      "xml_index": 106,
+      "doknr": "BJNR321010994BJNE008202377",
+      "anzeige": "§ 74",
+      "identisch": true,
+      "zeichen": 279,
+      "sha256": "3c29e8f5e1cb39fb314f52556596aa3a4b067b1d81d048cf44a5fa672acfef88"
+    },
+    {
+      "xml_index": 107,
+      "doknr": "BJNR321010994BJNE008301360",
+      "anzeige": "§ 75",
+      "identisch": true,
+      "zeichen": 410,
+      "sha256": "438fd52b9bc957cfdbd1bb175b49fd147998f732f653126ceee04d271308537a"
+    },
+    {
+      "xml_index": 108,
+      "doknr": "BJNR321010994BJNE008402360",
+      "anzeige": "§ 76",
+      "identisch": true,
+      "zeichen": 409,
+      "sha256": "a4695a1057cec20873f6c29ab518b669849a6c7b3b61b7eb936cd94d98cb0b37"
+    },
+    {
+      "xml_index": 109,
+      "doknr": "BJNR321010994BJNE008501377",
+      "anzeige": "§ 77",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "c1368fd46bc56bc9c02a0e755903795765c2e95e427b2d31bf8b2ede8cce1a19"
+    },
+    {
+      "xml_index": 110,
+      "doknr": "BJNR321010994BJNG008600000",
+      "anzeige": "020020040Vierter AbschnittVerschmelzung unter Beteiligung von Kommanditgesellschaften\nauf Aktien",
+      "identisch": true,
+      "zeichen": 80,
+      "sha256": "2df902d4eacf8371e99e940f726a0040d91cfd82ff33db18b5318332a432e3d9"
+    },
+    {
+      "xml_index": 111,
+      "doknr": "BJNR321010994BJNE008700000",
+      "anzeige": "§ 78",
+      "identisch": true,
+      "zeichen": 641,
+      "sha256": "d706181240019ede0d68cfd61e77515c20aaf4c90a6cf1e9fc1837d865b9c9cc"
+    },
+    {
+      "xml_index": 112,
+      "doknr": "BJNR321010994BJNG008800000",
+      "anzeige": "020020050Fünfter AbschnittVerschmelzung unter Beteiligung eingetragener Genossenschaften",
+      "identisch": true,
+      "zeichen": 74,
+      "sha256": "8b6fa22491afd665c7e2d6ff672019adac407bc96993acd9e455395a0743a9f4"
+    },
+    {
+      "xml_index": 113,
+      "doknr": "BJNR321010994BJNG037600000",
+      "anzeige": "020020050010Erster UnterabschnittVerschmelzung durch Aufnahme",
+      "identisch": true,
+      "zeichen": 46,
+      "sha256": "b3a9f89727f79a3cd95c157a84064bcc79fae76a06a870b58549e14d3539132f"
+    },
+    {
+      "xml_index": 114,
+      "doknr": "BJNR321010994BJNE008901377",
+      "anzeige": "§ 79",
+      "identisch": true,
+      "zeichen": 256,
+      "sha256": "cc5275362ad12bfb83b47ab39a797fe975d060e47fc50b894efd6bfb51d3fcb7"
+    },
+    {
+      "xml_index": 115,
+      "doknr": "BJNR321010994BJNE009002377",
+      "anzeige": "§ 80",
+      "identisch": true,
+      "zeichen": 1458,
+      "sha256": "fe632624b0a06caafd9057f6a50954b8776d69fc11e6986d9253245210c82a67"
+    },
+    {
+      "xml_index": 116,
+      "doknr": "BJNR321010994BJNE009101377",
+      "anzeige": "§ 81",
+      "identisch": true,
+      "zeichen": 728,
+      "sha256": "33c3a79b77192af57e88220a58edc6a1a0ef3191db10a419abf0491372c7a0b2"
+    },
+    {
+      "xml_index": 117,
+      "doknr": "BJNR321010994BJNE009203123",
+      "anzeige": "§ 82",
+      "identisch": true,
+      "zeichen": 689,
+      "sha256": "2346547f664963d9f8a28380356d333c85343406147aacf4a16ed1578bda7421"
+    },
+    {
+      "xml_index": 118,
+      "doknr": "BJNR321010994BJNE009300000",
+      "anzeige": "§ 83",
+      "identisch": true,
+      "zeichen": 473,
+      "sha256": "de14d7867db25df7ae9096681fb01f5ce0e6f16e0a19040cebf9b07988c8c4a5"
+    },
+    {
+      "xml_index": 119,
+      "doknr": "BJNR321010994BJNE009401377",
+      "anzeige": "§ 84",
+      "identisch": true,
+      "zeichen": 200,
+      "sha256": "262026dc7e13f76e3ebc885f85a5be03781a7e0a256d6d4c2e5614d959ea8bbf"
+    },
+    {
+      "xml_index": 120,
+      "doknr": "BJNR321010994BJNE009502360",
+      "anzeige": "§ 85",
+      "identisch": true,
+      "zeichen": 533,
+      "sha256": "127e26a04691864be5895fba193638f95bdf530c00d58d84cb3b793a4f6008d1"
+    },
+    {
+      "xml_index": 121,
+      "doknr": "BJNR321010994BJNE009600000",
+      "anzeige": "§ 86",
+      "identisch": true,
+      "zeichen": 434,
+      "sha256": "b9e4b4079c70278b9befe2e9e5f18935dd68e1a889c4fe9341d528b96369797e"
+    },
+    {
+      "xml_index": 122,
+      "doknr": "BJNR321010994BJNE009703140",
+      "anzeige": "§ 87",
+      "identisch": true,
+      "zeichen": 1480,
+      "sha256": "27e7225dcd43c835823c14e87aaa0c9f6d019cf95f99224434a5dc6565c7d829"
+    },
+    {
+      "xml_index": 123,
+      "doknr": "BJNR321010994BJNE009802377",
+      "anzeige": "§ 88",
+      "identisch": true,
+      "zeichen": 1246,
+      "sha256": "0a21d728c43e1ad2a3fdb2dd9697a85ef727a42411209106be34337d5bf2dac0"
+    },
+    {
+      "xml_index": 124,
+      "doknr": "BJNR321010994BJNE009902377",
+      "anzeige": "§ 89",
+      "identisch": true,
+      "zeichen": 1099,
+      "sha256": "f5d35344bdec2f2d7399c12a36fbc65f32f0a56d4dcc939878a8da8f5968fec2"
+    },
+    {
+      "xml_index": 125,
+      "doknr": "BJNR321010994BJNE010001377",
+      "anzeige": "§ 90",
+      "identisch": true,
+      "zeichen": 991,
+      "sha256": "c20bc04a7061e30880a04e342d4a818ace2dd2ebda5c93005fffa9d3a101a0e8"
+    },
+    {
+      "xml_index": 126,
+      "doknr": "BJNR321010994BJNE010101377",
+      "anzeige": "§ 91",
+      "identisch": true,
+      "zeichen": 382,
+      "sha256": "4dea934c8dd1c2091acce9e1bf0a04c89c276986bcf60d09a2bcc523f6d84134"
+    },
+    {
+      "xml_index": 127,
+      "doknr": "BJNR321010994BJNE010201377",
+      "anzeige": "§ 92",
+      "identisch": true,
+      "zeichen": 311,
+      "sha256": "70f4837cc0eedba0fffcca0a9a0889643a6e7624e353bbb670fe7657c7633903"
+    },
+    {
+      "xml_index": 128,
+      "doknr": "BJNR321010994BJNE010302377",
+      "anzeige": "§ 93",
+      "identisch": true,
+      "zeichen": 1182,
+      "sha256": "e3627b56e9a04a3abdd57cb4e9b3e75235401d2ca6206f553f133bd11ffccba3"
+    },
+    {
+      "xml_index": 129,
+      "doknr": "BJNR321010994BJNE010401377",
+      "anzeige": "§ 94",
+      "identisch": true,
+      "zeichen": 434,
+      "sha256": "28b1659ffa5d40f05c99a5a45a507ff2a001d0b312e0d4ddee3cff887d83991b"
+    },
+    {
+      "xml_index": 130,
+      "doknr": "BJNR321010994BJNE010502377",
+      "anzeige": "§ 95",
+      "identisch": true,
+      "zeichen": 972,
+      "sha256": "819b11d06a01b66a9bf58e2ead2d1f0fe6f0c5f119053aecb3b6c1a88c131ac2"
+    },
+    {
+      "xml_index": 131,
+      "doknr": "BJNR321010994BJNG037700000",
+      "anzeige": "020020050020Zweiter UnterabschnittVerschmelzung durch Neugründung",
+      "identisch": true,
+      "zeichen": 50,
+      "sha256": "9a44ddc8005a3775447f7f962b92557420b853ada8f87c512a3d2dc74e886dab"
+    },
+    {
+      "xml_index": 132,
+      "doknr": "BJNR321010994BJNE010600000",
+      "anzeige": "§ 96",
+      "identisch": true,
+      "zeichen": 128,
+      "sha256": "ce90df729a8f52e0f427c5b0c78774c9d490d0f345b5c80e1aa08ebe4da08dde"
+    },
+    {
+      "xml_index": 133,
+      "doknr": "BJNR321010994BJNE010701377",
+      "anzeige": "§ 97",
+      "identisch": true,
+      "zeichen": 510,
+      "sha256": "14d6b07a36eb6f8b9dab47f4b5e71939253ca6983843fa0e6023416181b0174f"
+    },
+    {
+      "xml_index": 134,
+      "doknr": "BJNR321010994BJNE010801377",
+      "anzeige": "§ 98",
+      "identisch": true,
+      "zeichen": 391,
+      "sha256": "434c664f4536ac5732b9dee47adf9e7c94f4e8d65cb3f3946fe75d2169dff4c3"
+    },
+    {
+      "xml_index": 135,
+      "doknr": "BJNR321010994BJNG010900000",
+      "anzeige": "020020060Sechster AbschnittVerschmelzung unter Beteiligung rechtsfähiger Vereine",
+      "identisch": true,
+      "zeichen": 66,
+      "sha256": "82170eb063bc714edb82887a406c5649dffdf0cd4868bbb883799416436a9fd3"
+    },
+    {
+      "xml_index": 136,
+      "doknr": "BJNR321010994BJNE011001307",
+      "anzeige": "§ 99",
+      "identisch": true,
+      "zeichen": 330,
+      "sha256": "57099d8b64d1f0263e17b2ae895ff035ec381be1427d3344f417ad1d9d6abaf7"
+    },
+    {
+      "xml_index": 137,
+      "doknr": "BJNR321010994BJNE011101125",
+      "anzeige": "§ 100",
+      "identisch": true,
+      "zeichen": 245,
+      "sha256": "1ea596bb93c60afa54d011e49284be60aec13f4bf89dceee2dbe64c6ff7bde96"
+    },
+    {
+      "xml_index": 138,
+      "doknr": "BJNR321010994BJNE011201360",
+      "anzeige": "§ 101",
+      "identisch": true,
+      "zeichen": 502,
+      "sha256": "47891a04996ed0092656359c9094dbdb951f19a9da7143bb9cee185bca2c0a45"
+    },
+    {
+      "xml_index": 139,
+      "doknr": "BJNR321010994BJNE011300000",
+      "anzeige": "§ 102",
+      "identisch": true,
+      "zeichen": 216,
+      "sha256": "31f410af3106a604813df5c9792a59283f6d4627c334a6f1a8687a06934f3940"
+    },
+    {
+      "xml_index": 140,
+      "doknr": "BJNR321010994BJNE011401140",
+      "anzeige": "§ 103",
+      "identisch": true,
+      "zeichen": 207,
+      "sha256": "abb5b7713fea94522e871855fb4a1c44771c36aaeb0790a8248816c4758db242"
+    },
+    {
+      "xml_index": 141,
+      "doknr": "BJNR321010994BJNE011503360",
+      "anzeige": "§ 104",
+      "identisch": true,
+      "zeichen": 671,
+      "sha256": "7a5007dcb377c69ceced675648a76b5af66b9ff82d5eddeddc17c6761c5cdd90"
+    },
+    {
+      "xml_index": 142,
+      "doknr": "BJNR321010994BJNE011600000",
+      "anzeige": "§ 104a",
+      "identisch": true,
+      "zeichen": 206,
+      "sha256": "a6ccc9cc0e95b431a43753566cd13aad158ab30795247cf1e84864f138075ab7"
+    },
+    {
+      "xml_index": 143,
+      "doknr": "BJNR321010994BJNG011700000",
+      "anzeige": "020020070Siebenter AbschnittVerschmelzung genossenschaftlicher Prüfungsverbände",
+      "identisch": true,
+      "zeichen": 67,
+      "sha256": "1e201c3fbdb8db926620ad9a96eb1f6c1139c56565ba8e67c5671cb9fffa0b2d"
+    },
+    {
+      "xml_index": 144,
+      "doknr": "BJNR321010994BJNE011802123",
+      "anzeige": "§ 105",
+      "identisch": true,
+      "zeichen": 359,
+      "sha256": "1688150807761ed0865916d0f5679b20726e5aead40adfb62eedb561ec0c13e2"
+    },
+    {
+      "xml_index": 145,
+      "doknr": "BJNR321010994BJNE011900000",
+      "anzeige": "§ 106",
+      "identisch": true,
+      "zeichen": 177,
+      "sha256": "c91a3e79d10c0300b75103e4156f04584d486b3c6928ec3ba20a2c228fdbcfc2"
+    },
+    {
+      "xml_index": 146,
+      "doknr": "BJNR321010994BJNE012001377",
+      "anzeige": "§ 107",
+      "identisch": true,
+      "zeichen": 517,
+      "sha256": "100e9b0d277e6c07782e0563fe689d58124166fcec95213bf9b420031238cd18"
+    },
+    {
+      "xml_index": 147,
+      "doknr": "BJNR321010994BJNE012100000",
+      "anzeige": "§ 108",
+      "identisch": true,
+      "zeichen": 345,
+      "sha256": "02a8e7ed4de4769c2c98cb9dbc34871f2e119efc7ff524d9194d9ff73723a92d"
+    },
+    {
+      "xml_index": 148,
+      "doknr": "BJNR321010994BJNG012200000",
+      "anzeige": "020020080Achter AbschnittVerschmelzung von Versicherungsvereinen auf Gegenseitigkeit",
+      "identisch": true,
+      "zeichen": 70,
+      "sha256": "789053460a500dbb20804b7d6d6fef42349daa77fa12dd93f1a43cb789bf6bff"
+    },
+    {
+      "xml_index": 149,
+      "doknr": "BJNR321010994BJNG037800000",
+      "anzeige": "020020080010Erster UnterabschnittMöglichkeit der Verschmelzung",
+      "identisch": true,
+      "zeichen": 47,
+      "sha256": "d83ad64c566d0571c0b08b94ebcfda9038f4a2f7239ed7819188dec6663fee3c"
+    },
+    {
+      "xml_index": 150,
+      "doknr": "BJNR321010994BJNE012300000",
+      "anzeige": "§ 109",
+      "identisch": true,
+      "zeichen": 286,
+      "sha256": "9bc30551685fe0359bf25d42e4c8d04007cade10a811c150ec9315f54d1f7c34"
+    },
+    {
+      "xml_index": 151,
+      "doknr": "BJNR321010994BJNG037900000",
+      "anzeige": "020020080020Zweiter UnterabschnittVerschmelzung durch Aufnahme",
+      "identisch": true,
+      "zeichen": 47,
+      "sha256": "ebdb009a6ba5e03705dafd71e4c2f83f4cc4b52fdfe7ee06d2ede85adc81ddce"
+    },
+    {
+      "xml_index": 152,
+      "doknr": "BJNR321010994BJNE012400000",
+      "anzeige": "§ 110",
+      "identisch": true,
+      "zeichen": 204,
+      "sha256": "571b81623376e9be0a4b8e8a31897b67d4ff128e6dc281534eb3207c73f64fa0"
+    },
+    {
+      "xml_index": 153,
+      "doknr": "BJNR321010994BJNE012501377",
+      "anzeige": "§ 111",
+      "identisch": true,
+      "zeichen": 383,
+      "sha256": "4d29d65ec43ba1308404603dbc1f9f2dbb8e8e04102faa11e8c03f9b963cd164"
+    },
+    {
+      "xml_index": 154,
+      "doknr": "BJNR321010994BJNE012601360",
+      "anzeige": "§ 112",
+      "identisch": true,
+      "zeichen": 690,
+      "sha256": "6cb6e6ce33799d3230841676cb7d384feef0949fe3b8b3fcef0a64144d43dcfa"
+    },
+    {
+      "xml_index": 155,
+      "doknr": "BJNR321010994BJNE012700000",
+      "anzeige": "§ 113",
+      "identisch": true,
+      "zeichen": 192,
+      "sha256": "89203b7f001442da214c4c42f1a05db381aec0b307e0377baba7718e96b480ec"
+    },
+    {
+      "xml_index": 156,
+      "doknr": "BJNR321010994BJNG038000000",
+      "anzeige": "020020080030Dritter UnterabschnittVerschmelzung durch Neugründung",
+      "identisch": true,
+      "zeichen": 50,
+      "sha256": "fdf54107977bd75f6fcfe9881dfca31232ec1f82b68693fcc370251bc24463cc"
+    },
+    {
+      "xml_index": 157,
+      "doknr": "BJNR321010994BJNE012800000",
+      "anzeige": "§ 114",
+      "identisch": true,
+      "zeichen": 187,
+      "sha256": "1c6dd1f5d081c80447cb0090e76691524c34ba388bda8c692e12444e246afdf4"
+    },
+    {
+      "xml_index": 158,
+      "doknr": "BJNR321010994BJNE012900000",
+      "anzeige": "§ 115",
+      "identisch": true,
+      "zeichen": 265,
+      "sha256": "91625767c847f47922063c5d915732ed846cfe363416c184a7e86a0dcd7a8187"
+    },
+    {
+      "xml_index": 159,
+      "doknr": "BJNR321010994BJNE013001360",
+      "anzeige": "§ 116",
+      "identisch": true,
+      "zeichen": 737,
+      "sha256": "a859d94321b6c85257e1842fb5b79ca1ffae1df5762591482a9e14b6c1d13fec"
+    },
+    {
+      "xml_index": 160,
+      "doknr": "BJNR321010994BJNE013101377",
+      "anzeige": "§ 117",
+      "identisch": true,
+      "zeichen": 224,
+      "sha256": "175c6d61ad5c29ce6da454777e04bb2a0598f45d17d5ea093d7d4e0ee4f4ca9b"
+    },
+    {
+      "xml_index": 161,
+      "doknr": "BJNR321010994BJNG038100000",
+      "anzeige": "020020080040Vierter UnterabschnittVerschmelzung kleinerer Vereine",
+      "identisch": true,
+      "zeichen": 50,
+      "sha256": "d846bc8b6707dba82c5f514c4dcaf90813ff126d6ac81e4bfd03a09896a7f73c"
+    },
+    {
+      "xml_index": 162,
+      "doknr": "BJNR321010994BJNE013203360",
+      "anzeige": "§ 118",
+      "identisch": true,
+      "zeichen": 416,
+      "sha256": "a930f7b46cc53c8df968c9e7fec8b136dbb0e95186db8693456f67c7cecd14a1"
+    },
+    {
+      "xml_index": 163,
+      "doknr": "BJNR321010994BJNE013302360",
+      "anzeige": "§ 119",
+      "identisch": true,
+      "zeichen": 342,
+      "sha256": "80c8aea5294a13693b19ffa4c8168b6f975335f7df91cbaf3016ec06832c5538"
+    },
+    {
+      "xml_index": 164,
+      "doknr": "BJNR321010994BJNG013400000",
+      "anzeige": "020020090Neunter AbschnittVerschmelzung von Kapitalgesellschaften mit dem\nVermögen eines Alleingesellschafters",
+      "identisch": true,
+      "zeichen": 93,
+      "sha256": "199bba7758658642ca262c8ea10ca6d332848f947f8b8935b5313ce7f99b7fb6"
+    },
+    {
+      "xml_index": 165,
+      "doknr": "BJNR321010994BJNE013500000",
+      "anzeige": "§ 120",
+      "identisch": true,
+      "zeichen": 503,
+      "sha256": "d270e86f82643ba303409c1adc2d03cead6e44deba19ddcd884c40be3dfc9b79"
+    },
+    {
+      "xml_index": 166,
+      "doknr": "BJNR321010994BJNE013600000",
+      "anzeige": "§ 121",
+      "identisch": true,
+      "zeichen": 133,
+      "sha256": "fe30da39d93f96720322f0082cb5135735d9d6294792ebf51df7db9e14ea6267"
+    },
+    {
+      "xml_index": 167,
+      "doknr": "BJNR321010994BJNE013701307",
+      "anzeige": "§ 122",
+      "identisch": true,
+      "zeichen": 384,
+      "sha256": "cef41cbddff2b97f7952c636e06098f7866a1b177f5abd7ad4a5354efb2abb35"
+    },
+    {
+      "xml_index": 168,
+      "doknr": "BJNR321010994BJNG038200000",
+      "anzeige": "030Drittes BuchSpaltung",
+      "identisch": true,
+      "zeichen": 19,
+      "sha256": "7afeb5f91634494cf602abadd0fdf9b2e4a6b053b04d2733ff8d2ca792600dfe"
+    },
+    {
+      "xml_index": 169,
+      "doknr": "BJNR321010994BJNG038300000",
+      "anzeige": "030010Erster TeilAllgemeine Vorschriften",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "035fda46854af8950191742e642d9d69f5a6b136df9b1fe23dc9d1c4b029b869"
+    },
+    {
+      "xml_index": 170,
+      "doknr": "BJNR321010994BJNG013800000",
+      "anzeige": "030010010Erster AbschnittMöglichkeit der Spaltung",
+      "identisch": true,
+      "zeichen": 37,
+      "sha256": "9380c0bfbb994e9c6f14e7dbd2f44a765071ae60322cb8e8ae940ae21976112f"
+    },
+    {
+      "xml_index": 171,
+      "doknr": "BJNR321010994BJNE013900000",
+      "anzeige": "§ 123",
+      "identisch": true,
+      "zeichen": 1716,
+      "sha256": "4209ee0b2d0c404cdde1202c91a7e4a4fb2d631bf806d0c888fa8ffd003da4ec"
+    },
+    {
+      "xml_index": 172,
+      "doknr": "BJNR321010994BJNE014000000",
+      "anzeige": "§ 124",
+      "identisch": true,
+      "zeichen": 574,
+      "sha256": "c62a39437fb9b8fc88d099c2b8c3680656b4528cbbc82219c9667048e67ed6a4"
+    },
+    {
+      "xml_index": 173,
+      "doknr": "BJNR321010994BJNE014103360",
+      "anzeige": "§ 125",
+      "identisch": true,
+      "zeichen": 826,
+      "sha256": "29c9d593f02c8fc71a67ba3d4de11328ff88f7283171a16bcc62726103df8f1f"
+    },
+    {
+      "xml_index": 174,
+      "doknr": "BJNR321010994BJNG014200000",
+      "anzeige": "030010020Zweiter AbschnittSpaltung zur Aufnahme",
+      "identisch": true,
+      "zeichen": 35,
+      "sha256": "a1b0f71060a00835a906cbb2bc45b811ece3a0f2f31160b0974e600521f7d264"
+    },
+    {
+      "xml_index": 175,
+      "doknr": "BJNR321010994BJNE014301307",
+      "anzeige": "§ 126",
+      "identisch": true,
+      "zeichen": 2762,
+      "sha256": "4be0dc546dfda733a5cadda41c9c70fab7cee1c6ffd2222f0d4e02e5f07b867b"
+    },
+    {
+      "xml_index": 176,
+      "doknr": "BJNR321010994BJNE014401360",
+      "anzeige": "§ 127",
+      "identisch": true,
+      "zeichen": 765,
+      "sha256": "379e97ae6f9d214846198bcbf6eabafeb7bc7de8ae5d4eb5b665dfcaff08d6f7"
+    },
+    {
+      "xml_index": 177,
+      "doknr": "BJNR321010994BJNE014500000",
+      "anzeige": "§ 128",
+      "identisch": true,
+      "zeichen": 508,
+      "sha256": "539231657c7891c007e57b809e5619a636dd4ef76a9f23f85e6a08784be48c59"
+    },
+    {
+      "xml_index": 178,
+      "doknr": "BJNR321010994BJNE014600000",
+      "anzeige": "§ 129",
+      "identisch": true,
+      "zeichen": 117,
+      "sha256": "b521fa4cd8cae8d8e93ef348fa54218d32f066c59d6cf6ea800b1729cc1b0db5"
+    },
+    {
+      "xml_index": 179,
+      "doknr": "BJNR321010994BJNE014704377",
+      "anzeige": "§ 130",
+      "identisch": true,
+      "zeichen": 984,
+      "sha256": "8d6744c61190552a11cbeccf2fe23ca6230dfbc36a9af96c5159287dc5ba20e0"
+    },
+    {
+      "xml_index": 180,
+      "doknr": "BJNR321010994BJNE014802377",
+      "anzeige": "§ 131",
+      "identisch": true,
+      "zeichen": 2073,
+      "sha256": "989c81be3750b66c43cfb5e3df46526b12c72823813f01c1592f176eb660e3a9"
+    },
+    {
+      "xml_index": 181,
+      "doknr": "BJNR321010994BJNE014902360",
+      "anzeige": "§ 132",
+      "identisch": true,
+      "zeichen": 427,
+      "sha256": "04ddc7247e751c04af049fbbe03b8f4459fb741511d93d462733dadcdbcf1cc2"
+    },
+    {
+      "xml_index": 182,
+      "doknr": "BJNR321010994BJNE040500360",
+      "anzeige": "§ 132a",
+      "identisch": true,
+      "zeichen": 875,
+      "sha256": "7b938c1fb9000b5c2cb82db0fe1add240d2570a23e0e4f145941e34a2711524a"
+    },
+    {
+      "xml_index": 183,
+      "doknr": "BJNR321010994BJNE015004360",
+      "anzeige": "§ 133",
+      "identisch": true,
+      "zeichen": 1984,
+      "sha256": "2d9e7adc7a43e151d35dbd3048b6dccbbcdf7a12dc7ab7e21911f96014ddd7a8"
+    },
+    {
+      "xml_index": 184,
+      "doknr": "BJNR321010994BJNE015101377",
+      "anzeige": "§ 134",
+      "identisch": true,
+      "zeichen": 1376,
+      "sha256": "3d735fb16e254d32226935973d57293f18ee05de13b63e40776b6d70132927af"
+    },
+    {
+      "xml_index": 185,
+      "doknr": "BJNR321010994BJNG015200000",
+      "anzeige": "030010030Dritter AbschnittSpaltung zur Neugründung",
+      "identisch": true,
+      "zeichen": 38,
+      "sha256": "3317202f441be265671b32676155c868caa58546b91496f32d4c822df8ccc535"
+    },
+    {
+      "xml_index": 186,
+      "doknr": "BJNR321010994BJNE015301360",
+      "anzeige": "§ 135",
+      "identisch": true,
+      "zeichen": 841,
+      "sha256": "d1980c1068861f0450d17dea70768862ebafecf9e6e41faf32571d5ab3356c6f"
+    },
+    {
+      "xml_index": 187,
+      "doknr": "BJNR321010994BJNE015400000",
+      "anzeige": "§ 136",
+      "identisch": true,
+      "zeichen": 165,
+      "sha256": "927388f17bdef9b5c9a142365fe0af8ad0c5c7177ffb4a6fdbc98f988a13b711"
+    },
+    {
+      "xml_index": 188,
+      "doknr": "BJNR321010994BJNE015504360",
+      "anzeige": "§ 137",
+      "identisch": true,
+      "zeichen": 1037,
+      "sha256": "864f985db27de1872f278ff1a541fcf88846470f0e114ca83a449c2338b295f1"
+    },
+    {
+      "xml_index": 189,
+      "doknr": "BJNR321010994BJNG038400000",
+      "anzeige": "030020Zweiter TeilBesondere Vorschriften",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "c36c31b1b3eed0b2b0c77767e90dce25a1b0b86301173fcea99e240336632995"
+    },
+    {
+      "xml_index": 190,
+      "doknr": "BJNR321010994BJNG015600000",
+      "anzeige": "030020010Erster AbschnittSpaltung unter Beteiligung von Gesellschaften mit\nbeschränkter Haftung",
+      "identisch": true,
+      "zeichen": 78,
+      "sha256": "698949ef026d893af0473901a3ef099a4990d4bae235cd0fab3dc265494ad39e"
+    },
+    {
+      "xml_index": 191,
+      "doknr": "BJNR321010994BJNE015700000",
+      "anzeige": "§ 138",
+      "identisch": true,
+      "zeichen": 137,
+      "sha256": "a4aba769c24646ed7ad593397ff07a567c0af71a7e6a97161367db74b6286bd7"
+    },
+    {
+      "xml_index": 192,
+      "doknr": "BJNR321010994BJNE015800000",
+      "anzeige": "§ 139",
+      "identisch": true,
+      "zeichen": 394,
+      "sha256": "3693dbf3991255c05c903c561e810f0949938094c25a79dead1d49f3b6c48e47"
+    },
+    {
+      "xml_index": 193,
+      "doknr": "BJNR321010994BJNE015900000",
+      "anzeige": "§ 140",
+      "identisch": true,
+      "zeichen": 407,
+      "sha256": "525583dfa25c1799390fecf00d270ce70031ba978350f8419273c0aa360b3852"
+    },
+    {
+      "xml_index": 194,
+      "doknr": "BJNR321010994BJNG016000000",
+      "anzeige": "030020020Zweiter AbschnittSpaltung unter Beteiligung von Aktiengesellschaften\nund Kommanditgesellschaften auf Aktien",
+      "identisch": true,
+      "zeichen": 98,
+      "sha256": "d5a0f325f9b7ee5f320d704eec43f7564c8708508a85ebbc56d944e91a69b95d"
+    },
+    {
+      "xml_index": 195,
+      "doknr": "BJNR321010994BJNE016101377",
+      "anzeige": "§ 141",
+      "identisch": true,
+      "zeichen": 194,
+      "sha256": "ee4785773cbf1c035e3cf37a968b9cfbd5b26c45d9b9c0e727c7a58d147c2637"
+    },
+    {
+      "xml_index": 196,
+      "doknr": "BJNR321010994BJNE016201360",
+      "anzeige": "§ 142",
+      "identisch": true,
+      "zeichen": 416,
+      "sha256": "b6eee47d32884443926449951d726c1ffc41fb3217b91f45cbef3d8e408e9e70"
+    },
+    {
+      "xml_index": 197,
+      "doknr": "BJNR321010994BJNE040600360",
+      "anzeige": "§ 142a",
+      "identisch": true,
+      "zeichen": 453,
+      "sha256": "e8b3378922a9a16b3c97bad68c76a9dc59708872ce593323c81ceddd32c36fc2"
+    },
+    {
+      "xml_index": 198,
+      "doknr": "BJNR321010994BJNE016301360",
+      "anzeige": "§ 143",
+      "identisch": true,
+      "zeichen": 360,
+      "sha256": "1f3edcf74852730637f41e856e93182f8101a87b722fa16e73613877c9ee6b30"
+    },
+    {
+      "xml_index": 199,
+      "doknr": "BJNR321010994BJNE016400000",
+      "anzeige": "§ 144",
+      "identisch": true,
+      "zeichen": 152,
+      "sha256": "6e949e21741bd5bc7c6d39ee1a63c9aa30117eb83a253fd89c24f863f132ae53"
+    },
+    {
+      "xml_index": 200,
+      "doknr": "BJNR321010994BJNE016500000",
+      "anzeige": "§ 145",
+      "identisch": true,
+      "zeichen": 427,
+      "sha256": "ec0767f17c097790d3838e423da6371d7068738e27ae0a4a5f81f81dc987178f"
+    },
+    {
+      "xml_index": 201,
+      "doknr": "BJNR321010994BJNE016600000",
+      "anzeige": "§ 146",
+      "identisch": true,
+      "zeichen": 675,
+      "sha256": "5ac11d00de7d262057d7edbe9948f633c7c2f8b63d9eb09bf743f1eab8811c8f"
+    },
+    {
+      "xml_index": 202,
+      "doknr": "BJNR321010994BJNG016700000",
+      "anzeige": "030020030Dritter AbschnittSpaltung unter Beteiligung eingetragener Genossenschaften",
+      "identisch": true,
+      "zeichen": 69,
+      "sha256": "ba7f77c1aa20e02929e2addca8d0ae669ff5f270a38fe6f7058303ffde722c50"
+    },
+    {
+      "xml_index": 203,
+      "doknr": "BJNR321010994BJNE016801377",
+      "anzeige": "§ 147",
+      "identisch": true,
+      "zeichen": 269,
+      "sha256": "0bfbb1ae917f0c6dada8b617cac681749b19f3b1acbd37868d3da8b9672d914b"
+    },
+    {
+      "xml_index": 204,
+      "doknr": "BJNR321010994BJNE016901377",
+      "anzeige": "§ 148",
+      "identisch": true,
+      "zeichen": 553,
+      "sha256": "7ee7249ab0a751457e81ebd9f32c43e4d83f976d7ce3a37c86cc94e8bcd441af"
+    },
+    {
+      "xml_index": 205,
+      "doknr": "BJNR321010994BJNG017000000",
+      "anzeige": "030020040Vierter AbschnittSpaltung unter Beteiligung rechtsfähiger Vereine",
+      "identisch": true,
+      "zeichen": 60,
+      "sha256": "1d64194808816dd3981fbf7f0f34c875f122afbc2d77d6284232260905e6887a"
+    },
+    {
+      "xml_index": 206,
+      "doknr": "BJNR321010994BJNE017100000",
+      "anzeige": "§ 149",
+      "identisch": true,
+      "zeichen": 318,
+      "sha256": "ce37391bd15bb48488c7b9b08833e845fa1e19cc196c064adb4fc533f324ac34"
+    },
+    {
+      "xml_index": 207,
+      "doknr": "BJNR321010994BJNG017200000",
+      "anzeige": "030020050Fünfter AbschnittSpaltung unter Beteiligung genossenschaftlicher\nPrüfungsverbände",
+      "identisch": true,
+      "zeichen": 76,
+      "sha256": "6e23a324de1e956e782b2d6f001ac9bd3ecdf209aa43b05a589b2cab24ccb5e9"
+    },
+    {
+      "xml_index": 208,
+      "doknr": "BJNR321010994BJNE017300000",
+      "anzeige": "§ 150",
+      "identisch": true,
+      "zeichen": 361,
+      "sha256": "b6ee962033d339e380408ee7ba75558369319b3727684ebfbd46cc023425d37a"
+    },
+    {
+      "xml_index": 209,
+      "doknr": "BJNR321010994BJNG017400000",
+      "anzeige": "030020060Sechster AbschnittSpaltung unter Beteiligung von Versicherungsvereinen\nauf Gegenseitigkeit",
+      "identisch": true,
+      "zeichen": 83,
+      "sha256": "e677d960f27e826091148f3d2d51798da128b9a26dfe7fc652f55313da80e13f"
+    },
+    {
+      "xml_index": 210,
+      "doknr": "BJNR321010994BJNE017501377",
+      "anzeige": "§ 151",
+      "identisch": true,
+      "zeichen": 578,
+      "sha256": "241909e6d523e9afbcbb3f23ece994a3662b02506fc3c68c6b40ffcdb073b11f"
+    },
+    {
+      "xml_index": 211,
+      "doknr": "BJNR321010994BJNG017600000",
+      "anzeige": "030020070Siebenter AbschnittAusgliederung aus dem Vermögen eines Einzelkaufmanns",
+      "identisch": true,
+      "zeichen": 65,
+      "sha256": "754c2bf544adc0e59ed7be07bba46d2ac5574f785e349a0592caa1120a0b6098"
+    },
+    {
+      "xml_index": 212,
+      "doknr": "BJNR321010994BJNG038500000",
+      "anzeige": "030020070010Erster UnterabschnittMöglichkeit der Ausgliederung",
+      "identisch": true,
+      "zeichen": 47,
+      "sha256": "eacaa6a531b87636d660890f31c89546d0f0d9d8271d5433bb5a96162301e20f"
+    },
+    {
+      "xml_index": 213,
+      "doknr": "BJNR321010994BJNE017700000",
+      "anzeige": "§ 152",
+      "identisch": true,
+      "zeichen": 488,
+      "sha256": "8a6a053fa4fa9eb537e42ba588b36c9d0c5a7e5c0111d6b7916d4f317d670357"
+    },
+    {
+      "xml_index": 214,
+      "doknr": "BJNR321010994BJNG038600000",
+      "anzeige": "030020070020Zweiter UnterabschnittAusgliederung zur Aufnahme",
+      "identisch": true,
+      "zeichen": 45,
+      "sha256": "acc2a6b8f375a34f5f08a6e31329ba5d19b608c40685fec3ac57964b55aadf86"
+    },
+    {
+      "xml_index": 215,
+      "doknr": "BJNR321010994BJNE017800000",
+      "anzeige": "§ 153",
+      "identisch": true,
+      "zeichen": 90,
+      "sha256": "ea4d53edfebe57cd584509db010880dfc8936ea0eb5ed944ec5b9f786bac5228"
+    },
+    {
+      "xml_index": 216,
+      "doknr": "BJNR321010994BJNE017900000",
+      "anzeige": "§ 154",
+      "identisch": true,
+      "zeichen": 205,
+      "sha256": "6520123404606d4e5d0db1fb1c06b539f8d49a248d753030c0ef0d54464573d1"
+    },
+    {
+      "xml_index": 217,
+      "doknr": "BJNR321010994BJNE018000000",
+      "anzeige": "§ 155",
+      "identisch": true,
+      "zeichen": 247,
+      "sha256": "a17f9689c35eb3f54cf5887ee1bcd1372f03710b96e36fc0cd519c88b8f17c61"
+    },
+    {
+      "xml_index": 218,
+      "doknr": "BJNR321010994BJNE018100000",
+      "anzeige": "§ 156",
+      "identisch": true,
+      "zeichen": 221,
+      "sha256": "bf5afcb4a712ff0b1ec7e742b692bfe51571940f5270af95a6ff3e3dd57bdc99"
+    },
+    {
+      "xml_index": 219,
+      "doknr": "BJNR321010994BJNE018203360",
+      "anzeige": "§ 157",
+      "identisch": true,
+      "zeichen": 1157,
+      "sha256": "b0ee8e3f88944998d945599ca908c34541c6e903da6986a9e50e360d7a77de4b"
+    },
+    {
+      "xml_index": 220,
+      "doknr": "BJNR321010994BJNG038700000",
+      "anzeige": "030020070030Dritter UnterabschnittAusgliederung zur Neugründung",
+      "identisch": true,
+      "zeichen": 48,
+      "sha256": "04731c2e66acca0733314529af5c4ff4f24e8defc64785c2624ceb012dd27a78"
+    },
+    {
+      "xml_index": 221,
+      "doknr": "BJNR321010994BJNE018300000",
+      "anzeige": "§ 158",
+      "identisch": true,
+      "zeichen": 181,
+      "sha256": "b439ff2b631446910803e86fba071e7b866f78dfa2c83feed30d8672b320f128"
+    },
+    {
+      "xml_index": 222,
+      "doknr": "BJNR321010994BJNE018400000",
+      "anzeige": "§ 159",
+      "identisch": true,
+      "zeichen": 1061,
+      "sha256": "f5dfd99999fde9382e71d051324dd037c8ddf8000780dabf853052dcf9fb6294"
+    },
+    {
+      "xml_index": 223,
+      "doknr": "BJNR321010994BJNE018500000",
+      "anzeige": "§ 160",
+      "identisch": true,
+      "zeichen": 293,
+      "sha256": "c0ff68b6d3c57da6d24291a99f03b56073471528c204230ce711cb874e225cc0"
+    },
+    {
+      "xml_index": 224,
+      "doknr": "BJNR321010994BJNG018600000",
+      "anzeige": "030020080Achter AbschnittAusgliederung aus dem Vermögen rechtsfähiger Stiftungen",
+      "identisch": true,
+      "zeichen": 65,
+      "sha256": "a8a26b98ccd0b9a44c36290b4835b837cb8f3a56092b1ef70925f2d2da79b7d9"
+    },
+    {
+      "xml_index": 225,
+      "doknr": "BJNR321010994BJNE018700000",
+      "anzeige": "§ 161",
+      "identisch": true,
+      "zeichen": 360,
+      "sha256": "a34ada2ae85a05d16843014a01055ee09b1a704bf038db44beac55e8d00fd5b4"
+    },
+    {
+      "xml_index": 226,
+      "doknr": "BJNR321010994BJNE018800000",
+      "anzeige": "§ 162",
+      "identisch": true,
+      "zeichen": 373,
+      "sha256": "32c121799d1c58114424b914c4e1ea8c1313313c982fb8297210970fda5c7ba6"
+    },
+    {
+      "xml_index": 227,
+      "doknr": "BJNR321010994BJNE018900000",
+      "anzeige": "§ 163",
+      "identisch": true,
+      "zeichen": 510,
+      "sha256": "0f260b346f2662585c137e5c3a78d2566b75cacc416095311b87a35fc4866b41"
+    },
+    {
+      "xml_index": 228,
+      "doknr": "BJNR321010994BJNE019000000",
+      "anzeige": "§ 164",
+      "identisch": true,
+      "zeichen": 351,
+      "sha256": "ebcfe3f98d91131a38bbbdc5a68f62215481139c46252fb8fc4880dc0ba61f1e"
+    },
+    {
+      "xml_index": 229,
+      "doknr": "BJNR321010994BJNE019100000",
+      "anzeige": "§ 165",
+      "identisch": true,
+      "zeichen": 225,
+      "sha256": "572c54be782ec9b21b369e6f626cb39b106099b0e2cf793f8ae131bebee49eb3"
+    },
+    {
+      "xml_index": 230,
+      "doknr": "BJNR321010994BJNE019200000",
+      "anzeige": "§ 166",
+      "identisch": true,
+      "zeichen": 208,
+      "sha256": "f698b584619bbc3565b4ec4aa4d34f160fdb223ba05ef7cafd88ff7bdae6e21e"
+    },
+    {
+      "xml_index": 231,
+      "doknr": "BJNR321010994BJNE019300000",
+      "anzeige": "§ 167",
+      "identisch": true,
+      "zeichen": 211,
+      "sha256": "ba8e467e0160a66460e33499503f8e5e0cfc56d17d03e4e316dbf9e3d1638517"
+    },
+    {
+      "xml_index": 232,
+      "doknr": "BJNR321010994BJNG019400000",
+      "anzeige": "030020090Neunter AbschnittAusgliederung aus dem Vermögen von Gebietskörperschaften\noder Zusammenschlüssen von Gebietskörperschaften",
+      "identisch": true,
+      "zeichen": 112,
+      "sha256": "d1380f4b29d8d543dc652f32c905e51639ab29b636db40e8fb79581c3fbe3ce3"
+    },
+    {
+      "xml_index": 233,
+      "doknr": "BJNR321010994BJNE019500000",
+      "anzeige": "§ 168",
+      "identisch": true,
+      "zeichen": 594,
+      "sha256": "a0d7f529aa403fb16a60b8a14e0ed45fdb92f66ce59dc0f4e4645a627b215687"
+    },
+    {
+      "xml_index": 234,
+      "doknr": "BJNR321010994BJNE019600000",
+      "anzeige": "§ 169",
+      "identisch": true,
+      "zeichen": 274,
+      "sha256": "baaef79a463741e4bb7e25f60ce8f6fee5cb1a34b921d59b64c7dd974469f747"
+    },
+    {
+      "xml_index": 235,
+      "doknr": "BJNR321010994BJNE019700000",
+      "anzeige": "§ 170",
+      "identisch": true,
+      "zeichen": 225,
+      "sha256": "e6eb014c621d1d73f56d716d4d22f3ee8c427ab383a89ac0f3d918523b375992"
+    },
+    {
+      "xml_index": 236,
+      "doknr": "BJNR321010994BJNE019800000",
+      "anzeige": "§ 171",
+      "identisch": true,
+      "zeichen": 189,
+      "sha256": "cba43333e49408fb6def6144d4d8e75a5e396daff04c2043a27ae0cef9324537"
+    },
+    {
+      "xml_index": 237,
+      "doknr": "BJNR321010994BJNE019900000",
+      "anzeige": "§ 172",
+      "identisch": true,
+      "zeichen": 264,
+      "sha256": "d2381fb75fab68f02792516a90eb45f25bd47e53e54dd6f15d9310d795afc25f"
+    },
+    {
+      "xml_index": 238,
+      "doknr": "BJNR321010994BJNE020000000",
+      "anzeige": "§ 173",
+      "identisch": true,
+      "zeichen": 200,
+      "sha256": "22284319938ca6a8c2b15976f9888fa2f4ceac48b3b2fea1a5cf30d98328327c"
+    },
+    {
+      "xml_index": 239,
+      "doknr": "BJNR321010994BJNG038800000",
+      "anzeige": "040Viertes BuchVermögensübertragung",
+      "identisch": true,
+      "zeichen": 31,
+      "sha256": "4350c456b03e46ad03931ee3745e79065c1838ad81bd4fbe0bbd78e30560b4c9"
+    },
+    {
+      "xml_index": 240,
+      "doknr": "BJNR321010994BJNG038900000",
+      "anzeige": "040010Erster TeilMöglichkeit der Vermögensübertragung",
+      "identisch": true,
+      "zeichen": 44,
+      "sha256": "2deff6165cfb535fc781ee41773c8f9fc9ace8d8ecc131e9994575407fd25462"
+    },
+    {
+      "xml_index": 241,
+      "doknr": "BJNR321010994BJNE020100000",
+      "anzeige": "§ 174",
+      "identisch": true,
+      "zeichen": 1058,
+      "sha256": "d38d1ff8fcb3a33b51b07487301601b296450883add005ce952349a9bd335e7b"
+    },
+    {
+      "xml_index": 242,
+      "doknr": "BJNR321010994BJNE020200000",
+      "anzeige": "§ 175",
+      "identisch": true,
+      "zeichen": 623,
+      "sha256": "6c0ff32a23706d05ce2aca11232a14daabd89b167add6debad77310833defb00"
+    },
+    {
+      "xml_index": 243,
+      "doknr": "BJNR321010994BJNG039000000",
+      "anzeige": "040020Zweiter TeilÜbertragung des Vermögens oder von Vermögensteilen\neiner Kapitalgesellschaft auf die öffentliche Hand",
+      "identisch": true,
+      "zeichen": 101,
+      "sha256": "8e67ae9a20a5c09c612a125a27922a27e529626fee0c76e4d4b97bbede0bc3b6"
+    },
+    {
+      "xml_index": 244,
+      "doknr": "BJNR321010994BJNG020300000",
+      "anzeige": "040020010Erster AbschnittVollübertragung",
+      "identisch": true,
+      "zeichen": 30,
+      "sha256": "4c75e1f57c181432416883f1ae75a420711e2ad859b9406ceb3b14c770b7b0fd"
+    },
+    {
+      "xml_index": 245,
+      "doknr": "BJNR321010994BJNE020400000",
+      "anzeige": "§ 176",
+      "identisch": true,
+      "zeichen": 1067,
+      "sha256": "d6a46302c1f4f679c627ceacfe0c8a55a8a8560a8cfb9536d2b7c9f6b32bf9ce"
+    },
+    {
+      "xml_index": 246,
+      "doknr": "BJNR321010994BJNG020500000",
+      "anzeige": "040020020Zweiter AbschnittTeilübertragung",
+      "identisch": true,
+      "zeichen": 31,
+      "sha256": "d23f0ba0acbd9772be3afe445197fd418ba276db3ffa8762ca63d0796578fb9f"
+    },
+    {
+      "xml_index": 247,
+      "doknr": "BJNR321010994BJNE020600000",
+      "anzeige": "§ 177",
+      "identisch": true,
+      "zeichen": 539,
+      "sha256": "7dadb82db29c4f460e9b03af57533cd66d88ab647a2ac743a4253eed5bd6b53e"
+    },
+    {
+      "xml_index": 248,
+      "doknr": "BJNR321010994BJNG039100000",
+      "anzeige": "040030Dritter TeilVermögensübertragung unter Versicherungsunternehmen",
+      "identisch": true,
+      "zeichen": 60,
+      "sha256": "38f39a3125ac1bfc0c70acbe696faf14943bf05a5abc3829e04ddda523e09b8c"
+    },
+    {
+      "xml_index": 249,
+      "doknr": "BJNR321010994BJNG020700000",
+      "anzeige": "040030010Erster AbschnittÜbertragung des Vermögens einer Aktiengesellschaft\nauf Versicherungsvereine auf Gegenseitigkeit oder\nöffentlich-rechtliche Versicherungsunternehmen",
+      "identisch": true,
+      "zeichen": 151,
+      "sha256": "95c44ba6a8bde396df50fe10bf4776d2204fd80e604a911efce0cef404b32302"
+    },
+    {
+      "xml_index": 250,
+      "doknr": "BJNR321010994BJNG039200000",
+      "anzeige": "040030010010Erster UnterabschnittVollübertragung",
+      "identisch": true,
+      "zeichen": 35,
+      "sha256": "03cac703a6dd9b20ec27d158218d6462c960765f5ccc4adc0a23eeffe4309a3e"
+    },
+    {
+      "xml_index": 251,
+      "doknr": "BJNR321010994BJNE020800000",
+      "anzeige": "§ 178",
+      "identisch": true,
+      "zeichen": 763,
+      "sha256": "d3e38e03954370998e72cfb73948aa674710c23c7c9d78de6ac736b4ed3fe393"
+    },
+    {
+      "xml_index": 252,
+      "doknr": "BJNR321010994BJNG039300000",
+      "anzeige": "040030010020Zweiter UnterabschnittTeilübertragung",
+      "identisch": true,
+      "zeichen": 36,
+      "sha256": "ad256437048e7d9917e3ab245a6166d071217c3ba4eb57a9769e8f26d7511bd7"
+    },
+    {
+      "xml_index": 253,
+      "doknr": "BJNR321010994BJNE020900000",
+      "anzeige": "§ 179",
+      "identisch": true,
+      "zeichen": 607,
+      "sha256": "8e9c85d98ca2a61dbb577006fa487d1d37990562756e1f9394ed453e39ac1153"
+    },
+    {
+      "xml_index": 254,
+      "doknr": "BJNR321010994BJNG021000000",
+      "anzeige": "040030020Zweiter AbschnittÜbertragung des Vermögens eines Versicherungsvereins\nauf Gegenseitigkeit auf Aktiengesellschaften oder\nöffentlich-rechtliche Versicherungsunternehmen",
+      "identisch": true,
+      "zeichen": 154,
+      "sha256": "2cc0562e57f413893bc8aa38195649af4464ea4bc8a6524af2fbc5b7b0ecb078"
+    },
+    {
+      "xml_index": 255,
+      "doknr": "BJNR321010994BJNG039400000",
+      "anzeige": "040030020010Erster UnterabschnittVollübertragung",
+      "identisch": true,
+      "zeichen": 35,
+      "sha256": "03cac703a6dd9b20ec27d158218d6462c960765f5ccc4adc0a23eeffe4309a3e"
+    },
+    {
+      "xml_index": 256,
+      "doknr": "BJNR321010994BJNE021100000",
+      "anzeige": "§ 180",
+      "identisch": true,
+      "zeichen": 680,
+      "sha256": "2fed66ae34f08977488c7fac80cd1e12c58a114ac07d350d32d322064989b48b"
+    },
+    {
+      "xml_index": 257,
+      "doknr": "BJNR321010994BJNE021200000",
+      "anzeige": "§ 181",
+      "identisch": true,
+      "zeichen": 1150,
+      "sha256": "470de0d20a93ab96d4b8a24cf3680a556d7b42b6d186633e41195dfbface98a7"
+    },
+    {
+      "xml_index": 258,
+      "doknr": "BJNR321010994BJNE021301377",
+      "anzeige": "§ 182",
+      "identisch": true,
+      "zeichen": 415,
+      "sha256": "64161359429e30d0856af776b6712474367a2f86014b41fab77dd4d2e7f1baf3"
+    },
+    {
+      "xml_index": 259,
+      "doknr": "BJNR321010994BJNE021400000",
+      "anzeige": "§ 183",
+      "identisch": true,
+      "zeichen": 599,
+      "sha256": "e9926dc35ef72bde183e62f40982ac1916fae004fb447507978fa0ff7418b18f"
+    },
+    {
+      "xml_index": 260,
+      "doknr": "BJNR321010994BJNG039500000",
+      "anzeige": "040030020020Zweiter UnterabschnittTeilübertragung",
+      "identisch": true,
+      "zeichen": 36,
+      "sha256": "ad256437048e7d9917e3ab245a6166d071217c3ba4eb57a9769e8f26d7511bd7"
+    },
+    {
+      "xml_index": 261,
+      "doknr": "BJNR321010994BJNE021500000",
+      "anzeige": "§ 184",
+      "identisch": true,
+      "zeichen": 591,
+      "sha256": "19351c74d8ae1b5cbc0ac13fd783c1199f1e5e248f08bd9fb16ff4f3d3f82752"
+    },
+    {
+      "xml_index": 262,
+      "doknr": "BJNR321010994BJNG021600000",
+      "anzeige": "040030030Dritter AbschnittÜbertragung des Vermögens eines kleineren Versicherungsvereins\nauf Gegenseitigkeit auf eine Aktiengesellschaft\noder auf ein öffentlich-rechtliches Versicherungsunternehmen",
+      "identisch": true,
+      "zeichen": 172,
+      "sha256": "a6b55920b0f414a91d7833b9ecea30ef9ee46b29b7913382d8fc4b88c829da1e"
+    },
+    {
+      "xml_index": 263,
+      "doknr": "BJNR321010994BJNE021700000",
+      "anzeige": "§ 185",
+      "identisch": true,
+      "zeichen": 236,
+      "sha256": "a9aa21dad37f93baaf6ba44625d7f52a4cfb2db23e7aea7a4e696f88735f7b40"
+    },
+    {
+      "xml_index": 264,
+      "doknr": "BJNR321010994BJNE021802360",
+      "anzeige": "§ 186",
+      "identisch": true,
+      "zeichen": 342,
+      "sha256": "0d159475e9652242ccba0bdfdc7a6d92c8fb97ddec7b9259500852d9ddf01077"
+    },
+    {
+      "xml_index": 265,
+      "doknr": "BJNR321010994BJNE021902360",
+      "anzeige": "§ 187",
+      "identisch": true,
+      "zeichen": 338,
+      "sha256": "67627fdd3f1155f315fbae92fc4cc46f2eeccccb8b5e4f6f60f14b82eb3ce2be"
+    },
+    {
+      "xml_index": 266,
+      "doknr": "BJNR321010994BJNG022000000",
+      "anzeige": "040030040Vierter AbschnittÜbertragung des Vermögens eines öffentlich-rechtlichen\nVersicherungsunternehmens auf Aktiengesellschaften\noder Versicherungsvereine auf Gegenseitigkeit",
+      "identisch": true,
+      "zeichen": 156,
+      "sha256": "2ce6a0ed5d4b39de9700d3c1bf8e28d88c476237505105e056dde705cee7b302"
+    },
+    {
+      "xml_index": 267,
+      "doknr": "BJNR321010994BJNG039600000",
+      "anzeige": "040030040010Erster UnterabschnittVollübertragung",
+      "identisch": true,
+      "zeichen": 35,
+      "sha256": "03cac703a6dd9b20ec27d158218d6462c960765f5ccc4adc0a23eeffe4309a3e"
+    },
+    {
+      "xml_index": 268,
+      "doknr": "BJNR321010994BJNE022102360",
+      "anzeige": "§ 188",
+      "identisch": true,
+      "zeichen": 857,
+      "sha256": "a69d9b87da650dee8195ae6d05e6a6f0ba9d82de6242cf1ddd52f3aa819d3336"
+    },
+    {
+      "xml_index": 269,
+      "doknr": "BJNR321010994BJNG039700000",
+      "anzeige": "040030040020Zweiter UnterabschnittTeilübertragung",
+      "identisch": true,
+      "zeichen": 36,
+      "sha256": "ad256437048e7d9917e3ab245a6166d071217c3ba4eb57a9769e8f26d7511bd7"
+    },
+    {
+      "xml_index": 270,
+      "doknr": "BJNR321010994BJNE022200000",
+      "anzeige": "§ 189",
+      "identisch": true,
+      "zeichen": 517,
+      "sha256": "e0ce3dd9d65028caf3abac4615730e5b97514ce7bce207d9a4dcabfd7c564c06"
+    },
+    {
+      "xml_index": 271,
+      "doknr": "BJNR321010994BJNG039800000",
+      "anzeige": "050Fünftes BuchFormwechsel",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "9902232beb5a5c493903acedf0cbb42d30253219c15e800bfff5fb0d32d5937c"
+    },
+    {
+      "xml_index": 272,
+      "doknr": "BJNR321010994BJNG022300000",
+      "anzeige": "050010Erster TeilAllgemeine Vorschriften",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "035fda46854af8950191742e642d9d69f5a6b136df9b1fe23dc9d1c4b029b869"
+    },
+    {
+      "xml_index": 273,
+      "doknr": "BJNR321010994BJNE022400000",
+      "anzeige": "§ 190",
+      "identisch": true,
+      "zeichen": 269,
+      "sha256": "c0211f3391688f79d47b0cafbef30b541998c59567b3148224398c46162a1777"
+    },
+    {
+      "xml_index": 274,
+      "doknr": "BJNR321010994BJNE022502360",
+      "anzeige": "§ 191",
+      "identisch": true,
+      "zeichen": 785,
+      "sha256": "846a8403fdf61f7ef45323a53b0369d1d025603bf95c07598dd0ee6ce2de1394"
+    },
+    {
+      "xml_index": 275,
+      "doknr": "BJNR321010994BJNE022602360",
+      "anzeige": "§ 192",
+      "identisch": true,
+      "zeichen": 724,
+      "sha256": "5ae0c1ee4412c009e8f88d5b4077ff1bc442753ed02d0cf0f8be5797dad46dfe"
+    },
+    {
+      "xml_index": 276,
+      "doknr": "BJNR321010994BJNE022701360",
+      "anzeige": "§ 193",
+      "identisch": true,
+      "zeichen": 718,
+      "sha256": "7e702f97a75b266649f72b483dc03116eb7d4c0c91ab0f1bb3b4f8ae5ceeb143"
+    },
+    {
+      "xml_index": 277,
+      "doknr": "BJNR321010994BJNE022801360",
+      "anzeige": "§ 194",
+      "identisch": true,
+      "zeichen": 1311,
+      "sha256": "8832cb0a1f65cc98f176d4f38a609ccbc4929b64339737c91bc5052067df1fdc"
+    },
+    {
+      "xml_index": 278,
+      "doknr": "BJNR321010994BJNE022901360",
+      "anzeige": "§ 195",
+      "identisch": true,
+      "zeichen": 469,
+      "sha256": "4b8e21f4f19e0f0f762e5f750ea89048caacc7c60e6814874c42aad6b62323dc"
+    },
+    {
+      "xml_index": 279,
+      "doknr": "BJNR321010994BJNE023002360",
+      "anzeige": "§ 196",
+      "identisch": true,
+      "zeichen": 595,
+      "sha256": "588e891cfff59e28c09d42a858c68010926bbdc9e5efc0bfd82c7a42bbf4bb54"
+    },
+    {
+      "xml_index": 280,
+      "doknr": "BJNR321010994BJNE023101377",
+      "anzeige": "§ 197",
+      "identisch": true,
+      "zeichen": 417,
+      "sha256": "f4ba98465b79012c70e9ce90f4f49f4a8aee5a5224b4295830573d49c6385b52"
+    },
+    {
+      "xml_index": 281,
+      "doknr": "BJNR321010994BJNE023201377",
+      "anzeige": "§ 198",
+      "identisch": true,
+      "zeichen": 1072,
+      "sha256": "e730d5e1ebca43563024ce899a383652ae7f6e36b553bb9bc4db32b578f1d7f5"
+    },
+    {
+      "xml_index": 282,
+      "doknr": "BJNR321010994BJNE023302360",
+      "anzeige": "§ 199",
+      "identisch": true,
+      "zeichen": 566,
+      "sha256": "89c83e240364ea6eb8859c85ce909223e0eeef5137556062fd0f7e412cd7bbab"
+    },
+    {
+      "xml_index": 283,
+      "doknr": "BJNR321010994BJNE023403377",
+      "anzeige": "§ 200",
+      "identisch": true,
+      "zeichen": 1373,
+      "sha256": "446a8502793e64b36c7fb5597c8bf7c1e3168aac383d739148e91ce3d2bdd3be"
+    },
+    {
+      "xml_index": 284,
+      "doknr": "BJNR321010994BJNE023502360",
+      "anzeige": "§ 201",
+      "identisch": true,
+      "zeichen": 234,
+      "sha256": "e535682a0f2007f0e4b936d8518ac6296cfda7e3e882bf6aec2187050748b56d"
+    },
+    {
+      "xml_index": 285,
+      "doknr": "BJNR321010994BJNE023601360",
+      "anzeige": "§ 202",
+      "identisch": true,
+      "zeichen": 965,
+      "sha256": "5564efd9700552fdbd43c6ca2691aab95916d79cc933c290193e54ce8b7f576c"
+    },
+    {
+      "xml_index": 286,
+      "doknr": "BJNR321010994BJNE023701360",
+      "anzeige": "§ 203",
+      "identisch": true,
+      "zeichen": 453,
+      "sha256": "b0c4dcb48942aa43251023e27a0ec9b3e4faea4766ca063dd13cee3a8079fbc2"
+    },
+    {
+      "xml_index": 287,
+      "doknr": "BJNR321010994BJNE023800000",
+      "anzeige": "§ 204",
+      "identisch": true,
+      "zeichen": 146,
+      "sha256": "2a04c2054914361641f4a1d4309e7d227519bb11fca8c4a5b69d7e7448385599"
+    },
+    {
+      "xml_index": 288,
+      "doknr": "BJNR321010994BJNE023901377",
+      "anzeige": "§ 205",
+      "identisch": true,
+      "zeichen": 555,
+      "sha256": "2526a6f1e092f71a044325b188abd5efaf5c9183ddfa9f0f8b7437d802d1c201"
+    },
+    {
+      "xml_index": 289,
+      "doknr": "BJNR321010994BJNE024000000",
+      "anzeige": "§ 206",
+      "identisch": true,
+      "zeichen": 510,
+      "sha256": "f94e68ec800dc359fdba5ede2cac750ec642cdfff4e742d4fbcdea350fcd75cf"
+    },
+    {
+      "xml_index": 290,
+      "doknr": "BJNR321010994BJNE024101360",
+      "anzeige": "§ 207",
+      "identisch": true,
+      "zeichen": 758,
+      "sha256": "7d34ac4f651581132badbf36de6418c0217b9338e2aa32cbc3f3bc1632a7c35b"
+    },
+    {
+      "xml_index": 291,
+      "doknr": "BJNR321010994BJNE024200000",
+      "anzeige": "§ 208",
+      "identisch": true,
+      "zeichen": 120,
+      "sha256": "051c4292ce10bdd8321ec508da990f7626830385cd1c33c98ab1a3962a672020"
+    },
+    {
+      "xml_index": 292,
+      "doknr": "BJNR321010994BJNE024302360",
+      "anzeige": "§ 209",
+      "identisch": true,
+      "zeichen": 399,
+      "sha256": "a6a3b9e31fa0cd6e226d9824acaf3d04cbba62a3b00d3770436bce41c77e7465"
+    },
+    {
+      "xml_index": 293,
+      "doknr": "BJNR321010994BJNE024401360",
+      "anzeige": "§ 210",
+      "identisch": true,
+      "zeichen": 259,
+      "sha256": "c57d850c677352616bfa000a540141af6e2e8f0193c0044070edca273f4aa0d6"
+    },
+    {
+      "xml_index": 294,
+      "doknr": "BJNR321010994BJNE024502360",
+      "anzeige": "§ 211",
+      "identisch": true,
+      "zeichen": 256,
+      "sha256": "35ebc757e4ed97f922f275477d689cb9125c70c47095e244837ef3ea043ba5e5"
+    },
+    {
+      "xml_index": 295,
+      "doknr": "BJNR321010994BJNE024602360",
+      "anzeige": "§ 212",
+      "identisch": true,
+      "zeichen": 366,
+      "sha256": "c72b3485ada9875e69db37c235a68bd21984bf0e01b35d6cfd99b3334770199f"
+    },
+    {
+      "xml_index": 296,
+      "doknr": "BJNR321010994BJNE024701377",
+      "anzeige": "§ 213",
+      "identisch": true,
+      "zeichen": 74,
+      "sha256": "6651e14fd0fe42940dbd93c5e8badf343ce23fcea96cbfc092751ba48ae354bb"
+    },
+    {
+      "xml_index": 297,
+      "doknr": "BJNR321010994BJNG024801307",
+      "anzeige": "050020Zweiter TeilBesondere Vorschriften",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "c36c31b1b3eed0b2b0c77767e90dce25a1b0b86301173fcea99e240336632995"
+    },
+    {
+      "xml_index": 298,
+      "doknr": "BJNR321010994BJNG024901307",
+      "anzeige": "050020010Erster AbschnittFormwechsel von Personengesellschaften",
+      "identisch": true,
+      "zeichen": 51,
+      "sha256": "d9eb509b863a71c06e273630b32c2afbeb6b0bd47c655cd06221fa209e663ee2"
+    },
+    {
+      "xml_index": 299,
+      "doknr": "BJNR321010994BJNG041101360",
+      "anzeige": "050020010010Erster UnterabschnittFormwechsel von Gesellschaften bürgerlichen Rechts und Personenhandelsgesellschaften",
+      "identisch": true,
+      "zeichen": 98,
+      "sha256": "28878e288f2d1f31ebf3b888c5e1270dbe8d6d15397692097d98538fb5d28931"
+    },
+    {
+      "xml_index": 300,
+      "doknr": "BJNR321010994BJNE025003360",
+      "anzeige": "§ 214",
+      "identisch": true,
+      "zeichen": 490,
+      "sha256": "3e28b47949e5aa371ccbfe91090ccd3c0969483bd9f6e70a6512adc51930fa3f"
+    },
+    {
+      "xml_index": 301,
+      "doknr": "BJNR321010994BJNE025101360",
+      "anzeige": "§ 215",
+      "identisch": true,
+      "zeichen": 150,
+      "sha256": "469312b6dbbeb8260eab811a3a7b5c8bc107a609da8a239daf493e2216b10bb1"
+    },
+    {
+      "xml_index": 302,
+      "doknr": "BJNR321010994BJNE025202360",
+      "anzeige": "§ 216",
+      "identisch": true,
+      "zeichen": 411,
+      "sha256": "8a415c8fb4185aed2bcb63809d584e6f9aa2f59dd5805078fac6bfc1ca028d81"
+    },
+    {
+      "xml_index": 303,
+      "doknr": "BJNR321010994BJNE025302360",
+      "anzeige": "§ 217",
+      "identisch": true,
+      "zeichen": 704,
+      "sha256": "29a4b0adda639bd8d10f835480a426e651d606401c34e12c32ed9db21f719c74"
+    },
+    {
+      "xml_index": 304,
+      "doknr": "BJNR321010994BJNE025402360",
+      "anzeige": "§ 218",
+      "identisch": true,
+      "zeichen": 981,
+      "sha256": "a68beb1bab7c9b75cd21649421999b172a6aebac345d2a730ea2a892efe0b5b5"
+    },
+    {
+      "xml_index": 305,
+      "doknr": "BJNR321010994BJNE025500000",
+      "anzeige": "§ 219",
+      "identisch": true,
+      "zeichen": 354,
+      "sha256": "0bd9cfdcb66653294aeb5eb7d94fad8e513fc3df08ce7c6f39e2b51bff7e337d"
+    },
+    {
+      "xml_index": 306,
+      "doknr": "BJNR321010994BJNE025600000",
+      "anzeige": "§ 220",
+      "identisch": true,
+      "zeichen": 837,
+      "sha256": "eaf956c9c1d0e75f89ffdf2b6568f30109aee02fb3567d9acc8bc4574b93472a"
+    },
+    {
+      "xml_index": 307,
+      "doknr": "BJNR321010994BJNE025701360",
+      "anzeige": "§ 221",
+      "identisch": true,
+      "zeichen": 349,
+      "sha256": "1507f79ca032a159001331d6dbdf255b4e06f3959d1cf46377472c81128fbc1f"
+    },
+    {
+      "xml_index": 308,
+      "doknr": "BJNR321010994BJNE025801377",
+      "anzeige": "§ 222",
+      "identisch": true,
+      "zeichen": 793,
+      "sha256": "e8ba25d797c86079f037329b3295abf03526cd4b907ceb384125066afef49924"
+    },
+    {
+      "xml_index": 309,
+      "doknr": "BJNR321010994BJNE025900000",
+      "anzeige": "§ 223",
+      "identisch": true,
+      "zeichen": 320,
+      "sha256": "d4e950a69228bcf694f88494e28c80604b98600c12a202df244682586093debd"
+    },
+    {
+      "xml_index": 310,
+      "doknr": "BJNR321010994BJNE026003360",
+      "anzeige": "§ 224",
+      "identisch": true,
+      "zeichen": 1232,
+      "sha256": "d3f08328f1d5f875205c3823a5d27e9c1a2d6453bf05d18bd138db8e77fd6886"
+    },
+    {
+      "xml_index": 311,
+      "doknr": "BJNR321010994BJNE026100000",
+      "anzeige": "§ 225",
+      "identisch": true,
+      "zeichen": 207,
+      "sha256": "6605508280ed1b3c4983d33e202443dcacd3ab49303d2198389cff1ba82a6013"
+    },
+    {
+      "xml_index": 312,
+      "doknr": "BJNR321010994BJNG041200307",
+      "anzeige": "050020010020Zweiter UnterabschnittFormwechsel von Partnerschaftsgesellschaften",
+      "identisch": true,
+      "zeichen": 63,
+      "sha256": "1c43f4352edb0873f136b2fae6afc5445727ebee641f75263dda04a9934d094f"
+    },
+    {
+      "xml_index": 313,
+      "doknr": "BJNR321010994BJNE037301360",
+      "anzeige": "§ 225a",
+      "identisch": true,
+      "zeichen": 201,
+      "sha256": "c433d908270b31ab2fa8891f66d28553447574bebe082ac3b1a0798fe68e76cd"
+    },
+    {
+      "xml_index": 314,
+      "doknr": "BJNR321010994BJNE037401360",
+      "anzeige": "§ 225b",
+      "identisch": true,
+      "zeichen": 303,
+      "sha256": "6a86e1e1d8c587bbdedc5c3bd1ffe6206a2085f0ca43206ca30ad4fc65d99ac6"
+    },
+    {
+      "xml_index": 315,
+      "doknr": "BJNR321010994BJNE037500307",
+      "anzeige": "§ 225c",
+      "identisch": true,
+      "zeichen": 130,
+      "sha256": "18603f9a2cdcff5b91a3f96e6e6adb812123da7dc9d7b775d205e39defe3cc41"
+    },
+    {
+      "xml_index": 316,
+      "doknr": "BJNR321010994BJNG026200000",
+      "anzeige": "050020020Zweiter AbschnittFormwechsel von Kapitalgesellschaften",
+      "identisch": true,
+      "zeichen": 51,
+      "sha256": "312be1efa06c2a40033e3b7945589aa562ff1f18a99d54c5a896ed9629e588d0"
+    },
+    {
+      "xml_index": 317,
+      "doknr": "BJNR321010994BJNG039900000",
+      "anzeige": "050020020010Erster UnterabschnittAllgemeine Vorschriften",
+      "identisch": true,
+      "zeichen": 42,
+      "sha256": "1fea7641863b0db76d6f93052242462a9585e62d461cbdffb595cb9af2547c40"
+    },
+    {
+      "xml_index": 318,
+      "doknr": "BJNR321010994BJNE026302360",
+      "anzeige": "§ 226",
+      "identisch": true,
+      "zeichen": 304,
+      "sha256": "9a720edda96212342db1da8182579a71d1dfd68a279dbe1f3059fea490e1abec"
+    },
+    {
+      "xml_index": 319,
+      "doknr": "BJNR321010994BJNE026400000",
+      "anzeige": "§ 227",
+      "identisch": true,
+      "zeichen": 157,
+      "sha256": "98d77362407557d30f26e4e34c48addd5c9173b261507bcfc2ee7d98cd6eb6e6"
+    },
+    {
+      "xml_index": 320,
+      "doknr": "BJNR321010994BJNG040000000",
+      "anzeige": "050020020020Zweiter UnterabschnittFormwechsel in eine Personengesellschaft",
+      "identisch": true,
+      "zeichen": 58,
+      "sha256": "d08453f745f21ed1d34808bb7e6788734a57849d488a0c9d2420ee4f488d4668"
+    },
+    {
+      "xml_index": 321,
+      "doknr": "BJNR321010994BJNE026504360",
+      "anzeige": "§ 228",
+      "identisch": true,
+      "zeichen": 781,
+      "sha256": "d2b6c9340335cd40675ddcf9d69e45c5c115cbf26405c2aa0dba2d727db23c20"
+    },
+    {
+      "xml_index": 322,
+      "doknr": "BJNR321010994BJNE026601377",
+      "anzeige": "§ 229",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "986db2cfdf1d19d2d0477840cee3395f9e5add31b6827efa76f54954c8a22bd4"
+    },
+    {
+      "xml_index": 323,
+      "doknr": "BJNR321010994BJNE026704360",
+      "anzeige": "§ 230",
+      "identisch": true,
+      "zeichen": 1085,
+      "sha256": "3445cbad98ab36d229b835513b1fb4eae5397f73d566f227e7a724db229d861d"
+    },
+    {
+      "xml_index": 324,
+      "doknr": "BJNR321010994BJNE026802360",
+      "anzeige": "§ 231",
+      "identisch": true,
+      "zeichen": 409,
+      "sha256": "87e47ce5a26184377d6f75536200574c067089fdc58f75139ac36b69baa183bd"
+    },
+    {
+      "xml_index": 325,
+      "doknr": "BJNR321010994BJNE026902360",
+      "anzeige": "§ 232",
+      "identisch": true,
+      "zeichen": 431,
+      "sha256": "c0e9b987e6b25ab01c982673e2d82668637fab399dc957d5f33af0d072b35519"
+    },
+    {
+      "xml_index": 326,
+      "doknr": "BJNR321010994BJNE027002360",
+      "anzeige": "§ 233",
+      "identisch": true,
+      "zeichen": 1459,
+      "sha256": "b83995b86608788f2ef2279f2c04a81bdbfd7ed9d1aa539ef473176d6f0f6bed"
+    },
+    {
+      "xml_index": 327,
+      "doknr": "BJNR321010994BJNE027105360",
+      "anzeige": "§ 234",
+      "identisch": true,
+      "zeichen": 296,
+      "sha256": "433d8c4debf4bc8c9f6b7342538c4363eb6226f796952b0c1426a167b890bad4"
+    },
+    {
+      "xml_index": 328,
+      "doknr": "BJNR321010994BJNE027201360",
+      "anzeige": "§ 235",
+      "identisch": true,
+      "zeichen": 117,
+      "sha256": "1c677c015e52be121b861805b052b8971d251a40f64f3cb5c5562ff646740176"
+    },
+    {
+      "xml_index": 329,
+      "doknr": "BJNR321010994BJNE027300000",
+      "anzeige": "§ 236",
+      "identisch": true,
+      "zeichen": 226,
+      "sha256": "a39b7dd43584ce1204b23e263e35b92fee6e412235e5be77ed9e64036f2a2446"
+    },
+    {
+      "xml_index": 330,
+      "doknr": "BJNR321010994BJNE027400000",
+      "anzeige": "§ 237",
+      "identisch": true,
+      "zeichen": 366,
+      "sha256": "a8ec27c4c63360e4f986b7b2f4fb5cff522db6610ca2d0d4f31f47bd501e178e"
+    },
+    {
+      "xml_index": 331,
+      "doknr": "BJNR321010994BJNG040100000",
+      "anzeige": "050020020030Dritter UnterabschnittFormwechsel in eine Kapitalgesellschaft anderer\nRechtsform",
+      "identisch": true,
+      "zeichen": 74,
+      "sha256": "dae5d5292f8d66786af5880692b3e288edfece6557958766070f61089ecd01ea"
+    },
+    {
+      "xml_index": 332,
+      "doknr": "BJNR321010994BJNE027501377",
+      "anzeige": "§ 238",
+      "identisch": true,
+      "zeichen": 216,
+      "sha256": "66b16302ffba070ea0ef46418f200b0ae967a67a551295b0aeef7797e0b1dc53"
+    },
+    {
+      "xml_index": 333,
+      "doknr": "BJNR321010994BJNE027602360",
+      "anzeige": "§ 239",
+      "identisch": true,
+      "zeichen": 431,
+      "sha256": "290c7b02222623d466416094083b469160b33f0264eae94b32f54da1c3ed13b9"
+    },
+    {
+      "xml_index": 334,
+      "doknr": "BJNR321010994BJNE027701360",
+      "anzeige": "§ 240",
+      "identisch": true,
+      "zeichen": 1125,
+      "sha256": "385800129cf5cf42e69f18bee075dd5b69ea8f673097d46a83ab2ddc2016b8cb"
+    },
+    {
+      "xml_index": 335,
+      "doknr": "BJNR321010994BJNE027803360",
+      "anzeige": "§ 241",
+      "identisch": true,
+      "zeichen": 914,
+      "sha256": "d60e9a829aff1a71ad2d2e3d4df1a2930116aca1c78733a0481dff59d41e70aa"
+    },
+    {
+      "xml_index": 336,
+      "doknr": "BJNR321010994BJNE027903360",
+      "anzeige": "§ 242",
+      "identisch": true,
+      "zeichen": 433,
+      "sha256": "7d5e442a1c25f0a6c3d37c4ffbaa26a01be036051b990021b2eb278a117681df"
+    },
+    {
+      "xml_index": 337,
+      "doknr": "BJNR321010994BJNE028004360",
+      "anzeige": "§ 243",
+      "identisch": true,
+      "zeichen": 772,
+      "sha256": "128a41f3a578427e4fd74f5a72359e9112d72385ed9a507aafb03ee175246aa8"
+    },
+    {
+      "xml_index": 338,
+      "doknr": "BJNR321010994BJNE028101360",
+      "anzeige": "§ 244",
+      "identisch": true,
+      "zeichen": 408,
+      "sha256": "8817481bd50f030afabaa698e09c574ec63aadb538a890d760d382e8286d3036"
+    },
+    {
+      "xml_index": 339,
+      "doknr": "BJNR321010994BJNE028201377",
+      "anzeige": "§ 245",
+      "identisch": true,
+      "zeichen": 1398,
+      "sha256": "d21cf1809833fb997b1f446a32b7fdfa93209fd2eea8c877ef009f949ab5d006"
+    },
+    {
+      "xml_index": 340,
+      "doknr": "BJNR321010994BJNE028300000",
+      "anzeige": "§ 246",
+      "identisch": true,
+      "zeichen": 543,
+      "sha256": "6216b07474c6fcc3a04974c0ac6b02e8c16dbc1ae83527454d244167ca6082b1"
+    },
+    {
+      "xml_index": 341,
+      "doknr": "BJNR321010994BJNE028401377",
+      "anzeige": "§ 247",
+      "identisch": true,
+      "zeichen": 456,
+      "sha256": "247975ed82f68626c359229e0f9a09653d097e3af9359bfe59b966c1163c407c"
+    },
+    {
+      "xml_index": 342,
+      "doknr": "BJNR321010994BJNE028500000",
+      "anzeige": "§ 248",
+      "identisch": true,
+      "zeichen": 608,
+      "sha256": "0a76a8584e749ea21103823fa58130805b56219645a3bf91d7572eeb15958be5"
+    },
+    {
+      "xml_index": 343,
+      "doknr": "BJNR321010994BJNE040700360",
+      "anzeige": "§ 248a",
+      "identisch": true,
+      "zeichen": 217,
+      "sha256": "f5fc69ac0d336d592674a86b817483591f3fd7fe0f1644748ddbfcd9cfec6930"
+    },
+    {
+      "xml_index": 344,
+      "doknr": "BJNR321010994BJNE028600000",
+      "anzeige": "§ 249",
+      "identisch": true,
+      "zeichen": 173,
+      "sha256": "1e9a6b7ee20d76e3ff65bbfe5e97310451ebbb40b355dbe928c76278f2d40029"
+    },
+    {
+      "xml_index": 345,
+      "doknr": "BJNR321010994BJNE028700000",
+      "anzeige": "§ 250",
+      "identisch": true,
+      "zeichen": 206,
+      "sha256": "e00724d3287d00043557eb4b213b9c7deb74fb6b0f12460160326b8ba29d9899"
+    },
+    {
+      "xml_index": 346,
+      "doknr": "BJNR321010994BJNG040200000",
+      "anzeige": "050020020040Vierter UnterabschnittFormwechsel in eine eingetragene Genossenschaft",
+      "identisch": true,
+      "zeichen": 64,
+      "sha256": "04ccc271b8a31b123e7baf6771dd0e23fa5a773243a564226cad916661ec2d29"
+    },
+    {
+      "xml_index": 347,
+      "doknr": "BJNR321010994BJNE028802140",
+      "anzeige": "§ 251",
+      "identisch": true,
+      "zeichen": 414,
+      "sha256": "b22453cf471ef46b4bac4e438d8d0ad974d09fc71af1760673f8d6b1263ddad6"
+    },
+    {
+      "xml_index": 348,
+      "doknr": "BJNR321010994BJNE028902360",
+      "anzeige": "§ 252",
+      "identisch": true,
+      "zeichen": 942,
+      "sha256": "b3f89e96db2aa84827f495cce26744471144e8e2becd2ed67d71f6844b6c272a"
+    },
+    {
+      "xml_index": 349,
+      "doknr": "BJNR321010994BJNE029002360",
+      "anzeige": "§ 253",
+      "identisch": true,
+      "zeichen": 521,
+      "sha256": "a62b6e054b482bb2780e61bfa4a7c64e22af0ac9f3c60712125301d55c38e69e"
+    },
+    {
+      "xml_index": 350,
+      "doknr": "BJNR321010994BJNE029101377",
+      "anzeige": "§ 254",
+      "identisch": true,
+      "zeichen": 273,
+      "sha256": "6833f355164a880a7fc613153e80b08b339c40fc5d27d9e46b56a2e71c87b7ef"
+    },
+    {
+      "xml_index": 351,
+      "doknr": "BJNR321010994BJNE029202360",
+      "anzeige": "§ 255",
+      "identisch": true,
+      "zeichen": 691,
+      "sha256": "f6210a999a79ea8b6073d5e3c31326da86d6a9a75ba17370491decf732e56994"
+    },
+    {
+      "xml_index": 352,
+      "doknr": "BJNR321010994BJNE029304140",
+      "anzeige": "§ 256",
+      "identisch": true,
+      "zeichen": 1154,
+      "sha256": "90c193a32a5d6c972b43bde90037531275aa42f7dcff225f5cbb8d5cc7a15e83"
+    },
+    {
+      "xml_index": 353,
+      "doknr": "BJNR321010994BJNE029400000",
+      "anzeige": "§ 257",
+      "identisch": true,
+      "zeichen": 105,
+      "sha256": "0257afce6a0146493fc7148f1657d8982b91cf776afd8a8c0b78838b775b3162"
+    },
+    {
+      "xml_index": 354,
+      "doknr": "BJNR321010994BJNG029500000",
+      "anzeige": "050020030Dritter AbschnittFormwechsel eingetragener Genossenschaften",
+      "identisch": true,
+      "zeichen": 56,
+      "sha256": "1d01e586c9b9b4c8de10fe03dfd742529a442f94a72afed6eb42de2a5b538fbe"
+    },
+    {
+      "xml_index": 355,
+      "doknr": "BJNR321010994BJNE029605360",
+      "anzeige": "§ 258",
+      "identisch": true,
+      "zeichen": 406,
+      "sha256": "2aef644abeabe107b2665e069138171c8378799a1ac4f207c32815edf0424a76"
+    },
+    {
+      "xml_index": 356,
+      "doknr": "BJNR321010994BJNE029701377",
+      "anzeige": "§ 259",
+      "identisch": true,
+      "zeichen": 376,
+      "sha256": "84f5c6912d86736b9a15008c31015aee017110b2ba4e8cb37c383a916998071b"
+    },
+    {
+      "xml_index": 357,
+      "doknr": "BJNR321010994BJNE029805123",
+      "anzeige": "§ 260",
+      "identisch": true,
+      "zeichen": 1042,
+      "sha256": "42ff9a8e2dba650adb4919d54a4ebcfc4a4929013a631025fc9134cf2a8b3c0a"
+    },
+    {
+      "xml_index": 358,
+      "doknr": "BJNR321010994BJNE029901360",
+      "anzeige": "§ 261",
+      "identisch": true,
+      "zeichen": 427,
+      "sha256": "5c31cd0d4771fb1a4b220a980dca1de8e78ae3561ec6927023ce427564304731"
+    },
+    {
+      "xml_index": 359,
+      "doknr": "BJNR321010994BJNE030002360",
+      "anzeige": "§ 262",
+      "identisch": true,
+      "zeichen": 588,
+      "sha256": "5cbf2e454e5f12cff2d6e60ee14cf7e2d47121f7981e9bbbdefe8b228f609683"
+    },
+    {
+      "xml_index": 360,
+      "doknr": "BJNR321010994BJNE030104360",
+      "anzeige": "§ 263",
+      "identisch": true,
+      "zeichen": 1426,
+      "sha256": "08b293cceefd44d33875a22559852a059ef986001d3048c93b628c4ff95bcb15"
+    },
+    {
+      "xml_index": 361,
+      "doknr": "BJNR321010994BJNE030201377",
+      "anzeige": "§ 264",
+      "identisch": true,
+      "zeichen": 895,
+      "sha256": "1bd918030369f2f5ff31457811d2436f5a9ddaeca1f40196a5ed2471cfa16027"
+    },
+    {
+      "xml_index": 362,
+      "doknr": "BJNR321010994BJNE030300000",
+      "anzeige": "§ 265",
+      "identisch": true,
+      "zeichen": 211,
+      "sha256": "93041bbc75dcaae7bbef3e4562fc15347a8b8565dd4cba2785b6a8b0132ab1b1"
+    },
+    {
+      "xml_index": 363,
+      "doknr": "BJNR321010994BJNE030400000",
+      "anzeige": "§ 266",
+      "identisch": true,
+      "zeichen": 777,
+      "sha256": "060074fb12ec8b704999a8fcf63fdbe89944309f5d9d598ba6e01671d16aa343"
+    },
+    {
+      "xml_index": 364,
+      "doknr": "BJNR321010994BJNE030502377",
+      "anzeige": "§ 267",
+      "identisch": true,
+      "zeichen": 560,
+      "sha256": "1edab7f735140ebdd83df4a39d4ce0bd2d1cd0df3ab3fdba2ea91dab2bcdc782"
+    },
+    {
+      "xml_index": 365,
+      "doknr": "BJNR321010994BJNE030600000",
+      "anzeige": "§ 268",
+      "identisch": true,
+      "zeichen": 1159,
+      "sha256": "89bcf6b2165ff6dce4014981c61d2b726c9f87ed4e841b42252e687be8ea126a"
+    },
+    {
+      "xml_index": 366,
+      "doknr": "BJNR321010994BJNE030701307",
+      "anzeige": "§ 269",
+      "identisch": true,
+      "zeichen": 505,
+      "sha256": "c9024219930c052976dbf4eee7fc75789170a41cb79c0c080b5495e77941e235"
+    },
+    {
+      "xml_index": 367,
+      "doknr": "BJNR321010994BJNE030803360",
+      "anzeige": "§ 270",
+      "identisch": true,
+      "zeichen": 348,
+      "sha256": "fea20665c97ea51191ff60b363613b2e81112ceabece5e88b8b5f2d76727a7c1"
+    },
+    {
+      "xml_index": 368,
+      "doknr": "BJNR321010994BJNE030902377",
+      "anzeige": "§ 271",
+      "identisch": true,
+      "zeichen": 688,
+      "sha256": "60dcbfb458ac4744849502b2ab1c7b2bc5fd8ff7320d677dad682162582e3202"
+    },
+    {
+      "xml_index": 369,
+      "doknr": "BJNR321010994BJNG031000000",
+      "anzeige": "050020040Vierter AbschnittFormwechsel rechtsfähiger Vereine",
+      "identisch": true,
+      "zeichen": 47,
+      "sha256": "f61d5a0cf3b6a820e537dac2684c0ebd97f8361d686231b965174f98251b9464"
+    },
+    {
+      "xml_index": 370,
+      "doknr": "BJNR321010994BJNG040300000",
+      "anzeige": "050020040010Erster UnterabschnittAllgemeine Vorschriften",
+      "identisch": true,
+      "zeichen": 42,
+      "sha256": "1fea7641863b0db76d6f93052242462a9585e62d461cbdffb595cb9af2547c40"
+    },
+    {
+      "xml_index": 371,
+      "doknr": "BJNR321010994BJNE031101360",
+      "anzeige": "§ 272",
+      "identisch": true,
+      "zeichen": 287,
+      "sha256": "4722ef3619331b20d209cc7471e78bc56a0fbb6f7b947a0c831e3165f9c767e6"
+    },
+    {
+      "xml_index": 372,
+      "doknr": "BJNR321010994BJNG040400000",
+      "anzeige": "050020040020Zweiter UnterabschnittFormwechsel in eine Kapitalgesellschaft",
+      "identisch": true,
+      "zeichen": 57,
+      "sha256": "d9c703fb04388d2f09a973fbb082b0f457846469889c41c380f8c01b7107196a"
+    },
+    {
+      "xml_index": 373,
+      "doknr": "BJNR321010994BJNE031203140",
+      "anzeige": "§ 273",
+      "identisch": true,
+      "zeichen": 266,
+      "sha256": "244b6831e2f1a3a63961907a7601ccd01053ec76ebdac47ecd5a3bcc301c1323"
+    },
+    {
+      "xml_index": 374,
+      "doknr": "BJNR321010994BJNE031302140",
+      "anzeige": "§ 274",
+      "identisch": true,
+      "zeichen": 346,
+      "sha256": "bac74a9b8b616aecffeb804e2db2bde7106f8173d8381f1be5f796a574e8e90c"
+    },
+    {
+      "xml_index": 375,
+      "doknr": "BJNR321010994BJNE031402360",
+      "anzeige": "§ 275",
+      "identisch": true,
+      "zeichen": 834,
+      "sha256": "b381f443f0e018f8143bc57a31ac06089074a2dbbe84753ff6f33fe299010397"
+    },
+    {
+      "xml_index": 376,
+      "doknr": "BJNR321010994BJNE031502360",
+      "anzeige": "§ 276",
+      "identisch": true,
+      "zeichen": 882,
+      "sha256": "1ced67a62f621c8a3e40fdf996571c2867ab1eb218c4bbacaa194d9f2eb7113f"
+    },
+    {
+      "xml_index": 377,
+      "doknr": "BJNR321010994BJNE031600000",
+      "anzeige": "§ 277",
+      "identisch": true,
+      "zeichen": 121,
+      "sha256": "da7a1c1c0c8a0f6f4e253f020bba2b51bc98e84e6d862a4dd6afd0077695811c"
+    },
+    {
+      "xml_index": 378,
+      "doknr": "BJNR321010994BJNE031700000",
+      "anzeige": "§ 278",
+      "identisch": true,
+      "zeichen": 583,
+      "sha256": "d130a72db8d469069b7d2724d1d1c21b698b2ec7377cba63ac34788442ec07ae"
+    },
+    {
+      "xml_index": 379,
+      "doknr": "BJNR321010994BJNE031801377",
+      "anzeige": "§ 279",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "8242a566a9ed33fcebc04131de75dff51d5126b72dfccaedd93ccb02f186b50f"
+    },
+    {
+      "xml_index": 380,
+      "doknr": "BJNR321010994BJNE031900000",
+      "anzeige": "§ 280",
+      "identisch": true,
+      "zeichen": 191,
+      "sha256": "96c4e6f6996bcaf80548b94106396f4432d80a2982e09fa9cc5f3fea97157038"
+    },
+    {
+      "xml_index": 381,
+      "doknr": "BJNR321010994BJNE032000000",
+      "anzeige": "§ 281",
+      "identisch": true,
+      "zeichen": 464,
+      "sha256": "40e8020aa71c06d75ec119e12a06dad8c653278fd5e7143372802aed2f00f374"
+    },
+    {
+      "xml_index": 382,
+      "doknr": "BJNR321010994BJNE032101307",
+      "anzeige": "§ 282",
+      "identisch": true,
+      "zeichen": 272,
+      "sha256": "fc6d121d3d404e64a05c2a3299cd1aa8a8284418a4d2d63388bfadde150e6335"
+    },
+    {
+      "xml_index": 383,
+      "doknr": "BJNR321010994BJNG040500000",
+      "anzeige": "050020040030Dritter UnterabschnittFormwechsel in eine eingetragene Genossenschaft",
+      "identisch": true,
+      "zeichen": 64,
+      "sha256": "868c342f99a1aced323b5d23fbb1dd5a94476befb37612ae61d66d1ac5cd3938"
+    },
+    {
+      "xml_index": 384,
+      "doknr": "BJNR321010994BJNE032202140",
+      "anzeige": "§ 283",
+      "identisch": true,
+      "zeichen": 348,
+      "sha256": "01acdddb0cf146eb6c9b32885792e4872f10583fb2768663ec446f0848f0ded2"
+    },
+    {
+      "xml_index": 385,
+      "doknr": "BJNR321010994BJNE032302360",
+      "anzeige": "§ 284",
+      "identisch": true,
+      "zeichen": 430,
+      "sha256": "6dc9da769df1084ef5f790d5991b8fc19e04818a98f290f5af2e75d49f764b5f"
+    },
+    {
+      "xml_index": 386,
+      "doknr": "BJNR321010994BJNE032401360",
+      "anzeige": "§ 285",
+      "identisch": true,
+      "zeichen": 338,
+      "sha256": "b0a78d8060e9abcf7ee5ed34c68dd86ea6e866002cd5518251557488f0953fed"
+    },
+    {
+      "xml_index": 387,
+      "doknr": "BJNR321010994BJNE032500000",
+      "anzeige": "§ 286",
+      "identisch": true,
+      "zeichen": 97,
+      "sha256": "8ba654d9a4afaa6219ee7bc63f672242a788a722a43d3e61379b5c22e052f55b"
+    },
+    {
+      "xml_index": 388,
+      "doknr": "BJNR321010994BJNE032601377",
+      "anzeige": "§ 287",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "53fa0ca594c52cd347832132397c23edde00dea3e1438bc623f234138002b88b"
+    },
+    {
+      "xml_index": 389,
+      "doknr": "BJNR321010994BJNE032702360",
+      "anzeige": "§ 288",
+      "identisch": true,
+      "zeichen": 446,
+      "sha256": "2416af8ca26b92c6d758ac79cfb3e6527967ad1fb4a03a6ea0819122f838734e"
+    },
+    {
+      "xml_index": 390,
+      "doknr": "BJNR321010994BJNE032801377",
+      "anzeige": "§ 289",
+      "identisch": true,
+      "zeichen": 274,
+      "sha256": "b6746e6da57cd06f287bdb948527489a83f768dedfa47f9a2a9739918fd7c8ca"
+    },
+    {
+      "xml_index": 391,
+      "doknr": "BJNR321010994BJNE032901307",
+      "anzeige": "§ 290",
+      "identisch": true,
+      "zeichen": 112,
+      "sha256": "2f93fa09a87019db4803d953280013200dfb1d09b32cf642ca3f45c147bf44ae"
+    },
+    {
+      "xml_index": 392,
+      "doknr": "BJNR321010994BJNG033000000",
+      "anzeige": "050020050Fünfter AbschnittFormwechsel von Versicherungsvereinen auf Gegenseitigkeit",
+      "identisch": true,
+      "zeichen": 69,
+      "sha256": "f53d242c34aef1e5adb0a09e54a7fca8c3ed3b2d12f79c90356e502363730b47"
+    },
+    {
+      "xml_index": 393,
+      "doknr": "BJNR321010994BJNE033103360",
+      "anzeige": "§ 291",
+      "identisch": true,
+      "zeichen": 369,
+      "sha256": "12743cdb914cf211c9237b85b2a699ddf65af2264ce9a908e605ecd7b2440d6e"
+    },
+    {
+      "xml_index": 394,
+      "doknr": "BJNR321010994BJNE033201140",
+      "anzeige": "§ 292",
+      "identisch": true,
+      "zeichen": 371,
+      "sha256": "4e0714f5bd3965d38b4e3744fa60689eac6f3f9de6a4268bd47ba9b1ed627323"
+    },
+    {
+      "xml_index": 395,
+      "doknr": "BJNR321010994BJNE033301360",
+      "anzeige": "§ 293",
+      "identisch": true,
+      "zeichen": 450,
+      "sha256": "3f7f34c07cb74443c8e13dad4a3516f23a03b189770813511fc3c2e29459c578"
+    },
+    {
+      "xml_index": 396,
+      "doknr": "BJNR321010994BJNE033402360",
+      "anzeige": "§ 294",
+      "identisch": true,
+      "zeichen": 1443,
+      "sha256": "5a6e18fcfa3622d70671a0737338230f6c4517548ac4cb2219fb0dd6be412250"
+    },
+    {
+      "xml_index": 397,
+      "doknr": "BJNR321010994BJNE033600000",
+      "anzeige": "§ 295",
+      "identisch": true,
+      "zeichen": 116,
+      "sha256": "90473ba41bf3599936c7389a0f6686fbbdd2decfef89f0a339d4d9cdaa0c9033"
+    },
+    {
+      "xml_index": 398,
+      "doknr": "BJNR321010994BJNE033700000",
+      "anzeige": "§ 296",
+      "identisch": true,
+      "zeichen": 90,
+      "sha256": "1b8d5b87fb9ea5fe938a387f91665277c740b026dbd240f6fb111b5a6875a487"
+    },
+    {
+      "xml_index": 399,
+      "doknr": "BJNR321010994BJNE033801377",
+      "anzeige": "§ 297",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "4e6fe0cdd0b2383be31aad94cb6fbb746ada186efef6dd17c7b751bbc9d7a4fc"
+    },
+    {
+      "xml_index": 400,
+      "doknr": "BJNR321010994BJNE033900000",
+      "anzeige": "§ 298",
+      "identisch": true,
+      "zeichen": 155,
+      "sha256": "e6061edfc4d8c7345e9b704f47fa4d0a6d6e81aa9535aef2a458583f041f2f14"
+    },
+    {
+      "xml_index": 401,
+      "doknr": "BJNR321010994BJNE034000000",
+      "anzeige": "§ 299",
+      "identisch": true,
+      "zeichen": 595,
+      "sha256": "a4370693e508781875b10b5a35914ac567281a922d1603036b6f224116b30fff"
+    },
+    {
+      "xml_index": 402,
+      "doknr": "BJNR321010994BJNE034101307",
+      "anzeige": "§ 300",
+      "identisch": true,
+      "zeichen": 97,
+      "sha256": "00b41c38c4c9f56159f6c0d43e2fec1c0955aee1790ab549cdf16585dfb6e4ec"
+    },
+    {
+      "xml_index": 403,
+      "doknr": "BJNR321010994BJNG034200000",
+      "anzeige": "050020060Sechster AbschnittFormwechsel von Körperschaften und Anstalten des\nöffentlichen Rechts",
+      "identisch": true,
+      "zeichen": 78,
+      "sha256": "eb2432193fee94a86e9abdf00174b1a674d9b06429ee36326a8206a7694c0df8"
+    },
+    {
+      "xml_index": 404,
+      "doknr": "BJNR321010994BJNE034300000",
+      "anzeige": "§ 301",
+      "identisch": true,
+      "zeichen": 345,
+      "sha256": "a7a7c877d43678bb2b30b763ff78de1740a14ba9220f9bb0e3bd0d04806e65d5"
+    },
+    {
+      "xml_index": 405,
+      "doknr": "BJNR321010994BJNE034400000",
+      "anzeige": "§ 302",
+      "identisch": true,
+      "zeichen": 534,
+      "sha256": "14395fba1890884d6fd11c35ee9d6a0497953dacb0d379dbcea475e75c0b0561"
+    },
+    {
+      "xml_index": 406,
+      "doknr": "BJNR321010994BJNE034500000",
+      "anzeige": "§ 303",
+      "identisch": true,
+      "zeichen": 393,
+      "sha256": "1210f9a3bcf57484ae7307085285961d2a91abfdf97bd83c8c83cc996c6c9674"
+    },
+    {
+      "xml_index": 407,
+      "doknr": "BJNR321010994BJNE034600000",
+      "anzeige": "§ 304",
+      "identisch": true,
+      "zeichen": 178,
+      "sha256": "431905ff69b98d6a2318ed5036015a955df11fd8eb9574bf1cc9e405cbd88ac4"
+    },
+    {
+      "xml_index": 408,
+      "doknr": "BJNR321010994BJNG041500360",
+      "anzeige": "060Sechstes BuchGrenzüberschreitende Umwandlung",
+      "identisch": true,
+      "zeichen": 42,
+      "sha256": "191f086f2e041c6bb4607535d87c4eba0b473f0b000f723d1c614675588a2b97"
+    },
+    {
+      "xml_index": 409,
+      "doknr": "BJNR321010994BJNG041600360",
+      "anzeige": "060010Erster TeilGrenzüberschreitende Verschmelzung",
+      "identisch": true,
+      "zeichen": 43,
+      "sha256": "951d51ca7e652d4accf2ddfdea03646fe5584881e868879a43952fe570a04305"
+    },
+    {
+      "xml_index": 410,
+      "doknr": "BJNR321010994BJNE034703360",
+      "anzeige": "§ 305",
+      "identisch": true,
+      "zeichen": 846,
+      "sha256": "b2e332499a014c94a8a4c6d2aa6981421edcd080bbafdb7806521de0c5ae3968"
+    },
+    {
+      "xml_index": 411,
+      "doknr": "BJNR321010994BJNE040900360",
+      "anzeige": "§ 306",
+      "identisch": true,
+      "zeichen": 1699,
+      "sha256": "b52f5b088072627e77a774a4b9954ef91205318da7bbed3f4a082cd4bf56ed62"
+    },
+    {
+      "xml_index": 412,
+      "doknr": "BJNR321010994BJNE041000360",
+      "anzeige": "§ 307",
+      "identisch": true,
+      "zeichen": 3269,
+      "sha256": "171c228bfffc60cf84e3c74a7d3ef81980c95611ebf784821d7219b6ba210909"
+    },
+    {
+      "xml_index": 413,
+      "doknr": "BJNR321010994BJNE041100360",
+      "anzeige": "§ 308",
+      "identisch": true,
+      "zeichen": 2310,
+      "sha256": "51f7440998a49e2835fab6dcafcd18a53a7563debb349d6230d1725a38b61e01"
+    },
+    {
+      "xml_index": 414,
+      "doknr": "BJNR321010994BJNE041200360",
+      "anzeige": "§ 309",
+      "identisch": true,
+      "zeichen": 2460,
+      "sha256": "0d80087abdb9f5e22afb4609e5856ebc64187d4a0b538b45b58324f902e21868"
+    },
+    {
+      "xml_index": 415,
+      "doknr": "BJNR321010994BJNE041300360",
+      "anzeige": "§ 310",
+      "identisch": true,
+      "zeichen": 1774,
+      "sha256": "7fa35195831f4fb22a05826e273c2c11da7b7480336ae5a4cac03a39c98bd9e9"
+    },
+    {
+      "xml_index": 416,
+      "doknr": "BJNR321010994BJNE041401360",
+      "anzeige": "§ 311",
+      "identisch": true,
+      "zeichen": 582,
+      "sha256": "bba348e673c0fb2afe7a04724c065d3726aa4082eb8b615a1e2f126b6faba8fc"
+    },
+    {
+      "xml_index": 417,
+      "doknr": "BJNR321010994BJNE041500360",
+      "anzeige": "§ 312",
+      "identisch": true,
+      "zeichen": 536,
+      "sha256": "c791c0f15bf94a5e367125982a9b2ce0111b9bf1b5824f3d5c23569897bf29c2"
+    },
+    {
+      "xml_index": 418,
+      "doknr": "BJNR321010994BJNE041600360",
+      "anzeige": "§ 313",
+      "identisch": true,
+      "zeichen": 2232,
+      "sha256": "950136820a7fb7ef6879d2a427f0ecb8054a8f990c8ae059ef6ef90ab5ec37d2"
+    },
+    {
+      "xml_index": 419,
+      "doknr": "BJNR321010994BJNE041700360",
+      "anzeige": "§ 314",
+      "identisch": true,
+      "zeichen": 1358,
+      "sha256": "01a764590b29af598ce472756bd412eace466ad11c2cf7fcba5096ac84a8706d"
+    },
+    {
+      "xml_index": 420,
+      "doknr": "BJNR321010994BJNE041800360",
+      "anzeige": "§ 315",
+      "identisch": true,
+      "zeichen": 2095,
+      "sha256": "5213a7dc1f6e09c30aac5858c4a7c79471ec8aa28e1d82f238bc9fda57e9579e"
+    },
+    {
+      "xml_index": 421,
+      "doknr": "BJNR321010994BJNE041900360",
+      "anzeige": "§ 316",
+      "identisch": true,
+      "zeichen": 3173,
+      "sha256": "6edf1dfe05229fe58425278c322b94bffd56924cf051550b354dcaa87e53859d"
+    },
+    {
+      "xml_index": 422,
+      "doknr": "BJNR321010994BJNE042000360",
+      "anzeige": "§ 317",
+      "identisch": true,
+      "zeichen": 1120,
+      "sha256": "d895bf516e7a529b658b97f8321910fe74025dfc32d4177f242161d060612732"
+    },
+    {
+      "xml_index": 423,
+      "doknr": "BJNR321010994BJNE042100360",
+      "anzeige": "§ 318",
+      "identisch": true,
+      "zeichen": 2357,
+      "sha256": "4e31d77d1243e279edc8f782196bb1b08af694cbae48c6af39f3fa41e2e5ba3e"
+    },
+    {
+      "xml_index": 424,
+      "doknr": "BJNR321010994BJNE042200360",
+      "anzeige": "§ 319",
+      "identisch": true,
+      "zeichen": 836,
+      "sha256": "621e752a9dee33188b182a248fd51be5d1ba50ad76e2bccf2285a216c32f0ad4"
+    },
+    {
+      "xml_index": 425,
+      "doknr": "BJNR321010994BJNG041700360",
+      "anzeige": "060020Zweiter TeilGrenzüberschreitende Spaltung",
+      "identisch": true,
+      "zeichen": 39,
+      "sha256": "be3478050eb2a1b0f81fdd002356e826fb5cddb1ae0bef1c1baac7efdde779ee"
+    },
+    {
+      "xml_index": 426,
+      "doknr": "BJNR321010994BJNE042300360",
+      "anzeige": "§ 320",
+      "identisch": true,
+      "zeichen": 840,
+      "sha256": "d32b819163410f9ac3320113430a38fed6ac4652502e0c935313ed9fa0923c65"
+    },
+    {
+      "xml_index": 427,
+      "doknr": "BJNR321010994BJNE042400360",
+      "anzeige": "§ 321",
+      "identisch": true,
+      "zeichen": 576,
+      "sha256": "f886e6bf6a2bbf5f47a5160837dc574c683b513b98752654c9884ae14a57cc2e"
+    },
+    {
+      "xml_index": 428,
+      "doknr": "BJNR321010994BJNE042500360",
+      "anzeige": "§ 322",
+      "identisch": true,
+      "zeichen": 1313,
+      "sha256": "0dd67fd112f390b9f83bc54b437ddbc4e51af40b86bf7541355f76b68778dd91"
+    },
+    {
+      "xml_index": 429,
+      "doknr": "BJNR321010994BJNE042600360",
+      "anzeige": "§ 323",
+      "identisch": true,
+      "zeichen": 118,
+      "sha256": "93576b223c6fe22c90e9c70c17e7c935a2746650a2af00b33fae9eb23d957850"
+    },
+    {
+      "xml_index": 430,
+      "doknr": "BJNR321010994BJNE042700360",
+      "anzeige": "§ 324",
+      "identisch": true,
+      "zeichen": 565,
+      "sha256": "0522cd4616dce72d43f81baacd855a2e53edb144cca44888490461cd0b766e0f"
+    },
+    {
+      "xml_index": 431,
+      "doknr": "BJNR321010994BJNE042800360",
+      "anzeige": "§ 325",
+      "identisch": true,
+      "zeichen": 285,
+      "sha256": "11e66085cca50e55e53b067fa74a4f11fe095429345baa16993ede46e7135828"
+    },
+    {
+      "xml_index": 432,
+      "doknr": "BJNR321010994BJNE042900360",
+      "anzeige": "§ 326",
+      "identisch": true,
+      "zeichen": 726,
+      "sha256": "85f152555350a0445013916631a88d5148f10be44510c2ef176ad17eccab556b"
+    },
+    {
+      "xml_index": 433,
+      "doknr": "BJNR321010994BJNE043000360",
+      "anzeige": "§ 327",
+      "identisch": true,
+      "zeichen": 129,
+      "sha256": "35d29fad480818350def7dc82efd4ad45ceb174f14dd71ddb429999e900e9435"
+    },
+    {
+      "xml_index": 434,
+      "doknr": "BJNR321010994BJNE043100360",
+      "anzeige": "§ 328",
+      "identisch": true,
+      "zeichen": 117,
+      "sha256": "f273aff56f4e060debd847c35023c6a0e82fee0b72659108a163bdf882518dec"
+    },
+    {
+      "xml_index": 435,
+      "doknr": "BJNR321010994BJNE043200360",
+      "anzeige": "§ 329",
+      "identisch": true,
+      "zeichen": 356,
+      "sha256": "735580d28bdc819e7d5a9e8ed4e9e22eb742a468651fc070d70395359a3174ee"
+    },
+    {
+      "xml_index": 436,
+      "doknr": "BJNR321010994BJNE043300360",
+      "anzeige": "§ 330",
+      "identisch": true,
+      "zeichen": 581,
+      "sha256": "2f803e89d6cccbac7054a760941b57f1716fa9eb4a019adb3a052912514b6322"
+    },
+    {
+      "xml_index": 437,
+      "doknr": "BJNR321010994BJNE043400360",
+      "anzeige": "§ 331",
+      "identisch": true,
+      "zeichen": 1562,
+      "sha256": "a552b7b1700ab3556fad018c4d34bc3681f532e70d59cd4faa300cf6e21e830e"
+    },
+    {
+      "xml_index": 438,
+      "doknr": "BJNR321010994BJNE043500360",
+      "anzeige": "§ 332",
+      "identisch": true,
+      "zeichen": 833,
+      "sha256": "5db6426a36af55e1cf72fcd08b1f13aa140070ce1bc1c68f24d165b18b243b73"
+    },
+    {
+      "xml_index": 439,
+      "doknr": "BJNR321010994BJNG041800360",
+      "anzeige": "060030Dritter TeilGrenzüberschreitender Formwechsel",
+      "identisch": true,
+      "zeichen": 43,
+      "sha256": "f0b5ef7a764fda9a4d2e7c2112252dd9bad6063b8d387adc9237de5502aa8c21"
+    },
+    {
+      "xml_index": 440,
+      "doknr": "BJNR321010994BJNE043600360",
+      "anzeige": "§ 333",
+      "identisch": true,
+      "zeichen": 1269,
+      "sha256": "de960b2e5e40e3f751bdc4c3b9b6fa5ce56296488a4ea936f24c2ea78784e8bc"
+    },
+    {
+      "xml_index": 441,
+      "doknr": "BJNR321010994BJNE043700360",
+      "anzeige": "§ 334",
+      "identisch": true,
+      "zeichen": 627,
+      "sha256": "5203fc297d3d99e9a1686447b15d35a97c70bb2efa4cffed570215cf65860ea2"
+    },
+    {
+      "xml_index": 442,
+      "doknr": "BJNR321010994BJNE043800360",
+      "anzeige": "§ 335",
+      "identisch": true,
+      "zeichen": 1751,
+      "sha256": "9f3f684b04bdec9f6f3c080bf51ec32cdd08d697f6a673d28b443af981daccb9"
+    },
+    {
+      "xml_index": 443,
+      "doknr": "BJNR321010994BJNE043900360",
+      "anzeige": "§ 336",
+      "identisch": true,
+      "zeichen": 121,
+      "sha256": "c713a9250a2d3a5551d46d0d9ffb47824c3d321e13feb3cc8d1586b5667ce325"
+    },
+    {
+      "xml_index": 444,
+      "doknr": "BJNR321010994BJNE044000360",
+      "anzeige": "§ 337",
+      "identisch": true,
+      "zeichen": 791,
+      "sha256": "99251247bf7c5e21ffa76be75b7b661d8f531d66584b94b5d2f7d477dfddaab0"
+    },
+    {
+      "xml_index": 445,
+      "doknr": "BJNR321010994BJNE044100360",
+      "anzeige": "§ 338",
+      "identisch": true,
+      "zeichen": 399,
+      "sha256": "254f319fda105151440833fdf1abb65f23dade7260a2717d224f7fc6ae01ea9e"
+    },
+    {
+      "xml_index": 446,
+      "doknr": "BJNR321010994BJNE044200360",
+      "anzeige": "§ 339",
+      "identisch": true,
+      "zeichen": 448,
+      "sha256": "4698a6425f0e4679e58d07eae707deb03194e17db1ed12fc460e6b55abaa29be"
+    },
+    {
+      "xml_index": 447,
+      "doknr": "BJNR321010994BJNE044300360",
+      "anzeige": "§ 340",
+      "identisch": true,
+      "zeichen": 2181,
+      "sha256": "f01e0f6f9e4990830bb66fe41a0ff8bc69f30ca6e5b7d6d018df36911b007846"
+    },
+    {
+      "xml_index": 448,
+      "doknr": "BJNR321010994BJNE044400360",
+      "anzeige": "§ 341",
+      "identisch": true,
+      "zeichen": 532,
+      "sha256": "c590b73d034b4455f18911c3a8fc16d73a836d1886ce228acc26bbbc56178323"
+    },
+    {
+      "xml_index": 449,
+      "doknr": "BJNR321010994BJNE044500360",
+      "anzeige": "§ 342",
+      "identisch": true,
+      "zeichen": 2165,
+      "sha256": "98705965ff741f0b8801d3127305f3d2f8658c99bccb34b67592d70d2aaf448f"
+    },
+    {
+      "xml_index": 450,
+      "doknr": "BJNR321010994BJNE044600360",
+      "anzeige": "§ 343",
+      "identisch": true,
+      "zeichen": 3079,
+      "sha256": "7287724855a520b3d6fc77078857e50226a2936b9d308b0b79c71d258c35c3b2"
+    },
+    {
+      "xml_index": 451,
+      "doknr": "BJNR321010994BJNE044700360",
+      "anzeige": "§ 344",
+      "identisch": true,
+      "zeichen": 1119,
+      "sha256": "f0dbb549074f3366dfca1eca3847584d84daab356f3cc7db9e4b022399122f7c"
+    },
+    {
+      "xml_index": 452,
+      "doknr": "BJNR321010994BJNE044800360",
+      "anzeige": "§ 345",
+      "identisch": true,
+      "zeichen": 1227,
+      "sha256": "39d79fad28d6a03331321ca10932a396ee554bf36fb1bd09fff10995c4735055"
+    },
+    {
+      "xml_index": 453,
+      "doknr": "BJNR321010994BJNG040702360",
+      "anzeige": "070Siebentes BuchStrafvorschriften und Zwangsgelder",
+      "identisch": true,
+      "zeichen": 45,
+      "sha256": "c89d737fdd36777ea5abab017556f5853596c422a473a15326eba222fb26b34b"
+    },
+    {
+      "xml_index": 454,
+      "doknr": "BJNR321010994BJNE035504360",
+      "anzeige": "§ 346",
+      "identisch": true,
+      "zeichen": 1514,
+      "sha256": "6edc8a0e47bf82c8424ee6f379af4456121179dc6dc922658c0a26fcc1179a48"
+    },
+    {
+      "xml_index": 455,
+      "doknr": "BJNR321010994BJNE035601360",
+      "anzeige": "§ 347",
+      "identisch": true,
+      "zeichen": 484,
+      "sha256": "89ed892ac82a89d582a7c091b228f9634cbb0d2073d19348e49e7fd459466010"
+    },
+    {
+      "xml_index": 456,
+      "doknr": "BJNR321010994BJNE038801360",
+      "anzeige": "§ 348",
+      "identisch": true,
+      "zeichen": 389,
+      "sha256": "c95c663d9f32365889835d267e1263f0281f215309f955f030e1999adc31fc35"
+    },
+    {
+      "xml_index": 457,
+      "doknr": "BJNR321010994BJNE035704360",
+      "anzeige": "§ 349",
+      "identisch": true,
+      "zeichen": 1578,
+      "sha256": "419948e0d7647ef2857a16d88a8062d11c02c5f2acdd7a3ed0318e3f4253d6a6"
+    },
+    {
+      "xml_index": 458,
+      "doknr": "BJNR321010994BJNE035804360",
+      "anzeige": "§ 350",
+      "identisch": true,
+      "zeichen": 939,
+      "sha256": "f2b56455950654b6d2b7e8fffb20ca9dde4d5ce3f1177e528cfcf3ad2c7120ee"
+    },
+    {
+      "xml_index": 459,
+      "doknr": "BJNR321010994BJNG040802360",
+      "anzeige": "080Achtes BuchÜbergangs- und Schlußvorschriften",
+      "identisch": true,
+      "zeichen": 41,
+      "sha256": "062f553e16c9a56f82f5dfa778a6e72a28f11e003487d5552cf7ddf1256b79c7"
+    },
+    {
+      "xml_index": 460,
+      "doknr": "BJNR321010994BJNE035901360",
+      "anzeige": "§ 351",
+      "identisch": true,
+      "zeichen": 346,
+      "sha256": "0dcffa583ba39620ef7c86d444cb6349b343cd721c2dfdbeddfd4bf390f6aa7e"
+    },
+    {
+      "xml_index": 461,
+      "doknr": "BJNR321010994BJNE036002360",
+      "anzeige": "§ 352",
+      "identisch": true,
+      "zeichen": 1323,
+      "sha256": "f8f482ecb5d7a43cbd507f9db5632c342cd7d0fd51ac30115f84d695bd018c85"
+    },
+    {
+      "xml_index": 462,
+      "doknr": "BJNR321010994BJNE036102360",
+      "anzeige": "§ 353",
+      "identisch": true,
+      "zeichen": 1086,
+      "sha256": "55596b036aca96fd598ded58115cb29380579d2ac25035e97862578dd6a8eda3"
+    },
+    {
+      "xml_index": 463,
+      "doknr": "BJNR321010994BJNE036305360",
+      "anzeige": "§ 354",
+      "identisch": true,
+      "zeichen": 1066,
+      "sha256": "bbacb46bc74c7787e8f5f90cc73fcb276fa6d9afcbe68b759208aa5ec70aa6f1"
+    },
+    {
+      "xml_index": 464,
+      "doknr": "BJNR321010994BJNE040800360",
+      "anzeige": "§ 355",
+      "identisch": true,
+      "zeichen": 1017,
+      "sha256": "383e29c6cc56d57861cb671b9a127f018b65a7349ba6a5e87e42b2dd94d93df0"
+    }
+  ]
+}

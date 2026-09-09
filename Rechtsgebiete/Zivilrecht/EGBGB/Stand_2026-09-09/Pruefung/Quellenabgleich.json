@@ -1,0 +1,258 @@
+{
+  "kuerzel": "EGBGB",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/bgbeg/",
+  "pdf_url": "https://www.gesetze-im-internet.de/bgbeg/EGBGB.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html",
+  "original_dateiname": "EGBGB.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 154,
+  "dateien": [
+    {
+      "datei": "Quellen/EGBGB_aktuell.pdf",
+      "sha256": "9a4a0234d93fa68326f8f837af600e010c6f56e59582803d19f3eb028c820f6f"
+    },
+    {
+      "datei": "Quellen/EGBGB_bereitgestellt.pdf",
+      "sha256": "9a4a0234d93fa68326f8f837af600e010c6f56e59582803d19f3eb028c820f6f"
+    },
+    {
+      "datei": "Quellen/EGBGB_PDF_Rohtext.txt",
+      "sha256": "063984e5981662d838013da36ee1d0106ffea041572abbea308d291f1b72f205"
+    },
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "ce1ea751a6024c8f16b5bca3e0c32b6a66bab81e2df9d9c319eff388f65dbb0a"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "7bf9a692791b03fceeb432a82860fef2d79d613764366fb9ef954d11e0739a04"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_01.jpg",
+      "sha256": "69e1fc3c8e47caf7c6a1835aaaa5a9913d1ffe1657f910c0bac75dc0b98f4b8a"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_02.jpg",
+      "sha256": "622b30d005115d3e11fe658e61a09a3b6510f5347426ab0ac9eab8b2e09fd772"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_02a.jpg",
+      "sha256": "8aba11e810d8fae3e2b379d23eaaec1e49eef8265925d2428f1b458b77fd62c2"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_02b.jpg",
+      "sha256": "13a1cff6d84d253408238acc704516f7cc58c904ee7bcefd54566eba4306907e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_02c.jpg",
+      "sha256": "8fecf96a1fb4a3a3ee2f3431a209a717332e8eab503471c2f484ee0b6df57594"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_03.jpg",
+      "sha256": "33dcef3d4a2ee179c0e4e15b5f79951b08ccd91d53074713525df668dc9b132e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_04.jpg",
+      "sha256": "78ba07adf36d39b54a7a8e325f8d0ff0985c1c0b4462a80e658da78cc838aa05"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_04a.jpg",
+      "sha256": "3fe3ef07f7f481a023b1400555ab1f0703148eea0a5a17f8c30332ad97cdc5fb"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_04b.jpg",
+      "sha256": "26855af0151c962ba7befc84ff7d20b7ba1ab36ad051bcdc450f09ffcac94b89"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_04c.jpg",
+      "sha256": "0a636457679c2ba2bd7f40218f629efddf881ba0f85f4e680f3f0271a0e5914b"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_04d.jpg",
+      "sha256": "d2183eb49af2d2924df92527c2d4169eeec15427de7ad78f7ce226018e2f280f"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_04e.jpg",
+      "sha256": "a3a1ee997c64a16619e801d7d28f480a281dd869d20e55c4eb0fa1edcad36ca3"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_04f.jpg",
+      "sha256": "415c9e30a31919326269190e9180fe998e5c326cc784d1a0d55a8390f44ed62f"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_05.jpg",
+      "sha256": "e19780f75639abe11dfefedbf3ce4fa99af6cc6433e725fe4e263540645b2dfb"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_05a.jpg",
+      "sha256": "48db52549299a3778309ef3eff029d8bbe07cb62bb7d03910aa793b611dd9438"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_05b.jpg",
+      "sha256": "fe3154c15a564bcff7f23fd361b2cd16a5f897fa48e63a84bb99df104902607a"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_05c.jpg",
+      "sha256": "463b69000270040d7497ac19cb7c65e1bfe45adb70da9179e81dc2e5b4a4dc33"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_05d.jpg",
+      "sha256": "add6f201c2d5f3e2eff62bfecf814b6c6a1fb3b8ee23d028109341feff0f7e3d"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_05e.jpg",
+      "sha256": "b20af6aae25e5095d212aa3404ec2ef3ff553a794a78c762bfa9e9c320e43b24"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_05f.jpg",
+      "sha256": "9938dd6f43e4e1d9889e8592ccd564e5c41b39c33d79a5932e11c295b9eb94ed"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_05g.jpg",
+      "sha256": "07c677da56067ec6f725c8d1cdf0eaea3a80a7759a26cf9d075337f88de4bcd8"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2016_ZiK_06.jpg",
+      "sha256": "21b14b34f314e67608cd9b559407ee52c38451ed73b8cb05d6e241cde5e6c23e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2017_ZiK_1.jpg",
+      "sha256": "69e1fc3c8e47caf7c6a1835aaaa5a9913d1ffe1657f910c0bac75dc0b98f4b8a"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2017_ZiK_2.jpg",
+      "sha256": "622b30d005115d3e11fe658e61a09a3b6510f5347426ab0ac9eab8b2e09fd772"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2017_ZiK_3.jpg",
+      "sha256": "33dcef3d4a2ee179c0e4e15b5f79951b08ccd91d53074713525df668dc9b132e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2017_ZiK_4.jpg",
+      "sha256": "78ba07adf36d39b54a7a8e325f8d0ff0985c1c0b4462a80e658da78cc838aa05"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2017_ZiK_5.jpg",
+      "sha256": "e19780f75639abe11dfefedbf3ce4fa99af6cc6433e725fe4e263540645b2dfb"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2017_ZiK_6.jpg",
+      "sha256": "21b14b34f314e67608cd9b559407ee52c38451ed73b8cb05d6e241cde5e6c23e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2017_ZiK_7.jpg",
+      "sha256": "53e1a7f6560f6414601066de518700f85621ada9e5297cc3f194e5e66b38331a"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_01.jpg",
+      "sha256": "69e1fc3c8e47caf7c6a1835aaaa5a9913d1ffe1657f910c0bac75dc0b98f4b8a"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_02.jpg",
+      "sha256": "622b30d005115d3e11fe658e61a09a3b6510f5347426ab0ac9eab8b2e09fd772"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_02a.jpg",
+      "sha256": "8aba11e810d8fae3e2b379d23eaaec1e49eef8265925d2428f1b458b77fd62c2"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_02b.jpg",
+      "sha256": "13a1cff6d84d253408238acc704516f7cc58c904ee7bcefd54566eba4306907e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_02c.jpg",
+      "sha256": "8fecf96a1fb4a3a3ee2f3431a209a717332e8eab503471c2f484ee0b6df57594"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_03.jpg",
+      "sha256": "33dcef3d4a2ee179c0e4e15b5f79951b08ccd91d53074713525df668dc9b132e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_04.jpg",
+      "sha256": "78ba07adf36d39b54a7a8e325f8d0ff0985c1c0b4462a80e658da78cc838aa05"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_04a.jpg",
+      "sha256": "3fe3ef07f7f481a023b1400555ab1f0703148eea0a5a17f8c30332ad97cdc5fb"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_04b.jpg",
+      "sha256": "26855af0151c962ba7befc84ff7d20b7ba1ab36ad051bcdc450f09ffcac94b89"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_05.jpg",
+      "sha256": "e19780f75639abe11dfefedbf3ce4fa99af6cc6433e725fe4e263540645b2dfb"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_06.jpg",
+      "sha256": "21b14b34f314e67608cd9b559407ee52c38451ed73b8cb05d6e241cde5e6c23e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_07.jpg",
+      "sha256": "53e1a7f6560f6414601066de518700f85621ada9e5297cc3f194e5e66b38331a"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_07a.jpg",
+      "sha256": "4fa147cf79c6e101a25f3cae3206b4dfa9d57d811e3f4111e1449b4994379a28"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_07b.jpg",
+      "sha256": "cd7a8fe7d1687f4ff75a15dd504121c38e5bf78083e023a0b82031ab22a6665c"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_07c.jpg",
+      "sha256": "53ab9613a0d5e9748d4dbc43bdd76246ad2816b99a686fcae216733e9cc8f7f5"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_07d.jpg",
+      "sha256": "9e0b4a66595fff7334515377ea5e2d90a28c53ce6b89a3b74fdb90609a9cedaa"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_07e.jpg",
+      "sha256": "7375bcf27b91686af902845b43c7791b64ae924ec1bb6dae0fbdad3835ed265e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_07f.jpg",
+      "sha256": "1aa93fa0c627567a72dbeaaaa2d738702a96be2ca01d2e031cac99139ab17a22"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_ZiK_07g.jpg",
+      "sha256": "7919dd650347abcbec22a64da694ca2c2fa4ddf72e44a5e19e6cad362936586e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2026_ZiK_03.jpg",
+      "sha256": "33dcef3d4a2ee179c0e4e15b5f79951b08ccd91d53074713525df668dc9b132e"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2026_ZiK_06.jpg",
+      "sha256": "21b14b34f314e67608cd9b559407ee52c38451ed73b8cb05d6e241cde5e6c23e"
+    },
+    {
+      "datei": "Quellen/XML/BJNR006049896.xml",
+      "sha256": "c57de5f1ae86a97cb57b15e78d7d33dc16c82203bbcf16453385256ff8438a33"
+    },
+    {
+      "datei": "Quellen/XML/zik_gif_ZiK_01.gif",
+      "sha256": "8e6b604cadd0913d6a5f550edd5010f68a5bb420849db66c4f63d494c4066d3c"
+    },
+    {
+      "datei": "Quellen/XML/zik_gif_ZiK_02.gif",
+      "sha256": "9e0e764be0ed9278ff78e0a148902b0bf88fcdc386182317498f8776b761eb99"
+    },
+    {
+      "datei": "Quellen/XML/zik_gif_ZiK_04.gif",
+      "sha256": "89ed1f345d9c73cbd000ae83236cf71cb9ec95a7fbb3fe1785582ad52792a003"
+    },
+    {
+      "datei": "Quellen/XML/zik_gif_ZiK_05.gif",
+      "sha256": "bd46fd9749bca0fbf5773218b746794fa348d474eaac197b3f6f32583f028e9a"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "7f23446654d5a12bc2143e58a0e00f10e0a8f051f7e00d09b5a07505da2e767b"
+    }
+  ]
+}

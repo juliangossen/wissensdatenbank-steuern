@@ -1,0 +1,42 @@
+{
+  "kuerzel": "UmwG",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/umwg_1995/",
+  "pdf_url": "https://www.gesetze-im-internet.de/umwg_1995/UmwG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/umwg_1995/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html",
+  "original_dateiname": "UmwG.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 86,
+  "dateien": [
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "43262f46c69778406dfb731b63989fab8859deddd224b9d87ca04a90b69984ac"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "3db544ccb4a33937d938f817fe42e00e0ecacd24d8ec7b6ab2462c7346d15096"
+    },
+    {
+      "datei": "Quellen/UmwG_aktuell.pdf",
+      "sha256": "18daee2bd1423c97bb8c36295b8d53060433cf0fbf9600e96b382f06ac4c8f9e"
+    },
+    {
+      "datei": "Quellen/UmwG_bereitgestellt.pdf",
+      "sha256": "18daee2bd1423c97bb8c36295b8d53060433cf0fbf9600e96b382f06ac4c8f9e"
+    },
+    {
+      "datei": "Quellen/UmwG_PDF_Rohtext.txt",
+      "sha256": "b920c85110413706d576f7cf729ce8d007074b3c05302a5babe15434b260c9c6"
+    },
+    {
+      "datei": "Quellen/XML/BJNR321010994.xml",
+      "sha256": "211ff91490d17f3570cd749c5eebf2cc7fc8a29c31c061cff6abadb0f2fba03f"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "d3e2d9ee97b0c06ef577b8549b925c3613f0f256c1ff7ab6a72ffdc250efb2d8"
+    }
+  ]
+}

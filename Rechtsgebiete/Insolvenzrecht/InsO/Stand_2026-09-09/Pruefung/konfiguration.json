@@ -1,0 +1,24 @@
+{
+  "kuerzel": "InsO",
+  "titel": "Insolvenzordnung",
+  "rechtsgebiet": "Insolvenzrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/inso/",
+  "quelle_html": "https://www.gesetze-im-internet.de/inso/BJNR286600994.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/inso/InsO.pdf",
+  "lokale_pdf": "InsO.pdf",
+  "aktuelle_pdf": "InsO_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR286600994.xml",
+  "ausfertigungsdatum": "1994-10-05",
+  "stand": [
+    "Zuletzt geändert durch Art. 6 G v. 15.7.2024 I Nr. 236",
+    "Mittelbare Änderung durch Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt"
+  ],
+  "vollzitat": "\"Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist\"",
+  "pdf_seiten": 90,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260506174635",
+  "sha256_lokale_pdf": "4ed5d81dafd60986a38ff26587bd632954eae2163f1d783acd481f4d44c404f2",
+  "sha256_aktuelle_pdf": "4ed5d81dafd60986a38ff26587bd632954eae2163f1d783acd481f4d44c404f2",
+  "sha256_xml": "ae6638dba2e175356b37b77fed6b5800eb2f2ffc154f1225948cffc113ac6f49"
+}

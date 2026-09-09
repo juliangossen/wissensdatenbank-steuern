@@ -1,0 +1,215 @@
+[
+  {
+    "kuerzel": "AAG",
+    "titel": "Gesetz über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung",
+    "bereich": "Sozialrecht",
+    "original": "AAG.pdf",
+    "original_dateiname": "AAG.pdf",
+    "markdown": "Rechtsgebiete/Sozialrecht/AAG/Stand_2026-09-09/AAG.md",
+    "pruefbericht": "Rechtsgebiete/Sozialrecht/AAG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 5,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 7a G v. 24.7.2026 I Nr. 228"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/aufag/",
+    "sha256_original_pdf": "61994cad2908a15473c00fd83fad37861d6f1085c596537ae731ac09738cadba",
+    "sha256_markdown": "2b36e583238c3f6b5022aa10a35164cb0d72a75ca1a893dc5e5c739aa74f5a2b"
+  },
+  {
+    "kuerzel": "AktG",
+    "titel": "Aktiengesetz",
+    "bereich": "Gesellschaftsrecht",
+    "original": "AktG.pdf",
+    "original_dateiname": "AktG.pdf",
+    "markdown": "Rechtsgebiete/Gesellschaftsrecht/AktG/Stand_2026-09-09/AktG.md",
+    "pruefbericht": "Rechtsgebiete/Gesellschaftsrecht/AktG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 131,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/aktg/",
+    "sha256_original_pdf": "791f5e6e371a0e2eeb8eb92c281065147fba54e4329444728427f58c27a01bd0",
+    "sha256_markdown": "6142b561f746eaad9bd230899e453bfd39d8860bf100d0d3c08697f98c242e89"
+  },
+  {
+    "kuerzel": "DVStB",
+    "titel": "Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften",
+    "bereich": "Steuerrecht / Berufsrecht",
+    "original": "DVStB.pdf",
+    "original_dateiname": "DVStB.pdf",
+    "markdown": "Rechtsgebiete/Steuerrecht/Berufsrecht/DVStB/Stand_2026-09-09/DVStB.md",
+    "pruefbericht": "Rechtsgebiete/Steuerrecht/Berufsrecht/DVStB/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 16,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 4 V v. 19.12.2025 I Nr. 372"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/stbdv/",
+    "sha256_original_pdf": "ca5e29edaa78e107e69280dd1c5fb635a9bd2e685c5a20b259bd949fe10dcc26",
+    "sha256_markdown": "ab16e0f397df5bdb5602c3e76cf725aae6a1c97c1f617446f740497a4c60f20e"
+  },
+  {
+    "kuerzel": "EGBGB",
+    "titel": "Einführungsgesetz zum Bürgerlichen Gesetzbuche",
+    "bereich": "Zivilrecht",
+    "original": "EGBGB.pdf",
+    "original_dateiname": "EGBGB.pdf",
+    "markdown": "Rechtsgebiete/Zivilrecht/EGBGB/Stand_2026-09-09/EGBGB.md",
+    "pruefbericht": "Rechtsgebiete/Zivilrecht/EGBGB/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 154,
+    "quellenstand": [
+      "Neugefasst durch Bek. v. 21.9.1994 I 2494; 1997, 1061;",
+      "zuletzt geändert durch Art. 1 G v. 2.7.2026 I Nr. 198",
+      "Änderung durch Art. 2 G v. 16.7.2026 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/bgbeg/",
+    "sha256_original_pdf": "9a4a0234d93fa68326f8f837af600e010c6f56e59582803d19f3eb028c820f6f",
+    "sha256_markdown": "78a18f7715f2f0ecf177f21280676a256bc946d1d887bc90c0a6fbc8be446eb3"
+  },
+  {
+    "kuerzel": "GmbHG",
+    "titel": "Gesetz betreffend die Gesellschaften mit beschränkter Haftung",
+    "bereich": "Gesellschaftsrecht",
+    "original": "GmbHG.pdf",
+    "original_dateiname": "GmbHG.pdf",
+    "markdown": "Rechtsgebiete/Gesellschaftsrecht/GmbHG/Stand_2026-09-09/GmbHG.md",
+    "pruefbericht": "Rechtsgebiete/Gesellschaftsrecht/GmbHG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 36,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 21 G v. 23.10.2024 I Nr. 323"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/gmbhg/",
+    "sha256_original_pdf": "81fba1a18a253e6da28f99cfde7d311511a162576082d7ee4e59683c40f127f8",
+    "sha256_markdown": "59ee7970ef3f311408f1d662eaffd30429011dbd3aa7d83822b0471743aa9832"
+  },
+  {
+    "kuerzel": "MiLoG",
+    "titel": "Gesetz zur Regelung eines allgemeinen Mindestlohns",
+    "bereich": "Arbeitsrecht",
+    "original": "MiLoG.pdf",
+    "original_dateiname": "MiLoG.pdf",
+    "markdown": "Rechtsgebiete/Arbeitsrecht/MiLoG/Stand_2026-09-09/MiLoG.md",
+    "pruefbericht": "Rechtsgebiete/Arbeitsrecht/MiLoG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 11,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 8 Abs. 3 G v. 12.5.2026 I Nr. 137"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/milog/",
+    "sha256_original_pdf": "738f2e35b2c7c3a47b2f8dc31407420b8671ca0d0fdf04a24bdb833adf31949e",
+    "sha256_markdown": "cfea35f837dc58d9c0ee7e1f6064c897406eb4489b7a7c2ffe9ba922593b0a14"
+  },
+  {
+    "kuerzel": "PAngV",
+    "titel": "Preisangabenverordnung",
+    "bereich": "Wettbewerbsrecht",
+    "original": "PAngV.pdf",
+    "original_dateiname": "PAngV.pdf",
+    "markdown": "Rechtsgebiete/Wettbewerbsrecht/PAngV/Stand_2026-09-09/PAngV.md",
+    "pruefbericht": "Rechtsgebiete/Wettbewerbsrecht/PAngV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 13,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 8 G v. 12.5.2026 I Nr. 139",
+      "Ersetzt V 720-17-1 v. 14.3.1985 I 580 (PAngV)"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/pangv_2022/",
+    "sha256_original_pdf": "fc8d84968214be8c50bf637e6ddf528b6bc09c48f9d599e8df0910287c9f7142",
+    "sha256_markdown": "f644c263af7883198b167dfdbf8582d1d6cf598cb431bed71f53ac777cfdca4c"
+  },
+  {
+    "kuerzel": "PublG",
+    "titel": "Gesetz über die Rechnungslegung von bestimmten Unternehmen und Konzernen",
+    "bereich": "Handelsrecht",
+    "original": "PublG.pdf",
+    "original_dateiname": "PublG.pdf",
+    "markdown": "Rechtsgebiete/Handelsrecht/PublG/Stand_2026-09-09/PublG.md",
+    "pruefbericht": "Rechtsgebiete/Handelsrecht/PublG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 13,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 59 G v. 10.8.2021 I 3436"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/publg/",
+    "sha256_original_pdf": "edd500689b70acc24120f81b1965c24c38a6a9779f1ea819a341b2acd84c6876",
+    "sha256_markdown": "a220b405638704cfd353c5e98dc2fe5289653200bc212fa7d1d554793a91a0ee"
+  },
+  {
+    "kuerzel": "SGB_4",
+    "titel": "Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",
+    "bereich": "Sozialrecht",
+    "original": "SGB_4.pdf",
+    "original_dateiname": "SGB_4.pdf",
+    "markdown": "Rechtsgebiete/Sozialrecht/SGB_4/Stand_2026-09-09/SGB_4.md",
+    "pruefbericht": "Rechtsgebiete/Sozialrecht/SGB_4/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 105,
+    "quellenstand": [
+      "Neugefasst durch Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;",
+      "zuletzt geändert durch Art. 2 G v. 24.7.2026 I Nr. 228"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/sgb_4/",
+    "sha256_original_pdf": "eb2891e82029f31a8332f6f6f13a1e47027f62672e8a008fd8d6dbaa605ca2b4",
+    "sha256_markdown": "e875d25135309eba67cc634af8700d91e748e976ee8720a5d52e502d739efff9"
+  },
+  {
+    "kuerzel": "StBerG",
+    "titel": "Steuerberatungsgesetz",
+    "bereich": "Steuerrecht / Berufsrecht",
+    "original": "StBerG.pdf",
+    "original_dateiname": "StBerG.pdf",
+    "markdown": "Rechtsgebiete/Steuerrecht/Berufsrecht/StBerG/Stand_2026-09-09/StBerG.md",
+    "pruefbericht": "Rechtsgebiete/Steuerrecht/Berufsrecht/StBerG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 89,
+    "quellenstand": [
+      "Neugefasst durch Bek. v. 4.11.1975 I 2735;",
+      "zuletzt geändert durch Art. 1 G v. 29.6.2026 I Nr. 197"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/stberg/",
+    "sha256_original_pdf": "3a1c32085f44a6f4732586160269b4ee042ef9c926e96f6627ec354fc5861c29",
+    "sha256_markdown": "ae04fbe1c7cb38a2f5d9b92518e3741d99176992486dd300c4f8bcf138190e73"
+  },
+  {
+    "kuerzel": "StBVV",
+    "titel": "Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften",
+    "bereich": "Steuerrecht / Berufsrecht",
+    "original": "StBVV.pdf",
+    "original_dateiname": "StBVV.pdf",
+    "markdown": "Rechtsgebiete/Steuerrecht/Berufsrecht/StBVV/Stand_2026-09-09/StBVV.md",
+    "pruefbericht": "Rechtsgebiete/Steuerrecht/Berufsrecht/StBVV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 25,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 5 V v. 19.12.2025 I Nr. 372"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/stbgebv/",
+    "sha256_original_pdf": "a19bb551e4ba0d59c9b9de68855ace5af19a62bb3299f0eefcb02bddad1969c1",
+    "sha256_markdown": "6512e74b49dfe8c940b1133527481535fd69bf4eb3e2697ce16045fe2f824aea"
+  },
+  {
+    "kuerzel": "SvEV",
+    "titel": "Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt",
+    "bereich": "Sozialrecht",
+    "original": "SvEV.pdf",
+    "original_dateiname": "SvEV.pdf",
+    "markdown": "Rechtsgebiete/Sozialrecht/SvEV/Stand_2026-09-09/SvEV.md",
+    "pruefbericht": "Rechtsgebiete/Sozialrecht/SvEV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 4,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 11 G v. 16.1.2026 I Nr. 14"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/svev/",
+    "sha256_original_pdf": "86636fe5ec430899b8599c8f0acdfb2b248c0f9e0470405aa545eccdb1629fd6",
+    "sha256_markdown": "e0944fff35c89e7f871f0fae57a509461c2c87f61bec2fc1a61b35a4c200ef60"
+  },
+  {
+    "kuerzel": "UmwG",
+    "titel": "Umwandlungsgesetz",
+    "bereich": "Gesellschaftsrecht",
+    "original": "UmwG.pdf",
+    "original_dateiname": "UmwG.pdf",
+    "markdown": "Rechtsgebiete/Gesellschaftsrecht/UmwG/Stand_2026-09-09/UmwG.md",
+    "pruefbericht": "Rechtsgebiete/Gesellschaftsrecht/UmwG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+    "pdf_seiten": 86,
+    "quellenstand": [
+      "Zuletzt geändert durch Art. 17 G v. 23.10.2024 I Nr. 323"
+    ],
+    "quelle": "https://www.gesetze-im-internet.de/umwg_1995/",
+    "sha256_original_pdf": "18daee2bd1423c97bb8c36295b8d53060433cf0fbf9600e96b382f06ac4c8f9e",
+    "sha256_markdown": "add76756f3e623f922da50622ef52a0f87bed5958fd92b325fa25ed3143635f5"
+  }
+]

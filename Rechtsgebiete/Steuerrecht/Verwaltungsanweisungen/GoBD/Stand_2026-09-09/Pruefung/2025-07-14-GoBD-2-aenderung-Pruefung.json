@@ -1,0 +1,398 @@
+{
+  "document": "2025-07-14-GoBD-2-aenderung",
+  "pages": 4,
+  "source_pdf_sha256": "142386fb87ac9c090cf6f678b612f7188a3850b410c53947da92fb3295a81e0b",
+  "markdown_sha256": "515012b4c8a763a0476194aac615b451f8542a8e408908702fd2435ae265e5fe",
+  "source_blocks": 41,
+  "all_source_characters_covered": true,
+  "markdown_roundtrip_all_blocks": true,
+  "rendered_html_roundtrip_all_blocks": true,
+  "independent_extractor_alnum_match": true,
+  "independent_extractor_missing": {},
+  "independent_extractor_extra": {},
+  "randnummern": [],
+  "amendment_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "checks": [
+    {
+      "id": "0001",
+      "kind": "briefkopf",
+      "page": 1,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 468,
+      "markdown_chars": 468
+    },
+    {
+      "id": "0002",
+      "kind": "paragraph",
+      "page": 1,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 193,
+      "markdown_chars": 193
+    },
+    {
+      "id": "0003",
+      "kind": "paragraph",
+      "page": 1,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 215,
+      "markdown_chars": 215
+    },
+    {
+      "id": "0004",
+      "kind": "heading",
+      "page": 1,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 35,
+      "markdown_chars": 35
+    },
+    {
+      "id": "0005",
+      "kind": "paragraph",
+      "page": 1,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 174,
+      "markdown_chars": 174
+    },
+    {
+      "id": "0006",
+      "kind": "paragraph",
+      "page": 1,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 193,
+      "markdown_chars": 193
+    },
+    {
+      "id": "0007",
+      "kind": "seitenlabel",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 10,
+      "markdown_chars": 10
+    },
+    {
+      "id": "0008",
+      "kind": "paragraph",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 37,
+      "markdown_chars": 37
+    },
+    {
+      "id": "0009",
+      "kind": "paragraph",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 343,
+      "markdown_chars": 343
+    },
+    {
+      "id": "0010",
+      "kind": "heading",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 43,
+      "markdown_chars": 43
+    },
+    {
+      "id": "0011",
+      "kind": "paragraph",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 213,
+      "markdown_chars": 213
+    },
+    {
+      "id": "0012",
+      "kind": "heading",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 43,
+      "markdown_chars": 43
+    },
+    {
+      "id": "0013",
+      "kind": "paragraph",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 399,
+      "markdown_chars": 399
+    },
+    {
+      "id": "0014",
+      "kind": "heading",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 45,
+      "markdown_chars": 45
+    },
+    {
+      "id": "0015",
+      "kind": "paragraph",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 388,
+      "markdown_chars": 388
+    },
+    {
+      "id": "0016",
+      "kind": "heading",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 48,
+      "markdown_chars": 48
+    },
+    {
+      "id": "0017",
+      "kind": "paragraph",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 12,
+      "markdown_chars": 12
+    },
+    {
+      "id": "0018",
+      "kind": "paragraph",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 143,
+      "markdown_chars": 143
+    },
+    {
+      "id": "0019",
+      "kind": "paragraph",
+      "page": 2,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 229,
+      "markdown_chars": 229
+    },
+    {
+      "id": "0020",
+      "kind": "seitenlabel",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 10,
+      "markdown_chars": 10
+    },
+    {
+      "id": "0021",
+      "kind": "paragraph",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 187,
+      "markdown_chars": 187
+    },
+    {
+      "id": "0022",
+      "kind": "paragraph",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 220,
+      "markdown_chars": 220
+    },
+    {
+      "id": "0023",
+      "kind": "heading",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 36,
+      "markdown_chars": 36
+    },
+    {
+      "id": "0024",
+      "kind": "paragraph",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 49,
+      "markdown_chars": 49
+    },
+    {
+      "id": "0025",
+      "kind": "paragraph",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 29,
+      "markdown_chars": 29
+    },
+    {
+      "id": "0026",
+      "kind": "paragraph",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 83,
+      "markdown_chars": 83
+    },
+    {
+      "id": "0027",
+      "kind": "heading",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 35,
+      "markdown_chars": 35
+    },
+    {
+      "id": "0028",
+      "kind": "paragraph",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 187,
+      "markdown_chars": 187
+    },
+    {
+      "id": "0029",
+      "kind": "paragraph",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 326,
+      "markdown_chars": 326
+    },
+    {
+      "id": "0030",
+      "kind": "paragraph",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 413,
+      "markdown_chars": 413
+    },
+    {
+      "id": "0031",
+      "kind": "heading",
+      "page": 3,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 61,
+      "markdown_chars": 61
+    },
+    {
+      "id": "0032",
+      "kind": "seitenlabel",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 10,
+      "markdown_chars": 10
+    },
+    {
+      "id": "0033",
+      "kind": "heading",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 35,
+      "markdown_chars": 35
+    },
+    {
+      "id": "0034",
+      "kind": "paragraph",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 28,
+      "markdown_chars": 28
+    },
+    {
+      "id": "0035",
+      "kind": "paragraph",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 502,
+      "markdown_chars": 502
+    },
+    {
+      "id": "0036",
+      "kind": "heading",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 81,
+      "markdown_chars": 81
+    },
+    {
+      "id": "0037",
+      "kind": "heading",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 54,
+      "markdown_chars": 54
+    },
+    {
+      "id": "0038",
+      "kind": "paragraph",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 77,
+      "markdown_chars": 77
+    },
+    {
+      "id": "0039",
+      "kind": "paragraph",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 58,
+      "markdown_chars": 58
+    },
+    {
+      "id": "0040",
+      "kind": "paragraph",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 9,
+      "markdown_chars": 9
+    },
+    {
+      "id": "0041",
+      "kind": "paragraph",
+      "page": 4,
+      "passed": true,
+      "rendered_html_passed": true,
+      "source_chars": 68,
+      "markdown_chars": 68
+    }
+  ]
+}

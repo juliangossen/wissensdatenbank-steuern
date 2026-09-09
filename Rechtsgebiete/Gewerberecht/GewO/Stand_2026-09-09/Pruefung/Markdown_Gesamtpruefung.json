@@ -1,0 +1,1565 @@
+{
+  "kuerzel": "GewO",
+  "pruefdatum": "2026-09-09",
+  "methode": "Fertige Markdown-Datei unabhängig normweise an Überschriftsankern zerlegt; alle sichtbaren Texte aus dem gerenderten Markdown gegen sämtliche XML-Normen in derselben Reihenfolge verglichen. Nur redaktionelle Metadaten und markierte Ergänzungen, PDF-technischer (XXXX)-Präfix, NFC/Whitespace ausgenommen. Aus XML-Attributen stammende Fußnotenmarker werden zusätzlich auf vollständige Zahl und Kennzeichnung geprüft.",
+  "sha256_markdown": "10fe79f0ad2d92718f5d9db421cdff62d70482774cdf9c80ee51c391c853e117",
+  "normen_erwartet": 194,
+  "normen_vorhanden": 194,
+  "alle_normtexte_identisch": true,
+  "alle_fussnotenverweise_erhalten": true,
+  "fussnoten": [],
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR002450869",
+      "anzeige": "Dokumentkopf",
+      "identisch": true,
+      "zeichen": 1400,
+      "sha256": "edc91447afa391edf66d11f8bb128a83d43ef96720718e6feb7cae80f384dda9"
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR002450869BJNE028016128",
+      "anzeige": "Inhaltsübersicht",
+      "identisch": true,
+      "zeichen": 6634,
+      "sha256": "2b3e439bcd54a93378a8bf84d69dadca7240d53e8546811dd693af5bf452fc3b"
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR002450869BJNG000102301",
+      "anzeige": "010Titel IAllgemeine Bestimmungen",
+      "identisch": true,
+      "zeichen": 28,
+      "sha256": "9a4cfb34d7025b3f3721405bdbabef3389b4205bc62afe35b30dc27141414981"
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR002450869BJNE003202301",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 317,
+      "sha256": "c4aa42879506a4a67fc81fa00452a3d5fb5104d22b3414c0532da1dcd5fb2a0f"
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR002450869BJNE003302301",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 15,
+      "sha256": "083ee11899da42733e36288a2f413d3d4ce624ccf7d0721bf9ff1ce5149b0d3f"
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR002450869BJNE003402301",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 230,
+      "sha256": "bceb3cfec1b72b7a61821838e37e5c046a5c963f638f69e75a05d22df06c868d"
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR002450869BJNE003506311",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 1594,
+      "sha256": "64f889bf12e750af5574125a34e42beb389ff788327ad7257a2ea19bca313df7"
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR002450869BJNE003602301",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 166,
+      "sha256": "df173f2b129358ec0855890fd539edb729c8624d017a1f28a59483f19a2f1457"
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR002450869BJNE003711311",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 1508,
+      "sha256": "51659ce9eda9f8c280fff7b2329b6634218c1f7aa4c0c3779a186d96bcd85f75"
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR002450869BJNE025104123",
+      "anzeige": "§ 6a",
+      "identisch": true,
+      "zeichen": 386,
+      "sha256": "cafd27872d1784a07a86dc63cf2231bde5c6b13f9d60515bee1cfa18c3909087"
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR002450869BJNE025203118",
+      "anzeige": "§ 6b",
+      "identisch": true,
+      "zeichen": 989,
+      "sha256": "e2e05c3cb906fbf57eed162afa895737166dbf784aa49e8ede7892a7398ebe29"
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR002450869BJNE025300377",
+      "anzeige": "§ 6c",
+      "identisch": true,
+      "zeichen": 505,
+      "sha256": "ea5d066a39651170ccdcba85f489ccf8626bd23e1d00640d803a3da7799ed61a"
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR002450869BJNE003803123",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 898,
+      "sha256": "aa39d8e57837b4134a9cc789b8fa2716c7fe22a92f0a84a7d63881f1128bbd9e"
+    },
+    {
+      "xml_index": 13,
+      "doknr": "BJNR002450869BJNE003903123",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 15,
+      "sha256": "5a4ba5a7a53535b9d2db5a9d63a864d7d30563df430205aca05e8183c0326c66"
+    },
+    {
+      "xml_index": 14,
+      "doknr": "BJNR002450869BJNE004003123",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 15,
+      "sha256": "c2c79b956c96bdef449f85ca693b6f90ae89959bb349dd82114067c719a6f039"
+    },
+    {
+      "xml_index": 15,
+      "doknr": "BJNR002450869BJNE004103123",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "4662f612d7b5c43bb3f5c0a706a4f519992697ea60e8d9611c46e1e627198399"
+    },
+    {
+      "xml_index": 16,
+      "doknr": "BJNR002450869BJNE023106123",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 3395,
+      "sha256": "73713d68fa244458e6a38f838d3d5cbd8771bd1ca7aaa1fb8146075230a4a2ef"
+    },
+    {
+      "xml_index": 17,
+      "doknr": "BJNR002450869BJNE026808123",
+      "anzeige": "§ 11a",
+      "identisch": true,
+      "zeichen": 6658,
+      "sha256": "a3df2ec99608f08408ef1fc0ec176169c1cced62f467123790de1555debf4fe1"
+    },
+    {
+      "xml_index": 18,
+      "doknr": "BJNR002450869BJNE028601119",
+      "anzeige": "§ 11b",
+      "identisch": true,
+      "zeichen": 12357,
+      "sha256": "9557599771f841753efb9d568dc8354de027bd73cd785c27e2d218aa5981d6a9"
+    },
+    {
+      "xml_index": 19,
+      "doknr": "BJNR002450869BJNE024802118",
+      "anzeige": "§ 11c",
+      "identisch": true,
+      "zeichen": 1953,
+      "sha256": "5000e03b4909cad12eebbc62f8ee4a45fe3bb0f3ce9b3030551c39b5a3d7631a"
+    },
+    {
+      "xml_index": 20,
+      "doknr": "BJNR002450869BJNE029100123",
+      "anzeige": "§ 11d",
+      "identisch": true,
+      "zeichen": 4733,
+      "sha256": "19cf03ba22301f1871ec75f62dd0358c637c2dd5bfead2f3a85b9c6d5b1e64df"
+    },
+    {
+      "xml_index": 21,
+      "doknr": "BJNR002450869BJNE028700128",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 1129,
+      "sha256": "6230819da70af47212416f2c8ee840539390fe15139ea8ace1a92a0d4f985cce"
+    },
+    {
+      "xml_index": 22,
+      "doknr": "BJNR002450869BJNE022902377",
+      "anzeige": "§ 13",
+      "identisch": true,
+      "zeichen": 503,
+      "sha256": "11e8e70f126a4837dbb40b35db320b73af28ba2e878da22b74f4f7124c2b4c56"
+    },
+    {
+      "xml_index": 23,
+      "doknr": "BJNR002450869BJNE024902118",
+      "anzeige": "§ 13a",
+      "identisch": true,
+      "zeichen": 4040,
+      "sha256": "3176ccc192b14d98758884f9043712570f860a2b2780744eada92e8b14161b39"
+    },
+    {
+      "xml_index": 24,
+      "doknr": "BJNR002450869BJNE025408118",
+      "anzeige": "§ 13b",
+      "identisch": true,
+      "zeichen": 2031,
+      "sha256": "59a3bf167e0fc56eac35e2252ebb1d7ed9267366e233f3042a1921eefe82363a"
+    },
+    {
+      "xml_index": 25,
+      "doknr": "BJNR002450869BJNE025901118",
+      "anzeige": "§ 13c",
+      "identisch": true,
+      "zeichen": 6144,
+      "sha256": "d830665e88a7a6e2215faf5f775b27192779bd30d37489ea6fa766996a63d4b7"
+    },
+    {
+      "xml_index": 26,
+      "doknr": "BJNR002450869BJNG000202301",
+      "anzeige": "020Titel IIStehendes Gewerbe",
+      "identisch": true,
+      "zeichen": 23,
+      "sha256": "825a96b78fe740a9205e797aee10d0d9c4bdbee46dc323e25a18d4b06593584f"
+    },
+    {
+      "xml_index": 27,
+      "doknr": "BJNR002450869BJNG000302301",
+      "anzeige": "020010I.Allgemeine Erfordernisse",
+      "identisch": true,
+      "zeichen": 25,
+      "sha256": "801f2e7835a84795f0e983137df6351850ebda95f8ec877ec0f2f22796266f83"
+    },
+    {
+      "xml_index": 28,
+      "doknr": "BJNR002450869BJNE004732128",
+      "anzeige": "§ 14",
+      "identisch": true,
+      "zeichen": 11198,
+      "sha256": "031cb4ef4a00815b4ddc8653ee38dd3c88fb3e88479704aec8e2aa06fd091a50"
+    },
+    {
+      "xml_index": 29,
+      "doknr": "BJNR002450869BJNE004803301",
+      "anzeige": "§ 15",
+      "identisch": true,
+      "zeichen": 497,
+      "sha256": "1f92be45c3b579ea6805efa69b1119a6c316ce8c51c544049521c2d09778f6ac"
+    },
+    {
+      "xml_index": 30,
+      "doknr": "BJNR002450869BJNG000402301",
+      "anzeige": "020020II.Erfordernis besonderer Überwachung\noder Genehmigung",
+      "identisch": true,
+      "zeichen": 50,
+      "sha256": "faf78a86127ded73602b498cdb468968047d96006cc8c129fe4a178efe48bae3"
+    },
+    {
+      "xml_index": 31,
+      "doknr": "BJNR002450869BJNG000502301",
+      "anzeige": "020020010A.Anlagen, die einer besonderen Überwachung\nbedürfen",
+      "identisch": true,
+      "zeichen": 47,
+      "sha256": "5bbc082995f7210a1097bc8f08425bb2b210066a9fa4ab1bc11f5db5cf6d6644"
+    },
+    {
+      "xml_index": 32,
+      "doknr": "BJNR002450869BJNE005206301",
+      "anzeige": "§§ 16 bis 28",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "bc612cb986720105d40668f3df25f6d700d60a57ba6341cbd7faed1ba89528fe"
+    },
+    {
+      "xml_index": 33,
+      "doknr": "BJNR002450869BJNG000602301",
+      "anzeige": "020020020B.Gewerbetreibende, die einer besonderen\nGenehmigung bedürfen",
+      "identisch": true,
+      "zeichen": 56,
+      "sha256": "d4093fb70c6a1ce5807dac1bbcfb25b897c1cf1ddb52b1d9ef61e169e42bb132"
+    },
+    {
+      "xml_index": 34,
+      "doknr": "BJNR002450869BJNE005913118",
+      "anzeige": "§ 29",
+      "identisch": true,
+      "zeichen": 1738,
+      "sha256": "5536aad3ceb40f005496e6262d74a70b8cb15bdeaf3cc9e3a3c2e4117c04a9d1"
+    },
+    {
+      "xml_index": 35,
+      "doknr": "BJNR002450869BJNE006003301",
+      "anzeige": "§ 30",
+      "identisch": true,
+      "zeichen": 1181,
+      "sha256": "40e275796879ee2fb080290929ee8ad88da7ebcfff52ca2709356c633cd9eeb5"
+    },
+    {
+      "xml_index": 36,
+      "doknr": "BJNR002450869BJNE006102301",
+      "anzeige": "§ 30a",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "a3511165f4c174ce86671534009f312a2ad37571a7db845634e481726542818c"
+    },
+    {
+      "xml_index": 37,
+      "doknr": "BJNR002450869BJNE006203377",
+      "anzeige": "§ 30b",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "17094c5249a3d0e1dd54ba584310e3268c9619e275572fb4f254092ab1c4f308"
+    },
+    {
+      "xml_index": 38,
+      "doknr": "BJNR002450869BJNE006303360",
+      "anzeige": "§ 30c",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "787c0c7efe89891a90d19d27d1d41ce632cf6eb2cfef4fcdef98c412035a23b0"
+    },
+    {
+      "xml_index": 39,
+      "doknr": "BJNR002450869BJNE026205123",
+      "anzeige": "§ 31",
+      "identisch": true,
+      "zeichen": 7698,
+      "sha256": "435a3737d6dc0e1ba0f22b8fe17b0d3ebc870c81c63f6a93158d2df495e688c7"
+    },
+    {
+      "xml_index": 40,
+      "doknr": "BJNR002450869BJNE006307116",
+      "anzeige": "§ 32",
+      "identisch": true,
+      "zeichen": 1476,
+      "sha256": "0b0cf86582f33fdf406b3836af8b0599d66ce5618f1bf6fa0e2b40d5d4c70839"
+    },
+    {
+      "xml_index": 41,
+      "doknr": "BJNR002450869BJNE028500116",
+      "anzeige": "§ 33",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "3050a974f9f1eedd563a1b71af0d91c611d9585332c30e4e6fdd8db270926994"
+    },
+    {
+      "xml_index": 42,
+      "doknr": "BJNR002450869BJNE006403301",
+      "anzeige": "§ 33a",
+      "identisch": true,
+      "zeichen": 1186,
+      "sha256": "21472ec71645a2e8efc76cfd63f47c1ab15606cef9b4151fc63986996458c750"
+    },
+    {
+      "xml_index": 43,
+      "doknr": "BJNR002450869BJNE006503123",
+      "anzeige": "§ 33b",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "24058f91be1e0025f57b5a7522fea00de2dd8a2be47a520828474f497fd7518a"
+    },
+    {
+      "xml_index": 44,
+      "doknr": "BJNR002450869BJNE006607128",
+      "anzeige": "§ 33c",
+      "identisch": true,
+      "zeichen": 2370,
+      "sha256": "2ec362bd676ac8d822ac308f5fea35dc3516b572730f96db78c19636f68fcb50"
+    },
+    {
+      "xml_index": 45,
+      "doknr": "BJNR002450869BJNE006707360",
+      "anzeige": "§ 33d",
+      "identisch": true,
+      "zeichen": 1482,
+      "sha256": "a6427a79648bf3b6d39faea1a904d4c4ae5f42f7ddd87b3d4e9c0713e7f7338e"
+    },
+    {
+      "xml_index": 46,
+      "doknr": "BJNR002450869BJNE006806360",
+      "anzeige": "§ 33e",
+      "identisch": true,
+      "zeichen": 1461,
+      "sha256": "c93346b7091aa8bde371974425f12bec6a2a1d421940a341a6bb753bec74e5a4"
+    },
+    {
+      "xml_index": 47,
+      "doknr": "BJNR002450869BJNE027603123",
+      "anzeige": "§ 33f",
+      "identisch": true,
+      "zeichen": 2640,
+      "sha256": "87cc16ab90bc138d77a7fb15adef39982bfae4ef57f790c8d3fae2b45d78cbf9"
+    },
+    {
+      "xml_index": 48,
+      "doknr": "BJNR002450869BJNE007012123",
+      "anzeige": "§ 33g",
+      "identisch": true,
+      "zeichen": 743,
+      "sha256": "f39f300703626a4b5540c467b49f79a08d9b4d7920abfbdee4394f373f5cf629"
+    },
+    {
+      "xml_index": 49,
+      "doknr": "BJNR002450869BJNE007102301",
+      "anzeige": "§ 33h",
+      "identisch": true,
+      "zeichen": 435,
+      "sha256": "fd74920e66136756871f4299445cd94a55045c5f869e25f14fe90ae9f2427c3c"
+    },
+    {
+      "xml_index": 50,
+      "doknr": "BJNR002450869BJNE007205360",
+      "anzeige": "§ 33i",
+      "identisch": true,
+      "zeichen": 1167,
+      "sha256": "4bff344048029930aa0e4f5017acc458622b0b5fd5bb4bc70e7dc0ae7576a052"
+    },
+    {
+      "xml_index": 51,
+      "doknr": "BJNR002450869BJNE007312123",
+      "anzeige": "§ 34",
+      "identisch": true,
+      "zeichen": 1875,
+      "sha256": "b2bb9c688d971a2bfb65685585bec27a1e1133f3fdbbfb47040c9ed6307a70f7"
+    },
+    {
+      "xml_index": 52,
+      "doknr": "BJNR002450869BJNE028103119",
+      "anzeige": "§ 34a",
+      "identisch": true,
+      "zeichen": 12605,
+      "sha256": "6942842107cb0edab38d83c934d26b018120e486e5eaab42f458b8043221048e"
+    },
+    {
+      "xml_index": 53,
+      "doknr": "BJNR002450869BJNE007516123",
+      "anzeige": "§ 34b",
+      "identisch": true,
+      "zeichen": 4417,
+      "sha256": "d940aabfb44ba69956b6a0278cdb7330cfda1d2648e636b03387c36a4ea85e0e"
+    },
+    {
+      "xml_index": 54,
+      "doknr": "BJNR002450869BJNE007635123",
+      "anzeige": "§ 34c",
+      "identisch": true,
+      "zeichen": 7087,
+      "sha256": "10aa5b0cb69fc5dd7cb0a7a1023437fd575d9b9cae9a3b66a84d4b0603adf77f"
+    },
+    {
+      "xml_index": 55,
+      "doknr": "BJNR002450869BJNE026907128",
+      "anzeige": "§ 34d",
+      "identisch": true,
+      "zeichen": 14994,
+      "sha256": "fe8667ff271c5c83de82ff6efd0654651eeef57c00e0348632f43c4066deab54"
+    },
+    {
+      "xml_index": 56,
+      "doknr": "BJNR002450869BJNE024506128",
+      "anzeige": "§ 34e",
+      "identisch": true,
+      "zeichen": 5751,
+      "sha256": "da747b27f5425ea326cc525022dd26db225756597581bcb4f1e9743959254bf9"
+    },
+    {
+      "xml_index": 57,
+      "doknr": "BJNR002450869BJNE025707128",
+      "anzeige": "§ 34f",
+      "identisch": true,
+      "zeichen": 5148,
+      "sha256": "d5d4e37eef429986510ec76e6f500987be3fccf7c9da2dbfd7def56e237e67d6"
+    },
+    {
+      "xml_index": 58,
+      "doknr": "BJNR002450869BJNE028203128",
+      "anzeige": "§ 34g",
+      "identisch": true,
+      "zeichen": 4195,
+      "sha256": "ddb3750664e8581d7483634efee62297ff0f80ddcf6c176d5dec522a9dd62939"
+    },
+    {
+      "xml_index": 59,
+      "doknr": "BJNR002450869BJNE026403128",
+      "anzeige": "§ 34h",
+      "identisch": true,
+      "zeichen": 2118,
+      "sha256": "989685580e793de96c6fee865bb3ac64632e6536c9da04a57b73ce920e8cbd00"
+    },
+    {
+      "xml_index": 60,
+      "doknr": "BJNR002450869BJNE027102128",
+      "anzeige": "§ 34i",
+      "identisch": true,
+      "zeichen": 5783,
+      "sha256": "742ea6ed5cf6488a680a9df3eb1ac144752a0a49a070b6ae86a8ad37c8527245"
+    },
+    {
+      "xml_index": 61,
+      "doknr": "BJNR002450869BJNE027302123",
+      "anzeige": "§ 34j",
+      "identisch": true,
+      "zeichen": 4152,
+      "sha256": "5643e9e04a961796cda9d7ed6f5690b0833384be72d33e61850e999145ee1b66"
+    },
+    {
+      "xml_index": 62,
+      "doknr": "BJNR002450869BJNE029900128",
+      "anzeige": "§ 34l",
+      "identisch": true,
+      "zeichen": 2083,
+      "sha256": "dd1a0e5d4094e10ed4fa6846301942254ef0dc42123f83210e8b87580da22752"
+    },
+    {
+      "xml_index": 63,
+      "doknr": "BJNR002450869BJNE007709123",
+      "anzeige": "§ 35",
+      "identisch": true,
+      "zeichen": 4444,
+      "sha256": "4eb68e462a4b0e99df44f7d5fb556e46155d2add19298d24f073d2486ce96414"
+    },
+    {
+      "xml_index": 64,
+      "doknr": "BJNR002450869BJNE007803301",
+      "anzeige": "§§ 35a und 35b",
+      "identisch": true,
+      "zeichen": 24,
+      "sha256": "3c579682e8e56216de7710b5e79205ed520637535c3138e4469b57c344a42520"
+    },
+    {
+      "xml_index": 65,
+      "doknr": "BJNR002450869BJNE008010123",
+      "anzeige": "§ 36",
+      "identisch": true,
+      "zeichen": 4298,
+      "sha256": "9ad49b3e958dac85a6d5e480621c304a84c5025fc380ae9cd4a8c62ff1fb423d"
+    },
+    {
+      "xml_index": 66,
+      "doknr": "BJNR002450869BJNE025500377",
+      "anzeige": "§ 36a",
+      "identisch": true,
+      "zeichen": 2451,
+      "sha256": "ece53739cd1a31eb1bdf1e89f4bad3bd4f5a8333c7b0b9222349f9c5b061c86d"
+    },
+    {
+      "xml_index": 67,
+      "doknr": "BJNR002450869BJNE008102301",
+      "anzeige": "§ 37",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "70cb82a24dbe312fdae27f34ddedcf6fde5b0f1ddbf60911d779c7a3870e6bff"
+    },
+    {
+      "xml_index": 68,
+      "doknr": "BJNR002450869BJNE008209123",
+      "anzeige": "§ 38",
+      "identisch": true,
+      "zeichen": 2143,
+      "sha256": "4cc4af3c6a835ce340a9f0522e301052ff9d98858f9cea767819f845a6f7bc7f"
+    },
+    {
+      "xml_index": 69,
+      "doknr": "BJNR002450869BJNE008302301",
+      "anzeige": "§ 39",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "cd0699543a3865a8cda469b79cc7fb2cc962d983b7ff0610be8aeda2a4785009"
+    },
+    {
+      "xml_index": 70,
+      "doknr": "BJNR002450869BJNE008403377",
+      "anzeige": "§ 39a",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "d4ea0435b1d290de5dad274e6b5f48706f7bd899c13c31ac7841c2dee0a68bdb"
+    },
+    {
+      "xml_index": 71,
+      "doknr": "BJNR002450869BJNE008502301",
+      "anzeige": "§ 40",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "bc13f6a3cc1b2e8785ad99faa0570a90f231e50ab16eec12e9e0e9b6a1de558c"
+    },
+    {
+      "xml_index": 72,
+      "doknr": "BJNR002450869BJNG000702301",
+      "anzeige": "020030III.Umfang, Ausübung und Verlust der\nGewerbebefugnisse",
+      "identisch": true,
+      "zeichen": 49,
+      "sha256": "9a3512bf3b65c0fc16874df867ab598ed787fc034526397f973d107f41d69ac4"
+    },
+    {
+      "xml_index": 73,
+      "doknr": "BJNR002450869BJNE008603123",
+      "anzeige": "§ 41",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "7324fa4fc458cfd90695204136de6cc9a61b901f941c897fc80119b311388576"
+    },
+    {
+      "xml_index": 74,
+      "doknr": "BJNR002450869BJNE008702301",
+      "anzeige": "§§ 41a und 41b",
+      "identisch": true,
+      "zeichen": 24,
+      "sha256": "20941c9b215ada706cc3ce90e707021399085f42fd8d8e4bb16561e94cfadda5"
+    },
+    {
+      "xml_index": 75,
+      "doknr": "BJNR002450869BJNE008903377",
+      "anzeige": "§ 42",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "ddcb5acf9c072b7646908b51189ec752f46b55f61493803581529694c27c2cdd"
+    },
+    {
+      "xml_index": 76,
+      "doknr": "BJNR002450869BJNE009002301",
+      "anzeige": "§§ 42a bis 44a",
+      "identisch": true,
+      "zeichen": 24,
+      "sha256": "39a399aa307251df1860afdced7c14c4ae9109137485752fc193d1f22e0f0ab0"
+    },
+    {
+      "xml_index": 77,
+      "doknr": "BJNR002450869BJNE009102301",
+      "anzeige": "§ 45",
+      "identisch": true,
+      "zeichen": 292,
+      "sha256": "7ef9bb69a0d54d2f6ebdbe198dbc7a9659e4e8010d1a01476875688f7d74beae"
+    },
+    {
+      "xml_index": 78,
+      "doknr": "BJNR002450869BJNE009203377",
+      "anzeige": "§ 46",
+      "identisch": true,
+      "zeichen": 637,
+      "sha256": "a05eaeb25b9be7df62bd70e2c7500fff465ba6cc47971793ed20076c5dd3ffe1"
+    },
+    {
+      "xml_index": 79,
+      "doknr": "BJNR002450869BJNE009308118",
+      "anzeige": "§ 47",
+      "identisch": true,
+      "zeichen": 267,
+      "sha256": "908b0579ea1781196f30d1136d4b81fc220b2c5130288b48948b2a15fd7e8a64"
+    },
+    {
+      "xml_index": 80,
+      "doknr": "BJNR002450869BJNE009403123",
+      "anzeige": "§ 48",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "a0b97d8916d4fb5bf6968e3bdd8202b48fad0516422f087507195609e6318716"
+    },
+    {
+      "xml_index": 81,
+      "doknr": "BJNR002450869BJNE009504301",
+      "anzeige": "§ 49",
+      "identisch": true,
+      "zeichen": 293,
+      "sha256": "eb32234750af13687aeb71f2419e94814a16c44b25518c782b87453136dc0762"
+    },
+    {
+      "xml_index": 82,
+      "doknr": "BJNR002450869BJNE009602301",
+      "anzeige": "§ 50",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "5ccf96c3133d958eb4e8cde2fabf6c3fc706e4f7296ea9b9431e18aa05bdcb3b"
+    },
+    {
+      "xml_index": 83,
+      "doknr": "BJNR002450869BJNE009703301",
+      "anzeige": "§ 51",
+      "identisch": true,
+      "zeichen": 386,
+      "sha256": "d53ec52c42dc0155fe96aa26a2166bd04277b345f5016410decd253457542836"
+    },
+    {
+      "xml_index": 84,
+      "doknr": "BJNR002450869BJNE009803123",
+      "anzeige": "§ 52",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "58805cba0d1d84b6702f84431f85c7c8687d45d047aea4d5ba8259919d19de78"
+    },
+    {
+      "xml_index": 85,
+      "doknr": "BJNR002450869BJNE010102301",
+      "anzeige": "§§ 53 bis 54",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "827d28c4c3967ed3096ba54986c665fbe0ed0ed807a7bd1c3231e707bb22201e"
+    },
+    {
+      "xml_index": 86,
+      "doknr": "BJNR002450869BJNG000802301",
+      "anzeige": "030Titel IIIReisegewerbe",
+      "identisch": true,
+      "zeichen": 20,
+      "sha256": "2886d952af0345e67cb7f130e5a43204a4feb3550e12020e55edfebbb6754103"
+    },
+    {
+      "xml_index": 87,
+      "doknr": "BJNR002450869BJNE010205377",
+      "anzeige": "§ 55",
+      "identisch": true,
+      "zeichen": 766,
+      "sha256": "5dd4bc1a595b5916626e4afe8ad390f3ce23da1d4409e9e65a23f3a03af40bfa"
+    },
+    {
+      "xml_index": 88,
+      "doknr": "BJNR002450869BJNE010311118",
+      "anzeige": "§ 55a",
+      "identisch": true,
+      "zeichen": 1889,
+      "sha256": "5d83c619cc0fe7cbe89f500e82c0f61831a27c492b761bbf292693d87345b35d"
+    },
+    {
+      "xml_index": 89,
+      "doknr": "BJNR002450869BJNE010404377",
+      "anzeige": "§ 55b",
+      "identisch": true,
+      "zeichen": 685,
+      "sha256": "9cd92e298f73307f5e8b20c7c08c6941e0e84daa3b17a5110d86c27276f5ce98"
+    },
+    {
+      "xml_index": 90,
+      "doknr": "BJNR002450869BJNE010509119",
+      "anzeige": "§ 55c",
+      "identisch": true,
+      "zeichen": 444,
+      "sha256": "290a40d26e18ce202299b757a350dc6d53824535715c1c0bd60d0de45efc4d0e"
+    },
+    {
+      "xml_index": 91,
+      "doknr": "BJNR002450869BJNE010603301",
+      "anzeige": "§ 55d",
+      "identisch": true,
+      "zeichen": 5,
+      "sha256": "10645a07cf3d231645985c27d647f8e3c29796c4a0eba27a87b8b13841a7721b"
+    },
+    {
+      "xml_index": 92,
+      "doknr": "BJNR002450869BJNE010708377",
+      "anzeige": "§ 55e",
+      "identisch": true,
+      "zeichen": 379,
+      "sha256": "1efe4e93812d429d5922a75b8ed6865a840dc179c8dfff183102599a2f383b4b"
+    },
+    {
+      "xml_index": 93,
+      "doknr": "BJNR002450869BJNE022208123",
+      "anzeige": "§ 55f",
+      "identisch": true,
+      "zeichen": 390,
+      "sha256": "8f0a52a3d1297748e31bcb2a9fe995e2965fb6fadbdd66d1a42e464b9f9087b2"
+    },
+    {
+      "xml_index": 94,
+      "doknr": "BJNR002450869BJNE010816123",
+      "anzeige": "§ 56",
+      "identisch": true,
+      "zeichen": 2306,
+      "sha256": "f7bdbc254056a23c666f6f101674dad76d638f79c77bbc4a0bbedb4a2eb05389"
+    },
+    {
+      "xml_index": 95,
+      "doknr": "BJNR002450869BJNE010907311",
+      "anzeige": "§ 56a",
+      "identisch": true,
+      "zeichen": 4087,
+      "sha256": "56b31c55bc0d604905630ea3c07e75a0b064789b1f2159a448ef8886cc07a6dc"
+    },
+    {
+      "xml_index": 96,
+      "doknr": "BJNR002450869BJNE011011124",
+      "anzeige": "§ 57",
+      "identisch": true,
+      "zeichen": 757,
+      "sha256": "b74b668e0910d2d04467df485912f5f57f3a0a752c4796c4d8bc71e45eb2fd14"
+    },
+    {
+      "xml_index": 97,
+      "doknr": "BJNR002450869BJNE011103301",
+      "anzeige": "§§ 57a und 58",
+      "identisch": true,
+      "zeichen": 23,
+      "sha256": "2e75e422eac81956d3b2aa0b8a5a236de39c9fd682e8e885af8e76ee60f7867a"
+    },
+    {
+      "xml_index": 98,
+      "doknr": "BJNR002450869BJNE011305301",
+      "anzeige": "§ 59",
+      "identisch": true,
+      "zeichen": 239,
+      "sha256": "dae34d6d4847862e9b9d1988ae797512a1dc12c8a68c269beea0b274822c1dcc"
+    },
+    {
+      "xml_index": 99,
+      "doknr": "BJNR002450869BJNE011404377",
+      "anzeige": "§ 60",
+      "identisch": true,
+      "zeichen": 214,
+      "sha256": "476e6f2ac42798275cdd030ccc1f27018bb298655528f5b1205bfbe9c5e20ea1"
+    },
+    {
+      "xml_index": 100,
+      "doknr": "BJNR002450869BJNE011505301",
+      "anzeige": "§ 60a",
+      "identisch": true,
+      "zeichen": 965,
+      "sha256": "aef8b3b4c0e6b4195bd48d16301b7b77450bc3a969258cdbb7d4d6a00dcc8e7c"
+    },
+    {
+      "xml_index": 101,
+      "doknr": "BJNR002450869BJNE011605377",
+      "anzeige": "§ 60b",
+      "identisch": true,
+      "zeichen": 431,
+      "sha256": "1e84e825a333022fa4793c1dbc09ac4d03748f1902dc9d2aab8319f717c8277e"
+    },
+    {
+      "xml_index": 102,
+      "doknr": "BJNR002450869BJNE011704377",
+      "anzeige": "§ 60c",
+      "identisch": true,
+      "zeichen": 1016,
+      "sha256": "e97aef5621e850b6e2bc2e9338015199bf69742802af05f8a33600c97f10e762"
+    },
+    {
+      "xml_index": 103,
+      "doknr": "BJNR002450869BJNE011805377",
+      "anzeige": "§ 60d",
+      "identisch": true,
+      "zeichen": 292,
+      "sha256": "82b9c0483338bfe3a560a955bf3e4745ee424a1ccbdf7c0eba2538acad795225"
+    },
+    {
+      "xml_index": 104,
+      "doknr": "BJNR002450869BJNE011906123",
+      "anzeige": "§ 61",
+      "identisch": true,
+      "zeichen": 432,
+      "sha256": "9f641273e0e6b78e15c7f78d6e162480ffbf1f93079b4eda0fabf695c845e3a2"
+    },
+    {
+      "xml_index": 105,
+      "doknr": "BJNR002450869BJNE022315123",
+      "anzeige": "§ 61a",
+      "identisch": true,
+      "zeichen": 909,
+      "sha256": "357a5188111adc9094932f7d7a440667f01e5101f884c0cea83e949dd34b6b71"
+    },
+    {
+      "xml_index": 106,
+      "doknr": "BJNR002450869BJNE012003301",
+      "anzeige": "§§ 62 und 63",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "edd6ad6efbac33b7a951ce7e9f4bff57518796edefb5d2b64b16e630e7fd87b5"
+    },
+    {
+      "xml_index": 107,
+      "doknr": "BJNR002450869BJNG000902301",
+      "anzeige": "040Titel IVMessen, Ausstellungen, Märkte",
+      "identisch": true,
+      "zeichen": 34,
+      "sha256": "80cf5f7220e05ddbc396ebb747a84eb66af4ba936b1d9d13c21c31c985a020a0"
+    },
+    {
+      "xml_index": 108,
+      "doknr": "BJNR002450869BJNE012202301",
+      "anzeige": "§ 64",
+      "identisch": true,
+      "zeichen": 414,
+      "sha256": "8730b0209687fc8554a01cd2e1b5bdf1c1289a88b28b661ebdcfcef169a0dc1d"
+    },
+    {
+      "xml_index": 109,
+      "doknr": "BJNR002450869BJNE012302301",
+      "anzeige": "§ 65",
+      "identisch": true,
+      "zeichen": 259,
+      "sha256": "cf93aa90b12acea510b7627a898483fcd0d49e2ba2263a9afadb8ea90f267540"
+    },
+    {
+      "xml_index": 110,
+      "doknr": "BJNR002450869BJNE012402301",
+      "anzeige": "§ 66",
+      "identisch": true,
+      "zeichen": 197,
+      "sha256": "1ea851bf5bd9ded1888d2cdd9d20d21011b4a5f14f1c305fe46805b9406a13a5"
+    },
+    {
+      "xml_index": 111,
+      "doknr": "BJNR002450869BJNE012508311",
+      "anzeige": "§ 67",
+      "identisch": true,
+      "zeichen": 1343,
+      "sha256": "c503a93a973699363758f9d6d1fe58c8c941487d7967b723d27d85d9aea55e60"
+    },
+    {
+      "xml_index": 112,
+      "doknr": "BJNR002450869BJNE012603301",
+      "anzeige": "§ 68",
+      "identisch": true,
+      "zeichen": 500,
+      "sha256": "f4a6aea3ba9937db3d7d7e2243519a810200fa26144f608f3c82edaeb1db3071"
+    },
+    {
+      "xml_index": 113,
+      "doknr": "BJNR002450869BJNE012702301",
+      "anzeige": "§ 68a",
+      "identisch": true,
+      "zeichen": 310,
+      "sha256": "322484a6ffb53ecc49031c70706e5919acc6f921cbec6d0d4067a97c86bce6fa"
+    },
+    {
+      "xml_index": 114,
+      "doknr": "BJNR002450869BJNE012804118",
+      "anzeige": "§ 69",
+      "identisch": true,
+      "zeichen": 787,
+      "sha256": "520be9167397522f0a15e9700592cfdf105101413c0576f7416f3d7eed770d37"
+    },
+    {
+      "xml_index": 115,
+      "doknr": "BJNR002450869BJNE012903301",
+      "anzeige": "§ 69a",
+      "identisch": true,
+      "zeichen": 1125,
+      "sha256": "86c66cd4559e553939751e07e46f1f3dbfc27545dd41b3610d8460b5516622c0"
+    },
+    {
+      "xml_index": 116,
+      "doknr": "BJNR002450869BJNE013002301",
+      "anzeige": "§ 69b",
+      "identisch": true,
+      "zeichen": 971,
+      "sha256": "f95fcaf94ba80f15d7d5bbf2a41548d18b4f5c4197e33b44b2638d466c03863f"
+    },
+    {
+      "xml_index": 117,
+      "doknr": "BJNR002450869BJNE013102301",
+      "anzeige": "§ 70",
+      "identisch": true,
+      "zeichen": 709,
+      "sha256": "85d9c24267f58edbce3ad5c32bfe2337198a3d7c7d9a6086ccdb34af8a5319f2"
+    },
+    {
+      "xml_index": 118,
+      "doknr": "BJNR002450869BJNE013209124",
+      "anzeige": "§ 70a",
+      "identisch": true,
+      "zeichen": 899,
+      "sha256": "411e96f62a8531e734bbdb47bf48abc8254aacdb71e6037e7b40b73e8fdd92bc"
+    },
+    {
+      "xml_index": 119,
+      "doknr": "BJNR002450869BJNE013304377",
+      "anzeige": "§ 70b",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "f595151f947fb006b88f649aad76dc19a9cb2d2c05a20081a03386531a979295"
+    },
+    {
+      "xml_index": 120,
+      "doknr": "BJNR002450869BJNE013402301",
+      "anzeige": "§ 71",
+      "identisch": true,
+      "zeichen": 457,
+      "sha256": "4121b8f17ece1d33280b8d5a754e3b20ca662972f9c26bbdd36e19d873a271ef"
+    },
+    {
+      "xml_index": 121,
+      "doknr": "BJNR002450869BJNE013503301",
+      "anzeige": "§ 71a",
+      "identisch": true,
+      "zeichen": 182,
+      "sha256": "08992916c780494dc4288d73f9d6c878bd49149615142b12dd8817158a96b88b"
+    },
+    {
+      "xml_index": 122,
+      "doknr": "BJNR002450869BJNE022414123",
+      "anzeige": "§ 71b",
+      "identisch": true,
+      "zeichen": 919,
+      "sha256": "0314891ea7deb472832e010ce62954de93ce269fdd5ce88bb7f28d756bb5a24a"
+    },
+    {
+      "xml_index": 123,
+      "doknr": "BJNR002450869BJNG001002301",
+      "anzeige": "050Titel VTaxen",
+      "identisch": true,
+      "zeichen": 11,
+      "sha256": "9f2859eff386a3da9ea41a795176214d770c5227c9d52e7877cf23c05c6690eb"
+    },
+    {
+      "xml_index": 124,
+      "doknr": "BJNR002450869BJNE013602301",
+      "anzeige": "§§ 72 bis 80",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "4f18d1c8f1356eb4bca1ce91d9574e6ed8b94a68256b3f143e5139878ff4a822"
+    },
+    {
+      "xml_index": 125,
+      "doknr": "BJNR002450869BJNG001102301",
+      "anzeige": "060Titel VIInnungen, Innungsausschüsse,\nHandwerkskammern, Innungsverbände",
+      "identisch": true,
+      "zeichen": 66,
+      "sha256": "073fffbb36980fda5dce5a164d2d565d64ee6f68228640415c06f3ed92973b8c"
+    },
+    {
+      "xml_index": 126,
+      "doknr": "BJNR002450869BJNE013702301",
+      "anzeige": "§§ 81 bis 104n",
+      "identisch": true,
+      "zeichen": 24,
+      "sha256": "a9a290504ca00a5ed2f61721f63d6577e35f324ee743cc93f92aa4e47e17b86e"
+    },
+    {
+      "xml_index": 127,
+      "doknr": "BJNR002450869BJNG001202301",
+      "anzeige": "061Titel VIaHandwerksrolle",
+      "identisch": true,
+      "zeichen": 22,
+      "sha256": "673a5109c5c92ce5af417cc9604017613211d3987a0aedb608a45893a713a5fa"
+    },
+    {
+      "xml_index": 128,
+      "doknr": "BJNR002450869BJNE013802301",
+      "anzeige": "§§ 104o bis 104u",
+      "identisch": true,
+      "zeichen": 26,
+      "sha256": "01aca312da9ee77ef95b86fff7b0da68398ab7c09e3d5e652a45f0870daf7c57"
+    },
+    {
+      "xml_index": 129,
+      "doknr": "BJNR002450869BJNG001303377",
+      "anzeige": "070Titel VIIArbeitnehmer",
+      "identisch": true,
+      "zeichen": 20,
+      "sha256": "802708776908475c8ebad84096de8740b1cfb748d06bea4cac609c1bca335dd2"
+    },
+    {
+      "xml_index": 130,
+      "doknr": "BJNR002450869BJNG001403377",
+      "anzeige": "070010I.Allgemeine arbeitsrechtliche Grundsätze",
+      "identisch": true,
+      "zeichen": 39,
+      "sha256": "633f39725b9df02e4b8f998577df390220b08cee39bb09b855549d97c85cb18d"
+    },
+    {
+      "xml_index": 131,
+      "doknr": "BJNR002450869BJNE013903377",
+      "anzeige": "§ 105",
+      "identisch": true,
+      "zeichen": 362,
+      "sha256": "2c4385d67d1a1dcaec6a647dae9015647a4222b318c1c55d4296dc23529e5db0"
+    },
+    {
+      "xml_index": 132,
+      "doknr": "BJNR002450869BJNE023700377",
+      "anzeige": "§ 106",
+      "identisch": true,
+      "zeichen": 459,
+      "sha256": "1bfd08eb8b20bb2158a6e22f30d77aaffefcd95816bb48e5e14e4ca3d147b5eb"
+    },
+    {
+      "xml_index": 133,
+      "doknr": "BJNR002450869BJNE023800377",
+      "anzeige": "§ 107",
+      "identisch": true,
+      "zeichen": 1024,
+      "sha256": "04aac0ca9750bac019bbe2fdfc690e1fde201ad9145057faaeff582b5df1f5d1"
+    },
+    {
+      "xml_index": 134,
+      "doknr": "BJNR002450869BJNE023905118",
+      "anzeige": "§ 108",
+      "identisch": true,
+      "zeichen": 1056,
+      "sha256": "9ab0d845135bd86dc7835edd2b41b57d46d056801833fae88be9b5d5e2c673ff"
+    },
+    {
+      "xml_index": 135,
+      "doknr": "BJNR002450869BJNE024001119",
+      "anzeige": "§ 109",
+      "identisch": true,
+      "zeichen": 618,
+      "sha256": "c37804ee09e1f9808c666906df1ddf5a3566299027238a747830b8ffcb62e710"
+    },
+    {
+      "xml_index": 136,
+      "doknr": "BJNR002450869BJNE024100377",
+      "anzeige": "§ 110",
+      "identisch": true,
+      "zeichen": 248,
+      "sha256": "fe74e56f5b144db930781511743ace69f94b1f8769f1f6d5e1840fab6f0f170b"
+    },
+    {
+      "xml_index": 137,
+      "doknr": "BJNR002450869BJNE015004123",
+      "anzeige": "§ 111",
+      "identisch": true,
+      "zeichen": 491,
+      "sha256": "ea7413746c56ca52839208d2139d0c659b10278e2d80645b5118d3e730ce340d"
+    },
+    {
+      "xml_index": 138,
+      "doknr": "BJNR002450869BJNE015005123",
+      "anzeige": "§§ 112 bis 132a",
+      "identisch": true,
+      "zeichen": 25,
+      "sha256": "238017c4c2429117e908a6970eed791f38f9ce2b29b9272c6de18b543e81163f"
+    },
+    {
+      "xml_index": 139,
+      "doknr": "BJNR002450869BJNG001803377",
+      "anzeige": "070020II.Meistertitel",
+      "identisch": true,
+      "zeichen": 15,
+      "sha256": "638b96f6af6c8de171ddc755e5ec5a82b159c588be5100588e110e587230d753"
+    },
+    {
+      "xml_index": 140,
+      "doknr": "BJNR002450869BJNE018003377",
+      "anzeige": "§ 133",
+      "identisch": true,
+      "zeichen": 355,
+      "sha256": "14af9aa213a33aa085eabe37f36ee5560df5631dd91e5722f69353768a1b211e"
+    },
+    {
+      "xml_index": 141,
+      "doknr": "BJNR002450869BJNE018102301",
+      "anzeige": "§§ 133a bis 133d",
+      "identisch": true,
+      "zeichen": 26,
+      "sha256": "7ab6e6e4d90492abc0549d738bf52a2ca0a23c6c1ae1ba08691a9e0fa168a713"
+    },
+    {
+      "xml_index": 142,
+      "doknr": "BJNR002450869BJNE018405377",
+      "anzeige": "§§ 133e bis 139aa",
+      "identisch": true,
+      "zeichen": 27,
+      "sha256": "5940772df75c4028dad1338c1a8a4461babeae360e97fe06cae355d79cd37e11"
+    },
+    {
+      "xml_index": 143,
+      "doknr": "BJNR002450869BJNG002303377",
+      "anzeige": "070030III.Aufsicht",
+      "identisch": true,
+      "zeichen": 12,
+      "sha256": "64003bb879a5ee670b22ab8d2bca338cce4e2acfabe3c1f17725d5330057d229"
+    },
+    {
+      "xml_index": 144,
+      "doknr": "BJNR002450869BJNE019320128",
+      "anzeige": "§ 139b",
+      "identisch": true,
+      "zeichen": 4221,
+      "sha256": "4ae9eaaac93f96c04f3baa436cc7fe44850a20026a4d68380dbfd62469ab1e24"
+    },
+    {
+      "xml_index": 145,
+      "doknr": "BJNR002450869BJNE019402301",
+      "anzeige": "§§ 139c bis 139h",
+      "identisch": true,
+      "zeichen": 26,
+      "sha256": "4b225dc92e68177097121896b78ae9a21407e736212ddc7dec6e372daf7db44e"
+    },
+    {
+      "xml_index": 146,
+      "doknr": "BJNR002450869BJNE019703377",
+      "anzeige": "§ 139i",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "47cccdbba61dc249c587c37e8918d584f13effe32dd933b0085542887df0c5b3"
+    },
+    {
+      "xml_index": 147,
+      "doknr": "BJNR002450869BJNE019802301",
+      "anzeige": "§§ 139k und 139m",
+      "identisch": true,
+      "zeichen": 26,
+      "sha256": "fd87deba5b32dc14009528cf130d7973dc2a5ec0bc5919c25de86b1164af1871"
+    },
+    {
+      "xml_index": 148,
+      "doknr": "BJNR002450869BJNG002502301",
+      "anzeige": "080Titel VIIIGewerbliche Hilfskassen",
+      "identisch": true,
+      "zeichen": 31,
+      "sha256": "95baa4d6a87f905ddd6aedc3b9266bbbb2569e821e5d5c9903bf3a3f2d023746"
+    },
+    {
+      "xml_index": 149,
+      "doknr": "BJNR002450869BJNE020003377",
+      "anzeige": "§ 140",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "c42860ae4add7fcdc8f12d79852fc035e1555a7a0f34e5a5546eedd3294ec40b"
+    },
+    {
+      "xml_index": 150,
+      "doknr": "BJNR002450869BJNE020102301",
+      "anzeige": "§§ 141 bis 141f",
+      "identisch": true,
+      "zeichen": 25,
+      "sha256": "09f7476f30f441fde71393fbb867d7dedb22bcf4fbef1d66c710e2a840059859"
+    },
+    {
+      "xml_index": 151,
+      "doknr": "BJNR002450869BJNG002602301",
+      "anzeige": "090Titel IXStatutarische Bestimmungen",
+      "identisch": true,
+      "zeichen": 32,
+      "sha256": "0633acf3dee82244fbd952b9a72e9fa9719ea07cd038ab189fa426b8eafac3fa"
+    },
+    {
+      "xml_index": 152,
+      "doknr": "BJNR002450869BJNE020204377",
+      "anzeige": "§ 142",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "6bd78c26aa3603c5cdb889ce83a62aac085707cb67037708ffea70c31fcf2ac1"
+    },
+    {
+      "xml_index": 153,
+      "doknr": "BJNR002450869BJNG002702301",
+      "anzeige": "100Titel XStraf- und Bußgeldvorschriften",
+      "identisch": true,
+      "zeichen": 34,
+      "sha256": "6d2f54552f130e8d5c0781807cb247eed5ace3a4cba3427a1d3458fdd2918b7e"
+    },
+    {
+      "xml_index": 154,
+      "doknr": "BJNR002450869BJNE020303301",
+      "anzeige": "§ 143",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "081df436de2826fbd188047c013d2bb3ac3ea71660c0ee93e16edf3d3e1de3f5"
+    },
+    {
+      "xml_index": 155,
+      "doknr": "BJNR002450869BJNE020429123",
+      "anzeige": "§ 144",
+      "identisch": true,
+      "zeichen": 5170,
+      "sha256": "df8b890d00f26c223ddbe3e5cb1b5c7d84977d78f50988005cf0437654d786e8"
+    },
+    {
+      "xml_index": 156,
+      "doknr": "BJNR002450869BJNE020520311",
+      "anzeige": "§ 145",
+      "identisch": true,
+      "zeichen": 3582,
+      "sha256": "c2c58878f5a34ee1e39e69164873138eef833f24d0abe56a89452c6c24522149"
+    },
+    {
+      "xml_index": 157,
+      "doknr": "BJNR002450869BJNE020623123",
+      "anzeige": "§ 146",
+      "identisch": true,
+      "zeichen": 3354,
+      "sha256": "69ba144a88bdfb7d6f422de2e7ce3d749d029abcdf61b0fccac08d9dec06e538"
+    },
+    {
+      "xml_index": 158,
+      "doknr": "BJNR002450869BJNE020707377",
+      "anzeige": "§ 147",
+      "identisch": true,
+      "zeichen": 360,
+      "sha256": "6b388a6f88ccccd1d7541a85d64f631e7db56cd5d86fe9312f38b4d9b58aea88"
+    },
+    {
+      "xml_index": 159,
+      "doknr": "BJNR002450869BJNE022503377",
+      "anzeige": "§ 147a",
+      "identisch": true,
+      "zeichen": 507,
+      "sha256": "1df2e95d367d7c2a8c8a86e92c04f49b3990d2adc577a6fa5b6d15017401d985"
+    },
+    {
+      "xml_index": 160,
+      "doknr": "BJNR002450869BJNE022705311",
+      "anzeige": "§ 147b",
+      "identisch": true,
+      "zeichen": 581,
+      "sha256": "cb5a6922b4cafec248125bdc3f73ef0a49c6fd4aaba7509470406b60089e5566"
+    },
+    {
+      "xml_index": 161,
+      "doknr": "BJNR002450869BJNE028300118",
+      "anzeige": "§ 147c",
+      "identisch": true,
+      "zeichen": 782,
+      "sha256": "9dc18e8d48e2d534b7412db8e401271e53fbb28b7b217b8e504eac6aeb89da12"
+    },
+    {
+      "xml_index": 162,
+      "doknr": "BJNR002450869BJNE029600128",
+      "anzeige": "§ 147d",
+      "identisch": true,
+      "zeichen": 1307,
+      "sha256": "833fed98cd50be610569dea1b4e25b81165f9af7aac0c911d89b7836b17bf0c2"
+    },
+    {
+      "xml_index": 163,
+      "doknr": "BJNR002450869BJNE020809360",
+      "anzeige": "§ 148",
+      "identisch": true,
+      "zeichen": 419,
+      "sha256": "10664388226b1590bebf2622963dfeb4dbb35c804fd642ca9921a23b1178b550"
+    },
+    {
+      "xml_index": 164,
+      "doknr": "BJNR002450869BJNE020903301",
+      "anzeige": "§ 148a",
+      "identisch": true,
+      "zeichen": 446,
+      "sha256": "1971dc669e94b5e2ff33ffdc789dd8db29e909618a60d25c073f4189ee60bf8a"
+    },
+    {
+      "xml_index": 165,
+      "doknr": "BJNR002450869BJNE022602301",
+      "anzeige": "§ 148b",
+      "identisch": true,
+      "zeichen": 712,
+      "sha256": "02989fd4e0bac6f013d07415f9635256b8161c1997ee82783fa31113bed4036d"
+    },
+    {
+      "xml_index": 166,
+      "doknr": "BJNR002450869BJNE029200123",
+      "anzeige": "§ 148c",
+      "identisch": true,
+      "zeichen": 394,
+      "sha256": "c3763b0d966be0b15d27b3ebbfb1becb7afdac1adb28bad874921aa8c2e820aa"
+    },
+    {
+      "xml_index": 167,
+      "doknr": "BJNR002450869BJNG002802301",
+      "anzeige": "110Titel XIGewerbezentralregister",
+      "identisch": true,
+      "zeichen": 29,
+      "sha256": "dc4ca4c7bff5517ee5c9f1e1094fd62a82e7955b6e455159bb7e65e65b23c943"
+    },
+    {
+      "xml_index": 168,
+      "doknr": "BJNR002450869BJNE027700118",
+      "anzeige": "§ 149",
+      "identisch": true,
+      "zeichen": 3741,
+      "sha256": "24c83ece8386999b37ef41f107cc54adbccf67deaa52dced68a9b127bcf2f616"
+    },
+    {
+      "xml_index": 169,
+      "doknr": "BJNR002450869BJNE021111128",
+      "anzeige": "§ 150",
+      "identisch": true,
+      "zeichen": 1792,
+      "sha256": "52589c2b85c66ab0a4fc901f81a3fa1ac47d014d847adf49c15b844a0c0a0537"
+    },
+    {
+      "xml_index": 170,
+      "doknr": "BJNR002450869BJNE028806128",
+      "anzeige": "§ 150a",
+      "identisch": true,
+      "zeichen": 3121,
+      "sha256": "a5f72463f787cab145a4b068796a247d5d9083e0140cd24e11a1b2ede2cb3dbb"
+    },
+    {
+      "xml_index": 171,
+      "doknr": "BJNR002450869BJNE023203116",
+      "anzeige": "§ 150b",
+      "identisch": true,
+      "zeichen": 2110,
+      "sha256": "2ecf091a7ae2d238242cea2d46546e1031b2bae9535d417f6d59dd4d2add3991"
+    },
+    {
+      "xml_index": 172,
+      "doknr": "BJNR002450869BJNE029401128",
+      "anzeige": "§ 150c",
+      "identisch": true,
+      "zeichen": 1772,
+      "sha256": "d49626786f61691ceed9c43044bfdcf0741e82655359eb3323faa79d4ac43fee"
+    },
+    {
+      "xml_index": 173,
+      "doknr": "BJNR002450869BJNE026103116",
+      "anzeige": "§ 150d",
+      "identisch": true,
+      "zeichen": 1201,
+      "sha256": "69cfb0d2d340535550e2b59145a4050ff99d9ca6e348b04dbd05d3c749d16e58"
+    },
+    {
+      "xml_index": 174,
+      "doknr": "BJNR002450869BJNE026504119",
+      "anzeige": "§ 150e",
+      "identisch": true,
+      "zeichen": 2583,
+      "sha256": "7da45e9c8fa2787e1ff948979ef9fb56d9590945cd611285eca6b827bde96171"
+    },
+    {
+      "xml_index": 175,
+      "doknr": "BJNR002450869BJNE028900311",
+      "anzeige": "§ 150f",
+      "identisch": true,
+      "zeichen": 517,
+      "sha256": "bb62940dd69381619c7a7cf9fe4332ec576b31261dfead6e59a90e23f23c236c"
+    },
+    {
+      "xml_index": 176,
+      "doknr": "BJNR002450869BJNE021305116",
+      "anzeige": "§ 151",
+      "identisch": true,
+      "zeichen": 1302,
+      "sha256": "cc8c64bab8fb71b003c86084349ac3cb865bcc981a796c308a64b47b65ac309d"
+    },
+    {
+      "xml_index": 177,
+      "doknr": "BJNR002450869BJNE021404118",
+      "anzeige": "§ 152",
+      "identisch": true,
+      "zeichen": 1403,
+      "sha256": "7647fc13e3094cd100ff0b002f06decc9b8b26aebadd7c4a33826bebccbeda50"
+    },
+    {
+      "xml_index": 178,
+      "doknr": "BJNR002450869BJNE021509116",
+      "anzeige": "§ 153",
+      "identisch": true,
+      "zeichen": 1851,
+      "sha256": "96c6b58f0679807530c164c280f375056f726bc505bfd91bd0a00578e7532a99"
+    },
+    {
+      "xml_index": 179,
+      "doknr": "BJNR002450869BJNE021606311",
+      "anzeige": "§ 153a",
+      "identisch": true,
+      "zeichen": 492,
+      "sha256": "070ca4e99d38c5388f5b28a1860f30693f957347b5f025116bcc3e760438f002"
+    },
+    {
+      "xml_index": 180,
+      "doknr": "BJNR002450869BJNE029000311",
+      "anzeige": "§ 153b",
+      "identisch": true,
+      "zeichen": 783,
+      "sha256": "713161f632517efb0339ea587609f9d46d39686d181504fc5ded4484ced493b4"
+    },
+    {
+      "xml_index": 181,
+      "doknr": "BJNR002450869BJNE029301128",
+      "anzeige": "§ 153c",
+      "identisch": true,
+      "zeichen": 353,
+      "sha256": "721f4d02db714cf9b2d72089b28eeab93cf97b2c102355baa90d96c586f23204"
+    },
+    {
+      "xml_index": 182,
+      "doknr": "BJNR002450869BJNG002902301",
+      "anzeige": "110010-Schlußbestimmungen",
+      "identisch": true,
+      "zeichen": 19,
+      "sha256": "8a5e6a4867481b4c4866fae5d8cf4233451494fdaf09a5ea151576630ce4dfa0"
+    },
+    {
+      "xml_index": 183,
+      "doknr": "BJNR002450869BJNE021805377",
+      "anzeige": "§ 154",
+      "identisch": true,
+      "zeichen": 17,
+      "sha256": "dcd4a368bb33b32f61064098117f3596a99cf7a9ab82360eb28f3c0082ba27b2"
+    },
+    {
+      "xml_index": 184,
+      "doknr": "BJNR002450869BJNE021903377",
+      "anzeige": "§ 154a",
+      "identisch": true,
+      "zeichen": 18,
+      "sha256": "8cc9412f9af90de4a1ba2e5e354242bdd8aac5518a479c9253879248ebf30cb1"
+    },
+    {
+      "xml_index": 185,
+      "doknr": "BJNR002450869BJNE022005377",
+      "anzeige": "§ 155",
+      "identisch": true,
+      "zeichen": 895,
+      "sha256": "e5ed91832590533ad64d09d9cdb91f6062d362928c5a7a598165335996d6678b"
+    },
+    {
+      "xml_index": 186,
+      "doknr": "BJNR002450869BJNE023601128",
+      "anzeige": "§ 155a",
+      "identisch": true,
+      "zeichen": 93,
+      "sha256": "6ca210fbe0140bb688dac5695e6b9dc2abb386c3ca6fa99c139b59459ab13016"
+    },
+    {
+      "xml_index": 187,
+      "doknr": "BJNR002450869BJNE022105118",
+      "anzeige": "§ 156",
+      "identisch": true,
+      "zeichen": 929,
+      "sha256": "2fb9da3b095284fd9da8f9bd3882b63f3c645cf6e27f0429465462a991298e8d"
+    },
+    {
+      "xml_index": 188,
+      "doknr": "BJNR002450869BJNE025005123",
+      "anzeige": "§ 157",
+      "identisch": true,
+      "zeichen": 5881,
+      "sha256": "3dd51a9395fb3b333076706137b45dc7439dc8cf10f804f9caec72e7e3c5fc26"
+    },
+    {
+      "xml_index": 189,
+      "doknr": "BJNR002450869BJNE025601119",
+      "anzeige": "§ 158",
+      "identisch": true,
+      "zeichen": 2573,
+      "sha256": "ff3722219422cdd5033096478aa1dc5b5a5bf07df491a641364013ff643c9dd8"
+    },
+    {
+      "xml_index": 190,
+      "doknr": "BJNR002450869BJNE026302118",
+      "anzeige": "§ 159",
+      "identisch": true,
+      "zeichen": 715,
+      "sha256": "897036cedfd3f99f7e3b6860e98dd6cd4c359ee08d5bdd0f9e9204d70c49d838"
+    },
+    {
+      "xml_index": 191,
+      "doknr": "BJNR002450869BJNE027400118",
+      "anzeige": "§ 160",
+      "identisch": true,
+      "zeichen": 1479,
+      "sha256": "f618fbe2a7972ed8c79b5315e475736aaecc67bc9adbf908ea875c681ec4a3ea"
+    },
+    {
+      "xml_index": 192,
+      "doknr": "BJNR002450869BJNE028401123",
+      "anzeige": "§ 161",
+      "identisch": true,
+      "zeichen": 780,
+      "sha256": "770b484ca403843a608e163d439bdf056b41b51086050849654fe431b9ae9e36"
+    },
+    {
+      "xml_index": 193,
+      "doknr": "BJNR002450869BJNE029500123",
+      "anzeige": "Anlage",
+      "identisch": true,
+      "zeichen": 8091,
+      "sha256": "9cba9b174b24fdf9a939086704159535ccc4006e40bcd0fd9d36d2621312f237"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR351500017",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR351500017BJNE000100000",
+    "enbez": "Eingangsformel",
+    "titel": ""
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR351500017BJNE000203123",
+    "enbez": "§ 1",
+    "titel": "Elektronische Aufzeichnungssysteme"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR351500017BJNE000302123",
+    "enbez": "§ 2",
+    "titel": "Protokollierung von digitalen Grundaufzeichnungen"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR351500017BJNE000400000",
+    "enbez": "§ 3",
+    "titel": "Speicherung der Grundaufzeichnungen"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR351500017BJNE000502123",
+    "enbez": "§ 4",
+    "titel": "Einheitliche digitale Schnittstelle"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR351500017BJNE000602123",
+    "enbez": "§ 5",
+    "titel": "Anforderungen an die technische Sicherheitseinrichtung"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR351500017BJNE000703123",
+    "enbez": "§ 6",
+    "titel": "Anforderungen an den Beleg"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR351500017BJNE001101123",
+    "enbez": "§ 7",
+    "titel": "Anforderungen an EU-Taxameter"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR351500017BJNE001201123",
+    "enbez": "§ 8",
+    "titel": "Anforderungen an Wegstreckenzähler"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR351500017BJNE001301123",
+    "enbez": "§ 9",
+    "titel": "Übergangsregelung für EU-Taxameter mit INSIKA-Technik"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR351500017BJNE001401123",
+    "enbez": "§ 10",
+    "titel": "Anwendungsregelung für Wegstreckenzähler"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR351500017BJNE000804123",
+    "enbez": "§ 11",
+    "titel": "Zertifizierung"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR351500017BJNE001001123",
+    "enbez": "Schlussformel",
+    "titel": ""
+  }
+]

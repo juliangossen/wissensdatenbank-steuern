@@ -1,0 +1,3400 @@
+{
+  "kuerzel": "GewO",
+  "quellenabgleich": "2026-09-09",
+  "normdatensaetze": 194,
+  "bestand_nach_typ": {
+    "Anlage/Anhang": 1,
+    "Dokumentkopf": 1,
+    "Gliederung": 21,
+    "Sonstiger Text": 1,
+    "Vorschrift": 170
+  },
+  "tabellen": 2,
+  "tabellenzeilen": 209,
+  "tabellenzellen": 370,
+  "gliederungsmarken_dt": 742,
+  "fussnotenverweise": 0,
+  "eingebettete_fussnoten": 0,
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR002450869",
+      "typ": "Dokumentkopf",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 1393,
+          "sha256_text": "96ad95bf269160006681b8d79fc8bfa85b01e998c931d7ea82e09f5c4be5915e"
+        }
+      }
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR002450869BJNE028016128",
+      "typ": "Sonstiger Text",
+      "bezeichnung_original": "Inhaltsübersicht",
+      "bezeichnung_anzeige": "Inhaltsübersicht",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 6618,
+          "sha256_text": "a893fe1cc27b574463200530040a45f6415f06d20abf3b6da844612f8a0fcb7a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR002450869BJNG000102301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "010Titel IAllgemeine Bestimmungen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR002450869BJNE003202301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 1",
+      "bezeichnung_anzeige": "§ 1",
+      "titel": "Grundsatz der Gewerbefreiheit",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 288,
+          "sha256_text": "da59266b04cf262d003fe7ebaa81773fcbf9c40095167ec847ee9095030614c4"
+        }
+      }
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR002450869BJNE003302301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 2",
+      "bezeichnung_anzeige": "§ 2",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        }
+      }
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR002450869BJNE003402301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 3",
+      "bezeichnung_anzeige": "§ 3",
+      "titel": "Betrieb verschiedener Gewerbe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 201,
+          "sha256_text": "98de4b203bab92f6556a274b273fb3786651aa427ce42254acef9fd227a0bf70"
+        }
+      }
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR002450869BJNE003506311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 4",
+      "bezeichnung_anzeige": "§ 4",
+      "titel": "Grenzüberschreitende Dienstleistungserbringung, Niederlassung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1479,
+          "sha256_text": "36df0f24abe8b3c64c51e34fbe91adcb02da07030de8b7bc8cdc6cd14a61f06a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 47,
+          "sha256_text": "887c0fb8f6b808cde130b4a48ef906b30ab9cb1e300a15f662832a4967fde70b"
+        }
+      }
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR002450869BJNE003602301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 5",
+      "bezeichnung_anzeige": "§ 5",
+      "titel": "Zulassungsbeschränkungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 140,
+          "sha256_text": "aac268ca149265ffc6e46f5215880be46f80f8d9dc2f9959adb15b3fe1e14d4b"
+        }
+      }
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR002450869BJNE003711311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 6",
+      "bezeichnung_anzeige": "§ 6",
+      "titel": "Anwendungsbereich",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1489,
+          "sha256_text": "c2e9c5531426230c91f4a85dbab863586b00c45132c723978528f5d170592872"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR002450869BJNE025104123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 6a",
+      "bezeichnung_anzeige": "§ 6a",
+      "titel": "Entscheidungsfrist, Genehmigungsfiktion",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 345,
+          "sha256_text": "88217f4e29ed8d3dbd96d1a0c09d74960ef7fa8ef85cf2c423965302f382e3be"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR002450869BJNE025203118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 6b",
+      "bezeichnung_anzeige": "§ 6b",
+      "titel": "Verfahren über eine einheitliche Stelle Europäischer Berufsausweis; Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 902,
+          "sha256_text": "4af1bc38126ee6c0cfb4ebe13b15d66183dc7d6c2f2a66ba9cf46faf40f642b7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR002450869BJNE025300377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 6c",
+      "bezeichnung_anzeige": "§ 6c",
+      "titel": "Informationspflichten für Dienstleistungserbringer",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 411,
+          "sha256_text": "ea76a8ea5dd17c940c60de764b6b1cde909366f71866762f9d7c523ec232e63c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 36,
+          "sha256_text": "5d1b69845367c9d486c105e22a0f19f9ee84d57649347012ef5ece1f76696205"
+        }
+      }
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR002450869BJNE003803123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 7",
+      "bezeichnung_anzeige": "§ 7",
+      "titel": "Mitteilungspflicht bei Gewerben mit Zuverlässigkeitsüberprüfung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 837,
+          "sha256_text": "182866648c2e2c685c59ebee947cf0f9cd00c30a1dee8fa100cce8a0a34680d4"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 13,
+      "doknr": "BJNR002450869BJNE003903123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 8",
+      "bezeichnung_anzeige": "§ 8",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 14,
+      "doknr": "BJNR002450869BJNE004003123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 9",
+      "bezeichnung_anzeige": "§ 9",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 15,
+      "doknr": "BJNR002450869BJNE004103123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 10",
+      "bezeichnung_anzeige": "§ 10",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 16,
+      "doknr": "BJNR002450869BJNE023106123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 11",
+      "bezeichnung_anzeige": "§ 11",
+      "titel": "Verarbeitung personenbezogener Daten; Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3276,
+          "sha256_text": "b01ac0c71b833bc13569ddba0e0619555b584a99ffbe606c0e9d3461d42bda9a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 51,
+          "sha256_text": "5fa18160f3859762c50513b2391a14e3fd7ad1d0010d02f69239dbaef8f665e9"
+        }
+      }
+    },
+    {
+      "xml_index": 17,
+      "doknr": "BJNR002450869BJNE026808123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 11a",
+      "bezeichnung_anzeige": "§ 11a",
+      "titel": "Vermittlerregister",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 6573,
+          "sha256_text": "cf4712de2447e9762c38956b2de6f465574fa1d0c4a679b6e961703bf92cf387"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 56,
+          "sha256_text": "ce19d18eff8d1c20620ed138947a807c88b68858c75413dd21d97b0ca659f6da"
+        }
+      }
+    },
+    {
+      "xml_index": 18,
+      "doknr": "BJNR002450869BJNE028601119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 11b",
+      "bezeichnung_anzeige": "§ 11b",
+      "titel": "Bewacherregister; Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 12250,
+          "sha256_text": "1914f56724b4a4d12f29531b2cf6292722284283027ebc3b5c227718800570cf"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 56,
+          "sha256_text": "b84d2298537f320d9fcb643362e0112985fae5bf698c6055b053770dccaa5cfb"
+        }
+      }
+    },
+    {
+      "xml_index": 19,
+      "doknr": "BJNR002450869BJNE024802118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 11c",
+      "bezeichnung_anzeige": "§ 11c",
+      "titel": "Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraumes bei reglementierten Berufen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1826,
+          "sha256_text": "edca0d60b4964a4181a763584cbdae1fc94118ea76096856f2a4f205a81f4e1b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 20,
+      "doknr": "BJNR002450869BJNE029100123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 11d",
+      "bezeichnung_anzeige": "§ 11d",
+      "titel": "Zusammenarbeit der Behörden",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4704,
+          "sha256_text": "a5d4df31bc404af3309cb781e8397a64bbd6ccd409ca4c3f1c9d618fda87ba55"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 21,
+      "doknr": "BJNR002450869BJNE028700128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 12",
+      "bezeichnung_anzeige": "§ 12",
+      "titel": "Insolvenzverfahren und Restrukturierungssachen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1082,
+          "sha256_text": "9cfcbfc083576bc66f32984331109da73787a163c210e97ca9f262c2e2b3acaa"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 22,
+      "doknr": "BJNR002450869BJNE022902377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 13",
+      "bezeichnung_anzeige": "§ 13",
+      "titel": "Erprobungsklausel",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 483,
+          "sha256_text": "bf5a07c48894c65e6e0e5f2b2a4105d77091f892f264d156394e7ace4baa1203"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 23,
+      "doknr": "BJNR002450869BJNE024902118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 13a",
+      "bezeichnung_anzeige": "§ 13a",
+      "titel": "Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen in reglementierten Berufen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3952,
+          "sha256_text": "e8b5c38498b839b11c5dab3d1e927a3296606c4f2d7485c66017ec48906660a6"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 24,
+      "doknr": "BJNR002450869BJNE025408118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 13b",
+      "bezeichnung_anzeige": "§ 13b",
+      "titel": "Anerkennung ausländischer Unterlagen und Bescheinigungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1975,
+          "sha256_text": "7bc1ce6de21000c5f8ebc050c944f6c2778515bfff96d6c36bd3aad9c858e3f1"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 25,
+      "doknr": "BJNR002450869BJNE025901118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 13c",
+      "bezeichnung_anzeige": "§ 13c",
+      "titel": "Anerkennung von ausländischen Befähigungsnachweisen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 6092,
+          "sha256_text": "ba8111ea92299e172a1df94b3f5be2ed33b4888556b6c12bf7e543656cade998"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 26,
+      "doknr": "BJNR002450869BJNG000202301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020Titel IIStehendes Gewerbe",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 27,
+      "doknr": "BJNR002450869BJNG000302301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020010I.Allgemeine Erfordernisse",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 28,
+      "doknr": "BJNR002450869BJNE004732128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 14",
+      "bezeichnung_anzeige": "§ 14",
+      "titel": "Anzeigepflicht; Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 10977,
+          "sha256_text": "d8f2962fbb2516a2b2751676f184b8cf8fde0ba709c38e57489aafbf52cc3198"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 173,
+          "sha256_text": "b070e28e7586036dd88a143e3c4388090da3492b91ff06439e5f2e964383b55f"
+        }
+      }
+    },
+    {
+      "xml_index": 29,
+      "doknr": "BJNR002450869BJNE004803301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 15",
+      "bezeichnung_anzeige": "§ 15",
+      "titel": "Empfangsbescheinigung, Betrieb ohne Zulassung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 405,
+          "sha256_text": "47cf04f2ba8834783a470ce24f806ceb6b5a6984716466eef9edd6ba247ad894"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 40,
+          "sha256_text": "2937b335b37e119b201cf724526eba745b7e1423c72d932eaa50454ca8e51620"
+        }
+      }
+    },
+    {
+      "xml_index": 30,
+      "doknr": "BJNR002450869BJNG000402301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020020II.Erfordernis besonderer Überwachung oder Genehmigung",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 31,
+      "doknr": "BJNR002450869BJNG000502301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020020010A.Anlagen, die einer besonderen Überwachung bedürfen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 32,
+      "doknr": "BJNR002450869BJNE005206301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 16 bis 28",
+      "bezeichnung_anzeige": "§§ 16 bis 28",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 33,
+      "doknr": "BJNR002450869BJNG000602301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020020020B.Gewerbetreibende, die einer besonderen Genehmigung bedürfen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 34,
+      "doknr": "BJNR002450869BJNE005913118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 29",
+      "bezeichnung_anzeige": "§ 29",
+      "titel": "Auskunft und Nachschau",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1665,
+          "sha256_text": "7bf097b9195068a3011fab3a6e34f7f13f1f90f54904be2efd2c79fdec16e07f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 43,
+          "sha256_text": "7346cb3fdc17a0b0d3f4bd3bcb008b6b04cb87ac3ba85f74d7174c7ade7dfe36"
+        }
+      }
+    },
+    {
+      "xml_index": 35,
+      "doknr": "BJNR002450869BJNE006003301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 30",
+      "bezeichnung_anzeige": "§ 30",
+      "titel": "Privatkrankenanstalten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1156,
+          "sha256_text": "44c42efd6aa006d905577f01b1f92788065c066b723cb61d75b988256230673e"
+        }
+      }
+    },
+    {
+      "xml_index": 36,
+      "doknr": "BJNR002450869BJNE006102301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 30a",
+      "bezeichnung_anzeige": "§ 30a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        }
+      }
+    },
+    {
+      "xml_index": 37,
+      "doknr": "BJNR002450869BJNE006203377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 30b",
+      "bezeichnung_anzeige": "§ 30b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 38,
+      "doknr": "BJNR002450869BJNE006303360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) § 30c",
+      "bezeichnung_anzeige": "§ 30c",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 39,
+      "doknr": "BJNR002450869BJNE026205123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 31",
+      "bezeichnung_anzeige": "§ 31",
+      "titel": "Bewachungsgewerbe auf Seeschiffen; Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 7640,
+          "sha256_text": "39c76b994f8e5d9aace6a5793dd665efeb0f05a4d393a8d2c4d953b549c460a0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 40,
+      "doknr": "BJNR002450869BJNE006307116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 32",
+      "bezeichnung_anzeige": "§ 32",
+      "titel": "Regelung der Sachkundeprüfung, Aufgabenauswahlausschüsse",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1420,
+          "sha256_text": "250eace726e6cc3fe0d48c2110e8dd2f7d472c5f573550385903cbed1edde587"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 41,
+      "doknr": "BJNR002450869BJNE028500116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33",
+      "bezeichnung_anzeige": "§ 33",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 42,
+      "doknr": "BJNR002450869BJNE006403301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33a",
+      "bezeichnung_anzeige": "§ 33a",
+      "titel": "Schaustellungen von Personen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1156,
+          "sha256_text": "f23ae1075d14e7af07fa21510351199125d68ed08ea6f29faeb853e0d12425a8"
+        }
+      }
+    },
+    {
+      "xml_index": 43,
+      "doknr": "BJNR002450869BJNE006503123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33b",
+      "bezeichnung_anzeige": "§ 33b",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 44,
+      "doknr": "BJNR002450869BJNE006607128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33c",
+      "bezeichnung_anzeige": "§ 33c",
+      "titel": "Spielgeräte mit Gewinnmöglichkeit",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2335,
+          "sha256_text": "a0d7e4b3efad21cd9b3b2f04ad1d18d841cc646537c42a6ea2a954e221b63eec"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 45,
+      "doknr": "BJNR002450869BJNE006707360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33d",
+      "bezeichnung_anzeige": "§ 33d",
+      "titel": "Andere Spiele mit Gewinnmöglichkeit",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1446,
+          "sha256_text": "f9eb90850fd62c5da08a4de41fcfec9acc2d7c76d46ba269ad1e73bcfb7d485c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 46,
+      "doknr": "BJNR002450869BJNE006806360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33e",
+      "bezeichnung_anzeige": "§ 33e",
+      "titel": "Bauartzulassung und Unbedenklichkeitsbescheinigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1409,
+          "sha256_text": "72519e9decc32199bfe57d7ccbc6a3b17da443eda7f6a2ad140eac5a63c3df16"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 47,
+      "doknr": "BJNR002450869BJNE027603123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33f",
+      "bezeichnung_anzeige": "§ 33f",
+      "titel": "Ermächtigung zum Erlaß von Durchführungsvorschriften",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2588,
+          "sha256_text": "2deed2b0eb961159ec888b54d1780ad5e86ab49342b5d0869dad0fcd82e79663"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 48,
+      "doknr": "BJNR002450869BJNE007012123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33g",
+      "bezeichnung_anzeige": "§ 33g",
+      "titel": "Einschränkung und Ausdehnung der Erlaubnispflicht",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 694,
+          "sha256_text": "b69b83da27597bebb1f0bd812af51314fb08edb278205caddc364c80aee215ec"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 49,
+      "doknr": "BJNR002450869BJNE007102301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33h",
+      "bezeichnung_anzeige": "§ 33h",
+      "titel": "Spielbanken, Lotterien, Glücksspiele",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 397,
+          "sha256_text": "a0a8f99e693ee6f4392a84575112019821c0c89b2a2196d0f294cc216b27ac6c"
+        }
+      }
+    },
+    {
+      "xml_index": 50,
+      "doknr": "BJNR002450869BJNE007205360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33i",
+      "bezeichnung_anzeige": "§ 33i",
+      "titel": "Spielhallen und ähnliche Unternehmen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1130,
+          "sha256_text": "acec79f6cb8ee71b228d52ed5453949d34b320ae396db126e5f439f5469f791e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 51,
+      "doknr": "BJNR002450869BJNE007312123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34",
+      "bezeichnung_anzeige": "§ 34",
+      "titel": "Pfandleihgewerbe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1856,
+          "sha256_text": "a95bd8d1c3f89552ec1b994d780069dcbe90674ac152ca666d163a973ab06e5a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 52,
+      "doknr": "BJNR002450869BJNE028103119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34a",
+      "bezeichnung_anzeige": "§ 34a",
+      "titel": "Bewachungsgewerbe; Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 12560,
+          "sha256_text": "f6b302728f5bd6743f5efcd3d2746c1718408f458d8c069f56d5aefcced52eba"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 53,
+      "doknr": "BJNR002450869BJNE007516123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34b",
+      "bezeichnung_anzeige": "§ 34b",
+      "titel": "Versteigerergewerbe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4327,
+          "sha256_text": "6dc7c88a3a4d223dfbe9a43416ac10be27d3eecdf24dac6c2b75a2f9a50abd90"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 60,
+          "sha256_text": "b6c8237d771999b782fc9ef2141f1530a9614bd45839c983a6ce0bd0813ec879"
+        }
+      }
+    },
+    {
+      "xml_index": 54,
+      "doknr": "BJNR002450869BJNE007635123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34c",
+      "bezeichnung_anzeige": "§ 34c",
+      "titel": "Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer, Wohnimmobilienverwalter, Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 6904,
+          "sha256_text": "48f9a3d20c7a43cdc5f30924801bbe87c2a3e6f9439b0426650a0dd8b453bb6a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 66,
+          "sha256_text": "25cdc14a415010098d9c118cb4b21a1c3984209dfdbd300d5ae5c00328576926"
+        }
+      }
+    },
+    {
+      "xml_index": 55,
+      "doknr": "BJNR002450869BJNE026907128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34d",
+      "bezeichnung_anzeige": "§ 34d",
+      "titel": "Versicherungsvermittler, Versicherungsberater",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 14946,
+          "sha256_text": "1457178b1dc369eb424e1ee2a9c06c27857b19c7f4773cab843f30212567e6ad"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 56,
+      "doknr": "BJNR002450869BJNE024506128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34e",
+      "bezeichnung_anzeige": "§ 34e",
+      "titel": "Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5724,
+          "sha256_text": "926368fbca39bd586e3517aa4add133d7f17ffec47aa5b63b1572121c0b6c167"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 57,
+      "doknr": "BJNR002450869BJNE025707128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34f",
+      "bezeichnung_anzeige": "§ 34f",
+      "titel": "Finanzanlagenvermittler",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5121,
+          "sha256_text": "aebebf4eb23dcc572db573e801851ae45e097594e45cd116ee3341b10625a196"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 58,
+      "doknr": "BJNR002450869BJNE028203128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34g",
+      "bezeichnung_anzeige": "§ 34g",
+      "titel": "Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4168,
+          "sha256_text": "53927fed8949252af9d63410a14981a65c966643e142b6034096aadaad6849e1"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 59,
+      "doknr": "BJNR002450869BJNE026403128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34h",
+      "bezeichnung_anzeige": "§ 34h",
+      "titel": "Honorar-Finanzanlagenberater",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2086,
+          "sha256_text": "3de57d7766076189b3eb81034a5e7dfdea90dde16cb5266baaa604da1c4a7a37"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 60,
+      "doknr": "BJNR002450869BJNE027102128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34i",
+      "bezeichnung_anzeige": "§ 34i",
+      "titel": "Immobiliardarlehensvermittler",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5578,
+          "sha256_text": "c153ef12d4ffcb5b4c8a94e8457002f34ffaa887fbe919ee7d12bd8ff12855c0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 165,
+          "sha256_text": "84fd81a83ef00bcb42b5e75f37366ac23e271dd4cddd4cd2a29cfcab1ee27137"
+        }
+      }
+    },
+    {
+      "xml_index": 61,
+      "doknr": "BJNR002450869BJNE027302123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34j",
+      "bezeichnung_anzeige": "§ 34j",
+      "titel": "Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4125,
+          "sha256_text": "97614c073602cd7c03ae1dd86fd5a8d79e95d75954693625a419f06619d7e893"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 62,
+      "doknr": "BJNR002450869BJNE029900128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34l",
+      "bezeichnung_anzeige": "§ 34l",
+      "titel": "Verordnungsermächtigung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2056,
+          "sha256_text": "94da5972b24f02d9668cb747c433d2c998f3a89578680b69e26bfe9e667f2a51"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 63,
+      "doknr": "BJNR002450869BJNE007709123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 35",
+      "bezeichnung_anzeige": "§ 35",
+      "titel": "Gewerbeuntersagung wegen Unzuverlässigkeit",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4401,
+          "sha256_text": "f72494daed56adb0ef7204e76cc04a1e08050cca928f03a7a507c90b617ae5f1"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 64,
+      "doknr": "BJNR002450869BJNE007803301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 35a und 35b",
+      "bezeichnung_anzeige": "§§ 35a und 35b",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 65,
+      "doknr": "BJNR002450869BJNE008010123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 36",
+      "bezeichnung_anzeige": "§ 36",
+      "titel": "Öffentliche Bestellung von Sachverständigen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4255,
+          "sha256_text": "9ff88a3a2dc61dbaceb4ab1d455acd02aaa04b04859e32c24dc179564df838ce"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 66,
+      "doknr": "BJNR002450869BJNE025500377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 36a",
+      "bezeichnung_anzeige": "§ 36a",
+      "titel": "Öffentliche Bestellung von Sachverständigen mit Qualifikationen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2266,
+          "sha256_text": "a057750b981ce2650d9bea1ffe6e770e5cc030ab53761b8874462bfc19c53db1"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 67,
+      "doknr": "BJNR002450869BJNE008102301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 37",
+      "bezeichnung_anzeige": "§ 37",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        }
+      }
+    },
+    {
+      "xml_index": 68,
+      "doknr": "BJNR002450869BJNE008209123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 38",
+      "bezeichnung_anzeige": "§ 38",
+      "titel": "Überwachungsbedürftige Gewerbe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2051,
+          "sha256_text": "74c280dbfa0d28819977ad97faf87586f415cec3edeb2821e27deddd519374a8"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 53,
+          "sha256_text": "5383330f02e2f5c7130b0dd4db36a95e0a913166bd6e65a43dc5069c2e088276"
+        }
+      }
+    },
+    {
+      "xml_index": 69,
+      "doknr": "BJNR002450869BJNE008302301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 39",
+      "bezeichnung_anzeige": "§ 39",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        }
+      }
+    },
+    {
+      "xml_index": 70,
+      "doknr": "BJNR002450869BJNE008403377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 39a",
+      "bezeichnung_anzeige": "§ 39a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 71,
+      "doknr": "BJNR002450869BJNE008502301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 40",
+      "bezeichnung_anzeige": "§ 40",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        }
+      }
+    },
+    {
+      "xml_index": 72,
+      "doknr": "BJNR002450869BJNG000702301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020030III.Umfang, Ausübung und Verlust der Gewerbebefugnisse",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 73,
+      "doknr": "BJNR002450869BJNE008603123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 41",
+      "bezeichnung_anzeige": "§ 41",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 74,
+      "doknr": "BJNR002450869BJNE008702301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 41a und 41b",
+      "bezeichnung_anzeige": "§§ 41a und 41b",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 75,
+      "doknr": "BJNR002450869BJNE008903377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42",
+      "bezeichnung_anzeige": "§ 42",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1,
+          "sha256_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 76,
+      "doknr": "BJNR002450869BJNE009002301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 42a bis 44a",
+      "bezeichnung_anzeige": "§§ 42a bis 44a",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 77,
+      "doknr": "BJNR002450869BJNE009102301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 45",
+      "bezeichnung_anzeige": "§ 45",
+      "titel": "Stellvertreter",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 176,
+          "sha256_text": "3d67b22d5cd8e280f0528f0ff6a97f1b60d6f04da0fe2f4cbd5b9057375aeeaf"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 92,
+          "sha256_text": "48ece5432ace248166b3df8e17e65f79cdb55ad222681416a2505dcfa4832354"
+        }
+      }
+    },
+    {
+      "xml_index": 78,
+      "doknr": "BJNR002450869BJNE009203377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 46",
+      "bezeichnung_anzeige": "§ 46",
+      "titel": "Fortführung des Gewerbes",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 612,
+          "sha256_text": "91155f1abb1d574e96b57b2654a1e750fd8ba5824fc1678f58a6bc9e6dd41805"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 79,
+      "doknr": "BJNR002450869BJNE009308118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 47",
+      "bezeichnung_anzeige": "§ 47",
+      "titel": "Stellvertretung in besonderen Fällen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 231,
+          "sha256_text": "694ab4c98d37cdfb9b4ce9d5fde61e18f7708d0b5142a0c049b08048236e4693"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 80,
+      "doknr": "BJNR002450869BJNE009403123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 48",
+      "bezeichnung_anzeige": "§ 48",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 81,
+      "doknr": "BJNR002450869BJNE009504301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 49",
+      "bezeichnung_anzeige": "§ 49",
+      "titel": "Erlöschen von Erlaubnissen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 266,
+          "sha256_text": "d30907153ba3f2be43b36f811c8b8fd8f130781508292639d7b62a83280ddb68"
+        }
+      }
+    },
+    {
+      "xml_index": 82,
+      "doknr": "BJNR002450869BJNE009602301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 50",
+      "bezeichnung_anzeige": "§ 50",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        }
+      }
+    },
+    {
+      "xml_index": 83,
+      "doknr": "BJNR002450869BJNE009703301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51",
+      "bezeichnung_anzeige": "§ 51",
+      "titel": "Untersagung wegen überwiegender Nachteile und Gefahren",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 334,
+          "sha256_text": "f6b45dbb1c66724e93f06a2f39272ae9d1bec05342707bbc231096bf8f44f578"
+        }
+      }
+    },
+    {
+      "xml_index": 84,
+      "doknr": "BJNR002450869BJNE009803123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 52",
+      "bezeichnung_anzeige": "§ 52",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 85,
+      "doknr": "BJNR002450869BJNE010102301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 53 bis 54",
+      "bezeichnung_anzeige": "§§ 53 bis 54",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 86,
+      "doknr": "BJNR002450869BJNG000802301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "030Titel IIIReisegewerbe",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 87,
+      "doknr": "BJNR002450869BJNE010205377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 55",
+      "bezeichnung_anzeige": "§ 55",
+      "titel": "Reisegewerbekarte",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 686,
+          "sha256_text": "7d0ab10710f354beea138e0c1f03f4d77ba6376aa9ae40c20718d1dc59dd333d"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 53,
+          "sha256_text": "2b73de0e9dd250c64703b8e3ba9217e91562e353cff8ccab981482ce5f75bf4f"
+        }
+      }
+    },
+    {
+      "xml_index": 88,
+      "doknr": "BJNR002450869BJNE010311118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 55a",
+      "bezeichnung_anzeige": "§ 55a",
+      "titel": "Reisegewerbekartenfreie Tätigkeiten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1851,
+          "sha256_text": "14dd32b5204ba1d018e000a4eaf8620dbcaaf478b9b41eaf4f0f4c156012cad9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 89,
+      "doknr": "BJNR002450869BJNE010404377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 55b",
+      "bezeichnung_anzeige": "§ 55b",
+      "titel": "Weitere reisegewerbekartenfreie Tätigkeiten, Gewerbelegitimationskarte",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 614,
+          "sha256_text": "7b5a9f2dff378450677a919346b8f00382e00ed2ca26dea433cde8d53910164a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 90,
+      "doknr": "BJNR002450869BJNE010509119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 55c",
+      "bezeichnung_anzeige": "§ 55c",
+      "titel": "Anzeigepflicht",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 304,
+          "sha256_text": "489100bde573f86e4f51891ef88df9fabe0847fd76dea29722c268bcd0567147"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 115,
+          "sha256_text": "91f8def782c632f1e40832ef4d96fcb1c5f40435e5b50e51a32f6948faa8c08a"
+        }
+      }
+    },
+    {
+      "xml_index": 91,
+      "doknr": "BJNR002450869BJNE010603301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 55d",
+      "bezeichnung_anzeige": "§ 55d",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1,
+          "sha256_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        }
+      }
+    },
+    {
+      "xml_index": 92,
+      "doknr": "BJNR002450869BJNE010708377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 55e",
+      "bezeichnung_anzeige": "§ 55e",
+      "titel": "Sonn- und Feiertagsruhe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 354,
+          "sha256_text": "8eba71ecd846740b606038203ab3eab145690b4079acbec155b3a0e54c2d6f75"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 93,
+      "doknr": "BJNR002450869BJNE022208123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 55f",
+      "bezeichnung_anzeige": "§ 55f",
+      "titel": "Haftpflichtversicherung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 363,
+          "sha256_text": "5df8125057fefc23eb49362198cf138a6009f485e764c28e2346f1d533aba4cf"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 94,
+      "doknr": "BJNR002450869BJNE010816123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 56",
+      "bezeichnung_anzeige": "§ 56",
+      "titel": "Im Reisegewerbe verbotene Tätigkeiten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2269,
+          "sha256_text": "c66de016e6540230d4965eaf26903f1a5d3e61bd233403bccba56b15e919161f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 95,
+      "doknr": "BJNR002450869BJNE010907311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 56a",
+      "bezeichnung_anzeige": "§ 56a",
+      "titel": "Wanderlager",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4003,
+          "sha256_text": "82943fb0f39e69b6e85a726fd5643a018724e94f7ddf85ffedaefad0056f03bf"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 62,
+          "sha256_text": "72e825f9383c148ca61efdadb84da4015038208c56a09f16ef4b65b6817501f1"
+        }
+      }
+    },
+    {
+      "xml_index": 96,
+      "doknr": "BJNR002450869BJNE011011124",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 57",
+      "bezeichnung_anzeige": "§ 57",
+      "titel": "Versagung der Reisegewerbekarte",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 668,
+          "sha256_text": "f2c5478a77b76815df144117dd1febff79d2ec8e938f3c8ff7611b8cd8634ce8"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 50,
+          "sha256_text": "ab4bd9f2bbf871adfd65672a022560b33a3f71ac90662ba322fa639a7f57eb4f"
+        }
+      }
+    },
+    {
+      "xml_index": 97,
+      "doknr": "BJNR002450869BJNE011103301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 57a und 58",
+      "bezeichnung_anzeige": "§§ 57a und 58",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 98,
+      "doknr": "BJNR002450869BJNE011305301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 59",
+      "bezeichnung_anzeige": "§ 59",
+      "titel": "Untersagung reisegewerbekartenfreier Tätigkeiten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 190,
+          "sha256_text": "22f17c6c947150f8467dbe950211a7cac7f82adc2575ece63fdc260743c48137"
+        }
+      }
+    },
+    {
+      "xml_index": 99,
+      "doknr": "BJNR002450869BJNE011404377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 60",
+      "bezeichnung_anzeige": "§ 60",
+      "titel": "Beschäftigte Personen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 191,
+          "sha256_text": "de2e03593acca3a1e3d2e55a6de250aea40afd34c089ad5bf4491b39b3c44afb"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 100,
+      "doknr": "BJNR002450869BJNE011505301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 60a",
+      "bezeichnung_anzeige": "§ 60a",
+      "titel": "Veranstaltung von Spielen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 938,
+          "sha256_text": "3ee8257b9de31f992d8e3dcdb5c31da1f56541911fb7e8cce5c2eeb8e2020fae"
+        }
+      }
+    },
+    {
+      "xml_index": 101,
+      "doknr": "BJNR002450869BJNE011605377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 60b",
+      "bezeichnung_anzeige": "§ 60b",
+      "titel": "Volksfest",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 418,
+          "sha256_text": "a6e2bea816190fcdf783bdaa2a6e9eb327db915584ddadd04bdf109483ae3725"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 102,
+      "doknr": "BJNR002450869BJNE011704377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 60c",
+      "bezeichnung_anzeige": "§ 60c",
+      "titel": "Mitführen und Vorzeigen der Reisegewerbekarte",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 971,
+          "sha256_text": "27ac3e63c65368856541a1ae6585ece3c108e0c0bb32fd348d23a8f4cd916bfe"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 103,
+      "doknr": "BJNR002450869BJNE011805377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 60d",
+      "bezeichnung_anzeige": "§ 60d",
+      "titel": "Verhinderung der Gewerbeausübung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 258,
+          "sha256_text": "cd43d8a936952e930eea9751d3c09e323a12b55de2d30252c90d2543e05806ff"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 104,
+      "doknr": "BJNR002450869BJNE011906123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 61",
+      "bezeichnung_anzeige": "§ 61",
+      "titel": "Örtliche Zuständigkeit",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 408,
+          "sha256_text": "14ba4be8f8aa8dde2aa1c3864c5480b46c024d1dbfe82557e5cc7b04c423e834"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 105,
+      "doknr": "BJNR002450869BJNE022315123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 61a",
+      "bezeichnung_anzeige": "§ 61a",
+      "titel": "Anwendbarkeit von Vorschriften des stehenden Gewerbes für die Ausübung als Reisegewerbe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 828,
+          "sha256_text": "bdb3224e8b31b8f24bdd902516fbaacdc57d6cec454014bf1e2ad47a40337350"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 106,
+      "doknr": "BJNR002450869BJNE012003301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 62 und 63",
+      "bezeichnung_anzeige": "§§ 62 und 63",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 107,
+      "doknr": "BJNR002450869BJNG000902301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "040Titel IVMessen, Ausstellungen, Märkte",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 108,
+      "doknr": "BJNR002450869BJNE012202301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 64",
+      "bezeichnung_anzeige": "§ 64",
+      "titel": "Messe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 406,
+          "sha256_text": "e9d0a1f16101aaa23cde9fd54f6f54baa74aaccd7b1924647f671c868e7e27c5"
+        }
+      }
+    },
+    {
+      "xml_index": 109,
+      "doknr": "BJNR002450869BJNE012302301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 65",
+      "bezeichnung_anzeige": "§ 65",
+      "titel": "Ausstellung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 245,
+          "sha256_text": "652be49250d82b01b787d76e6fbdc32f39ad274ea5fa778cee68b49b4f0706e8"
+        }
+      }
+    },
+    {
+      "xml_index": 110,
+      "doknr": "BJNR002450869BJNE012402301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 66",
+      "bezeichnung_anzeige": "§ 66",
+      "titel": "Großmarkt",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 185,
+          "sha256_text": "2487c371fba178e10234a91d36d0057c5ae572ae3b1c3ff9c19cede19205f15a"
+        }
+      }
+    },
+    {
+      "xml_index": 111,
+      "doknr": "BJNR002450869BJNE012508311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 67",
+      "bezeichnung_anzeige": "§ 67",
+      "titel": "Wochenmarkt",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1329,
+          "sha256_text": "ab25d78c594b04e5336c0ffbe2955973d34528fe692e05090b2ad79abd8cbbfd"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 112,
+      "doknr": "BJNR002450869BJNE012603301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 68",
+      "bezeichnung_anzeige": "§ 68",
+      "titel": "Spezialmarkt und Jahrmarkt",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 473,
+          "sha256_text": "595b00b154261c2e707694f32989296542c58c1fd8569447be1832fe315a2315"
+        }
+      }
+    },
+    {
+      "xml_index": 113,
+      "doknr": "BJNR002450869BJNE012702301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 68a",
+      "bezeichnung_anzeige": "§ 68a",
+      "titel": "Verabreichen von Getränken und Speisen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 272,
+          "sha256_text": "0b44326f3ddfafca912117bc36e3588e6889d9e0b06b4287709453768d2a3014"
+        }
+      }
+    },
+    {
+      "xml_index": 114,
+      "doknr": "BJNR002450869BJNE012804118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 69",
+      "bezeichnung_anzeige": "§ 69",
+      "titel": "Festsetzung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 773,
+          "sha256_text": "2e4edf41ff591eab8e44e7aedb0a7955f93c1f30a60ccf12058f9ed54b05a1ec"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 115,
+      "doknr": "BJNR002450869BJNE012903301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 69a",
+      "bezeichnung_anzeige": "§ 69a",
+      "titel": "Ablehnung der Festsetzung, Auflagen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1089,
+          "sha256_text": "200cea161a71e3941827cbcd143f092c15bea23cdb8f09cad05f2c21afee395f"
+        }
+      }
+    },
+    {
+      "xml_index": 116,
+      "doknr": "BJNR002450869BJNE013002301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 69b",
+      "bezeichnung_anzeige": "§ 69b",
+      "titel": "Änderung und Aufhebung der Festsetzung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 933,
+          "sha256_text": "c1d04f146a4384cca8091458e57fb57b50c2c8171ccd9cc5c1af9b2ad0d5fb8b"
+        }
+      }
+    },
+    {
+      "xml_index": 117,
+      "doknr": "BJNR002450869BJNE013102301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 70",
+      "bezeichnung_anzeige": "§ 70",
+      "titel": "Recht zur Teilnahme an einer Veranstaltung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 669,
+          "sha256_text": "7b1b5ae600cefed354f290e842219494ca2bfc56a7d35cdb48fede4b458f3d65"
+        }
+      }
+    },
+    {
+      "xml_index": 118,
+      "doknr": "BJNR002450869BJNE013209124",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 70a",
+      "bezeichnung_anzeige": "§ 70a",
+      "titel": "Untersagung der Teilnahme an einer Veranstaltung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 852,
+          "sha256_text": "b9ae6abbffca4241c68d2bd407a7b8a66963200ea2752ab7a031bb339cea601a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 119,
+      "doknr": "BJNR002450869BJNE013304377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 70b",
+      "bezeichnung_anzeige": "§ 70b",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1,
+          "sha256_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 120,
+      "doknr": "BJNR002450869BJNE013402301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 71",
+      "bezeichnung_anzeige": "§ 71",
+      "titel": "Vergütung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 445,
+          "sha256_text": "04c3a72a858ec4848b734639dc3356dcaeb1748f9a52f69f17b1804fe52cc85c"
+        }
+      }
+    },
+    {
+      "xml_index": 121,
+      "doknr": "BJNR002450869BJNE013503301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 71a",
+      "bezeichnung_anzeige": "§ 71a",
+      "titel": "Öffentliche Sicherheit oder Ordnung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 146,
+          "sha256_text": "d37e25d4610e8a876a4c73e5ed95cf7dd30b2118894e1fff0dc420121f37c3c3"
+        }
+      }
+    },
+    {
+      "xml_index": 122,
+      "doknr": "BJNR002450869BJNE022414123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 71b",
+      "bezeichnung_anzeige": "§ 71b",
+      "titel": "Anwendbarkeit von Vorschriften des stehenden Gewerbes für die Ausübung im Messe-, Ausstellungs- und Marktgewerbe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 816,
+          "sha256_text": "580fa22684d4056efad739fa09fdbfc7e369efa7b3ed947a1cf2eb9dfc662de9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 123,
+      "doknr": "BJNR002450869BJNG001002301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "050Titel VTaxen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 124,
+      "doknr": "BJNR002450869BJNE013602301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 72 bis 80",
+      "bezeichnung_anzeige": "§§ 72 bis 80",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 125,
+      "doknr": "BJNR002450869BJNG001102301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "060Titel VIInnungen, Innungsausschüsse, Handwerkskammern, Innungsverbände",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 126,
+      "doknr": "BJNR002450869BJNE013702301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 81 bis 104n",
+      "bezeichnung_anzeige": "§§ 81 bis 104n",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 127,
+      "doknr": "BJNR002450869BJNG001202301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "061Titel VIaHandwerksrolle",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 128,
+      "doknr": "BJNR002450869BJNE013802301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 104o bis 104u",
+      "bezeichnung_anzeige": "§§ 104o bis 104u",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 129,
+      "doknr": "BJNR002450869BJNG001303377",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "070Titel VIIArbeitnehmer",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 130,
+      "doknr": "BJNR002450869BJNG001403377",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "070010I.Allgemeine arbeitsrechtliche Grundsätze",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 131,
+      "doknr": "BJNR002450869BJNE013903377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 105",
+      "bezeichnung_anzeige": "§ 105",
+      "titel": "Freie Gestaltung des Arbeitsvertrages",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 324,
+          "sha256_text": "b2a56408db859e7e519a0b628d727f82323920cc976bbabb018113ede11c34ab"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 132,
+      "doknr": "BJNR002450869BJNE023700377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 106",
+      "bezeichnung_anzeige": "§ 106",
+      "titel": "Weisungsrecht des Arbeitgebers",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 427,
+          "sha256_text": "c7356056f4052813423693f95758cacfe94fa2edad78e645e998f5fb80c81b0e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 133,
+      "doknr": "BJNR002450869BJNE023800377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 107",
+      "bezeichnung_anzeige": "§ 107",
+      "titel": "Berechnung und Zahlung des Arbeitsentgelts",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 982,
+          "sha256_text": "182471df156b9f4f71a77a9ff8364a1e93ace7542b45ba3ce9c9cf82dd4491f8"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 134,
+      "doknr": "BJNR002450869BJNE023905118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 108",
+      "bezeichnung_anzeige": "§ 108",
+      "titel": "Abrechnung des Arbeitsentgelts",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1024,
+          "sha256_text": "c2776c7b0714c2904bd449e4e539a6f3f5b6883ea5273859ae1ea105eb88c04e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 135,
+      "doknr": "BJNR002450869BJNE024001119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 109",
+      "bezeichnung_anzeige": "§ 109",
+      "titel": "Zeugnis",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 607,
+          "sha256_text": "a77b3072956bc0b2f59b2b4e4b6f1ed7b146182c22e636870bfce3221720323a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 136,
+      "doknr": "BJNR002450869BJNE024100377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 110",
+      "bezeichnung_anzeige": "§ 110",
+      "titel": "Wettbewerbsverbot",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 227,
+          "sha256_text": "2577c4ad379fd49a73f48fa8612bea50eaf13479c6d54462f73f7e9c85acaac0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 137,
+      "doknr": "BJNR002450869BJNE015004123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 111",
+      "bezeichnung_anzeige": "§ 111",
+      "titel": "Pflichtfortbildungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 467,
+          "sha256_text": "12f5ed5fcdd02fc58e82c3f63e5852d53ac653b81763342e476bb6ae2976733a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 138,
+      "doknr": "BJNR002450869BJNE015005123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 112 bis 132a",
+      "bezeichnung_anzeige": "§§ 112 bis 132a",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 139,
+      "doknr": "BJNR002450869BJNG001803377",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "070020II.Meistertitel",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 140,
+      "doknr": "BJNR002450869BJNE018003377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 133",
+      "bezeichnung_anzeige": "§ 133",
+      "titel": "Befugnis zur Führung des Baumeistertitels",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 314,
+          "sha256_text": "9f8caf08a9ef42818df0bbb85ff24cf7253280661a67eb606df584dc308914a7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 141,
+      "doknr": "BJNR002450869BJNE018102301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 133a bis 133d",
+      "bezeichnung_anzeige": "§§ 133a bis 133d",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 142,
+      "doknr": "BJNR002450869BJNE018405377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 133e bis 139aa",
+      "bezeichnung_anzeige": "§§ 133e bis 139aa",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 143,
+      "doknr": "BJNR002450869BJNG002303377",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "070030III.Aufsicht",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 144,
+      "doknr": "BJNR002450869BJNE019320128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 139b",
+      "bezeichnung_anzeige": "§ 139b",
+      "titel": "Gewerbeaufsichtsbehörde",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4193,
+          "sha256_text": "4b966720aa19766250b68a9e7de81bcf3fc6a87aadf0795c106e0818eb81ed0a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 145,
+      "doknr": "BJNR002450869BJNE019402301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 139c bis 139h",
+      "bezeichnung_anzeige": "§§ 139c bis 139h",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 146,
+      "doknr": "BJNR002450869BJNE019703377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 139i",
+      "bezeichnung_anzeige": "§ 139i",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 147,
+      "doknr": "BJNR002450869BJNE019802301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 139k und 139m",
+      "bezeichnung_anzeige": "§§ 139k und 139m",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 148,
+      "doknr": "BJNR002450869BJNG002502301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "080Titel VIIIGewerbliche Hilfskassen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 149,
+      "doknr": "BJNR002450869BJNE020003377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 140",
+      "bezeichnung_anzeige": "§ 140",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 150,
+      "doknr": "BJNR002450869BJNE020102301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "(XXXX) §§ 141 bis 141f",
+      "bezeichnung_anzeige": "§§ 141 bis 141f",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {}
+    },
+    {
+      "xml_index": 151,
+      "doknr": "BJNR002450869BJNG002602301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "090Titel IXStatutarische Bestimmungen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 152,
+      "doknr": "BJNR002450869BJNE020204377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 142",
+      "bezeichnung_anzeige": "§ 142",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 153,
+      "doknr": "BJNR002450869BJNG002702301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "100Titel XStraf- und Bußgeldvorschriften",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 154,
+      "doknr": "BJNR002450869BJNE020303301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 143",
+      "bezeichnung_anzeige": "§ 143",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        }
+      }
+    },
+    {
+      "xml_index": 155,
+      "doknr": "BJNR002450869BJNE020429123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 144",
+      "bezeichnung_anzeige": "§ 144",
+      "titel": "Verletzung von Vorschriften über erlaubnisbedürftige stehende Gewerbe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5103,
+          "sha256_text": "2bf55fcef6877290645fb7f048f33181244cde22da3a586ae0ce328038721227"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 156,
+      "doknr": "BJNR002450869BJNE020520311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 145",
+      "bezeichnung_anzeige": "§ 145",
+      "titel": "Verletzung von Vorschriften über das Reisegewerbe",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3534,
+          "sha256_text": "92f2d0b437005490f7d77b6273fb3aac744984c51a97372f6a1e633888b0bc6a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 157,
+      "doknr": "BJNR002450869BJNE020623123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 146",
+      "bezeichnung_anzeige": "§ 146",
+      "titel": "Verletzung sonstiger Vorschriften über die Ausübung eines Gewerbes",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3221,
+          "sha256_text": "00427af3c1fb1e6219d095bf47073d06ec0438850d893e593e31dfd6ee231925"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 63,
+          "sha256_text": "1ee36a6bea30da49d575ef11a49348f08e0692759c7c691226e80ac6eb20a927"
+        }
+      }
+    },
+    {
+      "xml_index": 158,
+      "doknr": "BJNR002450869BJNE020707377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 147",
+      "bezeichnung_anzeige": "§ 147",
+      "titel": "Verletzung von Arbeitsschutzvorschriften",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 318,
+          "sha256_text": "03b94be36885f4f30569cb2dcce021cfb7122be9f6c5e8de7369c6158a11cc69"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 159,
+      "doknr": "BJNR002450869BJNE022503377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 147a",
+      "bezeichnung_anzeige": "§ 147a",
+      "titel": "Verbotener Erwerb von Edelmetallen und Edelsteinen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 457,
+          "sha256_text": "91fe7eaa3b8818dc2ee770b4c111c1b75c455693dbf42d556534c850e53363d2"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 160,
+      "doknr": "BJNR002450869BJNE022705311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 147b",
+      "bezeichnung_anzeige": "§ 147b",
+      "titel": "Verletzung von Vorschriften über die Insolvenzsicherung bei Pauschalreisen und verbundenen Reiseleistungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 480,
+          "sha256_text": "be750b81eb66f97d3ee5f076dea41839d64dfee3c67b45651d6d5397e546d9cb"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 161,
+      "doknr": "BJNR002450869BJNE028300118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 147c",
+      "bezeichnung_anzeige": "§ 147c",
+      "titel": "Verstoß gegen Wohlverhaltenspflichten bei der Vermittlung von Versicherungsanlageprodukten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 694,
+          "sha256_text": "4739aa7fdc7e05bdb7aa7058d410cc87c7a328e1f4ff6954692cf9f39a801beb"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 162,
+      "doknr": "BJNR002450869BJNE029600128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 147d",
+      "bezeichnung_anzeige": "§ 147d",
+      "titel": "Verletzung von Vorschriften über die digitale operationale Resilienz durch Versicherungsvermittler nach § 34d Absatz 1, Versicherungsberater nach § 34d Absatz 2 und Versicherungsvermittler in Nebentätigkeit nach § 34d Absatz 6",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1105,
+          "sha256_text": "63b3bfd7adaf6417901a5fdca971bf0882efc5952261cb4a07a1ab6bf12ea7e5"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 163,
+      "doknr": "BJNR002450869BJNE020809360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 148",
+      "bezeichnung_anzeige": "§ 148",
+      "titel": "Strafbare Verletzung gewerberechtlicher Vorschriften",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 366,
+          "sha256_text": "2a36578942550631247b16a7e293d055cc9ce3edb486774c0de1d1652f3369e7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 164,
+      "doknr": "BJNR002450869BJNE020903301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 148a",
+      "bezeichnung_anzeige": "§ 148a",
+      "titel": "Strafbare Verletzung von Prüferpflichten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 404,
+          "sha256_text": "948c2837bb80dd5565aa6a8025c95063abf49321488a752a94bfe415e43296fe"
+        }
+      }
+    },
+    {
+      "xml_index": 165,
+      "doknr": "BJNR002450869BJNE022602301",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 148b",
+      "bezeichnung_anzeige": "§ 148b",
+      "titel": "Fahrlässige Hehlerei von Edelmetallen und Edelsteinen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 659,
+          "sha256_text": "8b164ac71aff380807716ef20c34c580d791c643b7c66fe62c6576f057579f40"
+        }
+      }
+    },
+    {
+      "xml_index": 166,
+      "doknr": "BJNR002450869BJNE029200123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 148c",
+      "bezeichnung_anzeige": "§ 148c",
+      "titel": "Einziehung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 379,
+          "sha256_text": "57b83b0cee1ee521c01ff59e6fe1d96b3c6f3ed8673ede4f9c3abc8ca0c4ff2f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 167,
+      "doknr": "BJNR002450869BJNG002802301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "110Titel XIGewerbezentralregister",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 168,
+      "doknr": "BJNR002450869BJNE027700118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 149",
+      "bezeichnung_anzeige": "§ 149",
+      "titel": "Einrichtung eines Gewerbezentralregisters",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3698,
+          "sha256_text": "d16d1939d48c2826b9aba425735677f4b794673d8428b82d190516c6c6c3056c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 169,
+      "doknr": "BJNR002450869BJNE021111128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 150",
+      "bezeichnung_anzeige": "§ 150",
+      "titel": "Auskunft auf Antrag der betroffenen Person",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1751,
+          "sha256_text": "2e19e8c9aaf5ce1fa7d2167c8f12c90ed6a23495d2948e205ce5849a8cb36d1a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 170,
+      "doknr": "BJNR002450869BJNE028806128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 150a",
+      "bezeichnung_anzeige": "§ 150a",
+      "titel": "Auskunft an Behörden",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3098,
+          "sha256_text": "c60ecc2bdf92da1ed9c636a33d2b2541a6e139e188693085562cfaaf8303ec79"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 171,
+      "doknr": "BJNR002450869BJNE023203116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 150b",
+      "bezeichnung_anzeige": "§ 150b",
+      "titel": "Auskunft für die wissenschaftliche Forschung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2065,
+          "sha256_text": "73cebb8967d1166a7fc6516bfa30a5ed4a57d68d870351a636104ddcb5f8dfa9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 172,
+      "doknr": "BJNR002450869BJNE029401128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 150c",
+      "bezeichnung_anzeige": "§ 150c",
+      "titel": "Auskunft an ausländische sowie über- und zwischenstaatliche Stellen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1707,
+          "sha256_text": "20c73d228e98405e418017addc97d901ac0df386dff30cc16876a288662720b7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 173,
+      "doknr": "BJNR002450869BJNE026103116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 150d",
+      "bezeichnung_anzeige": "§ 150d",
+      "titel": "Protokollierungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1179,
+          "sha256_text": "65ccbaf24690eb22eb6f780a3f1e51f03bed319f604c8472977848c567ce47c2"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 174,
+      "doknr": "BJNR002450869BJNE026504119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 150e",
+      "bezeichnung_anzeige": "§ 150e",
+      "titel": "Elektronische Antragstellung",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2275,
+          "sha256_text": "9b05c6228c1ab4ed7398ae5f5c7494150e2074949f2c56642ac1e1b23a8137e9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 269,
+          "sha256_text": "0cc73d1565ad834bbe5294cbce42c9e057bc6ad0ab52e657fa95f5e197b0aba4"
+        }
+      }
+    },
+    {
+      "xml_index": 175,
+      "doknr": "BJNR002450869BJNE028900311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 150f",
+      "bezeichnung_anzeige": "§ 150f",
+      "titel": "Automatisiertes Auskunftsverfahren",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 479,
+          "sha256_text": "fb5b72d8153da3974529a2144d17198ea6bef5867cef98b51fa8e2bbac56b1c1"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 176,
+      "doknr": "BJNR002450869BJNE021305116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 151",
+      "bezeichnung_anzeige": "§ 151",
+      "titel": "Eintragungen in besonderen Fällen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1268,
+          "sha256_text": "a6ae1f3a7816cb2d2ffbb31f144dbfd23c3334784c68250c4f5cfa7051408e5b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 177,
+      "doknr": "BJNR002450869BJNE021404118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 152",
+      "bezeichnung_anzeige": "§ 152",
+      "titel": "Entfernung von Eintragungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1374,
+          "sha256_text": "38198a7bf5c0f3c5cb19639a5fa982d43842a7fa63f340c0242e99c8912cd62c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 178,
+      "doknr": "BJNR002450869BJNE021509116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 153",
+      "bezeichnung_anzeige": "§ 153",
+      "titel": "Tilgung von Eintragungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1825,
+          "sha256_text": "77000f1235be210d85a235f1d9a1f209f1f6e105b1a76a1c14d1a3fa949b9f4b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 179,
+      "doknr": "BJNR002450869BJNE021606311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 153a",
+      "bezeichnung_anzeige": "§ 153a",
+      "titel": "Mitteilungen zum Gewerbezentralregister",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 450,
+          "sha256_text": "c23966e6fb05ab66eb143044a1cd0727179894f557cef522e00d1e8d40370ffe"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 180,
+      "doknr": "BJNR002450869BJNE029000311",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 153b",
+      "bezeichnung_anzeige": "§ 153b",
+      "titel": "Identifizierungsverfahren",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 753,
+          "sha256_text": "371394f66e15dd4c8dbea0e0dcc63fbd2ff164ed5209894231d9f2ef18b31dff"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 181,
+      "doknr": "BJNR002450869BJNE029301128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 153c",
+      "bezeichnung_anzeige": "§ 153c",
+      "titel": "Verwaltungsvorschriften",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 325,
+          "sha256_text": "2515c0bdee901b51e1f7838bc141a2c0136f7f6784219e214ce03f0b9938837c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 182,
+      "doknr": "BJNR002450869BJNG002902301",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "110010-Schlußbestimmungen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 183,
+      "doknr": "BJNR002450869BJNE021805377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 154",
+      "bezeichnung_anzeige": "§ 154",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 184,
+      "doknr": "BJNR002450869BJNE021903377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 154a",
+      "bezeichnung_anzeige": "§ 154a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 13,
+          "sha256_text": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 185,
+      "doknr": "BJNR002450869BJNE022005377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 155",
+      "bezeichnung_anzeige": "§ 155",
+      "titel": "Landesrecht, Zuständigkeiten",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 864,
+          "sha256_text": "fd7f8ea19525b40810bbfafaea9fa9743c41ccf5423310b30990072ee59e1740"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 186,
+      "doknr": "BJNR002450869BJNE023601128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 155a",
+      "bezeichnung_anzeige": "§ 155a",
+      "titel": "Maßnahmen zu Zwecken des Zeugenschutzes",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 53,
+          "sha256_text": "7e6356476f0b92838fae31efdbd1acfacb36b35e06ae23d97ef1951d0e8dd36b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 187,
+      "doknr": "BJNR002450869BJNE022105118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 156",
+      "bezeichnung_anzeige": "§ 156",
+      "titel": "Übergangsregelungen zu den §§ 34d und 34e",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 890,
+          "sha256_text": "e87ad6a619c26e64764bb0a7b37c4ae5ed5dfaaf40766ebde13641b39621b38f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 188,
+      "doknr": "BJNR002450869BJNE025005123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 157",
+      "bezeichnung_anzeige": "§ 157",
+      "titel": "Übergangsregelungen zu den §§ 34c und 34f",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 5842,
+          "sha256_text": "9a4b425441f62de83676f092fe2fd9cc950f6fb09272a4ab92376355ed14e4b0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 189,
+      "doknr": "BJNR002450869BJNE025601119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 158",
+      "bezeichnung_anzeige": "§ 158",
+      "titel": "Übergangsregelung zu § 11b; Probebetrieb",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2533,
+          "sha256_text": "27cd59da8a95cadebd142f3f9ab6ff482cf35a4f45ec28a2b5f4ccbbb1e858df"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 190,
+      "doknr": "BJNR002450869BJNE026302118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 159",
+      "bezeichnung_anzeige": "§ 159",
+      "titel": "Übergangsregelung zu § 34a",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 688,
+          "sha256_text": "5e128c0c148fe2d22ac1f69d6be151386e668f5e882f5b8c2c21b1bc15e853f0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 191,
+      "doknr": "BJNR002450869BJNE027400118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 160",
+      "bezeichnung_anzeige": "§ 160",
+      "titel": "Übergangsregelungen zu den §§ 34c und 34i",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1440,
+          "sha256_text": "2c33fc4995712e85927a714b24e66f7f6bf874c66b049bf58cb9d28157b1955a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 192,
+      "doknr": "BJNR002450869BJNE028401123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 161",
+      "bezeichnung_anzeige": "§ 161",
+      "titel": "Übergangsregelung zu § 14 Absatz 4",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 747,
+          "sha256_text": "cc4a9a6e59bc395c90f0146bd0b3688a8e5b76b9780c2bafb17db378339eaf93"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 193,
+      "doknr": "BJNR002450869BJNE029500123",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anlage",
+      "bezeichnung_anzeige": "Anlage",
+      "titel": "(zu § 36 Absatz 4a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 8001,
+          "sha256_text": "30f1447ecc834d2d9ac4cd3c8bb3ed9d0345bf663840d8d31eeb06f49a07500a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "kuerzel": "EGBGB",
+  "titel": "Einführungsgesetz zum Bürgerlichen Gesetzbuche",
+  "rechtsgebiet": "Zivilrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/bgbeg/",
+  "quelle_html": "https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html",
+  "lokale_pdf": "EGBGB_bereitgestellt.pdf",
+  "aktuelle_pdf": "EGBGB_aktuell.pdf",
+  "xml_datei": "Quellen/XML/BJNR006049896.xml",
+  "ausfertigungsdatum": "1896-08-18",
+  "stand": [
+    "Neugefasst durch Bek. v. 21.9.1994 I 2494; 1997, 1061;",
+    "zuletzt geändert durch Art. 1 G v. 2.7.2026 I Nr. 198",
+    "Änderung durch Art. 2 G v. 16.7.2026 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+  ],
+  "vollzitat": "\"Einführungsgesetz zum Bürgerlichen Gesetzbuche in der Fassung der Bekanntmachung vom 21. September 1994 (BGBl. I S. 2494; 1997 I S. 1061), das zuletzt durch Artikel 2 des Gesetzes vom 16. Juli 2026 (BGBl. 2026 I Nr. 212) geändert worden ist\"",
+  "pdf_seiten": 154,
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "pdf_url": "https://www.gesetze-im-internet.de/bgbeg/EGBGB.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html",
+  "original_dateiname": "EGBGB.pdf",
+  "konverter_datei": "Pruefung/konvertieren.py"
+}

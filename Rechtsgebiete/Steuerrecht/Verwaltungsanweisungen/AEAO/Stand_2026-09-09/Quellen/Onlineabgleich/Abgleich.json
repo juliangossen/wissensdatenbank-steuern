@@ -1,0 +1,77 @@
+{
+  "quellenabgleich": "2026-09-09",
+  "stand_der_webkopie": "Text gilt seit 02.07.2026; zuletzt geändert durch BMF vom 2.7.2026 (BStBl. I, 950)",
+  "juengstes_bmf_aenderungsschreiben_laut_uebersichtsseite": "2026-07-02",
+  "auf_der_uebersichtsseite_gelistete_aenderungsschreiben": [
+    "2024-12-10",
+    "2025-03-03",
+    "2025-08-13",
+    "2025-09-01",
+    "2026-01-29",
+    "2026-02-27",
+    "2026-03-17",
+    "2026-07-02"
+  ],
+  "vorgaenger_laut_schreiben_vom_2026-07-02": "BMF-Schreiben vom 17. März 2026 (BStBl I S. 292)",
+  "vom_schreiben_2026-07-02_geaenderte_abschnitte": [
+    "AEAO zu § 51",
+    "AEAO zu § 52",
+    "AEAO zu § 53",
+    "AEAO zu § 55",
+    "AEAO zu § 56",
+    "AEAO zu § 57",
+    "AEAO zu § 64",
+    "AEAO zu § 65",
+    "AEAO zu § 66",
+    "AEAO zu § 67a"
+  ],
+  "abschnitte_der_webkopie_mit_fussnoten_zu_bmf_v_2_7_2026": {
+    "AEAO zu § 51": 1,
+    "AEAO zu § 52": 2,
+    "AEAO zu § 53": 1,
+    "AEAO zu § 55": 10,
+    "AEAO zu § 56": 1,
+    "AEAO zu § 57": 2,
+    "AEAO zu § 64": 5,
+    "AEAO zu § 65": 1,
+    "AEAO zu § 66": 1,
+    "AEAO zu § 67a": 3
+  },
+  "ergebnis": "Die Standangabe der Webkopie entspricht dem jüngsten auf der BMF-Übersichtsseite veröffentlichten Änderungsschreiben. Die zehn vom Schreiben vom 2.7.2026 geänderten Abschnitte sind genau die Abschnitte, deren Fußnoten in der Webkopie dieses Schreiben als Änderungsnachweis nennen. Die zweitjüngste Änderung (17.3.2026) wird in der Kopie ebenfalls nachgewiesen.",
+  "abschnitte_stimmen_ueberein": true,
+  "einschraenkung": "Es liegt keine amtliche konsolidierte Gesamtfassung des AEAO mit Stand 2.7.2026 als PDF vor; die BMF-Übersichtsseite veröffentlicht nur Änderungsschreiben. Ein vollständiger Wortlautvergleich der Webkopie mit einer amtlichen Gesamtfassung wurde deshalb nicht durchgeführt.",
+  "dateien": [
+    {
+      "datei": "Quellen/Onlineabgleich/BMF_AEAO_Uebersichtsseite_2026-09-09.html",
+      "url": "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerverwaltungu-Steuerrecht/Abgabeordnung/AO_Anwendungserlass_AEAO/ao_anwendungserlass_aeao.html",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 214599,
+      "sha256": "dd925fa1df36784c8dea6f1442b6472374654cd85dc7f478dd082629d113ac5a",
+      "hinweis": "BMF-Übersichtsseite zum AEAO mit den veröffentlichten Änderungsschreiben (HTTP 200)."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/2026-07-02-aenderung-aeao-51-52-usw.pdf",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/AO-Anwendungserlass/2026-07-02-aenderung-aeao-51-52-usw.pdf?__blob=publicationFile&v=5",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 148942,
+      "sha256": "edb1930ce4d4d711fac4e7da16e04207d1fbd190d60259dbeee8eb47a06c8c83",
+      "hinweis": "Jüngstes auf der Übersichtsseite gelistetes Änderungsschreiben, 9 Seiten (HTTP 200, application/pdf)."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/2026-07-02-aenderung-aeao-51-52-usw_Publikationsseite.html",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/AO-Anwendungserlass/2026-07-02-aenderung-aeao-51-52-usw.html",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 15185,
+      "sha256": "0033e290057e8725018f86965527083c8c1af878c92e5130d89fa58f1841a96d",
+      "hinweis": "Publikationsseite des Änderungsschreibens (HTTP 200)."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/2026-07-02-aenderung-aeao-51-52-usw_pdftotext.txt",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 24131,
+      "sha256": "511e6c816ce974c83c825b4187fd65d79842e3dcb4c2eddb987d7e5fdbc4fad7",
+      "hinweis": "Textextraktion der PDF mit Poppler pdftotext -layout -enc UTF-8; Grundlage der Auswertung der Änderungsziele."
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+{
+  "abgleichdatum": "2026-09-09",
+  "pfadbasis": "Versionsordner EStR/Stand_2026-09-09",
+  "gegenstand": "Einkommensteuer-Richtlinien 2012 mit den Einkommensteuer-Hinweisen 2025 und den in der Webkopie enthaltenen Anlagen 1 bis 6",
+  "metadaten": {
+    "richtlinien": "Einkommensteuer-Richtlinien 2005 vom 16.12.2005 (BStBl I 2005 Sondernummer 1/2005), geändert durch EStÄR 2008 vom 18.12.2008 (BStBl I S. 1017) und EStÄR 2012 vom 25.03.2013 (BStBl I S. 276); in der Webkopie bezeichnet als EStR 2012",
+    "richtlinien_fassung_amtlich_bestaetigt": true,
+    "richtlinien_nachweis": "EStH 2025 Vorwort, Berücksichtigte Vorschriften, Nr. 3",
+    "hinweise": "Einkommensteuer-Hinweise für den VZ 2025; amtliches EStH 2025 bestätigt diesen Anwendungszeitraum",
+    "redaktionsschluss_laut_webkopie": "20.01.2026 (höchstrichterliche Rechtsprechung und BMF-Schreiben)",
+    "redaktionsschluss_online_bestaetigt": false,
+    "redaktionsschluss_einschraenkung": "Im gespeicherten amtlichen Online-Vorwort wird kein konkretes Redaktionsschlussdatum genannt. 20.01.2026 bleibt eine Angabe der gelieferten Webkopie.",
+    "archivdatum_ist_keine_rechtsstandgarantie": true,
+    "anlagen_kopie": "Anlagen 1 bis 6; 3 und 5 ausdrücklich nicht belegt. Für die Anlagen 2 und 6 ist kein eigenes Quellenstanddatum in der Kopie angegeben."
+  },
+  "umfang": {
+    "textgrundlage": "Benutzerdatei EStR 2012.txt; Quellenkopie wird unverändert erhalten.",
+    "nicht_enthalten": "Das vollständige Amtliche EStH 2025 einschließlich EStG, EStDV und sämtlichen Anhängen ist nicht Gegenstand dieser gelieferten Datei.",
+    "vollstaendiger_amtlicher_wortlautabgleich": false,
+    "strukturpruefung": "Titel/Fassung, Beginn R 1 und H 1a, Schluss Anlage 6 sowie bezeichnete Anlagen/Muster geprüft. Das amtliche Inhaltsverzeichnis wurde als Vergleichsquelle gesichert; es zeigt nur belegte Richtlinien und enthält nicht sämtliche unbesetzten Positionen der Webkopie.",
+    "h1a": "Die amtliche Seite zu § 1 enthält R 1 und keine H 1. Die amtliche Seite zu § 1a enthält H 1a und beginnt mit Allgemeines/Auslandskorrespondenten. Diese Gliederung entspricht insoweit der Kopie.",
+    "schluss": "Die amtliche Liste in EStH 2025 Anhang 12 II 1 endet ebenfalls mit Uganda und withholding tax (Quellensteuer für Beratungsleistungen (15 %); an dieser Stelle ist kein Abbruch der Kopie erkennbar."
+  },
+  "abweichungen": [
+    {
+      "stelle": "Anlage 2, historische erste Tabellenposition und Nummerierung",
+      "webkopie": "Nr. 1: Fertigstellung nach dem 9.10.1962 und vor dem 1.1.1965 und Bauantrag nach dem 9.10.1962. Nr. 2 beginnt mit Fertigstellung nach dem 31.12.1964 und vor dem 1.9.1977 und Bauantrag vor dem 9.5.1973.",
+      "amtlich_2025": "Die historische Nr. 1 der Kopie ist nicht enthalten. Die amtliche Nr. 1 entspricht der Position Nr. 2 der Webkopie; dies ist keine abweichende Datumsangabe zur gleichen Tabellenposition.",
+      "behandlung": "Kopie unverändert; gesonderte amtliche Vergleichsfassung 2025 mit abweichender Nummerierung beigefügt."
+    },
+    {
+      "stelle": "Anlage 2, Tabellenumfang",
+      "webkopie": "Übersicht nach § 7 Abs. 5 EStG, Nummern 1 bis 11; Nr. 11 betrifft Bauantrag oder obligatorischen Vertrag nach dem 31.12.2003 und vor dem 1.1.2006.",
+      "amtlich_2025": "Übersicht nach § 7 Abs. 5 und 5a EStG, ebenfalls Nummern 1 bis 11, aber mit anderer Zuordnung: Nr. 10 betrifft die Position Nr. 11 der Kopie; amtliche Nr. 11 betrifft Herstellungsbeginn oder obligatorischen Vertrag nach dem 30.09.2023 und vor dem 01.10.2029 und hat keine entsprechende Position in der Kopie.",
+      "behandlung": "Keine unmarkierte Aktualisierung der kopierten Anlage; gesonderte Ergänzung."
+    },
+    {
+      "stelle": "Anlage 6, Länder/Gebiete",
+      "webkopie": "Andorra und Malediven sind nicht als Länderpositionen enthalten. Die Kopie nennt kein eigenes Standdatum.",
+      "amtlich_2025": "Anhang 12 II 1 mit Stand 1.1.2025 enthält Andorra und Malediven, insgesamt 79 Länder-/Gebietspositionen.",
+      "behandlung": "Gesonderte amtliche Liste 2025 mit vollständig geprüftem sichtbaren Tabellentext beigefügt. Keine vollständige Gleichheit der beiden Listen behauptet."
+    },
+    {
+      "stelle": "H 1a, Stichwort DBA, TXT-Zeile 83",
+      "webkopie": "BMF vom 20.01.2025 (BStBl. I 2026 S. 291); Fußnote der Kopie verweist auf BStBl I 2025 S. 291.",
+      "amtlich_2025": "BMF vom 20.01.2025 (BStBl I S. 291), Stand 01.01.2025",
+      "behandlung": "Abweichende Fundstellendarstellung dokumentiert, keine stille Änderung."
+    }
+  ],
+  "formularergaenzung": {
+    "begruendung": "Die Webkopie führt 18 Muster mit Bildunterschriften auf, enthält aber nicht die Formularabbildungen. Das amtliche EStH 2025 Anhang 37 I verweist auf den letztmaligen Abdruck der Anlagen 1 bis 18 im EStH 2019.",
+    "stand": "BMF-Schreiben vom 07.11.2013 (BStBl I S. 1333), ergänzt am 26.03.2014 (BStBl I S. 791), wie in der Kopie bezeichnet; Bildwiedergabe aus amtlicher Ausgabe 2019",
+    "muster": 18,
+    "abbildungsseiten": 24,
+    "quellformate": "Muster 1 bis 12: unveränderte amtliche JPEG-Dateien; Muster 13 bis 18: jeweils zweitseitiges amtliches PDF, zu PNG gerendert.",
+    "besonderheit": "Die Kopie hat für Muster 15 nur eine Bildunterschrift; beide amtlichen PDF-Seiten werden dort zugeordnet.",
+    "pruefung": "Alle Bilddateien geöffnet/auf Integrität geprüft; 24 Abbildungsseiten in zwei Kontaktbögen auf Vollständigkeit, Zuordnung und nicht abgeschnittene Felder visuell geprüft."
+  },
+  "quellen": [
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/Vorwort/inhalt.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/Vorwort/inhalt.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2025_Vorwort.html",
+      "sha256": "64b41f7030cb48752b0b21ff0156865603fedfd81ff924d50c2cba1974596013",
+      "bytes": 943041,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2025 Vorwort",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/Meta/Inhaltsverzeichnis/inhalt.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/Meta/Inhaltsverzeichnis/inhalt.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2025_Inhaltsverzeichnis.html",
+      "sha256": "cb999d6ff0efbc215c58eefed3552f15814a312c7d49b3a35bcb19651e6332a4",
+      "bytes": 1695649,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2025 Inhaltsverzeichnis",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-37/I/inhalt.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-37/I/inhalt.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2025_Anhang_37_I.html",
+      "sha256": "c36b74ce4147524b2fae2a5b0a907f994d46d2b5c560acd6246f63f416c2a517",
+      "bytes": 920168,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2025 Anhang 37 I",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/inhalt.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/inhalt.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2019_Anhang_37_I.html",
+      "sha256": "5d766044170972ad6f10356aa0b03220040437f3043e031efd454df03ecf536a",
+      "bytes": 916216,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2019 Anhang 37 I",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-12/II-1/inhalt.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-12/II-1/inhalt.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2025_Anhang_12_II_1.html",
+      "sha256": "2c749d7954d129123e886ca5f3e35f6b320eed1b4f91ecf7e42628f5c58e4c09",
+      "bytes": 916272,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2025 Anhang 12 II 1",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/A-Einkommensteuergesetz/I-Steuerpflicht-1-1a/Paragraf-1/inhalt.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/A-Einkommensteuergesetz/I-Steuerpflicht-1-1a/Paragraf-1/inhalt.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2025_Paragraf_1.html",
+      "sha256": "5ce373e6ed4dc8fe59b1d14de7c383caca7791cf5d60c556b0a2836e8021c8a2",
+      "bytes": 906368,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2025 Paragraf 1",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/A-Einkommensteuergesetz/I-Steuerpflicht-1-1a/Paragraf-1a/inhalt.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/A-Einkommensteuergesetz/I-Steuerpflicht-1-1a/Paragraf-1a/inhalt.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2025_Paragraf_1a.html",
+      "sha256": "62a8b3df70094763aa4147a9d70168ef69060e16c824026e99ca08678355e6fd",
+      "bytes": 915797,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2025 Paragraf 1a",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/A-Einkommensteuergesetz/II-Einkommen-2-24b/3-Gewinn-4-7i/Paragraf-4/inhalt.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/A-Einkommensteuergesetz/II-Einkommen-2-24b/3-Gewinn-4-7i/Paragraf-4/inhalt.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2025_Paragraf_4.html",
+      "sha256": "490d6faa247a05e81a11dd4dbab210ac5de06f5dc838c8282fb5318f5a039521",
+      "bytes": 1544875,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2025 Paragraf 4",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-01/I-2/inhalt.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-01/I-2/inhalt.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2025_Anhang_01_I_2.html",
+      "sha256": "ed0441fdbc9277cc2f073417867d3a070b53a2871a0890cf96bbf7ef86b3f87d",
+      "bytes": 905276,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2025 Anhang 01 I 2",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage1.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage1.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_01_EStH_2019.jpg",
+      "sha256": "39ad91b2ddb052f7d7483247309c21c970e4289066518d2d051540d7d0836efd",
+      "bytes": 928433,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 01 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage2.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage2.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_02_EStH_2019.jpg",
+      "sha256": "452ace34627a7deca92944f3347dd5e59220d11103061970880f1b7473022b74",
+      "bytes": 1133566,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 02 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage3.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage3.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_03_EStH_2019.jpg",
+      "sha256": "e2144cbc1fde9127954fa841bf4419babf71e6bd8f1353b33f3d74757fdb4d7c",
+      "bytes": 1035409,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 03 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage4.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage4.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_04_EStH_2019.jpg",
+      "sha256": "0a29b8ff9380f9eeb795656d77aff94276398c378b67c5ae8ef3c2d65ca07766",
+      "bytes": 1266591,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 04 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage5.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage5.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_05_EStH_2019.jpg",
+      "sha256": "d3897ae3589a6200bb3349d56dac1d3767f747061e5843492b563f270bf2113f",
+      "bytes": 444959,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 05 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage6.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage6.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_06_EStH_2019.jpg",
+      "sha256": "97fe84f4639cd0117f9b56a01118c110404a35bfd1288c437c07ae0a864ed7ab",
+      "bytes": 638105,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 06 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage7.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage7.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_07_EStH_2019.jpg",
+      "sha256": "cdd9244a8f01b0473a5fc4de7a97afdf62e99724c975fb8adcfed1de2792ddd8",
+      "bytes": 863023,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 07 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage8.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage8.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_08_EStH_2019.jpg",
+      "sha256": "84fbae6105c0ea9f641a4578e32b4dfcc6df12c6fc3b65725ee4c4971192b081",
+      "bytes": 966284,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 08 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage9.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage9.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_09_EStH_2019.jpg",
+      "sha256": "fbaf676c9fba463f73303182de43b3ba522e2749a9100fafaec91eb9ce35b7b5",
+      "bytes": 935522,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 09 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage10.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage10.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_10_EStH_2019.jpg",
+      "sha256": "6c92afbfce349d509b895688128fd4d0514f5d3734e2b183d2d2f56add9bd9e7",
+      "bytes": 1143117,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 10 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage11.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage11.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_11_EStH_2019.jpg",
+      "sha256": "af2fb4446d0daf0cf49d8e89a0913a8af759d3cf7270392662d8ec809081ef2f",
+      "bytes": 938569,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 11 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage12.jpg?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage12.jpg?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_12_EStH_2019.jpg",
+      "sha256": "303580e264c799023eba01cde8ecb051e0e417caf72c73ed210e50fff67dcbee",
+      "bytes": 1107410,
+      "content_type": "image/jpeg;charset=UTF-8",
+      "titel": "Muster 12 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage13.pdf?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage13.pdf?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_13_EStH_2019.pdf",
+      "sha256": "70c6537c0ecd716479b6ba347b3eb3fa4a72bc7217d815120e4e9ae0ed27b5b0",
+      "bytes": 110131,
+      "content_type": "application/pdf;charset=UTF-8",
+      "titel": "Muster 13 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage14.pdf?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage14.pdf?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_14_EStH_2019.pdf",
+      "sha256": "0c6babd2cf8ab62a84a1d64d3413b49cc095dd203c4bb8f1e0043bae0a33fb62",
+      "bytes": 119932,
+      "content_type": "application/pdf;charset=UTF-8",
+      "titel": "Muster 14 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage15.pdf?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage15.pdf?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_15_EStH_2019.pdf",
+      "sha256": "f22a16b5fab6d48bf3daafb58dd3b6ffe7fcf7ded36b2f6b6f94891f08a2eff7",
+      "bytes": 101523,
+      "content_type": "application/pdf;charset=UTF-8",
+      "titel": "Muster 15 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage16.pdf?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage16.pdf?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_16_EStH_2019.pdf",
+      "sha256": "956df152fe01f48ea4b09cdbc64076ef8a748a810bee184e37f2ae01190a577a",
+      "bytes": 120602,
+      "content_type": "application/pdf;charset=UTF-8",
+      "titel": "Muster 16 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage17.pdf?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage17.pdf?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_17_EStH_2019.pdf",
+      "sha256": "7299083acec77ddf7bad8de1e592d5e25c56916661279126d15a95377d0062d5",
+      "bytes": 111087,
+      "content_type": "application/pdf;charset=UTF-8",
+      "titel": "Muster 17 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage18.pdf?__blob=publicationFile&v=2",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2019/C-Anhaenge/Anhang-37/I/anlage18.pdf?__blob=publicationFile&v=2",
+      "datei": "Quellen/Onlineabgleich/Muster_18_EStH_2019.pdf",
+      "sha256": "e214b2d0b3e246c8542816689e864769797d7df84b26f4826c925ddb60dbb8ed",
+      "bytes": 111354,
+      "content_type": "application/pdf;charset=UTF-8",
+      "titel": "Muster 18 EStH 2019",
+      "abrufdatum": "2026-09-09"
+    },
+    {
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/A-Einkommensteuergesetz/II-Einkommen-2-24b/3-Gewinn-4-7i/Paragraf-4/r-4-6-anlage.html",
+      "endgueltige_url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/A-Einkommensteuergesetz/II-Einkommen-2-24b/3-Gewinn-4-7i/Paragraf-4/r-4-6-anlage.html",
+      "datei": "Quellen/Onlineabgleich/EStH_2025_R_4_6_Anlage.html",
+      "sha256": "7e06ec625a494bd9369c26ebfdd14e7cab689ead1f5c3d4fc4655c4cd630b24d",
+      "bytes": 908286,
+      "content_type": "text/html;charset=utf-8",
+      "titel": "EStH 2025 R 4 6 Anlage",
+      "abrufdatum": "2026-09-09"
+    }
+  ],
+  "abbildungen": [
+    {
+      "muster": 1,
+      "quellzeile": 19416,
+      "datei": "Quellen/Abbildungen/Muster_01_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "39ad91b2ddb052f7d7483247309c21c970e4289066518d2d051540d7d0836efd",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 1: Geldzuwendungen an inländische juristische Personen des öffentlichen Rechts",
+      "quelle": "Quellen/Onlineabgleich/Muster_01_EStH_2019.jpg",
+      "pixel": [
+        2480,
+        3508
+      ]
+    },
+    {
+      "muster": 2,
+      "quellzeile": 19419,
+      "datei": "Quellen/Abbildungen/Muster_02_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "452ace34627a7deca92944f3347dd5e59220d11103061970880f1b7473022b74",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 2: Sachzuwendungen an inländische juristische Personen des öffentlichen Rechts",
+      "quelle": "Quellen/Onlineabgleich/Muster_02_EStH_2019.jpg",
+      "pixel": [
+        2480,
+        3508
+      ]
+    },
+    {
+      "muster": 3,
+      "quellzeile": 19422,
+      "datei": "Quellen/Abbildungen/Muster_03_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "e2144cbc1fde9127954fa841bf4419babf71e6bd8f1353b33f3d74757fdb4d7c",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 3: Geldzuwendungen und/oder Mitgliedsbeitrag an eine steuerbegünstigte Einrichtung",
+      "quelle": "Quellen/Onlineabgleich/Muster_03_EStH_2019.jpg",
+      "pixel": [
+        2480,
+        3508
+      ]
+    },
+    {
+      "muster": 4,
+      "quellzeile": 19425,
+      "datei": "Quellen/Abbildungen/Muster_04_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "0a29b8ff9380f9eeb795656d77aff94276398c378b67c5ae8ef3c2d65ca07766",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 4: Sachzuwendungen an eine steuerbegünstigte Einrichtung",
+      "quelle": "Quellen/Onlineabgleich/Muster_04_EStH_2019.jpg",
+      "pixel": [
+        2480,
+        3508
+      ]
+    },
+    {
+      "muster": 5,
+      "quellzeile": 19428,
+      "datei": "Quellen/Abbildungen/Muster_05_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "d3897ae3589a6200bb3349d56dac1d3767f747061e5843492b563f270bf2113f",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 5: Geldzuwendungen und/oderMitgliedsbeitrag an eine Partei",
+      "quelle": "Quellen/Onlineabgleich/Muster_05_EStH_2019.jpg",
+      "pixel": [
+        2297,
+        3025
+      ]
+    },
+    {
+      "muster": 6,
+      "quellzeile": 19431,
+      "datei": "Quellen/Abbildungen/Muster_06_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "97fe84f4639cd0117f9b56a01118c110404a35bfd1288c437c07ae0a864ed7ab",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 6: Sachzuwendungen an eine Partei",
+      "quelle": "Quellen/Onlineabgleich/Muster_06_EStH_2019.jpg",
+      "pixel": [
+        2307,
+        3350
+      ]
+    },
+    {
+      "muster": 7,
+      "quellzeile": 19434,
+      "datei": "Quellen/Abbildungen/Muster_07_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "cdd9244a8f01b0473a5fc4de7a97afdf62e99724c975fb8adcfed1de2792ddd8",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 7: Geldzuwendungen und/oder Mitgliedsbeitrag an eine unabhängige Wählervereinigung",
+      "quelle": "Quellen/Onlineabgleich/Muster_07_EStH_2019.jpg",
+      "pixel": [
+        2480,
+        3508
+      ]
+    },
+    {
+      "muster": 8,
+      "quellzeile": 19437,
+      "datei": "Quellen/Abbildungen/Muster_08_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "84fbae6105c0ea9f641a4578e32b4dfcc6df12c6fc3b65725ee4c4971192b081",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 8: Sachzuwendungen an eine unabhängige Wählervereinigung",
+      "quelle": "Quellen/Onlineabgleich/Muster_08_EStH_2019.jpg",
+      "pixel": [
+        2480,
+        3508
+      ]
+    },
+    {
+      "muster": 9,
+      "quellzeile": 19440,
+      "datei": "Quellen/Abbildungen/Muster_09_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "fbaf676c9fba463f73303182de43b3ba522e2749a9100fafaec91eb9ce35b7b5",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 9: Geldzuwendungen an eine inländische Stiftung des öffentlichen Rechts",
+      "quelle": "Quellen/Onlineabgleich/Muster_09_EStH_2019.jpg",
+      "pixel": [
+        2480,
+        3508
+      ]
+    },
+    {
+      "muster": 10,
+      "quellzeile": 19443,
+      "datei": "Quellen/Abbildungen/Muster_10_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "6c92afbfce349d509b895688128fd4d0514f5d3734e2b183d2d2f56add9bd9e7",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 10: Sachzuwendungen an eine inländische Stiftung des öffentlichen Rechts",
+      "quelle": "Quellen/Onlineabgleich/Muster_10_EStH_2019.jpg",
+      "pixel": [
+        2292,
+        3463
+      ]
+    },
+    {
+      "muster": 11,
+      "quellzeile": 19446,
+      "datei": "Quellen/Abbildungen/Muster_11_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "af2fb4446d0daf0cf49d8e89a0913a8af759d3cf7270392662d8ec809081ef2f",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 11: Geldzuwendungen an eine inländische Stiftung des privaten Rechts",
+      "quelle": "Quellen/Onlineabgleich/Muster_11_EStH_2019.jpg",
+      "pixel": [
+        2297,
+        3486
+      ]
+    },
+    {
+      "muster": 12,
+      "quellzeile": 19449,
+      "datei": "Quellen/Abbildungen/Muster_12_2013.jpg",
+      "pdf_seite": null,
+      "sha256": "303580e264c799023eba01cde8ecb051e0e417caf72c73ed210e50fff67dcbee",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 12: Sachzuwendungen an eine inländische Stiftung des privaten Rechts",
+      "quelle": "Quellen/Onlineabgleich/Muster_12_EStH_2019.jpg",
+      "pixel": [
+        2297,
+        3486
+      ]
+    },
+    {
+      "muster": 13,
+      "quellzeile": 19452,
+      "datei": "Quellen/Abbildungen/Muster_13_2013_Seite_1.png",
+      "pdf_seite": 1,
+      "sha256": "26f21a323a2e14b49ad25ce31eb37b56777072612bd0b5e75fb4a06b092b24f2",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 13: Sammelbestätigung für Geldzuwendungen an inländische juristische Personen des öffentlichen Rechts",
+      "quelle": "Quellen/Onlineabgleich/Muster_13_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 13,
+      "quellzeile": 19454,
+      "datei": "Quellen/Abbildungen/Muster_13_2013_Seite_2.png",
+      "pdf_seite": 2,
+      "sha256": "74c76eb341f858cff3d5eef67816f1a5315ead7a3a70f640e3f8d4041048576e",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 13: Sammelbestätigung für Geldzuwendungen an inländische juristische Personen des öffentlichen Rechts - Anlage zur Sammelbestätigung",
+      "quelle": "Quellen/Onlineabgleich/Muster_13_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 14,
+      "quellzeile": 19457,
+      "datei": "Quellen/Abbildungen/Muster_14_2013_Seite_1.png",
+      "pdf_seite": 1,
+      "sha256": "1304c29502a3ffc93267ea0dd4d2c322710e5c9459af7da075117740490a1d82",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 14: Sammelbestätigung für Geldzuwendungen und/oder Mitgliedsbeiträge an eine steuerbegünstigte Einrichtung",
+      "quelle": "Quellen/Onlineabgleich/Muster_14_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 14,
+      "quellzeile": 19459,
+      "datei": "Quellen/Abbildungen/Muster_14_2013_Seite_2.png",
+      "pdf_seite": 2,
+      "sha256": "7db59526c005bd3b9528e000329d3de8bce39033b9740ceb0181277a67b15cc6",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 14: Sammelbestätigung für Geldzuwendungen und/oder Mitgliedsbeiträge an eine steuerbegünstigte Einrichtung - Anlage zur Sammelbestätigung",
+      "quelle": "Quellen/Onlineabgleich/Muster_14_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 15,
+      "quellzeile": 19462,
+      "datei": "Quellen/Abbildungen/Muster_15_2013_Seite_1.png",
+      "pdf_seite": 1,
+      "sha256": "26f7de643ae0a9254f9ae0ca544cad69b58ab65b792b06c6d88d3038cb83c3ba",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 15: Sammelbestätigung für Geldzuwendungen und/oder Mitgliedsbeiträge an eine Partei",
+      "quelle": "Quellen/Onlineabgleich/Muster_15_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 15,
+      "quellzeile": 19462,
+      "datei": "Quellen/Abbildungen/Muster_15_2013_Seite_2.png",
+      "pdf_seite": 2,
+      "sha256": "7db59526c005bd3b9528e000329d3de8bce39033b9740ceb0181277a67b15cc6",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 15: Sammelbestätigung für Geldzuwendungen und/oder Mitgliedsbeiträge an eine Partei",
+      "quelle": "Quellen/Onlineabgleich/Muster_15_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 16,
+      "quellzeile": 19465,
+      "datei": "Quellen/Abbildungen/Muster_16_2013_Seite_1.png",
+      "pdf_seite": 1,
+      "sha256": "f0cc116f02d44b9126928cff08a3f6c99da534b5b2211b3698170157b95d79d7",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 16: Sammelbestätigung für Geldzuwendungen und/oder Mitgliedsbeiträge an eine unabhängige Wählervereinigung",
+      "quelle": "Quellen/Onlineabgleich/Muster_16_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 16,
+      "quellzeile": 19467,
+      "datei": "Quellen/Abbildungen/Muster_16_2013_Seite_2.png",
+      "pdf_seite": 2,
+      "sha256": "175bb6f28140d30571b04bd897091470002c44e50ac5654714adc356e8da1570",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 16: Sammelbestätigung für Geldzuwendungen und/oder Mitgliedsbeiträge an eine unabhängige Wählervereinigung - Anlage zur Sammelbestätigung",
+      "quelle": "Quellen/Onlineabgleich/Muster_16_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 17,
+      "quellzeile": 19470,
+      "datei": "Quellen/Abbildungen/Muster_17_2013_Seite_1.png",
+      "pdf_seite": 1,
+      "sha256": "5b111a9c802ec14db95ba491a6f94731ff964017b86ba677bda5bb60cbf7ce8e",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 17: Sammelbestätigung für Geldzuwendungen an eine inländische Stiftung des öffentlichen Rechts",
+      "quelle": "Quellen/Onlineabgleich/Muster_17_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 17,
+      "quellzeile": 19472,
+      "datei": "Quellen/Abbildungen/Muster_17_2013_Seite_2.png",
+      "pdf_seite": 2,
+      "sha256": "ed636e16f01f2da6a7475da24c9b4b87a885b4ce395c017fb88d2bb9a7291b40",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 17: Sammelbestätigung für Geldzuwendungen an eine inländische Stiftung des öffentlichen Rechts Anlage zur Sammelbestätigung",
+      "quelle": "Quellen/Onlineabgleich/Muster_17_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 18,
+      "quellzeile": 19475,
+      "datei": "Quellen/Abbildungen/Muster_18_2013_Seite_1.png",
+      "pdf_seite": 1,
+      "sha256": "935c516d65769b758b8098e02bfa029a15a972a489d5c6238a13d593412dd906",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 18: Sammelbestätigung für Geldzuwendungen an eine inländische Stiftung des privaten Rechts",
+      "quelle": "Quellen/Onlineabgleich/Muster_18_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "muster": 18,
+      "quellzeile": 19477,
+      "datei": "Quellen/Abbildungen/Muster_18_2013_Seite_2.png",
+      "pdf_seite": 2,
+      "sha256": "0572faca99fe073f83e5a6f864e9a17f88dced2bd9478dabd1f4fa7e60f8048e",
+      "stand": "BMF-Schreiben 07.11.2013, ergänzt 26.03.2014; Wiedergabe EStH 2019",
+      "titel": "Muster 18: Sammelbestätigung für Geldzuwendungen an eine inländische Stiftung des privaten Rechts - Anlage zur Sammelbestätigung",
+      "quelle": "Quellen/Onlineabgleich/Muster_18_EStH_2019.pdf",
+      "pixel": [
+        1241,
+        1754
+      ]
+    }
+  ],
+  "ergaenzungen": [
+    {
+      "titel": "Amtliche Vergleichsfassung zu Anlage 2 (EStH 2025)",
+      "datei": "Ergaenzungen/Anlage_2_BMF_2025.md",
+      "sha256": "10964e8f875bbe304f7cdc95fae1ac297156448aa9cc483d1c1d83e333ac1f87",
+      "quelle_datei": "Quellen/Onlineabgleich/EStH_2025_Anhang_01_I_2.html",
+      "quelle_sha256": "ed0441fdbc9277cc2f073417867d3a070b53a2871a0890cf96bbf7ef86b3f87d",
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-01/I-2/inhalt.html",
+      "pruefung": {
+        "tabellenzeilen": 14,
+        "sichtbarer_tabellentext_vollstaendig": true,
+        "zellspans_unveraendert": true,
+        "fussnoten_in_sachinhalt": 0
+      }
+    },
+    {
+      "titel": "Amtliche Vergleichsfassung zu Anlage 6 (EStH 2025)",
+      "datei": "Ergaenzungen/Anlage_6_BMF_2025.md",
+      "sha256": "fad2af3bbfe6ba66f23e11b3a4c8f8b05ec83e8bddd34633fd8f6cc2bf12bf74",
+      "quelle_datei": "Quellen/Onlineabgleich/EStH_2025_Anhang_12_II_1.html",
+      "quelle_sha256": "2c749d7954d129123e886ca5f3e35f6b320eed1b4f91ecf7e42628f5c58e4c09",
+      "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-12/II-1/inhalt.html",
+      "pruefung": {
+        "laender_gebiete": 79,
+        "sichtbarer_tabellentext_vollstaendig": true,
+        "endet_mit": "Uganda; withholding tax (Quellensteuer für Beratungsleistungen (15 %)"
+      }
+    }
+  ],
+  "einschraenkungen": [
+    "Keine Bestätigung, dass jede redaktionelle Fußnote der Webkopie oder jede darin zitierte Fundstelle amtlich ist.",
+    "Keine Behauptung einer Vollwortidentität der gesamten Webkopie mit dem Amtlichen Einkommensteuer-Handbuch 2025.",
+    "Die Hinweise 2025, die Richtlinienfassung 2013, die Formularwiedergaben 2013/2014 aus EStH 2019 und die Anlagen der Webkopie sind als verschiedene Quellenstände zu unterscheiden."
+  ]
+}

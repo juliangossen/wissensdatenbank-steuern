@@ -1,0 +1,1579 @@
+{
+  "kuerzel": "FGO",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 405,
+      "xml_chars": 405,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Erster TeilGerichtsverfassung",
+      "pdf_chars": 28,
+      "xml_chars": 28,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Abschnitt IGerichte",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 119,
+      "xml_chars": 119,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 2",
+      "pdf_chars": 134,
+      "xml_chars": 134,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3",
+      "pdf_chars": 677,
+      "xml_chars": 677,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 4",
+      "pdf_chars": 120,
+      "xml_chars": 120,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 5",
+      "pdf_chars": 719,
+      "xml_chars": 719,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 6",
+      "pdf_chars": 856,
+      "xml_chars": 856,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§§ 7 bis 9",
+      "pdf_chars": 20,
+      "xml_chars": 20,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 10",
+      "pdf_chars": 337,
+      "xml_chars": 337,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 11",
+      "pdf_chars": 1532,
+      "xml_chars": 1532,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 12",
+      "pdf_chars": 112,
+      "xml_chars": 112,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 13",
+      "pdf_chars": 100,
+      "xml_chars": 100,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "Abschnitt IIRichter",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 14",
+      "pdf_chars": 152,
+      "xml_chars": 152,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 15",
+      "pdf_chars": 85,
+      "xml_chars": 85,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "Abschnitt IIIEhrenamtliche Richter",
+      "pdf_chars": 32,
+      "xml_chars": 32,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 16",
+      "pdf_chars": 113,
+      "xml_chars": 113,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 17",
+      "pdf_chars": 172,
+      "xml_chars": 172,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 18",
+      "pdf_chars": 706,
+      "xml_chars": 706,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 19",
+      "pdf_chars": 650,
+      "xml_chars": 650,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 20",
+      "pdf_chars": 485,
+      "xml_chars": 485,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 21",
+      "pdf_chars": 1057,
+      "xml_chars": 1057,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 22",
+      "pdf_chars": 122,
+      "xml_chars": 122,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 23",
+      "pdf_chars": 1326,
+      "xml_chars": 1326,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 24",
+      "pdf_chars": 194,
+      "xml_chars": 194,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 25",
+      "pdf_chars": 254,
+      "xml_chars": 254,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 26",
+      "pdf_chars": 207,
+      "xml_chars": 207,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 27",
+      "pdf_chars": 395,
+      "xml_chars": 395,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 28",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 29",
+      "pdf_chars": 125,
+      "xml_chars": 125,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 30",
+      "pdf_chars": 372,
+      "xml_chars": 372,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "Abschnitt IVGerichtsverwaltung",
+      "pdf_chars": 29,
+      "xml_chars": 29,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 31",
+      "pdf_chars": 96,
+      "xml_chars": 96,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 32",
+      "pdf_chars": 91,
+      "xml_chars": 91,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "Abschnitt VFinanzrechtsweg und Zuständigkeit",
+      "pdf_chars": 41,
+      "xml_chars": 41,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "Unterabschnitt 1Finanzrechtsweg",
+      "pdf_chars": 30,
+      "xml_chars": 30,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 33",
+      "pdf_chars": 1356,
+      "xml_chars": 1356,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 34",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "Unterabschnitt 2Sachliche Zuständigkeit",
+      "pdf_chars": 37,
+      "xml_chars": 37,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§ 35",
+      "pdf_chars": 105,
+      "xml_chars": 105,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "§ 36",
+      "pdf_chars": 255,
+      "xml_chars": 255,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 37",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "Unterabschnitt 3Örtliche Zuständigkeit",
+      "pdf_chars": 36,
+      "xml_chars": 36,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 38",
+      "pdf_chars": 1090,
+      "xml_chars": 1090,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "§ 39",
+      "pdf_chars": 713,
+      "xml_chars": 713,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "Zweiter TeilVerfahren",
+      "pdf_chars": 20,
+      "xml_chars": 20,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "Abschnitt IKlagearten, Klagebefugnis,\nKlagevoraussetzungen, Klageverzicht",
+      "pdf_chars": 69,
+      "xml_chars": 69,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "§ 40",
+      "pdf_chars": 712,
+      "xml_chars": 712,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "§ 41",
+      "pdf_chars": 446,
+      "xml_chars": 446,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 42",
+      "pdf_chars": 174,
+      "xml_chars": 174,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "§ 43",
+      "pdf_chars": 166,
+      "xml_chars": 166,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 44",
+      "pdf_chars": 383,
+      "xml_chars": 383,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "§ 45",
+      "pdf_chars": 1093,
+      "xml_chars": 1093,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 46",
+      "pdf_chars": 931,
+      "xml_chars": 931,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§ 47",
+      "pdf_chars": 962,
+      "xml_chars": 962,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 48",
+      "pdf_chars": 1878,
+      "xml_chars": 1878,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "§ 49",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "§ 50",
+      "pdf_chars": 771,
+      "xml_chars": 771,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 60,
+      "name": "Abschnitt IIAllgemeine Verfahrensvorschriften",
+      "pdf_chars": 43,
+      "xml_chars": 43,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 61,
+      "name": "§ 51",
+      "pdf_chars": 666,
+      "xml_chars": 666,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 62,
+      "name": "§ 52",
+      "pdf_chars": 442,
+      "xml_chars": 442,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 63,
+      "name": "§ 52a",
+      "pdf_chars": 3651,
+      "xml_chars": 3651,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 64,
+      "name": "§ 52b",
+      "pdf_chars": 2697,
+      "xml_chars": 2697,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 65,
+      "name": "§ 52c",
+      "pdf_chars": 985,
+      "xml_chars": 985,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 66,
+      "name": "§ 52d",
+      "pdf_chars": 950,
+      "xml_chars": 950,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 67,
+      "name": "§ 53",
+      "pdf_chars": 507,
+      "xml_chars": 507,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 54",
+      "pdf_chars": 263,
+      "xml_chars": 263,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 69,
+      "name": "§ 55",
+      "pdf_chars": 600,
+      "xml_chars": 600,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 70,
+      "name": "§ 56",
+      "pdf_chars": 874,
+      "xml_chars": 874,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 57",
+      "pdf_chars": 125,
+      "xml_chars": 125,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 72,
+      "name": "§ 58",
+      "pdf_chars": 1016,
+      "xml_chars": 1016,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 73,
+      "name": "§ 59",
+      "pdf_chars": 103,
+      "xml_chars": 103,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 74,
+      "name": "§ 60",
+      "pdf_chars": 1187,
+      "xml_chars": 1187,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 75,
+      "name": "§ 60a",
+      "pdf_chars": 858,
+      "xml_chars": 858,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 76,
+      "name": "§ 61",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 77,
+      "name": "§ 62",
+      "pdf_chars": 4690,
+      "xml_chars": 4690,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 78,
+      "name": "§ 62a",
+      "pdf_chars": 18,
+      "xml_chars": 18,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 79,
+      "name": "Abschnitt IIIVerfahren im ersten Rechtszug",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 80,
+      "name": "§ 63",
+      "pdf_chars": 986,
+      "xml_chars": 986,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 81,
+      "name": "§ 64",
+      "pdf_chars": 242,
+      "xml_chars": 242,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 82,
+      "name": "§ 65",
+      "pdf_chars": 884,
+      "xml_chars": 884,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 83,
+      "name": "§ 66",
+      "pdf_chars": 213,
+      "xml_chars": 213,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 84,
+      "name": "§ 67",
+      "pdf_chars": 426,
+      "xml_chars": 426,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 85,
+      "name": "§ 68",
+      "pdf_chars": 490,
+      "xml_chars": 490,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 86,
+      "name": "§ 69",
+      "pdf_chars": 3006,
+      "xml_chars": 3006,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 87,
+      "name": "§ 70",
+      "pdf_chars": 186,
+      "xml_chars": 186,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 88,
+      "name": "§ 71",
+      "pdf_chars": 406,
+      "xml_chars": 406,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 89,
+      "name": "§ 72",
+      "pdf_chars": 897,
+      "xml_chars": 897,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 90,
+      "name": "§ 73",
+      "pdf_chars": 512,
+      "xml_chars": 512,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 91,
+      "name": "§ 74",
+      "pdf_chars": 359,
+      "xml_chars": 359,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 92,
+      "name": "§ 75",
+      "pdf_chars": 160,
+      "xml_chars": 160,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 93,
+      "name": "§ 76",
+      "pdf_chars": 1086,
+      "xml_chars": 1086,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 94,
+      "name": "§ 77",
+      "pdf_chars": 531,
+      "xml_chars": 531,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 95,
+      "name": "§ 77a",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 96,
+      "name": "§ 78",
+      "pdf_chars": 1414,
+      "xml_chars": 1414,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 97,
+      "name": "§ 79",
+      "pdf_chars": 1227,
+      "xml_chars": 1227,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 98,
+      "name": "§ 79a",
+      "pdf_chars": 692,
+      "xml_chars": 692,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 99,
+      "name": "§ 79b",
+      "pdf_chars": 1112,
+      "xml_chars": 1112,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 100,
+      "name": "§ 80",
+      "pdf_chars": 807,
+      "xml_chars": 807,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 101,
+      "name": "§ 81",
+      "pdf_chars": 384,
+      "xml_chars": 384,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 102,
+      "name": "§ 82",
+      "pdf_chars": 198,
+      "xml_chars": 198,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 103,
+      "name": "§ 83",
+      "pdf_chars": 206,
+      "xml_chars": 206,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 104,
+      "name": "§ 84",
+      "pdf_chars": 247,
+      "xml_chars": 247,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 105,
+      "name": "§ 85",
+      "pdf_chars": 234,
+      "xml_chars": 234,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 106,
+      "name": "§ 86",
+      "pdf_chars": 2098,
+      "xml_chars": 2098,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 107,
+      "name": "§ 87",
+      "pdf_chars": 299,
+      "xml_chars": 299,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 108,
+      "name": "§ 88",
+      "pdf_chars": 184,
+      "xml_chars": 184,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 109,
+      "name": "§ 89",
+      "pdf_chars": 161,
+      "xml_chars": 161,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 110,
+      "name": "§ 90",
+      "pdf_chars": 257,
+      "xml_chars": 257,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 111,
+      "name": "§ 90a",
+      "pdf_chars": 698,
+      "xml_chars": 698,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 112,
+      "name": "§ 91",
+      "pdf_chars": 509,
+      "xml_chars": 509,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 113,
+      "name": "§ 92",
+      "pdf_chars": 234,
+      "xml_chars": 234,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 114,
+      "name": "§ 93",
+      "pdf_chars": 355,
+      "xml_chars": 355,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 115,
+      "name": "§ 93a",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 116,
+      "name": "§ 94",
+      "pdf_chars": 73,
+      "xml_chars": 73,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 117,
+      "name": "§ 94a",
+      "pdf_chars": 379,
+      "xml_chars": 379,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 118,
+      "name": "Abschnitt IVUrteile und andere Entscheidungen",
+      "pdf_chars": 41,
+      "xml_chars": 41,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 119,
+      "name": "§ 95",
+      "pdf_chars": 74,
+      "xml_chars": 74,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 120,
+      "name": "§ 96",
+      "pdf_chars": 431,
+      "xml_chars": 431,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 121,
+      "name": "§ 97",
+      "pdf_chars": 76,
+      "xml_chars": 76,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 122,
+      "name": "§ 98",
+      "pdf_chars": 94,
+      "xml_chars": 94,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 123,
+      "name": "§ 99",
+      "pdf_chars": 354,
+      "xml_chars": 354,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 124,
+      "name": "§ 100",
+      "pdf_chars": 2559,
+      "xml_chars": 2559,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 125,
+      "name": "§ 101",
+      "pdf_chars": 338,
+      "xml_chars": 338,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 126,
+      "name": "§ 102",
+      "pdf_chars": 486,
+      "xml_chars": 486,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 127,
+      "name": "§ 103",
+      "pdf_chars": 136,
+      "xml_chars": 136,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 128,
+      "name": "§ 104",
+      "pdf_chars": 712,
+      "xml_chars": 712,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 129,
+      "name": "§ 105",
+      "pdf_chars": 2038,
+      "xml_chars": 2038,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 130,
+      "name": "§ 106",
+      "pdf_chars": 54,
+      "xml_chars": 54,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 131,
+      "name": "§ 107",
+      "pdf_chars": 363,
+      "xml_chars": 363,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 132,
+      "name": "§ 108",
+      "pdf_chars": 576,
+      "xml_chars": 576,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 133,
+      "name": "§ 109",
+      "pdf_chars": 572,
+      "xml_chars": 572,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 134,
+      "name": "§ 110",
+      "pdf_chars": 661,
+      "xml_chars": 661,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 135,
+      "name": "§§ 111 und 112",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 136,
+      "name": "§ 113",
+      "pdf_chars": 639,
+      "xml_chars": 639,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 137,
+      "name": "§ 114",
+      "pdf_chars": 932,
+      "xml_chars": 932,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 138,
+      "name": "Abschnitt VRechtsmittel und Wiederaufnahme\ndes Verfahrens",
+      "pdf_chars": 52,
+      "xml_chars": 52,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 139,
+      "name": "Unterabschnitt 1Revision",
+      "pdf_chars": 23,
+      "xml_chars": 23,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 140,
+      "name": "§ 115",
+      "pdf_chars": 524,
+      "xml_chars": 524,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 141,
+      "name": "§ 116",
+      "pdf_chars": 1776,
+      "xml_chars": 1776,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 142,
+      "name": "§ 117",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 143,
+      "name": "§ 118",
+      "pdf_chars": 765,
+      "xml_chars": 765,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 144,
+      "name": "§ 119",
+      "pdf_chars": 648,
+      "xml_chars": 648,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 145,
+      "name": "§ 120",
+      "pdf_chars": 1059,
+      "xml_chars": 1059,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 146,
+      "name": "§ 121",
+      "pdf_chars": 450,
+      "xml_chars": 450,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 147,
+      "name": "§ 122",
+      "pdf_chars": 534,
+      "xml_chars": 534,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 148,
+      "name": "§ 123",
+      "pdf_chars": 345,
+      "xml_chars": 345,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 149,
+      "name": "§ 124",
+      "pdf_chars": 350,
+      "xml_chars": 350,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 150,
+      "name": "§ 125",
+      "pdf_chars": 304,
+      "xml_chars": 304,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 151,
+      "name": "§ 126",
+      "pdf_chars": 1085,
+      "xml_chars": 1085,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 152,
+      "name": "§ 126a",
+      "pdf_chars": 350,
+      "xml_chars": 350,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 153,
+      "name": "§ 127",
+      "pdf_chars": 259,
+      "xml_chars": 259,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 154,
+      "name": "Unterabschnitt 2Beschwerde, Erinnerung, Anhörungsrüge",
+      "pdf_chars": 50,
+      "xml_chars": 50,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 155,
+      "name": "§ 128",
+      "pdf_chars": 1049,
+      "xml_chars": 1049,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 156,
+      "name": "§ 129",
+      "pdf_chars": 261,
+      "xml_chars": 261,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 157,
+      "name": "§ 130",
+      "pdf_chars": 277,
+      "xml_chars": 277,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 158,
+      "name": "§ 131",
+      "pdf_chars": 373,
+      "xml_chars": 373,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 159,
+      "name": "§ 132",
+      "pdf_chars": 65,
+      "xml_chars": 65,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 160,
+      "name": "§ 133",
+      "pdf_chars": 445,
+      "xml_chars": 445,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 161,
+      "name": "§ 133a",
+      "pdf_chars": 1730,
+      "xml_chars": 1730,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 162,
+      "name": "Unterabschnitt 3Wiederaufnahme des Verfahrens",
+      "pdf_chars": 42,
+      "xml_chars": 42,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 163,
+      "name": "§ 134",
+      "pdf_chars": 122,
+      "xml_chars": 122,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 164,
+      "name": "Dritter TeilKosten und Vollstreckung",
+      "pdf_chars": 33,
+      "xml_chars": 33,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 165,
+      "name": "Abschnitt IKosten",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 166,
+      "name": "§ 135",
+      "pdf_chars": 612,
+      "xml_chars": 612,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 167,
+      "name": "§ 136",
+      "pdf_chars": 517,
+      "xml_chars": 517,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 168,
+      "name": "§ 137",
+      "pdf_chars": 460,
+      "xml_chars": 460,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 169,
+      "name": "§ 138",
+      "pdf_chars": 811,
+      "xml_chars": 811,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 170,
+      "name": "§ 139",
+      "pdf_chars": 1121,
+      "xml_chars": 1121,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 171,
+      "name": "§§ 140 und 141",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 172,
+      "name": "§ 142",
+      "pdf_chars": 2002,
+      "xml_chars": 2002,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 173,
+      "name": "§ 143",
+      "pdf_chars": 259,
+      "xml_chars": 259,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 174,
+      "name": "§ 144",
+      "pdf_chars": 156,
+      "xml_chars": 156,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 175,
+      "name": "§ 145",
+      "pdf_chars": 132,
+      "xml_chars": 132,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 176,
+      "name": "§ 146",
+      "pdf_chars": 724,
+      "xml_chars": 724,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 177,
+      "name": "§§ 147 bis 148",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 178,
+      "name": "§ 149",
+      "pdf_chars": 459,
+      "xml_chars": 459,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 179,
+      "name": "Abschnitt IIVollstreckung",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 180,
+      "name": "§ 150",
+      "pdf_chars": 381,
+      "xml_chars": 381,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 181,
+      "name": "§ 151",
+      "pdf_chars": 765,
+      "xml_chars": 765,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 182,
+      "name": "§ 152",
+      "pdf_chars": 1198,
+      "xml_chars": 1198,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 183,
+      "name": "§ 153",
+      "pdf_chars": 76,
+      "xml_chars": 76,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 184,
+      "name": "§ 154",
+      "pdf_chars": 403,
+      "xml_chars": 403,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 185,
+      "name": "Vierter TeilÜbergangs- und Schlußbestimmungen",
+      "pdf_chars": 42,
+      "xml_chars": 42,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 186,
+      "name": "§ 155",
+      "pdf_chars": 667,
+      "xml_chars": 667,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 187,
+      "name": "§ 156",
+      "pdf_chars": 73,
+      "xml_chars": 73,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 188,
+      "name": "§ 157",
+      "pdf_chars": 418,
+      "xml_chars": 418,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 189,
+      "name": "§ 158",
+      "pdf_chars": 360,
+      "xml_chars": 360,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 190,
+      "name": "§ 159",
+      "pdf_chars": 74,
+      "xml_chars": 74,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 191,
+      "name": "§ 160",
+      "pdf_chars": 178,
+      "xml_chars": 178,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 192,
+      "name": "§ 161",
+      "pdf_chars": 30,
+      "xml_chars": 30,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 193,
+      "name": "§ 162",
+      "pdf_chars": 569,
+      "xml_chars": 569,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 194,
+      "name": "§§ 163 bis 183",
+      "pdf_chars": 24,
+      "xml_chars": 24,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 195,
+      "name": "§ 184",
+      "pdf_chars": 51,
+      "xml_chars": 51,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 196,
+  "gesamt": 196,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "704954a4478aff08c5adaf41cd36d17d267cb1401f8e205741238b7526bec3a3",
+  "xml_sha256": "1f6af7b3b82581e5c91095aac06a354608962cde476fd81ade6363f9a0f00f1b"
+}

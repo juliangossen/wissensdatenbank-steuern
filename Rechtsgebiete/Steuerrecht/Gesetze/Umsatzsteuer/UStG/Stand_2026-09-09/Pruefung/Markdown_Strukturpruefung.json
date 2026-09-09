@@ -1,0 +1,596 @@
+{
+  "paragraph_headings": 88,
+  "sections": 7,
+  "annexes": 5,
+  "fences": [
+    [
+      "text",
+      [
+        34,
+        65
+      ]
+    ]
+  ],
+  "code_blocks": 0,
+  "inline_code": 0,
+  "paragraphs": [
+    {
+      "name": "§ 1",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 1a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 1b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 1c",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 2",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 2a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 2b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 3",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 3a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 3b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 3c",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 3d",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 3e",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 3f",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 3g",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 4",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 4a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 4b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 4c",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 5",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 6",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 6a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 6b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 7",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 8",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 9",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 10",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 11",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 12",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 13",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 13a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 13b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 13c",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 13d",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 14",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 14a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 14b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 14c",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 15",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 15a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 16",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 17",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18c",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18d",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18e",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18f",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18g",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18h",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18i",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18j",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 18k",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 19",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 19a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 20",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 21",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 21a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 21b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 22",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 22a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 22b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 22c",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 22d",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 22e",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 22f",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 22g",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 23",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 23a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 24",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 25",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 25a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 25b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 25c",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 25d",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 25e",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 25f",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 26",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 26a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 26b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 26c",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 27",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 27a",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 27b",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 28",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 29",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    },
+    {
+      "name": "§ 30",
+      "characters_match": true,
+      "list_depth_of_every_character_matches": true,
+      "word_boundaries_match": true
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "note": "Editorial rearrangement in contents table is intentionally excluded from column-position audit."
+    },
+    {
+      "index": 1,
+      "rows": 109,
+      "columns": 3,
+      "all_cells_match": true,
+      "rowspan_cells": 12
+    },
+    {
+      "index": 2,
+      "rows": 18,
+      "columns": 3,
+      "all_cells_match": true,
+      "rowspan_cells": 0
+    },
+    {
+      "index": 3,
+      "rows": 12,
+      "columns": 3,
+      "all_cells_match": true,
+      "rowspan_cells": 0
+    },
+    {
+      "index": 4,
+      "rows": 4,
+      "columns": 2,
+      "all_cells_match": true,
+      "rowspan_cells": 0
+    },
+    {
+      "index": 5,
+      "rows": 3,
+      "columns": 2,
+      "all_cells_match": true,
+      "rowspan_cells": 0
+    },
+    {
+      "index": 6,
+      "rows": 6,
+      "columns": 2,
+      "all_cells_match": true,
+      "rowspan_cells": 0
+    }
+  ],
+  "visible_syntax_fragments": [],
+  "markdown_sha256": "2fdec427bb25a8c00b690104a72a65b7f5874efd10d923574f3d994f718a7a8f"
+}

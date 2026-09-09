@@ -1,0 +1,494 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR014420981",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "31187aae2f98d4c828d91f90d7b2b97cae933ef7a02a430f8abb4dd5408a4c55"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR014420981BJNE000900314",
+    "enbez": "Eingangsformel",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "61edcab965142ddff47aec20675d93616b360d4b895c5206d1aeba7229a29875"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR014420981BJNE006600123",
+    "enbez": "Inhaltsübersicht",
+    "gliederung": null,
+    "titel": "Inhaltsübersicht",
+    "sha256_xml_text": "c010a8cf9165d992bd4e09c1a243f4e0a6b54a79bf39e5d7891167a5d88b51e5"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR014420981BJNG000100314",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Allgemeine Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR014420981BJNE001002123",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Anwendungsbereich",
+    "sha256_xml_text": "191a58cbb4145858f24c30a067c354ba5ce439b5697a1c026b8b4a5ff8af3405"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR014420981BJNE001100314",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Sinngemäße Anwendung der Verordnung",
+    "sha256_xml_text": "505a32618ef80ede5466a57e1206494cb3ed1bcd81591710fecf5d1431c17671"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR014420981BJNE001206123",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Auslagen",
+    "sha256_xml_text": "72a4f180749e1ae946925a46a668ae0f8d9438efa0b6b4bace464bfa4aee6d47"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR014420981BJNE001303123",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Vergütungsvereinbarung",
+    "sha256_xml_text": "8b2568af417426d8460655d472bb044cf954a1e4b4e5cd89f3cff2906f9acba1"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR014420981BJNE006700123",
+    "enbez": "§ 4a",
+    "gliederung": null,
+    "titel": "Unterschreiten der gesetzlichen Vergütung",
+    "sha256_xml_text": "f3f65ce7272f64d811ebf8dd1592852edaf83ea86541e73d8d38bf21de4edbaf"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR014420981BJNE006800123",
+    "enbez": "§ 4b",
+    "gliederung": null,
+    "titel": "Fehlerhafte Vergütungsvereinbarung",
+    "sha256_xml_text": "d43fe30c488b9a4e6cb59c101b075033c38bb1595235529c7d9a31c03ec4f69d"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR014420981BJNE001400314",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Mehrere Steuerberater",
+    "sha256_xml_text": "2cad1c940954ef1278c57629d806420f4edd45541321d0c2f6dcf8c8e62dc1ff"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR014420981BJNE001502123",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Mehrere Auftraggeber",
+    "sha256_xml_text": "537ebacff98c59e2ed10afac65fdeb96aee60223f5c675e89e223778bb5d96f8"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR014420981BJNE001600314",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Fälligkeit",
+    "sha256_xml_text": "1c0c51bdc79fc28687cb2883dc9d5ef0f108b355e78bc75e4dcd589e73062eb2"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR014420981BJNE001700314",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Vorschuß",
+    "sha256_xml_text": "874dd4d6f5fca2a4916a199f661bcaf2dc6faf32b633caacde4b7944e408a2c7"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR014420981BJNE001805123",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": "Berechnung",
+    "sha256_xml_text": "988236b12b30c610a5587e17d982205762a3750e3c50f92f971980ff2b1334ed"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR014420981BJNG000200314",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Gebührenberechnung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR014420981BJNE001901123",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Wertgebühren",
+    "sha256_xml_text": "dbacb3c12d1637256aede2cf3be4ca841244e7f325719bef54419f83b535b45e"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR014420981BJNE002001301",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Rahmengebühren",
+    "sha256_xml_text": "f816c9f5422c8c3d779d2c66f3f57db48df1fd19d63ebdc2d98b3898e02bc29e"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR014420981BJNE002101301",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Abgeltungsbereich der Gebühren",
+    "sha256_xml_text": "bbf2a749614daabc544cd183c7716c4e1405eb13f8d10a104ed2078ec1004bff"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR014420981BJNE002208123",
+    "enbez": "§ 13",
+    "gliederung": null,
+    "titel": "Zeitgebühr",
+    "sha256_xml_text": "971c448244b05b5b470353c0c3c30813cbbebf1a0ce933e97ba657c2104efda2"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR014420981BJNE002303123",
+    "enbez": "§ 14",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR014420981BJNG000300314",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Umsatzsteuer, Ersatz von\nAuslagen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR014420981BJNE002400314",
+    "enbez": "§ 15",
+    "gliederung": null,
+    "titel": "Umsatzsteuer",
+    "sha256_xml_text": "19dd7b2332613c5fb55c61270d0ad369fdba36ea46234ee18ee33189b9bccea8"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR014420981BJNE002503301",
+    "enbez": "§ 16",
+    "gliederung": null,
+    "titel": "Entgelte für Post- und Telekommunikationsdienstleistungen",
+    "sha256_xml_text": "aa12c25f48323a8ef1340fbce1caa865d913cc790192a639a2c43712b1068578"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR014420981BJNE002604123",
+    "enbez": "§ 17",
+    "gliederung": null,
+    "titel": "Dokumentenpauschale",
+    "sha256_xml_text": "0864af1339053dd2e376f6a72deabb6a01ac01a2969c392e73bb92002ac3f373"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR014420981BJNE002706123",
+    "enbez": "§ 18",
+    "gliederung": null,
+    "titel": "Geschäftsreisen",
+    "sha256_xml_text": "badfd8db1c224dcf70fc7f2770e1fc1deb01061f587d6fce80fc13e18c3e87c2"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR014420981BJNE002800314",
+    "enbez": "§ 19",
+    "gliederung": null,
+    "titel": "Reisen zur Ausführung mehrerer Geschäfte",
+    "sha256_xml_text": "7281dcca6d24d5504f1bb07b121885807e0dc6d4a3c4c868460b7f333a904150"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR014420981BJNE002900314",
+    "enbez": "§ 20",
+    "gliederung": null,
+    "titel": "Verlegung der beruflichen Niederlassung",
+    "sha256_xml_text": "6a8eefe75ab167d29384eec66aad95c96f524153762963fef60b4f4680203246"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR014420981BJNG000400314",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040",
+      "gliederungsbez": "Vierter Abschnitt",
+      "gliederungstitel": "Gebühren für die Beratung\nund für die Hilfeleistung bei der Erfüllung allgemeiner\nSteuerpflichten"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR014420981BJNE003008123",
+    "enbez": "§ 21",
+    "gliederung": null,
+    "titel": "Rat, Auskunft, Erstberatung",
+    "sha256_xml_text": "75636d3475ecfe736d1cb02e3ef534083a3d96f9b11f860a383050fa142ab677"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR014420981BJNE003101123",
+    "enbez": "§ 22",
+    "gliederung": null,
+    "titel": "Gutachten und Antrag auf verbindliche Auskunft",
+    "sha256_xml_text": "31ca485ef470b37cedb69e911b66526277c34c3416839a5dd940881654b3bda8"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR014420981BJNE003203123",
+    "enbez": "§ 23",
+    "gliederung": null,
+    "titel": "Sonstige Einzeltätigkeiten",
+    "sha256_xml_text": "2020f2f395424a23eaee98d5badbe17df0744323de0a103533cf06e7b1443ad6"
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR014420981BJNE003308123",
+    "enbez": "§ 24",
+    "gliederung": null,
+    "titel": "Steuererklärungen",
+    "sha256_xml_text": "82984ee1895c31df0bb477df09968e6a3814995b314cec39f0ef889064ed2de2"
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR014420981BJNE003403123",
+    "enbez": "§ 25",
+    "gliederung": null,
+    "titel": "Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben",
+    "sha256_xml_text": "fe9ea4c48bab30d02d2ea989cb7acb76672cddde0faadff9252b328d6be22005"
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR014420981BJNE003502301",
+    "enbez": "§ 26",
+    "gliederung": null,
+    "titel": "Ermittlung des Gewinns aus Land- und Forstwirtschaft nach\nDurchschnittsätzen",
+    "sha256_xml_text": "e58d81da5b0e86fba98fdc91fc9c3e55d3006dcdd2b9070374c5216b53c75660"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR014420981BJNE003603140",
+    "enbez": "§ 27",
+    "gliederung": null,
+    "titel": "Ermittlung des Überschusses der Einnahmen über die Werbungskosten",
+    "sha256_xml_text": "62236d5a4e309c4295e62c7a1bb79a8b621ab1db46a1944e0bb2a05258a04459"
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR014420981BJNE003700314",
+    "enbez": "§ 28",
+    "gliederung": null,
+    "titel": "Prüfung von Steuerbescheiden",
+    "sha256_xml_text": "787705520f4dfe6be0686a958502baf3fa8bda04aba92377dcd9b25fd7572622"
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR014420981BJNE003803123",
+    "enbez": "§ 29",
+    "gliederung": null,
+    "titel": "Teilnahme an Prüfungen und Nachschauen",
+    "sha256_xml_text": "fcd50811ae0f684bc9b0f3c01e5d1f2c57500329a72527fc65c7a522e4202536"
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR014420981BJNE003901140",
+    "enbez": "§ 30",
+    "gliederung": null,
+    "titel": "Selbstanzeige",
+    "sha256_xml_text": "f94494fb801d9cdbfca23258e426f60ed7061b634239abc1550b86cfb9ff44af"
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR014420981BJNE004001301",
+    "enbez": "§ 31",
+    "gliederung": null,
+    "titel": "Besprechungen",
+    "sha256_xml_text": "7faa29c0e399a02e0bc692884df4a63e2d3fe298a129cebe14214a875953e636"
+  },
+  {
+    "index": 40,
+    "doknr": "BJNR014420981BJNG000500314",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050",
+      "gliederungsbez": "Fünfter Abschnitt",
+      "gliederungstitel": "Gebühren für die Hilfeleistung\nbei der Erfüllung steuerlicher Buchführungs- und\nAufzeichnungspflichten"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 41,
+    "doknr": "BJNR014420981BJNE004101140",
+    "enbez": "§ 32",
+    "gliederung": null,
+    "titel": "Einrichtung einer Buchführung",
+    "sha256_xml_text": "168cb768990adda201dc92bba6d060a90bd815de900e34d329ed90dd1b1078b2"
+  },
+  {
+    "index": 42,
+    "doknr": "BJNR014420981BJNE004204123",
+    "enbez": "§ 33",
+    "gliederung": null,
+    "titel": "Buchführung",
+    "sha256_xml_text": "3e9fb9a7590f3c68610b5cb718d7cf9db4c6718f6d14a4aa57617fbf34ee61f4"
+  },
+  {
+    "index": 43,
+    "doknr": "BJNR014420981BJNE004305123",
+    "enbez": "§ 34",
+    "gliederung": null,
+    "titel": "Lohnbuchführung",
+    "sha256_xml_text": "300542940d83a3849b84f21ef00d641f6d460d01b78c126abdaa989b7e8a8593"
+  },
+  {
+    "index": 44,
+    "doknr": "BJNR014420981BJNE004405140",
+    "enbez": "§ 35",
+    "gliederung": null,
+    "titel": "Abschlußarbeiten",
+    "sha256_xml_text": "3c8bba9330d1c482ce752d864f95a2ec863376b8046aeb430c49738437a9d991"
+  },
+  {
+    "index": 45,
+    "doknr": "BJNR014420981BJNE004504140",
+    "enbez": "§ 36",
+    "gliederung": null,
+    "titel": "Steuerliches Revisionswesen",
+    "sha256_xml_text": "7dd6a20b9f47d7ccea26c617d5c5e90ec70d5e7c9301718006fa21912637c5af"
+  },
+  {
+    "index": 46,
+    "doknr": "BJNR014420981BJNE004600314",
+    "enbez": "§ 37",
+    "gliederung": null,
+    "titel": "Vermögensstatus, Finanzstatus für steuerliche Zwecke",
+    "sha256_xml_text": "b023a528a79dadbce752471467de27bff4a0bdcddefa5e83d67c52e9e91f31f3"
+  },
+  {
+    "index": 47,
+    "doknr": "BJNR014420981BJNE004701309",
+    "enbez": "§ 38",
+    "gliederung": null,
+    "titel": "Erteilung von Bescheinigungen",
+    "sha256_xml_text": "5b0e13fb4a7c1a1dc1756714d16c364cfa8ddcbc6091a500bcb53ccb2b3097d3"
+  },
+  {
+    "index": 48,
+    "doknr": "BJNR014420981BJNE004803123",
+    "enbez": "§ 39",
+    "gliederung": null,
+    "titel": "Buchführungs- und Abschlußarbeiten für land- und forstwirtschaftliche Betriebe",
+    "sha256_xml_text": "558448d0d3c654ffba59a9a9bcb3f68cfdf6ff0da54694a7caa0cc6ee510f4f8"
+  },
+  {
+    "index": 49,
+    "doknr": "BJNR014420981BJNG000601123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060",
+      "gliederungsbez": "Sechster Abschnitt",
+      "gliederungstitel": "Vergütung für die Vertretung in außergerichtlichen Rechtsbehelfsverfahren, gerichtlichen und anderen Verfahren"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 50,
+    "doknr": "BJNR014420981BJNE004905123",
+    "enbez": "§ 40",
+    "gliederung": null,
+    "titel": "Anwendung des Rechtsanwaltsvergütungsgesetzes",
+    "sha256_xml_text": "82fc335e5469019790ad082bf6e6617e32417721e4870595b6c73d722898a958"
+  },
+  {
+    "index": 51,
+    "doknr": "BJNR014420981BJNG000701123",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "070",
+      "gliederungsbez": "Siebenter Abschnitt",
+      "gliederungstitel": "Übergangsvorschrift"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 52,
+    "doknr": "BJNR014420981BJNE005002123",
+    "enbez": "§ 41",
+    "gliederung": null,
+    "titel": "Berechnung der Vergütung bei Änderungen dieser Verordnung",
+    "sha256_xml_text": "e8ac32e06b7bdeb01f606cd2baf5f5e6912e8196dbd60a0406c9ee17ed84d3e6"
+  },
+  {
+    "index": 53,
+    "doknr": "BJNR014420981BJNE005901123",
+    "enbez": "Schlußformel",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "adabdb90493c4e3999f18855b394a2801e5f36b2099f6993c8d29b8fe1b98bac"
+  },
+  {
+    "index": 54,
+    "doknr": "BJNR014420981BJNE006006123",
+    "enbez": "Anlage 1",
+    "gliederung": null,
+    "titel": "Tabelle A(Beratungstabelle)",
+    "sha256_xml_text": "a4de64e03b698e40a66e56d6e1e7e7565c2d516e3ae157ec488b79c8338b4820"
+  },
+  {
+    "index": 55,
+    "doknr": "BJNR014420981BJNE006106123",
+    "enbez": "Anlage 2",
+    "gliederung": null,
+    "titel": "Tabelle B(Abschlusstabelle)",
+    "sha256_xml_text": "e5c6658cedd626de248de40132e32e7d6814ee036c617cc8faf1ec79f03804b0"
+  },
+  {
+    "index": 56,
+    "doknr": "BJNR014420981BJNE006205123",
+    "enbez": "Anlage 3",
+    "gliederung": null,
+    "titel": "Tabelle C(Buchführungstabelle)",
+    "sha256_xml_text": "5a564fe255697c508076f3a684b732beabc1cf18d26175d1c24bda5f819cb0b3"
+  },
+  {
+    "index": 57,
+    "doknr": "BJNR014420981BJNE006306123",
+    "enbez": "Anlage 4",
+    "gliederung": null,
+    "titel": "Tabelle D",
+    "sha256_xml_text": "ea37b7a54c4ca83ca58071fcc54a07fe85fff892cfc8ee90d3f2e70efcdeb4dc"
+  }
+]

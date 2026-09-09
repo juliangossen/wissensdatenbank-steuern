@@ -1,0 +1,22 @@
+{
+  "kuerzel": "HGB",
+  "titel": "Handelsgesetzbuch",
+  "rechtsgebiet": "Handelsrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/hgb/",
+  "lokale_pdf": "HGB_bereitgestellt.pdf",
+  "aktuelle_pdf": "HGB_aktuell.pdf",
+  "xml_datei": "Quellen/XML/BJNR002190897.xml",
+  "ausfertigungsdatum": "1897-05-10",
+  "stand": [
+    "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+    "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+  ],
+  "vollzitat": "\"Handelsgesetzbuch in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 4 des Gesetzes vom 4. Februar 2026 (BGBl. 2026 I Nr. 33) geändert worden ist\"",
+  "pdf_seiten": 218,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "pdf_text_identisch_aktuell": true,
+  "pdf_url": "https://www.gesetze-im-internet.de/hgb/HGB.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/hgb/BJNR002190897.html"
+}

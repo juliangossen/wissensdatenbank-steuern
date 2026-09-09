@@ -1,0 +1,268 @@
+{
+  "kuerzel": "UWG",
+  "datum": "2026-09-09",
+  "methode": "Normweise Vergleich aller Überschriften, Texte und Fußnoten einschließlich aus XML-Attributen rekonstruierter Fußnotenmarker; NFC und Entfernung nur von Whitespace, PDF-Servicezeilen und Seitenzählern. Abweichungen einzeln dokumentiert.",
+  "normdatensaetze": 36,
+  "exakt_identisch": 36,
+  "abweichend": 0,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "technische_xml_praefixe": {
+    "regel": "Nur das GII-interne Kennzeichen (XXXX) vor enbez wird beim PDF-Vergleich entfernt. Die Vorschrift und ihr Wegfallhinweis bleiben erhalten.",
+    "anzahl": 1
+  },
+  "pdf_leertext_platzhalter": [],
+  "normen": [
+    {
+      "norm_index": 0,
+      "name": "Gesetzeskopf",
+      "pdf_zeichen": 1748,
+      "xml_zeichen": 1748,
+      "identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Kapitel 1Allgemeine Bestimmungen",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "§ 1",
+      "pdf_zeichen": 417,
+      "xml_zeichen": 417,
+      "identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 2",
+      "pdf_zeichen": 3217,
+      "xml_zeichen": 3217,
+      "identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 3",
+      "pdf_zeichen": 1106,
+      "xml_zeichen": 1106,
+      "identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3a",
+      "pdf_zeichen": 273,
+      "xml_zeichen": 273,
+      "identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 4",
+      "pdf_zeichen": 1065,
+      "xml_zeichen": 1065,
+      "identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 4a",
+      "pdf_zeichen": 1867,
+      "xml_zeichen": 1867,
+      "identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 5",
+      "pdf_zeichen": 2966,
+      "xml_zeichen": 2966,
+      "identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 5a",
+      "pdf_zeichen": 1723,
+      "xml_zeichen": 1723,
+      "identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 5b",
+      "pdf_zeichen": 2809,
+      "xml_zeichen": 2809,
+      "identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 5c",
+      "pdf_zeichen": 1790,
+      "xml_zeichen": 1790,
+      "identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 6",
+      "pdf_zeichen": 1036,
+      "xml_zeichen": 1036,
+      "identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 7",
+      "pdf_zeichen": 1735,
+      "xml_zeichen": 1735,
+      "identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 7a",
+      "pdf_zeichen": 512,
+      "xml_zeichen": 512,
+      "identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "Kapitel 2Rechtsfolgen",
+      "pdf_zeichen": 20,
+      "xml_zeichen": 20,
+      "identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 8",
+      "pdf_zeichen": 2339,
+      "xml_zeichen": 2339,
+      "identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 8a",
+      "pdf_zeichen": 466,
+      "xml_zeichen": 466,
+      "identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 8b",
+      "pdf_zeichen": 1553,
+      "xml_zeichen": 1553,
+      "identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 8c",
+      "pdf_zeichen": 1496,
+      "xml_zeichen": 1496,
+      "identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 9",
+      "pdf_zeichen": 683,
+      "xml_zeichen": 683,
+      "identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 10",
+      "pdf_zeichen": 1930,
+      "xml_zeichen": 1930,
+      "identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 11",
+      "pdf_zeichen": 624,
+      "xml_zeichen": 624,
+      "identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "Kapitel 3Verfahrensvorschriften",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 12",
+      "pdf_zeichen": 1993,
+      "xml_zeichen": 1993,
+      "identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 13",
+      "pdf_zeichen": 2242,
+      "xml_zeichen": 2242,
+      "identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 13a",
+      "pdf_zeichen": 1453,
+      "xml_zeichen": 1453,
+      "identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 14",
+      "pdf_zeichen": 1597,
+      "xml_zeichen": 1597,
+      "identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 15",
+      "pdf_zeichen": 4830,
+      "xml_zeichen": 4830,
+      "identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 15a",
+      "pdf_zeichen": 266,
+      "xml_zeichen": 266,
+      "identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "Kapitel 4Straf- und Bußgeldvorschriften",
+      "pdf_zeichen": 36,
+      "xml_zeichen": 36,
+      "identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 16",
+      "pdf_zeichen": 738,
+      "xml_zeichen": 738,
+      "identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "(XXXX) §§ 17 u. 18",
+      "pdf_zeichen": 21,
+      "xml_zeichen": 21,
+      "identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 19",
+      "pdf_zeichen": 1798,
+      "xml_zeichen": 1798,
+      "identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 20",
+      "pdf_zeichen": 1602,
+      "xml_zeichen": 1602,
+      "identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "Anhang",
+      "pdf_zeichen": 9914,
+      "xml_zeichen": 9914,
+      "identisch": true
+    }
+  ]
+}

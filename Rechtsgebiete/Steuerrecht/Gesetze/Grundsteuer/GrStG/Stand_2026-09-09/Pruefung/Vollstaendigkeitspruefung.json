@@ -1,0 +1,661 @@
+{
+  "kuerzel": "GrStG",
+  "quellenabgleich": "2026-09-09",
+  "xml_normdatensaetze": 45,
+  "gliederungsteile": 5,
+  "vorschriften": 38,
+  "anlagen_anhaenge": 0,
+  "tabellen": 5,
+  "tabellenzeilen": 38,
+  "tabellenzellen": 76,
+  "aufzaehlungskennzeichnungen": 56,
+  "bilder": 0,
+  "gepruefte_textbloecke": 106,
+  "alle_textbloecke_identisch": true,
+  "interne_links": 78,
+  "alle_linkziele_vorhanden": true,
+  "sha256_markdown": "712c511078d09cf24777657015f9ca841cf38d045cfbb90a2ca3654e80210f6b",
+  "sha256_xml": "9e3c182c877c0b6db6b5f5d04f3801a8577ee9ad395c87e924baed18cf99ece4",
+  "sha256_pdf": "d1501382c2269e1c723296204e20f434767ab0e3e86b06e304205510b3861c66",
+  "bildassets": {},
+  "methode": "Vollständiger XML-Text je Inhalt, Fußnote und Überschrift gegen aus Markdown gerenderten Text. Nur NFC/Whitespace, generische Spaltenköpfe und ausdrücklich redaktionelle Fußnotenmarker ausgenommen. Alle übrigen Zeichen und Zahlen unverändert.",
+  "bloecke": [
+    {
+      "teil": "Dokumentkopf / fussnoten / Content",
+      "zeichen_ohne_whitespace": 1197,
+      "sha256_normalisierter_text": "64514aa5d5b1a1698f48f45be6e360e8251c387dfffe7f0be38e514c27e57f88",
+      "identisch": true
+    },
+    {
+      "teil": "Inhaltsübersicht / text / Content",
+      "zeichen_ohne_whitespace": 1424,
+      "sha256_normalisierter_text": "528ecafa0a01d06854b939d276bd0f97313d8d5005febbbce28a7518bb7fc553",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 2 / gliederungsbez",
+      "zeichen_ohne_whitespace": 10,
+      "sha256_normalisierter_text": "d3876d34d0fe9fb0c5f4c8bf36eb1b1960d2c819af49f4a902ebc9462b80e098",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 2 / gliederungstitel",
+      "zeichen_ohne_whitespace": 13,
+      "sha256_normalisierter_text": "4603b3344a713d37e8de2eda5fb4ad5ccb1d013370d269aa62a1ddeec8d0d750",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 2 / text / Content",
+      "zeichen_ohne_whitespace": 0,
+      "sha256_normalisierter_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "identisch": true
+    },
+    {
+      "teil": "§ 1 / Überschrift",
+      "zeichen_ohne_whitespace": 9,
+      "sha256_normalisierter_text": "4238030e0f6b4caade13f4ed7350bc60c7952ea835b9e11011137eea33e4157f",
+      "identisch": true
+    },
+    {
+      "teil": "§ 1 / text / Content",
+      "zeichen_ohne_whitespace": 370,
+      "sha256_normalisierter_text": "3dbd01f1035a72a7f0b7b26b4debed1eff715c62a10541bb415e37a56a6395d6",
+      "identisch": true
+    },
+    {
+      "teil": "§ 2 / Überschrift",
+      "zeichen_ohne_whitespace": 16,
+      "sha256_normalisierter_text": "d5349944f3f7806fe59c0ff91b74d5d32dfd998cfca27845f4f0ef75c5a270db",
+      "identisch": true
+    },
+    {
+      "teil": "§ 2 / text / Content",
+      "zeichen_ohne_whitespace": 370,
+      "sha256_normalisierter_text": "b4f93b0849ccb92824ec1ae0f9fa608212b4c62931fb3b42ff5a073764e87d3c",
+      "identisch": true
+    },
+    {
+      "teil": "§ 2 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 572,
+      "sha256_normalisierter_text": "15f5c02cea373528b497e986f6007c0e3f178255299b44d43106c2e0f0d6f367",
+      "identisch": true
+    },
+    {
+      "teil": "§ 3 / Überschrift",
+      "zeichen_ohne_whitespace": 51,
+      "sha256_normalisierter_text": "b1bccea2d7eb09c502ec448b28116f2021dbd2657940c14b3b00a628c6d46155",
+      "identisch": true
+    },
+    {
+      "teil": "§ 3 / text / Content",
+      "zeichen_ohne_whitespace": 2875,
+      "sha256_normalisierter_text": "607ade8edeb976aa65d6a3d348b063a0171bbca3222222eed5810b10868bbc4c",
+      "identisch": true
+    },
+    {
+      "teil": "§ 3 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 223,
+      "sha256_normalisierter_text": "b5f5374d160d1533a2548a693996abd052f279925f248119f22ebe6c6325c3fe",
+      "identisch": true
+    },
+    {
+      "teil": "§ 4 / Überschrift",
+      "zeichen_ohne_whitespace": 25,
+      "sha256_normalisierter_text": "2b6c6a08c0ac45f40138ceec8374c9df89db43a055f637908df1f0a3d5454e91",
+      "identisch": true
+    },
+    {
+      "teil": "§ 4 / text / Content",
+      "zeichen_ohne_whitespace": 1936,
+      "sha256_normalisierter_text": "d582367598ac9723b5c5f44de0b414d63787ec5093dd8f2a4c1efb3d178f7c8f",
+      "identisch": true
+    },
+    {
+      "teil": "§ 5 / Überschrift",
+      "zeichen_ohne_whitespace": 33,
+      "sha256_normalisierter_text": "b2e9e1e43ef8c6b2daf6cbea8d6f44b32d8765116e8b1d9b225bd02cd2f2ef37",
+      "identisch": true
+    },
+    {
+      "teil": "§ 5 / text / Content",
+      "zeichen_ohne_whitespace": 1148,
+      "sha256_normalisierter_text": "9af24bff71111382727a1e4c7c12c7a93c6b533785a53cdff43e710116a792e7",
+      "identisch": true
+    },
+    {
+      "teil": "§ 6 / Überschrift",
+      "zeichen_ohne_whitespace": 47,
+      "sha256_normalisierter_text": "6b445ad089a5c46fd6dceb86fb4cef303efce4bf8e86fa1b1cbabc607b45ed1a",
+      "identisch": true
+    },
+    {
+      "teil": "§ 6 / text / Content",
+      "zeichen_ohne_whitespace": 413,
+      "sha256_normalisierter_text": "2cb246a5c6700e3b5dc7aa3f97a56dbf1e82e17e583c83c350ccf83df410d645",
+      "identisch": true
+    },
+    {
+      "teil": "§ 7 / Überschrift",
+      "zeichen_ohne_whitespace": 52,
+      "sha256_normalisierter_text": "48a7fdb0dd454a6610b9c99834d2d0daf620e21f46c30353565d394142d4c9d9",
+      "identisch": true
+    },
+    {
+      "teil": "§ 7 / text / Content",
+      "zeichen_ohne_whitespace": 214,
+      "sha256_normalisierter_text": "1c8ada34eae95befa80fc6065294b10b63badad3e260a80a5cdd532168b076c3",
+      "identisch": true
+    },
+    {
+      "teil": "§ 8 / Überschrift",
+      "zeichen_ohne_whitespace": 49,
+      "sha256_normalisierter_text": "1e71d1f86c79d55f128e81717a4bcbf47efe43d7d862ed89f026071939b2be07",
+      "identisch": true
+    },
+    {
+      "teil": "§ 8 / text / Content",
+      "zeichen_ohne_whitespace": 453,
+      "sha256_normalisierter_text": "fd08a0a512aa24e9b2f8bcb9235d422e5038b0fc37e73a54ec346cd15427df03",
+      "identisch": true
+    },
+    {
+      "teil": "§ 9 / Überschrift",
+      "zeichen_ohne_whitespace": 59,
+      "sha256_normalisierter_text": "3594f81db821529bfab3bc473122207bbb0975bfb88a9395178643a8bf5fdee3",
+      "identisch": true
+    },
+    {
+      "teil": "§ 9 / text / Content",
+      "zeichen_ohne_whitespace": 159,
+      "sha256_normalisierter_text": "6c438dc517ca746f0a7a3dd7ebc33eafbda7d961fe18e9c7c97c51b891ec31b2",
+      "identisch": true
+    },
+    {
+      "teil": "§ 10 / Überschrift",
+      "zeichen_ohne_whitespace": 15,
+      "sha256_normalisierter_text": "40b6032ac07c3247beec84ee3c7fbce7438bccb0971eebf798888de2d37c76b2",
+      "identisch": true
+    },
+    {
+      "teil": "§ 10 / text / Content",
+      "zeichen_ohne_whitespace": 191,
+      "sha256_normalisierter_text": "5e8154ee247b2e04d30800a109ba5a4ed3b6c396dda8c88798eefa333b2c22a6",
+      "identisch": true
+    },
+    {
+      "teil": "§ 11 / Überschrift",
+      "zeichen_ohne_whitespace": 18,
+      "sha256_normalisierter_text": "154520129d358f2cbe123117ed9c20325936f49513abec879329ae299df586d3",
+      "identisch": true
+    },
+    {
+      "teil": "§ 11 / text / Content",
+      "zeichen_ohne_whitespace": 496,
+      "sha256_normalisierter_text": "c852760c0bb56c3bcce83c7055eeae685edd444c210008e9e4c64de94075c3d8",
+      "identisch": true
+    },
+    {
+      "teil": "§ 12 / Überschrift",
+      "zeichen_ohne_whitespace": 16,
+      "sha256_normalisierter_text": "ff2daee1e243d1f665f5fb5904ede7a9ba529fed1283ed6def8df44b479e5697",
+      "identisch": true
+    },
+    {
+      "teil": "§ 12 / text / Content",
+      "zeichen_ohne_whitespace": 59,
+      "sha256_normalisierter_text": "d8628a3269da0ae017c45d797c3e9cee85bafeaa637103bcc16d880555aa48c8",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 15 / gliederungsbez",
+      "zeichen_ohne_whitespace": 11,
+      "sha256_normalisierter_text": "a8d3e69ce399269923367e395550f080fdca64110469731067b751724b1ee500",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 15 / gliederungstitel",
+      "zeichen_ohne_whitespace": 23,
+      "sha256_normalisierter_text": "fa8831066ca5fd5773f101fa7c49dd983f03e2f4db5b6d09186de14ba07011eb",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 15 / text / Content",
+      "zeichen_ohne_whitespace": 0,
+      "sha256_normalisierter_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "identisch": true
+    },
+    {
+      "teil": "§ 13 / Überschrift",
+      "zeichen_ohne_whitespace": 33,
+      "sha256_normalisierter_text": "697122f42640a273ecb33850e84794836cebb6d4a3c369c087a2fbb538ec1815",
+      "identisch": true
+    },
+    {
+      "teil": "§ 13 / text / Content",
+      "zeichen_ohne_whitespace": 308,
+      "sha256_normalisierter_text": "f5ac89389b89284cef2567b0cfb6cdcc76604efbe71f8a038977d588f6b97099",
+      "identisch": true
+    },
+    {
+      "teil": "§ 13 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 558,
+      "sha256_normalisierter_text": "56a49179cbc0bb12c4810d591f1b5b31d586f747a573369949da58cfd37dc820",
+      "identisch": true
+    },
+    {
+      "teil": "§ 14 / Überschrift",
+      "zeichen_ohne_whitespace": 50,
+      "sha256_normalisierter_text": "0a249925ad952a7f77f2cd45e07a557b7b2c57841236808c190a9dfebcd3b18e",
+      "identisch": true
+    },
+    {
+      "teil": "§ 14 / text / Content",
+      "zeichen_ohne_whitespace": 73,
+      "sha256_normalisierter_text": "1770ad4d186f39d39b4b5e2775888d544116ceff13cb4c10d08648533fe47507",
+      "identisch": true
+    },
+    {
+      "teil": "§ 15 / Überschrift",
+      "zeichen_ohne_whitespace": 28,
+      "sha256_normalisierter_text": "45b12690a5800f98dc1f70bfc9788edb0409a738a755b11a0b23786028189491",
+      "identisch": true
+    },
+    {
+      "teil": "§ 15 / text / Content",
+      "zeichen_ohne_whitespace": 3030,
+      "sha256_normalisierter_text": "d80f11c790dc2093d1e4603a671970231be989594724219d8d98a287b778a698",
+      "identisch": true
+    },
+    {
+      "teil": "§ 15 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 1029,
+      "sha256_normalisierter_text": "0eb84b91d786d8569d6b2011276d1719837a5f082c3df1c6f9d98b18c421f341",
+      "identisch": true
+    },
+    {
+      "teil": "§ 16 / Überschrift",
+      "zeichen_ohne_whitespace": 16,
+      "sha256_normalisierter_text": "464a39b5b047060add75fd4bef69544ade6866649bca6d8d112771008c03c5c6",
+      "identisch": true
+    },
+    {
+      "teil": "§ 16 / text / Content",
+      "zeichen_ohne_whitespace": 818,
+      "sha256_normalisierter_text": "e647f46f79796aa99498ee22baccaa269d9c297dc392c7014ce76efe6a83eaa4",
+      "identisch": true
+    },
+    {
+      "teil": "§ 16 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 568,
+      "sha256_normalisierter_text": "727e58d4a027f035b097bc4ee9fd070f5aeda1986b1b243c69fe505e5d41ec4a",
+      "identisch": true
+    },
+    {
+      "teil": "§ 17 / Überschrift",
+      "zeichen_ohne_whitespace": 14,
+      "sha256_normalisierter_text": "871b1ffe344df67e1f7c3e958110dfe5a9e1c41b65a8af9b44a09f09ab4865d4",
+      "identisch": true
+    },
+    {
+      "teil": "§ 17 / text / Content",
+      "zeichen_ohne_whitespace": 1530,
+      "sha256_normalisierter_text": "546e6d9a4b2e964e382522392eeb88191bbecc8ced8a6a256eff8950b3462d53",
+      "identisch": true
+    },
+    {
+      "teil": "§ 17 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 294,
+      "sha256_normalisierter_text": "994b2b957e740747a7ff840f7e8fbba090c1454c5d969638a8221f26872c5993",
+      "identisch": true
+    },
+    {
+      "teil": "§ 18 / Überschrift",
+      "zeichen_ohne_whitespace": 15,
+      "sha256_normalisierter_text": "e52d34e338989591332925cde551e088c308feb5b1a15f762090c897eb864d3d",
+      "identisch": true
+    },
+    {
+      "teil": "§ 18 / text / Content",
+      "zeichen_ohne_whitespace": 999,
+      "sha256_normalisierter_text": "84dcd1370ea7868969c935ec694a42704bfa27d9d593675c08e3aa50b9f80d8a",
+      "identisch": true
+    },
+    {
+      "teil": "§ 18 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 294,
+      "sha256_normalisierter_text": "994b2b957e740747a7ff840f7e8fbba090c1454c5d969638a8221f26872c5993",
+      "identisch": true
+    },
+    {
+      "teil": "§ 19 / Überschrift",
+      "zeichen_ohne_whitespace": 14,
+      "sha256_normalisierter_text": "ec1ba9654d5a9585a7708280838b0c9191c06d098071081a2600604b7a1fc094",
+      "identisch": true
+    },
+    {
+      "teil": "§ 19 / text / Content",
+      "zeichen_ohne_whitespace": 1095,
+      "sha256_normalisierter_text": "0c632f6c2c05222e0d04fb00966804ea662c69600c0cc5fdbfee605a324d67bc",
+      "identisch": true
+    },
+    {
+      "teil": "§ 19 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 677,
+      "sha256_normalisierter_text": "01267c363dd2f7bc32bed5f3ff914bb0f03486ebc162a2df69380066890e24d4",
+      "identisch": true
+    },
+    {
+      "teil": "§ 20 / Überschrift",
+      "zeichen_ohne_whitespace": 28,
+      "sha256_normalisierter_text": "df062ac8ecc934e864c8969dedc064c2644b0676076d0439e08236a2f92ea0c2",
+      "identisch": true
+    },
+    {
+      "teil": "§ 20 / text / Content",
+      "zeichen_ohne_whitespace": 877,
+      "sha256_normalisierter_text": "68f21a84e84a27af5aa761b6c2a361bcbc63939f978525f5bca353b9aa85300e",
+      "identisch": true
+    },
+    {
+      "teil": "§ 20 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 242,
+      "sha256_normalisierter_text": "21bfd96d168117dcf28e71e0c248be99882a4286595e9f8945d6f09f0cc6ca5e",
+      "identisch": true
+    },
+    {
+      "teil": "§ 21 / Überschrift",
+      "zeichen_ohne_whitespace": 30,
+      "sha256_normalisierter_text": "209b994f85319399fcafbfc984bf0ef35634353b1f39267f72a513e26be135d4",
+      "identisch": true
+    },
+    {
+      "teil": "§ 21 / text / Content",
+      "zeichen_ohne_whitespace": 251,
+      "sha256_normalisierter_text": "60f4e709de15042c60b700c3ea43a0036d30746bb3a777d9da81534cd101d379",
+      "identisch": true
+    },
+    {
+      "teil": "§ 22 / Überschrift",
+      "zeichen_ohne_whitespace": 29,
+      "sha256_normalisierter_text": "49e5d6677795d65b8bdb4d31577d3b88f50bfb50aa62db4d5c3adbe3aeffd38f",
+      "identisch": true
+    },
+    {
+      "teil": "§ 22 / text / Content",
+      "zeichen_ohne_whitespace": 799,
+      "sha256_normalisierter_text": "e06c2085c73cc12f9434156acfdc981bebf34e56e6bdd04bf43b2fc1aaed1aa4",
+      "identisch": true
+    },
+    {
+      "teil": "§ 23 / Überschrift",
+      "zeichen_ohne_whitespace": 18,
+      "sha256_normalisierter_text": "e28aa31d895ec03171ae94fefdf4c1572d5900db8f8a9268b12ba11f31ff06ed",
+      "identisch": true
+    },
+    {
+      "teil": "§ 23 / text / Content",
+      "zeichen_ohne_whitespace": 506,
+      "sha256_normalisierter_text": "b999752cc60960822cc157fdbc0ce154ac075dbb7ca5b9051dd63e1287f8e13a",
+      "identisch": true
+    },
+    {
+      "teil": "§ 24 / Überschrift",
+      "zeichen_ohne_whitespace": 38,
+      "sha256_normalisierter_text": "3a8f8e6e374cfa04537e6d61931660a971f71e2a2da7b85395fbf544b9da4d7c",
+      "identisch": true
+    },
+    {
+      "teil": "§ 24 / text / Content",
+      "zeichen_ohne_whitespace": 486,
+      "sha256_normalisierter_text": "d903e037d56d7c33bb091d7b2225dea556b61793635977f6660eea4e22e7fab0",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 28 / gliederungsbez",
+      "zeichen_ohne_whitespace": 12,
+      "sha256_normalisierter_text": "4052b38130c56a5290d7f17968a7110abd8e806bfc8aa315e5b3f2d80fbb7253",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 28 / gliederungstitel",
+      "zeichen_ohne_whitespace": 39,
+      "sha256_normalisierter_text": "62132917c5f036369687ac12373857ce9b3c3242ef5707e75aa2402f9be54640",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 28 / text / Content",
+      "zeichen_ohne_whitespace": 0,
+      "sha256_normalisierter_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "identisch": true
+    },
+    {
+      "teil": "§ 25 / Überschrift",
+      "zeichen_ohne_whitespace": 24,
+      "sha256_normalisierter_text": "4d3e3fee2c261ffbfa3cd31a3b81d280e1f60afa2da3c5d2f40fdf2df4e8b28f",
+      "identisch": true
+    },
+    {
+      "teil": "§ 25 / text / Content",
+      "zeichen_ohne_whitespace": 2795,
+      "sha256_normalisierter_text": "99084c1346580a6598524075a0679f13502dfbbc8c268b6f3b31ed5a08915d92",
+      "identisch": true
+    },
+    {
+      "teil": "§ 25 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 1101,
+      "sha256_normalisierter_text": "c004acf6af2926ee9d5ae07ea3a5b5f7ba4105c3e0348e3f332bb78955ba02e5",
+      "identisch": true
+    },
+    {
+      "teil": "§ 26 / Überschrift",
+      "zeichen_ohne_whitespace": 40,
+      "sha256_normalisierter_text": "aa17c3d16021c5a382a084f767c06316dcfb49b4151d420eb24c9b7353ba38fc",
+      "identisch": true
+    },
+    {
+      "teil": "§ 26 / text / Content",
+      "zeichen_ohne_whitespace": 342,
+      "sha256_normalisierter_text": "c06f10806be73e6b23a7f1bf48f02e385835ac404ac047a51bcede0d855b2aa2",
+      "identisch": true
+    },
+    {
+      "teil": "§ 27 / Überschrift",
+      "zeichen_ohne_whitespace": 25,
+      "sha256_normalisierter_text": "58f9024bc0378b2e5cfa37100bdefb5a7539ed387e8ef2282c144f879f345a53",
+      "identisch": true
+    },
+    {
+      "teil": "§ 27 / text / Content",
+      "zeichen_ohne_whitespace": 615,
+      "sha256_normalisierter_text": "70f4f920224818c2c87ca0f7f3d83b399b0c629e78aa7eb4ad71cb4ca6f16a2a",
+      "identisch": true
+    },
+    {
+      "teil": "§ 27 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 242,
+      "sha256_normalisierter_text": "41bde442d5ef5a36f58d7040fa08953fe22e2518865ec0a302f4e091920df199",
+      "identisch": true
+    },
+    {
+      "teil": "§ 28 / Überschrift",
+      "zeichen_ohne_whitespace": 10,
+      "sha256_normalisierter_text": "499b2be37147d3238da0e36202a174fc2a4766366959b2ae63e9dc1996eabd25",
+      "identisch": true
+    },
+    {
+      "teil": "§ 28 / text / Content",
+      "zeichen_ohne_whitespace": 712,
+      "sha256_normalisierter_text": "d5bd9b095da15267225dceb8958399ba2d346d78c863c4057dc70d62126e4a13",
+      "identisch": true
+    },
+    {
+      "teil": "§ 28 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 311,
+      "sha256_normalisierter_text": "aa64b2790c21a932287e540eeded1ea3a1fb3692c5dd77bb45d2393c9205e3e8",
+      "identisch": true
+    },
+    {
+      "teil": "§ 29 / Überschrift",
+      "zeichen_ohne_whitespace": 15,
+      "sha256_normalisierter_text": "5a15e96f1d95dc496e6d8ccbf5f4bb09e231a7742a35ce830df9e44bbfaf1999",
+      "identisch": true
+    },
+    {
+      "teil": "§ 29 / text / Content",
+      "zeichen_ohne_whitespace": 176,
+      "sha256_normalisierter_text": "85e2d3257cbac7808045d30bf484c9de69ec9da5740cbcbcddbc1c6a5db30e5e",
+      "identisch": true
+    },
+    {
+      "teil": "§ 29 / fussnoten / Content",
+      "zeichen_ohne_whitespace": 242,
+      "sha256_normalisierter_text": "d81f34f79c21efa93103ac7964459cedc67abc89690ce73fe7ab523d3460f333",
+      "identisch": true
+    },
+    {
+      "teil": "§ 30 / Überschrift",
+      "zeichen_ohne_whitespace": 32,
+      "sha256_normalisierter_text": "d0856df278ca88a0e255b659cef8fb12cfde612899924be8d1c9e442cd48fc9d",
+      "identisch": true
+    },
+    {
+      "teil": "§ 30 / text / Content",
+      "zeichen_ohne_whitespace": 782,
+      "sha256_normalisierter_text": "7b1c203bce8dd7833d0cf7d990b6f01876d22be57f4c4fe2fce6f31d6d3da7db",
+      "identisch": true
+    },
+    {
+      "teil": "§ 31 / Überschrift",
+      "zeichen_ohne_whitespace": 24,
+      "sha256_normalisierter_text": "bf938af1acb8c93ac1e91bc30c6cd2d2dca63e6a1a3c68cbbd4378d2280416f7",
+      "identisch": true
+    },
+    {
+      "teil": "§ 31 / text / Content",
+      "zeichen_ohne_whitespace": 270,
+      "sha256_normalisierter_text": "52a28ac8d90b79d2c998a43f7aebf5b6f294f42b09b50b003c68f80d5fcfd49b",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 36 / gliederungsbez",
+      "zeichen_ohne_whitespace": 11,
+      "sha256_normalisierter_text": "77c6a8d7606168c176cc9c853b51daa67882aa3e54f5f5c3ecf3baeab8fc71c9",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 36 / gliederungstitel",
+      "zeichen_ohne_whitespace": 19,
+      "sha256_normalisierter_text": "0aefaaa8d6aa07cf301708a01fabb96179de1982f13092747a69aade7543f070",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 36 / text / Content",
+      "zeichen_ohne_whitespace": 0,
+      "sha256_normalisierter_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "identisch": true
+    },
+    {
+      "teil": "§ 32 / Überschrift",
+      "zeichen_ohne_whitespace": 31,
+      "sha256_normalisierter_text": "645b2294a2cbc7a081f9169dbb26fe78514d58711baa073585b6bbf16e6b963a",
+      "identisch": true
+    },
+    {
+      "teil": "§ 32 / text / Content",
+      "zeichen_ohne_whitespace": 1086,
+      "sha256_normalisierter_text": "29e99a72aed406ba51cfc4dd2dfc34589ff2cb6fd4d3fd3f44e3d26944bd99bb",
+      "identisch": true
+    },
+    {
+      "teil": "§ 33 / Überschrift",
+      "zeichen_ohne_whitespace": 81,
+      "sha256_normalisierter_text": "7b353ab74598d47c4423ff88367bf373ef4027c899cb89d777089bb49d63bae1",
+      "identisch": true
+    },
+    {
+      "teil": "§ 33 / text / Content",
+      "zeichen_ohne_whitespace": 1319,
+      "sha256_normalisierter_text": "f72a517c0bc9dfbfc56323fe81f03524590c912b7f4cc8f64ac6cc82d86a2b26",
+      "identisch": true
+    },
+    {
+      "teil": "§ 34 / Überschrift",
+      "zeichen_ohne_whitespace": 62,
+      "sha256_normalisierter_text": "af444d58d3f7a3f302971b923c5d9c8630b1ee42c89c8d9e518457d20fbb889f",
+      "identisch": true
+    },
+    {
+      "teil": "§ 34 / text / Content",
+      "zeichen_ohne_whitespace": 1453,
+      "sha256_normalisierter_text": "5c656247dd43c13fba71dc5a843c855edf83c92bd3a8645b91ddcfe6050b6535",
+      "identisch": true
+    },
+    {
+      "teil": "§ 35 / Überschrift",
+      "zeichen_ohne_whitespace": 9,
+      "sha256_normalisierter_text": "5e03f5613a7270ea17457ff785a265942323643353b044b8846b3cb0717ccc05",
+      "identisch": true
+    },
+    {
+      "teil": "§ 35 / text / Content",
+      "zeichen_ohne_whitespace": 517,
+      "sha256_normalisierter_text": "3c135f82601ba07d797f2152df95b393474ab4917df3379d604b1482bc666366",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 41 / gliederungsbez",
+      "zeichen_ohne_whitespace": 10,
+      "sha256_normalisierter_text": "77c0aafc7150a785fadf3f5cf2e5d15dc12e4dd20f7c44b445074164d69e3987",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 41 / gliederungstitel",
+      "zeichen_ohne_whitespace": 31,
+      "sha256_normalisierter_text": "f760c67f40b83fda35c3e9c30864e3652bb7b7222c04ac8b116a14a32e7acb49",
+      "identisch": true
+    },
+    {
+      "teil": "Gliederung 41 / text / Content",
+      "zeichen_ohne_whitespace": 0,
+      "sha256_normalisierter_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "identisch": true
+    },
+    {
+      "teil": "§ 36 / Überschrift",
+      "zeichen_ohne_whitespace": 44,
+      "sha256_normalisierter_text": "09656ba265b5f20a7f8284d821904b9940da590d68bf26752cf48bf3b868525a",
+      "identisch": true
+    },
+    {
+      "teil": "§ 36 / text / Content",
+      "zeichen_ohne_whitespace": 650,
+      "sha256_normalisierter_text": "29501f5abc5f0177c105a032b7b07a4ef5f90b3b2e91d4191f8b614df0df04ba",
+      "identisch": true
+    },
+    {
+      "teil": "§ 37 / Überschrift",
+      "zeichen_ohne_whitespace": 20,
+      "sha256_normalisierter_text": "024bede1046749ef89291b125d3c3204e349730e7824f36ea8534e0a078d0a5b",
+      "identisch": true
+    },
+    {
+      "teil": "§ 37 / text / Content",
+      "zeichen_ohne_whitespace": 415,
+      "sha256_normalisierter_text": "651d0ff85547732f2193dbcd0bbf56297b55433fed0f89ad40a3014c4dff4e16",
+      "identisch": true
+    },
+    {
+      "teil": "§ 38 / Überschrift",
+      "zeichen_ohne_whitespace": 14,
+      "sha256_normalisierter_text": "63c632c1ecfb43a8d28ece98b7442e91f4139c9a56b60f374e90db41c00d4479",
+      "identisch": true
+    },
+    {
+      "teil": "§ 38 / text / Content",
+      "zeichen_ohne_whitespace": 115,
+      "sha256_normalisierter_text": "5a9aa959e1a20f827f1ddb24fe506137e80afd682e50c56254daf78e72eb0317",
+      "identisch": true
+    }
+  ],
+  "fussnotenmarker_aus_quellattributen": {}
+}

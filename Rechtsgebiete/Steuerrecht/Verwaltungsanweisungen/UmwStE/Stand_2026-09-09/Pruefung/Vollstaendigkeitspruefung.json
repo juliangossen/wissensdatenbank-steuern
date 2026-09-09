@@ -1,0 +1,51 @@
+{
+  "pruefung_erfolgreich": true,
+  "sha256_original_quelle": "251239a3caa3d78675c3b0d0e2da8ff828ed04c58377554c2c4c1739c4e3254b",
+  "sha256_markdown": "545ad002a96a9da80e9c0090fa53f50e9298b35559aef9469d7f4dfd79792c24",
+  "quellzeilen_gesamt": 7778,
+  "quellzeilen_sachinhalt_nichtleer": 4360,
+  "quellbloecke": 1750,
+  "gliederungspositionen": 338,
+  "gliederungsebenen": {
+    "2": 2,
+    "3": 11,
+    "4": 38,
+    "5": 111,
+    "6": 97,
+    "7": 56,
+    "8": 17,
+    "9": 6
+  },
+  "inhaltsverzeichnis_eintraege": 338,
+  "randnummern": 572,
+  "sprungmarken_randnummern": 574,
+  "anlagen": 0,
+  "fussnoten": 94,
+  "fussnotenverweise_in_der_kopie": 0,
+  "fussnoten_zuordnung": {
+    "erschlossen": 91,
+    "erschlossen_ohne_zelle": 2,
+    "offen": 1
+  },
+  "fussnoten_arten": {
+    "Änderungsvermerk des Anbieters": 3,
+    "amtliche Anmerkung": 34,
+    "Dokumentverknüpfung des Anbieters (BeckVerw)": 55,
+    "redaktionelle Anmerkung des Anbieters": 2
+  },
+  "beispiel_ueberschriften": 156,
+  "zwischenueberschriften": 18,
+  "aufzaehlungen": 45,
+  "kurze_quellzeilenbloecke": 66,
+  "absaetze": 456,
+  "satznummern": 0,
+  "ergaenzte_seitendarstellungen": 5,
+  "ergaenzte_randnummern": [
+    "01.10",
+    "01.12",
+    "01.17",
+    "01.19"
+  ],
+  "uebernahme": "Alle nichtleeren Sachtextzeilen 3 bis 7778 genau einmal; vollständiger sichtbarer Textrückvergleich pro Quellblock. Zeile 2 (Metazeile) nicht übernommen.",
+  "einschraenkung": "Vollständigkeit der übernommenen Textkopie geprüft; der Wortlautvergleich mit der amtlichen BMF-PDF steht in Quellen/Onlineabgleich/Abgleich.json. Fußnotenzuordnung, Gliederungsebenen und die Blöcke abgeflachter Tabellen sind redaktionelle Strukturentscheidungen."
+}

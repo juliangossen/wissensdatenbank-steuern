@@ -1,0 +1,24 @@
+{
+  "kuerzel": "PAngV",
+  "titel": "Preisangabenverordnung",
+  "rechtsgebiet": "Wettbewerbsrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/pangv_2022/",
+  "quelle_html": "https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html",
+  "lokale_pdf": "PAngV_bereitgestellt.pdf",
+  "aktuelle_pdf": "PAngV_aktuell.pdf",
+  "xml_datei": "Quellen/XML/BJNR492110021.xml",
+  "ausfertigungsdatum": "2021-11-12",
+  "stand": [
+    "Zuletzt geändert durch Art. 8 G v. 12.5.2026 I Nr. 139",
+    "Ersetzt V 720-17-1 v. 14.3.1985 I 580 (PAngV)"
+  ],
+  "vollzitat": "\"Preisangabenverordnung vom 12. November 2021 (BGBl. I S. 4921), die zuletzt durch Artikel 8 des Gesetzes vom 12. Mai 2026 (BGBl. 2026 I Nr. 139) geändert worden ist\"",
+  "pdf_seiten": 13,
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "pdf_url": "https://www.gesetze-im-internet.de/pangv_2022/PAngV.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/pangv_2022/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html",
+  "original_dateiname": "PAngV.pdf"
+}

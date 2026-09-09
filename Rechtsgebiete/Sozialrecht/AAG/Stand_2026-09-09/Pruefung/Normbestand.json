@@ -1,0 +1,106 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR368610005",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "c99d35e4c0db32a8c6dda3ecc2fa3585ba5e976e7670df0912781b7e182262be"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR368610005BJNE000104131",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Erstattungsanspruch",
+    "sha256_xml_text": "a7a163a4e975708562ce1285cf5d51939e48952c551c24ec3fc628b52ec6a88e"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR368610005BJNE000208126",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Erstattung",
+    "sha256_xml_text": "02ece640ca360f30dd78b57a0a2a85c7a23e189250b2d4e2ffd812b67be3a231"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR368610005BJNE000301308",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Feststellung der Umlagepflicht",
+    "sha256_xml_text": "3baef8b08b297e0b7ca0a69a0047fefbd45e1b6bfb3458196842af16ac70c634"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR368610005BJNE000401360",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Versagung und Rückforderung der Erstattung",
+    "sha256_xml_text": "1b7d949e45c23a450452a86f4d464f870f3058382b3a399543023eae6bc8cbe4"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR368610005BJNE000500000",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Abtretung",
+    "sha256_xml_text": "3d5abbac150a42669efee6fc893f76d8e127ecb8a7c20c703891d99653d3ef3c"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR368610005BJNE000600000",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Verjährung und Aufrechnung",
+    "sha256_xml_text": "2fb2a7ba06b9957d049e47a2438f87151e5a6d77ce6dcf65f327af8860a8319b"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR368610005BJNE000701308",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Aufbringung der Mittel",
+    "sha256_xml_text": "6844b470a19ce2aba93bdee589639254e7dd23cbacd35ef563649e401286d705"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR368610005BJNE000800000",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Verwaltung der Mittel",
+    "sha256_xml_text": "7c73c9c67e6094bef9aa999fe64e31423cd601a00f3e7dfd2c6a209df81933c4"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR368610005BJNE000902360",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": "Satzung",
+    "sha256_xml_text": "7167915e0256031f2ad77c14df47cd4a40aa330f13637e14bd9b0dd2644771c7"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR368610005BJNE001000000",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Anwendung sozialversicherungsrechtlicher Vorschriften",
+    "sha256_xml_text": "607b1aab93d053617251cabb66a353421b846a52edc39bdcb774022c445b2a5f"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR368610005BJNE001302119",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Ausnahmevorschriften",
+    "sha256_xml_text": "b3af28c68805a637976120764f2f3e0d243e635e878ab52ff2a2ccc73953bd89"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR368610005BJNE001200000",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Freiwilliges Ausgleichsverfahren",
+    "sha256_xml_text": "bc1dd2e4b868cc7c38146eee032abd8a524796aceb9bdf1ca97142aa8e51d60f"
+  }
+]

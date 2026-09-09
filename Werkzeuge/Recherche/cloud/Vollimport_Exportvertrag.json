@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-09-09T21:13:31.282713+00:00",
+  "test_only": true,
+  "cloud_written": false,
+  "documents": 58,
+  "provisions": 14099,
+  "assets": 1173,
+  "asset_bytes": 280675147,
+  "export_normalization_passed": true
+}

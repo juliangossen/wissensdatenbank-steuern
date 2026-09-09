@@ -1,0 +1,34 @@
+{
+  "kuerzel": "PStTG",
+  "titel": "Gesetz über die Meldepflicht und den automatischen Austausch von Informationen meldender Plattformbetreiber in Steuersachen",
+  "rechtsgebiet": "Steuerrecht / Internationales_Steuerrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/psttg/",
+  "quelle_html": "https://www.gesetze-im-internet.de/psttg/BJNR273010022.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/psttg/PStTG.pdf",
+  "quelle_xml": "https://www.gesetze-im-internet.de/psttg/xml.zip",
+  "lokale_pdf": "PStTG.pdf",
+  "aktuelle_pdf": "PStTG_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR273010022.xml",
+  "ausfertigungsdatum": "2022-12-20",
+  "stand": [
+    "Zuletzt geändert durch Art. 5 G v. 22.12.2025 I Nr. 352"
+  ],
+  "vollzitat": "\"Plattformen-Steuertransparenzgesetz vom 20. Dezember 2022 (BGBl. I S. 2730), das zuletzt durch Artikel 5 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 352) geändert worden ist\"",
+  "pdf_seiten": 18,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260506175846",
+  "sha256_lokale_pdf": "68faf85905d8db3bb1ae7f2c0ff140b2c397324e38e9315521db3773af5c2d71",
+  "sha256_aktuelle_pdf": "68faf85905d8db3bb1ae7f2c0ff140b2c397324e38e9315521db3773af5c2d71",
+  "sha256_xml": "303609e5ba009c30453c614083f00c51cdcabdc6e03e1865a572fbe16f411ee6",
+  "normenbestand": {
+    "normdatensaetze": 40,
+    "gliederungsteile": 9,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 29,
+    "anlagen": 0,
+    "tabellen": 8,
+    "tabellenzeilen": 29,
+    "tabellenzellen": 58,
+    "aufzaehlungskennzeichen": 150
+  }
+}

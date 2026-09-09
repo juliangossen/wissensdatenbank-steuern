@@ -1,0 +1,42 @@
+{
+  "kuerzel": "StBVV",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/stbgebv/",
+  "pdf_url": "https://www.gesetze-im-internet.de/stbgebv/StBVV.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/stbgebv/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html",
+  "original_dateiname": "StBVV.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 25,
+  "dateien": [
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "3d2fdcf6c192b6c7705a274d3535d0bc0cf866c2678a31eb48b4aab7d5c560f6"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "c9e0e29ce5b7220cc7508b5f77f78b867153bc0cb6b69428d618687042c45d62"
+    },
+    {
+      "datei": "Quellen/StBVV_aktuell.pdf",
+      "sha256": "a19bb551e4ba0d59c9b9de68855ace5af19a62bb3299f0eefcb02bddad1969c1"
+    },
+    {
+      "datei": "Quellen/StBVV_bereitgestellt.pdf",
+      "sha256": "a19bb551e4ba0d59c9b9de68855ace5af19a62bb3299f0eefcb02bddad1969c1"
+    },
+    {
+      "datei": "Quellen/StBVV_PDF_Rohtext.txt",
+      "sha256": "b99131e9071069c381d5618f8ae7d35cd77d9fcdfacf648d179ba27f5220dcf9"
+    },
+    {
+      "datei": "Quellen/XML/BJNR014420981.xml",
+      "sha256": "4f5f7fd53313217733c7785516a272b25384306f86b1f1f7ab574e13f8151608"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "09c065d24e899388d2d76d21ae7b852f606166fcf78e7e7483182f43528cc3d5"
+    }
+  ]
+}

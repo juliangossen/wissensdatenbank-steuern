@@ -1,0 +1,268 @@
+Wortlautvergleich Webkopie gegen BMF-PDF vom 2.1.2025 je Randnummer (nur Ähnlichkeit < 0,995).
+Normalisierung siehe Abgleich.json. Ausschnitte nach Normalisierung (Leerraum entfernt, Kleinschreibung).
+
+Rn. 01.10 (Kopie Zeile 1425, PDF Seite 11, Ähnlichkeit 0.0922, 1097/53 Zeichen)
+  delete: Kopie „eitenderverschmelzungvor:aufpershg/partg/eingetragenegbrgmbhagkgaaegev/wirtsch.vereingen.prüfungsverbandvvagnat.personvonpershg/partg/eingetragenegbr§§238§§238§§238§§238§§238§§3945§§3945§§3945§§3945§§3945(§99abs.2)(§105)(§109)(§3abs.2nr.1)§§4659§§6077§78§§7998gmbhinkl.ug§§238§§238§§238§§238§§238§§238§§3945§§4659§§4659§§4659§§4659(§99abs.2)(§105)(§109)§§4659§§4659§§6077§78§§7998§§120122ag§§238§§238§§238§§238§§238§§238§§3945§§4659§§6077§§6077§§6077(§99abs.2)(§105)(§109)§§6077§§6077§§6077§78§§7998§§120122kgaa§§238§§238§§238§§238§§238§§238§§3945§§4659§§6077§78§78(§99abs.2)(§105)(§109)§78§78§78§78§§7998§§120122eg§§238§§238§§238§§238§§238§§3945§§4659§§6077§78§§7998(§99abs.2)(§105)(§109)(§3abs.2nr.1)§§7998§§7998§§7998§§7998ev/wirtsch.verein§§238§§238§§238§§238§§238§§238§§238§§3945§§4659§§6077§78§§7998§§99104a§§99104a(§109)(§3abs.2nr.1)§§99104a§§99104a§§99104a§§99104a§§99104a§§105108gen.prüfungsverband§§238(§105)(§105)(§105)(§105)(§105)(§105)§§105108(§105)(§3abs.2nr.1)vvag§§238§§238(§109)(§109)§§6077(§109)(§109)(§109)(§109)§§109119(§3abs.2nr.1)§§109113nat.pers.“ | PDF „eitenderverschmelzungvor:“
+
+Rn. 01.12 (Kopie Zeile 1836, PDF Seite 11, Ähnlichkeit 0.4067, 905/231 Zeichen)
+  delete: Kopie „05161hgboder§§1ff.partgg:aufpershg/partg(eingetragene)gbrgmbhagkgaaegvonpershg/partg(eingetragene)gbr§190abs.2§§190213§§190213§§190213§§190213§191abs.2nr.1i.v.m.§§214225§§214225§§214225§§214225§1abs.2gmbhinkl.ug§§190213§§190213§§190213§§190213§226§226§226§226§§228237§§238250§§238250§§251257ag§§190213§§190213§§190213§§190213§226§226§226§226§§228237§§238250§§238250§§251257kgaa§§190213§§190213§§190213§§190213§§226237§§226227§§226227§§226227§§238250§§238250§§251257eg§§190213§§190213§§190213§§258271§§258271§§258271ev/wirtsch.verein§§190213§§190213§§190213§§190213§§272282§§272282§§272282§272§§283290vvag§§190213§§291300körpersch./anstaltdesöff.rechts§§190213§§190213§§190213§§301303§§301303§§301303“ | PDF „05161hgboder§§1ff.partgg:“
+
+Rn. 01.17 (Kopie Zeile 2047, PDF Seite 12, Ähnlichkeit 0.0551, 1625/46 Zeichen)
+  delete: Kopie „paltungsmöglichkeitenvor:aufeingetragenegbr/pershg/partggmbhag/kgaaegevgen.prüfungsverbandvvagvoneingetragenegbr/pershg/partg§§123137§§123137§§123137§§123137§§123137§§138140§§141146§§147148(§149abs.2)(§151)gmbhinkl.ug§§123137§§123137§§123137§§123137§§123137§§138140§§138140§§138140§§138140(§149abs.2)§§138140(§151)§§141146§§147148ag/kgaa§§123137§§123137§§123137§§123137§§123137§§141146§§138140§§141146§§141146(§149abs.2)(§151)§§141146§§147148eg§§123137§§123137§§123137§§123137§§123137§§147148§§138140§§141146§§147148(§149abs.2)(§151)§§147148§§147148ev/wirtsch.verein§§123137§§123137§§123137§§123137§§123137§§123137§149abs.2§149§§138140§§141146§§147149§§138140(§151)§149abs.1§149abs.1§149abs.1gen.prüfungsverbandnurausgliederung§§123137§§138140§150nurausgliederung§§123137§§141146§150§§123137(§150)(§150)(§150)(§150)(§150)vvagnurausgliederungwennkeineübertragungvonvers.verträgen§§123137§§138140§151auf/abspaltungnuraufvers.ag;ausgliederungnurwennkeineübertragungvonvers.verträgen§§123135§§141146§151nurauf/abspaltung§§123135§§141146§151(§151)(§151)(§151)(§151)einzelkaufmannnurausgliederungaufpershg§§123137§§152160nurausgliederung§§123137§§138140§§152160nurausgliederung§§123137§§141146§§152160nurausgliederung§§123137§§147148§§152160(§152)(§152)(§152)stiftungennurausgliederungaufpershg§§123137§§161167nurausgliederung§§123137§§138140§§161167nurausgliederung§§123137§§141146§§161167(§161)(§161)(§161)(§161)gebietskörpersch.nurausgliederungaufpershg§§123137§§168173nurausgliederung§§123137§§138140§§168173nurausgliederung§§123137§§141146§§168173nurausgliederung§§123137§§147148§§168173(§168)(§168)(§168)“ | PDF „paltungsmöglichkeitenvor:“
+
+Rn. 01.19 (Kopie Zeile 2446, PDF Seite 13, Ähnlichkeit 0.1793, 650/64 Zeichen)
+  delete: Kopie „ffolgendefällebeschränkt:auföffentlichehandvvagöffentl.rechtl.vers.unternehmenvers.agvongmbhvollübertragung§175nr.1§176teilübertragung§175nr.1§177ag/kgaavollübertragung§175nr.1§176teilübertragung§175nr.1§177vers.agvollübertragung§175nr.2buchst.a§178§175nr.2buchst.a§178teilübertragung§175nr.2buchst.a§179§175nr.2buchst.a§179vvagvollübertragung§175nr.2buchst.b§§180183§175nr.2buchst.b§§180183teilübertragung§§185187§175nr.2buchst.b§§184187§§185187§175nr.2buchst.b§§184187öffentl.rechtl.vers.unternehmenvollübertragung§175nr.2buchst.c§188§175nr.2buchst.c§188teilübertragung§175nr.2buchst.c§189§175nr.2buchst.c§189“ | PDF „ffolgendefällebeschränkt:“
+
+Rn. 01.38b (Kopie Zeile 2707, PDF Seite 15, Ähnlichkeit 0.9850, 1184/1149 Zeichen)
+  delete: Kopie „ktesteuerpflichterhalten.abgrenzungformwechsel/verschmelzung“ | PDF „ktesteuerpflichterhalten.“
+
+Rn. 01.39 (Kopie Zeile 2713, PDF Seite 15, Ähnlichkeit 0.9852, 1196/1232 Zeichen)
+  insert: Kopie „nach§§190ff.umwgistderfor“ | PDF „●abgrenzungformwechsel/verschmelzungnach§§190ff.umwgistderfor“
+
+Rn. 03.09 (Kopie Zeile 3229, PDF Seite 26, Ähnlichkeit 0.9700, 1072/1062 Zeichen)
+  insert: Kopie „fachtwiefolgtdar:gemeinerwertbuchwertgemeinerwertb“ | PDF „fachtwiefolgtdar:gemeinergemeinerbuchwertbuchwertwertwertaktiv“
+  delete: Kopie „tdar:gemeinerwertbuchwertgemeinerwertbuchwertaktivadiverse“ | PDF „rgemeinerbuchwertbuchwertwertwertaktivadiverse2000“
+  delete: Kopie „rwertbuchwertgemeinerwertbuchwertaktivadiverse2000000€“ | PDF „einerbuchwertbuchwertwertwertaktivadiverse2000000€“
+  delete: Kopie „wertaktivadiverse2000000€2000000€eigenkapital[2000000€]100“ | PDF „wertaktivadiverse2000000€eigenkapital1000000€20000“
+  replace: Kopie „0000€2000000€eigenkapital[2000000€]1000000€firmenwer“ | PDF „verse2000000€eigenkapital1000000€2000000€firmenwert“
+  replace: Kopie „000€eigenkapital[2000000€]1000000€firmenwert2000000€“ | PDF „0000€eigenkapital1000000€2000000€firmenwertpensions“
+  delete: Kopie „00000€]1000000€firmenwert2000000€pensionsrückstellungen200“ | PDF „000000€2000000€firmenwertpensionsrückstellungen100“
+  insert: Kopie „00€pensionsrückstellungen2000000€1000000€(4000000€“ | PDF „ertpensionsrückstellungen1000000€2000000€2000000€2000000€2“
+  replace: Kopie „onsrückstellungen2000000€1000000€(4000000€)2000000€“ | PDF „tellungen1000000€2000000€2000000€2000000€2000000€(4“
+  replace: Kopie „tellungen2000000€1000000€(4000000€)2000000€(4000000€“ | PDF „n1000000€2000000€2000000€2000000€2000000€(4000000€)“
+  delete: Kopie „2000000€1000000€(4000000€)2000000€(4000000€)2000000“ | PDF „€2000000€2000000€2000000€2000000€(4000000€)(400000“
+  replace: Kopie „00000€)2000000€(4000000€)2000000€lösung:diesteuerli“ | PDF „000000€2000000€(4000000€)(4000000€)lösung:diesteuerl“
+  insert: Kopie „000000€(4000000€)2000000€lösung:diesteuerlicheschl“ | PDF „00000€(4000000€)(4000000€)lösung:diesteuerlicheschl“
+
+Rn. 03.23 (Kopie Zeile 3371, PDF Seite 28, Ähnlichkeit 0.9718, 2687/2674 Zeichen)
+  delete: Kopie „npensionsrückstellungen.inhöhediesesprozentsatzessi“ | PDF „npensionsrückstellungen.ihdiesesprozentsatzessindd“
+  delete: Kopie „ensionsrückstellungen.inhöhediesesprozentsatzessinddi“ | PDF „pensionsrückstellungen.ihdiesesprozentsatzessinddi“
+  insert: Kopie „fachtwiefolgtdar:gemeinerwertbuchwertgemeinerwertb“ | PDF „fachtwiefolgtdar:gemeinergemeinerbuchwertbuchwertwertwertanlag“
+  delete: Kopie „tdar:gemeinerwertbuchwertgemeinerwertbuchwertanlagevermöge“ | PDF „rgemeinerbuchwertbuchwertwertwertanlagevermögen200“
+  delete: Kopie „rwertbuchwertgemeinerwertbuchwertanlagevermögen300000€“ | PDF „einerbuchwertbuchwertwertwertanlagevermögen200000€“
+  delete: Kopie „ertbuchwertanlagevermögen300000€200000€eigenkapital[60000“ | PDF „ertwertwertanlagevermögen200000€eigenkapital300000“
+  replace: Kopie „00000€200000€eigenkapital[600000€]300000€umlaufvermö“ | PDF „rmögen200000€eigenkapital300000€300000€umlaufvermög“
+  delete: Kopie „0000€eigenkapital[600000€]300000€umlaufvermögen1500“ | PDF „00000€eigenkapital300000€300000€umlaufvermögen1000“
+  delete: Kopie „00€]300000€umlaufvermögen150000€100000€drohverlustrückste“ | PDF „000€300000€umlaufvermögen100000€drohverlustrückste“
+  insert: Kopie „0€drohverlustrückstellung20000€knowhow70000€firmen“ | PDF „0€drohverlustrückstellung150000€20000€knowhow70000€firmen“
+  replace: Kopie „ow70000€firmenwert100000€(620000€)300000€(620000€)300“ | PDF „ow70000€firmenwert100000€300000€300000€(620000€)(620“
+  delete: Kopie „firmenwert100000€(620000€)300000€(620000€)300000€di“ | PDF „€firmenwert100000€300000€300000€(620000€)(620000€)“
+  replace: Kopie „(620000€)300000€(620000€)300000€diegesellschafterder“ | PDF „0€300000€300000€(620000€)(620000€)diegesellschafterde“
+  insert: Kopie „€)300000€(620000€)300000€diegesellschafterderxygmb“ | PDF „€300000€(620000€)(620000€)diegesellschafterderxygmb“
+  insert: Kopie „stillenlastenzuverteilen:wertis§3abs.1umwstgbuchwe“ | PDF „stillenlastenzuverteilen:stillereservenwertis§3abs.1umwstgbuchwe“
+  delete: Kopie „rtis§3abs.1umwstgbuchwertstillereservenundstillelastenanlageverm“ | PDF „rtis§3abs.1umwstgbuchwertundstillelastenanlageverm“
+  delete: Kopie „llung./.20000€0€./.20000€σ600000€300000€300000€dera“ | PDF „llung./.20000€0€./.20000€600000€300000€300000€∑der“
+  insert: Kopie „00€σ600000€300000€300000€deraufstockungsbetragih30“ | PDF „000€600000€300000€300000€∑deraufstockungsbetragih30“
+  insert: Kopie „mittelnsichdamitwiefolgt:buchwertstillereservenauf“ | PDF „mittelnsichdamitwiefolgt:ansatzinderaufstockungbuchwertstillereservenste“
+  delete: Kopie „gt:buchwertstillereservenaufstockung(10%)ansatzindersteuerlichenschlussbilanz“ | PDF „ungbuchwertstillereservensteuerlichen(10%)schlussb“
+  insert: Kopie „%)ansatzindersteuerlichenschlussbilanzanlagevermög“ | PDF „tillereservensteuerlichen(10%)schlussbilanzanlagevermög“
+  delete: Kopie „./.20000€./.2000€./.2000€σ300000€300000€30000€33000“ | PDF „./.20000€./.2000€./.2000€300000€300000€30000€33000“
+  insert: Kopie „0000€300000€30000€330000€“ | PDF „0000€300000€30000€330000€∑“
+
+Rn. 03.24 (Kopie Zeile 3581, PDF Seite 29, Ähnlichkeit 0.9567, 2256/2247 Zeichen)
+  insert: Kopie „fachtwiefolgtdar:gemeinerwertbuchwertgemeinerwertb“ | PDF „fachtwiefolgtdar:gemeinergemeinerbuchwertbuchwertwertwertanlag“
+  delete: Kopie „tdar:gemeinerwertbuchwertgemeinerwertbuchwertanlagevermöge“ | PDF „rgemeinerbuchwertbuchwertwertwertanlagevermögen400“
+  delete: Kopie „rwertbuchwertgemeinerwertbuchwertanlagevermögen500000€“ | PDF „einerbuchwertbuchwertwertwertanlagevermögen400000€“
+  delete: Kopie „ertbuchwertanlagevermögen500000€400000€eigenkapital[50000“ | PDF „ertwertwertanlagevermögen400000€eigenkapital300000“
+  replace: Kopie „00000€400000€eigenkapital[500000€]300000€firmenwert1“ | PDF „rmögen400000€eigenkapital300000€500000€firmenwertpe“
+  replace: Kopie „0000€eigenkapital[500000€]300000€firmenwert160000€pe“ | PDF „00000€eigenkapital300000€500000€firmenwertpensionsr“
+  delete: Kopie „500000€]300000€firmenwert160000€pensionsrückstellung16000“ | PDF „l300000€500000€firmenwertpensionsrückstellung10000“
+  insert: Kopie „000€pensionsrückstellung160000€100000€(660000€)400“ | PDF „wertpensionsrückstellung100000€160000€160000€400000€40000“
+  insert: Kopie „sionsrückstellung160000€100000€(660000€)400000€(66“ | PDF „ckstellung100000€160000€160000€400000€400000€(660000€)(66“
+  delete: Kopie „ückstellung160000€100000€(660000€)400000€(660000€)400000€di“ | PDF „000€160000€160000€400000€400000€(660000€)(660000€)“
+  replace: Kopie „(660000€)400000€(660000€)400000€diegesellschafterder“ | PDF „0€400000€400000€(660000€)(660000€)diegesellschafterde“
+  insert: Kopie „€)400000€(660000€)400000€diegesellschafterderxygmb“ | PDF „€400000€(660000€)(660000€)diegesellschafterderxygmb“
+  delete: Kopie „lung)zuverteilen:wertis§3abs.1umwstgbuchwertstillereservenundstillela“ | PDF „lung)zuverteilen:wertis§3stillereservenundbuchwert“
+  insert: Kopie „buchwertstillereservenundstillelastenanlagevermöge“ | PDF „wertis§3stillereservenundbuchwertabs.1umwstgstillelastenanlagevermöge“
+  delete: Kopie „ung./.100000€./.100000€0€σ560000€300000€260000€dera“ | PDF „ung./.100000€./.100000€0€560000€300000€260000€∑der“
+  insert: Kopie „€0€σ560000€300000€260000€deraufstockungsbetragih13“ | PDF „0€0€560000€300000€260000€∑deraufstockungsbetragih13“
+  replace: Kopie „mittelnsichdamitwiefolgt:buchwertstillereservenundstill“ | PDF „mittelnsichdamitwiefolgt:ansatzinderstillereservenaufstocku“
+  delete: Kopie „sichdamitwiefolgt:buchwertstillereservenundstillela“ | PDF „damitwiefolgt:ansatzinderstillereservenaufstockung“
+  insert: Kopie „olgt:buchwertstillereservenundstillelastenaufstock“ | PDF „t:ansatzinderstillereservenaufstockungbuchwertsteuerlichenundstillelasten(5%)schl“
+  delete: Kopie „lereservenundstillelastenaufstockung(5%)ansatzindersteuerlich“ | PDF „euerlichenundstillelasten(5%)schlussbilanzanlageve“
+  delete: Kopie „illelastenaufstockung(5%)ansatzindersteuerlichenschlussbilanzanlagevermög“ | PDF „lichenundstillelasten(5%)schlussbilanzanlagevermög“
+  delete: Kopie „g./.100000€0€0€./.100000€σ300000€260000€13000€31300“ | PDF „g./.100000€0€0€./.100000€300000€260000€13000€31300“
+  insert: Kopie „0000€260000€13000€313000€“ | PDF „0000€260000€13000€313000€∑“
+
+Rn. 04.12 (Kopie Zeile 3794, PDF Seite 31, Ähnlichkeit 0.9897, 433/442 Zeichen)
+  insert: Kopie „stga.f.i.v.m.§52abs.3estgbzw.§2abs.2i.v.m.§8abs.5s“ | PDF „stga.f.i.v.m.§52abs.3estg)bzw.§2abs.2auslinvgi.v.m.“
+  insert: Kopie „m.§52abs.3estgbzw.§2abs.2i.v.m.§8abs.5satz2auslinv“ | PDF „.§52abs.3estg)bzw.§2abs.2auslinvgi.v.m.§8abs.5satz2auslinv“
+
+Rn. 04.27 (Kopie Zeile 3849, PDF Seite 33, Ähnlichkeit 0.9911, 7198/7221 Zeichen)
+  delete: Kopie „verfahren(voranwendungvon§3nr.40estg)300000€180000€120000€6000“ | PDF „verfahren(voranwendungvon300000€180000€120000€6000“
+  insert: Kopie „000€180000€120000€600000€anzurechnendekapitalertra“ | PDF „000€180000€120000€600000€§3nr.40estg)anzurechnendekapitalertra“
+  insert: Kopie „er(25%)75000€45000€30000€gesonderteundeinheitliche“ | PDF „er(25%)75000€45000€30000€dbaquellensteuerrechtgesonderteundeinheitliche“
+  delete: Kopie „bernommenenvermögens(buchwert)1000000€600000€400000€200“ | PDF „bernommenenvermögens(buch1000000€600000€400000€200“
+  insert: Kopie „00€600000€400000€2000000€+zuschlagfürneutrales(aus“ | PDF „00€600000€400000€2000000€wert)+zuschlagfürneutrales(aus“
+  delete: Kopie „fürneutrales(auslands)vermögen1000000€600000€400000€200“ | PDF „fürneutrales(auslands)ver1000000€600000€400000€200“
+  insert: Kopie „00€600000€400000€2000000€./.wertderanteileanderübe“ | PDF „00€600000€400000€2000000€mögen./.wertderanteileanderübe“
+  delete: Kopie „anteileanderübertragendenkapitalgesellschaft400000€100000€100000€6000“ | PDF „anteileanderübertragenden400000€100000€100000€6000“
+  insert: Kopie „000€100000€100000€600000€./.kostenfürdenvermögensü“ | PDF „000€100000€100000€600000€kapitalgesellschaft./.kostenfürdenvermögensü“
+  delete: Kopie „verfahren(voranwendungvon§3nr.40estg)300000€180000€0€480000€ge“ | PDF „verfahren(voranwendungvon300000€180000€0€480000€§3“
+  insert: Kopie „g)300000€180000€0€480000€gesonderteundeinheitliche“ | PDF „on300000€180000€0€480000€§3nr.40estg)gesonderteundeinheitliche“
+
+Rn. 15.30 (Kopie Zeile 5162, PDF Seite 49, Ähnlichkeit 0.9822, 562/562 Zeichen)
+  insert: Kopie „beiveräußerungvonanteilenandergesellschaftaihzuläs“ | PDF „beiveräußerungvonanteilen1921110000andergesellschaftaihzuläs“
+  delete: Kopie „lschafterdergesellschaftb1921110000“ | PDF „lschafterdergesellschaftb“
+
+Rn. 15.35a (Kopie Zeile 5290, PDF Seite 50, Ähnlichkeit 0.5811, 4301/2342 Zeichen)
+  replace: Kopie „mittelbareveräußerungeinesanteilsamübertragendenode“ | PDF „mittelbareveräußerungeinermaßgeblichenbeteiligung(20“
+  insert: Kopie „ttelbareveräußerungeinesanteilsamübertragendenoder“ | PDF „telbareveräußerungeinermaßgeblichenbeteiligung(20%quotevgl.“
+  insert: Kopie „telbareveräußerungeinesanteilsamübertragendenoderü“ | PDF „äußerungeinermaßgeblichenbeteiligung(20%quotevgl.rn.“
+  replace: Kopie „areveräußerungeinesanteilsamübertragendenoderüberne“ | PDF „ngeinermaßgeblichenbeteiligung(20%quotevgl.rn.15.27ff.)amübertragendenoderüberne“
+  insert: Kopie „einverbundenesunternehmenis§15abs.2satz7ersterhalb“ | PDF „einverbundenesunternehmendaszuvordieausnahmeregelungnach§15“
+  insert: Kopie „inverbundenesunternehmenis§15abs.2satz7ersterhalbs“ | PDF „enesunternehmendaszuvordieausnahmeregelungnach§15abs.“
+  insert: Kopie „nverbundenesunternehmenis§15abs.2satz7ersterhalbsa“ | PDF „unternehmendaszuvordieausnahmeregelungnach§15abs.2satz7ersterhalbsa“
+  insert: Kopie „satz7ersterhalbsatzumwstgalsveräußerungeinesanteil“ | PDF „satz7ersterhalbsatzumwstginanspruchgenommenhatschädl“
+  replace: Kopie „atz7ersterhalbsatzumwstgalsveräußerungeinesanteilsa“ | PDF „z7ersterhalbsatzumwstginanspruchgenommenhatschädlic“
+  replace: Kopie „z7ersterhalbsatzumwstgalsveräußerungeinesanteilsaneineran“ | PDF „ersterhalbsatzumwstginanspruchgenommenhatschädlichi“
+  replace: Kopie „albsatzumwstgalsveräußerungeinesanteilsaneinerander“ | PDF „terhalbsatzumwstginanspruchgenommenhatschädlichist.b“
+  delete: Kopie „satzumwstgalsveräußerungeinesanteilsaneineranderspa“ | PDF „albsatzumwstginanspruchgenommenhatschädlichist.bei“
+  replace: Kopie „tzumwstgalsveräußerungeinesanteilsaneineranderspaltungbeteiligtenkörperschaftis§15abs.2s“ | PDF „lbsatzumwstginanspruchgenommenhatschädlichist.beispie“
+  delete: Kopie „randerspaltungbeteiligtenkörperschaftis§15abs.2satz4umwstg“ | PDF „zumwstginanspruchgenommenhatschädlichist.beispiel:“
+  delete: Kopie „tungbeteiligtenkörperschaftis§15abs.2satz4umwstggil“ | PDF „mwstginanspruchgenommenhatschädlichist.beispiel:di“
+  delete: Kopie „ngbeteiligtenkörperschaftis§15abs.2satz4umwstggilt.darausergibtsichdassindenfällendervorbereitungeinerveräußerungnach§15abs.2satz2umwstgindenenzunächsteine(nachderkonzernausnahmeis§15abs.2satz7ersterhalbsatzumwstgunschädliche)spaltungaufein“ | PDF „wstginanspruchgenommenhatschädlichist.beispiel:die“
+  delete: Kopie „halbsatzumwstgunschädliche)spaltungaufeinverbundenesunternehmenerfolgtistnichtnurdieanschließendeunmittelbareveräußerungvonanteilenanderanderspaltungbeteiligterrechtsträgerdurcheinverbundenesunternehmensondernauchderenmittelbareveräußerungingestalteinerveräußerungvonanteilenzwischengeschaltetergesellschaftendazuführtdass§15abs.2satz2umwstgnach§15abs.2satz7zweiterhalbsatzi.v.m.§15abs.2satz4umwstganzuwendenist.beispiel:diexgmbhistz“ | PDF „pruchgenommenhatschädlichist.beispiel:diexgmbhistz“
+  delete: Kopie „timjahr01einenteilbetriebzubuchwerten(§15abs.1satz1i.v.m.§11abs.2umwstg)aufdiegmbh4ab.derabgespal“ | PDF „timjahr01einenteilbetriebaufdiegmbh4ab.derabgespal“
+  insert: Kopie „teiligungandergmbh2aneineaußenstehendepersonb)dieg“ | PDF „teiligungandergmbh2aneinenaußenstehendendrittenb)di“
+  replace: Kopie „rgmbh2aneineaußenstehendepersonb)diegmbh2diebeteili“ | PDF „gmbh2aneinenaußenstehendendrittenb)diegmbh2diebeteiligun“
+  delete: Kopie „mbh2aneineaußenstehendepersonb)diegmbh2diebeteiligung“ | PDF „einenaußenstehendendrittenb)diegmbh2diebeteiligung“
+  insert: Kopie „teiligungandergmbh4aneineaußenstehendepersonc)dieg“ | PDF „teiligungandergmbh4aneinenaußenstehendendritten.c)d“
+  replace: Kopie „rgmbh4aneineaußenstehendepersonc)diegmbh2diebeteili“ | PDF „gmbh4aneinenaußenstehendendritten.c)diegmbh2diebeteiligu“
+  delete: Kopie „mbh4aneineaußenstehendepersonc)diegmbh2diebeteiligung“ | PDF „einenaußenstehendendritten.c)diegmbh2diebeteiligun“
+  insert: Kopie „aneineaußenstehendepersonc)diegmbh2diebeteiligunga“ | PDF „inenaußenstehendendritten.c)diegmbh2diebeteiligunga“
+  insert: Kopie „teiligungandergmbh5aneineaußenstehendeperson.lösun“ | PDF „teiligungandergmbh5aneinenaußenstehendendritten.lös“
+  replace: Kopie „rgmbh5aneineaußenstehendeperson.lösung:dieunmittelb“ | PDF „gmbh5aneinenaußenstehendendritten.lösung:dieveräußerungd“
+  delete: Kopie „mbh5aneineaußenstehendeperson.lösung:dieunmittelbarev“ | PDF „einenaußenstehendendritten.lösung:dieveräußerungde“
+  delete: Kopie „nstehendeperson.lösung:dieunmittelbareveräußerungderbeteiligun“ | PDF „tehendendritten.lösung:dieveräußerungderbeteiligun“
+  replace: Kopie „1andiegmbh2istunschädlichdadiegmbh2einverbundenesunternehmenis§15abs.2satz7ersterhalbsatzumwstgistunddamitnichtalsaußenstehendepersongilt.wärediegmbh2hingegeneineaußenstehendepersonwürdedieveräußerungderbeteiligungandergmbh4nach§15abs.2satz5umwstgzuderunwiderlegbarenvermutungführendassdurchdiespaltungeineveräußerungis§15abs.2“ | PDF „1andiegmbh2istunschädlich(keineveräußerunganeinenauß“
+  insert: Kopie „iespaltungeineveräußerungis§15abs.2satz2umwstgvorb“ | PDF „chädlich(keineveräußerunganeinenaußenstehendendritten“
+  replace: Kopie „espaltungeineveräußerungis§15abs.2satz2umwstgvorbereit“ | PDF „lich(keineveräußerunganeinenaußenstehendendritten).di“
+  delete: Kopie „tungeineveräußerungis§15abs.2satz2umwstgvorbereitetwurdeund“ | PDF „(keineveräußerunganeinenaußenstehendendritten).die“
+  replace: Kopie „räußerungis§15abs.2satz2umwstgvorbereitetwurdeunddie“ | PDF „keineveräußerunganeinenaußenstehendendritten).dieansc“
+  delete: Kopie „erungis§15abs.2satz2umwstgvorbereitetwurdeunddieentspre“ | PDF „veräußerunganeinenaußenstehendendritten).dieanschl“
+  delete: Kopie „s§15abs.2satz2umwstgvorbereitetwurdeunddieentsprechendenrechtsfolgeneinerst“ | PDF „eräußerunganeinenaußenstehendendritten).dieanschli“
+  insert: Kopie „wurdeunddieentsprechendenrechtsfolgeneinersteuersc“ | PDF „runganeinenaußenstehendendritten).dieanschließendev“
+  replace: Kopie „urdeunddieentsprechendenrechtsfolgeneinersteuerschädl“ | PDF „nganeinenaußenstehendendritten).dieanschließendever“
+  replace: Kopie „unddieentsprechendenrechtsfolgeneinersteuerschädlichena“ | PDF „aneinenaußenstehendendritten).dieanschließendeveräu“
+  replace: Kopie „ntsprechendenrechtsfolgeneinersteuerschädlichenanteilsveräußerungisrn.15.33ff.zuziehenwären.dieanschließendeveräußer“ | PDF „inenaußenstehendendritten).dieanschließendeveräußer“
+
+Rn. 20.19a (Kopie Zeile 5664, PDF Seite 58, Ähnlichkeit 0.9924, 4743/4743 Zeichen)
+  insert: Kopie „rmögensbeiderübernehmerinbuchwertfortführung:95%vo“ | PDF „rmögensbeiderübernehmerin2850000buchwertfortführung:95%vo“
+  delete: Kopie „ortführung:95%von3000000€2850000€+sonstigegegenleistungso“ | PDF „ortführung:95%von3000000€€+sonstigegegenleistungso“
+  insert: Kopie „mwstgüberschritten250000€ansatzdeseingebrachtenbet“ | PDF „mwstgüberschritten250000€3100000ansatzdeseingebrachtenbet“
+  insert: Kopie „brachtenbetriebsvermögensbeiderübernehmerin3100000“ | PDF „brachtenbetriebsvermögens€beiderübernehmerindamitko“
+  delete: Kopie „rmögensbeiderübernehmerin3100000€damitkommtesbeiderüberneh“ | PDF „mögens€beiderübernehmerindamitkommtesbeiderüberneh“
+  insert: Kopie „sgewinnsbeimeinbringendenveräußerungspreis(§20abs.“ | PDF „sgewinnsbeimeinbringenden3100000veräußerungspreis(§20abs.“
+  delete: Kopie „reis(§20abs.3satz1umwstg)3100000€./.buchwertdeseingebrach“ | PDF „reis(§20abs.3satz1umwstg)€./.buchwertdeseingebrach“
+  delete: Kopie „enenanteile(§20abs.3satz1umwstg)3100000€./.wertder(gesamt“ | PDF „enenanteile(§20abs.3satz13100000€umwstg)./.wertder“
+  insert: Kopie „abs.3satz1umwstg)3100000€./.wertder(gesamten)sonst“ | PDF „ile(§20abs.3satz13100000€umwstg)./.wertder(gesamten)sonst“
+  delete: Kopie „enenanteile(§20abs.3satz1umwstg)1000000€./.wertder(gesamt“ | PDF „enenanteile(§20abs.3satz11000000€umwstg)./.wertder“
+  insert: Kopie „abs.3satz1umwstg)1000000€./.wertder(gesamten)sonst“ | PDF „ile(§20abs.3satz11000000€umwstg)./.wertder(gesamten)sonst“
+
+Rn. 22.43 (Kopie Zeile 6551, PDF Seite 74, Ähnlichkeit 0.9810, 2195/2280 Zeichen)
+  insert: Kopie „ereanteileis§22abs.7umwstggilt§20abs.5satz1umwstga“ | PDF „ereanteileis§22abs.7umwstgaufgrundderimzugedereinbringungdurchgeführtengesellschaftsgründungoderkapitalerhöhunggilt§20abs.5satz1umwstga“
+
+Rn. 24.14 (Kopie Zeile 6753, PDF Seite 78, Ähnlichkeit 0.9931, 4785/4785 Zeichen)
+  insert: Kopie „siehtwiefolgtaus:gemeinerwertbuchwertgemeinerwertb“ | PDF „siehtwiefolgtaus:gemeinergemeinerbuchwertbuchwertwertwertaktiv“
+  delete: Kopie „taus:gemeinerwertbuchwertgemeinerwertbuchwertaktivadiverse“ | PDF „rgemeinerbuchwertbuchwertwertwertaktivadikapitalve“
+  delete: Kopie „rwertbuchwertgemeinerwertbuchwertaktivadiverse300000€1“ | PDF „einerbuchwertbuchwertwertwertaktivadikapitalverse1“
+  insert: Kopie „einerwertbuchwertaktivadiverse300000€100000€kapita“ | PDF „tbuchwertwertwertaktivadikapitalverse100000€100000€300000“
+  insert: Kopie „wertbuchwertaktivadiverse300000€100000€kapital1000“ | PDF „twertaktivadikapitalverse100000€100000€300000€100000€100000€(300“
+  delete: Kopie „tivadiverse300000€100000€kapital100000€(300000€)100000€10“ | PDF „000€100000€300000€100000€100000€(300000€)indaseinz“
+  delete: Kopie „0€kapital100000€(300000€)100000€100000€indaseinzelunternehmendes“ | PDF „0€100000€100000€(300000€)indaseinzelunternehmendes“
+
+Rn. 24.16 (Kopie Zeile 6876, PDF Seite 80, Ähnlichkeit 0.9944, 895/885 Zeichen)
+  delete: Kopie „indviergesellschafterzuje1/4beteiligt.essollgegenba“ | PDF „indviergesellschafterzuje/beteiligt.essollgegenbar“
+  delete: Kopie „dviergesellschafterzuje1/4beteiligt.essollgegenbare“ | PDF „ndviergesellschafterzuje/beteiligt.essollgegenbare“
+  delete: Kopie „lschafteranschließendzuje1/5beteiligtsind.lösung:wi“ | PDF „lschafteranschließendzuje/beteiligtsind.lösung:wir“
+  delete: Kopie „chafteranschließendzuje1/5beteiligtsind.lösung:wirt“ | PDF „schafteranschließendzuje/beteiligtsind.lösung:wirt“
+  delete: Kopie „jederderaltgesellschafter1/5seinesanteilsandeneintr“ | PDF „jederderaltgesellschafter/seinesanteilsandeneintre“
+  delete: Kopie „derderaltgesellschafter1/5seinesanteilsandeneintret“ | PDF „ederderaltgesellschafter/seinesanteilsandeneintret“
+  delete: Kopie „afterab;erveräußertalsozu4/5ansichselbst.einbeiansa“ | PDF „afterab;erveräußertalsozu/ansichselbst.einbeiansat“
+  delete: Kopie „terab;erveräußertalsozu4/5ansichselbst.einbeiansatz“ | PDF „fterab;erveräußertalsozu/ansichselbst.einbeiansatz“
+  delete: Kopie „.§16abs.2satz3estgdaherzu4/5nichtbegünstigt.“ | PDF „.§16abs.2satz3estgdaherzu/nichtbegünstigt.“
+  delete: Kopie „16abs.2satz3estgdaherzu4/5nichtbegünstigt.“ | PDF „§16abs.2satz3estgdaherzu/nichtbegünstigt.“
+
+Rn. 27.02 (Kopie Zeile 6969, PDF Seite 82, Ähnlichkeit 0.9264, 171/196 Zeichen)
+  insert: Kopie „neranteileis§21umwstg1995vordem1.1.2025(§27abs.3um“ | PDF „neranteileis§21umwstg1995sieheauchdiern.20.38ffvordem1.1.2025(§27abs.3um“
+  delete: Kopie „tg)sieheauchdiern.20.38ff.desbmfschreibensvom11.11.“ | PDF „tg)sieheauchdiern.20.38ffdesbmfschreibensvom11.11.“
+  insert: Kopie „ibensvom11.11.2011bstbl.is.1314.“ | PDF „ibensvom11.11.2011bstbl.i2011s.1314.“
+
+Rn. Org.03 (Kopie Zeile 7018, PDF Seite 83, Ähnlichkeit 0.7854, 691/651 Zeichen)
+  insert: Kopie „itsteuerlicherrückwirkungbegründetwerdenwenndievor“ | PDF „itsteuerlicherrückwirkungnurbegründetwerdenwenndiesem“
+  replace: Kopie „ungbegründetwerdenwenndievoraussetzungenderfinanziell“ | PDF „nurbegründetwerdenwenndiesemauchdieanteileanderkünfti“
+  replace: Kopie „gründetwerdenwenndievoraussetzungenderfinanziellenei“ | PDF „gründetwerdenwenndiesemauchdieanteileanderkünftigenorg“
+  insert: Kopie „ndetwerdenwenndievoraussetzungenderfinanziellenein“ | PDF „etwerdenwenndiesemauchdieanteileanderkünftigenorgang“
+  delete: Kopie „detwerdenwenndievoraussetzungenderfinanzielleneinglied“ | PDF „erdenwenndiesemauchdieanteileanderkünftigenorgange“
+  insert: Kopie „rdenwenndievoraussetzungenderfinanzielleneingliede“ | PDF „rdenwenndiesemauchdieanteileanderkünftigenorgangesells“
+  insert: Kopie „wenndievoraussetzungenderfinanzielleneingliederung“ | PDF „diesemauchdieanteileanderkünftigenorgangesellschaftst“
+  insert: Kopie „enndievoraussetzungenderfinanzielleneingliederung(“ | PDF „emauchdieanteileanderkünftigenorgangesellschaftsteu“
+  insert: Kopie „nndievoraussetzungenderfinanzielleneingliederung(§“ | PDF „auchdieanteileanderkünftigenorgangesellschaftsteuerl“
+  insert: Kopie „ndievoraussetzungenderfinanzielleneingliederung(§1“ | PDF „hdieanteileanderkünftigenorgangesellschaftsteuerlichr“
+  replace: Kopie „ievoraussetzungenderfinanzielleneingliederung(§14abs“ | PDF „nteileanderkünftigenorgangesellschaftsteuerlichrückwi“
+  insert: Kopie „aussetzungenderfinanzielleneingliederung(§14abs.1s“ | PDF „anderkünftigenorgangesellschaftsteuerlichrückwirkend(z.b.nach§§220abs.5und“
+  replace: Kopie „ssetzungenderfinanzielleneingliederung(§14abs.1satz1“ | PDF „chaftsteuerlichrückwirkend(z.b.nach§§220abs.5und6oder§24“
+  replace: Kopie „tzungenderfinanzielleneingliederung(§14abs.1satz1nr.1k“ | PDF „euerlichrückwirkend(z.b.nach§§220abs.5und6oder§24abs.4umwstg)zumbegi“
+  delete: Kopie „derfinanzielleneingliederung(§14abs.1satz1nr.1kstg)ber“ | PDF „.b.nach§§220abs.5und6oder§24abs.4umwstg)zumbeginnd“
+  replace: Kopie „nanzielleneingliederung(§14abs.1satz1nr.1kstg)berei“ | PDF „b.nach§§220abs.5und6oder§24abs.4umwstg)zumbeginndes“
+  replace: Kopie „lleneingliederung(§14abs.1satz1nr.1kstg)bereitsimverhältniszu“ | PDF „§§220abs.5und6oder§24abs.4umwstg)zumbeginndeswirtschaf“
+  delete: Kopie „ng(§14abs.1satz1nr.1kstg)bereitsimverhältniszumübertragendenrechtsträ“ | PDF „.5und6oder§24abs.4umwstg)zumbeginndeswirtschaftsja“
+  delete: Kopie „tg)bereitsimverhältniszumübertragendenrechtsträgere“ | PDF „nd6oder§24abs.4umwstg)zumbeginndeswirtschaftsjahrs“
+  delete: Kopie „bereitsimverhältniszumübertragendenrechtsträgererfüllt“ | PDF „6oder§24abs.4umwstg)zumbeginndeswirtschaftsjahrsde“
+  replace: Kopie „tsimverhältniszumübertragendenrechtsträgererfülltwa“ | PDF „oder§24abs.4umwstg)zumbeginndeswirtschaftsjahrsderor“
+  insert: Kopie „verhältniszumübertragendenrechtsträgererfülltwaren“ | PDF „24abs.4umwstg)zumbeginndeswirtschaftsjahrsderorgangesellschaftzuzurechnens“
+  insert: Kopie „erhältniszumübertragendenrechtsträgererfülltwaren.“ | PDF „swirtschaftsjahrsderorgangesellschaftzuzurechnensind.werdendievora“
+  replace: Kopie „ltniszumübertragendenrechtsträgererfülltwaren.derübernehmenderechtst“ | PDF „organgesellschaftzuzurechnensind.werdendievorausset“
+  delete: Kopie „nrechtsträgererfülltwaren.derübernehmenderechtsträgertrittinsoweitindie“ | PDF „angesellschaftzuzurechnensind.werdendievoraussetzu“
+  delete: Kopie „ren.derübernehmenderechtsträgertrittinsoweitindierechtsstellungdesübe“ | PDF „ngesellschaftzuzurechnensind.werdendievoraussetzun“
+  delete: Kopie „htsträgertrittinsoweitindierechtsstellungdesübertragendenrechtsträgersein.werdendievoraussetzungen“ | PDF „sellschaftzuzurechnensind.werdendievoraussetzungen“
+
+Rn. K.01 (Kopie Zeile 7119, PDF Seite 85, Ähnlichkeit 0.7819, 2367/2373 Zeichen)
+  delete: Kopie „körperschaftverschmelzungundaufspaltungfiktiveherabsetzungdesnen“ | PDF „körperschaftverschmelzungfiktiveherabsetzungdesnen“
+  delete: Kopie „tiveherabsetzungdesnennkapitalsunddamitauflösungeineseventuellbestehendensonderausweisesis§28abs.1satz3kstg(§29abs.1§28abs.2kstg).erhöhungdessteuerlicheneinlagekontosumdenbetragdesnennkapitalsabzüglichdessonderausweises.beieinerabwärtsverschmelz“ | PDF „tiveherabsetzungdesnennkabeieinerabwärtsverschmelz“
+  insert: Kopie „verschmelzungbzw.spaltunggiltnebenstehendesgem.§29“ | PDF „verschmelzungbzw.spaltungundaufspaltungpitalsunddamitauflösungeinesgiltnebenstehendesgem.§29“
+  insert: Kopie „ehendesgem.§29abs.1i.v.m.abs.2satz3bzw.abs.3satz3k“ | PDF „ehendesgem.§29abs.1i.v.m.eventuellbestehendensonderabs.2satz3bzw.abs.3satz3k“
+  insert: Kopie „tz3bzw.abs.3satz3kstgauchfürdieübernehmendekörpers“ | PDF „tz3bzw.abs.3satz3kstgauchausweisesis§28abs.1fürdieübernehmendekörpers“
+  insert: Kopie „dekörperschaft;zusätzlichanteiligeminderungdesdana“ | PDF „dekörperschaft;zusätzlichsatz3kstg(§29abs.1§28anteiligeminderungdesdana“
+  insert: Kopie „derungdesdanacherhöhtenbestandsdessteuerlicheneinl“ | PDF „derungdesdanacherhöhtenbeabs.2kstg).erhöhungdesstandsdessteuerlicheneinl“
+  insert: Kopie „rlicheneinlagekontosimverhältnisdesanteilsdesübert“ | PDF „rlicheneinlagekontosimversteuerlicheneinlagekontosumhältnisdesanteilsdesübert“
+  insert: Kopie „desübertragendenrechtsträgersamübernehmernach§29ab“ | PDF „desübertragendenrechtsträdenbetragdesnennkapitalsabgersamübernehmernach§29ab“
+  insert: Kopie „ernehmernach§29abs.2satz3bzw.abs.3satz3[i.v.m.abs.“ | PDF „ernehmernach§29abs.2satz3züglichdessonderausweises.bzw.abs.3satz3[i.v.m.abs.“
+  delete: Kopie „tiveherabsetzungdesnennkapitalsundauflösungeineseventuellbestehendensonderausweisesis§28abs.1satz3kstg(§29abs.1§28abs.2kstg).erhöhungdessteuerlicheneinlagekontosumdenbetragdesnennkapitalsabzüglichdessonderausweises.beieinerabwärtsabspaltung“ | PDF „tiveherabsetzungdesnennkabeieinerabwärtsabspaltung“
+  insert: Kopie „paltunggiltnebenstehendesgem.§29abs.1i.v.m.abs.2sa“ | PDF „paltunggiltnebenstehendespitalsundauflösungeineseventugem.§29abs.1i.v.m.abs.2sa“
+  insert: Kopie „.§29abs.1i.v.m.abs.2satz3i.v.m.abs.3satz3kstgauchf“ | PDF „.§29abs.1i.v.m.abs.2satz3ellbestehendensonderausweisesi.v.m.abs.3satz3kstgauchf“
+  insert: Kopie „.3satz3kstgauchfürdieübernehmendekörperschaft;zusä“ | PDF „.3satz3kstgauchfürdieüberi.s.d.§28abs.1satz3kstgnehmendekörperschaft;zusä“
+  insert: Kopie „ft;zusätzlichanteiligeminderungdesdanacherhöhtenbe“ | PDF „ft;zusätzlichanteiligemin(§29abs.1§28abs.2derungdesdanacherhöhtenbe“
+  insert: Kopie „cherhöhtenbestandsdessteuerlicheneinlagekontosimve“ | PDF „cherhöhtenbestandsdessteukstg).erhöhungdessteuerlichenerlicheneinlagekontosimve“
+  insert: Kopie „tosimverhältnisdesanteilsdesübertragendenrechtsträ“ | PDF „tosimverhältnisdesanteilseinlagekontosumdenbetragdesdesübertragendenrechtsträ“
+  insert: Kopie „denrechtsträgersamübernehmernach§29abs.3satz3i.v.m“ | PDF „denrechtsträgersamübernehnennkapitalsabzüglichdessonmernach§29abs.3satz3i.v.m“
+  insert: Kopie „h§29abs.3satz3i.v.m.abs.2satz3kstg.anteiligeverrin“ | PDF „h§29abs.3satz3i.v.m.abs.2derausweises.satz3kstg.anteiligeverrin“
+  delete: Kopie „ligeverringerungdessteuerlicheneinlagekontos(§29abs.3kstg).anteiligehinzurechnungdes“ | PDF „ligeverringerungdessteueranteiligehinzurechnungdes“
+  insert: Kopie „rechnungdesindenfällenderaufwärtsabspaltungnach§29“ | PDF „rechnungdesindenfällenderlicheneinlagekontos(§29abaufwärtsabspaltungnach§29“
+  insert: Kopie „spaltungnach§29abs.1i.v.m.abs.2satz2i.v.m.abs.3sat“ | PDF „spaltungnach§29abs.1i.v.m.satz3kstg).abs.2satz2i.v.m.abs.3sat“
+  delete: Kopie „höhungdesfiktivauf0€herabgesetztennennkapitalsundggf.neubildungeinessonderausweises(§29abs.4§28abs.1kstg).anpassungdesnennkapitalsu“ | PDF „höhungdesfiktivauf0€herabanpassungdesnennkapitalsu“
+  insert: Kopie „nennkapitalsundggf.neubildungbzw.anpassungeinesson“ | PDF „nennkapitalsundggf.neubilgesetztennennkapitalsundggf.dungbzw.anpassungeinesson“
+  insert: Kopie „ssungeinessonderausweises(§29abs.4§28abs.1und3kstg“ | PDF „ssungeinessonderausweisesneubildungeinessonderauswei(§29abs.4§28abs.1und3kstg“
+  insert: Kopie „29abs.4§28abs.1und3kstg).beiabwärtsabspaltung:erhö“ | PDF „29abs.4§28abs.1und3kstg).ses(§29abs.4§28abs.1beiabwärtsabspaltung:erhö“
+  insert: Kopie „tung:erhöhungdesfiktivauf0€herabgesetztennennkapit“ | PDF „tung:erhöhungdesfiktivaufkstg).0€herabgesetztennennkapit“
+
+Rn. K.08 (Kopie Zeile 7184, PDF Seite 87, Ähnlichkeit 0.9784, 639/612 Zeichen)
+  delete: Kopie „nlagekonto200000€+200000€_________zwischenergebnis200000€0€“ | PDF „nlagekonto200000€+200000€zwischenergebnis200000€0€“
+  delete: Kopie „lagekonto(=50%)./.100000€_________zwischenergebnis100000€0€“ | PDF „lagekonto(=50%)./.100000€zwischenergebnis100000€0€“
+  delete: Kopie „ekontos./.50000€./.50000€_________schlussbestände50000€0€“ | PDF „ekontos./.50000€./.50000€schlussbestände50000€0€“
+
+Rn. K.13 (Kopie Zeile 7298, PDF Seite 87, Ähnlichkeit 0.9808, 1744/1751 Zeichen)
+  delete: Kopie „einlagekonto70000€+70000€_________zwischenergebnis70000€0€v“ | PDF „einlagekonto70000€+70000€zwischenergebnis70000€0€v“
+  replace: Kopie „rbeteiligungmant./.70000€_________zwischenergebnis0€0€zugan“ | PDF „rbeteiligungmant./.70000€vorspalteeinlagekontosonderausweiszwischenergebnis0€0€zugan“
+  delete: Kopie „gdes§29abs.1kstg)+200000€_________zwischenergebnis200000€0€“ | PDF „gdes§29abs.1kstg)+200000€zwischenergebnis200000€0€“
+  insert: Kopie „ngerungdessteuerlicheneinlagekontos./.200000€./.20“ | PDF „ngerungdessteuerlichenein./.lagekontos200000€./.20000“
+  delete: Kopie „steuerlicheneinlagekontos./.200000€./.200000€restzuga“ | PDF „uerlichenein./.lagekontos200000€./.200000€restzuga“
+
+Rn. K.16 (Kopie Zeile 7410, PDF Seite 88, Ähnlichkeit 0.9684, 1005/1021 Zeichen)
+  insert: Kopie „€kürzungnach§29abs.2satz2kstg(=50%)./.200000€restz“ | PDF „€kürzungnach§29abs.2satz2./.kstg(=50%)200000€restzuga“
+  delete: Kopie „ch§29abs.2satz2kstg(=50%)./.200000€restzugangsteuerli“ | PDF „29abs.2satz2./.kstg(=50%)200000€restzugangsteuerli“
+  delete: Kopie „nlagekonto200000€+200000€_________zwischenergebnis200000€10“ | PDF „nlagekonto200000€+200000€zwischenergebnis200000€10“
+  replace: Kopie „zahlungenih70000€)150000€_________vorrangigeverwendungdesst“ | PDF „zahlungenih70000€)150000€vorspalteeinlagekontosonderausweisvorrangigeverwendungdesst“
+  insert: Kopie „gigeverwendungdessteuerlicheneinlagekontos./.15000“ | PDF „gigeverwendungdessteuerli./.cheneinlagekontos150000€.“
+  delete: Kopie „steuerlicheneinlagekontos./.150000€./.150000€zwischen“ | PDF „uerli./.cheneinlagekontos150000€./.150000€zwischen“

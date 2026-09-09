@@ -1,0 +1,42 @@
+{
+  "kuerzel": "SvEV",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/svev/",
+  "pdf_url": "https://www.gesetze-im-internet.de/svev/SvEV.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/svev/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/svev/BJNR338510006.html",
+  "original_dateiname": "SvEV.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 4,
+  "dateien": [
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "6b55f05c53dbf14d3c05fc60825dc2d64e08bb58469518c7cc78f569a8ae5ff6"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "2a73cda8296b4170ac43b93f211642bf1a29fa6b5b80c5788a65f390f6026700"
+    },
+    {
+      "datei": "Quellen/SvEV_aktuell.pdf",
+      "sha256": "86636fe5ec430899b8599c8f0acdfb2b248c0f9e0470405aa545eccdb1629fd6"
+    },
+    {
+      "datei": "Quellen/SvEV_bereitgestellt.pdf",
+      "sha256": "86636fe5ec430899b8599c8f0acdfb2b248c0f9e0470405aa545eccdb1629fd6"
+    },
+    {
+      "datei": "Quellen/SvEV_PDF_Rohtext.txt",
+      "sha256": "98abbebe42653a2a8b421d2d19f9bcf2ca5ba462619e4378a103fdd7f9eab347"
+    },
+    {
+      "datei": "Quellen/XML/BJNR338510006.xml",
+      "sha256": "b91f7481b6632df8ed4fd12fc86da35697d8a27d57ccc46305228f300b39052c"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "c12294aeb9e60c16c45777246aee3fccb462dae3aaa3ba04f22dc3cb7403d559"
+    }
+  ]
+}

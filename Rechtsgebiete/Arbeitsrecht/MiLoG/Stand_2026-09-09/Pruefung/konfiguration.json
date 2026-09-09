@@ -1,0 +1,24 @@
+{
+  "kuerzel": "MiLoG",
+  "titel": "Gesetz zur Regelung eines allgemeinen Mindestlohns",
+  "rechtsgebiet": "Arbeitsrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/milog/",
+  "quelle_html": "https://www.gesetze-im-internet.de/milog/BJNR134810014.html",
+  "lokale_pdf": "MiLoG_bereitgestellt.pdf",
+  "aktuelle_pdf": "MiLoG_aktuell.pdf",
+  "xml_datei": "Quellen/XML/BJNR134810014.xml",
+  "ausfertigungsdatum": "2014-08-11",
+  "stand": [
+    "Zuletzt geändert durch Art. 8 Abs. 3 G v. 12.5.2026 I Nr. 137"
+  ],
+  "vollzitat": "\"Mindestlohngesetz vom 11. August 2014 (BGBl. I S. 1348), das zuletzt durch Artikel 8 Absatz 3 des Gesetzes vom 12. Mai 2026 (BGBl. 2026 I Nr. 137) geändert worden ist\"",
+  "pdf_seiten": 11,
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "pdf_url": "https://www.gesetze-im-internet.de/milog/MiLoG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/milog/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/milog/BJNR134810014.html",
+  "original_dateiname": "MiLoG.pdf",
+  "konverter_datei": "Pruefung/konvertieren.py"
+}

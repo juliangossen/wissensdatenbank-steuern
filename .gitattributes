@@ -1,0 +1,9 @@
+# Quellen und Pruefnachweise verwenden SHA-256 ueber die Originalbytes.
+# Git darf beim Ein- oder Auschecken keine Zeilenenden veraendern.
+* -text
+
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary

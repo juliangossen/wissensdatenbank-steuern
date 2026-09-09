@@ -1,0 +1,2078 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR138450976",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "1523e47751142fb8059d9af23710fa9ad3899becdeb9f80e8e11a96b177b644f"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR138450976BJNE027681126",
+    "enbez": "Inhaltsübersicht",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "43e3764f97bbf6831eb6286c11445d8751ad32cebe66a1d1715a8c8571fbfeff"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR138450976BJNG000303308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Grundsätze und Begriffsbestimmungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR138450976BJNG000403308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010010",
+      "gliederungsbez": "Erster Titel",
+      "gliederungstitel": "Geltungsbereich und Umfang der Versicherung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR138450976BJNE002317126",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Sachlicher Geltungsbereich",
+    "sha256_xml_text": "44839ea97c4ab5a1d9baf78ad6e530569bf69dbbf172e2e6f60b102a11867144"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR138450976BJNE002411377",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Versicherter Personenkreis",
+    "sha256_xml_text": "ff9974e6c49935d12f870c21159ccd5d8d10988db1bc969cc372ea8f878383a4"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR138450976BJNE002504308",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Persönlicher und räumlicher Geltungsbereich",
+    "sha256_xml_text": "7bca18bbadba4241476c27d2571c88535a8e249364cd2166512d8f7180625368"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR138450976BJNE002603308",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Ausstrahlung",
+    "sha256_xml_text": "1b5571514a00da671624799baf372c5ae5848b8f22dbd39902653d851801317f"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR138450976BJNE002702308",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Einstrahlung",
+    "sha256_xml_text": "269a94e2fd5ba5f3dc3dd286bfe427cbe2bee9b68acf29f90dda82de435f6ec1"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR138450976BJNE002803308",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Vorbehalt abweichender Regelungen",
+    "sha256_xml_text": "91bf1bb2ae2048c4bb7d4891beb531da161140f999ccc45c11a8e43fd7cdfce5"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR138450976BJNG000503308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010020",
+      "gliederungsbez": "Zweiter Titel",
+      "gliederungstitel": "Beschäftigung und selbständige Tätigkeit"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR138450976BJNE022110126",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Beschäftigung",
+    "sha256_xml_text": "e0b9f641f374eddb1838d0d02cbadbafb8a61c4b396e27a9624361b9d7fe4ac6"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR138450976BJNE018408126",
+    "enbez": "§ 7a",
+    "gliederung": null,
+    "titel": "Feststellung des Erwerbsstatus",
+    "sha256_xml_text": "4e7bdaa7a163b2d72c19f80c2feb09613c27340427c6569659a60e1ab15419be"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR138450976BJNE018109311",
+    "enbez": "§ 7b",
+    "gliederung": null,
+    "titel": "Wertguthabenvereinbarung",
+    "sha256_xml_text": "a5584026c649e45297af7b266da5bc9ccbfc042fe360ce411df0035cdf49f3d5"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR138450976BJNE022204126",
+    "enbez": "§ 7c",
+    "gliederung": null,
+    "titel": "Verwendung von Wertguthaben",
+    "sha256_xml_text": "689f3e0bb4942bc6a29e4b4b759ec7a1bb9f2c941d9dca61eaca4d4064ccf5a7"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR138450976BJNE022301308",
+    "enbez": "§ 7d",
+    "gliederung": null,
+    "titel": "Führung und Verwaltung von Wertguthaben",
+    "sha256_xml_text": "7080fbea444b019a19b0b03e7475c48d9d850b71077440918992d8ec31263cfc"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR138450976BJNE022401308",
+    "enbez": "§ 7e",
+    "gliederung": null,
+    "titel": "Insolvenzschutz",
+    "sha256_xml_text": "5686d51a257fab9502298a4e94d6eec3efc3e5eaccabd526368d60ddde8aa8ab"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR138450976BJNE022502308",
+    "enbez": "§ 7f",
+    "gliederung": null,
+    "titel": "Übertragung von Wertguthaben",
+    "sha256_xml_text": "e4ae3d1595a6448aed1433c59688e868dbf76d5636d27d61a143185c5e66be79"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR138450976BJNE003014126",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit; Geringfügigkeitsgrenze",
+    "sha256_xml_text": "ddaa62d5f4b9548076f9d1a43ac174f88d30863f550b250c4000b059e163388e"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR138450976BJNE020602308",
+    "enbez": "§ 8a",
+    "gliederung": null,
+    "titel": "Geringfügige Beschäftigung in Privathaushalten",
+    "sha256_xml_text": "d69412f743b75b70588946dbf1cb5cada2224631ff4dc8212ae60e2e75798490"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR138450976BJNE003104119",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": "Beschäftigungsort",
+    "sha256_xml_text": "de1ea6aeda94f0984be41400fb3b86d38410b2484989c7a72165527fecc5f88e"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR138450976BJNE003206308",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Beschäftigungsort für besondere Personengruppen",
+    "sha256_xml_text": "926ab13aed27dd70d18243d60aba5a8cb5d6db29de548e44befb1ad826a2bdf9"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR138450976BJNE003302308",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Tätigkeitsort",
+    "sha256_xml_text": "b692a18839fc1e3e5acd9b304a4716a31f876130d92b93341ba4bcac060852a2"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR138450976BJNE003404308",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Hausgewerbetreibende, Heimarbeiter und Zwischenmeister",
+    "sha256_xml_text": "a87cdf27a10aa0bce30365cd18ea26c366950814ebba83934d9792dd89d249f1"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR138450976BJNE003504377",
+    "enbez": "§ 13",
+    "gliederung": null,
+    "titel": "Reeder, Seeleute und Deutsche Seeschiffe",
+    "sha256_xml_text": "5d2d01b2d1348836c3d13a1bb723536b5f62a07754cd9a23cdf3edafd6669066"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR138450976BJNG000603308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010030",
+      "gliederungsbez": "Dritter Titel",
+      "gliederungstitel": "Arbeitsentgelt und sonstiges Einkommen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR138450976BJNE003615119",
+    "enbez": "§ 14",
+    "gliederung": null,
+    "titel": "Arbeitsentgelt",
+    "sha256_xml_text": "aa9c1de4703dbc7470cbb01ccd3be0a6c39730656c2a81c2a2d1dbe0b4d049c5"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR138450976BJNE003704126",
+    "enbez": "§ 15",
+    "gliederung": null,
+    "titel": "Arbeitseinkommen",
+    "sha256_xml_text": "82f4fc2c87367dfe2d48d923f00d8f220ce6d0a59094d0c6e877578557047839"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR138450976BJNE003802308",
+    "enbez": "§ 16",
+    "gliederung": null,
+    "titel": "Gesamteinkommen",
+    "sha256_xml_text": "0d3ddc7c16b01a24fab1dd2bd94710417ba2c10cd53319deb691ad7c2711a5c8"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR138450976BJNE003910308",
+    "enbez": "§ 17",
+    "gliederung": null,
+    "titel": "Verordnungsermächtigung",
+    "sha256_xml_text": "ed5f49cabf2a7c19c2848dd7058e7ff6db921b19345f84f7296d37f2c6d9c32d"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR138450976BJNE013105308",
+    "enbez": "§ 17a",
+    "gliederung": null,
+    "titel": "Umrechnung von ausländischem Einkommen",
+    "sha256_xml_text": "d7e20e789feb17de49f47e2011902b859e6203a43e991a424184176d6a969db2"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR138450976BJNE004012119",
+    "enbez": "§ 18",
+    "gliederung": null,
+    "titel": "Bezugsgröße",
+    "sha256_xml_text": "4f6075606cedd9a5ac132564dbdba50ab79355b37e055c9b7c299cb9c75da3f7"
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR138450976BJNG001804308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010040",
+      "gliederungsbez": "Vierter Titel",
+      "gliederungstitel": "Einkommen beim Zusammentreffen mit Renten wegen Todes"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR138450976BJNE013248126",
+    "enbez": "§ 18a",
+    "gliederung": null,
+    "titel": "Art des zu berücksichtigenden Einkommens",
+    "sha256_xml_text": "2a835043f6cfc40f0b8be753dd1c9272541fda2c495dc101ffdf7a2bf59c3907"
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR138450976BJNE013325126",
+    "enbez": "§ 18b",
+    "gliederung": null,
+    "titel": "Höhe des zu berücksichtigenden Einkommens",
+    "sha256_xml_text": "35fac258ba285ae50df8f71102df42c57fdb017c2b89045b051f8892d096f971"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR138450976BJNE013404308",
+    "enbez": "§ 18c",
+    "gliederung": null,
+    "titel": "Erstmalige Ermittlung des Einkommens",
+    "sha256_xml_text": "b76c0c98e4a9726553ae439bbdb44d4814836a6984f9e0c14bffb5eb605c35c7"
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR138450976BJNE013508126",
+    "enbez": "§ 18d",
+    "gliederung": null,
+    "titel": "Einkommensänderungen",
+    "sha256_xml_text": "0eb31ebed1a7e250ae44897bff0e71e1b86d588bd14221101fb74003768b2c85"
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR138450976BJNE013607119",
+    "enbez": "§ 18e",
+    "gliederung": null,
+    "titel": "Ermittlung von Einkommensänderungen",
+    "sha256_xml_text": "02ca444e3acaff00124809d3cc391670e9a72d8a75093102363a948f102ba041"
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR138450976BJNG001905126",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010050",
+      "gliederungsbez": "Fünfter Titel",
+      "gliederungstitel": "Verarbeitung der Versicherungsnummer"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR138450976BJNE013715126",
+    "enbez": "§ 18f",
+    "gliederung": null,
+    "titel": "Zulässigkeit der Verarbeitung",
+    "sha256_xml_text": "ee571fcf2c3246f063230d21fcd7d84d7b3953d646cc2f0728066ce750923f46"
+  },
+  {
+    "index": 40,
+    "doknr": "BJNR138450976BJNE013804126",
+    "enbez": "§ 18g",
+    "gliederung": null,
+    "titel": "Angabe der Versicherungsnummer",
+    "sha256_xml_text": "205cde30a9671c25997f237b9d409202f36cf04861a9df586560c6b24bd86e75"
+  },
+  {
+    "index": 41,
+    "doknr": "BJNR138450976BJNG002805126",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010060",
+      "gliederungsbez": "Sechster Titel",
+      "gliederungstitel": "Definition Unternehmen, Beschäftigungsbetrieb, Betriebsstätte"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 42,
+    "doknr": "BJNR138450976BJNE021809126",
+    "enbez": "§ 18h",
+    "gliederung": null,
+    "titel": "Unternehmen, Beschäftigungsbetrieb, Betriebsstätte",
+    "sha256_xml_text": "6f6a1bd9df729567b4c97d57d8a6f8c727700447448bedb16f3aa8cbac258970"
+  },
+  {
+    "index": 43,
+    "doknr": "BJNR138450976BJNG003900119",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010070",
+      "gliederungsbez": "Siebter Titel",
+      "gliederungstitel": "Betriebsnummer"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 44,
+    "doknr": "BJNR138450976BJNE025303126",
+    "enbez": "§ 18i",
+    "gliederung": null,
+    "titel": "Betriebsnummer für Beschäftigungsbetriebe der Arbeitgeber",
+    "sha256_xml_text": "a1c2889fe2a16952dc16c9b5e38c39f1085700facbbfebc5017345791e70e0ba"
+  },
+  {
+    "index": 45,
+    "doknr": "BJNR138450976BJNE025401124",
+    "enbez": "§ 18k",
+    "gliederung": null,
+    "titel": "Betriebsnummer für Beschäftigungsbetriebe weiterer Meldepflichtiger",
+    "sha256_xml_text": "cf5b98bf11c46a95ff482185a84989ec707f042dcc08939948cdb1f4a7bca0b1"
+  },
+  {
+    "index": 46,
+    "doknr": "BJNR138450976BJNE025500119",
+    "enbez": "§ 18l",
+    "gliederung": null,
+    "titel": "Identifikation weiterer Verfahrensbeteiligter in elektronischen Meldeverfahren",
+    "sha256_xml_text": "18146b6e368f292df33c62b53e50a241c363f5d107daab75c877c4b17563cfa8"
+  },
+  {
+    "index": 47,
+    "doknr": "BJNR138450976BJNE025604126",
+    "enbez": "§ 18m",
+    "gliederung": null,
+    "titel": "Verarbeitung der Betriebsnummer",
+    "sha256_xml_text": "6532be0e0f56cafa504e9c6c182265093758f4c7c2b2ea74f89a70622773b998"
+  },
+  {
+    "index": 48,
+    "doknr": "BJNR138450976BJNE025700119",
+    "enbez": "§ 18n",
+    "gliederung": null,
+    "titel": "Absendernummer",
+    "sha256_xml_text": "5d163f4d586c996992f67227c4dd82cc6bf01787976340da7d858b03a95ddfb8"
+  },
+  {
+    "index": 49,
+    "doknr": "BJNR138450976BJNE026200124",
+    "enbez": "§ 18o",
+    "gliederung": null,
+    "titel": "Verarbeitung der Unternehmernummer",
+    "sha256_xml_text": "59685df745286db3c9d8611b22623ddc0388b6f74eea0b213e0d83905c9ce66d"
+  },
+  {
+    "index": 50,
+    "doknr": "BJNR138450976BJNG000703308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Leistungen und Beiträge"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 51,
+    "doknr": "BJNR138450976BJNG000803308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020010",
+      "gliederungsbez": "Erster Titel",
+      "gliederungstitel": "Leistungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 52,
+    "doknr": "BJNR138450976BJNE004106308",
+    "enbez": "§ 19",
+    "gliederung": null,
+    "titel": "Leistungen auf Antrag oder von Amts wegen",
+    "sha256_xml_text": "87088160808d80b3e4df7b7d6eeb099d291bccf35035958acb63b4976760a05d"
+  },
+  {
+    "index": 53,
+    "doknr": "BJNR138450976BJNE021101308",
+    "enbez": "§ 19a",
+    "gliederung": null,
+    "titel": "Benachteiligungsverbot",
+    "sha256_xml_text": "d71da476ef93b3e4c5f05c9d7acd7bcb7342e6e134042bc5368bbb5472af5d54"
+  },
+  {
+    "index": 54,
+    "doknr": "BJNR138450976BJNG000903308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020",
+      "gliederungsbez": "Zweiter Titel",
+      "gliederungstitel": "Beiträge"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 55,
+    "doknr": "BJNR138450976BJNE004213126",
+    "enbez": "§ 20",
+    "gliederung": null,
+    "titel": "Aufbringung der Mittel, Übergangsbereich",
+    "sha256_xml_text": "87ddc71282c4842908ea846842796f7c4e020536398ac6b1ea66f2096d250ae6"
+  },
+  {
+    "index": 56,
+    "doknr": "BJNR138450976BJNE004302308",
+    "enbez": "§ 21",
+    "gliederung": null,
+    "titel": "Bemessung der Beiträge",
+    "sha256_xml_text": "87a1e83086d16ca5019c4167c6d84ccf37ff1b87d5e6310af0a6179f8f81e5cd"
+  },
+  {
+    "index": 57,
+    "doknr": "BJNR138450976BJNE004414124",
+    "enbez": "§ 22",
+    "gliederung": null,
+    "titel": "Entstehen der Beitragsansprüche, Zusammentreffen mehrerer Versicherungsverhältnisse",
+    "sha256_xml_text": "fe8c39137d5b681c6db7dfc59b0a175085d03eca98bb43bf26b25423690954f7"
+  },
+  {
+    "index": 58,
+    "doknr": "BJNR138450976BJNE004529126",
+    "enbez": "§ 23",
+    "gliederung": null,
+    "titel": "Fälligkeit",
+    "sha256_xml_text": "87c7b0ff569fd957e89f02e455c67bb8fa0caf98b24e80a84474a2b701b1f53a"
+  },
+  {
+    "index": 59,
+    "doknr": "BJNR138450976BJNE017507124",
+    "enbez": "§ 23a",
+    "gliederung": null,
+    "titel": "Einmalig gezahltes Arbeitsentgelt als beitragspflichtige Einnahmen",
+    "sha256_xml_text": "8cdae6e05f49f5e5d1cb1873ad023fdf1e4c1c295002a4fe177f262ca5c4b5cc"
+  },
+  {
+    "index": 60,
+    "doknr": "BJNR138450976BJNE018211126",
+    "enbez": "§ 23b",
+    "gliederung": null,
+    "titel": "Beitragspflichtige Einnahmen bei flexiblen Arbeitszeitregelungen",
+    "sha256_xml_text": "f2fa70855832f01fa2ea6f939670a2e6b9564c062beb295c85a8aee890473980"
+  },
+  {
+    "index": 61,
+    "doknr": "BJNR138450976BJNE020822126",
+    "enbez": "§ 23c",
+    "gliederung": null,
+    "titel": "Sonstige nicht beitragspflichtige Einnahmen",
+    "sha256_xml_text": "4fc958b69f371f7234a83032acbb3c0046695642ebc4b5de55bceb2d146e013d"
+  },
+  {
+    "index": 62,
+    "doknr": "BJNR138450976BJNE028901126",
+    "enbez": "§ 23d",
+    "gliederung": null,
+    "titel": "Abgeltung von abgeleiteten Entgeltguthaben",
+    "sha256_xml_text": "11e1a128b3874ecefccab0b50fb9756979fac99968fc3eefbaaa06043a47a408"
+  },
+  {
+    "index": 63,
+    "doknr": "BJNR138450976BJNE004610126",
+    "enbez": "§ 24",
+    "gliederung": null,
+    "titel": "Säumniszuschlag",
+    "sha256_xml_text": "6de0f80eebb1d941088f94fc9b3f3c206c185439036ec4c7368ee08bcd9bbaed"
+  },
+  {
+    "index": 64,
+    "doknr": "BJNR138450976BJNE004709124",
+    "enbez": "§ 25",
+    "gliederung": null,
+    "titel": "Verjährung",
+    "sha256_xml_text": "7372f801038c6a7c38f55511cbb15c57a63807a0e7142496da36c18f90f7a0f9"
+  },
+  {
+    "index": 65,
+    "doknr": "BJNR138450976BJNE004806119",
+    "enbez": "§ 26",
+    "gliederung": null,
+    "titel": "Beanstandung und Erstattung zu Unrecht entrichteter Beiträge",
+    "sha256_xml_text": "97de2cdaefd36bff6d31ef989580ece28fa660596e8736911b5380f40c46132a"
+  },
+  {
+    "index": 66,
+    "doknr": "BJNR138450976BJNE004906126",
+    "enbez": "§ 27",
+    "gliederung": null,
+    "titel": "Verzinsung und Verjährung des Erstattungsanspruchs",
+    "sha256_xml_text": "8e9cc21d174a355774b60c3a98bb8b3a7d056662e06b37f54372cd27b8b37ca6"
+  },
+  {
+    "index": 67,
+    "doknr": "BJNR138450976BJNE005003308",
+    "enbez": "§ 28",
+    "gliederung": null,
+    "titel": "Verrechnung und Aufrechnung des Erstattungsanspruchs",
+    "sha256_xml_text": "291432a993f8a5219251bc6849bbe84f91c4705ce8cec59bc492e99c2430ed23"
+  },
+  {
+    "index": 68,
+    "doknr": "BJNR138450976BJNG002003308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Meldepflichten des Arbeitgebers, Gesamtsozialversicherungsbeitrag"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 69,
+    "doknr": "BJNR138450976BJNG002103308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030010",
+      "gliederungsbez": "Erster Titel",
+      "gliederungstitel": "Meldungen des Arbeitgebers und ihre Weiterleitung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 70,
+    "doknr": "BJNR138450976BJNE022944126",
+    "enbez": "§ 28a",
+    "gliederung": null,
+    "titel": "Meldepflicht",
+    "sha256_xml_text": "ce61fbb9afad816a2e0d7d2389caf22d38ead8cf627e19d12c0a38ce11d11887"
+  },
+  {
+    "index": 71,
+    "doknr": "BJNR138450976BJNE021514126",
+    "enbez": "§ 28b",
+    "gliederung": null,
+    "titel": "Inhalte und Verfahren für die Gemeinsamen Grundsätze und die Datenfeldbeschreibung",
+    "sha256_xml_text": "d066d970cfed81c82922487c30cb1655d4d58f315816a5418572858c52e2e81e"
+  },
+  {
+    "index": 72,
+    "doknr": "BJNR138450976BJNE014114126",
+    "enbez": "§ 28c",
+    "gliederung": null,
+    "titel": "Verordnungsermächtigung",
+    "sha256_xml_text": "6e0309b06420b2a2609ca237c10319b78dd7ce4415d7ba9e361a18e455f1506a"
+  },
+  {
+    "index": 73,
+    "doknr": "BJNR138450976BJNG002203308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020",
+      "gliederungsbez": "Zweiter Titel",
+      "gliederungstitel": "Verfahren und Haftung bei der Beitragszahlung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 74,
+    "doknr": "BJNR138450976BJNE014206308",
+    "enbez": "§ 28d",
+    "gliederung": null,
+    "titel": "Gesamtsozialversicherungsbeitrag",
+    "sha256_xml_text": "4ae6145dc288519fa9c92d8640aa3660b9257c357c3f9fa5c04a1e8afe07523b"
+  },
+  {
+    "index": 75,
+    "doknr": "BJNR138450976BJNE014321126",
+    "enbez": "§ 28e",
+    "gliederung": null,
+    "titel": "Zahlungspflicht, Vorschuss",
+    "sha256_xml_text": "41f684623c0e90a1d4f7fc9994187d1149bb18c0702464d20f467e835cf04194"
+  },
+  {
+    "index": 76,
+    "doknr": "BJNR138450976BJNE014438126",
+    "enbez": "§ 28f",
+    "gliederung": null,
+    "titel": "Aufzeichnungspflicht, Nachweise der Beitragsabrechnung und der Beitragszahlung",
+    "sha256_xml_text": "4b3384df7806f970a45e7eb51412f6b92647b6c71d96426b89d21fa810527ee5"
+  },
+  {
+    "index": 77,
+    "doknr": "BJNR138450976BJNE014506308",
+    "enbez": "§ 28g",
+    "gliederung": null,
+    "titel": "Beitragsabzug",
+    "sha256_xml_text": "d18c3fb3ef1ea0bc90cd9bda6640fe7f59499b8ad280df4dc7c2b724142bf887"
+  },
+  {
+    "index": 78,
+    "doknr": "BJNR138450976BJNE014620126",
+    "enbez": "§ 28h",
+    "gliederung": null,
+    "titel": "Einzugsstellen",
+    "sha256_xml_text": "daa6b490f7415f975201fdcb0d10d4ed1ab19d96d91f9ce3d551491ebde29904"
+  },
+  {
+    "index": 79,
+    "doknr": "BJNR138450976BJNE014716126",
+    "enbez": "§ 28i",
+    "gliederung": null,
+    "titel": "Zuständige Einzugsstelle",
+    "sha256_xml_text": "427d197ca439f787a43146060deca260894d4b8718125e9afbd6b269fdb3cb36"
+  },
+  {
+    "index": 80,
+    "doknr": "BJNR138450976BJNE014825308",
+    "enbez": "§ 28k",
+    "gliederung": null,
+    "titel": "Weiterleitung von Beiträgen",
+    "sha256_xml_text": "505ffed1a7ef3be7fef25d7eb2396530cdd5eb8ce9ed636427071a10968fb8ce"
+  },
+  {
+    "index": 81,
+    "doknr": "BJNR138450976BJNE014919126",
+    "enbez": "§ 28l",
+    "gliederung": null,
+    "titel": "Vergütung",
+    "sha256_xml_text": "48bb6a0c358336d98ed3e20dcb6120df8f17ba7b79878a4922f2cea4d7fecf01"
+  },
+  {
+    "index": 82,
+    "doknr": "BJNR138450976BJNE015003308",
+    "enbez": "§ 28m",
+    "gliederung": null,
+    "titel": "Sonderregelungen für bestimmte Personengruppen",
+    "sha256_xml_text": "a40df0a67acd9563cd86aa359992172640c649f478ad21f1331b6da9d94eee77"
+  },
+  {
+    "index": 83,
+    "doknr": "BJNR138450976BJNE015117126",
+    "enbez": "§ 28n",
+    "gliederung": null,
+    "titel": "Verordnungsermächtigung",
+    "sha256_xml_text": "fcd04c5c04a30c4e23e111767d42578325de8f13d1b5fa38ff8b705c477a16e5"
+  },
+  {
+    "index": 84,
+    "doknr": "BJNR138450976BJNG002303308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030030",
+      "gliederungsbez": "Dritter Titel",
+      "gliederungstitel": "Auskunfts- und Vorlagepflicht, Prüfung, Schadensersatzpflicht und Verzinsung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 85,
+    "doknr": "BJNR138450976BJNE015209308",
+    "enbez": "§ 28o",
+    "gliederung": null,
+    "titel": "Auskunfts- und Vorlagepflicht des Beschäftigten",
+    "sha256_xml_text": "86e593e9302f34555fa4ae9ff43406d4b4d26ca9efe688e57826d7366852614c"
+  },
+  {
+    "index": 86,
+    "doknr": "BJNR138450976BJNE028406126",
+    "enbez": "§ 28p",
+    "gliederung": null,
+    "titel": "Prüfung bei den Arbeitgebern",
+    "sha256_xml_text": "97eab0b3bc7010f7774670e74c803a72db318dcf3b3f06054c9b08d715e78b36"
+  },
+  {
+    "index": 87,
+    "doknr": "BJNR138450976BJNE015421126",
+    "enbez": "§ 28q",
+    "gliederung": null,
+    "titel": "Prüfung bei den Einzugsstellen und den Trägern der Rentenversicherung",
+    "sha256_xml_text": "b7db45ac852e86f93fc7aa95b3f3b888d4dda5712925f1067305a2ff8455612f"
+  },
+  {
+    "index": 88,
+    "doknr": "BJNR138450976BJNE022001308",
+    "enbez": "§ 28r",
+    "gliederung": null,
+    "titel": "Schadensersatzpflicht, Verzinsung",
+    "sha256_xml_text": "dc98d598d8b30547a4a78e9709ea0e3ed34f17b742a05acd7557eb60c10a8ed3"
+  },
+  {
+    "index": 89,
+    "doknr": "BJNR138450976BJNG001004308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040",
+      "gliederungsbez": "Vierter Abschnitt",
+      "gliederungstitel": "Träger der Sozialversicherung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 90,
+    "doknr": "BJNR138450976BJNG001104308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040010",
+      "gliederungsbez": "Erster Titel",
+      "gliederungstitel": "Verfassung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 91,
+    "doknr": "BJNR138450976BJNE005104308",
+    "enbez": "§ 29",
+    "gliederung": null,
+    "titel": "Rechtsstellung",
+    "sha256_xml_text": "0dc084876a28e268eabda1a2d9664daa322fadb6bc0246dc04670a0cafbf8c9f"
+  },
+  {
+    "index": 92,
+    "doknr": "BJNR138450976BJNE005203308",
+    "enbez": "§ 30",
+    "gliederung": null,
+    "titel": "Eigene und übertragene Aufgaben",
+    "sha256_xml_text": "8bc0f6aed7887a72600758db4573cb55296ea16c5e107dfef5458668f479971c"
+  },
+  {
+    "index": 93,
+    "doknr": "BJNR138450976BJNE005306308",
+    "enbez": "§ 31",
+    "gliederung": null,
+    "titel": "Organe",
+    "sha256_xml_text": "f33b6b992828654a9e54205bb6769b3e0ca61e8331d1dfcd06e2d7d62def3a2f"
+  },
+  {
+    "index": 94,
+    "doknr": "BJNR138450976BJNE005405308",
+    "enbez": "§ 32",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 95,
+    "doknr": "BJNR138450976BJNE005505308",
+    "enbez": "§ 33",
+    "gliederung": null,
+    "titel": "Vertreterversammlung, Verwaltungsrat",
+    "sha256_xml_text": "0d60102966a9df1c7f9c9608fe0ace102263e25fc2c1e32311e88d3c194f7781"
+  },
+  {
+    "index": 96,
+    "doknr": "BJNR138450976BJNE005602308",
+    "enbez": "§ 34",
+    "gliederung": null,
+    "titel": "Satzung",
+    "sha256_xml_text": "1cd15d04530f410a595baf13557d4608f18106cbe620e54aaaaa20063612e5b7"
+  },
+  {
+    "index": 97,
+    "doknr": "BJNR138450976BJNE005704308",
+    "enbez": "§ 35",
+    "gliederung": null,
+    "titel": "Vorstand",
+    "sha256_xml_text": "03617c0d76e011b5638426066b5248253bbf8ec92014f76664b93b4d70dc1b8b"
+  },
+  {
+    "index": 98,
+    "doknr": "BJNR138450976BJNE017310126",
+    "enbez": "§ 35a",
+    "gliederung": null,
+    "titel": "Vorstand bei Orts-, Betriebs- und Innungskrankenkassen sowie Ersatzkassen",
+    "sha256_xml_text": "bca741b141ac927e78a5f257ccf2832710288814d82de97f7d06ec3dcf3cf41d"
+  },
+  {
+    "index": 99,
+    "doknr": "BJNR138450976BJNE005820311",
+    "enbez": "§ 36",
+    "gliederung": null,
+    "titel": "Geschäftsführer",
+    "sha256_xml_text": "3fe2e437ea7ff74d5a904c3f5a860d5dd007b20c71f7d7718543728a4334ad44"
+  },
+  {
+    "index": 100,
+    "doknr": "BJNR138450976BJNE005907126",
+    "enbez": "§ 36a",
+    "gliederung": null,
+    "titel": "Besondere Ausschüsse",
+    "sha256_xml_text": "760c18ba4ef7e1650a4fb3a57a0ebe3466e0c7e35a33fa09b2f83be114f3d8e6"
+  },
+  {
+    "index": 101,
+    "doknr": "BJNR138450976BJNE006002308",
+    "enbez": "§ 37",
+    "gliederung": null,
+    "titel": "Verhinderung von Organen",
+    "sha256_xml_text": "c6f00243c328563c40fe66a75bfa8b0d148d6afffae7a5fec685b7f6ac8ce0e7"
+  },
+  {
+    "index": 102,
+    "doknr": "BJNR138450976BJNE006102308",
+    "enbez": "§ 38",
+    "gliederung": null,
+    "titel": "Beanstandung von Rechtsverstößen",
+    "sha256_xml_text": "ac3d8825f8000da7d7560ed4a600a7600ba9cbb4595c626e7a3b91f4de41d01c"
+  },
+  {
+    "index": 103,
+    "doknr": "BJNR138450976BJNE006207308",
+    "enbez": "§ 39",
+    "gliederung": null,
+    "titel": "Versichertenälteste und Vertrauenspersonen",
+    "sha256_xml_text": "9386c97fbe3616fae4545a4e88094f2bfe09cfcb70ac349f8e683d985cab6fcd"
+  },
+  {
+    "index": 104,
+    "doknr": "BJNR138450976BJNE006304126",
+    "enbez": "§ 40",
+    "gliederung": null,
+    "titel": "Ehrenämter",
+    "sha256_xml_text": "df6ff85136684894d148a97ebd3466903fb0e612f61280634ed4a79bf3746a57"
+  },
+  {
+    "index": 105,
+    "doknr": "BJNR138450976BJNE006404308",
+    "enbez": "§ 41",
+    "gliederung": null,
+    "titel": "Entschädigung der ehrenamtlich Tätigen",
+    "sha256_xml_text": "a11651da03746a63be6132aaff9fe4bb62434371f1a8dd78bdde0a3b8b41a69b"
+  },
+  {
+    "index": 106,
+    "doknr": "BJNR138450976BJNE006505308",
+    "enbez": "§ 42",
+    "gliederung": null,
+    "titel": "Haftung",
+    "sha256_xml_text": "1bbf99e2789977e147d7135c81c2c069e077cfb1a5964999513881d86f1da323"
+  },
+  {
+    "index": 107,
+    "doknr": "BJNR138450976BJNG001205308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040020",
+      "gliederungsbez": "Zweiter Titel",
+      "gliederungstitel": "Zusammensetzung, Wahl und Verfahren der Selbstverwaltungsorgane, Versichertenältesten und Vertrauenspersonen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 108,
+    "doknr": "BJNR138450976BJNE006608308",
+    "enbez": "§ 43",
+    "gliederung": null,
+    "titel": "Mitglieder der Selbstverwaltungsorgane",
+    "sha256_xml_text": "826569f89e5bb2d84cd7d1fffb21d4924ca1cb04148e8ce2ad47c3788619ad27"
+  },
+  {
+    "index": 109,
+    "doknr": "BJNR138450976BJNE006730124",
+    "enbez": "§ 44",
+    "gliederung": null,
+    "titel": "Zusammensetzung der Selbstverwaltungsorgane",
+    "sha256_xml_text": "1349ee64886d5936e3a78857590dec58f75d9563c5ab565f585a8256cb53a11b"
+  },
+  {
+    "index": 110,
+    "doknr": "BJNR138450976BJNE006803124",
+    "enbez": "§ 45",
+    "gliederung": null,
+    "titel": "Sozialversicherungswahlen",
+    "sha256_xml_text": "8edc01274ebbad5ed191597c6ba1942bfa39d9ab94ed60f435f35d5540159a29"
+  },
+  {
+    "index": 111,
+    "doknr": "BJNR138450976BJNE006905308",
+    "enbez": "§ 46",
+    "gliederung": null,
+    "titel": "Wahl der Vertreterversammlung",
+    "sha256_xml_text": "25535cad3203ce64e43765ab2d907427fda4f3f4bafaf26d1f94918f745d69d3"
+  },
+  {
+    "index": 112,
+    "doknr": "BJNR138450976BJNE007009119",
+    "enbez": "§ 47",
+    "gliederung": null,
+    "titel": "Gruppenzugehörigkeit",
+    "sha256_xml_text": "3b18946b684fde011af2861cd25c2ae5875ba719b29c49e990ab2fc1e62f3a3b"
+  },
+  {
+    "index": 113,
+    "doknr": "BJNR138450976BJNE007109126",
+    "enbez": "§ 48",
+    "gliederung": null,
+    "titel": "Vorschlagslisten",
+    "sha256_xml_text": "af0189aa34f4f3cf17263d9d240941563b733495f6d79024d74e0ff83a1927af"
+  },
+  {
+    "index": 114,
+    "doknr": "BJNR138450976BJNE012703126",
+    "enbez": "§ 48a",
+    "gliederung": null,
+    "titel": "Vorschlagsrecht der Arbeitnehmervereinigungen",
+    "sha256_xml_text": "4512c85bfe99ab97c5b18acb6329718bbda5aceb4bede0c930d79db6d1f83cc8"
+  },
+  {
+    "index": 115,
+    "doknr": "BJNR138450976BJNE012803308",
+    "enbez": "§ 48b",
+    "gliederung": null,
+    "titel": "Feststellungsverfahren",
+    "sha256_xml_text": "74872c046a012a328df99979ef83706d0af412b13b444027d5a4b719c1648c2f"
+  },
+  {
+    "index": 116,
+    "doknr": "BJNR138450976BJNE012902308",
+    "enbez": "§ 48c",
+    "gliederung": null,
+    "titel": "Feststellung der allgemeinen Vorschlagsberechtigung",
+    "sha256_xml_text": "171e07e131ebc2cbaab5f2f747e060a01ece246e6d9f1f68ea2fe0312d8df429"
+  },
+  {
+    "index": 117,
+    "doknr": "BJNR138450976BJNE007204308",
+    "enbez": "§ 49",
+    "gliederung": null,
+    "titel": "Stimmenzahl",
+    "sha256_xml_text": "acde40a3e4a8490610c0f05e862e3d68338a66a04463211a462259ce15c550ae"
+  },
+  {
+    "index": 118,
+    "doknr": "BJNR138450976BJNE007307308",
+    "enbez": "§ 50",
+    "gliederung": null,
+    "titel": "Wahlrecht",
+    "sha256_xml_text": "c4b157b58f402dc75e395dd5be6fb1d7b1361b8b0349f428ebe2b7a62610156b"
+  },
+  {
+    "index": 119,
+    "doknr": "BJNR138450976BJNE007414119",
+    "enbez": "§ 51",
+    "gliederung": null,
+    "titel": "Wählbarkeit",
+    "sha256_xml_text": "410941f2ecd114d97e5f0a326018f62db40d4ad702b8d3d8969ca37bfebe556a"
+  },
+  {
+    "index": 120,
+    "doknr": "BJNR138450976BJNE007506126",
+    "enbez": "§ 52",
+    "gliederung": null,
+    "titel": "Wahl des Vorstandes",
+    "sha256_xml_text": "6f1a819b51688c1c3889420da9a5645a43430729e1f115af18130b4b5600489a"
+  },
+  {
+    "index": 121,
+    "doknr": "BJNR138450976BJNE007607126",
+    "enbez": "§ 53",
+    "gliederung": null,
+    "titel": "Wahlorgane",
+    "sha256_xml_text": "d0c0fe154678c9e7bebe5916259a745d4cd374137d951d134848e36c98687eb4"
+  },
+  {
+    "index": 122,
+    "doknr": "BJNR138450976BJNE007709126",
+    "enbez": "§ 54",
+    "gliederung": null,
+    "titel": "Durchführung der Wahl",
+    "sha256_xml_text": "5c50ec39bbd7222e826569754ab7dfc64d5fcfa98c62fb6ab8827305bbd8ac5f"
+  },
+  {
+    "index": 123,
+    "doknr": "BJNR138450976BJNE007905308",
+    "enbez": "§ 55",
+    "gliederung": null,
+    "titel": "Wahlunterlagen und Mitwirkung der Arbeitgeber",
+    "sha256_xml_text": "569cbdfe87b726259cb146f7e15b5b5a11c544121f2ee93d243b6ac58e58d1ae"
+  },
+  {
+    "index": 124,
+    "doknr": "BJNR138450976BJNE008008126",
+    "enbez": "§ 56",
+    "gliederung": null,
+    "titel": "Wahlordnung; Verordnungsermächtigung",
+    "sha256_xml_text": "6bbdb1d3fa3501cde9a7e5cfcf8551408e25ad15e10117f388d789255127def0"
+  },
+  {
+    "index": 125,
+    "doknr": "BJNR138450976BJNE008104308",
+    "enbez": "§ 57",
+    "gliederung": null,
+    "titel": "Rechtsbehelfe im Wahlverfahren",
+    "sha256_xml_text": "c139ef848791f01b9c2395fbccdd0a26462e806d284ab47fd8914535730ef4d6"
+  },
+  {
+    "index": 126,
+    "doknr": "BJNR138450976BJNE008203308",
+    "enbez": "§ 58",
+    "gliederung": null,
+    "titel": "Amtsdauer",
+    "sha256_xml_text": "0a5a353d1a745efbbc3a4c9a374eca89bc986ff4f4df9b8670f648173d8a946b"
+  },
+  {
+    "index": 127,
+    "doknr": "BJNR138450976BJNE008303119",
+    "enbez": "§ 59",
+    "gliederung": null,
+    "titel": "Verlust der Mitgliedschaft",
+    "sha256_xml_text": "86cab5d3fbca19f921718a2271802becf8eaa2e24fb6d5a9285653fe2ce33a1d"
+  },
+  {
+    "index": 128,
+    "doknr": "BJNR138450976BJNE008406126",
+    "enbez": "§ 60",
+    "gliederung": null,
+    "titel": "Ergänzung der Selbstverwaltungsorgane",
+    "sha256_xml_text": "93045520cfe957b85d0acdfac7d8d54d40ca65e5d459bf90ca3ec1608cd046fd"
+  },
+  {
+    "index": 129,
+    "doknr": "BJNR138450976BJNE008504308",
+    "enbez": "§ 61",
+    "gliederung": null,
+    "titel": "Wahl der Versichertenältesten und der Vertrauenspersonen",
+    "sha256_xml_text": "4a26be405cf53b96dca1ca5272ac5d3ca3c4e15f8c1ec1b35b5330a2353b9b28"
+  },
+  {
+    "index": 130,
+    "doknr": "BJNR138450976BJNE008606308",
+    "enbez": "§ 62",
+    "gliederung": null,
+    "titel": "Vorsitzende der Selbstverwaltungsorgane",
+    "sha256_xml_text": "07315a0982ef147318ef59a2daf30494e820b2506de8914c5a1e121a5d2f2b0d"
+  },
+  {
+    "index": 131,
+    "doknr": "BJNR138450976BJNE008703308",
+    "enbez": "§ 63",
+    "gliederung": null,
+    "titel": "Beratung",
+    "sha256_xml_text": "100f35db16ef0e0a8f1f8ab25edfee35ab0f185f388a493aa7668c3ceb8f9657"
+  },
+  {
+    "index": 132,
+    "doknr": "BJNR138450976BJNE008814126",
+    "enbez": "§ 64",
+    "gliederung": null,
+    "titel": "Beschlussfassung",
+    "sha256_xml_text": "0f5fe85221709a84ac9e569b707b6f3f58470f82238d4b47709dd0dc0d80a56f"
+  },
+  {
+    "index": 133,
+    "doknr": "BJNR138450976BJNE030100126",
+    "enbez": "§ 64a",
+    "gliederung": null,
+    "titel": "Hybride und digitale Sitzungen",
+    "sha256_xml_text": "9b94fb75b6b3f0cb2dd206e3cb717c0e20be3080ba79599a8a29a85c373cfb19"
+  },
+  {
+    "index": 134,
+    "doknr": "BJNR138450976BJNE008905308",
+    "enbez": "§ 65",
+    "gliederung": null,
+    "titel": "Getrennte Abstimmung",
+    "sha256_xml_text": "8f8624d6e5aadab89afc74dda33b432c5d774668ceccb62944155a791ac06a3c"
+  },
+  {
+    "index": 135,
+    "doknr": "BJNR138450976BJNE009003126",
+    "enbez": "§ 66",
+    "gliederung": null,
+    "titel": "Erledigungsausschüsse",
+    "sha256_xml_text": "7a98fbe80aee9751fbd35bc421f28edcfad0f21b844a1df4c28ec06d74a9b299"
+  },
+  {
+    "index": 136,
+    "doknr": "BJNR138450976BJNG001304308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030",
+      "gliederungsbez": "Dritter Titel",
+      "gliederungstitel": "Haushalts- und Rechnungswesen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 137,
+    "doknr": "BJNR138450976BJNE009102308",
+    "enbez": "§ 67",
+    "gliederung": null,
+    "titel": "Aufstellung des Haushaltsplans",
+    "sha256_xml_text": "1ae6ba0b9d6832db105409818cd6aaf7471bb39ec5287f1aaba34c51127f091c"
+  },
+  {
+    "index": 138,
+    "doknr": "BJNR138450976BJNE009202308",
+    "enbez": "§ 68",
+    "gliederung": null,
+    "titel": "Bedeutung und Wirkung des Haushaltsplans",
+    "sha256_xml_text": "c6f5a389c54f217bbc9044d4fcf6ffab52a444bbea6edada7562e15f7f6677bc"
+  },
+  {
+    "index": 139,
+    "doknr": "BJNR138450976BJNE009310308",
+    "enbez": "§ 69",
+    "gliederung": null,
+    "titel": "Ausgleich, Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung, Personalbedarfsermittlung",
+    "sha256_xml_text": "0075c6db45c5778095858ec1446369d636ffa7707ff3096d9336028271a3586a"
+  },
+  {
+    "index": 140,
+    "doknr": "BJNR138450976BJNE009418377",
+    "enbez": "§ 70",
+    "gliederung": null,
+    "titel": "Haushaltsplan",
+    "sha256_xml_text": "e03e60705ed4ce1c7526083507315eb17ddcc4aa0daf74a6c1aa1b58ae7dbe9b"
+  },
+  {
+    "index": 141,
+    "doknr": "BJNR138450976BJNE009507308",
+    "enbez": "§ 71",
+    "gliederung": null,
+    "titel": "Haushaltsplan der Deutschen Rentenversicherung Knappschaft-Bahn-See",
+    "sha256_xml_text": "9e0a6e991f518c60ce097e9b2574399c164b3c0aaeb819e63908de7380183bb6"
+  },
+  {
+    "index": 142,
+    "doknr": "BJNR138450976BJNE017607308",
+    "enbez": "§ 71a",
+    "gliederung": null,
+    "titel": "Haushaltsplan der Bundesagentur für Arbeit",
+    "sha256_xml_text": "5f70c3d1111f5223ac5023aac5856cbf2846de88d57be5a8670220a6edd221ff"
+  },
+  {
+    "index": 143,
+    "doknr": "BJNR138450976BJNE017713140",
+    "enbez": "§ 71b",
+    "gliederung": null,
+    "titel": "Veranschlagung der Arbeitsmarktmittel der Bundesagentur für Arbeit",
+    "sha256_xml_text": "a66c661aea3f901541c4f68c02d2b2e0b2a8b50e4927c580b8861c6cca4493b5"
+  },
+  {
+    "index": 144,
+    "doknr": "BJNR138450976BJNE017804308",
+    "enbez": "§ 71c",
+    "gliederung": null,
+    "titel": "Eingliederungsrücklage der Bundesagentur für Arbeit",
+    "sha256_xml_text": "311f777764653f74c37369c7c81119e7dad3cd07d7b4e947cb4b8855fac1fab6"
+  },
+  {
+    "index": 145,
+    "doknr": "BJNR138450976BJNE019007119",
+    "enbez": "§ 71d",
+    "gliederung": null,
+    "titel": "Haushaltsplan und Kostenverteilungsverfahren der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau",
+    "sha256_xml_text": "34f37e6db6e322a8c1bfd86690c5988a626c64a922abe3dbeaf6eb40fbc4a4d6"
+  },
+  {
+    "index": 146,
+    "doknr": "BJNR138450976BJNE024403126",
+    "enbez": "§ 71e",
+    "gliederung": null,
+    "titel": "Ausweisung der Schiffssicherheitsabteilung im Haushaltsplan",
+    "sha256_xml_text": "4abd144f3d409209585cd0a287bc12f8f41ac3f9b17c438a6ab9d309c8d36a1c"
+  },
+  {
+    "index": 147,
+    "doknr": "BJNR138450976BJNE024804126",
+    "enbez": "§ 71f",
+    "gliederung": null,
+    "titel": "Haushaltsplan der Unfallversicherung Bund und Bahn",
+    "sha256_xml_text": "33f11c05c27097c9c79a7347fb51c4937d16aae6b5591159006da7a46e505736"
+  },
+  {
+    "index": 148,
+    "doknr": "BJNR138450976BJNE009613119",
+    "enbez": "§ 72",
+    "gliederung": null,
+    "titel": "Vorläufige Haushaltsführung",
+    "sha256_xml_text": "82f209234539894eb572617b4ba3d55b48f811927dce7f99919a6d9e0e0f8973"
+  },
+  {
+    "index": 149,
+    "doknr": "BJNR138450976BJNE009723126",
+    "enbez": "§ 73",
+    "gliederung": null,
+    "titel": "Überplanmäßige und außerplanmäßige Ausgaben",
+    "sha256_xml_text": "5d2d0251cb15920d9a18bb603a3891acfe0259fc2de993eb34e651268ebee92e"
+  },
+  {
+    "index": 150,
+    "doknr": "BJNR138450976BJNE009803308",
+    "enbez": "§ 74",
+    "gliederung": null,
+    "titel": "Nachtragshaushalt",
+    "sha256_xml_text": "d3783ffc3cb3ab98f35ff5a216ffd5faab17940a8833eb1f3c2b522583f2dea2"
+  },
+  {
+    "index": 151,
+    "doknr": "BJNR138450976BJNE009903308",
+    "enbez": "§ 75",
+    "gliederung": null,
+    "titel": "Verpflichtungsermächtigungen",
+    "sha256_xml_text": "faaac6b645f23aed5bdea2a2dfdc0de6af98a874c4fdb006b22d288ecb4244ef"
+  },
+  {
+    "index": 152,
+    "doknr": "BJNR138450976BJNE010008308",
+    "enbez": "§ 76",
+    "gliederung": null,
+    "titel": "Erhebung der Einnahmen",
+    "sha256_xml_text": "6496f7a002c49013453a04a0a97a41597c84115b88bf93fec05962f3dec56d88"
+  },
+  {
+    "index": 153,
+    "doknr": "BJNR138450976BJNE010114308",
+    "enbez": "§ 77",
+    "gliederung": null,
+    "titel": "Rechnungsabschluss, Jahresrechnung und Entlastung",
+    "sha256_xml_text": "01b4aa48a98421076eab5633a4b9851d8aca16ef9b1fcb0ad5c0195992fd5c33"
+  },
+  {
+    "index": 154,
+    "doknr": "BJNR138450976BJNE017903308",
+    "enbez": "§ 77a",
+    "gliederung": null,
+    "titel": "Geltung von Haushaltsvorschriften des Bundes für die Bundesagentur für Arbeit",
+    "sha256_xml_text": "90169523b7be00ce90cf21a568d40d4c1d9fb58d6e7a122e425c6f7c38e907f0"
+  },
+  {
+    "index": 155,
+    "doknr": "BJNR138450976BJNE010207308",
+    "enbez": "§ 78",
+    "gliederung": null,
+    "titel": "Verordnungsermächtigung",
+    "sha256_xml_text": "00289e32aa67f53e89180124dce58f80fc4d6b66df1a8d986f89a3a0a9d66858"
+  },
+  {
+    "index": 156,
+    "doknr": "BJNR138450976BJNE010313119",
+    "enbez": "§ 79",
+    "gliederung": null,
+    "titel": "Geschäftsübersichten und Statistiken der Sozialversicherung",
+    "sha256_xml_text": "d851e8f808c7f331615e0c0fdeea4f42a911b8f9add30b189309cc7a70e2d6c6"
+  },
+  {
+    "index": 157,
+    "doknr": "BJNR138450976BJNE030300126",
+    "enbez": "§ 79a",
+    "gliederung": null,
+    "titel": "Finanzierung von Maßnahmen der digitalen Transformation aus Bundesmitteln",
+    "sha256_xml_text": "89b5862006e06bbe9200e41c53d4ba1af414df28b2edf5ab86548fe9084154a2"
+  },
+  {
+    "index": 158,
+    "doknr": "BJNR138450976BJNG001404308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040040",
+      "gliederungsbez": "Vierter Titel",
+      "gliederungstitel": "Vermögen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 159,
+    "doknr": "BJNR138450976BJNE010403126",
+    "enbez": "§ 80",
+    "gliederung": null,
+    "titel": "Verwaltung der Mittel, Anlagegrundsätze",
+    "sha256_xml_text": "3fe62084352b48670d9dc21d1e7f832dae776339f044a013c3b65ee3b1c05dd3"
+  },
+  {
+    "index": 160,
+    "doknr": "BJNR138450976BJNE010502308",
+    "enbez": "§ 81",
+    "gliederung": null,
+    "titel": "Betriebsmittel",
+    "sha256_xml_text": "b7221c6d477775af903b6c52a80f23fa682aa8607d3c5b796a362419221595b0"
+  },
+  {
+    "index": 161,
+    "doknr": "BJNR138450976BJNE010602308",
+    "enbez": "§ 82",
+    "gliederung": null,
+    "titel": "Rücklage",
+    "sha256_xml_text": "64632da6f1b97e87eecdf6d819b2e6ec638aae5efe5bae40da1e5f944e25377f"
+  },
+  {
+    "index": 162,
+    "doknr": "BJNR138450976BJNE029000126",
+    "enbez": "§ 82a",
+    "gliederung": null,
+    "titel": "Verwaltungsvermögen",
+    "sha256_xml_text": "75c2f263daa8d5191593ec609a39140b2c5eb873e98685a95484f8c5a10f6cc5"
+  },
+  {
+    "index": 163,
+    "doknr": "BJNR138450976BJNE010706126",
+    "enbez": "§ 83",
+    "gliederung": null,
+    "titel": "Anlegung der Mittel",
+    "sha256_xml_text": "fc3a6330a59bf8a0b7e94e47c99da45f466fed87de0faec30fa0ff850b48ad90"
+  },
+  {
+    "index": 164,
+    "doknr": "BJNR138450976BJNE010802308",
+    "enbez": "§ 84",
+    "gliederung": null,
+    "titel": "Beleihung von Grundstücken",
+    "sha256_xml_text": "ce9538258d3a7186b6b6e43f6ac719cee34785fdd81c90ec78b65b982c11e6ec"
+  },
+  {
+    "index": 165,
+    "doknr": "BJNR138450976BJNE010914126",
+    "enbez": "§ 85",
+    "gliederung": null,
+    "titel": "Genehmigungs- und anzeigepflichtige Vermögensanlagen",
+    "sha256_xml_text": "192133c7ee68c29341c29d7ee6e14d92551d73de5bd3de75c2cc87ddc58b735b"
+  },
+  {
+    "index": 166,
+    "doknr": "BJNR138450976BJNE011003126",
+    "enbez": "§ 86",
+    "gliederung": null,
+    "titel": "Ausnahmegenehmigung",
+    "sha256_xml_text": "fe369cda8b103a4aa4ec37465f05b28eec371301c810bb974a4e3b0288e76371"
+  },
+  {
+    "index": 167,
+    "doknr": "BJNR138450976BJNG001504308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040050",
+      "gliederungsbez": "Fünfter Titel",
+      "gliederungstitel": "Aufsicht"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 168,
+    "doknr": "BJNR138450976BJNE011105126",
+    "enbez": "§ 87",
+    "gliederung": null,
+    "titel": "Umfang der Aufsicht",
+    "sha256_xml_text": "d89a153be2cd44c725d29d55d7c87aadba2d5cf628b29f95ed95e7ec814d6298"
+  },
+  {
+    "index": 169,
+    "doknr": "BJNR138450976BJNE011209126",
+    "enbez": "§ 88",
+    "gliederung": null,
+    "titel": "Prüfung und Unterrichtung",
+    "sha256_xml_text": "aac8dc0313133a569c4fa0b6a47fe6d1adb70d4f1d478798ac1764ac9265b17f"
+  },
+  {
+    "index": 170,
+    "doknr": "BJNR138450976BJNE011304308",
+    "enbez": "§ 89",
+    "gliederung": null,
+    "titel": "Aufsichtsmittel",
+    "sha256_xml_text": "508a46726717418689a107416a44e191b9f5d516e65389d9600eae3f9c7eb885"
+  },
+  {
+    "index": 171,
+    "doknr": "BJNR138450976BJNE011419124",
+    "enbez": "§ 90",
+    "gliederung": null,
+    "titel": "Aufsichtsbehörden",
+    "sha256_xml_text": "99dcdd54f70f9aed8465768c125dfeeea6627c8b2b11d0f960e4614d2d963e86"
+  },
+  {
+    "index": 172,
+    "doknr": "BJNR138450976BJNE017404126",
+    "enbez": "§ 90a",
+    "gliederung": null,
+    "titel": "Zuständigkeitsbereich",
+    "sha256_xml_text": "70408502b3b7a2f8706e1237c4015d50ae9a4f51999f49c0b205ea41c9830e62"
+  },
+  {
+    "index": 173,
+    "doknr": "BJNR138450976BJNG001604308",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050",
+      "gliederungsbez": "Fünfter Abschnitt",
+      "gliederungstitel": "Versicherungsbehörden"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 174,
+    "doknr": "BJNR138450976BJNE011504126",
+    "enbez": "§ 91",
+    "gliederung": null,
+    "titel": "Arten",
+    "sha256_xml_text": "cfeb3509a6192e28b5a4244bdf0bedc9830e33d4b55924e315d92fbe404bb135"
+  },
+  {
+    "index": 175,
+    "doknr": "BJNR138450976BJNE011602308",
+    "enbez": "§ 92",
+    "gliederung": null,
+    "titel": "Versicherungsämter",
+    "sha256_xml_text": "17291b863ba43da3c3426d5dfd7c1762f49de1b29023afe0ea1fd6612d563b78"
+  },
+  {
+    "index": 176,
+    "doknr": "BJNR138450976BJNE011703308",
+    "enbez": "§ 93",
+    "gliederung": null,
+    "titel": "Aufgaben der Versicherungsämter",
+    "sha256_xml_text": "1b60ae81a250e65ed8b47fd5c48b237f408baae6ded8e1af309f3d2b122dbf96"
+  },
+  {
+    "index": 177,
+    "doknr": "BJNR138450976BJNE011809126",
+    "enbez": "§ 94",
+    "gliederung": null,
+    "titel": "Bundesamt für Soziale Sicherung",
+    "sha256_xml_text": "8e457bf40b07d7a73c9553287102f044d68f251e4eafb2c81fd15f164ea37581"
+  },
+  {
+    "index": 178,
+    "doknr": "BJNR138450976BJNG003701126",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060",
+      "gliederungsbez": "Sechster Abschnitt",
+      "gliederungstitel": "Verarbeitung von elektronischen Daten in der Sozialversicherung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 179,
+    "doknr": "BJNR138450976BJNG003102119",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060010",
+      "gliederungsbez": "Erster Titel",
+      "gliederungstitel": "Übermittlung von Daten zur und innerhalb der Sozialversicherung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 180,
+    "doknr": "BJNR138450976BJNE024905126",
+    "enbez": "§ 95",
+    "gliederung": null,
+    "titel": "Gemeinsame Grundsätze Technik",
+    "sha256_xml_text": "9f22e44a6914499037685695729318c9555e83a010ed0f692ccc6eee3deb8e97"
+  },
+  {
+    "index": 181,
+    "doknr": "BJNR138450976BJNE026302126",
+    "enbez": "§ 95a",
+    "gliederung": null,
+    "titel": "Ausfüllhilfe zum elektronischen Datenaustausch mit Sozialversicherungsträgern",
+    "sha256_xml_text": "9550721097e0ca623ed073f2fed55b55db3f9a09e6b131a7405e2519a34e66f7"
+  },
+  {
+    "index": 182,
+    "doknr": "BJNR138450976BJNE026403126",
+    "enbez": "§ 95b",
+    "gliederung": null,
+    "titel": "Systemprüfung",
+    "sha256_xml_text": "8bdae5f92be0de6f195b646993f8882524b3468fddb6cf5d32c369a1df4cfff9"
+  },
+  {
+    "index": 183,
+    "doknr": "BJNR138450976BJNE026501124",
+    "enbez": "§ 95c",
+    "gliederung": null,
+    "titel": "Datenaustausch zwischen den Sozialversicherungsträgern",
+    "sha256_xml_text": "a58a916e1831cd007eb18e828b8624b38c2c2f4a39d9903cb1ec91d4ff5dfe31"
+  },
+  {
+    "index": 184,
+    "doknr": "BJNR138450976BJNG002604126",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060020",
+      "gliederungsbez": "Zweiter Titel",
+      "gliederungstitel": "Verarbeitung der Daten der Arbeitgeber durch die Sozialversicherungsträger"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 185,
+    "doknr": "BJNR138450976BJNE023305126",
+    "enbez": "§ 96",
+    "gliederung": null,
+    "titel": "Kommunikationsserver",
+    "sha256_xml_text": "12eab1be4e1c77e1b6eaf852d3659439856d7aaafae39ab25d6375cb9a2f763e"
+  },
+  {
+    "index": 186,
+    "doknr": "BJNR138450976BJNE023407126",
+    "enbez": "§ 97",
+    "gliederung": null,
+    "titel": "Annahmestellen",
+    "sha256_xml_text": "fba57112d751c64dfbf8024bb6a9ccb12e8e4443019177b30a9119ea8b2fcec5"
+  },
+  {
+    "index": 187,
+    "doknr": "BJNR138450976BJNE023505126",
+    "enbez": "§ 98",
+    "gliederung": null,
+    "titel": "Weiterleitung der Daten durch die Einzugsstellen",
+    "sha256_xml_text": "7de99b6d4ac54941fd533a6145a2fdba2c01adb6419bf772c8c8313de8ecff5d"
+  },
+  {
+    "index": 188,
+    "doknr": "BJNR138450976BJNE029100126",
+    "enbez": "§ 98a",
+    "gliederung": null,
+    "titel": "Datei der Stammdaten der an den Meldeverfahren beteiligten Träger der sozialen Sicherung",
+    "sha256_xml_text": "f19ceb4ae981198ff84abad0cafebed5c43ea11ae7942985a6ec5062765875b0"
+  },
+  {
+    "index": 189,
+    "doknr": "BJNR138450976BJNG003800119",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060030",
+      "gliederungsbez": "Dritter Titel",
+      "gliederungstitel": "Übermittlung von Daten im Lohnnachweisverfahren der Unfallversicherung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 190,
+    "doknr": "BJNR138450976BJNE023604126",
+    "enbez": "§ 99",
+    "gliederung": null,
+    "titel": "Übermittlung von Daten durch den Unternehmer im Lohnnachweisverfahren",
+    "sha256_xml_text": "8161cb85b0d35b900bcb45ab88dcbf118a749269f60c59e5223596a3bda1bf88"
+  },
+  {
+    "index": 191,
+    "doknr": "BJNR138450976BJNE023704124",
+    "enbez": "§ 100",
+    "gliederung": null,
+    "titel": "Inhalt des elektronischen Lohnnachweises",
+    "sha256_xml_text": "8f619631f1d78a9f8461d73a94ea50cec9ec0226695e167e06ab6746f469ca98"
+  },
+  {
+    "index": 192,
+    "doknr": "BJNR138450976BJNE023805124",
+    "enbez": "§ 101",
+    "gliederung": null,
+    "titel": "Stammdatendatei",
+    "sha256_xml_text": "ed5db4b51a529919e81fda1fcba6c957746b858bb4feaf96cac22f8d09d690ad"
+  },
+  {
+    "index": 193,
+    "doknr": "BJNR138450976BJNE023905126",
+    "enbez": "§ 102",
+    "gliederung": null,
+    "titel": "Annahme, Prüfung und Weiterleitung der Daten zum Lohnnachweisverfahren",
+    "sha256_xml_text": "45b6d291f992c70f0d838aff65608cc975ed8370e38aeaf5f8f209f0e401fd44"
+  },
+  {
+    "index": 194,
+    "doknr": "BJNR138450976BJNE024002119",
+    "enbez": "§ 103",
+    "gliederung": null,
+    "titel": "Gemeinsame Grundsätze zur Datenübermittlung an die Unfallversicherung",
+    "sha256_xml_text": "350fd01a179ca1cbc5529ebf539591726b555426adeba21c0c61fa91242500fb"
+  },
+  {
+    "index": 195,
+    "doknr": "BJNR138450976BJNG004000119",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "070",
+      "gliederungsbez": "Siebter Abschnitt",
+      "gliederungstitel": "Informationsangebote in den Meldeverfahren der sozialen Sicherung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 196,
+    "doknr": "BJNR138450976BJNE024102119",
+    "enbez": "§ 104",
+    "gliederung": null,
+    "titel": "Informations- und Beratungsanspruch",
+    "sha256_xml_text": "5c2fffea175584478d235693476d39e596a911f2cb05f4936d3c7d65c71e3f20"
+  },
+  {
+    "index": 197,
+    "doknr": "BJNR138450976BJNE016405126",
+    "enbez": "§ 105",
+    "gliederung": null,
+    "titel": "Informationsportal",
+    "sha256_xml_text": "c3122117981d2c414dc1ffcc1bdab4a2c3c81c38864eda218b8d4a258bdc47a7"
+  },
+  {
+    "index": 198,
+    "doknr": "BJNR138450976BJNG004100119",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "080",
+      "gliederungsbez": "Achter Abschnitt",
+      "gliederungstitel": "Elektronisches Antrags- und Bescheinigungsverfahren"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 199,
+    "doknr": "BJNR138450976BJNE016510126",
+    "enbez": "§ 106",
+    "gliederung": null,
+    "titel": "Elektronischer Antrag des Arbeitgebers auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Beschäftigung in einem oder mehreren Mitgliedsstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland",
+    "sha256_xml_text": "f25d279a5cce702c543af86165ce95e315bed7427c586a1ea7dc8bc905ef96e4"
+  },
+  {
+    "index": 200,
+    "doknr": "BJNR138450976BJNE026601126",
+    "enbez": "§ 106a",
+    "gliederung": null,
+    "titel": "Elektronischer Antrag durch Selbständige und Mehrfacherwerbstätige auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Erwerbstätigkeit in einem oder mehreren Mitgliedstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland",
+    "sha256_xml_text": "aa3c7ccedf04b0b5bd0c960c74e2f1b1a21d211595c9b0d85be8baf04dc86e44"
+  },
+  {
+    "index": 201,
+    "doknr": "BJNR138450976BJNE029200126",
+    "enbez": "§ 106b",
+    "gliederung": null,
+    "titel": "Elektronischer Antrag auf Freistellung von der Anwendung der Rechtsvorschriften des Wohnmitgliedstaates nach Artikel 16 Absatz 2 der Verordnung (EG) Nr. 883/2004",
+    "sha256_xml_text": "eb9df4a01fedeb745abd8a1224e9a2daa36b4a8da760dac566a8d07b52b2f8e3"
+  },
+  {
+    "index": 202,
+    "doknr": "BJNR138450976BJNE029300126",
+    "enbez": "§ 106c",
+    "gliederung": null,
+    "titel": "Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Tätigkeit in einem Vertragsstaat, mit dem die Bundesrepublik Deutschland ein Abkommen über soziale Sicherheit mit Regelungen über die anzuwendenden Rechtsvorschriften geschlossen hat",
+    "sha256_xml_text": "4be9b9687f9a3ec6ea551fd1d88fe55be333194aefca0d3e843b640b33878516"
+  },
+  {
+    "index": 203,
+    "doknr": "BJNR138450976BJNE029400126",
+    "enbez": "§ 106d",
+    "gliederung": null,
+    "titel": "Gemeinsame Grundsätze zu den Inhalten der Anträge und den zu übermittelnden Datensätzen nach den §§ 106 bis 106c",
+    "sha256_xml_text": "9a78890c7991f58dc87d3d6a6838d4afd99c6abb393c4ce5c0d2602c83c84cad"
+  },
+  {
+    "index": 204,
+    "doknr": "BJNR138450976BJNE016619126",
+    "enbez": "§ 107",
+    "gliederung": null,
+    "titel": "Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen",
+    "sha256_xml_text": "7891f9b50037cd5404259de42866936cd71aea89eb3af19199317d7acdafe873"
+  },
+  {
+    "index": 205,
+    "doknr": "BJNR138450976BJNE016709126",
+    "enbez": "§ 108",
+    "gliederung": null,
+    "titel": "Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger",
+    "sha256_xml_text": "027c8afc30b80cc2f0b39f46aa52648466fcdfb729ce88b487966cad8bfa6586"
+  },
+  {
+    "index": 206,
+    "doknr": "BJNR138450976BJNE027700126",
+    "enbez": "§ 108a",
+    "gliederung": null,
+    "titel": "Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld",
+    "sha256_xml_text": "a7705f33caffee329e5945f6163c686c7ad97981438d2c0a38d90020fd4b9c2b"
+  },
+  {
+    "index": 207,
+    "doknr": "BJNR138450976BJNE029500126",
+    "enbez": "§ 108b",
+    "gliederung": null,
+    "titel": "Unbedenklichkeitsbescheinigungen der Einzugsstellen",
+    "sha256_xml_text": "0bf42f0229c099f05ec2e2fe615366874c8ad97eff2dcd19feee9aa08bd939c2"
+  },
+  {
+    "index": 208,
+    "doknr": "BJNR138450976BJNE026009126",
+    "enbez": "§ 109",
+    "gliederung": null,
+    "titel": "Meldung der Arbeitsunfähigkeitszeiten an den Arbeitgeber",
+    "sha256_xml_text": "cb03d737d722b67ddf4901ea8c5e6997c02ef8a7816dc09e143adf7e71d0a804"
+  },
+  {
+    "index": 209,
+    "doknr": "BJNR138450976BJNE026701126",
+    "enbez": "§ 109a",
+    "gliederung": null,
+    "titel": "Abruf von Arbeitsunfähigkeitsdaten und Daten zur stationären Krankenhausbehandlung durch die Bundesagentur für Arbeit",
+    "sha256_xml_text": "6ed6250e21ffa22ca78699d4d453836c3954800630a36cab01948bc0f518c00c"
+  },
+  {
+    "index": 210,
+    "doknr": "BJNR138450976BJNE023210126",
+    "enbez": "§ 110",
+    "gliederung": null,
+    "titel": "Meldungen der Arbeitgeber an gemeinsame Einrichtungen im Sinne des § 4 Absatz 2 des Tarifvertragsgesetzes",
+    "sha256_xml_text": "8cdac19218e22078c269d8a6e850456fb3e630b37c795d927ba6912777415cc5"
+  },
+  {
+    "index": 211,
+    "doknr": "BJNR138450976BJNG003005119",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "090",
+      "gliederungsbez": "Neunter Abschnitt",
+      "gliederungstitel": "Aufbewahrung von Unterlagen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 212,
+    "doknr": "BJNR138450976BJNE020203119",
+    "enbez": "§ 110a",
+    "gliederung": null,
+    "titel": "Aufbewahrungspflicht",
+    "sha256_xml_text": "940fbaffcc3923b110729b33ff478a796803def5a43363115d918b87bbaea44e"
+  },
+  {
+    "index": 213,
+    "doknr": "BJNR138450976BJNE020302308",
+    "enbez": "§ 110b",
+    "gliederung": null,
+    "titel": "Rückgabe, Vernichtung und Archivierung von Unterlagen",
+    "sha256_xml_text": "d37f194f173e8676fb7835bc6a28ba2ee509b1f8e5964a3a35b7cacfa23be4c3"
+  },
+  {
+    "index": 214,
+    "doknr": "BJNR138450976BJNE020405119",
+    "enbez": "§ 110c",
+    "gliederung": null,
+    "titel": "Verwaltungsvereinbarungen, Verordnungsermächtigung",
+    "sha256_xml_text": "0fffb5ef87d5f6858c398e0a5efb083c323b880c2ab6c92cf4f926a9db41bf90"
+  },
+  {
+    "index": 215,
+    "doknr": "BJNR138450976BJNG002706119",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "100",
+      "gliederungsbez": "Zehnter Abschnitt",
+      "gliederungstitel": "Bußgeldvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 216,
+    "doknr": "BJNR138450976BJNE017036126",
+    "enbez": "§ 111",
+    "gliederung": null,
+    "titel": "Bußgeldvorschriften",
+    "sha256_xml_text": "9fadcb59b190b38e52cdf682c5d8bad326422a695a8fc99f6ceec312db9dd2d9"
+  },
+  {
+    "index": 217,
+    "doknr": "BJNR138450976BJNE017121126",
+    "enbez": "§ 112",
+    "gliederung": null,
+    "titel": "Allgemeines über Bußgeldvorschriften",
+    "sha256_xml_text": "5c0254bc12c6500ef6ce4252ca622d447d3e09cf1714b175f4519d95313f4ad5"
+  },
+  {
+    "index": 218,
+    "doknr": "BJNR138450976BJNE017207308",
+    "enbez": "§ 113",
+    "gliederung": null,
+    "titel": "Zusammenarbeit mit anderen Behörden",
+    "sha256_xml_text": "f01a1e86bbe0835d00053789134a32c7326fd08f4f43c1b306ec09fb71a3393a"
+  },
+  {
+    "index": 219,
+    "doknr": "BJNR138450976BJNG002907119",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "110",
+      "gliederungsbez": "Elfter Abschnitt",
+      "gliederungstitel": "Übergangsvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 220,
+    "doknr": "BJNR138450976BJNE018807311",
+    "enbez": "§ 114",
+    "gliederung": null,
+    "titel": "Einkommen beim Zusammentreffen mit Renten wegen Todes",
+    "sha256_xml_text": "e2ecbee747954172758b4b398416094055d01d20b9f1976ec8cc11fd3d3bc011"
+  },
+  {
+    "index": 221,
+    "doknr": "BJNR138450976BJNE018912126",
+    "enbez": "§ 115",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 222,
+    "doknr": "BJNR138450976BJNE022702126",
+    "enbez": "§ 116",
+    "gliederung": null,
+    "titel": "Übergangsregelungen für bestehende Wertguthaben",
+    "sha256_xml_text": "3e623a65c51b7066701fa6a8aa22a197ca49cefdbe12fbd1f6f8fca4b8d4905d"
+  },
+  {
+    "index": 223,
+    "doknr": "BJNR138450976BJNE024501126",
+    "enbez": "§ 116a",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 224,
+    "doknr": "BJNR138450976BJNE020707308",
+    "enbez": "§ 117",
+    "gliederung": null,
+    "titel": "Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner",
+    "sha256_xml_text": "2cf09a0e6b4fe2d1d301750f09a9326952bce27634dea9c8656d65e565220014"
+  },
+  {
+    "index": 225,
+    "doknr": "BJNR138450976BJNE020906301",
+    "enbez": "§ 118",
+    "gliederung": null,
+    "titel": "Übergangsregelung für Tätigkeiten als Notärztin oder Notarzt im Rettungsdienst",
+    "sha256_xml_text": "bff1c886f8e446d833fb3caa2833730915a670a79990ab256199bb5b40360367"
+  },
+  {
+    "index": 226,
+    "doknr": "BJNR138450976BJNE024702126",
+    "enbez": "§ 119",
+    "gliederung": null,
+    "titel": "Berücksichtigung von Versorgungskrankengeld",
+    "sha256_xml_text": "01d0301455f36640c5d74f5b10b7b35ec5fa99a9686d7a5ca289f6cc9f429174"
+  },
+  {
+    "index": 227,
+    "doknr": "BJNR138450976BJNE024204126",
+    "enbez": "§ 120",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 228,
+    "doknr": "BJNR138450976BJNE025800124",
+    "enbez": "§ 121",
+    "gliederung": null,
+    "titel": "Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen",
+    "sha256_xml_text": "80709d5d96d06d93232698bd6cf6325b57f386a1475871d173394459a10a22e6"
+  },
+  {
+    "index": 229,
+    "doknr": "BJNR138450976BJNE026101126",
+    "enbez": "§ 122",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 230,
+    "doknr": "BJNR138450976BJNE026801126",
+    "enbez": "§ 123",
+    "gliederung": null,
+    "titel": "Übergangsregelung",
+    "sha256_xml_text": "32523483fd8df9465906e04d78eff742c2b9f8c185fd38853682d82b9fdb642d"
+  },
+  {
+    "index": 231,
+    "doknr": "BJNR138450976BJNE027803126",
+    "enbez": "§ 124",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 232,
+    "doknr": "BJNR138450976BJNE026910126",
+    "enbez": "§ 125",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 233,
+    "doknr": "BJNR138450976BJNE027000124",
+    "enbez": "§ 126",
+    "gliederung": null,
+    "titel": "Verzicht auf die elektronisch unterstützte Prüfung bei den Arbeitgebern",
+    "sha256_xml_text": "64cf80d076468ecfc34b38c096221252dad5f3184661fa3237e095a9c3aaba09"
+  },
+  {
+    "index": 234,
+    "doknr": "BJNR138450976BJNE027103126",
+    "enbez": "§ 127",
+    "gliederung": null,
+    "titel": "Übergangsregelung für Lehrtätigkeiten",
+    "sha256_xml_text": "475058b0dcffe74684616c01d21567932e8fce051f5f1560d0adec82e895b860"
+  },
+  {
+    "index": 235,
+    "doknr": "BJNR138450976BJNE027900126",
+    "enbez": "§ 128",
+    "gliederung": null,
+    "titel": "Außerordentliche Hemmung der Verjährung",
+    "sha256_xml_text": "bf202120b38ac5f2778852ece1955535087a2b50146b795855f21ba8c58f9bcd"
+  },
+  {
+    "index": 236,
+    "doknr": "BJNR138450976BJNE028000126",
+    "enbez": "§ 129",
+    "gliederung": null,
+    "titel": "Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023",
+    "sha256_xml_text": "1ac87389c2ecff07cec521a8595d0a31c6f7397164d0fc86cbfc5d309f9c9114"
+  },
+  {
+    "index": 237,
+    "doknr": "BJNR138450976BJNE028103311",
+    "enbez": "§ 130",
+    "gliederung": null,
+    "titel": "Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Impfzentren",
+    "sha256_xml_text": "41ca86d5f05a18029e40f9f72b2c8e4056426f876d99969e47f6f52bbdcd2c51"
+  },
+  {
+    "index": 238,
+    "doknr": "BJNR138450976BJNE028200126",
+    "enbez": "§ 131",
+    "gliederung": null,
+    "titel": "Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Testzentren",
+    "sha256_xml_text": "2d488611f23f0d9142228bb6dc9767da2f382a5bd1aa8f9bab8b9bad6fe92757"
+  },
+  {
+    "index": 239,
+    "doknr": "BJNR138450976BJNE028301126",
+    "enbez": "§ 132",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 240,
+    "doknr": "BJNR138450976BJNE028700126",
+    "enbez": "§ 133",
+    "gliederung": null,
+    "titel": "Übergangsvorschrift zur Besetzung der hauptamtlichen Vorstände und Geschäftsführungen der Versicherungsträger",
+    "sha256_xml_text": "c4cfe8c8c8923b71d6ebf73080d76f885d9baf1ee5f7fef5e2425cd3e9604589"
+  },
+  {
+    "index": 241,
+    "doknr": "BJNR138450976BJNE028801126",
+    "enbez": "§ 134",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 242,
+    "doknr": "BJNR138450976BJNE029600126",
+    "enbez": "§ 135",
+    "gliederung": null,
+    "titel": "Bericht zur Einführung eines Betriebsstättenverzeichnisses",
+    "sha256_xml_text": "777c980f0531edc2f94dacd37fecc6b1edd73a753f0491fca1aace0906f40791"
+  },
+  {
+    "index": 243,
+    "doknr": "BJNR138450976BJNE888800301",
+    "enbez": "Anhang EV",
+    "gliederung": null,
+    "titel": "Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III\n\n(BGBl. II 1990, 889, 1046)\n\n- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -",
+    "sha256_xml_text": "1f7ee93590c027c419eb0474c53441d5e30d4100de50d3f42534f7ae52a11da0"
+  }
+]

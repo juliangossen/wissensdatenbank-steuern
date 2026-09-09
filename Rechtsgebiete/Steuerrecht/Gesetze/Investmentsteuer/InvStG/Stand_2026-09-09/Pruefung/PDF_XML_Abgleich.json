@@ -1,0 +1,615 @@
+{
+  "kuerzel": "InvStG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 404,
+      "xml_chars": 523,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "delete",
+          "xml": "s.7,41Abs.2,42Abs.1bis3,43Abs.2,43Abs.3,44,45Abs.1,47Abs.4,48Abs.2,48Abs.5,49,50Abs.2,50Abs.3,53Abs.3,53Abs.4,56,57+++)",
+          "pdf": "",
+          "before": "s.3,33Abs.2Satz5,34Abs.2,35Abs.7,38Abs.1,38Ab",
+          "after": "(+++ZurAnwendungvgl.§15KStG1977+++)DasGwurdea"
+        }
+      ],
+      "nach_layoutabgleich_identisch": false,
+      "layoutpruefung": [
+        {
+          "art": "In der amtlichen PDF auf Seite 1 am rechten Seitenrand abgeschnittene Fußnotenzeile",
+          "fehlender_xml_text_normalisiert": "s.7,41Abs.2,42Abs.1bis3,43Abs.2,43Abs.3,44,45Abs.1,47Abs.4,48Abs.2,48Abs.5,49,50Abs.2,50Abs.3,53Abs.3,53Abs.4,56,57+++)",
+          "zeichen": 119,
+          "amtliche_xml_vollstaendig_in_markdown": true,
+          "screenshot": "PDF_Seite_001.png",
+          "restlicher_text_identisch": true
+        }
+      ]
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 3216,
+      "xml_chars": 3216,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Kapitel 1Allgemeine Regelungen",
+      "pdf_chars": 28,
+      "xml_chars": 28,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_chars": 2374,
+      "xml_chars": 2374,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 2",
+      "pdf_chars": 9304,
+      "xml_chars": 9304,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3",
+      "pdf_chars": 1055,
+      "xml_chars": 1055,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 4",
+      "pdf_chars": 1285,
+      "xml_chars": 1285,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 5",
+      "pdf_chars": 394,
+      "xml_chars": 394,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 5a",
+      "pdf_chars": 485,
+      "xml_chars": 485,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "Kapitel 2Investmentfonds",
+      "pdf_chars": 76,
+      "xml_chars": 76,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "Abschnitt 1Besteuerung des Investmentfonds",
+      "pdf_chars": 92,
+      "xml_chars": 92,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 6",
+      "pdf_chars": 4996,
+      "xml_chars": 4996,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 7",
+      "pdf_chars": 2609,
+      "xml_chars": 2609,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 8",
+      "pdf_chars": 2582,
+      "xml_chars": 2582,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 9",
+      "pdf_chars": 1495,
+      "xml_chars": 1495,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 10",
+      "pdf_chars": 2024,
+      "xml_chars": 2024,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 11",
+      "pdf_chars": 1946,
+      "xml_chars": 1946,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 12",
+      "pdf_chars": 792,
+      "xml_chars": 792,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 13",
+      "pdf_chars": 1238,
+      "xml_chars": 1238,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 14",
+      "pdf_chars": 3204,
+      "xml_chars": 3204,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 15",
+      "pdf_chars": 1502,
+      "xml_chars": 1502,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "Abschnitt 2Besteuerung des Anlegers eines Investmentfonds",
+      "pdf_chars": 105,
+      "xml_chars": 105,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 16",
+      "pdf_chars": 1680,
+      "xml_chars": 1680,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 17",
+      "pdf_chars": 1192,
+      "xml_chars": 1192,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 18",
+      "pdf_chars": 1162,
+      "xml_chars": 1162,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 19",
+      "pdf_chars": 2179,
+      "xml_chars": 2179,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 20",
+      "pdf_chars": 3733,
+      "xml_chars": 3733,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 21",
+      "pdf_chars": 926,
+      "xml_chars": 926,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 22",
+      "pdf_chars": 2507,
+      "xml_chars": 2507,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "Abschnitt 3Verschmelzung von Investmentfonds",
+      "pdf_chars": 94,
+      "xml_chars": 94,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 23",
+      "pdf_chars": 1560,
+      "xml_chars": 1560,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "Abschnitt 4Verhältnis zu den Besteuerungsregelungen für Spezial-Investmentfonds",
+      "pdf_chars": 126,
+      "xml_chars": 126,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 24",
+      "pdf_chars": 252,
+      "xml_chars": 252,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "Kapitel 3Spezial-Investmentfonds",
+      "pdf_chars": 31,
+      "xml_chars": 31,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "Abschnitt 1Voraussetzungen und Besteuerung eines Spezial-Investmentfonds",
+      "pdf_chars": 67,
+      "xml_chars": 67,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 25",
+      "pdf_chars": 181,
+      "xml_chars": 181,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 26",
+      "pdf_chars": 5735,
+      "xml_chars": 5735,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 27",
+      "pdf_chars": 281,
+      "xml_chars": 281,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 28",
+      "pdf_chars": 990,
+      "xml_chars": 990,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 29",
+      "pdf_chars": 870,
+      "xml_chars": 870,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 30",
+      "pdf_chars": 2308,
+      "xml_chars": 2308,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§ 31",
+      "pdf_chars": 3750,
+      "xml_chars": 3750,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "§ 32",
+      "pdf_chars": 1026,
+      "xml_chars": 1026,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 33",
+      "pdf_chars": 2900,
+      "xml_chars": 2900,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "Abschnitt 2Besteuerung des Anlegers eines Spezial-Investmentfonds",
+      "pdf_chars": 60,
+      "xml_chars": 60,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 34",
+      "pdf_chars": 800,
+      "xml_chars": 800,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "§ 35",
+      "pdf_chars": 1840,
+      "xml_chars": 1840,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 36",
+      "pdf_chars": 3723,
+      "xml_chars": 3723,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 37",
+      "pdf_chars": 1282,
+      "xml_chars": 1282,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "§ 38",
+      "pdf_chars": 2345,
+      "xml_chars": 2345,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "§ 39",
+      "pdf_chars": 1241,
+      "xml_chars": 1241,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 40",
+      "pdf_chars": 2311,
+      "xml_chars": 2311,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "§ 41",
+      "pdf_chars": 456,
+      "xml_chars": 456,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 42",
+      "pdf_chars": 2634,
+      "xml_chars": 2634,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "§ 43",
+      "pdf_chars": 1603,
+      "xml_chars": 1603,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 44",
+      "pdf_chars": 348,
+      "xml_chars": 348,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§ 45",
+      "pdf_chars": 1368,
+      "xml_chars": 1368,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 46",
+      "pdf_chars": 745,
+      "xml_chars": 745,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "§ 47",
+      "pdf_chars": 2300,
+      "xml_chars": 2300,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "§ 48",
+      "pdf_chars": 4239,
+      "xml_chars": 4239,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 60,
+      "name": "§ 49",
+      "pdf_chars": 4998,
+      "xml_chars": 4998,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 61,
+      "name": "§ 50",
+      "pdf_chars": 778,
+      "xml_chars": 778,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 62,
+      "name": "§ 51",
+      "pdf_chars": 3349,
+      "xml_chars": 3349,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 63,
+      "name": "Abschnitt 3Wegfall der Voraussetzungen eines Spezial-Investmentfonds",
+      "pdf_chars": 63,
+      "xml_chars": 63,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 64,
+      "name": "§ 52",
+      "pdf_chars": 1186,
+      "xml_chars": 1186,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 65,
+      "name": "Kapitel 4Altersvorsorgevermögenfonds",
+      "pdf_chars": 35,
+      "xml_chars": 35,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 66,
+      "name": "§ 53",
+      "pdf_chars": 1403,
+      "xml_chars": 1403,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 67,
+      "name": "Kapitel 5Verschmelzung von Spezial-Investmentfonds und von Altersvorsorgevermögenfonds",
+      "pdf_chars": 80,
+      "xml_chars": 80,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 54",
+      "pdf_chars": 1167,
+      "xml_chars": 1167,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 69,
+      "name": "Kapitel 6Bußgeldvorschriften, Anwendungs- und Übergangsvorschriften",
+      "pdf_chars": 63,
+      "xml_chars": 63,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 70,
+      "name": "§ 55",
+      "pdf_chars": 763,
+      "xml_chars": 763,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 56",
+      "pdf_chars": 10512,
+      "xml_chars": 10512,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 72,
+      "name": "§ 57",
+      "pdf_chars": 5636,
+      "xml_chars": 5636,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 72,
+  "gesamt": 73,
+  "alle_normen_vollstaendig_gleich": false,
+  "pdf_sha256": "7571848ce2718b71de2b35ad7f580d0312cbeaa94306ce7324ed336c9b9af54e",
+  "xml_sha256": "26e468a75bf1be3ddd072f409ffc05a7b51828b0e55e270e1a199dca6d033900",
+  "abgleich_erfolgreich_mit_dokumentierter_ergaenzung": true
+}

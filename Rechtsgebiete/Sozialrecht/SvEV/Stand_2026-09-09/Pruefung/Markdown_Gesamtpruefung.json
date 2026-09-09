@@ -1,0 +1,53 @@
+{
+  "kuerzel": "SvEV",
+  "pruefdatum": "2026-09-09",
+  "methode": "Fertige Markdown-Datei unabhängig normweise an Überschriftsankern zerlegt; alle sichtbaren Texte aus dem gerenderten Markdown gegen sämtliche XML-Normen in derselben Reihenfolge verglichen. Nur redaktionelle Metadaten und markierte Ergänzungen, PDF-technischer (XXXX)-Präfix, NFC/Whitespace ausgenommen. Aus XML-Attributen stammende Fußnotenmarker werden zusätzlich auf vollständige Zahl und Kennzeichnung geprüft.",
+  "sha256_markdown": "e0944fff35c89e7f871f0fae57a509461c2c87f61bec2fc1a61b35a4c200ef60",
+  "normen_erwartet": 5,
+  "normen_vorhanden": 5,
+  "alle_normtexte_identisch": true,
+  "alle_fussnotenverweise_erhalten": true,
+  "fussnoten": [],
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR338510006",
+      "anzeige": "Dokumentkopf",
+      "identisch": true,
+      "zeichen": 318,
+      "sha256": "2f9609bb4e43128b4edbaef433a560b5ac7e60dea93f1490697b6cc1dd6895cf"
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR338510006BJNE000115126",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 4562,
+      "sha256": "15046075b82a142719e81baa4a390ca83cf64c36327727b699e847924bdf3427"
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR338510006BJNE000218126",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 3143,
+      "sha256": "4a4bb75933912c186640bc4d3540a07e1e25b2ea0d02af77a1c530bf8b8d1575"
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR338510006BJNE000301301",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 1740,
+      "sha256": "1ba1da5cb531c87a5efb903234128735a71ada4cd4021b5a00c9fc292477e7be"
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR338510006BJNE000401308",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 16,
+      "sha256": "293858c5f49fcb9d33f688d29b739339429311598cf12f3bea4829ec35ea6bd7"
+    }
+  ]
+}

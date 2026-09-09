@@ -1,0 +1,37 @@
+{
+  "kuerzel": "FGO",
+  "titel": "Finanzgerichtsordnung",
+  "rechtsgebiet": "Steuerrecht / Finanzgerichtsordnung",
+  "quelle_url": "https://www.gesetze-im-internet.de/fgo/",
+  "quelle_html": "https://www.gesetze-im-internet.de/fgo/BJNR014770965.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/fgo/FGO.pdf",
+  "lokale_pdf": "FGO.pdf",
+  "aktuelle_pdf": "FGO_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR014770965.xml",
+  "ausfertigungsdatum": "1965-10-06",
+  "stand": [
+    "Neugefasst durch Bek. v. 28.3.2001 I 442, 2262; 2002 I 679;",
+    "zuletzt geändert durch Art. 18 G v. 22.12.2025 I Nr. 349",
+    "Änderung durch Art. 10 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+    "Änderung durch Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197 ist berücksichtigt",
+    "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+  ],
+  "vollzitat": "\"Finanzgerichtsordnung in der Fassung der Bekanntmachung vom 28. März 2001 (BGBl. I S. 442, 2262; 2002 I S. 679), die zuletzt durch Artikel 12 Absatz 2 des Gesetzes vom 29. Juni 2026 (BGBl. 2026 I Nr. 197) geändert worden ist\"",
+  "pdf_seiten": 36,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260831215510",
+  "sha256_lokale_pdf": "704954a4478aff08c5adaf41cd36d17d267cb1401f8e205741238b7526bec3a3",
+  "sha256_aktuelle_pdf": "704954a4478aff08c5adaf41cd36d17d267cb1401f8e205741238b7526bec3a3",
+  "sha256_xml": "1f6af7b3b82581e5c91095aac06a354608962cde476fd81ade6363f9a0f00f1b",
+  "normenbestand": {
+    "normdatensaetze": 196,
+    "gliederungsteile": 22,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 173,
+    "anlagen": 0,
+    "tabellen": 0,
+    "tabellenzeilen": 0,
+    "tabellenzellen": 0,
+    "aufzaehlungskennzeichen": 124
+  }
+}

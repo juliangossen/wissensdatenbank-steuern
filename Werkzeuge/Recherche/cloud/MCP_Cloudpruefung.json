@@ -1,0 +1,250 @@
+{
+  "checked_at": "2026-09-09T20:47:11.978861+00:00",
+  "backend": "supabase",
+  "login": "kb_reader_login",
+  "remote_hosted": false,
+  "notice": "Technischer Test mit bekannten Ankerstellen; keine fachlich unabhängig geprüfte Rechtsberatung.",
+  "cases": [
+    {
+      "name": "Exakte Vorschrift",
+      "anchor_found_top8": true,
+      "elapsed_ms": 4560.8,
+      "results": [
+        {
+          "document": "UStG",
+          "reference": "§ 15"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.2b"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.21"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.1"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15a.1"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.2"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.6a"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15a.7"
+        }
+      ]
+    },
+    {
+      "name": "Gemischt genutzter Pkw",
+      "anchor_found_top8": true,
+      "elapsed_ms": 207.8,
+      "results": [
+        {
+          "document": "UStAE",
+          "reference": "15.23"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.2c"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.19"
+        },
+        {
+          "document": "UStAE",
+          "reference": "1.6"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15a.1"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15a.6"
+        },
+        {
+          "document": "UStAE",
+          "reference": "16.3"
+        },
+        {
+          "document": "UStAE",
+          "reference": "6a.1"
+        }
+      ]
+    },
+    {
+      "name": "Kleine Umsätze",
+      "anchor_found_top8": true,
+      "elapsed_ms": 192.2,
+      "results": [
+        {
+          "document": "UStAE",
+          "reference": "19.1"
+        },
+        {
+          "document": "UStG",
+          "reference": "§ 19"
+        },
+        {
+          "document": "UStAE",
+          "reference": "19.4"
+        },
+        {
+          "document": "UStAE",
+          "reference": "14.7a"
+        },
+        {
+          "document": "UStAE",
+          "reference": "19.3"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.14"
+        },
+        {
+          "document": "UStAE",
+          "reference": "9.2"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.1"
+        }
+      ]
+    },
+    {
+      "name": "Grundstücksbewertung",
+      "anchor_found_top8": true,
+      "elapsed_ms": 183.3,
+      "results": [
+        {
+          "document": "BewG",
+          "reference": "§ 184"
+        },
+        {
+          "document": "BewG",
+          "reference": "§ 252"
+        },
+        {
+          "document": "BewG",
+          "reference": "§ 182"
+        },
+        {
+          "document": "BewG",
+          "reference": "§ 157"
+        },
+        {
+          "document": "BewG",
+          "reference": "§ 250"
+        },
+        {
+          "document": "BewG",
+          "reference": "§ 258"
+        },
+        {
+          "document": "BewG",
+          "reference": "§ 185"
+        },
+        {
+          "document": "BewG",
+          "reference": "§ 193"
+        }
+      ]
+    },
+    {
+      "name": "Mehrteilige UStAE-Nummer",
+      "anchor_found_top8": true,
+      "elapsed_ms": 189.5,
+      "results": [
+        {
+          "document": "UStAE",
+          "reference": "4.12.10"
+        },
+        {
+          "document": "UStAE",
+          "reference": "4.12.1"
+        },
+        {
+          "document": "UStAE",
+          "reference": "24.3"
+        },
+        {
+          "document": "UStAE",
+          "reference": "3.10"
+        },
+        {
+          "document": "UStAE",
+          "reference": "4.12.11"
+        },
+        {
+          "document": "UStAE",
+          "reference": "1.5"
+        },
+        {
+          "document": "UStAE",
+          "reference": "4.12.2"
+        },
+        {
+          "document": "UStAE",
+          "reference": "3a.3"
+        }
+      ]
+    },
+    {
+      "name": "Rechnungsvoraussetzung",
+      "anchor_found_top8": true,
+      "elapsed_ms": 206.0,
+      "results": [
+        {
+          "document": "UStAE",
+          "reference": "15.2a"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.2"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.11"
+        },
+        {
+          "document": "UStAE",
+          "reference": "14b.1"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.10"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.3"
+        },
+        {
+          "document": "UStAE",
+          "reference": "15.12"
+        },
+        {
+          "document": "UStAE",
+          "reference": "18.13"
+        }
+      ]
+    }
+  ],
+  "release_id": "r-ad68e666980668e7ca4e6b81",
+  "mcp_tools": 5,
+  "mcp_full_text_hash": true,
+  "mcp_image": true,
+  "reference_aliases": true,
+  "missing_reference_error": true,
+  "known_anchors_found": 6
+}

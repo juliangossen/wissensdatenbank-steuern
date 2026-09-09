@@ -1,0 +1,21 @@
+{
+  "pruefung_erfolgreich": true,
+  "sha256_original_quelle": "08d3c8ad5bf40cb5b2b1bbbb32979e458b1c42eebf7eb3ce36d4105ee8173ef3",
+  "sha256_markdown": "484246cb0f327026232d89b57054b083700705eae84316cfb135c286610c56b2",
+  "quellzeilen_gesamt": 20085,
+  "quellzeilen_sachinhalt_nichtleer": 10924,
+  "quellbloecke": 10081,
+  "richtlinienbloecke": 302,
+  "hinweisbloecke": 344,
+  "paragraphengruppen": 118,
+  "historische_ueberschriften": 11,
+  "fussnoten": 507,
+  "anlagenpositionen": 6,
+  "nicht_belegte_anlagen": [
+    3,
+    5
+  ],
+  "ergaenzte_abbildungen": 24,
+  "umfang": "Alle nichtleeren Sachtextzeilen 33 bis 20085 genau einmal; vollständiger sichtbarer Textrückvergleich pro Quellblock.",
+  "einschraenkung": "Die kombinierte Webkopie ist keine aktuelle Neufassung der EStR und kein vollständiges EStH. Amtlicher Stand-/Strukturvergleich und gekennzeichnete Ergänzungen; kein vollständiger Wortidentitätsvergleich der gesamten Kopie mit BMF-Inhalten."
+}

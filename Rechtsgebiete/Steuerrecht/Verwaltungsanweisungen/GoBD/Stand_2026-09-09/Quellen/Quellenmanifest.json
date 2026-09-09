@@ -1,0 +1,103 @@
+{
+  "quellenabgleich": "2026-09-09",
+  "provided_sources": [
+    {
+      "file": "2019-11-28-GoBD.pdf",
+      "sha256": "edc2ab39de262929c9be0faa0e4c98021540ae5b640b04ec5b965125c6edd012",
+      "bytes": 360552
+    },
+    {
+      "file": "2024-03-11-aenderung-gobd.pdf",
+      "sha256": "25479639b2d67ffaec3cdf0cb39521fa91aeb98a0e1cb5bb1b82f86647fd4f85",
+      "bytes": 267648
+    },
+    {
+      "file": "2025-07-14-GoBD-2-aenderung.pdf",
+      "sha256": "142386fb87ac9c090cf6f678b612f7188a3850b410c53947da92fb3295a81e0b",
+      "bytes": 134757
+    }
+  ],
+  "official_downloads": [
+    {
+      "file": "2024-03-11-aenderung-gobd-bmf.pdf",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/AO-Anwendungserlass/2024-03-11-aenderung-gobd.pdf?__blob=publicationFile&v=4",
+      "status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "bytes": 267648,
+      "sha256": "25479639b2d67ffaec3cdf0cb39521fa91aeb98a0e1cb5bb1b82f86647fd4f85",
+      "quellenabgleich": "2026-09-09",
+      "archivdatei": "Amtlicher_Abruf/2024-03-11-aenderung-gobd-bmf.pdf"
+    },
+    {
+      "file": "GoBD-2019-BMF-AO-Handbuch-2023.html",
+      "url": "https://ao.bundesfinanzministerium.de/ao/2023/Anhaenge/BMF-Schreiben-und-gleichlautende-Laendererlasse/Anhang-64/inhalt.html",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 118431,
+      "sha256": "c2dc3769731e7ba6f34f273046432a6152ce5ce75edeaa4d7acacbe2e53deffb",
+      "quellenabgleich": "2026-09-09",
+      "archivdatei": "Amtlicher_Abruf/GoBD-2019-BMF-AO-Handbuch-2023.html"
+    },
+    {
+      "file": "GoBD-2025-BMF-Publikationsseite.html",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/2025-07-14-GoBD-2-aenderung.html",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "bytes": 179322,
+      "sha256": "752adc9989986c93ab5d0acedf967c981f2cf049ee57670f79ec88a353692c19",
+      "quellenabgleich": "2026-09-09",
+      "archivdatei": "Amtlicher_Abruf/GoBD-2025-BMF-Publikationsseite.html"
+    },
+    {
+      "file": "GoBD-2024-BMF-Publikationsseite.html",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/AO-Anwendungserlass/2024-03-11-aenderung-gobd.html",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "bytes": 179739,
+      "sha256": "dd85fd4e1b97e9af69cfd4cbe711b0598dbc2a6d44bf9cc689ac0bd5c40db096",
+      "quellenabgleich": "2026-09-09",
+      "archivdatei": "Amtlicher_Abruf/GoBD-2024-BMF-Publikationsseite.html"
+    },
+    {
+      "file": "2019-11-28-GoBD-bmf.pdf",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/AO-Anwendungserlass/2019-11-28-GoBD.pdf?__blob=publicationFile&v=3",
+      "status": 404,
+      "content_type": "text/html;charset=utf-8",
+      "bytes": 172344,
+      "sha256": "beec8966e9ba923c0264078d583ac8b70636b57ebca131282dd6f2106b0469a7",
+      "quellenabgleich": "2026-09-09",
+      "archivdatei": null
+    },
+    {
+      "file": "2025-07-14-GoBD-2-aenderung-bmf-v4.pdf",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/2025-07-14-GoBD-2-aenderung.pdf?__blob=publicationFile&v=4",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 134757,
+      "sha256": "142386fb87ac9c090cf6f678b612f7188a3850b410c53947da92fb3295a81e0b",
+      "quellenabgleich": "2026-09-09",
+      "archivdatei": "Amtlicher_Abruf/2025-07-14-GoBD-2-aenderung-bmf-v4.pdf"
+    },
+    {
+      "file": "AO-BMF-Uebersicht.html",
+      "url": "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerverwaltungu-Steuerrecht/Abgabeordnung/AO_Anwendungserlass_AEAO/ao_anwendungserlass_aeao.html",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 214599,
+      "sha256": "065737b67363a0572a4f21c7f55435ecfdc2b3e149eac69deed95fe34db388b5",
+      "quellenabgleich": "2026-09-09",
+      "archivdatei": "Amtlicher_Abruf/AO-BMF-Uebersicht.html"
+    }
+  ],
+  "latest_gobd_amendment_found": "2025-07-14",
+  "later_gobd_amendment_found": false,
+  "search_queries": [
+    "site:bundesfinanzministerium.de GoBD 2026 2025 Änderung 14 Juli",
+    "site:bundesfinanzministerium.de \"GoBD\" \"3. Änderung\"",
+    "site:bundesfinanzministerium.de \"GoBD\" \"2026\" \"September\""
+  ],
+  "limitations": [
+    "Recherchebefund zum Abrufdatum, keine Garantie für eine erschöpfende Negativsuche.",
+    "Keine aktuelle amtliche PDF des Grundschreibens 2019 über die getesteten URLs erhalten (HTTP 404). Amtliche HTML-Wiedergabe im AO-Handbuch 2023 archiviert; Markdown beruht auf der bereitgestellten vollständigen PDF."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-09-09T20:48:10.610987+00:00",
+  "project_ref": "vtriyndfmuwzqwrkpkde",
+  "release_id": "r-ad68e666980668e7ca4e6b81",
+  "manifest_sha256": "843ade180f3891d4062d848d469b316c843be899914459ac5e107a5fcd2e6d7f",
+  "mode": "apply",
+  "committed": true,
+  "compared_rows": {
+    "releases": 1,
+    "documents": 3,
+    "provisions": 733,
+    "search_chunks": 3226,
+    "assets": 61
+  },
+  "checks": {
+    "access_checks": [
+      "anon:direct_tables_denied",
+      "authenticated:direct_tables_denied",
+      "kb_mcp:direct_tables_denied",
+      "anon:functions_denied",
+      "authenticated:functions_denied",
+      "reader_activation_denied",
+      "importer_update_denied",
+      "sealed_content_guard",
+      "mcp_version_list",
+      "mcp_full_metadata_and_hashes",
+      "mcp_reference_aliases"
+    ],
+    "full_provisions": 733,
+    "text_pages": 832,
+    "verified_assets": 61,
+    "lexical_documents": 3
+  },
+  "asset_bytes": 25216644,
+  "asset_storage": "private_postgres_bytea",
+  "remote_mcp_deployed": false
+}

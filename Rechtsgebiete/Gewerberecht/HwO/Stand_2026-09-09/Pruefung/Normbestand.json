@@ -1,0 +1,3984 @@
+{
+  "kuerzel": "HwO",
+  "quellenabgleich": "2026-09-09",
+  "normdatensaetze": 224,
+  "bestand_nach_typ": {
+    "Anlage/Anhang": 6,
+    "Dokumentkopf": 1,
+    "Gliederung": 26,
+    "Sonstiger Text": 1,
+    "Vorschrift": 190
+  },
+  "tabellen": 9,
+  "tabellenzeilen": 231,
+  "tabellenzellen": 510,
+  "gliederungsmarken_dt": 516,
+  "fussnotenverweise": 0,
+  "eingebettete_fussnoten": 0,
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR014110953",
+      "typ": "Dokumentkopf",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 2536,
+          "sha256_text": "bf5d5955e64ec0ab686359a2070d773f52fc6b95275a561cd5acad7f259971ca"
+        }
+      }
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR014110953BJNE002714119",
+      "typ": "Sonstiger Text",
+      "bezeichnung_original": "Inhaltsübersicht",
+      "bezeichnung_anzeige": "Inhaltsübersicht",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2852,
+          "sha256_text": "afe2121b2b9eed1a68f404b1f84ff9a984c170f26d114067164fc5b3935b4f2b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR014110953BJNG000102377",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "010Erster TeilAusübung eines Handwerks und eines handwerksähnlichen Gewerbes",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR014110953BJNG000202377",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "010010Erster AbschnittBerechtigung zum selbständigen Betrieb eines zulassungspflichtigen Handwerks",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR014110953BJNE002809123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 1",
+      "bezeichnung_anzeige": "§ 1",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1457,
+          "sha256_text": "5e1c424c9e89c0ce1774e989d10d2daaa4feb9415953f6a5852146109a21762a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 50,
+          "sha256_text": "c75fec6042ac0f6308ad6c2cfc3409c911296a35303572d44fbfdb3dc66a20cc"
+        }
+      }
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR014110953BJNE002902377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 2",
+      "bezeichnung_anzeige": "§ 2",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 645,
+          "sha256_text": "26af4094e0a7f1eda9b9602892a022144a2e2d9f36572164f5743689281781af"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR014110953BJNE003003377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 3",
+      "bezeichnung_anzeige": "§ 3",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1211,
+          "sha256_text": "2295a80fc154b13e0bc04199ddef48eef60edfbbcddf6402052755288d649037"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR014110953BJNE003104377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 4",
+      "bezeichnung_anzeige": "§ 4",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 723,
+          "sha256_text": "90e19687ac519da5b145e1d5c83a352ee579f6e7629702e77fb50bb13d19e66f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR014110953BJNE003203377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 5",
+      "bezeichnung_anzeige": "§ 5",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 204,
+          "sha256_text": "e115254bc99ae9c1de01923aaa5b6af5f365a3c2fbbf7df5f77046d3fda6e0c4"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR014110953BJNE017006123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 5a",
+      "bezeichnung_anzeige": "§ 5a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 785,
+          "sha256_text": "717c68e10695f27dbbf73f6b7c845bad72aeff048c5c7831223cde42cb8ded75"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR014110953BJNE020700377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 5b",
+      "bezeichnung_anzeige": "§ 5b",
+      "titel": "Verfahren über eine einheitliche Stelle",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 147,
+          "sha256_text": "a5a6c37b2f26183670f11e856ef795c92936d5fa946cc3234ea5bc812227156f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR014110953BJNG000301308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "010020Zweiter AbschnittHandwerksrolle",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR014110953BJNE003307116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 6",
+      "bezeichnung_anzeige": "§ 6",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2601,
+          "sha256_text": "f9e30a34241cd55ae34207e7d3768371d30e62df4f26e7994a48710a5c3895c9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 48,
+          "sha256_text": "1ec24a6612a58720ba35d0a225889312bb10f1eb7816ad2b4d927b90eeda5d0e"
+        }
+      }
+    },
+    {
+      "xml_index": 13,
+      "doknr": "BJNR014110953BJNE003412123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 7",
+      "bezeichnung_anzeige": "§ 7",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3629,
+          "sha256_text": "b7f0631cde643ee7459f163c4d2aebd3b2462a212d64018c397fc7271969a285"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 14,
+      "doknr": "BJNR014110953BJNE017102308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 7a",
+      "bezeichnung_anzeige": "§ 7a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 320,
+          "sha256_text": "ec89e4dac001adbd7b027bd1eaebc7495a1164c085e8aa757bd14fc14477ed29"
+        }
+      }
+    },
+    {
+      "xml_index": 15,
+      "doknr": "BJNR014110953BJNE018001360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 7b",
+      "bezeichnung_anzeige": "§ 7b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1706,
+          "sha256_text": "45f3193696e053b99893615114a5c256d5242dcedabff2054ff48da2ded22a3f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 16,
+      "doknr": "BJNR014110953BJNE003505377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 8",
+      "bezeichnung_anzeige": "§ 8",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1647,
+          "sha256_text": "36ef6e9a01b5141c6cf9b229bd368bc29c233b485491b345368993ca8990ca64"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 55,
+          "sha256_text": "08dcd4f7f1f041dff7a4b110b6f8b478a0af48f4ba10c5508778d2e3553d7b8c"
+        }
+      }
+    },
+    {
+      "xml_index": 17,
+      "doknr": "BJNR014110953BJNE003612123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 9",
+      "bezeichnung_anzeige": "§ 9",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1952,
+          "sha256_text": "87561947ba426539e61472996e7ae2cd15080833e77b51082591fbec733c8e73"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 18,
+      "doknr": "BJNR014110953BJNE003705377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 10",
+      "bezeichnung_anzeige": "§ 10",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1147,
+          "sha256_text": "da6c6f28052d6ddc3d4880fe77d682a0e536f07119d8152de524eda326f638b8"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 19,
+      "doknr": "BJNR014110953BJNE003802308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 11",
+      "bezeichnung_anzeige": "§ 11",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 243,
+          "sha256_text": "b2726c1f89d492b498207bcb0a791ac264e852591dff06a482e045b69f75b022"
+        }
+      }
+    },
+    {
+      "xml_index": 20,
+      "doknr": "BJNR014110953BJNE003901308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 12",
+      "bezeichnung_anzeige": "§ 12",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 210,
+          "sha256_text": "a5d69efe5942381657bf50a0e939e8032808991147e3bb7ca9784db41b520bd5"
+        }
+      }
+    },
+    {
+      "xml_index": 21,
+      "doknr": "BJNR014110953BJNE004003116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 13",
+      "bezeichnung_anzeige": "§ 13",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 855,
+          "sha256_text": "e7ffd6b7419ad09e177a23f23c163083102d8f5fe6a86ead4d5ebfd17b8ba4f7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 22,
+      "doknr": "BJNR014110953BJNE004102377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 14",
+      "bezeichnung_anzeige": "§ 14",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 403,
+          "sha256_text": "f2c0d71bc52aec839f7db88dd774f3c6fef9eb4b23bbca0ae1cd32be0410d4cf"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 23,
+      "doknr": "BJNR014110953BJNE004201308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 15",
+      "bezeichnung_anzeige": "§ 15",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 312,
+          "sha256_text": "26da13f04bef783904be9e79f8b5af4a1090f181eb6fe2824dc393bac51b27ab"
+        }
+      }
+    },
+    {
+      "xml_index": 24,
+      "doknr": "BJNR014110953BJNE004306123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 16",
+      "bezeichnung_anzeige": "§ 16",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3381,
+          "sha256_text": "5e113ad58f2748071fe7bdfa1a1ae32ca4fed8c36fcc043395174d66e713200b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 25,
+      "doknr": "BJNR014110953BJNE004406118",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 17",
+      "bezeichnung_anzeige": "§ 17",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1968,
+          "sha256_text": "bc9244d07ea1e66347e44298e9769c50b26de55f27cea098fea8b5950b3d9f0d"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 37,
+          "sha256_text": "a9954adb62b22f2eef675b3a5996c9b876492efc2f891858a5a9949c6bc53e2c"
+        }
+      }
+    },
+    {
+      "xml_index": 26,
+      "doknr": "BJNR014110953BJNG000402377",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "010030Dritter AbschnittZulassungsfreie Handwerke und handwerksähnliche Gewerbe",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 27,
+      "doknr": "BJNR014110953BJNE004508128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 18",
+      "bezeichnung_anzeige": "§ 18",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1105,
+          "sha256_text": "7e695ba2aea46ce11648f79878cc46bf6ebabb930e963f815d6d2b96d204465e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 28,
+      "doknr": "BJNR014110953BJNE004603377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 19",
+      "bezeichnung_anzeige": "§ 19",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 310,
+          "sha256_text": "d0e3e72f5275dea5cd6d68b9ced35a61d84206b16929554861a8b27cc06c6cd2"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 29,
+      "doknr": "BJNR014110953BJNE004704377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 20",
+      "bezeichnung_anzeige": "§ 20",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 352,
+          "sha256_text": "25aa8b8307c24c13450140fec78f401eac95cdbc7a92af0b255a320fc6f27461"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 30,
+      "doknr": "BJNR014110953BJNG000501308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020Zweiter TeilBerufsbildung im Handwerk",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 31,
+      "doknr": "BJNR014110953BJNG000601308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020010Erster AbschnittBerechtigung zum Einstellen und Ausbilden",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 32,
+      "doknr": "BJNR014110953BJNE004804377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 21",
+      "bezeichnung_anzeige": "§ 21",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 585,
+          "sha256_text": "f874f3eb2a482a3f8c28d2786272045304fbef07b241dd2853d8cc899ff70653"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 33,
+      "doknr": "BJNR014110953BJNE005004119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 22",
+      "bezeichnung_anzeige": "§ 22",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1557,
+          "sha256_text": "3efdc83f0cf370e3672e556a93b1b47685f3cb1d05b4b0ab4a88829f8792fb81"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 34,
+      "doknr": "BJNR014110953BJNE018500377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 22a",
+      "bezeichnung_anzeige": "§ 22a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 207,
+          "sha256_text": "0a02aaa6b2e6c6097ea458c811374c5bc01da2665640e62a567e118c338c5912"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 35,
+      "doknr": "BJNR014110953BJNE018607119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 22b",
+      "bezeichnung_anzeige": "§ 22b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2980,
+          "sha256_text": "a195b084dd135819a3a9e1ed2ab51d446c2a3875e662218dacbdbabe203991b5"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 65,
+          "sha256_text": "53b6603a62010b61984cc23b1eb880ff1a4e1f8e82296b426fa2bd721816f6a8"
+        }
+      }
+    },
+    {
+      "xml_index": 36,
+      "doknr": "BJNR014110953BJNE020601128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 22c",
+      "bezeichnung_anzeige": "§ 22c",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 679,
+          "sha256_text": "605eaf9530731567c6d304a224333e3338fc77584224e1bba3bf95d55e1c613c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 37,
+      "doknr": "BJNR014110953BJNE018101377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 23",
+      "bezeichnung_anzeige": "§ 23",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 583,
+          "sha256_text": "1d0969b1452e7125d8e684895ac5302c9ef21c14fc657b8fc794220504ad4a20"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 38,
+      "doknr": "BJNR014110953BJNE005203377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 24",
+      "bezeichnung_anzeige": "§ 24",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 415,
+          "sha256_text": "a4d4e8d97f7a1c42229ba5e852c27da1fbd805d6cbcb041083a61d28e2e8b2ec"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 39,
+      "doknr": "BJNR014110953BJNG000701308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020020Zweiter AbschnittAusbildungsordnung, Änderung der Ausbildungszeit",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 40,
+      "doknr": "BJNR014110953BJNE005311123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 25",
+      "bezeichnung_anzeige": "§ 25",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1324,
+          "sha256_text": "c28788b988fbbb6cc858d4ea980635924cbad69f6656ae021627bcc36f48255f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 41,
+      "doknr": "BJNR014110953BJNE005406119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 26",
+      "bezeichnung_anzeige": "§ 26",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2333,
+          "sha256_text": "f818ae516adf56de13bbfe406359b8d7a1bd50fbabf2140720f23fc5528da90a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 49,
+          "sha256_text": "b6daefad039a342ab5190428b14d319b9258da90115a91624d68182e5f4ae13d"
+        }
+      }
+    },
+    {
+      "xml_index": 42,
+      "doknr": "BJNR014110953BJNE005610123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 27",
+      "bezeichnung_anzeige": "§ 27",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 429,
+          "sha256_text": "27a6c312a95dfa224ada480417353cd6a65ae857434fd1fbed582745b1c25207"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 43,
+      "doknr": "BJNR014110953BJNE005708116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 27a",
+      "bezeichnung_anzeige": "§ 27a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 864,
+          "sha256_text": "9c13daf1e7f991e9f8903f0c58e0f10fa02b1a76dd9210c744c581de2a07b408"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 44,
+      "doknr": "BJNR014110953BJNE018702119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 27b",
+      "bezeichnung_anzeige": "§ 27b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1021,
+          "sha256_text": "745252ac728c8f97e1bae6838e99b7bbceabe0f6c185bf2dbd700bff6bb1372f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 45,
+      "doknr": "BJNR014110953BJNE021101119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 27c",
+      "bezeichnung_anzeige": "§ 27c",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 988,
+          "sha256_text": "69e627ee3a96a56b190630ee171bce4d114b179761d6e216305950938311eb40"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 46,
+      "doknr": "BJNR014110953BJNE005810123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 27d",
+      "bezeichnung_anzeige": "§ 27d",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 386,
+          "sha256_text": "74172b59af02d568529d0fdf23f029353db7abdcf410e943d43462dcfee14c57"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 47,
+      "doknr": "BJNR014110953BJNG000801308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020030Dritter AbschnittVerzeichnis der Berufsausbildungsverhältnisse",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 48,
+      "doknr": "BJNR014110953BJNE005907119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 28",
+      "bezeichnung_anzeige": "§ 28",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3626,
+          "sha256_text": "99e0324c33b6db0bfc7ff5115151ed67d4491dd92e9c461208742acb1dfd0782"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 49,
+      "doknr": "BJNR014110953BJNE006003377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 29",
+      "bezeichnung_anzeige": "§ 29",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 879,
+          "sha256_text": "f7350046d9f708bc759ec49e132c51d813f0e42e004385ee2356209916e591f3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 50,
+      "doknr": "BJNR014110953BJNE006104119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 30",
+      "bezeichnung_anzeige": "§ 30",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 633,
+          "sha256_text": "346b478921a77a1b1411b794033de333fb06322f497dcf909929886b305e60a3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 51,
+      "doknr": "BJNR014110953BJNG000901308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020040Vierter AbschnittPrüfungswesen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 52,
+      "doknr": "BJNR014110953BJNE006206119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 31",
+      "bezeichnung_anzeige": "§ 31",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1411,
+          "sha256_text": "8e73357887f855404fdfaad8401ae68957d6835782dc8b9dda1b181c4f27fe02"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 50,
+          "sha256_text": "0935fd8bde6b03145ac5e0e87534aecae5d68c6febf6ab46d7a967ba7a715033"
+        }
+      }
+    },
+    {
+      "xml_index": 53,
+      "doknr": "BJNR014110953BJNE006302377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 32",
+      "bezeichnung_anzeige": "§ 32",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 425,
+          "sha256_text": "f2b84bf2cb002397b9ec500798036edaaf8bd36f4b58b68bece89a49176a9a62"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 54,
+      "doknr": "BJNR014110953BJNE006403116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 33",
+      "bezeichnung_anzeige": "§ 33",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1015,
+          "sha256_text": "89b037775e969c690385607eeec7d45c70f6bc97c5db6e907a7fae0e6ece8ae8"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 55,
+      "doknr": "BJNR014110953BJNE006506123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 34",
+      "bezeichnung_anzeige": "§ 34",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4674,
+          "sha256_text": "958785f582c44265507f9e045867c8e9e4cf6cd52da86e13ce885acd205bb75d"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 263,
+          "sha256_text": "db0f09262ffe2dca30ebc7a938edc3907abb2f524a84c5e43ce8cd9241a9bc73"
+        }
+      }
+    },
+    {
+      "xml_index": 56,
+      "doknr": "BJNR014110953BJNE006601308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 35",
+      "bezeichnung_anzeige": "§ 35",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 359,
+          "sha256_text": "059284bb0930a41bbd7ff21cf27f8996d4bb6ebd47e6ca4d5526c688c4967a4f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 42,
+          "sha256_text": "e2f726e139babb688d17ece9ed0093772be349a70bd6f9d82ffd8377356e055a"
+        }
+      }
+    },
+    {
+      "xml_index": 57,
+      "doknr": "BJNR014110953BJNE018803119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 35a",
+      "bezeichnung_anzeige": "§ 35a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2708,
+          "sha256_text": "53eb40722f84af44ef90bbc9222585ed668293223787cd49d2ba651b81ac15ed"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 58,
+      "doknr": "BJNR014110953BJNE022600119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 35b",
+      "bezeichnung_anzeige": "§ 35b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2014,
+          "sha256_text": "3066d4c8b276a4678627fafcc79659abc66a255b6c0e57894d01d03dd169c2b6"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 59,
+      "doknr": "BJNR014110953BJNE006706119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 36",
+      "bezeichnung_anzeige": "§ 36",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1131,
+          "sha256_text": "b4237565e27e911eba16a6b88d030a15c9bdc04b78b4b76fecbc6a33a6cb9962"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 49,
+          "sha256_text": "ddbeab6fc6491396c3c66ec90f3f76d9c95c59f6af399fd82a8688f7acec4274"
+        }
+      }
+    },
+    {
+      "xml_index": 60,
+      "doknr": "BJNR014110953BJNE018902119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 36a",
+      "bezeichnung_anzeige": "§ 36a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 756,
+          "sha256_text": "400b810e2f9c2d03ae7bb2a5c5e810268fd6c49571896abfa95aa74500491d7a"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 61,
+      "doknr": "BJNR014110953BJNE006808119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 37",
+      "bezeichnung_anzeige": "§ 37",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1395,
+          "sha256_text": "c2ce58dcb6e6b208b9395d233d069c199af9cd7fe11283361e0c20d9803bd67e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 120,
+          "sha256_text": "94311771f581643f16008e8fa31e80a182fed4fa7287a460e9bd2a3ffd721111"
+        }
+      }
+    },
+    {
+      "xml_index": 62,
+      "doknr": "BJNR014110953BJNE019000377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 37a",
+      "bezeichnung_anzeige": "§ 37a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 291,
+          "sha256_text": "110374afe13e9561221553dc301a7e85c4a25c30eabda5be0b37af12290cd9c8"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 63,
+      "doknr": "BJNR014110953BJNE006903377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 38",
+      "bezeichnung_anzeige": "§ 38",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 697,
+          "sha256_text": "814ae7574cf417fdb1a53d8187b5152ce3e488d40c28281c9a98910f7beeb18f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 45,
+          "sha256_text": "6c3d50676fc7b8ab403e5b093cf62d98977b2ea4059654fd015ce233871a2bba"
+        }
+      }
+    },
+    {
+      "xml_index": 64,
+      "doknr": "BJNR014110953BJNE007003116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 39",
+      "bezeichnung_anzeige": "§ 39",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 650,
+          "sha256_text": "24847aa8299dc1904beacb49900799d42e1fbb5fb87ceaef192528802e615bfa"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 65,
+      "doknr": "BJNR014110953BJNE019101119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 39a",
+      "bezeichnung_anzeige": "§ 39a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 227,
+          "sha256_text": "82e26107fc337ad4a3b49f43c197f9868fe0bb1d1ff38f6481dddef23b519d05"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 66,
+      "doknr": "BJNR014110953BJNE007110123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 40",
+      "bezeichnung_anzeige": "§ 40",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 871,
+          "sha256_text": "17c64ac66570b9be32e731d79b7ead32bf1b6902e6a716f6c640fa7af9adb55b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 67,
+      "doknr": "BJNR014110953BJNE020801123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 40a",
+      "bezeichnung_anzeige": "§ 40a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 304,
+          "sha256_text": "4a30e2f861a167173c1bc17a33bd29224e93debbce15c94b2a0d5b4474c3dc29"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 68,
+      "doknr": "BJNR014110953BJNG001001308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020050Fünfter AbschnittRegelung und Überwachung der Berufsausbildung",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 69,
+      "doknr": "BJNR014110953BJNE007201308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 41",
+      "bezeichnung_anzeige": "§ 41",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 126,
+          "sha256_text": "85eae1ba3e1d83816724d67696eb133caa6d83a3eabe4626bc61675af6f14f75"
+        }
+      }
+    },
+    {
+      "xml_index": 70,
+      "doknr": "BJNR014110953BJNE007305119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 41a",
+      "bezeichnung_anzeige": "§ 41a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1077,
+          "sha256_text": "5305a35f537e00efa18ea4c500da3ac544516fb5e67e2ad12131bf540e10eb27"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 71,
+      "doknr": "BJNR014110953BJNG002800119",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020060Sechster AbschnittFeststellung und Bescheinigung der individuellen beruflichen Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 72,
+      "doknr": "BJNR014110953BJNE022700119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 41b",
+      "bezeichnung_anzeige": "§ 41b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2913,
+          "sha256_text": "afe5a4f575cb4815242c80a67af159b855031bf4dfbfeb21032cfdb2e3dcb94d"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 104,
+          "sha256_text": "85d7c8b3753617563425bbd1271c0bf101bf03ca682e8c34d46786256c90ba38"
+        }
+      }
+    },
+    {
+      "xml_index": 73,
+      "doknr": "BJNR014110953BJNE022800119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 41c",
+      "bezeichnung_anzeige": "§ 41c",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3550,
+          "sha256_text": "5619cea5a9643df05002d9aaabbf19278270ab1a1e2c835eab4c0a27fb39e1bf"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 119,
+          "sha256_text": "e38c00ce803d8a4b2dea80c4269a24a8e00318605083f24c054628a119c22328"
+        }
+      }
+    },
+    {
+      "xml_index": 74,
+      "doknr": "BJNR014110953BJNE022900119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 41d",
+      "bezeichnung_anzeige": "§ 41d",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2362,
+          "sha256_text": "3fd4c752cb93b0143228ba937922d12b77a98fe30d9fbe622adb0032da8dd466"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 60,
+          "sha256_text": "c9acdf581ca4b7c834e8f9e8792668d219e0f7b3b0af3c356428ae960ca47a71"
+        }
+      }
+    },
+    {
+      "xml_index": 75,
+      "doknr": "BJNR014110953BJNE023000119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 41e",
+      "bezeichnung_anzeige": "§ 41e",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 875,
+          "sha256_text": "bf5408b898c8b9132a2dc9f5f3306e55b4a0ab6bc424186694de19e0d502a7ed"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 76,
+      "doknr": "BJNR014110953BJNG001102119",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020070Siebenter AbschnittBerufliche Fortbildung, berufliche Umschulung",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 77,
+      "doknr": "BJNR014110953BJNE007410123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42",
+      "bezeichnung_anzeige": "§ 42",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 651,
+          "sha256_text": "8822d09b207dfae291e0e3312f197989079af28ef106027256154d8f3b4bdb6f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 78,
+      "doknr": "BJNR014110953BJNE007507116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42a",
+      "bezeichnung_anzeige": "§ 42a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 414,
+          "sha256_text": "e448868e7de356330a227934370fba52a77da4805a1a4698c497d0bb1302b55d"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 79,
+      "doknr": "BJNR014110953BJNE007606119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42b",
+      "bezeichnung_anzeige": "§ 42b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1553,
+          "sha256_text": "de605fac9e8774e31dc6795f784e7a1b9d132096c33e15871209d59497a66085"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 65,
+          "sha256_text": "2c06afae49714e2f06ca367743c69da45527f1b23acad57af0e5a8291449a1ed"
+        }
+      }
+    },
+    {
+      "xml_index": 80,
+      "doknr": "BJNR014110953BJNE017806119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42c",
+      "bezeichnung_anzeige": "§ 42c",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1540,
+          "sha256_text": "399a386884e31846e0986b20ef6dead761cb52fe63ecc017563620f28d1c0234"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 65,
+          "sha256_text": "d319802cf1bc1236b9d1276b6f56c46cf4926d3954ca2c75673d4e57b30b7a25"
+        }
+      }
+    },
+    {
+      "xml_index": 81,
+      "doknr": "BJNR014110953BJNE017907116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42d",
+      "bezeichnung_anzeige": "§ 42d",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1424,
+          "sha256_text": "889f4f5420b9ec045f16c5b712f161933f7f55bc47944f3eb4444325ff396e79"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 82,
+      "doknr": "BJNR014110953BJNE021201123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42e",
+      "bezeichnung_anzeige": "§ 42e",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 598,
+          "sha256_text": "a66169dadb7099978b5734faafb001de1b0deb4f2f65fc83477e77d328a52d3e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 83,
+      "doknr": "BJNR014110953BJNE021301119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42f",
+      "bezeichnung_anzeige": "§ 42f",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1721,
+          "sha256_text": "b8c92f2aa94ec72d236f530c383ce7b6b5aa68dda5d3ecf3c05edcbf15aeced9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 84,
+      "doknr": "BJNR014110953BJNE021400116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42g",
+      "bezeichnung_anzeige": "§ 42g",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 234,
+          "sha256_text": "3f058017090e52330816514da10788e02032fe0bfb06ade06140e0e701d42905"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 85,
+      "doknr": "BJNR014110953BJNE021501119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42h",
+      "bezeichnung_anzeige": "§ 42h",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 631,
+          "sha256_text": "c20135efb9e0a14324e1b373350e5c78711ac9e7c53eac1ea03ba3eac5912c7b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 86,
+      "doknr": "BJNR014110953BJNE021601123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42i",
+      "bezeichnung_anzeige": "§ 42i",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 501,
+          "sha256_text": "bb2d4e9cc25c445dd17861f5f2f60c7fca874b3209da3f801286bb782e892d33"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 87,
+      "doknr": "BJNR014110953BJNE007708123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42j",
+      "bezeichnung_anzeige": "§ 42j",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 612,
+          "sha256_text": "c9911cbdae42b41b4d83469d722196a954ee0271bd383b742008e34bb07f0cdd"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 88,
+      "doknr": "BJNR014110953BJNE019201116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42k",
+      "bezeichnung_anzeige": "§ 42k",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 345,
+          "sha256_text": "f792f123db48ae6da0e96dddd7fe01085f90ff30ec56a9826b27a8b6fc7b7214"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 89,
+      "doknr": "BJNR014110953BJNE019302119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42l",
+      "bezeichnung_anzeige": "§ 42l",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 368,
+          "sha256_text": "351c05d26f0871bcab3f41079c3e1eda24811e81e6f2c4ccacccb50a95e9447f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 90,
+      "doknr": "BJNR014110953BJNE019401116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42m",
+      "bezeichnung_anzeige": "§ 42m",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 195,
+          "sha256_text": "62a3197f815c8f8686b9ccea7b6a99afe1c2fe052d4fa326fd23ef262fd6a4fb"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 91,
+      "doknr": "BJNR014110953BJNE019502119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42n",
+      "bezeichnung_anzeige": "§ 42n",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1012,
+          "sha256_text": "8817fd5e6e61c28606930876dab2a095397cbfd68b5a97793bb79f17a8652289"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 92,
+      "doknr": "BJNR014110953BJNE019604123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42o",
+      "bezeichnung_anzeige": "§ 42o",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 486,
+          "sha256_text": "7ec5f1ada3fbe1484d5d3199ad659359f61b2c155952422c1a879b11888003bb"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 93,
+      "doknr": "BJNR014110953BJNG001206119",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020080Achter AbschnittBerufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 94,
+      "doknr": "BJNR014110953BJNE019701116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42p",
+      "bezeichnung_anzeige": "§ 42p",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 119,
+          "sha256_text": "ad9517d239ab83e8881f176961d40359f0e1a73691f0f4bd5dcd0198b27a8f73"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 95,
+      "doknr": "BJNR014110953BJNE019801116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42q",
+      "bezeichnung_anzeige": "§ 42q",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 520,
+          "sha256_text": "7cd25e3d18e4c81a9bcac30eb82a8b4afe9f6deb9c810d5739e4a8d0a55f7125"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 96,
+      "doknr": "BJNR014110953BJNE019901116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42r",
+      "bezeichnung_anzeige": "§ 42r",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 613,
+          "sha256_text": "edcd5022dfd918e2fd5cf8aa8edaa3ad26203ae1aee9003d10d3ffe0d53831ac"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 97,
+      "doknr": "BJNR014110953BJNE020001116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42s",
+      "bezeichnung_anzeige": "§ 42s",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 152,
+          "sha256_text": "d7d43d4a04673064fc63e78fb207bdb6fb95c7ee349a4dce8d7f5d33b9101fd7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 98,
+      "doknr": "BJNR014110953BJNE020101116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42t",
+      "bezeichnung_anzeige": "§ 42t",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 612,
+          "sha256_text": "b1dfb7c47791490f000f87a69069cf5d44ee1cea5d6b803a612f927b06f51100"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 99,
+      "doknr": "BJNR014110953BJNE020204123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42u",
+      "bezeichnung_anzeige": "§ 42u",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 690,
+          "sha256_text": "6e4639c8463a5a009a5d8f30beec8a92b043fcfde24aa532fb3e90fb11cf2b51"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 100,
+      "doknr": "BJNR014110953BJNE020304119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 42v",
+      "bezeichnung_anzeige": "§ 42v",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 570,
+          "sha256_text": "30226b3d7d0a04617c3366cfe567127ba9d4e5fbbf161fe7cea26f44f613c3e9"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 101,
+      "doknr": "BJNR014110953BJNG001302119",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "020090Neunter AbschnittBerufsbildungsausschuß",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 102,
+      "doknr": "BJNR014110953BJNE007805116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 43",
+      "bezeichnung_anzeige": "§ 43",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 984,
+          "sha256_text": "8c1608f49b1c9800d29d2ad77f3e0802fcb13880735b1698ebc9d31c30024162"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 103,
+      "doknr": "BJNR014110953BJNE007904116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 44",
+      "bezeichnung_anzeige": "§ 44",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3117,
+          "sha256_text": "17fc1fb4dd79f715967601ae92083bdcd8ccabb6d1fae8dacf33693ea06c274f"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 49,
+          "sha256_text": "19d82fcf1792ee068c28ddd0ed4b8052d26d48551fe318f295a423759b30add1"
+        }
+      }
+    },
+    {
+      "xml_index": 104,
+      "doknr": "BJNR014110953BJNE008001308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 44a",
+      "bezeichnung_anzeige": "§ 44a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 385,
+          "sha256_text": "bc47c0fc3b568351c7eb10e065d853207b381899d4fd5698cdffed875fb95254"
+        }
+      }
+    },
+    {
+      "xml_index": 105,
+      "doknr": "BJNR014110953BJNE008101308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 44b",
+      "bezeichnung_anzeige": "§ 44b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 220,
+          "sha256_text": "dbfdfabbcb6a506df361c52d7196ffbe60837d88906d8ebdc3b85d61265ff480"
+        }
+      }
+    },
+    {
+      "xml_index": 106,
+      "doknr": "BJNR014110953BJNG001401308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "030Dritter TeilMeisterprüfung, Meistertitel",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 107,
+      "doknr": "BJNR014110953BJNG001502377",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "030010Erster AbschnittMeisterprüfung in einem zulassungspflichtigen Handwerk",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 108,
+      "doknr": "BJNR014110953BJNE008211123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 45",
+      "bezeichnung_anzeige": "§ 45",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1575,
+          "sha256_text": "ba51abc2db373e78775ee0420c35c04dc17b85c15cdcb3b302461dd1ae3e00cb"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 121,
+          "sha256_text": "9f0562f728ac541bb8fc24309374530442f0a11c30e70298fc89546595eba5eb"
+        }
+      }
+    },
+    {
+      "xml_index": 109,
+      "doknr": "BJNR014110953BJNE008309123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 46",
+      "bezeichnung_anzeige": "§ 46",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2358,
+          "sha256_text": "656e3a8eef39a0767596a5090dd0d16ac41c264ed87b67ac9c9c854b95474b60"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 104,
+          "sha256_text": "fc00e15a1952dfd2c7198e2fc0e5fa67e7ad9a47668b4e17c426637eccdfe8e1"
+        }
+      }
+    },
+    {
+      "xml_index": 110,
+      "doknr": "BJNR014110953BJNE008403123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 47",
+      "bezeichnung_anzeige": "§ 47",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1805,
+          "sha256_text": "e781778c6c2b6e7f7adb7a97a42c65a6d6d58b2e6e1816cc4070cc8e9e90e9d6"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 215,
+          "sha256_text": "ba292aebebe1acebcaf74879b0adbff7be93fc4ccc7ecb94ad3b3ba3e23318b3"
+        }
+      }
+    },
+    {
+      "xml_index": 111,
+      "doknr": "BJNR014110953BJNE008505123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 48",
+      "bezeichnung_anzeige": "§ 48",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1500,
+          "sha256_text": "794c5a17a141c266d3481df7fa01dfe3c21884df71f7fd611e6d9f1fe720be37"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 112,
+      "doknr": "BJNR014110953BJNE022000123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 48a",
+      "bezeichnung_anzeige": "§ 48a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 692,
+          "sha256_text": "1432571703bded8503ee8ed4dbc4e536b24de7ab5424e6a41e54500225120b4b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 113,
+      "doknr": "BJNR014110953BJNE008607119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 49",
+      "bezeichnung_anzeige": "§ 49",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2698,
+          "sha256_text": "eca97ce057696799dc92bee847d28598b3ba9f13e7bd1d22d18835caf3fc9bc0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 225,
+          "sha256_text": "35ff93bc3d74337d7f3e1a539285acbd6b9eaecd61e2ee5dded60094d6a608b0"
+        }
+      }
+    },
+    {
+      "xml_index": 114,
+      "doknr": "BJNR014110953BJNE008709123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 50",
+      "bezeichnung_anzeige": "§ 50",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 82,
+          "sha256_text": "7fb1b66eb160f19c9f8e96744e7d92b92259443b97ed63ed98399fa0434926d3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 109,
+          "sha256_text": "80ca578f589adfe1534b26cd8be7668a7eb4ad99098a9a07cc44ea5a5944362f"
+        }
+      }
+    },
+    {
+      "xml_index": 115,
+      "doknr": "BJNR014110953BJNE022101123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 50a",
+      "bezeichnung_anzeige": "§ 50a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1909,
+          "sha256_text": "0b04a96580c322e855a00f7cc8222eeb98c74e5381da3ccf44bc7a5904ac87cd"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 116,
+      "doknr": "BJNR014110953BJNE017210123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 50b",
+      "bezeichnung_anzeige": "§ 50b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 450,
+          "sha256_text": "60820ae7d1a2849b004433083e18064c5815aa1dcb33369ac6bd7e1f5d7a0ce5"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 117,
+      "doknr": "BJNR014110953BJNE020902123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 50c",
+      "bezeichnung_anzeige": "§ 50c",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3077,
+          "sha256_text": "27990ecccc9f227a5db535505340987e1d05d8d1f23586ac74b854e57fd10c38"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 146,
+          "sha256_text": "670db915174c708f96f8c66f669d67cc4ce247f5077ff99d45cfce67e7ac4bf3"
+        }
+      }
+    },
+    {
+      "xml_index": 118,
+      "doknr": "BJNR014110953BJNE008805116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51",
+      "bezeichnung_anzeige": "§ 51",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 555,
+          "sha256_text": "296561f8dbd2e870e5d17f6dfc2fa708b3383c7d0f9ce51d66bb90df00587803"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 111,
+          "sha256_text": "a6bbb25d976e7b491921e1940991a98c760cad546f958eebe54e614c550cc967"
+        }
+      }
+    },
+    {
+      "xml_index": 119,
+      "doknr": "BJNR014110953BJNG002700377",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "030020Zweiter AbschnittMeisterprüfung in einem zulassungsfreien Handwerk oder in einem handwerksähnlichen Gewerbe",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 120,
+      "doknr": "BJNR014110953BJNE018212123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51a",
+      "bezeichnung_anzeige": "§ 51a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2388,
+          "sha256_text": "8ffa1efe54859da52069bda39c3b61df0cabc713461512ca5403b1892efeb043"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 134,
+          "sha256_text": "54f82d584d96f130235bbc938dfb8ce65788f757a17ae0e547d10c09af664c92"
+        }
+      }
+    },
+    {
+      "xml_index": 121,
+      "doknr": "BJNR014110953BJNE020402123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51b",
+      "bezeichnung_anzeige": "§ 51b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2016,
+          "sha256_text": "1fc462fc754debf5872f58937a489914e9d1271cd774334dd1e424daf9ee5229"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 122,
+      "doknr": "BJNR014110953BJNE022200123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51c",
+      "bezeichnung_anzeige": "§ 51c",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 692,
+          "sha256_text": "1432571703bded8503ee8ed4dbc4e536b24de7ab5424e6a41e54500225120b4b"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 123,
+      "doknr": "BJNR014110953BJNE022301123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51d",
+      "bezeichnung_anzeige": "§ 51d",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1909,
+          "sha256_text": "ac3378feb9d1e42108dd34eb8745674320586462a33396423d107b33c6c56656"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 124,
+      "doknr": "BJNR014110953BJNE020504123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51e",
+      "bezeichnung_anzeige": "§ 51e",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 477,
+          "sha256_text": "29d8f16c3b300573dfae3906c134b7d75e0f388845ddd4b98fe1501925766229"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 125,
+      "doknr": "BJNR014110953BJNE018303123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51f",
+      "bezeichnung_anzeige": "§ 51f",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 231,
+          "sha256_text": "1d0b01e5f89139638ba60b39dd6dbcfe73aeacc6ccf81ea33260ed4b788a9208"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 126,
+      "doknr": "BJNR014110953BJNE021001123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 51g",
+      "bezeichnung_anzeige": "§ 51g",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 147,
+          "sha256_text": "d98218e16b53eb41bf161f98aae0ac8eef07559f1ada3635cb542c39f3cdb791"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 69,
+          "sha256_text": "bdcb43037754d921fd243e940a2b8063734fb039c0ed5f6e3d926c388f4957cd"
+        }
+      }
+    },
+    {
+      "xml_index": 127,
+      "doknr": "BJNR014110953BJNG001701308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "040Vierter TeilOrganisation des Handwerks",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 128,
+      "doknr": "BJNR014110953BJNG001801308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "040010Erster AbschnittHandwerksinnungen",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 129,
+      "doknr": "BJNR014110953BJNE008904123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 52",
+      "bezeichnung_anzeige": "§ 52",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1490,
+          "sha256_text": "65afd544099ebfd1ad05c9cf41a1ace3f8bf286933558b061e5e5ced7465858c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 130,
+      "doknr": "BJNR014110953BJNE009001308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 53",
+      "bezeichnung_anzeige": "§ 53",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 102,
+          "sha256_text": "c46f9db57ef432afa268453a6af73d528235f771b525f8ac5a050847334aa516"
+        }
+      }
+    },
+    {
+      "xml_index": 131,
+      "doknr": "BJNR014110953BJNE009101308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 54",
+      "bezeichnung_anzeige": "§ 54",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2055,
+          "sha256_text": "2a3acea1c9271b7e590a594970abbf6ee448417773b53f7c8efc74545ac7f6c2"
+        }
+      }
+    },
+    {
+      "xml_index": 132,
+      "doknr": "BJNR014110953BJNE009201308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 55",
+      "bezeichnung_anzeige": "§ 55",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 978,
+          "sha256_text": "0f8fba91dd1608b668494c812c8d1740c75c09b3ba937ed5dfd18b0c2312d5fe"
+        }
+      }
+    },
+    {
+      "xml_index": 133,
+      "doknr": "BJNR014110953BJNE009301308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 56",
+      "bezeichnung_anzeige": "§ 56",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 332,
+          "sha256_text": "1cbb142c958d5fe3bea534d54b937fbdb35aac008617f8f2df6ff1093fc82e8e"
+        }
+      }
+    },
+    {
+      "xml_index": 134,
+      "doknr": "BJNR014110953BJNE009402308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 57",
+      "bezeichnung_anzeige": "§ 57",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 540,
+          "sha256_text": "486c927982f71345a085880b7b8db8f297a1af2a331b3e1cceeeb131e250a6a9"
+        }
+      }
+    },
+    {
+      "xml_index": 135,
+      "doknr": "BJNR014110953BJNE009503377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 58",
+      "bezeichnung_anzeige": "§ 58",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 947,
+          "sha256_text": "1f6395e1ab11ae1e73a2a3ab474dd43e3fa5b048e898b204b68aa0ab188f64ec"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 136,
+      "doknr": "BJNR014110953BJNE009602308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 59",
+      "bezeichnung_anzeige": "§ 59",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 229,
+          "sha256_text": "957d084b972b320e58c951e71a839ec5c03db917a146017ae0094c585c3c3210"
+        }
+      }
+    },
+    {
+      "xml_index": 137,
+      "doknr": "BJNR014110953BJNE009701308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 60",
+      "bezeichnung_anzeige": "§ 60",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 85,
+          "sha256_text": "46b95669624c103afa14d3b1b838d136bc7a3c6247c84c0bb20cfaf03f7a96f6"
+        }
+      }
+    },
+    {
+      "xml_index": 138,
+      "doknr": "BJNR014110953BJNE009802308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 61",
+      "bezeichnung_anzeige": "§ 61",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1761,
+          "sha256_text": "f4c24badf2aa3f1a331ba2fce6e2356a68beda1673be6aa0d5ece163245da265"
+        }
+      }
+    },
+    {
+      "xml_index": 139,
+      "doknr": "BJNR014110953BJNE009901308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 62",
+      "bezeichnung_anzeige": "§ 62",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1528,
+          "sha256_text": "aac45b92038dae891f16c29d38f5acf433d134ae3d0dee5a08b497db537d28f8"
+        }
+      }
+    },
+    {
+      "xml_index": 140,
+      "doknr": "BJNR014110953BJNE010002308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 63",
+      "bezeichnung_anzeige": "§ 63",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 236,
+          "sha256_text": "22d264e72be322c5a02a281aa12a9f52a36d20a0733a9d329bfab8418a952032"
+        }
+      }
+    },
+    {
+      "xml_index": 141,
+      "doknr": "BJNR014110953BJNE010101308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 64",
+      "bezeichnung_anzeige": "§ 64",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 178,
+          "sha256_text": "47e535d013bafb759c16e599228c4371d2c30b560729e5d99fb8133050a7306f"
+        }
+      }
+    },
+    {
+      "xml_index": 142,
+      "doknr": "BJNR014110953BJNE010201308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 65",
+      "bezeichnung_anzeige": "§ 65",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 476,
+          "sha256_text": "1ec2d4ac06c5eb953e75ecc46d1f73b3432d96d9ba254db17fb257290cb6198e"
+        }
+      }
+    },
+    {
+      "xml_index": 143,
+      "doknr": "BJNR014110953BJNE010301308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 66",
+      "bezeichnung_anzeige": "§ 66",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1026,
+          "sha256_text": "7dbdf5fed8618510eb8556fed36749c0372aba4668e6e75ea797579ef0508009"
+        }
+      }
+    },
+    {
+      "xml_index": 144,
+      "doknr": "BJNR014110953BJNE010402308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 67",
+      "bezeichnung_anzeige": "§ 67",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 610,
+          "sha256_text": "11bae40be14486c5b6c63c4186710e0bdd7b16c5ad9a4b7399185307cb1d43e1"
+        }
+      }
+    },
+    {
+      "xml_index": 145,
+      "doknr": "BJNR014110953BJNE010501308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 68",
+      "bezeichnung_anzeige": "§ 68",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2140,
+          "sha256_text": "670111ec259db0cad8685485dcff485c82a3d92203bdc22f63a1f73d3cab695b"
+        }
+      }
+    },
+    {
+      "xml_index": 146,
+      "doknr": "BJNR014110953BJNE010602308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 69",
+      "bezeichnung_anzeige": "§ 69",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1580,
+          "sha256_text": "495c2c00c08c05265cf4f285b744db3e92b258552baf9077bd998de71348e948"
+        }
+      }
+    },
+    {
+      "xml_index": 147,
+      "doknr": "BJNR014110953BJNE010701308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 70",
+      "bezeichnung_anzeige": "§ 70",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 91,
+          "sha256_text": "e5b98fc96e88dbf7f52e0f53cfa5132db8245c04995b142a2215f17cd29913a2"
+        }
+      }
+    },
+    {
+      "xml_index": 148,
+      "doknr": "BJNR014110953BJNE010802308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 71",
+      "bezeichnung_anzeige": "§ 71",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 284,
+          "sha256_text": "7226fb253a527ae5fdb27080331bd8c0680f264aad61d12910ab35a81f9c41c2"
+        }
+      }
+    },
+    {
+      "xml_index": 149,
+      "doknr": "BJNR014110953BJNE017301308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 71a",
+      "bezeichnung_anzeige": "§ 71a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 133,
+          "sha256_text": "b0edec10da35623e59446c5e35bf9a2345f24d1786aaa30b203c9e1a9ec0c87e"
+        }
+      }
+    },
+    {
+      "xml_index": 150,
+      "doknr": "BJNR014110953BJNE010902308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 72",
+      "bezeichnung_anzeige": "§ 72",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 326,
+          "sha256_text": "9375d97dfd2ee2917c47dcafcc7d8dd8b10110ab4147c2bab95a18b52f2259d5"
+        }
+      }
+    },
+    {
+      "xml_index": 151,
+      "doknr": "BJNR014110953BJNE011003377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 73",
+      "bezeichnung_anzeige": "§ 73",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 865,
+          "sha256_text": "e4082bf0c354424bcfa8d2db8df5f9fbad052c266ecbfba52a5d8835e4c7afb5"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 152,
+      "doknr": "BJNR014110953BJNE011101308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 74",
+      "bezeichnung_anzeige": "§ 74",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 251,
+          "sha256_text": "7eb3614ae715720ba58e8b3b8c2291c1f31f57c680fa1104464012fa8c930a68"
+        }
+      }
+    },
+    {
+      "xml_index": 153,
+      "doknr": "BJNR014110953BJNE011201308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 75",
+      "bezeichnung_anzeige": "§ 75",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 230,
+          "sha256_text": "839db016cddd14ef88d11bd0ad55f1349cacbcca658bb01bab0222662de0a5ce"
+        }
+      }
+    },
+    {
+      "xml_index": 154,
+      "doknr": "BJNR014110953BJNE011301308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 76",
+      "bezeichnung_anzeige": "§ 76",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 422,
+          "sha256_text": "d1628a1d16023e074f8b1240ab198c7738fdc2435caf73adbc8f134a0574e61d"
+        }
+      }
+    },
+    {
+      "xml_index": 155,
+      "doknr": "BJNR014110953BJNE011402333",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 77",
+      "bezeichnung_anzeige": "§ 77",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 443,
+          "sha256_text": "32a63e37a2ced0294fdd592daf17119fe10f18a49ac5ad21c7aa6882b3d3b762"
+        }
+      }
+    },
+    {
+      "xml_index": 156,
+      "doknr": "BJNR014110953BJNE011501308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 78",
+      "bezeichnung_anzeige": "§ 78",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 655,
+          "sha256_text": "7015441f554efef5e05a62df9f5ce55f830009a56bcf4fb47e02dcfc8c021ac2"
+        }
+      }
+    },
+    {
+      "xml_index": 157,
+      "doknr": "BJNR014110953BJNG001901308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "040020Zweiter AbschnittInnungsverbände",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 158,
+      "doknr": "BJNR014110953BJNE011602308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 79",
+      "bezeichnung_anzeige": "§ 79",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 585,
+          "sha256_text": "061e18f971f857754f02a8e2ca343a3faa08adbfd482cd2c8daa156811bec018"
+        }
+      }
+    },
+    {
+      "xml_index": 159,
+      "doknr": "BJNR014110953BJNE011702308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 80",
+      "bezeichnung_anzeige": "§ 80",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 450,
+          "sha256_text": "b06fb70b4f3277fd3af8f811e0cfa1693d99d69907001e9bb83036f6dcae1d9e"
+        }
+      }
+    },
+    {
+      "xml_index": 160,
+      "doknr": "BJNR014110953BJNE011801308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 81",
+      "bezeichnung_anzeige": "§ 81",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 366,
+          "sha256_text": "6525709db22fd904fd480928b5e1f2cb226c06747afb7ff9374efe1908e65d51"
+        }
+      }
+    },
+    {
+      "xml_index": 161,
+      "doknr": "BJNR014110953BJNE011901308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 82",
+      "bezeichnung_anzeige": "§ 82",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 526,
+          "sha256_text": "0f310e17a092a50e814adcf0e141bc046e893514145840df18ad85f1b5713dc5"
+        }
+      }
+    },
+    {
+      "xml_index": 162,
+      "doknr": "BJNR014110953BJNE012002308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 83",
+      "bezeichnung_anzeige": "§ 83",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1011,
+          "sha256_text": "1fcd3317f4d911b4a1509931f2b463bc39e605a3bacd5f595e879de25d080fe5"
+        }
+      }
+    },
+    {
+      "xml_index": 163,
+      "doknr": "BJNR014110953BJNE012101308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 84",
+      "bezeichnung_anzeige": "§ 84",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 393,
+          "sha256_text": "510854fa16e739837bb27606421452c1520bc47b32645562831ee2133cedbc7c"
+        }
+      }
+    },
+    {
+      "xml_index": 164,
+      "doknr": "BJNR014110953BJNE012205123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 85",
+      "bezeichnung_anzeige": "§ 85",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 367,
+          "sha256_text": "f19243a883d51860475c87e55de75c224b69e2941b4686abf424d50d5b072591"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 165,
+      "doknr": "BJNR014110953BJNG002001308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "040030Dritter AbschnittKreishandwerkerschaften",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 166,
+      "doknr": "BJNR014110953BJNE012301308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 86",
+      "bezeichnung_anzeige": "§ 86",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 147,
+          "sha256_text": "e3efc8f8e9b1783c53f8545a448673e513a6a32e61bfacbe4d623be265ac530c"
+        }
+      }
+    },
+    {
+      "xml_index": 167,
+      "doknr": "BJNR014110953BJNE012401308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 87",
+      "bezeichnung_anzeige": "§ 87",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 821,
+          "sha256_text": "918be33a746c93175685d8a08ff3c772c0e001c86f39354ab6fdc22f7355f793"
+        }
+      }
+    },
+    {
+      "xml_index": 168,
+      "doknr": "BJNR014110953BJNE012501308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 88",
+      "bezeichnung_anzeige": "§ 88",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 406,
+          "sha256_text": "1e4a75f44da9a37d24d436e5f5443d825b40c854d0718876a5c68db0fd3d2199"
+        }
+      }
+    },
+    {
+      "xml_index": 169,
+      "doknr": "BJNR014110953BJNE012601308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 89",
+      "bezeichnung_anzeige": "§ 89",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 658,
+          "sha256_text": "080dc6ccd3a66529f1305cd0dc3e9de98fb13c07c6a94111b746379429984343"
+        }
+      }
+    },
+    {
+      "xml_index": 170,
+      "doknr": "BJNR014110953BJNG002101308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "040040Vierter AbschnittHandwerkskammern",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 171,
+      "doknr": "BJNR014110953BJNE012706360",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 90",
+      "bezeichnung_anzeige": "§ 90",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1941,
+          "sha256_text": "2148dda837d467abab325264c7ebda36d2ff009a772c3f266588d018053d9d18"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 172,
+      "doknr": "BJNR014110953BJNE012812128",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 91",
+      "bezeichnung_anzeige": "§ 91",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3877,
+          "sha256_text": "bfd8b9497924909524dc0b7f15823ab0b550ed80441258b01fb5631352ed08ef"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 173,
+      "doknr": "BJNR014110953BJNE012901308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 92",
+      "bezeichnung_anzeige": "§ 92",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 105,
+          "sha256_text": "9ad2354491f5217227ac4b93bf81a6ad75214c661773c083b310159bcda16e10"
+        }
+      }
+    },
+    {
+      "xml_index": 174,
+      "doknr": "BJNR014110953BJNE013004377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 93",
+      "bezeichnung_anzeige": "§ 93",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1261,
+          "sha256_text": "a1a036a11468b03be1a9ca22346254e6265be81c22e5bb8cc1c713d04bf85ae7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 175,
+      "doknr": "BJNR014110953BJNE013102308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 94",
+      "bezeichnung_anzeige": "§ 94",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 191,
+          "sha256_text": "26c47f21a723d9c53e9c9d0d4eefc71421c7af56e9716ec873b235fe13e254fd"
+        }
+      }
+    },
+    {
+      "xml_index": 176,
+      "doknr": "BJNR014110953BJNE013202377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 95",
+      "bezeichnung_anzeige": "§ 95",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 271,
+          "sha256_text": "cfd5196589010239f96f57c2fcc98607151725b32b801bcbfbeb97010d1bb404"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 177,
+      "doknr": "BJNR014110953BJNE013304377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 96",
+      "bezeichnung_anzeige": "§ 96",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 950,
+          "sha256_text": "73244fc9c5c8c4ad179ae68280150cbb0bbaf21448714d06a1c00ca99326d17c"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 178,
+      "doknr": "BJNR014110953BJNE013404377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 97",
+      "bezeichnung_anzeige": "§ 97",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1474,
+          "sha256_text": "0f22b5b6a0e6f4be38e8783aac687a4a836bb3280e01a3052f8610ef7a7abba3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 179,
+      "doknr": "BJNR014110953BJNE013503377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 98",
+      "bezeichnung_anzeige": "§ 98",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 413,
+          "sha256_text": "6660840fde0df36d1d359f43af126bc6f1984a5190b92df6cc710cc7719a03e3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 180,
+      "doknr": "BJNR014110953BJNE013603377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 99",
+      "bezeichnung_anzeige": "§ 99",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 419,
+          "sha256_text": "46b176f412a92120d76352384a1239799c2dbca6047f0e6d275998b5dcad83a3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 181,
+      "doknr": "BJNR014110953BJNE013701308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 100",
+      "bezeichnung_anzeige": "§ 100",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 124,
+          "sha256_text": "2ae108e07d44ca8f29eca03365f7ca4cab72a5fb532eeb6faad6800d1411dda6"
+        }
+      }
+    },
+    {
+      "xml_index": 182,
+      "doknr": "BJNR014110953BJNE013803377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 101",
+      "bezeichnung_anzeige": "§ 101",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 859,
+          "sha256_text": "5a028ad1a0af643822517cbdd8351c0c807bf98a39d2dac1e7af87d5f48ef760"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 183,
+      "doknr": "BJNR014110953BJNE013901308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 102",
+      "bezeichnung_anzeige": "§ 102",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 408,
+          "sha256_text": "d1657c2955f711ff8f7198fd71032dae4c48fa5fd1c059923e8f1acb537ff5a0"
+        }
+      }
+    },
+    {
+      "xml_index": 184,
+      "doknr": "BJNR014110953BJNE014003377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 103",
+      "bezeichnung_anzeige": "§ 103",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 460,
+          "sha256_text": "0985571c978ea968c9ff21db569929da6de1b31f00315f63372f5d131d34f5b2"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 185,
+      "doknr": "BJNR014110953BJNE014103377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 104",
+      "bezeichnung_anzeige": "§ 104",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 617,
+          "sha256_text": "539efe33a4f524d84b8ff0970f8cfe5ba73fa73211748678e5565dcff3617899"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 186,
+      "doknr": "BJNR014110953BJNE014205123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 105",
+      "bezeichnung_anzeige": "§ 105",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1670,
+          "sha256_text": "e9a2bb148363f52de8c04233837caecbf2058e0ce1f058e6dde3cb5c6e49f697"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 187,
+      "doknr": "BJNR014110953BJNE014309123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 106",
+      "bezeichnung_anzeige": "§ 106",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 3548,
+          "sha256_text": "649b0cdf2d134ffd5cbe6f062ad93f3847ca7f1229047bd7403d3f05e00f98dd"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 188,
+      "doknr": "BJNR014110953BJNE014401308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 107",
+      "bezeichnung_anzeige": "§ 107",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 85,
+          "sha256_text": "0259aadb25391981d0d94a5a888cdc3eb349bae1b0330a356f55d7e93d566575"
+        }
+      }
+    },
+    {
+      "xml_index": 189,
+      "doknr": "BJNR014110953BJNE014502308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 108",
+      "bezeichnung_anzeige": "§ 108",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1130,
+          "sha256_text": "0c433c8333fa9c4d318fe591dabc6a45ecf7c2da1d46b08abebe509629b3f9be"
+        }
+      }
+    },
+    {
+      "xml_index": 190,
+      "doknr": "BJNR014110953BJNE014601308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 109",
+      "bezeichnung_anzeige": "§ 109",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 250,
+          "sha256_text": "7bc837f5169bc8c38061e59433eebfcdea00adcb384885975ba3124c06559751"
+        }
+      }
+    },
+    {
+      "xml_index": 191,
+      "doknr": "BJNR014110953BJNE014701308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 110",
+      "bezeichnung_anzeige": "§ 110",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 200,
+          "sha256_text": "54000433e264961ce417145a1a009f4c8244f5ca1f59cbd8580febd2bf878897"
+        }
+      }
+    },
+    {
+      "xml_index": 192,
+      "doknr": "BJNR014110953BJNE014803377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 111",
+      "bezeichnung_anzeige": "§ 111",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1135,
+          "sha256_text": "f75cc8a4a50b745fb6ce3ba94ff0b81d56c0a49c3f2974dd8d63cca8e5db27aa"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 193,
+      "doknr": "BJNR014110953BJNE014902377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 112",
+      "bezeichnung_anzeige": "§ 112",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 527,
+          "sha256_text": "83fea47056304e7f685136a91eaaf0cab361862f280d181ce7483bc2fe7dbde3"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 194,
+      "doknr": "BJNR014110953BJNE015008116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 113",
+      "bezeichnung_anzeige": "§ 113",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4349,
+          "sha256_text": "35648f9220f2731bd59fbe2f07b0f3dfc2d3fde6d305a15d4da25cab8bf3eabd"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 195,
+      "doknr": "BJNR014110953BJNE015102308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 114",
+      "bezeichnung_anzeige": "§ 114",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 12,
+          "sha256_text": "14079c0bf8580c09fbb83720de8f86427d385ea4c49fdc05e7b6920420a74c71"
+        }
+      }
+    },
+    {
+      "xml_index": 196,
+      "doknr": "BJNR014110953BJNE015201308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 115",
+      "bezeichnung_anzeige": "§ 115",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 661,
+          "sha256_text": "da9b96a95916d7b55a11e4a4b834a513109af2f994391fe9c2ae4d9f78c0f69e"
+        }
+      }
+    },
+    {
+      "xml_index": 197,
+      "doknr": "BJNR014110953BJNE015302308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 116",
+      "bezeichnung_anzeige": "§ 116",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 187,
+          "sha256_text": "a4e1eed2744ea1d83b0d34df406870612a5d5d5a589fd4d970143dc0de5ea3ea"
+        }
+      }
+    },
+    {
+      "xml_index": 198,
+      "doknr": "BJNR014110953BJNG002201308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "050Fünfter TeilBußgeld-, Übergangs- und Schlußvorschriften",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 199,
+      "doknr": "BJNR014110953BJNG002301308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "050010Erster AbschnittBußgeldvorschriften",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 200,
+      "doknr": "BJNR014110953BJNE015408123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 117",
+      "bezeichnung_anzeige": "§ 117",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 445,
+          "sha256_text": "91837f9e096e6e5cfeed523c31dccdff1da3a2d956fa3454fc7136135c418dee"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 201,
+      "doknr": "BJNR014110953BJNE015507119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 118",
+      "bezeichnung_anzeige": "§ 118",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1204,
+          "sha256_text": "f8356a74d8755bd2e6d92da06d717b45e811b2f61f817c3231b746cbd2deec71"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 202,
+      "doknr": "BJNR014110953BJNE017401308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 118a",
+      "bezeichnung_anzeige": "§ 118a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 561,
+          "sha256_text": "34f391522499014d77ebd922b24330ae219e019ab99160f0e466cf5751a3726d"
+        }
+      }
+    },
+    {
+      "xml_index": 203,
+      "doknr": "BJNR014110953BJNG002401308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "050020Zweiter AbschnittÜbergangsvorschriften",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 204,
+      "doknr": "BJNR014110953BJNE015706119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 119",
+      "bezeichnung_anzeige": "§ 119",
+      "titel": "*)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2679,
+          "sha256_text": "33cf4394b24d940b0e691275c135297886745d455fe3d87ac1a1d00f822e0d69"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 205,
+      "doknr": "BJNR014110953BJNE015804123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 120",
+      "bezeichnung_anzeige": "§ 120",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 553,
+          "sha256_text": "7e66dcb35b4968614408a05a4de3a5e5398cf9fcad31a92509f9ca07b2a5e09e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 206,
+      "doknr": "BJNR014110953BJNE015902377",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 121",
+      "bezeichnung_anzeige": "§ 121",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 163,
+          "sha256_text": "d24811389cc03e9bad920aa3b40385c2bead5e11bee4baa0312713a333385b4e"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 207,
+      "doknr": "BJNR014110953BJNE016006123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 122",
+      "bezeichnung_anzeige": "§ 122",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1806,
+          "sha256_text": "42a08c758e5da6f9151c94d9a4152d22d45e975bf2c6d4a49544ba48fa4247ce"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 208,
+      "doknr": "BJNR014110953BJNE022400123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 122a",
+      "bezeichnung_anzeige": "§ 122a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1218,
+          "sha256_text": "ffbf9799187a624730b28cc8431309887d8d265f1b83198d422ca23516befbc0"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 209,
+      "doknr": "BJNR014110953BJNE016104123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 123",
+      "bezeichnung_anzeige": "§ 123",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 534,
+          "sha256_text": "d85419f7ba3da119a82d6f7baed8726d9f2ba967231696707280655a7d0080dd"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 210,
+      "doknr": "BJNR014110953BJNE023100119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 123a",
+      "bezeichnung_anzeige": "§ 123a",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 305,
+          "sha256_text": "bcba104f6103767febe71da8fd5a8fdac540e8f42c36061bddb029b90b7c5af6"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 211,
+      "doknr": "BJNR014110953BJNE016201308",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 124",
+      "bezeichnung_anzeige": "§ 124",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1079,
+          "sha256_text": "11f57484c77054a36a0647e13dc42d45034876dab96b93abcca24437e96e81f8"
+        }
+      }
+    },
+    {
+      "xml_index": 212,
+      "doknr": "BJNR014110953BJNE017504119",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 124a",
+      "bezeichnung_anzeige": "§ 124a",
+      "titel": "(weggefallen)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 213,
+      "doknr": "BJNR014110953BJNE018403116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 124b",
+      "bezeichnung_anzeige": "§ 124b",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 495,
+          "sha256_text": "84626890f628232c8e2a8b8f3a1eee57b98cdb7ae118b302e7e23f6387d00c87"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 214,
+      "doknr": "BJNR014110953BJNE021802123",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 124c",
+      "bezeichnung_anzeige": "§ 124c",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1663,
+          "sha256_text": "b4c2c5f742fa2caefed816f63ab67b3539fdbbef6a93104754a3ddc3bebdf903"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 215,
+      "doknr": "BJNR014110953BJNG002501308",
+      "typ": "Gliederung",
+      "bezeichnung_original": "",
+      "bezeichnung_anzeige": "",
+      "titel": "",
+      "gliederung": "050030Dritter AbschnittSchlußvorschriften",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 216,
+      "doknr": "BJNR014110953BJNE016705116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 125",
+      "bezeichnung_anzeige": "§ 125",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1234,
+          "sha256_text": "6b2740d0066187a3392ad319ad56aaf3b67294fc3303b30108c9a06ce73edc37"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 217,
+      "doknr": "BJNR014110953BJNE021700116",
+      "typ": "Vorschrift",
+      "bezeichnung_original": "§ 126",
+      "bezeichnung_anzeige": "§ 126",
+      "titel": "",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2086,
+          "sha256_text": "553eaf5cc7b064e5ce6f64d38dd35e49d8d8af8b75c5b535a526a2eb916eba52"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 218,
+      "doknr": "BJNR014110953BJNE016810123",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anlage A",
+      "bezeichnung_anzeige": "Anlage A",
+      "titel": "Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Absatz 2)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 1165,
+          "sha256_text": "17d1f0946fe9a68e122c4ba54f967c4e837aa03394bc9869c333e648d9fdc5a7"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 219,
+      "doknr": "BJNR014110953BJNE016907123",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anlage B",
+      "bezeichnung_anzeige": "Anlage B",
+      "titel": "Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können (§ 18 Absatz 2)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 2576,
+          "sha256_text": "013ca5d439db4c18b5e993f474d4de2f3b6024ae4d2994d8f7d1c44c16d89c64"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 220,
+      "doknr": "BJNR014110953BJNE017703377",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anlage C",
+      "bezeichnung_anzeige": "Anlage C",
+      "titel": "zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 17,
+          "sha256_text": "804044f7611b00ef1006e67c67c0d8a0f694dae6476221254e82580830080f69"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 221,
+      "doknr": "BJNR014110953BJNE017612119",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anlage D",
+      "bezeichnung_anzeige": "Anlage D",
+      "titel": "zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes, in der Lehrlingsrolle sowie im Sachverständigenwesen",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 8100,
+          "sha256_text": "c596247c1e1cc810d2e93805ae57123923a5716d4ce4f8a447afee2186facb55"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 222,
+      "doknr": "BJNR014110953BJNE022500123",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anlage E",
+      "bezeichnung_anzeige": "Anlage E",
+      "titel": "Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen(§ 106 Absatz 4 Satz 1)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 8002,
+          "sha256_text": "ab918fabb72404292d28948e3522a90049ef51db727deddf1575bdf8a0fcbee2"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 0,
+          "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      }
+    },
+    {
+      "xml_index": 223,
+      "doknr": "BJNR014110953BJNE888800301",
+      "typ": "Anlage/Anhang",
+      "bezeichnung_original": "Anhang EV",
+      "bezeichnung_anzeige": "Anhang EV",
+      "titel": "Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III(BGBl. II 1990, 889, 998)",
+      "gliederung": "",
+      "inhalte": {
+        "text": {
+          "zeichen_ohne_whitespace": 4577,
+          "sha256_text": "d6b50e439b1ed8df8e868d36a16f4084196c502df864a379c99f7d38555f0201"
+        },
+        "fussnoten": {
+          "zeichen_ohne_whitespace": 151,
+          "sha256_text": "5b7911bc9a0b99bf87382067596983d3d251469e9dcdeb2720f60eb4b18f6c9f"
+        }
+      }
+    }
+  ]
+}

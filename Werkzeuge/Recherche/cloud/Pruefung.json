@@ -1,0 +1,15 @@
+{
+  "checked_on": "2026-09-09",
+  "normalizer_contract_tests": 8,
+  "normalizer_tests_passed": true,
+  "sql_parser": "pglast v8.4",
+  "sql_statements_parsed": 61,
+  "postgres_server_execution": false,
+  "oauth_integration_tested": false,
+  "cloud_uploaded": false,
+  "checksums": {
+    "schema.sql": "6b1667ea6947c7d560cb95f55a2d602682df911ea02e7b35349e82319cc95969",
+    "normalize_export.py": "247ed9df96231d5befa3db985328764adbd819f564fac12609a9e58b923a4eb2",
+    "test_normalize_export.py": "9381f13434b8c64dc7cd0866ef923b2da635970b4e00c7cde26791acdb32360e"
+  }
+}

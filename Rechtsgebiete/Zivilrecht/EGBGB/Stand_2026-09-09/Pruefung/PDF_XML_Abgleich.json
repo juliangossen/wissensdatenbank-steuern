@@ -1,0 +1,4733 @@
+{
+  "kuerzel": "EGBGB",
+  "datum": "2026-09-09",
+  "methode": "Vollständige Normtexte in Reihenfolge. NFC/Whitespace und PDF-Seitenservice entfernt. XML-FnArea setzt die bezeichneten Fußnoten an die Druckposition; zentrale Footnotes-Definitionen werden dort einmal ausgegeben. Wiederholte XML-Gliederungsmetadaten werden wie in der PDF nur bei Gruppenwechsel ausgegeben; alleinstehendes technisches Gliederungskennzeichen Minus entfällt im PDF. XML-FILE repräsentiert den Druckverweis; referenzierte Originaldateien werden zusätzlich separat vollständig integriert. Verbleibende Abweichungen nur bei konkret benannter und einzeln geprüfter Layoutausnahme zugelassen.",
+  "normdatensaetze": 519,
+  "exakt_identisch": 517,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "sha256_pdf": "9a4a0234d93fa68326f8f837af600e010c6f56e59582803d19f3eb028c820f6f",
+  "sha256_xml": "c57de5f1ae86a97cb57b15e78d7d33dc16c82203bbcf16453385256ff8438a33",
+  "normen": [
+    {
+      "index": 0,
+      "name": "Dokumentkopf",
+      "identisch": true,
+      "xml_zeichen": 171,
+      "pdf_zeichen": 171,
+      "sha256_xml_text": "c6bac1386b57e62cef2a231cc759327b8c08e924fee53e38152f7f23b6d153b0",
+      "sha256_pdf_text": "c6bac1386b57e62cef2a231cc759327b8c08e924fee53e38152f7f23b6d153b0"
+    },
+    {
+      "index": 1,
+      "name": "Erster TeilAllgemeine Vorschriften",
+      "identisch": true,
+      "xml_zeichen": 32,
+      "pdf_zeichen": 32,
+      "sha256_xml_text": "035fda46854af8950191742e642d9d69f5a6b136df9b1fe23dc9d1c4b029b869",
+      "sha256_pdf_text": "035fda46854af8950191742e642d9d69f5a6b136df9b1fe23dc9d1c4b029b869"
+    },
+    {
+      "index": 2,
+      "name": "Erstes KapitelInkrafttreten. Vorbehalt für Landesrecht. Gesetzesbegriff",
+      "identisch": true,
+      "xml_zeichen": 66,
+      "pdf_zeichen": 66,
+      "sha256_xml_text": "e0f0ab522d5d9b2c59ae6709e4ec3760717d7409a1b96f61eb4481d6b4dc715a",
+      "sha256_pdf_text": "e0f0ab522d5d9b2c59ae6709e4ec3760717d7409a1b96f61eb4481d6b4dc715a"
+    },
+    {
+      "index": 3,
+      "name": "Art 1",
+      "identisch": true,
+      "xml_zeichen": 622,
+      "pdf_zeichen": 622,
+      "sha256_xml_text": "0708920544c4d8130c010286971396874ebc4d63e103ee2ffc54bccf0bb4fac0",
+      "sha256_pdf_text": "0708920544c4d8130c010286971396874ebc4d63e103ee2ffc54bccf0bb4fac0"
+    },
+    {
+      "index": 4,
+      "name": "Art 2",
+      "identisch": true,
+      "xml_zeichen": 78,
+      "pdf_zeichen": 78,
+      "sha256_xml_text": "84fe602a414793030764247c91baa95270ec458de6b4240506f12488cf94f52a",
+      "sha256_pdf_text": "84fe602a414793030764247c91baa95270ec458de6b4240506f12488cf94f52a"
+    },
+    {
+      "index": 5,
+      "name": "Zweites KapitelInternationales Privatrecht",
+      "identisch": true,
+      "xml_zeichen": 40,
+      "pdf_zeichen": 40,
+      "sha256_xml_text": "3f1203fec0ce0cc2b1b7d4265ad8a5923ac0e6da6be4bf61fcc89c2802a52cae",
+      "sha256_pdf_text": "3f1203fec0ce0cc2b1b7d4265ad8a5923ac0e6da6be4bf61fcc89c2802a52cae"
+    },
+    {
+      "index": 6,
+      "name": "Erster AbschnittAllgemeine Vorschriften",
+      "identisch": true,
+      "xml_zeichen": 37,
+      "pdf_zeichen": 37,
+      "sha256_xml_text": "17b81a00fac20501aa8dfba379ca5affc0e48aeba97b44f63b2ba1f585929342",
+      "sha256_pdf_text": "17b81a00fac20501aa8dfba379ca5affc0e48aeba97b44f63b2ba1f585929342"
+    },
+    {
+      "index": 7,
+      "name": "Art 3Anwendungsbereich; Verhältnis zu Regelungen der Europäischen Union und zu völkerrechtlichen Vereinbarungen",
+      "identisch": true,
+      "xml_zeichen": 2021,
+      "pdf_zeichen": 2021,
+      "sha256_xml_text": "648d1f67ee6d193429ebdacaae368189361d4cc46f6dd589c5158e6d80024614",
+      "sha256_pdf_text": "648d1f67ee6d193429ebdacaae368189361d4cc46f6dd589c5158e6d80024614"
+    },
+    {
+      "index": 8,
+      "name": "Art 4Verweisung",
+      "identisch": true,
+      "xml_zeichen": 779,
+      "pdf_zeichen": 779,
+      "sha256_xml_text": "86663b45f0ca2c2cde4de15ff3ca8e52439071e2559fe2f274b719e91229798a",
+      "sha256_pdf_text": "86663b45f0ca2c2cde4de15ff3ca8e52439071e2559fe2f274b719e91229798a"
+    },
+    {
+      "index": 9,
+      "name": "Art 5Personalstatut",
+      "identisch": true,
+      "xml_zeichen": 776,
+      "pdf_zeichen": 776,
+      "sha256_xml_text": "4dd9d552fc42abfaa54538753be36d8aa18fc44419f6e4a3a0434d41185ae8fe",
+      "sha256_pdf_text": "4dd9d552fc42abfaa54538753be36d8aa18fc44419f6e4a3a0434d41185ae8fe"
+    },
+    {
+      "index": 10,
+      "name": "Art 6Öffentliche Ordnung (ordre public)",
+      "identisch": true,
+      "xml_zeichen": 341,
+      "pdf_zeichen": 341,
+      "sha256_xml_text": "22a8db4b343f8d4d8d5a844e5104e4a183d2b31d16283bcca2de637c78e00031",
+      "sha256_pdf_text": "22a8db4b343f8d4d8d5a844e5104e4a183d2b31d16283bcca2de637c78e00031"
+    },
+    {
+      "index": 11,
+      "name": "Zweiter AbschnittRecht der natürlichen Personen und der Rechtsgeschäfte",
+      "identisch": true,
+      "xml_zeichen": 64,
+      "pdf_zeichen": 64,
+      "sha256_xml_text": "fa523dbf8683bb965e2bbfffd51955180fd037fd06f29e5b9d2d49b68c3547ea",
+      "sha256_pdf_text": "fa523dbf8683bb965e2bbfffd51955180fd037fd06f29e5b9d2d49b68c3547ea"
+    },
+    {
+      "index": 12,
+      "name": "Art 7Rechts- und Geschäftsfähigkeit",
+      "identisch": true,
+      "xml_zeichen": 499,
+      "pdf_zeichen": 499,
+      "sha256_xml_text": "ac1a878cbef536a726656021e1ada9a4de4f4a3a343a976957b785eb2f2ba483",
+      "sha256_pdf_text": "ac1a878cbef536a726656021e1ada9a4de4f4a3a343a976957b785eb2f2ba483"
+    },
+    {
+      "index": 13,
+      "name": "Art 7aGeschlechtszugehörigkeit",
+      "identisch": true,
+      "xml_zeichen": 477,
+      "pdf_zeichen": 477,
+      "sha256_xml_text": "42875596a9cf7cce81bf6f83ab6c8aa639e632540df6e0711ea1a664cbf2b93c",
+      "sha256_pdf_text": "42875596a9cf7cce81bf6f83ab6c8aa639e632540df6e0711ea1a664cbf2b93c"
+    },
+    {
+      "index": 14,
+      "name": "Art 8Gewillkürte Stellvertretung",
+      "identisch": true,
+      "xml_zeichen": 2446,
+      "pdf_zeichen": 2446,
+      "sha256_xml_text": "a79e25f53c26a4ffea1506ea504d97cd212e5d1eaa2f2dc085d507ee09e009ea",
+      "sha256_pdf_text": "a79e25f53c26a4ffea1506ea504d97cd212e5d1eaa2f2dc085d507ee09e009ea"
+    },
+    {
+      "index": 15,
+      "name": "Art 9Todeserklärung",
+      "identisch": true,
+      "xml_zeichen": 395,
+      "pdf_zeichen": 395,
+      "sha256_xml_text": "27c51ed5b04123db70750ccc4e00cbeba4ab238c7cc87a5cf1029cef152b11cd",
+      "sha256_pdf_text": "27c51ed5b04123db70750ccc4e00cbeba4ab238c7cc87a5cf1029cef152b11cd"
+    },
+    {
+      "index": 16,
+      "name": "Art 10Name",
+      "identisch": true,
+      "xml_zeichen": 1132,
+      "pdf_zeichen": 1132,
+      "sha256_xml_text": "335b00f0b0c7f4ad38d0c0a277eac7ea7dd6815a6bd7d0bb63b0b5ce40dc071f",
+      "sha256_pdf_text": "335b00f0b0c7f4ad38d0c0a277eac7ea7dd6815a6bd7d0bb63b0b5ce40dc071f"
+    },
+    {
+      "index": 17,
+      "name": "Art 11Form von Rechtsgeschäften",
+      "identisch": true,
+      "xml_zeichen": 798,
+      "pdf_zeichen": 798,
+      "sha256_xml_text": "355a3b6c40507aaa7c575b1dd400348f17191904a6662a88e47dc6014885934f",
+      "sha256_pdf_text": "355a3b6c40507aaa7c575b1dd400348f17191904a6662a88e47dc6014885934f"
+    },
+    {
+      "index": 18,
+      "name": "Art 12Schutz des anderen Vertragsteils",
+      "identisch": true,
+      "xml_zeichen": 593,
+      "pdf_zeichen": 593,
+      "sha256_xml_text": "35e0ced9e40a3867e21f273a14ade5566b4acf36cf0964d509a96b37db05c65f",
+      "sha256_pdf_text": "35e0ced9e40a3867e21f273a14ade5566b4acf36cf0964d509a96b37db05c65f"
+    },
+    {
+      "index": 19,
+      "name": "Dritter AbschnittFamilienrecht",
+      "identisch": true,
+      "xml_zeichen": 29,
+      "pdf_zeichen": 29,
+      "sha256_xml_text": "8151affc2b779ee917c0bccc81c4ecbfe1ae4d9554ce1c4fb279950ad0865aec",
+      "sha256_pdf_text": "8151affc2b779ee917c0bccc81c4ecbfe1ae4d9554ce1c4fb279950ad0865aec"
+    },
+    {
+      "index": 20,
+      "name": "Art 13Eheschließung",
+      "identisch": true,
+      "xml_zeichen": 1738,
+      "pdf_zeichen": 1738,
+      "sha256_xml_text": "391de17ccd5ca8607639b167346307a938d305609618dcafcb555f782dcba3e9",
+      "sha256_pdf_text": "391de17ccd5ca8607639b167346307a938d305609618dcafcb555f782dcba3e9"
+    },
+    {
+      "index": 21,
+      "name": "Art 14Allgemeine Ehewirkungen",
+      "identisch": true,
+      "xml_zeichen": 1162,
+      "pdf_zeichen": 1162,
+      "sha256_xml_text": "df05992f7e1f959aeb757ccf6d2c28f48fd8a1534384f36278037f209677760a",
+      "sha256_pdf_text": "df05992f7e1f959aeb757ccf6d2c28f48fd8a1534384f36278037f209677760a"
+    },
+    {
+      "index": 22,
+      "name": "Art 15Gegenseitige Vertretung von Ehegatten",
+      "identisch": true,
+      "xml_zeichen": 226,
+      "pdf_zeichen": 226,
+      "sha256_xml_text": "0b81b745f6bdd652fcd10899c9e58e8c885e7faf0d66dabac52c8b3605cac9e2",
+      "sha256_pdf_text": "0b81b745f6bdd652fcd10899c9e58e8c885e7faf0d66dabac52c8b3605cac9e2"
+    },
+    {
+      "index": 23,
+      "name": "Art 16(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 18,
+      "pdf_zeichen": 18,
+      "sha256_xml_text": "71fe18b3696cca11d20d313beb9e2002fb1fa590400cc9102ad8b45d4d9a8d2d",
+      "sha256_pdf_text": "71fe18b3696cca11d20d313beb9e2002fb1fa590400cc9102ad8b45d4d9a8d2d"
+    },
+    {
+      "index": 24,
+      "name": "Art 17Sonderregelungen zur Scheidung",
+      "identisch": true,
+      "xml_zeichen": 1986,
+      "pdf_zeichen": 1986,
+      "sha256_xml_text": "cf3c5f1e76668739a6965b53017b34432ef959965bcdde3168c47b9a7ff27c58",
+      "sha256_pdf_text": "cf3c5f1e76668739a6965b53017b34432ef959965bcdde3168c47b9a7ff27c58"
+    },
+    {
+      "index": 25,
+      "name": "Art 17aEhewohnung",
+      "identisch": true,
+      "xml_zeichen": 149,
+      "pdf_zeichen": 149,
+      "sha256_xml_text": "a05e9f01c545dd929511edf8b81f1018e3d9a30599466ccd2af3a736325c8e2f",
+      "sha256_pdf_text": "a05e9f01c545dd929511edf8b81f1018e3d9a30599466ccd2af3a736325c8e2f"
+    },
+    {
+      "index": 26,
+      "name": "Art 17bEingetragene Lebenspartnerschaft und gleichgeschlechtliche Ehe",
+      "identisch": true,
+      "xml_zeichen": 1890,
+      "pdf_zeichen": 1890,
+      "sha256_xml_text": "021e39b9c496e33a2448c448488fc874b1186041a03243587eb315af729c980a",
+      "sha256_pdf_text": "021e39b9c496e33a2448c448488fc874b1186041a03243587eb315af729c980a"
+    },
+    {
+      "index": 27,
+      "name": "Art 18(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 18,
+      "pdf_zeichen": 18,
+      "sha256_xml_text": "09cfa991b9f8c47e5ec72b25c4ed9c7585086824ae67df042ecdc0bfb1eaf8ec",
+      "sha256_pdf_text": "09cfa991b9f8c47e5ec72b25c4ed9c7585086824ae67df042ecdc0bfb1eaf8ec"
+    },
+    {
+      "index": 28,
+      "name": "Art 19Abstammung",
+      "identisch": true,
+      "xml_zeichen": 641,
+      "pdf_zeichen": 641,
+      "sha256_xml_text": "52b44e7a115922bbac33c483c313bd3ecc7724e74050dffe7daa86e6a4cef769",
+      "sha256_pdf_text": "52b44e7a115922bbac33c483c313bd3ecc7724e74050dffe7daa86e6a4cef769"
+    },
+    {
+      "index": 29,
+      "name": "Art 20Anfechtung der Abstammung",
+      "identisch": true,
+      "xml_zeichen": 220,
+      "pdf_zeichen": 220,
+      "sha256_xml_text": "1f5a339b6dd0f673ae7daac1ace17f5bddb83e9c7fe87161c7b06eb03593475b",
+      "sha256_pdf_text": "1f5a339b6dd0f673ae7daac1ace17f5bddb83e9c7fe87161c7b06eb03593475b"
+    },
+    {
+      "index": 30,
+      "name": "Art 21Wirkungen des Eltern-Kind-Verhältnisses",
+      "identisch": true,
+      "xml_zeichen": 166,
+      "pdf_zeichen": 166,
+      "sha256_xml_text": "c9eb24ee5b30e6f834d1ec0ef0150158225b7dedda91ad17c285d69b6f80178a",
+      "sha256_pdf_text": "c9eb24ee5b30e6f834d1ec0ef0150158225b7dedda91ad17c285d69b6f80178a"
+    },
+    {
+      "index": 31,
+      "name": "Art 22Annahme als Kind",
+      "identisch": true,
+      "xml_zeichen": 938,
+      "pdf_zeichen": 938,
+      "sha256_xml_text": "774637b6f75b1360844f85d3eec45cc3f3b8742268856006ef21106710edd99a",
+      "sha256_pdf_text": "774637b6f75b1360844f85d3eec45cc3f3b8742268856006ef21106710edd99a"
+    },
+    {
+      "index": 32,
+      "name": "Art 23Zustimmung",
+      "identisch": true,
+      "xml_zeichen": 307,
+      "pdf_zeichen": 307,
+      "sha256_xml_text": "6f15aaf073af2ddad3ad3af3782b710617f35e529b09459ffbf52dbd9578cabe",
+      "sha256_pdf_text": "6f15aaf073af2ddad3ad3af3782b710617f35e529b09459ffbf52dbd9578cabe"
+    },
+    {
+      "index": 33,
+      "name": "Art 24Vormundschaft, Betreuung und Pflegschaft",
+      "identisch": true,
+      "xml_zeichen": 691,
+      "pdf_zeichen": 691,
+      "sha256_xml_text": "9e896b6797a3de37373bd9dbdabdc4a0555d6712ef0c4f8d5b26a01afaabdb4c",
+      "sha256_pdf_text": "9e896b6797a3de37373bd9dbdabdc4a0555d6712ef0c4f8d5b26a01afaabdb4c"
+    },
+    {
+      "index": 34,
+      "name": "Vierter AbschnittErbrecht",
+      "identisch": true,
+      "xml_zeichen": 24,
+      "pdf_zeichen": 24,
+      "sha256_xml_text": "dda832139c56c37dee865ceadef4628bde39acab4234c90da1a90a082541bee8",
+      "sha256_pdf_text": "dda832139c56c37dee865ceadef4628bde39acab4234c90da1a90a082541bee8"
+    },
+    {
+      "index": 35,
+      "name": "Art 25Rechtsnachfolge von Todes wegen",
+      "identisch": true,
+      "xml_zeichen": 195,
+      "pdf_zeichen": 195,
+      "sha256_xml_text": "36da010f72c5418827b0f01200d54b118efb4d086d114ac7834d1b1a981d0918",
+      "sha256_pdf_text": "36da010f72c5418827b0f01200d54b118efb4d086d114ac7834d1b1a981d0918"
+    },
+    {
+      "index": 36,
+      "name": "Art 26Form von Verfügungen von Todes wegen",
+      "identisch": true,
+      "xml_zeichen": 659,
+      "pdf_zeichen": 659,
+      "sha256_xml_text": "35eacc459ab82f93f239575395d7e8a5411b410e41d0597955dfa1cd36d8270c",
+      "sha256_pdf_text": "35eacc459ab82f93f239575395d7e8a5411b410e41d0597955dfa1cd36d8270c"
+    },
+    {
+      "index": 37,
+      "name": "Fünfter AbschnittAußervertragliche Schuldverhältnisse",
+      "identisch": true,
+      "xml_zeichen": 51,
+      "pdf_zeichen": 51,
+      "sha256_xml_text": "79dc576c382bff536e8a5579da4b6b0da23d17377b09230bd33eb22d2e3fc3ed",
+      "sha256_pdf_text": "79dc576c382bff536e8a5579da4b6b0da23d17377b09230bd33eb22d2e3fc3ed"
+    },
+    {
+      "index": 38,
+      "name": "Art 27 bis 37(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 23,
+      "pdf_zeichen": 23,
+      "sha256_xml_text": "237102d61fcf21e6f46ce364e82d6098076040fb9c97b2a2ad6522ad9605af33",
+      "sha256_pdf_text": "237102d61fcf21e6f46ce364e82d6098076040fb9c97b2a2ad6522ad9605af33"
+    },
+    {
+      "index": 39,
+      "name": "Art 38Ungerechtfertigte Bereicherung",
+      "identisch": true,
+      "xml_zeichen": 422,
+      "pdf_zeichen": 422,
+      "sha256_xml_text": "55ca3d14d2071f8198608ecb16d36c44d177be6006efb2a276f391bb17b33be8",
+      "sha256_pdf_text": "55ca3d14d2071f8198608ecb16d36c44d177be6006efb2a276f391bb17b33be8"
+    },
+    {
+      "index": 40,
+      "name": "Art 39Geschäftsführung ohne Auftrag",
+      "identisch": true,
+      "xml_zeichen": 268,
+      "pdf_zeichen": 268,
+      "sha256_xml_text": "dc967f193194205626d43b8bace92780e48d644cee3bdaebb5776b0ada0ffc54",
+      "sha256_pdf_text": "dc967f193194205626d43b8bace92780e48d644cee3bdaebb5776b0ada0ffc54"
+    },
+    {
+      "index": 41,
+      "name": "Art 40Unerlaubte Handlung",
+      "identisch": true,
+      "xml_zeichen": 1292,
+      "pdf_zeichen": 1292,
+      "sha256_xml_text": "f722c23a1712fe98587c08e456d62d2b1e9e6365504548b31795a709c52fe855",
+      "sha256_pdf_text": "f722c23a1712fe98587c08e456d62d2b1e9e6365504548b31795a709c52fe855"
+    },
+    {
+      "index": 42,
+      "name": "Art 41Wesentlich engere Verbindung",
+      "identisch": true,
+      "xml_zeichen": 545,
+      "pdf_zeichen": 545,
+      "sha256_xml_text": "56bdec5257b511c3eb6e1e8654b83a7788016a481915f72ef7e38fc51946ceb4",
+      "sha256_pdf_text": "56bdec5257b511c3eb6e1e8654b83a7788016a481915f72ef7e38fc51946ceb4"
+    },
+    {
+      "index": 43,
+      "name": "Art 42Rechtswahl",
+      "identisch": true,
+      "xml_zeichen": 184,
+      "pdf_zeichen": 184,
+      "sha256_xml_text": "21dca9caa6eec70976f6f8dc72929afd38c7ba81273448254788d07e439a585c",
+      "sha256_pdf_text": "21dca9caa6eec70976f6f8dc72929afd38c7ba81273448254788d07e439a585c"
+    },
+    {
+      "index": 44,
+      "name": "Sechster AbschnittSachenrecht",
+      "identisch": true,
+      "xml_zeichen": 28,
+      "pdf_zeichen": 28,
+      "sha256_xml_text": "e299353d8cf857294dbda0777bde22e57ee515910de17d1726e70edda6d1b2a2",
+      "sha256_pdf_text": "e299353d8cf857294dbda0777bde22e57ee515910de17d1726e70edda6d1b2a2"
+    },
+    {
+      "index": 45,
+      "name": "Art 43Rechte an einer Sache",
+      "identisch": true,
+      "xml_zeichen": 422,
+      "pdf_zeichen": 422,
+      "sha256_xml_text": "39f9d3add023abcb0bf037e5ff044e5998ca702423d69e8fcebbb7b3210bdee6",
+      "sha256_pdf_text": "39f9d3add023abcb0bf037e5ff044e5998ca702423d69e8fcebbb7b3210bdee6"
+    },
+    {
+      "index": 46,
+      "name": "Art 44Von Grundstücken ausgehende Einwirkungen",
+      "identisch": true,
+      "xml_zeichen": 205,
+      "pdf_zeichen": 205,
+      "sha256_xml_text": "e697b3be9b7f1262376b40d5e360f168b02681db48266d9d0e31990324df7f80",
+      "sha256_pdf_text": "e697b3be9b7f1262376b40d5e360f168b02681db48266d9d0e31990324df7f80"
+    },
+    {
+      "index": 47,
+      "name": "Art 45Transportmittel",
+      "identisch": true,
+      "xml_zeichen": 633,
+      "pdf_zeichen": 633,
+      "sha256_xml_text": "4a24d25d0c82345f149890435c8d5f40fda6de1e06b3d39c8eab17d30d7d17c3",
+      "sha256_pdf_text": "4a24d25d0c82345f149890435c8d5f40fda6de1e06b3d39c8eab17d30d7d17c3"
+    },
+    {
+      "index": 48,
+      "name": "Art 46Wesentlich engere Verbindung",
+      "identisch": true,
+      "xml_zeichen": 171,
+      "pdf_zeichen": 171,
+      "sha256_xml_text": "7c630e0981e698ef6b65389d3ae61c4fc4a9dccaadcef99b9c29eeff322c4327",
+      "sha256_pdf_text": "7c630e0981e698ef6b65389d3ae61c4fc4a9dccaadcef99b9c29eeff322c4327"
+    },
+    {
+      "index": 49,
+      "name": "Siebter AbschnittBesondere Vorschriften zur Durchführung und Umsetzung international-privatrechtlicher Regelungen der Europäischen Union",
+      "identisch": true,
+      "xml_zeichen": 125,
+      "pdf_zeichen": 125,
+      "sha256_xml_text": "e94e5fb318522164769abaa141f3d0a658368b21974fab5b7d50b57dca201bcc",
+      "sha256_pdf_text": "e94e5fb318522164769abaa141f3d0a658368b21974fab5b7d50b57dca201bcc"
+    },
+    {
+      "index": 50,
+      "name": "Erster UnterabschnittDurchführung der Verordnung (EG) Nr. 864/2007",
+      "identisch": true,
+      "xml_zeichen": 60,
+      "pdf_zeichen": 60,
+      "sha256_xml_text": "b0498e6c91f5c043403e58be633baa60fcd6cd1009d976bd895cc7a3e7857842",
+      "sha256_pdf_text": "b0498e6c91f5c043403e58be633baa60fcd6cd1009d976bd895cc7a3e7857842"
+    },
+    {
+      "index": 51,
+      "name": "Art 46aUmweltschädigungen",
+      "identisch": true,
+      "xml_zeichen": 304,
+      "pdf_zeichen": 304,
+      "sha256_xml_text": "fc93ea467a79bba9c598a3a70ca55f1bc2e3ddf7f961e2ec1ffb9994dba19afc",
+      "sha256_pdf_text": "fc93ea467a79bba9c598a3a70ca55f1bc2e3ddf7f961e2ec1ffb9994dba19afc"
+    },
+    {
+      "index": 52,
+      "name": "Zweiter UnterabschnittUmsetzung international-privatrechtlicher Regelungen im Verbraucherschutz",
+      "identisch": true,
+      "xml_zeichen": 90,
+      "pdf_zeichen": 90,
+      "sha256_xml_text": "2ccd7e117bca3814eb543a6d347abde885299e5527ad4e26f842304864ba433f",
+      "sha256_pdf_text": "2ccd7e117bca3814eb543a6d347abde885299e5527ad4e26f842304864ba433f"
+    },
+    {
+      "index": 53,
+      "name": "Art 46bVerbraucherschutz für besondere Gebiete",
+      "identisch": true,
+      "xml_zeichen": 2523,
+      "pdf_zeichen": 2523,
+      "sha256_xml_text": "b2e3ba943f9776a0011c2e342127272b3ac1d582b0f285e4285e9fa3002de617",
+      "sha256_pdf_text": "b2e3ba943f9776a0011c2e342127272b3ac1d582b0f285e4285e9fa3002de617"
+    },
+    {
+      "index": 54,
+      "name": "Art 46cPauschalreisen und verbundene Reiseleistungen",
+      "identisch": true,
+      "xml_zeichen": 2694,
+      "pdf_zeichen": 2694,
+      "sha256_xml_text": "1e6e31953663d58e6ea99ba558d2ecc5eeca60cf49faa84296f96162c8245e76",
+      "sha256_pdf_text": "1e6e31953663d58e6ea99ba558d2ecc5eeca60cf49faa84296f96162c8245e76"
+    },
+    {
+      "index": 55,
+      "name": "Dritter UnterabschnittDurchführung der Verordnung (EG) Nr. 593/2008",
+      "identisch": true,
+      "xml_zeichen": 61,
+      "pdf_zeichen": 61,
+      "sha256_xml_text": "d72c5dd10d4f939ca25b76430651efb592128eb39f226f7476a107ec2ad8107b",
+      "sha256_pdf_text": "d72c5dd10d4f939ca25b76430651efb592128eb39f226f7476a107ec2ad8107b"
+    },
+    {
+      "index": 56,
+      "name": "Art 46dPflichtversicherungsverträge",
+      "identisch": true,
+      "xml_zeichen": 446,
+      "pdf_zeichen": 446,
+      "sha256_xml_text": "42494e5d8d454704ec2e9c97e67c6632a40fa6d31fd7569515775dd056f1add6",
+      "sha256_pdf_text": "42494e5d8d454704ec2e9c97e67c6632a40fa6d31fd7569515775dd056f1add6"
+    },
+    {
+      "index": 57,
+      "name": "Vierter UnterabschnittDurchführung der Verordnung (EU) Nr. 1259/2010",
+      "identisch": true,
+      "xml_zeichen": 62,
+      "pdf_zeichen": 62,
+      "sha256_xml_text": "7f6b293daca13b9dfb0061a502df04ea4388b35f322d8db636791dc5cd6f3174",
+      "sha256_pdf_text": "7f6b293daca13b9dfb0061a502df04ea4388b35f322d8db636791dc5cd6f3174"
+    },
+    {
+      "index": 58,
+      "name": "Art 46eRechtswahl",
+      "identisch": true,
+      "xml_zeichen": 276,
+      "pdf_zeichen": 276,
+      "sha256_xml_text": "4e53e29549d41e924ffdd030b286122ea30c460562d00f05d806c2f622454056",
+      "sha256_pdf_text": "4e53e29549d41e924ffdd030b286122ea30c460562d00f05d806c2f622454056"
+    },
+    {
+      "index": 59,
+      "name": "Drittes KapitelAngleichung; Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens",
+      "identisch": true,
+      "xml_zeichen": 98,
+      "pdf_zeichen": 98,
+      "sha256_xml_text": "bd5f0add4030b9e12e5d553f9508e3059331c09c3a15dde18a321ce64c3acb49",
+      "sha256_pdf_text": "bd5f0add4030b9e12e5d553f9508e3059331c09c3a15dde18a321ce64c3acb49"
+    },
+    {
+      "index": 60,
+      "name": "Art 47Vor- und Familiennamen",
+      "identisch": true,
+      "xml_zeichen": 1190,
+      "pdf_zeichen": 1190,
+      "sha256_xml_text": "bf73a3c69b17be1f9064df07b35f025cde904b87af3858f505d0cce75ea8b865",
+      "sha256_pdf_text": "bf73a3c69b17be1f9064df07b35f025cde904b87af3858f505d0cce75ea8b865"
+    },
+    {
+      "index": 61,
+      "name": "Art 48Namenswahl",
+      "identisch": true,
+      "xml_zeichen": 730,
+      "pdf_zeichen": 730,
+      "sha256_xml_text": "88c5efcbac49be451d117d9001e4b3306c11b6ca092ed6ab6626f7aa8eba2db6",
+      "sha256_pdf_text": "88c5efcbac49be451d117d9001e4b3306c11b6ca092ed6ab6626f7aa8eba2db6"
+    },
+    {
+      "index": 62,
+      "name": "Art 49(Änderung anderer Vorschriften)",
+      "identisch": true,
+      "xml_zeichen": 34,
+      "pdf_zeichen": 34,
+      "sha256_xml_text": "d0af1162f39de1380dcd1911fb092bd854175f5723640847fd37a5a4c0d6ac35",
+      "sha256_pdf_text": "d0af1162f39de1380dcd1911fb092bd854175f5723640847fd37a5a4c0d6ac35"
+    },
+    {
+      "index": 63,
+      "name": "Zweiter TeilVerhältnis des Bürgerlichen Gesetzbuchs zu den Reichsgesetzen",
+      "identisch": true,
+      "xml_zeichen": 66,
+      "pdf_zeichen": 66,
+      "sha256_xml_text": "cf4adb42da8e8db8d213da717eac25859426f173253af6ae49f8ca476703f409",
+      "sha256_pdf_text": "cf4adb42da8e8db8d213da717eac25859426f173253af6ae49f8ca476703f409"
+    },
+    {
+      "index": 64,
+      "name": "Art 50",
+      "identisch": true,
+      "xml_zeichen": 158,
+      "pdf_zeichen": 158,
+      "sha256_xml_text": "606f38faa21456ebb17df3187ef1614aa9129a441dc37543924e4fd9afd14a39",
+      "sha256_pdf_text": "606f38faa21456ebb17df3187ef1614aa9129a441dc37543924e4fd9afd14a39"
+    },
+    {
+      "index": 65,
+      "name": "Art 51",
+      "identisch": true,
+      "xml_zeichen": 327,
+      "pdf_zeichen": 327,
+      "sha256_xml_text": "5c313e584de4e1048d4ecf3773d96544f2b139b68703eaf0570cf83c262faf01",
+      "sha256_pdf_text": "5c313e584de4e1048d4ecf3773d96544f2b139b68703eaf0570cf83c262faf01"
+    },
+    {
+      "index": 66,
+      "name": "Art 52",
+      "identisch": true,
+      "xml_zeichen": 471,
+      "pdf_zeichen": 471,
+      "sha256_xml_text": "2c2a5481a556d7569b96bdf67a8d4a650fc24d3dd7a944ee26dd2f9cb3a566f6",
+      "sha256_pdf_text": "2c2a5481a556d7569b96bdf67a8d4a650fc24d3dd7a944ee26dd2f9cb3a566f6"
+    },
+    {
+      "index": 67,
+      "name": "Art 53",
+      "identisch": true,
+      "xml_zeichen": 1032,
+      "pdf_zeichen": 1032,
+      "sha256_xml_text": "7d15f9eec7e56cfa218c922aff485f16476ad851347565550a6cc6bfaf6f7c33",
+      "sha256_pdf_text": "7d15f9eec7e56cfa218c922aff485f16476ad851347565550a6cc6bfaf6f7c33"
+    },
+    {
+      "index": 68,
+      "name": "Art 53a",
+      "identisch": true,
+      "xml_zeichen": 353,
+      "pdf_zeichen": 353,
+      "sha256_xml_text": "a4940d831b018a370ea6c47a909a6b4aae48cb470124e5b639080c486e7d8c64",
+      "sha256_pdf_text": "a4940d831b018a370ea6c47a909a6b4aae48cb470124e5b639080c486e7d8c64"
+    },
+    {
+      "index": 69,
+      "name": "Art 54(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 21,
+      "pdf_zeichen": 21,
+      "sha256_xml_text": "2b23840dfc8a7169ba4a0905bfd2ab4b746aeb13f688af3db73e8710c8ca6067",
+      "sha256_pdf_text": "2b23840dfc8a7169ba4a0905bfd2ab4b746aeb13f688af3db73e8710c8ca6067"
+    },
+    {
+      "index": 70,
+      "name": "Dritter TeilVerhältnis des Bürgerlichen Gesetzbuchs zu den Landesgesetzen",
+      "identisch": true,
+      "xml_zeichen": 66,
+      "pdf_zeichen": 66,
+      "sha256_xml_text": "225df9bf0dfde10a5737030bbb5b9ac11377775a232d26d7f6e9fda1bec16d8a",
+      "sha256_pdf_text": "225df9bf0dfde10a5737030bbb5b9ac11377775a232d26d7f6e9fda1bec16d8a"
+    },
+    {
+      "index": 71,
+      "name": "Art 55",
+      "identisch": true,
+      "xml_zeichen": 148,
+      "pdf_zeichen": 148,
+      "sha256_xml_text": "4ef10aeed186e8c20e051c13efb4d1f38ac4165dd09272c2814f5062c004320c",
+      "sha256_pdf_text": "4ef10aeed186e8c20e051c13efb4d1f38ac4165dd09272c2814f5062c004320c"
+    },
+    {
+      "index": 72,
+      "name": "Art 56",
+      "identisch": true,
+      "xml_zeichen": 157,
+      "pdf_zeichen": 157,
+      "sha256_xml_text": "e965bdb1dd7e179e9dec3aa44e66358e807d1f44bd0538eb7f3523ee8599c94e",
+      "sha256_pdf_text": "e965bdb1dd7e179e9dec3aa44e66358e807d1f44bd0538eb7f3523ee8599c94e"
+    },
+    {
+      "index": 73,
+      "name": "Art 57 und 58(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 26,
+      "pdf_zeichen": 26,
+      "sha256_xml_text": "2f1863f6a9bc178a0c0669685144e9db248f48d711a2c1790de8d60486a164d9",
+      "sha256_pdf_text": "2f1863f6a9bc178a0c0669685144e9db248f48d711a2c1790de8d60486a164d9"
+    },
+    {
+      "index": 74,
+      "name": "Art 59",
+      "identisch": true,
+      "xml_zeichen": 144,
+      "pdf_zeichen": 144,
+      "sha256_xml_text": "e1a42711f3b04f0f361861a8ebe5efbcdc888e86447eeda1877216ade03724e3",
+      "sha256_pdf_text": "e1a42711f3b04f0f361861a8ebe5efbcdc888e86447eeda1877216ade03724e3"
+    },
+    {
+      "index": 75,
+      "name": "Art 60",
+      "identisch": true,
+      "xml_zeichen": 327,
+      "pdf_zeichen": 327,
+      "sha256_xml_text": "3800853e083717986bdae6a2f7a4de765cbfb42fdbef6682b557d479bfa38704",
+      "sha256_pdf_text": "3800853e083717986bdae6a2f7a4de765cbfb42fdbef6682b557d479bfa38704"
+    },
+    {
+      "index": 76,
+      "name": "Art 61",
+      "identisch": true,
+      "xml_zeichen": 328,
+      "pdf_zeichen": 328,
+      "sha256_xml_text": "51f058fa205e5703e07c66868ae0bf9199eb9730696f96a96cca577d4ccf863e",
+      "sha256_pdf_text": "51f058fa205e5703e07c66868ae0bf9199eb9730696f96a96cca577d4ccf863e"
+    },
+    {
+      "index": 77,
+      "name": "Art 62",
+      "identisch": true,
+      "xml_zeichen": 70,
+      "pdf_zeichen": 70,
+      "sha256_xml_text": "3bc75c51fe0561bd5a00933fd059edf9a4e2b4773c4c6778e3e89cbb5df59dc7",
+      "sha256_pdf_text": "3bc75c51fe0561bd5a00933fd059edf9a4e2b4773c4c6778e3e89cbb5df59dc7"
+    },
+    {
+      "index": 78,
+      "name": "Art 63",
+      "identisch": true,
+      "xml_zeichen": 270,
+      "pdf_zeichen": 270,
+      "sha256_xml_text": "b4dbf8de3907d010f6f09893fcaf64e31a2bd9ed5eb575c7d2b9e0ca2c482386",
+      "sha256_pdf_text": "b4dbf8de3907d010f6f09893fcaf64e31a2bd9ed5eb575c7d2b9e0ca2c482386"
+    },
+    {
+      "index": 79,
+      "name": "Art 64",
+      "identisch": true,
+      "xml_zeichen": 292,
+      "pdf_zeichen": 292,
+      "sha256_xml_text": "379d7fe7d13e4b8b1338e25b6b6917b87b98c9e41608f9fcbe038aee69ed78a6",
+      "sha256_pdf_text": "379d7fe7d13e4b8b1338e25b6b6917b87b98c9e41608f9fcbe038aee69ed78a6"
+    },
+    {
+      "index": 80,
+      "name": "Art 65(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 18,
+      "pdf_zeichen": 18,
+      "sha256_xml_text": "a1c3c772f4c519c0403f1bf2011b8c9480c0b31b1c1a40144f01c751ddddf2e6",
+      "sha256_pdf_text": "a1c3c772f4c519c0403f1bf2011b8c9480c0b31b1c1a40144f01c751ddddf2e6"
+    },
+    {
+      "index": 81,
+      "name": "Art 66",
+      "identisch": true,
+      "xml_zeichen": 92,
+      "pdf_zeichen": 92,
+      "sha256_xml_text": "4006435a623af53cfe846a7634307cbc383449309280f626ab7f6051564a94e3",
+      "sha256_pdf_text": "4006435a623af53cfe846a7634307cbc383449309280f626ab7f6051564a94e3"
+    },
+    {
+      "index": 82,
+      "name": "Art 67",
+      "identisch": true,
+      "xml_zeichen": 294,
+      "pdf_zeichen": 294,
+      "sha256_xml_text": "e2534e68adf90eb8890106c5afb8f430cb4e64389b5205e24a26c0ead4bcb2ce",
+      "sha256_pdf_text": "e2534e68adf90eb8890106c5afb8f430cb4e64389b5205e24a26c0ead4bcb2ce"
+    },
+    {
+      "index": 83,
+      "name": "Art 68",
+      "identisch": true,
+      "xml_zeichen": 348,
+      "pdf_zeichen": 348,
+      "sha256_xml_text": "f9cf9bc9baab3c3b51bdf21225f7f567684d2014aa8641113a4b9b6ec9efccb3",
+      "sha256_pdf_text": "f9cf9bc9baab3c3b51bdf21225f7f567684d2014aa8641113a4b9b6ec9efccb3"
+    },
+    {
+      "index": 84,
+      "name": "Art 69",
+      "identisch": true,
+      "xml_zeichen": 210,
+      "pdf_zeichen": 210,
+      "sha256_xml_text": "1280f299b93e33b2eafa4631fbd5a36ead225cd179f3e8c9bd0ff10c074e15e1",
+      "sha256_pdf_text": "1280f299b93e33b2eafa4631fbd5a36ead225cd179f3e8c9bd0ff10c074e15e1"
+    },
+    {
+      "index": 85,
+      "name": "Art 70 bis 72(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 23,
+      "pdf_zeichen": 23,
+      "sha256_xml_text": "6847531f0cd7aa302f41aaf9a3b4a696ef89d1e22d655f4002959273fc9c2af2",
+      "sha256_pdf_text": "6847531f0cd7aa302f41aaf9a3b4a696ef89d1e22d655f4002959273fc9c2af2"
+    },
+    {
+      "index": 86,
+      "name": "Art 73",
+      "identisch": true,
+      "xml_zeichen": 67,
+      "pdf_zeichen": 67,
+      "sha256_xml_text": "d2994e8b50e6a4481fcc65091382916185cff0642f21c75c330215ee6fab9d77",
+      "sha256_pdf_text": "d2994e8b50e6a4481fcc65091382916185cff0642f21c75c330215ee6fab9d77"
+    },
+    {
+      "index": 87,
+      "name": "Art 74",
+      "identisch": true,
+      "xml_zeichen": 110,
+      "pdf_zeichen": 110,
+      "sha256_xml_text": "0d3e86ba9b2710c147bfe39c17dcad7500dbb4d2cbaac76d7a724bb9dba203b2",
+      "sha256_pdf_text": "0d3e86ba9b2710c147bfe39c17dcad7500dbb4d2cbaac76d7a724bb9dba203b2"
+    },
+    {
+      "index": 88,
+      "name": "Art 75(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 21,
+      "pdf_zeichen": 21,
+      "sha256_xml_text": "7d7b49ad6fc3edfbbdde8f5b2efd3d0565d97df02e7d3aa7f9cf4bd8fee59fee",
+      "sha256_pdf_text": "7d7b49ad6fc3edfbbdde8f5b2efd3d0565d97df02e7d3aa7f9cf4bd8fee59fee"
+    },
+    {
+      "index": 89,
+      "name": "Art 76",
+      "identisch": true,
+      "xml_zeichen": 86,
+      "pdf_zeichen": 86,
+      "sha256_xml_text": "f5e7bedd525ec66334c2a47d9b523db7739c32d87e0d97ca4bbd6f380af56a23",
+      "sha256_pdf_text": "f5e7bedd525ec66334c2a47d9b523db7739c32d87e0d97ca4bbd6f380af56a23"
+    },
+    {
+      "index": 90,
+      "name": "Art 77",
+      "identisch": true,
+      "xml_zeichen": 534,
+      "pdf_zeichen": 534,
+      "sha256_xml_text": "8cca47f012c16dea1044d7f87e254a423468c7deccf2e955ab1b93ebde5beb60",
+      "sha256_pdf_text": "8cca47f012c16dea1044d7f87e254a423468c7deccf2e955ab1b93ebde5beb60"
+    },
+    {
+      "index": 91,
+      "name": "Art 78",
+      "identisch": true,
+      "xml_zeichen": 295,
+      "pdf_zeichen": 295,
+      "sha256_xml_text": "d4c2a79dc7e80d6e5a0e7898315dd7f45e6b84908fdc80f81ba8f0756e20f54a",
+      "sha256_pdf_text": "d4c2a79dc7e80d6e5a0e7898315dd7f45e6b84908fdc80f81ba8f0756e20f54a"
+    },
+    {
+      "index": 92,
+      "name": "Art 79",
+      "identisch": true,
+      "xml_zeichen": 259,
+      "pdf_zeichen": 259,
+      "sha256_xml_text": "29e439f40f77b0dd7ecf09314c29ca5e9c6b5800ce4138ea9b56eeb71b745b9f",
+      "sha256_pdf_text": "29e439f40f77b0dd7ecf09314c29ca5e9c6b5800ce4138ea9b56eeb71b745b9f"
+    },
+    {
+      "index": 93,
+      "name": "Art 80",
+      "identisch": true,
+      "xml_zeichen": 406,
+      "pdf_zeichen": 406,
+      "sha256_xml_text": "99cd31b4e2f36435da20203c2656f914637103df8e71717b80a2d2c316c41018",
+      "sha256_pdf_text": "99cd31b4e2f36435da20203c2656f914637103df8e71717b80a2d2c316c41018"
+    },
+    {
+      "index": 94,
+      "name": "Art 81",
+      "identisch": true,
+      "xml_zeichen": 343,
+      "pdf_zeichen": 343,
+      "sha256_xml_text": "7d73da50217d0b5fc051917bc9d5dbf10562377759722cf938657bbcc7f9044a",
+      "sha256_pdf_text": "7d73da50217d0b5fc051917bc9d5dbf10562377759722cf938657bbcc7f9044a"
+    },
+    {
+      "index": 95,
+      "name": "Art 82",
+      "identisch": true,
+      "xml_zeichen": 135,
+      "pdf_zeichen": 135,
+      "sha256_xml_text": "92f95c77a544fda20cc154e1c8e9453b84fcf3f34d57dd7558f6be667a3c2d4d",
+      "sha256_pdf_text": "92f95c77a544fda20cc154e1c8e9453b84fcf3f34d57dd7558f6be667a3c2d4d"
+    },
+    {
+      "index": 96,
+      "name": "Art 83",
+      "identisch": true,
+      "xml_zeichen": 79,
+      "pdf_zeichen": 79,
+      "sha256_xml_text": "c7c900a250ed2f2780ec01e9420168d729756f5e95587af015c1278bcd5058b6",
+      "sha256_pdf_text": "c7c900a250ed2f2780ec01e9420168d729756f5e95587af015c1278bcd5058b6"
+    },
+    {
+      "index": 97,
+      "name": "Art 84",
+      "identisch": true,
+      "xml_zeichen": 21,
+      "pdf_zeichen": 21,
+      "sha256_xml_text": "1e6ca07b392e9ec3299ac35580f2c4c99b8ee21ba5095bbcd08c055b3b84bb15",
+      "sha256_pdf_text": "1e6ca07b392e9ec3299ac35580f2c4c99b8ee21ba5095bbcd08c055b3b84bb15"
+    },
+    {
+      "index": 98,
+      "name": "Art 85",
+      "identisch": true,
+      "xml_zeichen": 225,
+      "pdf_zeichen": 225,
+      "sha256_xml_text": "8d91473fc44a298c36f34e5ec4f27b3d5674a36542bb2cee010bde15fa52dd7f",
+      "sha256_pdf_text": "8d91473fc44a298c36f34e5ec4f27b3d5674a36542bb2cee010bde15fa52dd7f"
+    },
+    {
+      "index": 99,
+      "name": "Art 86",
+      "identisch": true,
+      "xml_zeichen": 791,
+      "pdf_zeichen": 791,
+      "sha256_xml_text": "9433c42e0191da8a650a85c7650a67bc687070be2d8cb3317ccd3fdcf08ea674",
+      "sha256_pdf_text": "9433c42e0191da8a650a85c7650a67bc687070be2d8cb3317ccd3fdcf08ea674"
+    },
+    {
+      "index": 100,
+      "name": "Art 87(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 18,
+      "pdf_zeichen": 18,
+      "sha256_xml_text": "2acce8c33a2396c889d91c5091a83e309ac89d2ad5d027be1c134213e05ae8ce",
+      "sha256_pdf_text": "2acce8c33a2396c889d91c5091a83e309ac89d2ad5d027be1c134213e05ae8ce"
+    },
+    {
+      "index": 101,
+      "name": "Art 88(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 18,
+      "pdf_zeichen": 18,
+      "sha256_xml_text": "7eb0faff1be8e83a3e004f9a0d80e0ccd621acfd5f866949ee0681f09306fe26",
+      "sha256_pdf_text": "7eb0faff1be8e83a3e004f9a0d80e0ccd621acfd5f866949ee0681f09306fe26"
+    },
+    {
+      "index": 102,
+      "name": "Art 89",
+      "identisch": true,
+      "xml_zeichen": 216,
+      "pdf_zeichen": 216,
+      "sha256_xml_text": "7a10d0921eeba790ae891fba775ee5330291bbd05fa39805fbd10fba7f56379c",
+      "sha256_pdf_text": "7a10d0921eeba790ae891fba775ee5330291bbd05fa39805fbd10fba7f56379c"
+    },
+    {
+      "index": 103,
+      "name": "Art 90",
+      "identisch": true,
+      "xml_zeichen": 217,
+      "pdf_zeichen": 217,
+      "sha256_xml_text": "56b1649ef14aab5a74fb3c7f220689036686d8215d669363856801bbc2bedb95",
+      "sha256_pdf_text": "56b1649ef14aab5a74fb3c7f220689036686d8215d669363856801bbc2bedb95"
+    },
+    {
+      "index": 104,
+      "name": "Art 91",
+      "identisch": true,
+      "xml_zeichen": 479,
+      "pdf_zeichen": 479,
+      "sha256_xml_text": "3ef800a1b7485751d50a97f967728f7ff1b9fc535bc2fe9984368e3dc60e4463",
+      "sha256_pdf_text": "3ef800a1b7485751d50a97f967728f7ff1b9fc535bc2fe9984368e3dc60e4463"
+    },
+    {
+      "index": 105,
+      "name": "Art 92(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 18,
+      "pdf_zeichen": 18,
+      "sha256_xml_text": "5b21e5efea5852fd0094a173844b867bb5927cf61c441af55e2db913d07812b5",
+      "sha256_pdf_text": "5b21e5efea5852fd0094a173844b867bb5927cf61c441af55e2db913d07812b5"
+    },
+    {
+      "index": 106,
+      "name": "Art 93",
+      "identisch": true,
+      "xml_zeichen": 145,
+      "pdf_zeichen": 145,
+      "sha256_xml_text": "fa11382e14b28ca5be0a003462de75baca34e44ed90c257d9f185474da7e46c5",
+      "sha256_pdf_text": "fa11382e14b28ca5be0a003462de75baca34e44ed90c257d9f185474da7e46c5"
+    },
+    {
+      "index": 107,
+      "name": "Art 94",
+      "identisch": true,
+      "xml_zeichen": 328,
+      "pdf_zeichen": 328,
+      "sha256_xml_text": "0ab24f8170df2a1801a1eacd928c01687d0f160da59ab51598dc0beec11cc813",
+      "sha256_pdf_text": "0ab24f8170df2a1801a1eacd928c01687d0f160da59ab51598dc0beec11cc813"
+    },
+    {
+      "index": 108,
+      "name": "Art 95(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 21,
+      "pdf_zeichen": 21,
+      "sha256_xml_text": "f8fc21b92ac1b3727af3a8639a2874ba464f0b2e1eec1ca56cd66df85fc14f6e",
+      "sha256_pdf_text": "f8fc21b92ac1b3727af3a8639a2874ba464f0b2e1eec1ca56cd66df85fc14f6e"
+    },
+    {
+      "index": 109,
+      "name": "Art 96",
+      "identisch": true,
+      "xml_zeichen": 290,
+      "pdf_zeichen": 290,
+      "sha256_xml_text": "fe559d36210666df9e122d56b98ee943f8b6127842bb680138eb4a2eca0cf7d8",
+      "sha256_pdf_text": "fe559d36210666df9e122d56b98ee943f8b6127842bb680138eb4a2eca0cf7d8"
+    },
+    {
+      "index": 110,
+      "name": "Art 97",
+      "identisch": true,
+      "xml_zeichen": 695,
+      "pdf_zeichen": 695,
+      "sha256_xml_text": "fd514e89f716d4d19818c4797aeeaf6121f21c15115619b6c89f4db6fb6a805f",
+      "sha256_pdf_text": "fd514e89f716d4d19818c4797aeeaf6121f21c15115619b6c89f4db6fb6a805f"
+    },
+    {
+      "index": 111,
+      "name": "Art 98",
+      "identisch": true,
+      "xml_zeichen": 185,
+      "pdf_zeichen": 185,
+      "sha256_xml_text": "aa93941c0cd3f5cbfda9ff2ec4ae588cbee847ee221d7b8a207330d2187041f1",
+      "sha256_pdf_text": "aa93941c0cd3f5cbfda9ff2ec4ae588cbee847ee221d7b8a207330d2187041f1"
+    },
+    {
+      "index": 112,
+      "name": "Art 99",
+      "identisch": true,
+      "xml_zeichen": 216,
+      "pdf_zeichen": 216,
+      "sha256_xml_text": "7bd155983cd372fcea60e1e339dbfaae4a1defa2c30df7ec3fe0d209e5e23fe9",
+      "sha256_pdf_text": "7bd155983cd372fcea60e1e339dbfaae4a1defa2c30df7ec3fe0d209e5e23fe9"
+    },
+    {
+      "index": 113,
+      "name": "Art 100",
+      "identisch": true,
+      "xml_zeichen": 489,
+      "pdf_zeichen": 489,
+      "sha256_xml_text": "d6c1b5aaa2bf7816f80fd3915f75742d97057c1669a4fe5c9ad86f6582174562",
+      "sha256_pdf_text": "d6c1b5aaa2bf7816f80fd3915f75742d97057c1669a4fe5c9ad86f6582174562"
+    },
+    {
+      "index": 114,
+      "name": "Art 101",
+      "identisch": true,
+      "xml_zeichen": 519,
+      "pdf_zeichen": 519,
+      "sha256_xml_text": "bbd5b43c735c65e9bcd0c020426a2460d38b99f97b11cea2ee377ff518088ebe",
+      "sha256_pdf_text": "bbd5b43c735c65e9bcd0c020426a2460d38b99f97b11cea2ee377ff518088ebe"
+    },
+    {
+      "index": 115,
+      "name": "Art 102",
+      "identisch": true,
+      "xml_zeichen": 358,
+      "pdf_zeichen": 358,
+      "sha256_xml_text": "e941dd92e08592fe5fb7aa37742afd66888ed7fe83b1c5a16605afac8c118a15",
+      "sha256_pdf_text": "e941dd92e08592fe5fb7aa37742afd66888ed7fe83b1c5a16605afac8c118a15"
+    },
+    {
+      "index": 116,
+      "name": "Art 103(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 22,
+      "pdf_zeichen": 22,
+      "sha256_xml_text": "2ea0ce49a61908280fc8457b35eae31588b59402c330c13066a22ea5cefc466c",
+      "sha256_pdf_text": "2ea0ce49a61908280fc8457b35eae31588b59402c330c13066a22ea5cefc466c"
+    },
+    {
+      "index": 117,
+      "name": "Art 104",
+      "identisch": true,
+      "xml_zeichen": 151,
+      "pdf_zeichen": 151,
+      "sha256_xml_text": "1a66f03b7cf5efc17a145ef87d77f1653428d7a4ad9beb80e897c7fc2f700a07",
+      "sha256_pdf_text": "1a66f03b7cf5efc17a145ef87d77f1653428d7a4ad9beb80e897c7fc2f700a07"
+    },
+    {
+      "index": 118,
+      "name": "Art 105",
+      "identisch": true,
+      "xml_zeichen": 419,
+      "pdf_zeichen": 419,
+      "sha256_xml_text": "2ae8c14bedafdacdd4d6dfb048dd23536ecaa37ffb1616ee5905aebab6ec6bd1",
+      "sha256_pdf_text": "2ae8c14bedafdacdd4d6dfb048dd23536ecaa37ffb1616ee5905aebab6ec6bd1"
+    },
+    {
+      "index": 119,
+      "name": "Art 106",
+      "identisch": true,
+      "xml_zeichen": 321,
+      "pdf_zeichen": 321,
+      "sha256_xml_text": "26859ad18bcc9a0193b347998c23c93ea7b290e0e143ac4d58621465f0f35c8f",
+      "sha256_pdf_text": "26859ad18bcc9a0193b347998c23c93ea7b290e0e143ac4d58621465f0f35c8f"
+    },
+    {
+      "index": 120,
+      "name": "Art 107",
+      "identisch": true,
+      "xml_zeichen": 189,
+      "pdf_zeichen": 189,
+      "sha256_xml_text": "eb07425bbe0089d915a8e83e6901e7acc070be5fb9a3e818f8f72057777d5319",
+      "sha256_pdf_text": "eb07425bbe0089d915a8e83e6901e7acc070be5fb9a3e818f8f72057777d5319"
+    },
+    {
+      "index": 121,
+      "name": "Art 108",
+      "identisch": true,
+      "xml_zeichen": 160,
+      "pdf_zeichen": 160,
+      "sha256_xml_text": "3dca7b7dbd197af2ae82e0fcae0995fe0dd048beb92d8645b03e68740bf85cf8",
+      "sha256_pdf_text": "3dca7b7dbd197af2ae82e0fcae0995fe0dd048beb92d8645b03e68740bf85cf8"
+    },
+    {
+      "index": 122,
+      "name": "Art 109",
+      "identisch": true,
+      "xml_zeichen": 534,
+      "pdf_zeichen": 534,
+      "sha256_xml_text": "e17db59e06c4b880df86e73725f6b448da49d57f76067427172089c57fbe9c41",
+      "sha256_pdf_text": "e17db59e06c4b880df86e73725f6b448da49d57f76067427172089c57fbe9c41"
+    },
+    {
+      "index": 123,
+      "name": "Art 110",
+      "identisch": true,
+      "xml_zeichen": 173,
+      "pdf_zeichen": 173,
+      "sha256_xml_text": "6ad4611cce8a906d576666a38f7aa56eef4dd06a595f5fc635ee34599579bc76",
+      "sha256_pdf_text": "6ad4611cce8a906d576666a38f7aa56eef4dd06a595f5fc635ee34599579bc76"
+    },
+    {
+      "index": 124,
+      "name": "Art 111",
+      "identisch": true,
+      "xml_zeichen": 142,
+      "pdf_zeichen": 142,
+      "sha256_xml_text": "51ba35fcc0ec28df4057b8e04da6600b6a70c5e8712731fc476494703a2809cb",
+      "sha256_pdf_text": "51ba35fcc0ec28df4057b8e04da6600b6a70c5e8712731fc476494703a2809cb"
+    },
+    {
+      "index": 125,
+      "name": "Art 112",
+      "identisch": true,
+      "xml_zeichen": 537,
+      "pdf_zeichen": 537,
+      "sha256_xml_text": "0d89cf2fb4ace215ae5d1988bdd27eced1b4547e9f41660a3cd5081f9d7518ed",
+      "sha256_pdf_text": "0d89cf2fb4ace215ae5d1988bdd27eced1b4547e9f41660a3cd5081f9d7518ed"
+    },
+    {
+      "index": 126,
+      "name": "Art 113",
+      "identisch": true,
+      "xml_zeichen": 559,
+      "pdf_zeichen": 559,
+      "sha256_xml_text": "19342863f5d0304bb4c930253e22d447bb4e86b546cc20b81f6df625630b651f",
+      "sha256_pdf_text": "19342863f5d0304bb4c930253e22d447bb4e86b546cc20b81f6df625630b651f"
+    },
+    {
+      "index": 127,
+      "name": "Art 114",
+      "identisch": true,
+      "xml_zeichen": 387,
+      "pdf_zeichen": 387,
+      "sha256_xml_text": "28dc6bb133b30f1591a77619ea249a98041816237eed13b4598294624ef8eca1",
+      "sha256_pdf_text": "28dc6bb133b30f1591a77619ea249a98041816237eed13b4598294624ef8eca1"
+    },
+    {
+      "index": 128,
+      "name": "Art 115",
+      "identisch": true,
+      "xml_zeichen": 298,
+      "pdf_zeichen": 298,
+      "sha256_xml_text": "4df1679baef2cc977d1ac419b2b143b460e7feda047eed6dc9436526a726d35f",
+      "sha256_pdf_text": "4df1679baef2cc977d1ac419b2b143b460e7feda047eed6dc9436526a726d35f"
+    },
+    {
+      "index": 129,
+      "name": "Art 116",
+      "identisch": true,
+      "xml_zeichen": 258,
+      "pdf_zeichen": 258,
+      "sha256_xml_text": "e010b711f5a33622666cb5b1b61b97f31e3b1224795cedfc7ac4f94379290174",
+      "sha256_pdf_text": "e010b711f5a33622666cb5b1b61b97f31e3b1224795cedfc7ac4f94379290174"
+    },
+    {
+      "index": 130,
+      "name": "Art 117",
+      "identisch": true,
+      "xml_zeichen": 491,
+      "pdf_zeichen": 491,
+      "sha256_xml_text": "4c00ff7be9e08a8b482dd8ea14b990fbd5cadcb6d23945d844ad6321d677b7eb",
+      "sha256_pdf_text": "4c00ff7be9e08a8b482dd8ea14b990fbd5cadcb6d23945d844ad6321d677b7eb"
+    },
+    {
+      "index": 131,
+      "name": "Art 118",
+      "identisch": true,
+      "xml_zeichen": 375,
+      "pdf_zeichen": 375,
+      "sha256_xml_text": "0570a1f8e16a45a315c3e9dc4da3418b8719627100c81e30591d8341607268a5",
+      "sha256_pdf_text": "0570a1f8e16a45a315c3e9dc4da3418b8719627100c81e30591d8341607268a5"
+    },
+    {
+      "index": 132,
+      "name": "Art 119",
+      "identisch": true,
+      "xml_zeichen": 245,
+      "pdf_zeichen": 245,
+      "sha256_xml_text": "b78efd11febdd0eaa6a305597d8cc34147334b0e0711846c7ce3908291ca4f13",
+      "sha256_pdf_text": "b78efd11febdd0eaa6a305597d8cc34147334b0e0711846c7ce3908291ca4f13"
+    },
+    {
+      "index": 133,
+      "name": "Art 120",
+      "identisch": true,
+      "xml_zeichen": 869,
+      "pdf_zeichen": 869,
+      "sha256_xml_text": "bbd1c14d141c06d8aa7f9b44d6d9a2b7be0cb6d2d32b695e3a1e29347480c9f1",
+      "sha256_pdf_text": "bbd1c14d141c06d8aa7f9b44d6d9a2b7be0cb6d2d32b695e3a1e29347480c9f1"
+    },
+    {
+      "index": 134,
+      "name": "Art 121",
+      "identisch": true,
+      "xml_zeichen": 324,
+      "pdf_zeichen": 324,
+      "sha256_xml_text": "eef88082bda92b1c0b0d5e6bfe7238f01830ea43f273349803f5244bb8153e73",
+      "sha256_pdf_text": "eef88082bda92b1c0b0d5e6bfe7238f01830ea43f273349803f5244bb8153e73"
+    },
+    {
+      "index": 135,
+      "name": "Art 122",
+      "identisch": true,
+      "xml_zeichen": 257,
+      "pdf_zeichen": 257,
+      "sha256_xml_text": "d8dd9816457d02d015280770a7eebc213850d1ee5e5b44698ee6c6a6f074afd4",
+      "sha256_pdf_text": "d8dd9816457d02d015280770a7eebc213850d1ee5e5b44698ee6c6a6f074afd4"
+    },
+    {
+      "index": 136,
+      "name": "Art 123",
+      "identisch": true,
+      "xml_zeichen": 165,
+      "pdf_zeichen": 165,
+      "sha256_xml_text": "af1a0069f490e9f5cfc31a5b2c7b7e859297cdd2962c1cbca80ee9a2deab7ede",
+      "sha256_pdf_text": "af1a0069f490e9f5cfc31a5b2c7b7e859297cdd2962c1cbca80ee9a2deab7ede"
+    },
+    {
+      "index": 137,
+      "name": "Art 124",
+      "identisch": true,
+      "xml_zeichen": 327,
+      "pdf_zeichen": 327,
+      "sha256_xml_text": "1c396cfa3c609f44723f0cea27aec4e86bb6d562b6687c15d63eccd5fc9db7d9",
+      "sha256_pdf_text": "1c396cfa3c609f44723f0cea27aec4e86bb6d562b6687c15d63eccd5fc9db7d9"
+    },
+    {
+      "index": 138,
+      "name": "Art 125",
+      "identisch": true,
+      "xml_zeichen": 173,
+      "pdf_zeichen": 173,
+      "sha256_xml_text": "8378684c4f5e7786ca08527eaa72cd5fdfa94719199748795a3bc2afa98d7d0b",
+      "sha256_pdf_text": "8378684c4f5e7786ca08527eaa72cd5fdfa94719199748795a3bc2afa98d7d0b"
+    },
+    {
+      "index": 139,
+      "name": "Art 126",
+      "identisch": true,
+      "xml_zeichen": 219,
+      "pdf_zeichen": 219,
+      "sha256_xml_text": "5cccf6155a62afebc633288a256e4c50bcd53214d9d7a2f106abb2fe3a9822b7",
+      "sha256_pdf_text": "5cccf6155a62afebc633288a256e4c50bcd53214d9d7a2f106abb2fe3a9822b7"
+    },
+    {
+      "index": 140,
+      "name": "Art 127",
+      "identisch": true,
+      "xml_zeichen": 231,
+      "pdf_zeichen": 231,
+      "sha256_xml_text": "d23974d0eb30b828b1067448e8558fde0d49be6c7ed26f28f54e428446192ef8",
+      "sha256_pdf_text": "d23974d0eb30b828b1067448e8558fde0d49be6c7ed26f28f54e428446192ef8"
+    },
+    {
+      "index": 141,
+      "name": "Art 128",
+      "identisch": true,
+      "xml_zeichen": 226,
+      "pdf_zeichen": 226,
+      "sha256_xml_text": "118c727f7768b2ddf4960364f7e6e5cba9a6bc0f1c1e77f7b4340823da35dd1c",
+      "sha256_pdf_text": "118c727f7768b2ddf4960364f7e6e5cba9a6bc0f1c1e77f7b4340823da35dd1c"
+    },
+    {
+      "index": 142,
+      "name": "Art 129",
+      "identisch": true,
+      "xml_zeichen": 202,
+      "pdf_zeichen": 202,
+      "sha256_xml_text": "c7e19643176d834b44fff5fe0b3dfafe8173a09a814260f1adb291735555c4b8",
+      "sha256_pdf_text": "c7e19643176d834b44fff5fe0b3dfafe8173a09a814260f1adb291735555c4b8"
+    },
+    {
+      "index": 143,
+      "name": "Art 130",
+      "identisch": true,
+      "xml_zeichen": 131,
+      "pdf_zeichen": 131,
+      "sha256_xml_text": "47274a0a1a9ff1b9be5d5e6f4c569c7392d76e2f64aaca31aca24bdad7ac4424",
+      "sha256_pdf_text": "47274a0a1a9ff1b9be5d5e6f4c569c7392d76e2f64aaca31aca24bdad7ac4424"
+    },
+    {
+      "index": 144,
+      "name": "Art 131",
+      "identisch": true,
+      "xml_zeichen": 452,
+      "pdf_zeichen": 452,
+      "sha256_xml_text": "fb86216fa5d5b1496d86302fc65c4e59143ea5151b39508d5f9db78a7e2b3ab6",
+      "sha256_pdf_text": "fb86216fa5d5b1496d86302fc65c4e59143ea5151b39508d5f9db78a7e2b3ab6"
+    },
+    {
+      "index": 145,
+      "name": "Art 132",
+      "identisch": true,
+      "xml_zeichen": 95,
+      "pdf_zeichen": 95,
+      "sha256_xml_text": "d34c55769dbf03872139f4ad694b7d7810bfa64d7450270e3b81a3e208fad8e0",
+      "sha256_pdf_text": "d34c55769dbf03872139f4ad694b7d7810bfa64d7450270e3b81a3e208fad8e0"
+    },
+    {
+      "index": 146,
+      "name": "Art 133",
+      "identisch": true,
+      "xml_zeichen": 182,
+      "pdf_zeichen": 182,
+      "sha256_xml_text": "a35acdf25f4bdd84fca310e0ec6569cffc38d25bc74730334f2dfbe6bd0f036e",
+      "sha256_pdf_text": "a35acdf25f4bdd84fca310e0ec6569cffc38d25bc74730334f2dfbe6bd0f036e"
+    },
+    {
+      "index": 147,
+      "name": "Art 134 bis 136(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 25,
+      "pdf_zeichen": 25,
+      "sha256_xml_text": "5ff7ae7d8d2cf7509cf21252d1ae08739461354e627b48d716d642c25ef01dae",
+      "sha256_pdf_text": "5ff7ae7d8d2cf7509cf21252d1ae08739461354e627b48d716d642c25ef01dae"
+    },
+    {
+      "index": 148,
+      "name": "Art 137",
+      "identisch": true,
+      "xml_zeichen": 447,
+      "pdf_zeichen": 447,
+      "sha256_xml_text": "a2a06dbcb4864950d6ca08039a1feb2b63b206e7f81ab120a7166017c7436f3d",
+      "sha256_pdf_text": "a2a06dbcb4864950d6ca08039a1feb2b63b206e7f81ab120a7166017c7436f3d"
+    },
+    {
+      "index": 149,
+      "name": "Art 138",
+      "identisch": true,
+      "xml_zeichen": 202,
+      "pdf_zeichen": 202,
+      "sha256_xml_text": "fc75ce257f56e16c0ef08d88052688177764e1650ce1a1c3d3629250a5e31ec7",
+      "sha256_pdf_text": "fc75ce257f56e16c0ef08d88052688177764e1650ce1a1c3d3629250a5e31ec7"
+    },
+    {
+      "index": 150,
+      "name": "Art 139",
+      "identisch": true,
+      "xml_zeichen": 245,
+      "pdf_zeichen": 245,
+      "sha256_xml_text": "7d836851262e3d2aa568dd09682936b726428681a5faed8a1c70d7b5171a79ed",
+      "sha256_pdf_text": "7d836851262e3d2aa568dd09682936b726428681a5faed8a1c70d7b5171a79ed"
+    },
+    {
+      "index": 151,
+      "name": "Art 140",
+      "identisch": true,
+      "xml_zeichen": 341,
+      "pdf_zeichen": 341,
+      "sha256_xml_text": "b27d3bc077f25a9385a019b719d97017f23750777708325d704da34d9f86b53c",
+      "sha256_pdf_text": "b27d3bc077f25a9385a019b719d97017f23750777708325d704da34d9f86b53c"
+    },
+    {
+      "index": 152,
+      "name": "Art 141 und 142(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 25,
+      "pdf_zeichen": 25,
+      "sha256_xml_text": "e0810c134a5bb03dced2e7da08175653c53c7cf468aa45c076a42125ee26d2eb",
+      "sha256_pdf_text": "e0810c134a5bb03dced2e7da08175653c53c7cf468aa45c076a42125ee26d2eb"
+    },
+    {
+      "index": 153,
+      "name": "Art 143",
+      "identisch": true,
+      "xml_zeichen": 280,
+      "pdf_zeichen": 280,
+      "sha256_xml_text": "d6f00718d82e089d64d7c48ab07a574ce6dd0225a2d6b1da14d5b15f1c82eaee",
+      "sha256_pdf_text": "d6f00718d82e089d64d7c48ab07a574ce6dd0225a2d6b1da14d5b15f1c82eaee"
+    },
+    {
+      "index": 154,
+      "name": "Art 144",
+      "identisch": true,
+      "xml_zeichen": 189,
+      "pdf_zeichen": 189,
+      "sha256_xml_text": "f78c9211d5ce91758fc386c0b5cf3406f720adf55b28c906bbdbe0f211ceb2f2",
+      "sha256_pdf_text": "f78c9211d5ce91758fc386c0b5cf3406f720adf55b28c906bbdbe0f211ceb2f2"
+    },
+    {
+      "index": 155,
+      "name": "Art 145 und 146(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 25,
+      "pdf_zeichen": 25,
+      "sha256_xml_text": "cef1c64bb20cec4fbd57e5311a91643687898ad688a9e3b43a801ff3a5093c54",
+      "sha256_pdf_text": "cef1c64bb20cec4fbd57e5311a91643687898ad688a9e3b43a801ff3a5093c54"
+    },
+    {
+      "index": 156,
+      "name": "Art 147",
+      "identisch": true,
+      "xml_zeichen": 161,
+      "pdf_zeichen": 161,
+      "sha256_xml_text": "2014c89aa7067324efb90079cbfc93fd0be1cb3253e9888823b99bd81f56a6a6",
+      "sha256_pdf_text": "2014c89aa7067324efb90079cbfc93fd0be1cb3253e9888823b99bd81f56a6a6"
+    },
+    {
+      "index": 157,
+      "name": "Art 148(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 19,
+      "pdf_zeichen": 19,
+      "sha256_xml_text": "34e8065fe6a4ee82d5a924658980dbefd47fbd7abf192ea7a4e6c49183d76be2",
+      "sha256_pdf_text": "34e8065fe6a4ee82d5a924658980dbefd47fbd7abf192ea7a4e6c49183d76be2"
+    },
+    {
+      "index": 158,
+      "name": "Art 149 bis 151(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 25,
+      "pdf_zeichen": 25,
+      "sha256_xml_text": "4036f9712d75c73d2f75f6d08e0a60ff75ce86406763ed5c3c7e78c78eca23e2",
+      "sha256_pdf_text": "4036f9712d75c73d2f75f6d08e0a60ff75ce86406763ed5c3c7e78c78eca23e2"
+    },
+    {
+      "index": 159,
+      "name": "Art 152",
+      "identisch": true,
+      "xml_zeichen": 391,
+      "pdf_zeichen": 391,
+      "sha256_xml_text": "c71a421472d4d8aa1daaf8e5881296c5c4f1b4fcd6da787489ccdd2ee4753b28",
+      "sha256_pdf_text": "c71a421472d4d8aa1daaf8e5881296c5c4f1b4fcd6da787489ccdd2ee4753b28"
+    },
+    {
+      "index": 160,
+      "name": "Vierter TeilÜbergangsvorschriften",
+      "identisch": true,
+      "xml_zeichen": 32,
+      "pdf_zeichen": 32,
+      "sha256_xml_text": "d826bb49e4b0a7f9e6516370985da88786ee30a839a9fc03ea3ae3513e33b11f",
+      "sha256_pdf_text": "d826bb49e4b0a7f9e6516370985da88786ee30a839a9fc03ea3ae3513e33b11f"
+    },
+    {
+      "index": 161,
+      "name": "Art 153 bis 156(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 28,
+      "pdf_zeichen": 28,
+      "sha256_xml_text": "a9784ed4b1ad6a7bdd949110b5d64e2f7c7ad9988b782eaf81f2d559d0e51308",
+      "sha256_pdf_text": "a9784ed4b1ad6a7bdd949110b5d64e2f7c7ad9988b782eaf81f2d559d0e51308"
+    },
+    {
+      "index": 162,
+      "name": "Art 157",
+      "identisch": true,
+      "xml_zeichen": 234,
+      "pdf_zeichen": 234,
+      "sha256_xml_text": "d3e935230feb690ade55a9814361ea8964dc19cd0fccf7fa2548a901b97e585b",
+      "sha256_pdf_text": "d3e935230feb690ade55a9814361ea8964dc19cd0fccf7fa2548a901b97e585b"
+    },
+    {
+      "index": 163,
+      "name": "Art 158 bis 162(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 28,
+      "pdf_zeichen": 28,
+      "sha256_xml_text": "541fad7820a7a1e43bf7e41f46a78c46af16dcd05a10f744baa4543df394d2e4",
+      "sha256_pdf_text": "541fad7820a7a1e43bf7e41f46a78c46af16dcd05a10f744baa4543df394d2e4"
+    },
+    {
+      "index": 164,
+      "name": "Art 163",
+      "identisch": true,
+      "xml_zeichen": 242,
+      "pdf_zeichen": 242,
+      "sha256_xml_text": "f72aa42477b60ae269ded0e78c304f982fe7f1b0fcad8899d43d6f9f8404c4be",
+      "sha256_pdf_text": "f72aa42477b60ae269ded0e78c304f982fe7f1b0fcad8899d43d6f9f8404c4be"
+    },
+    {
+      "index": 165,
+      "name": "Art 164",
+      "identisch": true,
+      "xml_zeichen": 451,
+      "pdf_zeichen": 451,
+      "sha256_xml_text": "41206ad91d16dae5819406dd1a566281d5e4e7644ed21cb61fba8fdf21361551",
+      "sha256_pdf_text": "41206ad91d16dae5819406dd1a566281d5e4e7644ed21cb61fba8fdf21361551"
+    },
+    {
+      "index": 166,
+      "name": "Art 165",
+      "identisch": true,
+      "xml_zeichen": 308,
+      "pdf_zeichen": 308,
+      "sha256_xml_text": "a92477895f1f9a5f119c725f5e16b0d176a60fc60117fac34c8b7f614d85fcb4",
+      "sha256_pdf_text": "a92477895f1f9a5f119c725f5e16b0d176a60fc60117fac34c8b7f614d85fcb4"
+    },
+    {
+      "index": 167,
+      "name": "Art 166",
+      "identisch": true,
+      "xml_zeichen": 272,
+      "pdf_zeichen": 272,
+      "sha256_xml_text": "6ecd4f4669b96e2b138c6af719f2ecfd05265218c76f2d641354587cffb2da73",
+      "sha256_pdf_text": "6ecd4f4669b96e2b138c6af719f2ecfd05265218c76f2d641354587cffb2da73"
+    },
+    {
+      "index": 168,
+      "name": "Art 167",
+      "identisch": true,
+      "xml_zeichen": 187,
+      "pdf_zeichen": 187,
+      "sha256_xml_text": "8712a31c077233cbc5f3ef1a323e3d2f6686b44682554286730e916962392df9",
+      "sha256_pdf_text": "8712a31c077233cbc5f3ef1a323e3d2f6686b44682554286730e916962392df9"
+    },
+    {
+      "index": 169,
+      "name": "Art 168",
+      "identisch": true,
+      "xml_zeichen": 225,
+      "pdf_zeichen": 225,
+      "sha256_xml_text": "3613ebf335e2a728e5c296f3fab4c3e455668be05caf95d4bf9f4bf9969f4850",
+      "sha256_pdf_text": "3613ebf335e2a728e5c296f3fab4c3e455668be05caf95d4bf9f4bf9969f4850"
+    },
+    {
+      "index": 170,
+      "name": "Art 169",
+      "identisch": true,
+      "xml_zeichen": 669,
+      "pdf_zeichen": 669,
+      "sha256_xml_text": "812295b964d4ac8d103b80ad92ae52f1b14d69a9219871e1dd8b9e39ca36304a",
+      "sha256_pdf_text": "812295b964d4ac8d103b80ad92ae52f1b14d69a9219871e1dd8b9e39ca36304a"
+    },
+    {
+      "index": 171,
+      "name": "Art 170",
+      "identisch": true,
+      "xml_zeichen": 128,
+      "pdf_zeichen": 128,
+      "sha256_xml_text": "af8bd65fee4eaa8e9a8992e6c84f14762daeac73690161695a8c1a78484dc62e",
+      "sha256_pdf_text": "af8bd65fee4eaa8e9a8992e6c84f14762daeac73690161695a8c1a78484dc62e"
+    },
+    {
+      "index": 172,
+      "name": "Art 171",
+      "identisch": true,
+      "xml_zeichen": 317,
+      "pdf_zeichen": 317,
+      "sha256_xml_text": "772a2444734422b980264c29077d006dd289ac9d814917c082d269daba11ac12",
+      "sha256_pdf_text": "772a2444734422b980264c29077d006dd289ac9d814917c082d269daba11ac12"
+    },
+    {
+      "index": 173,
+      "name": "Art 172",
+      "identisch": true,
+      "xml_zeichen": 396,
+      "pdf_zeichen": 396,
+      "sha256_xml_text": "a25687739900d3e234186d4e2450e981740fd3c6601807b654b8e2566b4194a7",
+      "sha256_pdf_text": "a25687739900d3e234186d4e2450e981740fd3c6601807b654b8e2566b4194a7"
+    },
+    {
+      "index": 174,
+      "name": "Art 173",
+      "identisch": true,
+      "xml_zeichen": 172,
+      "pdf_zeichen": 172,
+      "sha256_xml_text": "8763cff312de38cefe38996d82c9f60b9f6e7d3432800867a96de8334ce3c5cc",
+      "sha256_pdf_text": "8763cff312de38cefe38996d82c9f60b9f6e7d3432800867a96de8334ce3c5cc"
+    },
+    {
+      "index": 175,
+      "name": "Art 174",
+      "identisch": true,
+      "xml_zeichen": 705,
+      "pdf_zeichen": 705,
+      "sha256_xml_text": "f4f43782df3337ed0790227f464288226cdf420d651c00c415394a1e0e257d2f",
+      "sha256_pdf_text": "f4f43782df3337ed0790227f464288226cdf420d651c00c415394a1e0e257d2f"
+    },
+    {
+      "index": 176,
+      "name": "Art 175",
+      "identisch": true,
+      "xml_zeichen": 274,
+      "pdf_zeichen": 274,
+      "sha256_xml_text": "e0bd1457fcd83a71d50d88848be6fa1e404f24a4caf61c8249f7952402b052b0",
+      "sha256_pdf_text": "e0bd1457fcd83a71d50d88848be6fa1e404f24a4caf61c8249f7952402b052b0"
+    },
+    {
+      "index": 177,
+      "name": "Art 176",
+      "identisch": true,
+      "xml_zeichen": 228,
+      "pdf_zeichen": 228,
+      "sha256_xml_text": "1af06fc46ef7b46846edf7475c27b4f6a5ea53d600f74f6fd02d8cebacf23fc4",
+      "sha256_pdf_text": "1af06fc46ef7b46846edf7475c27b4f6a5ea53d600f74f6fd02d8cebacf23fc4"
+    },
+    {
+      "index": 178,
+      "name": "Art 177",
+      "identisch": true,
+      "xml_zeichen": 312,
+      "pdf_zeichen": 312,
+      "sha256_xml_text": "87c6c4de05cc0a0e076f6a45c35be84c9de5e39831d7d3c7fc178498c967093a",
+      "sha256_pdf_text": "87c6c4de05cc0a0e076f6a45c35be84c9de5e39831d7d3c7fc178498c967093a"
+    },
+    {
+      "index": 179,
+      "name": "Art 178",
+      "identisch": true,
+      "xml_zeichen": 381,
+      "pdf_zeichen": 381,
+      "sha256_xml_text": "656cdbbb52336e8c09625645836d58d424b8eaa291fa8714a024652813f3621a",
+      "sha256_pdf_text": "656cdbbb52336e8c09625645836d58d424b8eaa291fa8714a024652813f3621a"
+    },
+    {
+      "index": 180,
+      "name": "Art 179",
+      "identisch": true,
+      "xml_zeichen": 212,
+      "pdf_zeichen": 212,
+      "sha256_xml_text": "6f4cc7f6426127e9dd643db18c5d126aa35925a0fa7dcb062fbc6a7dce71f310",
+      "sha256_pdf_text": "6f4cc7f6426127e9dd643db18c5d126aa35925a0fa7dcb062fbc6a7dce71f310"
+    },
+    {
+      "index": 181,
+      "name": "Art 180",
+      "identisch": true,
+      "xml_zeichen": 188,
+      "pdf_zeichen": 188,
+      "sha256_xml_text": "6be03ce770e7ee36edaeee2a9b1df33fe15c842ab08bff0f1a55ccc5a324c4aa",
+      "sha256_pdf_text": "6be03ce770e7ee36edaeee2a9b1df33fe15c842ab08bff0f1a55ccc5a324c4aa"
+    },
+    {
+      "index": 182,
+      "name": "Art 181",
+      "identisch": true,
+      "xml_zeichen": 402,
+      "pdf_zeichen": 402,
+      "sha256_xml_text": "07f5cdc9cffd6aa57a3a8a70306e972dcaa4d2a916ef38b2d314f08655cdba79",
+      "sha256_pdf_text": "07f5cdc9cffd6aa57a3a8a70306e972dcaa4d2a916ef38b2d314f08655cdba79"
+    },
+    {
+      "index": 183,
+      "name": "Art 182",
+      "identisch": true,
+      "xml_zeichen": 186,
+      "pdf_zeichen": 186,
+      "sha256_xml_text": "cccd7746b246fd3ddc4df31d49afd9952465246c839e41025b97f9116f9afa37",
+      "sha256_pdf_text": "cccd7746b246fd3ddc4df31d49afd9952465246c839e41025b97f9116f9afa37"
+    },
+    {
+      "index": 184,
+      "name": "Art 183",
+      "identisch": true,
+      "xml_zeichen": 404,
+      "pdf_zeichen": 404,
+      "sha256_xml_text": "b24c1324745cda7a804dc8a0ac194f35bdd2ae8bc691270f45472cb6ce14e8fd",
+      "sha256_pdf_text": "b24c1324745cda7a804dc8a0ac194f35bdd2ae8bc691270f45472cb6ce14e8fd"
+    },
+    {
+      "index": 185,
+      "name": "Art 184",
+      "identisch": true,
+      "xml_zeichen": 415,
+      "pdf_zeichen": 415,
+      "sha256_xml_text": "bc02f33360f9be229c9193c0d62fa32984f76ae0e67bf03fbea1d2a89799e50f",
+      "sha256_pdf_text": "bc02f33360f9be229c9193c0d62fa32984f76ae0e67bf03fbea1d2a89799e50f"
+    },
+    {
+      "index": 186,
+      "name": "Art 185",
+      "identisch": true,
+      "xml_zeichen": 269,
+      "pdf_zeichen": 269,
+      "sha256_xml_text": "970d1ea0dfbc4d05ad6351a0792118c3d050e1dd3132ddf68fe7ca4c9295e2b0",
+      "sha256_pdf_text": "970d1ea0dfbc4d05ad6351a0792118c3d050e1dd3132ddf68fe7ca4c9295e2b0"
+    },
+    {
+      "index": 187,
+      "name": "Art 186",
+      "identisch": true,
+      "xml_zeichen": 442,
+      "pdf_zeichen": 442,
+      "sha256_xml_text": "aabd01bbda58b69808d53d2cda141d1c5e628da8c3783bcbaafa957e06c8c827",
+      "sha256_pdf_text": "aabd01bbda58b69808d53d2cda141d1c5e628da8c3783bcbaafa957e06c8c827"
+    },
+    {
+      "index": 188,
+      "name": "Art 187",
+      "identisch": true,
+      "xml_zeichen": 686,
+      "pdf_zeichen": 686,
+      "sha256_xml_text": "00444eca481f0256621c126f7a5f4d0a6f9e225c0066178cc57c70d0840df8e2",
+      "sha256_pdf_text": "00444eca481f0256621c126f7a5f4d0a6f9e225c0066178cc57c70d0840df8e2"
+    },
+    {
+      "index": 189,
+      "name": "Art 188",
+      "identisch": true,
+      "xml_zeichen": 602,
+      "pdf_zeichen": 602,
+      "sha256_xml_text": "83dd741da2e25615f3c9b6bb2357aca596733a67f0e47cba3acc7938546a3c83",
+      "sha256_pdf_text": "83dd741da2e25615f3c9b6bb2357aca596733a67f0e47cba3acc7938546a3c83"
+    },
+    {
+      "index": 190,
+      "name": "Art 189",
+      "identisch": true,
+      "xml_zeichen": 980,
+      "pdf_zeichen": 980,
+      "sha256_xml_text": "47bc5770b59c44f13d68f5a51776d0f3db3da93ad364883059b0bf8ced132b64",
+      "sha256_pdf_text": "47bc5770b59c44f13d68f5a51776d0f3db3da93ad364883059b0bf8ced132b64"
+    },
+    {
+      "index": 191,
+      "name": "Art 190",
+      "identisch": true,
+      "xml_zeichen": 241,
+      "pdf_zeichen": 241,
+      "sha256_xml_text": "45db586498f50f12795bc479cdb9da9a5f508cb66da2ece0c58701eab2355cf2",
+      "sha256_pdf_text": "45db586498f50f12795bc479cdb9da9a5f508cb66da2ece0c58701eab2355cf2"
+    },
+    {
+      "index": 192,
+      "name": "Art 191",
+      "identisch": true,
+      "xml_zeichen": 846,
+      "pdf_zeichen": 846,
+      "sha256_xml_text": "fd8b098ac4ec43e17802e67c0c9e29d8d99141bb0b05ca9b1523f58b26882ddd",
+      "sha256_pdf_text": "fd8b098ac4ec43e17802e67c0c9e29d8d99141bb0b05ca9b1523f58b26882ddd"
+    },
+    {
+      "index": 193,
+      "name": "Art 192",
+      "identisch": true,
+      "xml_zeichen": 456,
+      "pdf_zeichen": 456,
+      "sha256_xml_text": "a7641ce0344565ea4600a20169f5a22814b9615fbef170f4adb744c1b58a45cd",
+      "sha256_pdf_text": "a7641ce0344565ea4600a20169f5a22814b9615fbef170f4adb744c1b58a45cd"
+    },
+    {
+      "index": 194,
+      "name": "Art 193",
+      "identisch": true,
+      "xml_zeichen": 296,
+      "pdf_zeichen": 296,
+      "sha256_xml_text": "316f8935f2a86aee84bff949cd70928a77b8f48a246290b9e53cacb7567c0ed1",
+      "sha256_pdf_text": "316f8935f2a86aee84bff949cd70928a77b8f48a246290b9e53cacb7567c0ed1"
+    },
+    {
+      "index": 195,
+      "name": "Art 194",
+      "identisch": true,
+      "xml_zeichen": 351,
+      "pdf_zeichen": 351,
+      "sha256_xml_text": "2a4383cc027d54da4049b77f3907ea202425a4eaa99c5693387710ce943e3011",
+      "sha256_pdf_text": "2a4383cc027d54da4049b77f3907ea202425a4eaa99c5693387710ce943e3011"
+    },
+    {
+      "index": 196,
+      "name": "Art 195",
+      "identisch": true,
+      "xml_zeichen": 559,
+      "pdf_zeichen": 559,
+      "sha256_xml_text": "054a64a01681c8440f2ddbaf7e58da45124eaa0458a7ad90b658d9b603c4e2b3",
+      "sha256_pdf_text": "054a64a01681c8440f2ddbaf7e58da45124eaa0458a7ad90b658d9b603c4e2b3"
+    },
+    {
+      "index": 197,
+      "name": "Art 196",
+      "identisch": true,
+      "xml_zeichen": 304,
+      "pdf_zeichen": 304,
+      "sha256_xml_text": "10f5a6efac1c52fd77d1e6f165b8394b08b5c234d65c557fb391bbde51558815",
+      "sha256_pdf_text": "10f5a6efac1c52fd77d1e6f165b8394b08b5c234d65c557fb391bbde51558815"
+    },
+    {
+      "index": 198,
+      "name": "Art 197",
+      "identisch": true,
+      "xml_zeichen": 344,
+      "pdf_zeichen": 344,
+      "sha256_xml_text": "66a0dadcde5c90a00251923afad8178f1dfecc35cf86f35646d65ff589517688",
+      "sha256_pdf_text": "66a0dadcde5c90a00251923afad8178f1dfecc35cf86f35646d65ff589517688"
+    },
+    {
+      "index": 199,
+      "name": "Art 198",
+      "identisch": true,
+      "xml_zeichen": 759,
+      "pdf_zeichen": 759,
+      "sha256_xml_text": "147dbb75e550d3829a8727707a4626336b2d7d9e53a8807add739f44cac6a608",
+      "sha256_pdf_text": "147dbb75e550d3829a8727707a4626336b2d7d9e53a8807add739f44cac6a608"
+    },
+    {
+      "index": 200,
+      "name": "Art 199",
+      "identisch": true,
+      "xml_zeichen": 217,
+      "pdf_zeichen": 217,
+      "sha256_xml_text": "bf44a20cac9c31ab8f3542b6c5e477ef7ec024f6afb5bd5b7db3fd4cd25a0fca",
+      "sha256_pdf_text": "bf44a20cac9c31ab8f3542b6c5e477ef7ec024f6afb5bd5b7db3fd4cd25a0fca"
+    },
+    {
+      "index": 201,
+      "name": "Art 200",
+      "identisch": true,
+      "xml_zeichen": 539,
+      "pdf_zeichen": 539,
+      "sha256_xml_text": "5be7ee215c4555d1584109e73d73ceb2b4424b1f4753a090d087e6a746733327",
+      "sha256_pdf_text": "5be7ee215c4555d1584109e73d73ceb2b4424b1f4753a090d087e6a746733327"
+    },
+    {
+      "index": 202,
+      "name": "Art 201",
+      "identisch": true,
+      "xml_zeichen": 154,
+      "pdf_zeichen": 154,
+      "sha256_xml_text": "7635f013a9418814b505a9bf3157c8f88a578e3b5fb69a7957170b3c70618450",
+      "sha256_pdf_text": "7635f013a9418814b505a9bf3157c8f88a578e3b5fb69a7957170b3c70618450"
+    },
+    {
+      "index": 203,
+      "name": "Art 202",
+      "identisch": true,
+      "xml_zeichen": 352,
+      "pdf_zeichen": 352,
+      "sha256_xml_text": "1e00e0dfd0b98a5a6dc07f2f0afd3b3090c0f536d1c4cbdef886222c4fcbaf19",
+      "sha256_pdf_text": "1e00e0dfd0b98a5a6dc07f2f0afd3b3090c0f536d1c4cbdef886222c4fcbaf19"
+    },
+    {
+      "index": 204,
+      "name": "Art 203",
+      "identisch": true,
+      "xml_zeichen": 199,
+      "pdf_zeichen": 199,
+      "sha256_xml_text": "4de9d66fe7d8f74550a37a42c6bf0cd46ad55d586c5e069e01b1518c5a1ae494",
+      "sha256_pdf_text": "4de9d66fe7d8f74550a37a42c6bf0cd46ad55d586c5e069e01b1518c5a1ae494"
+    },
+    {
+      "index": 205,
+      "name": "Art 204 bis 206(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 28,
+      "pdf_zeichen": 28,
+      "sha256_xml_text": "622d4e3b97c3f5e988a843cfeca6b6553e955173e75443550592231ba403e3f8",
+      "sha256_pdf_text": "622d4e3b97c3f5e988a843cfeca6b6553e955173e75443550592231ba403e3f8"
+    },
+    {
+      "index": 206,
+      "name": "Art 207",
+      "identisch": true,
+      "xml_zeichen": 258,
+      "pdf_zeichen": 258,
+      "sha256_xml_text": "a55cd8ec3f303cef98beb0a38503fa4bb968ed3f71898f7229e5b77db86efdff",
+      "sha256_pdf_text": "a55cd8ec3f303cef98beb0a38503fa4bb968ed3f71898f7229e5b77db86efdff"
+    },
+    {
+      "index": 207,
+      "name": "Art 208",
+      "identisch": true,
+      "xml_zeichen": 792,
+      "pdf_zeichen": 792,
+      "sha256_xml_text": "84b3da1c7ff82d0b498785bfb38a6ad006a8ad347fe57fe44333a4d60c2711c9",
+      "sha256_pdf_text": "84b3da1c7ff82d0b498785bfb38a6ad006a8ad347fe57fe44333a4d60c2711c9"
+    },
+    {
+      "index": 208,
+      "name": "Art 209",
+      "identisch": true,
+      "xml_zeichen": 265,
+      "pdf_zeichen": 265,
+      "sha256_xml_text": "1fd50e8afc41bc5bdb498d6259bfeb8a9a6e787594398e9ccfda48cf4cec7aa8",
+      "sha256_pdf_text": "1fd50e8afc41bc5bdb498d6259bfeb8a9a6e787594398e9ccfda48cf4cec7aa8"
+    },
+    {
+      "index": 209,
+      "name": "Art 210",
+      "identisch": true,
+      "xml_zeichen": 813,
+      "pdf_zeichen": 813,
+      "sha256_xml_text": "e72d14b4a4002232da2abd4d6c872ffc50beac5cf28a408cb473171cac7b3d99",
+      "sha256_pdf_text": "e72d14b4a4002232da2abd4d6c872ffc50beac5cf28a408cb473171cac7b3d99"
+    },
+    {
+      "index": 210,
+      "name": "Art 211(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 22,
+      "pdf_zeichen": 22,
+      "sha256_xml_text": "4ceb66d2c1538197da485fa9856d4a427e96dcda89e1bbc8b37d1ca106fe519c",
+      "sha256_pdf_text": "4ceb66d2c1538197da485fa9856d4a427e96dcda89e1bbc8b37d1ca106fe519c"
+    },
+    {
+      "index": 211,
+      "name": "Art 212",
+      "identisch": true,
+      "xml_zeichen": 130,
+      "pdf_zeichen": 130,
+      "sha256_xml_text": "e631457b2be9fbd7d331e26f9b687efa88a84bd3c71806aa1076d6fe63c5f482",
+      "sha256_pdf_text": "e631457b2be9fbd7d331e26f9b687efa88a84bd3c71806aa1076d6fe63c5f482"
+    },
+    {
+      "index": 212,
+      "name": "Art 213",
+      "identisch": true,
+      "xml_zeichen": 235,
+      "pdf_zeichen": 235,
+      "sha256_xml_text": "d9a29a07e1305de4512851efc9b1dd678cf209002424f1331d6a4196398c83bd",
+      "sha256_pdf_text": "d9a29a07e1305de4512851efc9b1dd678cf209002424f1331d6a4196398c83bd"
+    },
+    {
+      "index": 213,
+      "name": "Art 214",
+      "identisch": true,
+      "xml_zeichen": 424,
+      "pdf_zeichen": 424,
+      "sha256_xml_text": "6bf1474b02279a43d202960c915253c3ad6d4caaddc61dbb1079c1a17fa8addd",
+      "sha256_pdf_text": "6bf1474b02279a43d202960c915253c3ad6d4caaddc61dbb1079c1a17fa8addd"
+    },
+    {
+      "index": 214,
+      "name": "Art 215",
+      "identisch": true,
+      "xml_zeichen": 437,
+      "pdf_zeichen": 437,
+      "sha256_xml_text": "8a4c18cdccc67caa757c6f291a60f44db47b9e0541e95008f21a8f0b61b80384",
+      "sha256_pdf_text": "8a4c18cdccc67caa757c6f291a60f44db47b9e0541e95008f21a8f0b61b80384"
+    },
+    {
+      "index": 215,
+      "name": "Art 216(gegenstandslos)",
+      "identisch": true,
+      "xml_zeichen": 22,
+      "pdf_zeichen": 22,
+      "sha256_xml_text": "29d1520c78d566b5e9d7e3c8ea600f55be6be317b90fea4aceecc35876335df5",
+      "sha256_pdf_text": "29d1520c78d566b5e9d7e3c8ea600f55be6be317b90fea4aceecc35876335df5"
+    },
+    {
+      "index": 216,
+      "name": "Art 217",
+      "identisch": true,
+      "xml_zeichen": 317,
+      "pdf_zeichen": 317,
+      "sha256_xml_text": "6089c7334b972dbd5d6326128c5602c1bb701f4bfa62451a799bfa763b2a306e",
+      "sha256_pdf_text": "6089c7334b972dbd5d6326128c5602c1bb701f4bfa62451a799bfa763b2a306e"
+    },
+    {
+      "index": 217,
+      "name": "Art 218",
+      "identisch": true,
+      "xml_zeichen": 181,
+      "pdf_zeichen": 181,
+      "sha256_xml_text": "9ec6bf616e1e401d84ae97fbf9116edc18c800d2a89b2d03508d4b3a4609d94f",
+      "sha256_pdf_text": "9ec6bf616e1e401d84ae97fbf9116edc18c800d2a89b2d03508d4b3a4609d94f"
+    },
+    {
+      "index": 218,
+      "name": "Fünfter TeilÜbergangsvorschriften aus Anlaß jüngerer Änderungen des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes",
+      "identisch": true,
+      "xml_zeichen": 112,
+      "pdf_zeichen": 112,
+      "sha256_xml_text": "8e08ccbe6392d7b893ea3b022011e3f2e1d52f44077bc4fd4a11c03243292073",
+      "sha256_pdf_text": "8e08ccbe6392d7b893ea3b022011e3f2e1d52f44077bc4fd4a11c03243292073"
+    },
+    {
+      "index": 219,
+      "name": "Art 219Übergangsvorschrift zum Gesetz vom\n8. November 1985 zur Neuordnung des landwirtschaftlichen Pachtrechts",
+      "identisch": true,
+      "xml_zeichen": 1040,
+      "pdf_zeichen": 1040,
+      "sha256_xml_text": "c4501c9539ea076566b549201d24ca21a02010ef564bd4803f33ce3c1433c710",
+      "sha256_pdf_text": "c4501c9539ea076566b549201d24ca21a02010ef564bd4803f33ce3c1433c710"
+    },
+    {
+      "index": 220,
+      "name": "Art 220Übergangsvorschrift zum Gesetz vom 25. Juli 1986 zur Neuregelung des Internationalen Privatrechts",
+      "identisch": true,
+      "xml_zeichen": 1555,
+      "pdf_zeichen": 1555,
+      "sha256_xml_text": "4c5c7e66b53ccb1d906f76a3500b63c500bda6d5cda92930bdf048b076a3beb5",
+      "sha256_pdf_text": "4c5c7e66b53ccb1d906f76a3500b63c500bda6d5cda92930bdf048b076a3beb5"
+    },
+    {
+      "index": 221,
+      "name": "Art 221Übergangsvorschrift zum Gesetz vom 26. Juni 1990\nzur Änderung des Arbeitsgerichtsgesetzes und anderer arbeitsrechtlicher\nVorschriften",
+      "identisch": true,
+      "xml_zeichen": 495,
+      "pdf_zeichen": 495,
+      "sha256_xml_text": "536251d8783ff834093ddc288ea03461bd5d1ae71638ccae8180d14ba5b82ff6",
+      "sha256_pdf_text": "536251d8783ff834093ddc288ea03461bd5d1ae71638ccae8180d14ba5b82ff6"
+    },
+    {
+      "index": 222,
+      "name": "Art 222Übergangsvorschrift zum Kündigungsfristengesetz\nvom 7. Oktober 1993",
+      "identisch": true,
+      "xml_zeichen": 1130,
+      "pdf_zeichen": 1130,
+      "sha256_xml_text": "6189db61042dcc99e703a3df647bc087dd57f6b53f8e50489ea835fa4e4c7bd1",
+      "sha256_pdf_text": "6189db61042dcc99e703a3df647bc087dd57f6b53f8e50489ea835fa4e4c7bd1"
+    },
+    {
+      "index": 223,
+      "name": "Art 223Übergangsvorschrift zum Beistandschaftsgesetz\nvom 4. Dezember 1997",
+      "identisch": true,
+      "xml_zeichen": 1107,
+      "pdf_zeichen": 1107,
+      "sha256_xml_text": "ba921fb0a6d51a8f644a0b06a028e67edefcc8215725053280d0f9a6807b3bbe",
+      "sha256_pdf_text": "ba921fb0a6d51a8f644a0b06a028e67edefcc8215725053280d0f9a6807b3bbe"
+    },
+    {
+      "index": 224,
+      "name": "Art 223aÜbergangsvorschrift aus Anlaß der Aufhebung von\n§ 419 des Bürgerlichen Gesetzbuchs",
+      "identisch": true,
+      "xml_zeichen": 236,
+      "pdf_zeichen": 236,
+      "sha256_xml_text": "541287bbd72f7204439380172f020dfd54c30042a830b19e29e52ed20b3cff41",
+      "sha256_pdf_text": "541287bbd72f7204439380172f020dfd54c30042a830b19e29e52ed20b3cff41"
+    },
+    {
+      "index": 225,
+      "name": "Art 224Übergangsvorschrift zum Kindschaftsrechtsreformgesetz vom 16. Dezember 1997",
+      "identisch": true,
+      "xml_zeichen": 75,
+      "pdf_zeichen": 75,
+      "sha256_xml_text": "10567f0a0c6aa8d80b24a35ad4bcc3690d886ec9a53d9e487133ffdaec252b60",
+      "sha256_pdf_text": "10567f0a0c6aa8d80b24a35ad4bcc3690d886ec9a53d9e487133ffdaec252b60"
+    },
+    {
+      "index": 226,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 1194,
+      "pdf_zeichen": 1194,
+      "sha256_xml_text": "b75380ddfcc422876696b05792eb6460cbeeab1fc09289aeeb6860a61f776944",
+      "sha256_pdf_text": "b75380ddfcc422876696b05792eb6460cbeeab1fc09289aeeb6860a61f776944"
+    },
+    {
+      "index": 227,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 539,
+      "pdf_zeichen": 539,
+      "sha256_xml_text": "4366cee7d8a2289fff6b2342c2a949e0810e206cbc5ea93345ee583441eb5dd4",
+      "sha256_pdf_text": "4366cee7d8a2289fff6b2342c2a949e0810e206cbc5ea93345ee583441eb5dd4"
+    },
+    {
+      "index": 228,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 1815,
+      "pdf_zeichen": 1815,
+      "sha256_xml_text": "5b28a3bcbdbbd1d19d7e6e05615aee43b6fcfc020fbb4f092f00db3365f3ed71",
+      "sha256_pdf_text": "5b28a3bcbdbbd1d19d7e6e05615aee43b6fcfc020fbb4f092f00db3365f3ed71"
+    },
+    {
+      "index": 229,
+      "name": "Art 225Überleitungsvorschrift zum\nWohnraummodernisierungssicherungsgesetz",
+      "identisch": true,
+      "xml_zeichen": 458,
+      "pdf_zeichen": 458,
+      "sha256_xml_text": "1f4c78dbfd805159bfcb5674530da8d7335ffeeb93f2a5327ae727d6fc776c71",
+      "sha256_pdf_text": "1f4c78dbfd805159bfcb5674530da8d7335ffeeb93f2a5327ae727d6fc776c71"
+    },
+    {
+      "index": 230,
+      "name": "Art 226Überleitungsvorschrift zum Gesetz vom 4. Mai 1998\nzur Neuordnung des Eheschließungsrechts",
+      "identisch": true,
+      "xml_zeichen": 558,
+      "pdf_zeichen": 558,
+      "sha256_xml_text": "60f8b2a30b58dd89f1f6a20872687185e609eeec248712160e3fb883c14ede26",
+      "sha256_pdf_text": "60f8b2a30b58dd89f1f6a20872687185e609eeec248712160e3fb883c14ede26"
+    },
+    {
+      "index": 231,
+      "name": "Art 227Übergangsvorschrift zum Gesetz zur\nerbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997",
+      "identisch": true,
+      "xml_zeichen": 614,
+      "pdf_zeichen": 614,
+      "sha256_xml_text": "b104a4fe1e76bb0e94b4d251b0901e9f934c5e34410e2c68c27f32a02ded7350",
+      "sha256_pdf_text": "b104a4fe1e76bb0e94b4d251b0901e9f934c5e34410e2c68c27f32a02ded7350"
+    },
+    {
+      "index": 232,
+      "name": "Art 228Übergangsvorschrift zum\nÜberweisungsgesetz",
+      "identisch": true,
+      "xml_zeichen": 843,
+      "pdf_zeichen": 843,
+      "sha256_xml_text": "f60797c42612e112414d0e894c8844f77ce48f17d1a8e2e40f062fdf7f6b6e40",
+      "sha256_pdf_text": "f60797c42612e112414d0e894c8844f77ce48f17d1a8e2e40f062fdf7f6b6e40"
+    },
+    {
+      "index": 233,
+      "name": "Art 229Weitere Überleitungsvorschriften",
+      "identisch": true,
+      "xml_zeichen": 50,
+      "pdf_zeichen": 50,
+      "sha256_xml_text": "af59ba86a5a88e1cf9ad26c4ba358bac3c1725307f74339eadd0f27a01304f21",
+      "sha256_pdf_text": "af59ba86a5a88e1cf9ad26c4ba358bac3c1725307f74339eadd0f27a01304f21"
+    },
+    {
+      "index": 234,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 823,
+      "pdf_zeichen": 823,
+      "sha256_xml_text": "ddfecfc6bb98d8f14e30ce150803cd98fc11aafd3edc85c14b1e9889a85eb57e",
+      "sha256_pdf_text": "ddfecfc6bb98d8f14e30ce150803cd98fc11aafd3edc85c14b1e9889a85eb57e"
+    },
+    {
+      "index": 235,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 172,
+      "pdf_zeichen": 172,
+      "sha256_xml_text": "0996cb40f99dc636fc53c999690a1d702a51212a6da615e185c290d61b045746",
+      "sha256_pdf_text": "0996cb40f99dc636fc53c999690a1d702a51212a6da615e185c290d61b045746"
+    },
+    {
+      "index": 236,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 5537,
+      "pdf_zeichen": 5537,
+      "sha256_xml_text": "45f435de5ff0d60d5fca49fa0da80c3290a3accade799da00d3713b98d7407d1",
+      "sha256_pdf_text": "45f435de5ff0d60d5fca49fa0da80c3290a3accade799da00d3713b98d7407d1"
+    },
+    {
+      "index": 237,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 663,
+      "pdf_zeichen": 663,
+      "sha256_xml_text": "f5d79b0ed54b44e05c47b4202c942976c1ade602f548abc3adf1b2bbffb6b01f",
+      "sha256_pdf_text": "f5d79b0ed54b44e05c47b4202c942976c1ade602f548abc3adf1b2bbffb6b01f"
+    },
+    {
+      "index": 238,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 931,
+      "pdf_zeichen": 931,
+      "sha256_xml_text": "4b1e9b50628683fdbaaf91a466655c5bdb6a081f99ef1af4e8d7b69121928c89",
+      "sha256_pdf_text": "4b1e9b50628683fdbaaf91a466655c5bdb6a081f99ef1af4e8d7b69121928c89"
+    },
+    {
+      "index": 239,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 2284,
+      "pdf_zeichen": 2284,
+      "sha256_xml_text": "859ddb99a64d85c96c68066404ccf0304abb074d45636763a6eec5300c333728",
+      "sha256_pdf_text": "859ddb99a64d85c96c68066404ccf0304abb074d45636763a6eec5300c333728"
+    },
+    {
+      "index": 240,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 3710,
+      "pdf_zeichen": 3710,
+      "sha256_xml_text": "f09d1185bee9c5d47112ef653b155223e44fa3f5cb20c51243eea8ca23723f17",
+      "sha256_pdf_text": "f09d1185bee9c5d47112ef653b155223e44fa3f5cb20c51243eea8ca23723f17"
+    },
+    {
+      "index": 241,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 1602,
+      "pdf_zeichen": 1602,
+      "sha256_xml_text": "7423aa760bf35e64d0fb610444bb8303cbeddbebf1a16558da5c0bfeb0b9e52c",
+      "sha256_pdf_text": "7423aa760bf35e64d0fb610444bb8303cbeddbebf1a16558da5c0bfeb0b9e52c"
+    },
+    {
+      "index": 242,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 829,
+      "pdf_zeichen": 829,
+      "sha256_xml_text": "68e1830074e9e80ab72c1a57cd9fc91e077ce5545125d96887dbe98278d76d22",
+      "sha256_pdf_text": "68e1830074e9e80ab72c1a57cd9fc91e077ce5545125d96887dbe98278d76d22"
+    },
+    {
+      "index": 243,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 411,
+      "pdf_zeichen": 411,
+      "sha256_xml_text": "033fbaa3d4cc3fb28afe9d3f73a6407e49408dbde1288094e26fdf2e4224f37c",
+      "sha256_pdf_text": "033fbaa3d4cc3fb28afe9d3f73a6407e49408dbde1288094e26fdf2e4224f37c"
+    },
+    {
+      "index": 244,
+      "name": "§ 11",
+      "identisch": true,
+      "xml_zeichen": 759,
+      "pdf_zeichen": 759,
+      "sha256_xml_text": "4ce1b2d02714fb8b86950a2d7f9095aea40c9eb0c08d360e603dedf0207c10eb",
+      "sha256_pdf_text": "4ce1b2d02714fb8b86950a2d7f9095aea40c9eb0c08d360e603dedf0207c10eb"
+    },
+    {
+      "index": 245,
+      "name": "§ 12",
+      "identisch": true,
+      "xml_zeichen": 1888,
+      "pdf_zeichen": 1888,
+      "sha256_xml_text": "a285ca8a65d7944e375eedb6124f747a7e9721eb958dbfeb454830c7007820f6",
+      "sha256_pdf_text": "a285ca8a65d7944e375eedb6124f747a7e9721eb958dbfeb454830c7007820f6"
+    },
+    {
+      "index": 246,
+      "name": "§ 13",
+      "identisch": true,
+      "xml_zeichen": 16,
+      "pdf_zeichen": 16,
+      "sha256_xml_text": "6f29d5e0347fe5af09c20f2a7f67c8499e36f7c4d66fb90cb4ab1bc9d7711252",
+      "sha256_pdf_text": "6f29d5e0347fe5af09c20f2a7f67c8499e36f7c4d66fb90cb4ab1bc9d7711252"
+    },
+    {
+      "index": 247,
+      "name": "§ 14",
+      "identisch": true,
+      "xml_zeichen": 321,
+      "pdf_zeichen": 321,
+      "sha256_xml_text": "dd8805a6675996f398328549b3fb9f312626d94854cd4775b21e3869d2ab6634",
+      "sha256_pdf_text": "dd8805a6675996f398328549b3fb9f312626d94854cd4775b21e3869d2ab6634"
+    },
+    {
+      "index": 248,
+      "name": "§ 15",
+      "identisch": true,
+      "xml_zeichen": 349,
+      "pdf_zeichen": 349,
+      "sha256_xml_text": "ea52a1a4e5b86eee7fbb5b65305eff12247157094de584c1b2e864376148e51c",
+      "sha256_pdf_text": "ea52a1a4e5b86eee7fbb5b65305eff12247157094de584c1b2e864376148e51c"
+    },
+    {
+      "index": 249,
+      "name": "§ 16",
+      "identisch": true,
+      "xml_zeichen": 16,
+      "pdf_zeichen": 16,
+      "sha256_xml_text": "1f980b929525a05c32aa0d70c59eb5f12e0c2372ddd4311cd67a5502a9dd5758",
+      "sha256_pdf_text": "1f980b929525a05c32aa0d70c59eb5f12e0c2372ddd4311cd67a5502a9dd5758"
+    },
+    {
+      "index": 250,
+      "name": "§ 17",
+      "identisch": true,
+      "xml_zeichen": 458,
+      "pdf_zeichen": 458,
+      "sha256_xml_text": "59c4fbe6dec35f84927aa00c99d6801b9588cda33790d7a4cceec376681873e8",
+      "sha256_pdf_text": "59c4fbe6dec35f84927aa00c99d6801b9588cda33790d7a4cceec376681873e8"
+    },
+    {
+      "index": 251,
+      "name": "§ 18",
+      "identisch": true,
+      "xml_zeichen": 647,
+      "pdf_zeichen": 647,
+      "sha256_xml_text": "7e906c8c37bc40b42d255b91bf68d92019e05972081c895808df4ba3f65d4565",
+      "sha256_pdf_text": "7e906c8c37bc40b42d255b91bf68d92019e05972081c895808df4ba3f65d4565"
+    },
+    {
+      "index": 252,
+      "name": "§ 19",
+      "identisch": true,
+      "xml_zeichen": 383,
+      "pdf_zeichen": 383,
+      "sha256_xml_text": "83070cbe4b7957322f781bc65c4215fc790f8fe5c922289aee795b0e9536ccd9",
+      "sha256_pdf_text": "83070cbe4b7957322f781bc65c4215fc790f8fe5c922289aee795b0e9536ccd9"
+    },
+    {
+      "index": 253,
+      "name": "§ 20",
+      "identisch": true,
+      "xml_zeichen": 782,
+      "pdf_zeichen": 782,
+      "sha256_xml_text": "59bfb98a20854d90970a0ac327f6133bc52a64e900b5b383a3778c6ea97c05b4",
+      "sha256_pdf_text": "59bfb98a20854d90970a0ac327f6133bc52a64e900b5b383a3778c6ea97c05b4"
+    },
+    {
+      "index": 254,
+      "name": "§ 21",
+      "identisch": true,
+      "xml_zeichen": 2619,
+      "pdf_zeichen": 2619,
+      "sha256_xml_text": "693fbccb354e1d3258a52199818670731edb1de1084cc8acebd38274e38ce158",
+      "sha256_pdf_text": "693fbccb354e1d3258a52199818670731edb1de1084cc8acebd38274e38ce158"
+    },
+    {
+      "index": 255,
+      "name": "§ 22",
+      "identisch": true,
+      "xml_zeichen": 1057,
+      "pdf_zeichen": 1057,
+      "sha256_xml_text": "1502fa397e24614880af2d7fd7797c5cce87bf232f75d9b5ea51707fbce1e4ef",
+      "sha256_pdf_text": "1502fa397e24614880af2d7fd7797c5cce87bf232f75d9b5ea51707fbce1e4ef"
+    },
+    {
+      "index": 256,
+      "name": "§ 23",
+      "identisch": true,
+      "xml_zeichen": 1472,
+      "pdf_zeichen": 1472,
+      "sha256_xml_text": "5b25358246a72c21e96f437b377fb5e996ecd53f3de958894a935872ece97af3",
+      "sha256_pdf_text": "5b25358246a72c21e96f437b377fb5e996ecd53f3de958894a935872ece97af3"
+    },
+    {
+      "index": 257,
+      "name": "§ 24",
+      "identisch": true,
+      "xml_zeichen": 369,
+      "pdf_zeichen": 369,
+      "sha256_xml_text": "5b1bad58c29d239f9b7cbcf9081afd342584b8ec61a2d8aab7a84a0be260bbc3",
+      "sha256_pdf_text": "5b1bad58c29d239f9b7cbcf9081afd342584b8ec61a2d8aab7a84a0be260bbc3"
+    },
+    {
+      "index": 258,
+      "name": "§ 25",
+      "identisch": true,
+      "xml_zeichen": 684,
+      "pdf_zeichen": 684,
+      "sha256_xml_text": "e1623bd51733500f892c4c7f749c1ba96cef3ea7bf9714ba0f2c0442197b8d5e",
+      "sha256_pdf_text": "e1623bd51733500f892c4c7f749c1ba96cef3ea7bf9714ba0f2c0442197b8d5e"
+    },
+    {
+      "index": 259,
+      "name": "§ 26",
+      "identisch": true,
+      "xml_zeichen": 331,
+      "pdf_zeichen": 331,
+      "sha256_xml_text": "ecaeb31b370518791d0398d2a83b60859a412fa7b3a9150c9c2a7c61703a71f5",
+      "sha256_pdf_text": "ecaeb31b370518791d0398d2a83b60859a412fa7b3a9150c9c2a7c61703a71f5"
+    },
+    {
+      "index": 260,
+      "name": "§ 27",
+      "identisch": true,
+      "xml_zeichen": 574,
+      "pdf_zeichen": 574,
+      "sha256_xml_text": "7c03cb5ff004b983a615b882f691babb3b8a4929cdc4e1051f5cced5ea74f8a3",
+      "sha256_pdf_text": "7c03cb5ff004b983a615b882f691babb3b8a4929cdc4e1051f5cced5ea74f8a3"
+    },
+    {
+      "index": 261,
+      "name": "§ 28",
+      "identisch": true,
+      "xml_zeichen": 546,
+      "pdf_zeichen": 546,
+      "sha256_xml_text": "43501b3b4fa735d2e7692a0eff5aaa67f5dcb3e9fdd0be97ac46ee54a20d37cb",
+      "sha256_pdf_text": "43501b3b4fa735d2e7692a0eff5aaa67f5dcb3e9fdd0be97ac46ee54a20d37cb"
+    },
+    {
+      "index": 262,
+      "name": "§ 29",
+      "identisch": true,
+      "xml_zeichen": 660,
+      "pdf_zeichen": 660,
+      "sha256_xml_text": "528a73fda95087b4fe1954c3c9d784bd38eacef966950a00280e864c9004f410",
+      "sha256_pdf_text": "528a73fda95087b4fe1954c3c9d784bd38eacef966950a00280e864c9004f410"
+    },
+    {
+      "index": 263,
+      "name": "§ 30",
+      "identisch": true,
+      "xml_zeichen": 323,
+      "pdf_zeichen": 323,
+      "sha256_xml_text": "a62005c644afb0f42b6efd75d76ef1261c37074e5435e06d33870cdef43a154a",
+      "sha256_pdf_text": "a62005c644afb0f42b6efd75d76ef1261c37074e5435e06d33870cdef43a154a"
+    },
+    {
+      "index": 264,
+      "name": "§ 31",
+      "identisch": true,
+      "xml_zeichen": 322,
+      "pdf_zeichen": 322,
+      "sha256_xml_text": "ec8f1f50ef8cc0532e706bdb2dc1bdf6a58ef6acee42f4b5c286e147f2fe3064",
+      "sha256_pdf_text": "ec8f1f50ef8cc0532e706bdb2dc1bdf6a58ef6acee42f4b5c286e147f2fe3064"
+    },
+    {
+      "index": 265,
+      "name": "§ 32",
+      "identisch": true,
+      "xml_zeichen": 2343,
+      "pdf_zeichen": 2343,
+      "sha256_xml_text": "0add5e3bbbc2099078e1d4f971091da38aec3802fa1e2f4bb1cb8c6b8f08adbb",
+      "sha256_pdf_text": "0add5e3bbbc2099078e1d4f971091da38aec3802fa1e2f4bb1cb8c6b8f08adbb"
+    },
+    {
+      "index": 266,
+      "name": "§ 33",
+      "identisch": true,
+      "xml_zeichen": 206,
+      "pdf_zeichen": 206,
+      "sha256_xml_text": "3149c540cc5191927d12346fb40768dadd8c306e86f0527dcbd68af75ddcddd9",
+      "sha256_pdf_text": "3149c540cc5191927d12346fb40768dadd8c306e86f0527dcbd68af75ddcddd9"
+    },
+    {
+      "index": 267,
+      "name": "§ 34",
+      "identisch": true,
+      "xml_zeichen": 412,
+      "pdf_zeichen": 412,
+      "sha256_xml_text": "37e938962d78fee98f9cb41619819df59241420c49aff926a9ac69c7fa85fe66",
+      "sha256_pdf_text": "37e938962d78fee98f9cb41619819df59241420c49aff926a9ac69c7fa85fe66"
+    },
+    {
+      "index": 268,
+      "name": "§ 35",
+      "identisch": true,
+      "xml_zeichen": 641,
+      "pdf_zeichen": 641,
+      "sha256_xml_text": "673d9e5cf574c751e03369eef5ab9144e1f8eebfde6f65c66b842ab640e17075",
+      "sha256_pdf_text": "673d9e5cf574c751e03369eef5ab9144e1f8eebfde6f65c66b842ab640e17075"
+    },
+    {
+      "index": 269,
+      "name": "§ 36",
+      "identisch": true,
+      "xml_zeichen": 425,
+      "pdf_zeichen": 425,
+      "sha256_xml_text": "158e0b6d466d4a60050ed6e4ce055a788370b71eadbd11623c4d8d4840342222",
+      "sha256_pdf_text": "158e0b6d466d4a60050ed6e4ce055a788370b71eadbd11623c4d8d4840342222"
+    },
+    {
+      "index": 270,
+      "name": "§ 37",
+      "identisch": true,
+      "xml_zeichen": 295,
+      "pdf_zeichen": 295,
+      "sha256_xml_text": "56ed2995f6d12053906faec467abf3c638a2e22bdb4dbfb7611af1a04cc33216",
+      "sha256_pdf_text": "56ed2995f6d12053906faec467abf3c638a2e22bdb4dbfb7611af1a04cc33216"
+    },
+    {
+      "index": 271,
+      "name": "§ 38",
+      "identisch": true,
+      "xml_zeichen": 1890,
+      "pdf_zeichen": 1890,
+      "sha256_xml_text": "ee3d010edc35a2c6f91e8753f36e4946575f0288a746b6b69ce04acd35094e02",
+      "sha256_pdf_text": "ee3d010edc35a2c6f91e8753f36e4946575f0288a746b6b69ce04acd35094e02"
+    },
+    {
+      "index": 272,
+      "name": "§ 39",
+      "identisch": true,
+      "xml_zeichen": 436,
+      "pdf_zeichen": 436,
+      "sha256_xml_text": "48eba69039f6b66c8f951f5a300116bbd12b5883096dfdb4a8f01ffd5d3adf7b",
+      "sha256_pdf_text": "48eba69039f6b66c8f951f5a300116bbd12b5883096dfdb4a8f01ffd5d3adf7b"
+    },
+    {
+      "index": 273,
+      "name": "§ 40",
+      "identisch": true,
+      "xml_zeichen": 618,
+      "pdf_zeichen": 618,
+      "sha256_xml_text": "c637239eff95ba81c624193eebdafe7c27de9393d530eb512eb6b49f4dff4d20",
+      "sha256_pdf_text": "c637239eff95ba81c624193eebdafe7c27de9393d530eb512eb6b49f4dff4d20"
+    },
+    {
+      "index": 274,
+      "name": "§ 41",
+      "identisch": true,
+      "xml_zeichen": 359,
+      "pdf_zeichen": 359,
+      "sha256_xml_text": "face26d70b25cc92887e980a6a0733c5e69fddccde20431f6162d8b638436e39",
+      "sha256_pdf_text": "face26d70b25cc92887e980a6a0733c5e69fddccde20431f6162d8b638436e39"
+    },
+    {
+      "index": 275,
+      "name": "§ 42",
+      "identisch": true,
+      "xml_zeichen": 357,
+      "pdf_zeichen": 357,
+      "sha256_xml_text": "cd32010aa126f053ebbd850ab08602536835b7672a47ca9472e1e4bc57fc42a3",
+      "sha256_pdf_text": "cd32010aa126f053ebbd850ab08602536835b7672a47ca9472e1e4bc57fc42a3"
+    },
+    {
+      "index": 276,
+      "name": "§ 43",
+      "identisch": true,
+      "xml_zeichen": 469,
+      "pdf_zeichen": 469,
+      "sha256_xml_text": "31b5d02eb5d393997c9ffe382a0fa5c2469e16f6280b4dbdd4080234f19d1fd5",
+      "sha256_pdf_text": "31b5d02eb5d393997c9ffe382a0fa5c2469e16f6280b4dbdd4080234f19d1fd5"
+    },
+    {
+      "index": 277,
+      "name": "§ 44",
+      "identisch": true,
+      "xml_zeichen": 1221,
+      "pdf_zeichen": 1221,
+      "sha256_xml_text": "6583e8ad9cd87462fe146b4b4599bc296da1783cbb2ca813aa1f0e8813848cf0",
+      "sha256_pdf_text": "6583e8ad9cd87462fe146b4b4599bc296da1783cbb2ca813aa1f0e8813848cf0"
+    },
+    {
+      "index": 278,
+      "name": "§ 45",
+      "identisch": true,
+      "xml_zeichen": 1059,
+      "pdf_zeichen": 1059,
+      "sha256_xml_text": "1fb0ade73c3b308f7651c8c80fbec636cadbbaaa6100db53bc4c94753cec17e1",
+      "sha256_pdf_text": "1fb0ade73c3b308f7651c8c80fbec636cadbbaaa6100db53bc4c94753cec17e1"
+    },
+    {
+      "index": 279,
+      "name": "§ 46",
+      "identisch": true,
+      "xml_zeichen": 361,
+      "pdf_zeichen": 361,
+      "sha256_xml_text": "4064e3c4347956cb838bde32439e446f03bd63ed4755e06e493affaf3737cf53",
+      "sha256_pdf_text": "4064e3c4347956cb838bde32439e446f03bd63ed4755e06e493affaf3737cf53"
+    },
+    {
+      "index": 280,
+      "name": "§ 47",
+      "identisch": true,
+      "xml_zeichen": 1197,
+      "pdf_zeichen": 1197,
+      "sha256_xml_text": "4b4740844206d5935c4b83ec6ffaedc564fb991ac2fd2d93c0b5ba7d04be7c26",
+      "sha256_pdf_text": "4b4740844206d5935c4b83ec6ffaedc564fb991ac2fd2d93c0b5ba7d04be7c26"
+    },
+    {
+      "index": 281,
+      "name": "§ 48",
+      "identisch": true,
+      "xml_zeichen": 408,
+      "pdf_zeichen": 408,
+      "sha256_xml_text": "e147a0fd860273bec691f21cebf97aa4cecfd1837be3baf7fd2ec2c300286db5",
+      "sha256_pdf_text": "e147a0fd860273bec691f21cebf97aa4cecfd1837be3baf7fd2ec2c300286db5"
+    },
+    {
+      "index": 282,
+      "name": "§ 49",
+      "identisch": true,
+      "xml_zeichen": 1401,
+      "pdf_zeichen": 1401,
+      "sha256_xml_text": "5a28e1c5ab2f4efe4038ee981d6da58d6f88410df5cb7bffe9f201a7fe7e37e3",
+      "sha256_pdf_text": "5a28e1c5ab2f4efe4038ee981d6da58d6f88410df5cb7bffe9f201a7fe7e37e3"
+    },
+    {
+      "index": 283,
+      "name": "§ 50",
+      "identisch": true,
+      "xml_zeichen": 1049,
+      "pdf_zeichen": 1049,
+      "sha256_xml_text": "75486db3e76cf6c949242f1602e2d62bde9afabc60456ecfdf56e86a881507a6",
+      "sha256_pdf_text": "75486db3e76cf6c949242f1602e2d62bde9afabc60456ecfdf56e86a881507a6"
+    },
+    {
+      "index": 284,
+      "name": "§ 51",
+      "identisch": true,
+      "xml_zeichen": 253,
+      "pdf_zeichen": 253,
+      "sha256_xml_text": "eaf42b787ba02c7f1bfa269d23c263fc4c698312be548f21190f60adf5e9e988",
+      "sha256_pdf_text": "eaf42b787ba02c7f1bfa269d23c263fc4c698312be548f21190f60adf5e9e988"
+    },
+    {
+      "index": 285,
+      "name": "§ 52",
+      "identisch": true,
+      "xml_zeichen": 255,
+      "pdf_zeichen": 255,
+      "sha256_xml_text": "dfda6313d1bcabcdb2a619afaac512d3787eb0e3bf160cb668ca45661afd6e74",
+      "sha256_pdf_text": "dfda6313d1bcabcdb2a619afaac512d3787eb0e3bf160cb668ca45661afd6e74"
+    },
+    {
+      "index": 286,
+      "name": "§ 53",
+      "identisch": true,
+      "xml_zeichen": 274,
+      "pdf_zeichen": 274,
+      "sha256_xml_text": "c3a06510b7867245dd71d6eb3b3a2304c929cc3a717878bee53a558cda1f6079",
+      "sha256_pdf_text": "c3a06510b7867245dd71d6eb3b3a2304c929cc3a717878bee53a558cda1f6079"
+    },
+    {
+      "index": 287,
+      "name": "§ 54",
+      "identisch": true,
+      "xml_zeichen": 1098,
+      "pdf_zeichen": 1098,
+      "sha256_xml_text": "b718f865397882c55faf2a0c11cd4290564c1bd8e682d84cad3f5eaad7df81ee",
+      "sha256_pdf_text": "b718f865397882c55faf2a0c11cd4290564c1bd8e682d84cad3f5eaad7df81ee"
+    },
+    {
+      "index": 288,
+      "name": "§ 55",
+      "identisch": true,
+      "xml_zeichen": 363,
+      "pdf_zeichen": 363,
+      "sha256_xml_text": "64d81cfcba2d36f3ebeec1dccd7ca80c53f9aa116726dc3b75bbaefb9c2f6aff",
+      "sha256_pdf_text": "64d81cfcba2d36f3ebeec1dccd7ca80c53f9aa116726dc3b75bbaefb9c2f6aff"
+    },
+    {
+      "index": 289,
+      "name": "§ 56",
+      "identisch": true,
+      "xml_zeichen": 1373,
+      "pdf_zeichen": 1373,
+      "sha256_xml_text": "f12cce5cf924e3e6a0d01ad70d9d296d34fb4570484cd61b3bfa1d730ca87357",
+      "sha256_pdf_text": "f12cce5cf924e3e6a0d01ad70d9d296d34fb4570484cd61b3bfa1d730ca87357"
+    },
+    {
+      "index": 290,
+      "name": "§ 57",
+      "identisch": true,
+      "xml_zeichen": 1063,
+      "pdf_zeichen": 1063,
+      "sha256_xml_text": "bb2089fe6d5bc07f18e6d4291b5c63c2f3132c3c77cba7bd1f8e0d9d506fe6e9",
+      "sha256_pdf_text": "bb2089fe6d5bc07f18e6d4291b5c63c2f3132c3c77cba7bd1f8e0d9d506fe6e9"
+    },
+    {
+      "index": 291,
+      "name": "§ 58",
+      "identisch": true,
+      "xml_zeichen": 303,
+      "pdf_zeichen": 303,
+      "sha256_xml_text": "c0df2ca94430b8a56760a76970ec9a9ec222c97eec8020e67f73be52911cb9e7",
+      "sha256_pdf_text": "c0df2ca94430b8a56760a76970ec9a9ec222c97eec8020e67f73be52911cb9e7"
+    },
+    {
+      "index": 292,
+      "name": "§ 59",
+      "identisch": true,
+      "xml_zeichen": 328,
+      "pdf_zeichen": 328,
+      "sha256_xml_text": "5797c44f8bb59deefd2a3adb287cb4185e4c688873c85a17c8c5ef99df64325d",
+      "sha256_pdf_text": "5797c44f8bb59deefd2a3adb287cb4185e4c688873c85a17c8c5ef99df64325d"
+    },
+    {
+      "index": 293,
+      "name": "§ 60",
+      "identisch": true,
+      "xml_zeichen": 512,
+      "pdf_zeichen": 512,
+      "sha256_xml_text": "826b686fc3b2c9e9ac9618abfd65ed61e3401bd52b4c2bc43bf81fe8497c9f7a",
+      "sha256_pdf_text": "826b686fc3b2c9e9ac9618abfd65ed61e3401bd52b4c2bc43bf81fe8497c9f7a"
+    },
+    {
+      "index": 294,
+      "name": "§ 61",
+      "identisch": true,
+      "xml_zeichen": 520,
+      "pdf_zeichen": 520,
+      "sha256_xml_text": "81848d66f1bee1113e402b6eddaadfe88a53d272febacd99bf0c75c9e0622b8f",
+      "sha256_pdf_text": "81848d66f1bee1113e402b6eddaadfe88a53d272febacd99bf0c75c9e0622b8f"
+    },
+    {
+      "index": 295,
+      "name": "§ 62",
+      "identisch": true,
+      "xml_zeichen": 435,
+      "pdf_zeichen": 435,
+      "sha256_xml_text": "547f74108c2c25c017e954dc461b043e65eae3182781db37d0c79ee2791bdd7b",
+      "sha256_pdf_text": "547f74108c2c25c017e954dc461b043e65eae3182781db37d0c79ee2791bdd7b"
+    },
+    {
+      "index": 296,
+      "name": "§ 63",
+      "identisch": true,
+      "xml_zeichen": 378,
+      "pdf_zeichen": 378,
+      "sha256_xml_text": "7e829d3c0dec0667e43a9a89742f962a58b651bbcee609b8e14921a5abf4177e",
+      "sha256_pdf_text": "7e829d3c0dec0667e43a9a89742f962a58b651bbcee609b8e14921a5abf4177e"
+    },
+    {
+      "index": 297,
+      "name": "§ 64",
+      "identisch": true,
+      "xml_zeichen": 2421,
+      "pdf_zeichen": 2421,
+      "sha256_xml_text": "120df1b4f8bd50631521a8ecf292c414f1ba9a21bd0e6429dbc5da8f7b33f373",
+      "sha256_pdf_text": "120df1b4f8bd50631521a8ecf292c414f1ba9a21bd0e6429dbc5da8f7b33f373"
+    },
+    {
+      "index": 298,
+      "name": "§ 65",
+      "identisch": true,
+      "xml_zeichen": 1180,
+      "pdf_zeichen": 1180,
+      "sha256_xml_text": "efb7a0f5ce2d3f30da9ca80489bcd214fe14df3d3a03e1059fcf7514844bf3e5",
+      "sha256_pdf_text": "efb7a0f5ce2d3f30da9ca80489bcd214fe14df3d3a03e1059fcf7514844bf3e5"
+    },
+    {
+      "index": 299,
+      "name": "§ 66",
+      "identisch": true,
+      "xml_zeichen": 246,
+      "pdf_zeichen": 246,
+      "sha256_xml_text": "d1a1cf5e3f9aaec5ce3738e187af9acaa75ed7211800d9a2947e5f48fe74c848",
+      "sha256_pdf_text": "d1a1cf5e3f9aaec5ce3738e187af9acaa75ed7211800d9a2947e5f48fe74c848"
+    },
+    {
+      "index": 300,
+      "name": "§ 67",
+      "identisch": true,
+      "xml_zeichen": 2868,
+      "pdf_zeichen": 2868,
+      "sha256_xml_text": "522fd14af2192614b0ac74b33838fe43138290a10aab2f753297fd19716d1675",
+      "sha256_pdf_text": "522fd14af2192614b0ac74b33838fe43138290a10aab2f753297fd19716d1675"
+    },
+    {
+      "index": 301,
+      "name": "§ 68",
+      "identisch": true,
+      "xml_zeichen": 360,
+      "pdf_zeichen": 360,
+      "sha256_xml_text": "76baad2f0dbd7641e83ed5ca941ce5f2357401eb4e16eaca0093397c88476fd0",
+      "sha256_pdf_text": "76baad2f0dbd7641e83ed5ca941ce5f2357401eb4e16eaca0093397c88476fd0"
+    },
+    {
+      "index": 302,
+      "name": "§ 69",
+      "identisch": true,
+      "xml_zeichen": 468,
+      "pdf_zeichen": 468,
+      "sha256_xml_text": "edef46968e3a57a01b6e6f15ec3f611ee5e08db49295a2ee2873c03803d137af",
+      "sha256_pdf_text": "edef46968e3a57a01b6e6f15ec3f611ee5e08db49295a2ee2873c03803d137af"
+    },
+    {
+      "index": 303,
+      "name": "§ 70",
+      "identisch": true,
+      "xml_zeichen": 969,
+      "pdf_zeichen": 969,
+      "sha256_xml_text": "8712de2a8f369d41e7f63a39b832af91609bd88360bfff6d3a1c402a16c2aae2",
+      "sha256_pdf_text": "8712de2a8f369d41e7f63a39b832af91609bd88360bfff6d3a1c402a16c2aae2"
+    },
+    {
+      "index": 304,
+      "name": "§ 72",
+      "identisch": true,
+      "xml_zeichen": 559,
+      "pdf_zeichen": 559,
+      "sha256_xml_text": "36542036f6ad2b1f321edba44c524eb2c83171fe6a4366fdeaf5dc77c3ddf8af",
+      "sha256_pdf_text": "36542036f6ad2b1f321edba44c524eb2c83171fe6a4366fdeaf5dc77c3ddf8af"
+    },
+    {
+      "index": 305,
+      "name": "Sechster TeilInkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet",
+      "identisch": true,
+      "xml_zeichen": 164,
+      "pdf_zeichen": 164,
+      "sha256_xml_text": "e8041790031b3c4a284e9399bdfc35adacc6676246ba7e1805c9b14f0727460c",
+      "sha256_pdf_text": "e8041790031b3c4a284e9399bdfc35adacc6676246ba7e1805c9b14f0727460c"
+    },
+    {
+      "index": 306,
+      "name": "Art 230Inkrafttreten",
+      "identisch": true,
+      "xml_zeichen": 213,
+      "pdf_zeichen": 213,
+      "sha256_xml_text": "b27a608cd719ab40a30e6a002ca1aa8ba280e487cecea8965fd1c42d4a746752",
+      "sha256_pdf_text": "b27a608cd719ab40a30e6a002ca1aa8ba280e487cecea8965fd1c42d4a746752"
+    },
+    {
+      "index": 307,
+      "name": "Art 231Erstes Buch. Allgemeiner Teil des Bürgerlichen Gesetzbuchs",
+      "identisch": true,
+      "xml_zeichen": 58,
+      "pdf_zeichen": 58,
+      "sha256_xml_text": "3a619ccded5dd58acb5a7505068552df0dfbc5ae92604f9e680b4d984f540c9d",
+      "sha256_pdf_text": "3a619ccded5dd58acb5a7505068552df0dfbc5ae92604f9e680b4d984f540c9d"
+    },
+    {
+      "index": 308,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 16,
+      "pdf_zeichen": 16,
+      "sha256_xml_text": "d95440e861846f36e515b7666a19e7f1bdf7b0e5c96b32882e00db1b62c4ffa5",
+      "sha256_pdf_text": "d95440e861846f36e515b7666a19e7f1bdf7b0e5c96b32882e00db1b62c4ffa5"
+    },
+    {
+      "index": 309,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 645,
+      "pdf_zeichen": 645,
+      "sha256_xml_text": "6ead656a742d661bda6a2a7c9c3361a31b8a189c4aef2daa7dea7ee6acc14b67",
+      "sha256_pdf_text": "6ead656a742d661bda6a2a7c9c3361a31b8a189c4aef2daa7dea7ee6acc14b67"
+    },
+    {
+      "index": 310,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 239,
+      "pdf_zeichen": 239,
+      "sha256_xml_text": "6b5ab58be945bf042410d697292f436293d1dfa328098f2799ebe5695a92bd48",
+      "sha256_pdf_text": "6b5ab58be945bf042410d697292f436293d1dfa328098f2799ebe5695a92bd48"
+    },
+    {
+      "index": 311,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 179,
+      "pdf_zeichen": 179,
+      "sha256_xml_text": "301233efc17e783db0761257a1547b74199ec87f604f51c76384cd3269c6a8ed",
+      "sha256_pdf_text": "301233efc17e783db0761257a1547b74199ec87f604f51c76384cd3269c6a8ed"
+    },
+    {
+      "index": 312,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 1723,
+      "pdf_zeichen": 1723,
+      "sha256_xml_text": "8a8ef9351d663a6dec7c249fbcf76c126f332489487c2e0c7865ce07bca6b7b4",
+      "sha256_pdf_text": "8a8ef9351d663a6dec7c249fbcf76c126f332489487c2e0c7865ce07bca6b7b4"
+    },
+    {
+      "index": 313,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 978,
+      "pdf_zeichen": 978,
+      "sha256_xml_text": "95917372441be8661804b0a5f003444354a6c58df3a99f84d63700e8d1de964f",
+      "sha256_pdf_text": "95917372441be8661804b0a5f003444354a6c58df3a99f84d63700e8d1de964f"
+    },
+    {
+      "index": 314,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 1224,
+      "pdf_zeichen": 1224,
+      "sha256_xml_text": "4725dad5d8c3356fa9fde8b367c62004e5ae05e110648320a57a1fccab2c0950",
+      "sha256_pdf_text": "4725dad5d8c3356fa9fde8b367c62004e5ae05e110648320a57a1fccab2c0950"
+    },
+    {
+      "index": 315,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 2035,
+      "pdf_zeichen": 2035,
+      "sha256_xml_text": "03dd61db6e9f7126c628638f0ad36a4c8183b949ffc8e543e15f90bb13268672",
+      "sha256_pdf_text": "03dd61db6e9f7126c628638f0ad36a4c8183b949ffc8e543e15f90bb13268672"
+    },
+    {
+      "index": 316,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 2835,
+      "pdf_zeichen": 2835,
+      "sha256_xml_text": "2262af0a50b55126ba9b050759aef18313ec20c0697aacf40e04d6b5621a5d87",
+      "sha256_pdf_text": "2262af0a50b55126ba9b050759aef18313ec20c0697aacf40e04d6b5621a5d87"
+    },
+    {
+      "index": 317,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 2210,
+      "pdf_zeichen": 2210,
+      "sha256_xml_text": "27142df790b401c9c7033c3b676fcd42723c27f365d27b1a2493d3531065998c",
+      "sha256_pdf_text": "27142df790b401c9c7033c3b676fcd42723c27f365d27b1a2493d3531065998c"
+    },
+    {
+      "index": 318,
+      "name": "Art 232Zweites Buch. Recht der Schuldverhältnisse",
+      "identisch": true,
+      "xml_zeichen": 44,
+      "pdf_zeichen": 44,
+      "sha256_xml_text": "df055a1e263d799be835a7a44f908abc66a2550d67646325eecfca6877fdb836",
+      "sha256_pdf_text": "df055a1e263d799be835a7a44f908abc66a2550d67646325eecfca6877fdb836"
+    },
+    {
+      "index": 319,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 208,
+      "pdf_zeichen": 208,
+      "sha256_xml_text": "e0b0ac4582c6076be987917ecf01e9693ad08d49966a0ae6b3b98601eb973aba",
+      "sha256_pdf_text": "e0b0ac4582c6076be987917ecf01e9693ad08d49966a0ae6b3b98601eb973aba"
+    },
+    {
+      "index": 320,
+      "name": "§ 1a",
+      "identisch": true,
+      "xml_zeichen": 381,
+      "pdf_zeichen": 381,
+      "sha256_xml_text": "f8c9a3e8bb832d7388598a4c1fb4c6e7620db260d5155a16a5266e5e2466ff3b",
+      "sha256_pdf_text": "f8c9a3e8bb832d7388598a4c1fb4c6e7620db260d5155a16a5266e5e2466ff3b"
+    },
+    {
+      "index": 321,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 184,
+      "pdf_zeichen": 184,
+      "sha256_xml_text": "29577ba0b2108593b1e447233942386b9259080285067cc745c38c00660b2ee4",
+      "sha256_pdf_text": "29577ba0b2108593b1e447233942386b9259080285067cc745c38c00660b2ee4"
+    },
+    {
+      "index": 322,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 287,
+      "pdf_zeichen": 287,
+      "sha256_xml_text": "35586f9f9aa0985a5d85fde26d15924f5b239ea383b601e9d93305f398ecfeb9",
+      "sha256_pdf_text": "35586f9f9aa0985a5d85fde26d15924f5b239ea383b601e9d93305f398ecfeb9"
+    },
+    {
+      "index": 323,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 1268,
+      "pdf_zeichen": 1268,
+      "sha256_xml_text": "bdbb231ce48e92dda1fb4ab715d6d4b3f17bb81d8137bc55596cecd49a514905",
+      "sha256_pdf_text": "bdbb231ce48e92dda1fb4ab715d6d4b3f17bb81d8137bc55596cecd49a514905"
+    },
+    {
+      "index": 324,
+      "name": "§ 4a",
+      "identisch": true,
+      "xml_zeichen": 2814,
+      "pdf_zeichen": 2814,
+      "sha256_xml_text": "6603e75dc8ea4f05c6f8f802e21d870fb7c464cacac8812d5ffb055ed4c76d99",
+      "sha256_pdf_text": "6603e75dc8ea4f05c6f8f802e21d870fb7c464cacac8812d5ffb055ed4c76d99"
+    },
+    {
+      "index": 325,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 736,
+      "pdf_zeichen": 736,
+      "sha256_xml_text": "6d16d5f62e04579bd3d69b2454937aba501161badc55a7a2504f5200d6eaf8c8",
+      "sha256_pdf_text": "6d16d5f62e04579bd3d69b2454937aba501161badc55a7a2504f5200d6eaf8c8"
+    },
+    {
+      "index": 326,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 236,
+      "pdf_zeichen": 236,
+      "sha256_xml_text": "56bf16ea75e6734e8119595773db7c2a24a9a5959a475b545896b98c986c09e4",
+      "sha256_pdf_text": "56bf16ea75e6734e8119595773db7c2a24a9a5959a475b545896b98c986c09e4"
+    },
+    {
+      "index": 327,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 479,
+      "pdf_zeichen": 479,
+      "sha256_xml_text": "cbb06b4ad4f9f88bc58a9c4e549ee48719da2e4d2ede4c552e8397b92d0a50d4",
+      "sha256_pdf_text": "cbb06b4ad4f9f88bc58a9c4e549ee48719da2e4d2ede4c552e8397b92d0a50d4"
+    },
+    {
+      "index": 328,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 124,
+      "pdf_zeichen": 124,
+      "sha256_xml_text": "23a19d19c7dcd4def4f144cb9f24124b37629e833600bbce71e8665dbbecae7a",
+      "sha256_pdf_text": "23a19d19c7dcd4def4f144cb9f24124b37629e833600bbce71e8665dbbecae7a"
+    },
+    {
+      "index": 329,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 176,
+      "pdf_zeichen": 176,
+      "sha256_xml_text": "f88f7595a4ad8a8cb012d5a648c822190cbc734dfe244d474409dbfc804e592a",
+      "sha256_pdf_text": "f88f7595a4ad8a8cb012d5a648c822190cbc734dfe244d474409dbfc804e592a"
+    },
+    {
+      "index": 330,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 171,
+      "pdf_zeichen": 171,
+      "sha256_xml_text": "f80f86890ea22f15c80b69f152f681ab166fc9da002d91cad64956e340ba9d18",
+      "sha256_pdf_text": "f80f86890ea22f15c80b69f152f681ab166fc9da002d91cad64956e340ba9d18"
+    },
+    {
+      "index": 331,
+      "name": "Art 233Drittes Buch. Sachenrecht",
+      "identisch": true,
+      "xml_zeichen": 29,
+      "pdf_zeichen": 29,
+      "sha256_xml_text": "217cb2cfc8185357ff0b2b2d49b1d363e627832b1c08cb144241ed0031db3cca",
+      "sha256_pdf_text": "217cb2cfc8185357ff0b2b2d49b1d363e627832b1c08cb144241ed0031db3cca"
+    },
+    {
+      "index": 332,
+      "name": "Erster AbschnittAllgemeine Vorschriften",
+      "identisch": true,
+      "xml_zeichen": 37,
+      "pdf_zeichen": 37,
+      "sha256_xml_text": "17b81a00fac20501aa8dfba379ca5affc0e48aeba97b44f63b2ba1f585929342",
+      "sha256_pdf_text": "17b81a00fac20501aa8dfba379ca5affc0e48aeba97b44f63b2ba1f585929342"
+    },
+    {
+      "index": 333,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 147,
+      "pdf_zeichen": 147,
+      "sha256_xml_text": "f823327b9564e7b25834636fe234c1eb699bb14f30d7439921881f82bfe7d500",
+      "sha256_pdf_text": "f823327b9564e7b25834636fe234c1eb699bb14f30d7439921881f82bfe7d500"
+    },
+    {
+      "index": 334,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1871,
+      "pdf_zeichen": 1871,
+      "sha256_xml_text": "0866edfc65b11f6b5296c807db4cf47395d394a4eec45d9b14bf58bb9e7a9712",
+      "sha256_pdf_text": "0866edfc65b11f6b5296c807db4cf47395d394a4eec45d9b14bf58bb9e7a9712"
+    },
+    {
+      "index": 335,
+      "name": "§ 2a",
+      "identisch": true,
+      "xml_zeichen": 7526,
+      "pdf_zeichen": 7526,
+      "sha256_xml_text": "7cf84db5012f7c94ebc29360eb88235cc915f21d923ec19d3ea7ae2a174dca4d",
+      "sha256_pdf_text": "7cf84db5012f7c94ebc29360eb88235cc915f21d923ec19d3ea7ae2a174dca4d"
+    },
+    {
+      "index": 336,
+      "name": "§ 2b",
+      "identisch": true,
+      "xml_zeichen": 2874,
+      "pdf_zeichen": 2874,
+      "sha256_xml_text": "1c287d9a697d8f84bf43d7e5217d68c870c64d7352156d648ca8c66219650bea",
+      "sha256_pdf_text": "1c287d9a697d8f84bf43d7e5217d68c870c64d7352156d648ca8c66219650bea"
+    },
+    {
+      "index": 337,
+      "name": "§ 2c",
+      "identisch": true,
+      "xml_zeichen": 1121,
+      "pdf_zeichen": 1121,
+      "sha256_xml_text": "1cbdf5a39e17cf7c6171d4ff9ffef46a5e24bf17eec2adb4968d7758e2d5a69f",
+      "sha256_pdf_text": "1cbdf5a39e17cf7c6171d4ff9ffef46a5e24bf17eec2adb4968d7758e2d5a69f"
+    },
+    {
+      "index": 338,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 1414,
+      "pdf_zeichen": 1414,
+      "sha256_xml_text": "768d6a52cc992036469a81d925ef96522448c69bea5af4dfd0bd9c3a93ade107",
+      "sha256_pdf_text": "768d6a52cc992036469a81d925ef96522448c69bea5af4dfd0bd9c3a93ade107"
+    },
+    {
+      "index": 339,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 4400,
+      "pdf_zeichen": 4400,
+      "sha256_xml_text": "10d22bcaca5ad560d0b5c66b1ef31937127bc603ee68acf94ad6fb8f04e8e2cc",
+      "sha256_pdf_text": "10d22bcaca5ad560d0b5c66b1ef31937127bc603ee68acf94ad6fb8f04e8e2cc"
+    },
+    {
+      "index": 340,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 2642,
+      "pdf_zeichen": 2642,
+      "sha256_xml_text": "a1c8527c5021bc8d86c7ab44941170e445f1a55b26f985ce3bd2c44f03ea7341",
+      "sha256_pdf_text": "a1c8527c5021bc8d86c7ab44941170e445f1a55b26f985ce3bd2c44f03ea7341"
+    },
+    {
+      "index": 341,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 782,
+      "pdf_zeichen": 782,
+      "sha256_xml_text": "f9e203b8419dfb4a40ddd44f4429a0e1a438efb2f0c4aaef1849e4a82e8f6dfa",
+      "sha256_pdf_text": "f9e203b8419dfb4a40ddd44f4429a0e1a438efb2f0c4aaef1849e4a82e8f6dfa"
+    },
+    {
+      "index": 342,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 1199,
+      "pdf_zeichen": 1199,
+      "sha256_xml_text": "a17a2ec415b0646c909a7373955111024e2a456bbf8e63254f0f409cce97a594",
+      "sha256_pdf_text": "a17a2ec415b0646c909a7373955111024e2a456bbf8e63254f0f409cce97a594"
+    },
+    {
+      "index": 343,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 423,
+      "pdf_zeichen": 423,
+      "sha256_xml_text": "b7da7aa5fd9e985c2c69f6d2ccca6fe0b92d526cef9edae240bb8c6f80cc3557",
+      "sha256_pdf_text": "b7da7aa5fd9e985c2c69f6d2ccca6fe0b92d526cef9edae240bb8c6f80cc3557"
+    },
+    {
+      "index": 344,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 1033,
+      "pdf_zeichen": 1033,
+      "sha256_xml_text": "01799a04906fbd42f0131aeef307de87bd79de65b92537d043cbbc58310a76a2",
+      "sha256_pdf_text": "01799a04906fbd42f0131aeef307de87bd79de65b92537d043cbbc58310a76a2"
+    },
+    {
+      "index": 345,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 1695,
+      "pdf_zeichen": 1695,
+      "sha256_xml_text": "9ec73d8d5ad6965beb7da1cd0babaeb29b1584bb3f5490846648a9f05c055884",
+      "sha256_pdf_text": "9ec73d8d5ad6965beb7da1cd0babaeb29b1584bb3f5490846648a9f05c055884"
+    },
+    {
+      "index": 346,
+      "name": "Zweiter AbschnittAbwicklung der Bodenreform",
+      "identisch": true,
+      "xml_zeichen": 40,
+      "pdf_zeichen": 40,
+      "sha256_xml_text": "a7e3f2615f25c8bddc252a478c845ce1f80512e01733c0a44efd1d882cf847f6",
+      "sha256_pdf_text": "a7e3f2615f25c8bddc252a478c845ce1f80512e01733c0a44efd1d882cf847f6"
+    },
+    {
+      "index": 347,
+      "name": "§ 11",
+      "identisch": true,
+      "xml_zeichen": 3499,
+      "pdf_zeichen": 3499,
+      "sha256_xml_text": "563628d0d747765da5bc5f1e2c31358fae8da8c9fa7a91287cd0d0a5598d5acb",
+      "sha256_pdf_text": "563628d0d747765da5bc5f1e2c31358fae8da8c9fa7a91287cd0d0a5598d5acb"
+    },
+    {
+      "index": 348,
+      "name": "§ 12",
+      "identisch": true,
+      "xml_zeichen": 3801,
+      "pdf_zeichen": 3801,
+      "sha256_xml_text": "ad7606e4422764afd3642b3cb97b3a65bc3313489917831ae92ac7dc5d2e8507",
+      "sha256_pdf_text": "ad7606e4422764afd3642b3cb97b3a65bc3313489917831ae92ac7dc5d2e8507"
+    },
+    {
+      "index": 349,
+      "name": "§ 13",
+      "identisch": true,
+      "xml_zeichen": 332,
+      "pdf_zeichen": 332,
+      "sha256_xml_text": "221ea3763954790b62f28b43790939edba7a8614e42dbef0d73b41feffc1171b",
+      "sha256_pdf_text": "221ea3763954790b62f28b43790939edba7a8614e42dbef0d73b41feffc1171b"
+    },
+    {
+      "index": 350,
+      "name": "§ 13a",
+      "identisch": true,
+      "xml_zeichen": 235,
+      "pdf_zeichen": 235,
+      "sha256_xml_text": "2b51c6b0c65bb627a948ef0591d9d8dfb637d476d3f4f51846d8b29c3057d5d5",
+      "sha256_pdf_text": "2b51c6b0c65bb627a948ef0591d9d8dfb637d476d3f4f51846d8b29c3057d5d5"
+    },
+    {
+      "index": 351,
+      "name": "§ 14",
+      "identisch": true,
+      "xml_zeichen": 270,
+      "pdf_zeichen": 270,
+      "sha256_xml_text": "b5cf554c759d22869e278fc5adc1a63ad0b10acf915a87f914b1d5a80e99b63d",
+      "sha256_pdf_text": "b5cf554c759d22869e278fc5adc1a63ad0b10acf915a87f914b1d5a80e99b63d"
+    },
+    {
+      "index": 352,
+      "name": "§ 15",
+      "identisch": true,
+      "xml_zeichen": 1763,
+      "pdf_zeichen": 1763,
+      "sha256_xml_text": "4ca98a0cbbc7de5d51828280a7774f167848f862d5bf1da5ceaf9a5281398ad3",
+      "sha256_pdf_text": "4ca98a0cbbc7de5d51828280a7774f167848f862d5bf1da5ceaf9a5281398ad3"
+    },
+    {
+      "index": 353,
+      "name": "§ 16",
+      "identisch": true,
+      "xml_zeichen": 1543,
+      "pdf_zeichen": 1543,
+      "sha256_xml_text": "85cc9d773b9d3dae98e978c0954766a2443ff74f2746876e5d0ab3ce774003d6",
+      "sha256_pdf_text": "85cc9d773b9d3dae98e978c0954766a2443ff74f2746876e5d0ab3ce774003d6"
+    },
+    {
+      "index": 354,
+      "name": "Art 234Viertes Buch. Familienrecht",
+      "identisch": true,
+      "xml_zeichen": 31,
+      "pdf_zeichen": 31,
+      "sha256_xml_text": "3b64a9d4ded4b2d7a6700dbc7a5213115f785bfd4b7993391c3ad7f345f54202",
+      "sha256_pdf_text": "3b64a9d4ded4b2d7a6700dbc7a5213115f785bfd4b7993391c3ad7f345f54202"
+    },
+    {
+      "index": 355,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 181,
+      "pdf_zeichen": 181,
+      "sha256_xml_text": "876b9dca2b8e105343e3af9f443334a18bd6a6c5f7b0416eea49bd180bfbee53",
+      "sha256_pdf_text": "876b9dca2b8e105343e3af9f443334a18bd6a6c5f7b0416eea49bd180bfbee53"
+    },
+    {
+      "index": 356,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 124,
+      "pdf_zeichen": 124,
+      "sha256_xml_text": "1fdbb366e729a5ddf505d762952bf01938827ababf6a37704faab0bc58c62080",
+      "sha256_pdf_text": "1fdbb366e729a5ddf505d762952bf01938827ababf6a37704faab0bc58c62080"
+    },
+    {
+      "index": 357,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "c2de1bcaa0d813e3e23a422a61cd0f16a272c83fc6e293684d75b30376e00846",
+      "sha256_pdf_text": "c2de1bcaa0d813e3e23a422a61cd0f16a272c83fc6e293684d75b30376e00846"
+    },
+    {
+      "index": 358,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 1958,
+      "pdf_zeichen": 1958,
+      "sha256_xml_text": "b595067270164bba50f6302f8fd72984d3c7399154b364f25fe2bf890084ab41",
+      "sha256_pdf_text": "b595067270164bba50f6302f8fd72984d3c7399154b364f25fe2bf890084ab41"
+    },
+    {
+      "index": 359,
+      "name": "§ 4a",
+      "identisch": true,
+      "xml_zeichen": 1286,
+      "pdf_zeichen": 1286,
+      "sha256_xml_text": "ffeebe80e49ee701c6a615a58fede8bd3af2ce5bcd6ab22bec8195717817d70f",
+      "sha256_pdf_text": "ffeebe80e49ee701c6a615a58fede8bd3af2ce5bcd6ab22bec8195717817d70f"
+    },
+    {
+      "index": 360,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 208,
+      "pdf_zeichen": 208,
+      "sha256_xml_text": "d2d7c167e832b18f101bf25b7e1ce3d3a1af8d2378ea4bcd6971b92fd04ea221",
+      "sha256_pdf_text": "d2d7c167e832b18f101bf25b7e1ce3d3a1af8d2378ea4bcd6971b92fd04ea221"
+    },
+    {
+      "index": 361,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 923,
+      "pdf_zeichen": 923,
+      "sha256_xml_text": "3cd04821e147b22dba675fb26b291b273919a09f6f151eb594e8f6bc77819117",
+      "sha256_pdf_text": "3cd04821e147b22dba675fb26b291b273919a09f6f151eb594e8f6bc77819117"
+    },
+    {
+      "index": 362,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 1256,
+      "pdf_zeichen": 1256,
+      "sha256_xml_text": "0addf7b9ac9a4758e331226115c365ce8fc3767186b6e3bcd274f1dae90c22e9",
+      "sha256_pdf_text": "0addf7b9ac9a4758e331226115c365ce8fc3767186b6e3bcd274f1dae90c22e9"
+    },
+    {
+      "index": 363,
+      "name": "§§ 8 und 9",
+      "identisch": true,
+      "xml_zeichen": 20,
+      "pdf_zeichen": 20,
+      "sha256_xml_text": "f2ee6c6d38df07a87f9af12dbe4a3464ad4971d428e00426889afa377838bdae",
+      "sha256_pdf_text": "f2ee6c6d38df07a87f9af12dbe4a3464ad4971d428e00426889afa377838bdae"
+    },
+    {
+      "index": 364,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 240,
+      "pdf_zeichen": 240,
+      "sha256_xml_text": "cf70c84895ab8fbf7850c45cff68b97f37e3dece225fd2b1d3f8a2ceefce8df6",
+      "sha256_pdf_text": "cf70c84895ab8fbf7850c45cff68b97f37e3dece225fd2b1d3f8a2ceefce8df6"
+    },
+    {
+      "index": 365,
+      "name": "§ 11",
+      "identisch": true,
+      "xml_zeichen": 16,
+      "pdf_zeichen": 16,
+      "sha256_xml_text": "147bbd54251cf565f003720ff53586e91055aa9f40dccb775088f3b807049e41",
+      "sha256_pdf_text": "147bbd54251cf565f003720ff53586e91055aa9f40dccb775088f3b807049e41"
+    },
+    {
+      "index": 366,
+      "name": "§ 12",
+      "identisch": true,
+      "xml_zeichen": 133,
+      "pdf_zeichen": 133,
+      "sha256_xml_text": "3fd32131710ddd90bf46400ab4385eddaaf2b55fc96dcf6260cdbc1f92cd9257",
+      "sha256_pdf_text": "3fd32131710ddd90bf46400ab4385eddaaf2b55fc96dcf6260cdbc1f92cd9257"
+    },
+    {
+      "index": 367,
+      "name": "§ 13",
+      "identisch": true,
+      "xml_zeichen": 1943,
+      "pdf_zeichen": 1943,
+      "sha256_xml_text": "afa4d4b97072aba84ba2b2bc51a518c853d9e4d122c8cfaada174b9ab4dd22e0",
+      "sha256_pdf_text": "afa4d4b97072aba84ba2b2bc51a518c853d9e4d122c8cfaada174b9ab4dd22e0"
+    },
+    {
+      "index": 368,
+      "name": "§ 14",
+      "identisch": true,
+      "xml_zeichen": 879,
+      "pdf_zeichen": 879,
+      "sha256_xml_text": "c8f75b655c09acdb1125bc253a18892eebc0979e0457c3f17210246c18ec8991",
+      "sha256_pdf_text": "c8f75b655c09acdb1125bc253a18892eebc0979e0457c3f17210246c18ec8991"
+    },
+    {
+      "index": 369,
+      "name": "§ 15",
+      "identisch": true,
+      "xml_zeichen": 239,
+      "pdf_zeichen": 239,
+      "sha256_xml_text": "dc0b3fe9c930129b773ceab05bc43e0a372dcfcb45813747eb431d2f62441ff4",
+      "sha256_pdf_text": "dc0b3fe9c930129b773ceab05bc43e0a372dcfcb45813747eb431d2f62441ff4"
+    },
+    {
+      "index": 370,
+      "name": "Art 235Fünftes Buch. Erbrecht",
+      "identisch": true,
+      "xml_zeichen": 26,
+      "pdf_zeichen": 26,
+      "sha256_xml_text": "821ab7764cc3666bb8952fc53e6e77f05cbc427417f4019c33c497a389df6ba5",
+      "sha256_pdf_text": "821ab7764cc3666bb8952fc53e6e77f05cbc427417f4019c33c497a389df6ba5"
+    },
+    {
+      "index": 371,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 152,
+      "pdf_zeichen": 152,
+      "sha256_xml_text": "92ed3a7037415e57ee8430ee5da570b42efa0d9ab994c13d7df3a286d3bd74df",
+      "sha256_pdf_text": "92ed3a7037415e57ee8430ee5da570b42efa0d9ab994c13d7df3a286d3bd74df"
+    },
+    {
+      "index": 372,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 347,
+      "pdf_zeichen": 347,
+      "sha256_xml_text": "f707faca5fe75c58d278fd676922a2ad497f3fb6cc09cebc191ade709383b642",
+      "sha256_pdf_text": "f707faca5fe75c58d278fd676922a2ad497f3fb6cc09cebc191ade709383b642"
+    },
+    {
+      "index": 373,
+      "name": "Art 236Einführungsgesetz - Internationales Privatrecht",
+      "identisch": true,
+      "xml_zeichen": 50,
+      "pdf_zeichen": 50,
+      "sha256_xml_text": "292f9ee9b9627fd72a602a8ded9489f27b086d91f2666f42ce76574d35e6daed",
+      "sha256_pdf_text": "292f9ee9b9627fd72a602a8ded9489f27b086d91f2666f42ce76574d35e6daed"
+    },
+    {
+      "index": 374,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 133,
+      "pdf_zeichen": 133,
+      "sha256_xml_text": "b67efaf12f5933a00444d209a784ffacaced400eece0004bafcafe9e91f4f6cc",
+      "sha256_pdf_text": "b67efaf12f5933a00444d209a784ffacaced400eece0004bafcafe9e91f4f6cc"
+    },
+    {
+      "index": 375,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 189,
+      "pdf_zeichen": 189,
+      "sha256_xml_text": "7435693c0eb3c7476e63237c7ff10ec116c2352e98551fc89a30a572195299a1",
+      "sha256_pdf_text": "7435693c0eb3c7476e63237c7ff10ec116c2352e98551fc89a30a572195299a1"
+    },
+    {
+      "index": 376,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 481,
+      "pdf_zeichen": 481,
+      "sha256_xml_text": "75c7f7e936c34d0a9f16e932b7a3af29891a855a10b866382cee23103124a1f1",
+      "sha256_pdf_text": "75c7f7e936c34d0a9f16e932b7a3af29891a855a10b866382cee23103124a1f1"
+    },
+    {
+      "index": 377,
+      "name": "Art 237Bestandsschutz, Ausschlußfrist",
+      "identisch": true,
+      "xml_zeichen": 35,
+      "pdf_zeichen": 35,
+      "sha256_xml_text": "7a57da7a898ddad7fe8821065ecd4f85959e4de36155d1ebfd7924781c7812d5",
+      "sha256_pdf_text": "7a57da7a898ddad7fe8821065ecd4f85959e4de36155d1ebfd7924781c7812d5"
+    },
+    {
+      "index": 378,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 1802,
+      "pdf_zeichen": 1802,
+      "sha256_xml_text": "c710d2c898cda41f7d72536adca21a6665657de901aa7b5e4596fc82bc8ce714",
+      "sha256_pdf_text": "c710d2c898cda41f7d72536adca21a6665657de901aa7b5e4596fc82bc8ce714"
+    },
+    {
+      "index": 379,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 2340,
+      "pdf_zeichen": 2340,
+      "sha256_xml_text": "c306eca69cdc10118507a32e9a9967c4af9ceeec0cb3bc8f827973605423aab8",
+      "sha256_pdf_text": "c306eca69cdc10118507a32e9a9967c4af9ceeec0cb3bc8f827973605423aab8"
+    },
+    {
+      "index": 380,
+      "name": "Siebter TeilDurchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten",
+      "identisch": true,
+      "xml_zeichen": 120,
+      "pdf_zeichen": 120,
+      "sha256_xml_text": "7eccc8b46b80c7c3dfdf3ec9ca210c76a07fd348d80494f6aecb1cbeca53be82",
+      "sha256_pdf_text": "7eccc8b46b80c7c3dfdf3ec9ca210c76a07fd348d80494f6aecb1cbeca53be82"
+    },
+    {
+      "index": 381,
+      "name": "Art 238Datenverarbeitung und Auskunftspflichten für qualifizierte Mietspiegel",
+      "identisch": true,
+      "xml_zeichen": 71,
+      "pdf_zeichen": 71,
+      "sha256_xml_text": "402094110d41705e5ed4bb9e68e8301b86171c92c351dec4ddb7506530bec6ed",
+      "sha256_pdf_text": "402094110d41705e5ed4bb9e68e8301b86171c92c351dec4ddb7506530bec6ed"
+    },
+    {
+      "index": 382,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 2857,
+      "pdf_zeichen": 2857,
+      "sha256_xml_text": "3f256e2ca53bdb4430094842bcab085222a6ba7e1b46e2386ccca3c5b54f1570",
+      "sha256_pdf_text": "3f256e2ca53bdb4430094842bcab085222a6ba7e1b46e2386ccca3c5b54f1570"
+    },
+    {
+      "index": 383,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1448,
+      "pdf_zeichen": 1448,
+      "sha256_xml_text": "d3ae29d574c7fd210c459659068a163fd1fbef80094064c06818df0b26debfd7",
+      "sha256_pdf_text": "d3ae29d574c7fd210c459659068a163fd1fbef80094064c06818df0b26debfd7"
+    },
+    {
+      "index": 384,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 1274,
+      "pdf_zeichen": 1274,
+      "sha256_xml_text": "910c2337a7121fb6318d53eaa6284c56df766dce3749f60260f23b8c7915ce38",
+      "sha256_pdf_text": "910c2337a7121fb6318d53eaa6284c56df766dce3749f60260f23b8c7915ce38"
+    },
+    {
+      "index": 385,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 285,
+      "pdf_zeichen": 285,
+      "sha256_xml_text": "56eb716d2161db357779a98fbde891bf6af556584600eb43f121c21db1faaaf7",
+      "sha256_pdf_text": "56eb716d2161db357779a98fbde891bf6af556584600eb43f121c21db1faaaf7"
+    },
+    {
+      "index": 386,
+      "name": "Art 239Länderöffnungsklausel",
+      "identisch": true,
+      "xml_zeichen": 404,
+      "pdf_zeichen": 404,
+      "sha256_xml_text": "c43648fb1939b3de5a46b1ec638acdc483ea303bf69408a90128f5ca60dec5d8",
+      "sha256_pdf_text": "c43648fb1939b3de5a46b1ec638acdc483ea303bf69408a90128f5ca60dec5d8"
+    },
+    {
+      "index": 387,
+      "name": "Art 240(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 19,
+      "pdf_zeichen": 19,
+      "sha256_xml_text": "fbab12b56b42a8439c300db3a7d5841729150f9bcb222b32901aa2715b2d0e00",
+      "sha256_pdf_text": "fbab12b56b42a8439c300db3a7d5841729150f9bcb222b32901aa2715b2d0e00"
+    },
+    {
+      "index": 388,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "e813260eca8ed515ffa75589540707b7aec0cc3509cb5d8164ca699bf14cb858",
+      "sha256_pdf_text": "e813260eca8ed515ffa75589540707b7aec0cc3509cb5d8164ca699bf14cb858"
+    },
+    {
+      "index": 389,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "083ee11899da42733e36288a2f413d3d4ce624ccf7d0721bf9ff1ce5149b0d3f",
+      "sha256_pdf_text": "083ee11899da42733e36288a2f413d3d4ce624ccf7d0721bf9ff1ce5149b0d3f"
+    },
+    {
+      "index": 390,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "c2de1bcaa0d813e3e23a422a61cd0f16a272c83fc6e293684d75b30376e00846",
+      "sha256_pdf_text": "c2de1bcaa0d813e3e23a422a61cd0f16a272c83fc6e293684d75b30376e00846"
+    },
+    {
+      "index": 391,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "7e1dafcb311610cca1edab36ed3e8c64e0538313715888e3680f7e975720f4da",
+      "sha256_pdf_text": "7e1dafcb311610cca1edab36ed3e8c64e0538313715888e3680f7e975720f4da"
+    },
+    {
+      "index": 392,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "b8df67e5945f26ec5e0b2591da381465a52876eed613bb4be2fb322a9e387afa",
+      "sha256_pdf_text": "b8df67e5945f26ec5e0b2591da381465a52876eed613bb4be2fb322a9e387afa"
+    },
+    {
+      "index": 393,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "7401d2e12bbb6df161fd0bba58c7174cf949f8010c6439129b600a907459d768",
+      "sha256_pdf_text": "7401d2e12bbb6df161fd0bba58c7174cf949f8010c6439129b600a907459d768"
+    },
+    {
+      "index": 394,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "2fad602749edf5fb18c0bcafa7695a3542e3433cca1f7433084130ffa41eae1a",
+      "sha256_pdf_text": "2fad602749edf5fb18c0bcafa7695a3542e3433cca1f7433084130ffa41eae1a"
+    },
+    {
+      "index": 395,
+      "name": "Art 241(weggefallen)",
+      "identisch": true,
+      "xml_zeichen": 19,
+      "pdf_zeichen": 19,
+      "sha256_xml_text": "d0f1c7c312b5f14f310ac46fe97fea996ec23df2288fa965e9b445eddad4cb3c",
+      "sha256_pdf_text": "d0f1c7c312b5f14f310ac46fe97fea996ec23df2288fa965e9b445eddad4cb3c"
+    },
+    {
+      "index": 396,
+      "name": "Art 242Informationspflichten bei Teilzeit-Wohnrechteverträgen, Verträgen über langfristige Urlaubsprodukte, Vermittlungsverträgen sowie Tauschsystemverträgen",
+      "identisch": true,
+      "xml_zeichen": 147,
+      "pdf_zeichen": 147,
+      "sha256_xml_text": "e20a80cadcf0e3fd711011ac738b246a05fa40507731fc64f9f3429a2111b4ce",
+      "sha256_pdf_text": "e20a80cadcf0e3fd711011ac738b246a05fa40507731fc64f9f3429a2111b4ce"
+    },
+    {
+      "index": 397,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 1253,
+      "pdf_zeichen": 1253,
+      "sha256_xml_text": "b55aa8dd57ccc9658667fe6d1c352c427dad0cc07c1d84cc9f86ff4fa975d392",
+      "sha256_pdf_text": "b55aa8dd57ccc9658667fe6d1c352c427dad0cc07c1d84cc9f86ff4fa975d392"
+    },
+    {
+      "index": 398,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 621,
+      "pdf_zeichen": 621,
+      "sha256_xml_text": "3bc780ef4b2f5cd7592add9d449b18dde9be04aed6079d298762628268aef0b1",
+      "sha256_pdf_text": "3bc780ef4b2f5cd7592add9d449b18dde9be04aed6079d298762628268aef0b1"
+    },
+    {
+      "index": 399,
+      "name": "Art 243Ver- und Entsorgungsbedingungen",
+      "identisch": true,
+      "xml_zeichen": 759,
+      "pdf_zeichen": 759,
+      "sha256_xml_text": "8c6bd9daf8b9958803879f1dbc0bf8182108aa10334c8c010d0ce39cb701c6a6",
+      "sha256_pdf_text": "8c6bd9daf8b9958803879f1dbc0bf8182108aa10334c8c010d0ce39cb701c6a6"
+    },
+    {
+      "index": 400,
+      "name": "Art 244Abschlagszahlungen beim Hausbau",
+      "identisch": true,
+      "xml_zeichen": 730,
+      "pdf_zeichen": 730,
+      "sha256_xml_text": "93ff19e5c3cfbf439525d5178ac774eca39318972e0db6ac5e97e5b972740940",
+      "sha256_pdf_text": "93ff19e5c3cfbf439525d5178ac774eca39318972e0db6ac5e97e5b972740940"
+    },
+    {
+      "index": 401,
+      "name": "Art 245Europäisches Formular für Reparaturinformationen",
+      "identisch": true,
+      "xml_zeichen": 51,
+      "pdf_zeichen": 51,
+      "sha256_xml_text": "b3e0428a5cfbe274879d5520bd65aa3fa72d5c81b8f02c439f084cd4df961c05",
+      "sha256_pdf_text": "b3e0428a5cfbe274879d5520bd65aa3fa72d5c81b8f02c439f084cd4df961c05"
+    },
+    {
+      "index": 402,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 344,
+      "pdf_zeichen": 344,
+      "sha256_xml_text": "4da276167bdf40ff1fe780368a28bb5fae8bb73b02c580793270d29ac1b8ada5",
+      "sha256_pdf_text": "4da276167bdf40ff1fe780368a28bb5fae8bb73b02c580793270d29ac1b8ada5"
+    },
+    {
+      "index": 403,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 873,
+      "pdf_zeichen": 873,
+      "sha256_xml_text": "7f5142209a86df6b93dcb0102679ff1a5cebe2ae5f485cdcd6e8270fdcaea3eb",
+      "sha256_pdf_text": "7f5142209a86df6b93dcb0102679ff1a5cebe2ae5f485cdcd6e8270fdcaea3eb"
+    },
+    {
+      "index": 404,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 1496,
+      "pdf_zeichen": 1496,
+      "sha256_xml_text": "f414a7b55af1de9e4b9adcb3825006b8fc3cb15115494f15afcaa8dbd6e33f4e",
+      "sha256_pdf_text": "f414a7b55af1de9e4b9adcb3825006b8fc3cb15115494f15afcaa8dbd6e33f4e"
+    },
+    {
+      "index": 405,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 977,
+      "pdf_zeichen": 977,
+      "sha256_xml_text": "2d2a8103ad6114dcc1b8107697d454807c17c14480beb3b019d3535eb1ac2a95",
+      "sha256_pdf_text": "2d2a8103ad6114dcc1b8107697d454807c17c14480beb3b019d3535eb1ac2a95"
+    },
+    {
+      "index": 406,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 215,
+      "pdf_zeichen": 215,
+      "sha256_xml_text": "2a593f53dc329019a12bbeb60c34e5d7b56d85189e96d942c14b6ba767759f8a",
+      "sha256_pdf_text": "2a593f53dc329019a12bbeb60c34e5d7b56d85189e96d942c14b6ba767759f8a"
+    },
+    {
+      "index": 407,
+      "name": "Art 246Informationspflichten beim Verbrauchervertrag",
+      "identisch": true,
+      "xml_zeichen": 2683,
+      "pdf_zeichen": 2683,
+      "sha256_xml_text": "a7edc1c65a982b5cd13a14f2b2198358da9e4451cea8f906a56553c2de1d9ea9",
+      "sha256_pdf_text": "a7edc1c65a982b5cd13a14f2b2198358da9e4451cea8f906a56553c2de1d9ea9"
+    },
+    {
+      "index": 408,
+      "name": "Art 246aInformationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen",
+      "identisch": true,
+      "xml_zeichen": 151,
+      "pdf_zeichen": 151,
+      "sha256_xml_text": "262436b9ceccedb6f30431062f1ba906ce16a3694f02ee287f5c83a325062eb4",
+      "sha256_pdf_text": "262436b9ceccedb6f30431062f1ba906ce16a3694f02ee287f5c83a325062eb4"
+    },
+    {
+      "index": 409,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 6066,
+      "pdf_zeichen": 6066,
+      "sha256_xml_text": "a5245e8494ca4ebb96561b0adb86e3a9441ce9632c4f182e320865da55ee727a",
+      "sha256_pdf_text": "a5245e8494ca4ebb96561b0adb86e3a9441ce9632c4f182e320865da55ee727a"
+    },
+    {
+      "index": 410,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1289,
+      "pdf_zeichen": 1289,
+      "sha256_xml_text": "76c9035e27b3325e53625af822436f8a93a207cc35f254b96a422a9d10f49155",
+      "sha256_pdf_text": "76c9035e27b3325e53625af822436f8a93a207cc35f254b96a422a9d10f49155"
+    },
+    {
+      "index": 411,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 984,
+      "pdf_zeichen": 984,
+      "sha256_xml_text": "36cf697dc9fee25a8f79c1c4d49463f627c1c025bbf5aa8490b0e5e24b767992",
+      "sha256_pdf_text": "36cf697dc9fee25a8f79c1c4d49463f627c1c025bbf5aa8490b0e5e24b767992"
+    },
+    {
+      "index": 412,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 1056,
+      "pdf_zeichen": 1056,
+      "sha256_xml_text": "60b7cf0cf9ecb1053f21b77f7c93cb39585425c028ec6a9cc97395ad57cc7736",
+      "sha256_pdf_text": "60b7cf0cf9ecb1053f21b77f7c93cb39585425c028ec6a9cc97395ad57cc7736"
+    },
+    {
+      "index": 413,
+      "name": "Art 246bInformationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen über Finanzdienstleistungen; Gestaltung der Online-Benutzeroberfläche",
+      "identisch": true,
+      "xml_zeichen": 167,
+      "pdf_zeichen": 167,
+      "sha256_xml_text": "ac7441ffd89e18e579eadc2c50d9e3b5de6c73c89d9726a74a16b90202858ea0",
+      "sha256_pdf_text": "ac7441ffd89e18e579eadc2c50d9e3b5de6c73c89d9726a74a16b90202858ea0"
+    },
+    {
+      "index": 414,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 5377,
+      "pdf_zeichen": 5377,
+      "sha256_xml_text": "d55a2d27a6cc904106d02bc98cd900a55d2bf7aa63eb13f490602463858b0eb0",
+      "sha256_pdf_text": "d55a2d27a6cc904106d02bc98cd900a55d2bf7aa63eb13f490602463858b0eb0"
+    },
+    {
+      "index": 415,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1385,
+      "pdf_zeichen": 1385,
+      "sha256_xml_text": "ecb7deffc5f5ec738a01eb88cc665878ec6d9b18510707be5b993d12d8724c98",
+      "sha256_pdf_text": "ecb7deffc5f5ec738a01eb88cc665878ec6d9b18510707be5b993d12d8724c98"
+    },
+    {
+      "index": 416,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 1188,
+      "pdf_zeichen": 1188,
+      "sha256_xml_text": "7531aefa3da46597286581c4323871777a1949aaf232a9bb757ac7d0e51ffaaf",
+      "sha256_pdf_text": "7531aefa3da46597286581c4323871777a1949aaf232a9bb757ac7d0e51ffaaf"
+    },
+    {
+      "index": 417,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 863,
+      "pdf_zeichen": 863,
+      "sha256_xml_text": "415416047fdf3b05427b1d41d49272dbf25564e8f7a640055bfe8b768b036a2f",
+      "sha256_pdf_text": "415416047fdf3b05427b1d41d49272dbf25564e8f7a640055bfe8b768b036a2f"
+    },
+    {
+      "index": 418,
+      "name": "Art 246cInformationspflichten bei Verträgen im elektronischen Geschäftsverkehr",
+      "identisch": true,
+      "xml_zeichen": 731,
+      "pdf_zeichen": 731,
+      "sha256_xml_text": "253b7e77b973f1add4e9ff6b098162558024a1040dac3b5b0730d7de32db771c",
+      "sha256_pdf_text": "253b7e77b973f1add4e9ff6b098162558024a1040dac3b5b0730d7de32db771c"
+    },
+    {
+      "index": 419,
+      "name": "Art 246dAllgemeine Informationspflichten für Betreiber von Online-Marktplätzen",
+      "identisch": true,
+      "xml_zeichen": 72,
+      "pdf_zeichen": 72,
+      "sha256_xml_text": "cd31c932a43e5931db20a429a3a42e426a8076e68aaccd153fb05a9f49ddd580",
+      "sha256_pdf_text": "cd31c932a43e5931db20a429a3a42e426a8076e68aaccd153fb05a9f49ddd580"
+    },
+    {
+      "index": 420,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 1730,
+      "pdf_zeichen": 1730,
+      "sha256_xml_text": "b1c4ba4b6b42b1d8ce55e2e510d1dc8ab911a7d4293e6365806940db1ceab4d4",
+      "sha256_pdf_text": "b1c4ba4b6b42b1d8ce55e2e510d1dc8ab911a7d4293e6365806940db1ceab4d4"
+    },
+    {
+      "index": 421,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 462,
+      "pdf_zeichen": 462,
+      "sha256_xml_text": "cc729300efb8c11445381f0a19ebe4858602356489f7e1056b62fee74cfe5459",
+      "sha256_pdf_text": "cc729300efb8c11445381f0a19ebe4858602356489f7e1056b62fee74cfe5459"
+    },
+    {
+      "index": 422,
+      "name": "Art 246eVerbotene Verletzung von Verbraucherinteressen und Bußgeldvorschriften",
+      "identisch": true,
+      "xml_zeichen": 72,
+      "pdf_zeichen": 72,
+      "sha256_xml_text": "d94465923742f54bb30eb9d2c628e5654f25b3c48fb0f567a883e54098bf901c",
+      "sha256_pdf_text": "d94465923742f54bb30eb9d2c628e5654f25b3c48fb0f567a883e54098bf901c"
+    },
+    {
+      "index": 423,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 4153,
+      "pdf_zeichen": 4153,
+      "sha256_xml_text": "37d93e0a384299cdd004701e4c892db330291c674a126d2e1a5343b45e1c5fa3",
+      "sha256_pdf_text": "37d93e0a384299cdd004701e4c892db330291c674a126d2e1a5343b45e1c5fa3"
+    },
+    {
+      "index": 424,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1267,
+      "pdf_zeichen": 1267,
+      "sha256_xml_text": "341f44f15855847980318b4f08b98154e2a6f91db2811d271b7c537d43e679a6",
+      "sha256_pdf_text": "341f44f15855847980318b4f08b98154e2a6f91db2811d271b7c537d43e679a6"
+    },
+    {
+      "index": 425,
+      "name": "Art 247Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen",
+      "identisch": true,
+      "xml_zeichen": 125,
+      "pdf_zeichen": 125,
+      "sha256_xml_text": "5b3ee70555f3c50aed968b387dffe1b2d1d4131a695b2626762421d529d7b2ce",
+      "sha256_pdf_text": "5b3ee70555f3c50aed968b387dffe1b2d1d4131a695b2626762421d529d7b2ce"
+    },
+    {
+      "index": 426,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 1888,
+      "pdf_zeichen": 1888,
+      "sha256_xml_text": "98ab655dcdc0a5249697fec0845ae42769ee2a74e5cd69af3e21360753a57dad",
+      "sha256_pdf_text": "98ab655dcdc0a5249697fec0845ae42769ee2a74e5cd69af3e21360753a57dad"
+    },
+    {
+      "index": 427,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1408,
+      "pdf_zeichen": 1408,
+      "sha256_xml_text": "136d684f28e0da52bdd6ec14eac83f24c8b067ce7b59f68f5beb8fca8320f69c",
+      "sha256_pdf_text": "136d684f28e0da52bdd6ec14eac83f24c8b067ce7b59f68f5beb8fca8320f69c"
+    },
+    {
+      "index": 428,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 2418,
+      "pdf_zeichen": 2418,
+      "sha256_xml_text": "02d393edc5aeed1ae95fdbe56dd319baa07c6668ab1f8227e1b0d04e43f19f80",
+      "sha256_pdf_text": "02d393edc5aeed1ae95fdbe56dd319baa07c6668ab1f8227e1b0d04e43f19f80"
+    },
+    {
+      "index": 429,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 1480,
+      "pdf_zeichen": 1480,
+      "sha256_xml_text": "2985b169782d1c4e7b4c7a2094edaef0979faffe18e2129b05127e8a56d2682c",
+      "sha256_pdf_text": "2985b169782d1c4e7b4c7a2094edaef0979faffe18e2129b05127e8a56d2682c"
+    },
+    {
+      "index": 430,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 705,
+      "pdf_zeichen": 705,
+      "sha256_xml_text": "e9482ba14b2d5492449186f8f1bbcbd565fd7a8211b4365959a3b768ce40ea55",
+      "sha256_pdf_text": "e9482ba14b2d5492449186f8f1bbcbd565fd7a8211b4365959a3b768ce40ea55"
+    },
+    {
+      "index": 431,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 2024,
+      "pdf_zeichen": 2024,
+      "sha256_xml_text": "15810f28ad8985dd31d3060d4f6a364064d61fc5c0673e1b57e6e6146fcd8d06",
+      "sha256_pdf_text": "15810f28ad8985dd31d3060d4f6a364064d61fc5c0673e1b57e6e6146fcd8d06"
+    },
+    {
+      "index": 432,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 1283,
+      "pdf_zeichen": 1283,
+      "sha256_xml_text": "60df7796af513d6b4a823110914f728e5b29f67af21b23842dfe9000d0f7aa19",
+      "sha256_pdf_text": "60df7796af513d6b4a823110914f728e5b29f67af21b23842dfe9000d0f7aa19"
+    },
+    {
+      "index": 433,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 1330,
+      "pdf_zeichen": 1330,
+      "sha256_xml_text": "ad739528751434c6ec8953bdc0a1e079e1a8578383527798b950a9a309fe4e1f",
+      "sha256_pdf_text": "ad739528751434c6ec8953bdc0a1e079e1a8578383527798b950a9a309fe4e1f"
+    },
+    {
+      "index": 434,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 15,
+      "pdf_zeichen": 15,
+      "sha256_xml_text": "c2c79b956c96bdef449f85ca693b6f90ae89959bb349dd82114067c719a6f039",
+      "sha256_pdf_text": "c2c79b956c96bdef449f85ca693b6f90ae89959bb349dd82114067c719a6f039"
+    },
+    {
+      "index": 435,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 1158,
+      "pdf_zeichen": 1158,
+      "sha256_xml_text": "f06564c71c5cdcbdccf95a6ab164add04f6a96642217d4c84d007b38d5d6998c",
+      "sha256_pdf_text": "f06564c71c5cdcbdccf95a6ab164add04f6a96642217d4c84d007b38d5d6998c"
+    },
+    {
+      "index": 436,
+      "name": "§ 11",
+      "identisch": true,
+      "xml_zeichen": 1002,
+      "pdf_zeichen": 1002,
+      "sha256_xml_text": "3422200d67a1baa83bb64346b4ae96e0fd13970c79ec6eba4c5e94d26164133e",
+      "sha256_pdf_text": "3422200d67a1baa83bb64346b4ae96e0fd13970c79ec6eba4c5e94d26164133e"
+    },
+    {
+      "index": 437,
+      "name": "§ 12",
+      "identisch": true,
+      "xml_zeichen": 1954,
+      "pdf_zeichen": 1954,
+      "sha256_xml_text": "940662e77cf39706a5cb9bb31df301fbd7bed463556b524a0e468342da972e65",
+      "sha256_pdf_text": "940662e77cf39706a5cb9bb31df301fbd7bed463556b524a0e468342da972e65"
+    },
+    {
+      "index": 438,
+      "name": "§ 13",
+      "identisch": true,
+      "xml_zeichen": 1782,
+      "pdf_zeichen": 1782,
+      "sha256_xml_text": "29e06cf1cc7b3fec8d705cc005b6d2350af5be0e225cb1660a7aae724b5b3b66",
+      "sha256_pdf_text": "29e06cf1cc7b3fec8d705cc005b6d2350af5be0e225cb1660a7aae724b5b3b66"
+    },
+    {
+      "index": 439,
+      "name": "§ 13a",
+      "identisch": true,
+      "xml_zeichen": 393,
+      "pdf_zeichen": 393,
+      "sha256_xml_text": "7f15e03e4be99d5a9ba7c5f93e8c24f2f9adb84f62633c94ece4b242270445df",
+      "sha256_pdf_text": "7f15e03e4be99d5a9ba7c5f93e8c24f2f9adb84f62633c94ece4b242270445df"
+    },
+    {
+      "index": 440,
+      "name": "§ 13b",
+      "identisch": true,
+      "xml_zeichen": 1787,
+      "pdf_zeichen": 1787,
+      "sha256_xml_text": "41cb8c6bfd7d0aa3ac7502bc72e834bd6a48a544051d43fc2ba2436bd9c86493",
+      "sha256_pdf_text": "41cb8c6bfd7d0aa3ac7502bc72e834bd6a48a544051d43fc2ba2436bd9c86493"
+    },
+    {
+      "index": 441,
+      "name": "§ 14",
+      "identisch": true,
+      "xml_zeichen": 760,
+      "pdf_zeichen": 760,
+      "sha256_xml_text": "6ab4cbe37fcee51a8673701a5ebd54ee1512140cf40faed6110335b411789b06",
+      "sha256_pdf_text": "6ab4cbe37fcee51a8673701a5ebd54ee1512140cf40faed6110335b411789b06"
+    },
+    {
+      "index": 442,
+      "name": "§ 15",
+      "identisch": true,
+      "xml_zeichen": 1372,
+      "pdf_zeichen": 1372,
+      "sha256_xml_text": "386366191ac1f7332668cddbe20a2817463b271d8f48e0a17d740786c6621ac4",
+      "sha256_pdf_text": "386366191ac1f7332668cddbe20a2817463b271d8f48e0a17d740786c6621ac4"
+    },
+    {
+      "index": 443,
+      "name": "§ 16",
+      "identisch": true,
+      "xml_zeichen": 448,
+      "pdf_zeichen": 448,
+      "sha256_xml_text": "761c331681b4270c0a000b2d1e3ae23deb36bee4f8f0f9d8a7989cc9154dfecb",
+      "sha256_pdf_text": "761c331681b4270c0a000b2d1e3ae23deb36bee4f8f0f9d8a7989cc9154dfecb"
+    },
+    {
+      "index": 444,
+      "name": "§ 17",
+      "identisch": true,
+      "xml_zeichen": 585,
+      "pdf_zeichen": 585,
+      "sha256_xml_text": "9956ad43c9a57de0238c351a7f5e74c447ca5f000bf3449ce7f97e1187f8f02c",
+      "sha256_pdf_text": "9956ad43c9a57de0238c351a7f5e74c447ca5f000bf3449ce7f97e1187f8f02c"
+    },
+    {
+      "index": 445,
+      "name": "§ 18",
+      "identisch": true,
+      "xml_zeichen": 833,
+      "pdf_zeichen": 833,
+      "sha256_xml_text": "3cd04b3ac6540ebeb328666c29145349a5b262553d829567d5e786ba6b1b0ac7",
+      "sha256_pdf_text": "3cd04b3ac6540ebeb328666c29145349a5b262553d829567d5e786ba6b1b0ac7"
+    },
+    {
+      "index": 446,
+      "name": "Art 247aAllgemeine Informationspflichten bei Verbraucherdarlehensverträgen, Verträgen über entgeltliche Finanzierungshilfen und deren Vermittlung",
+      "identisch": true,
+      "xml_zeichen": 134,
+      "pdf_zeichen": 134,
+      "sha256_xml_text": "1841ce80e0dc57e4135d9d40bda4bb99890019a5d0158958ffc8861f72472bed",
+      "sha256_pdf_text": "1841ce80e0dc57e4135d9d40bda4bb99890019a5d0158958ffc8861f72472bed"
+    },
+    {
+      "index": 447,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 3548,
+      "pdf_zeichen": 3548,
+      "sha256_xml_text": "ece81cf1673c73cf65cd3cf20db10893d0b34292a8aec4b637f6a03f88a00b6b",
+      "sha256_pdf_text": "ece81cf1673c73cf65cd3cf20db10893d0b34292a8aec4b637f6a03f88a00b6b"
+    },
+    {
+      "index": 448,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1112,
+      "pdf_zeichen": 1112,
+      "sha256_xml_text": "d0e6bf05463c69a5418bffacffa33783627ec954144002b90feb2f3baf0d2798",
+      "sha256_pdf_text": "d0e6bf05463c69a5418bffacffa33783627ec954144002b90feb2f3baf0d2798"
+    },
+    {
+      "index": 449,
+      "name": "Art 248Informationspflichten bei der Erbringung von Zahlungsdienstleistungen",
+      "identisch": true,
+      "xml_zeichen": 70,
+      "pdf_zeichen": 70,
+      "sha256_xml_text": "be1026f89c44d097f721a57300923faa90c953241cfb54ad187ceb336be5c130",
+      "sha256_pdf_text": "be1026f89c44d097f721a57300923faa90c953241cfb54ad187ceb336be5c130"
+    },
+    {
+      "index": 450,
+      "name": "Abschnitt 1Allgemeine Vorschriften",
+      "identisch": true,
+      "xml_zeichen": 32,
+      "pdf_zeichen": 32,
+      "sha256_xml_text": "4118b00d9b4fe9f16d9c932860f7991e88765df35df33c5efe48984ffd111370",
+      "sha256_pdf_text": "4118b00d9b4fe9f16d9c932860f7991e88765df35df33c5efe48984ffd111370"
+    },
+    {
+      "index": 451,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 477,
+      "pdf_zeichen": 477,
+      "sha256_xml_text": "fc94c581a68312edafb645d0e00631aee795594ae4fa8ddf6e0bc292e62d304f",
+      "sha256_pdf_text": "fc94c581a68312edafb645d0e00631aee795594ae4fa8ddf6e0bc292e62d304f"
+    },
+    {
+      "index": 452,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 344,
+      "pdf_zeichen": 344,
+      "sha256_xml_text": "7ca5e470007ce0719b5ea936e20fa00d2fb7bd4b153005a93ab405b7aa411f91",
+      "sha256_pdf_text": "7ca5e470007ce0719b5ea936e20fa00d2fb7bd4b153005a93ab405b7aa411f91"
+    },
+    {
+      "index": 453,
+      "name": "Abschnitt 2Zahlungsdiensterahmenverträge",
+      "identisch": true,
+      "xml_zeichen": 39,
+      "pdf_zeichen": 39,
+      "sha256_xml_text": "5535557c034d26a7ef68c0d0ccc123efb0b1e4577300ca060734f35549a17592",
+      "sha256_pdf_text": "5535557c034d26a7ef68c0d0ccc123efb0b1e4577300ca060734f35549a17592"
+    },
+    {
+      "index": 454,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 237,
+      "pdf_zeichen": 237,
+      "sha256_xml_text": "47fc83322a0caf366c91580f2cc2f10261259a2dcc351653f2669676b5e58efc",
+      "sha256_pdf_text": "47fc83322a0caf366c91580f2cc2f10261259a2dcc351653f2669676b5e58efc"
+    },
+    {
+      "index": 455,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 5917,
+      "pdf_zeichen": 5917,
+      "sha256_xml_text": "59098730f05739f2350544ee5c2a956558b83261a88901b905f7cdba62cc9057",
+      "sha256_pdf_text": "59098730f05739f2350544ee5c2a956558b83261a88901b905f7cdba62cc9057"
+    },
+    {
+      "index": 456,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 283,
+      "pdf_zeichen": 283,
+      "sha256_xml_text": "7bf16125f3cb43ad0c97608d72e316f610a9e6165f748035afef454b62549873",
+      "sha256_pdf_text": "7bf16125f3cb43ad0c97608d72e316f610a9e6165f748035afef454b62549873"
+    },
+    {
+      "index": 457,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 314,
+      "pdf_zeichen": 314,
+      "sha256_xml_text": "319e8e31badb30358af76f473930f00ee22aacc0819d3df60f560551cdd8e770",
+      "sha256_pdf_text": "319e8e31badb30358af76f473930f00ee22aacc0819d3df60f560551cdd8e770"
+    },
+    {
+      "index": 458,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 995,
+      "pdf_zeichen": 995,
+      "sha256_xml_text": "1e2733c7efa95092fbd9b0c14b63bda7f4142a4ffdda893f8f9fca8e3d9d06b4",
+      "sha256_pdf_text": "1e2733c7efa95092fbd9b0c14b63bda7f4142a4ffdda893f8f9fca8e3d9d06b4"
+    },
+    {
+      "index": 459,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 876,
+      "pdf_zeichen": 876,
+      "sha256_xml_text": "7ebbf9219121388e12a80ad3f5b5ca733098f972f7ed00c303fe889f12328574",
+      "sha256_pdf_text": "7ebbf9219121388e12a80ad3f5b5ca733098f972f7ed00c303fe889f12328574"
+    },
+    {
+      "index": 460,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 325,
+      "pdf_zeichen": 325,
+      "sha256_xml_text": "5381a385085fd092f2be8946495d0b4373c542754858e64ab10cf2348f1c1ec8",
+      "sha256_pdf_text": "5381a385085fd092f2be8946495d0b4373c542754858e64ab10cf2348f1c1ec8"
+    },
+    {
+      "index": 461,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 411,
+      "pdf_zeichen": 411,
+      "sha256_xml_text": "be3474b17dc137b636821c1181d807d6cc107bd065ecff5adc51a59ad25f80fb",
+      "sha256_pdf_text": "be3474b17dc137b636821c1181d807d6cc107bd065ecff5adc51a59ad25f80fb"
+    },
+    {
+      "index": 462,
+      "name": "§ 11",
+      "identisch": true,
+      "xml_zeichen": 1549,
+      "pdf_zeichen": 1549,
+      "sha256_xml_text": "f582c319c86f6effdbf0bc1884d70103051a9539e60851880856416cc95e30a2",
+      "sha256_pdf_text": "f582c319c86f6effdbf0bc1884d70103051a9539e60851880856416cc95e30a2"
+    },
+    {
+      "index": 463,
+      "name": "Abschnitt 3Einzelzahlungsverträge",
+      "identisch": true,
+      "xml_zeichen": 32,
+      "pdf_zeichen": 32,
+      "sha256_xml_text": "710def2b2a0eb24812a778fa9b2ce04eaf6f80f4f9253ea2601a3672417a1eb8",
+      "sha256_pdf_text": "710def2b2a0eb24812a778fa9b2ce04eaf6f80f4f9253ea2601a3672417a1eb8"
+    },
+    {
+      "index": 464,
+      "name": "§ 12",
+      "identisch": true,
+      "xml_zeichen": 473,
+      "pdf_zeichen": 473,
+      "sha256_xml_text": "8f7e064715c6fffdb26490b5165b08ebfd1067ced5d0c27bc77e2d59e872ed71",
+      "sha256_pdf_text": "8f7e064715c6fffdb26490b5165b08ebfd1067ced5d0c27bc77e2d59e872ed71"
+    },
+    {
+      "index": 465,
+      "name": "§ 13",
+      "identisch": true,
+      "xml_zeichen": 1844,
+      "pdf_zeichen": 1844,
+      "sha256_xml_text": "4a09a582b6867db06a9c740b95539edcd9041d255e6ab4aa081e09671988e77c",
+      "sha256_pdf_text": "4a09a582b6867db06a9c740b95539edcd9041d255e6ab4aa081e09671988e77c"
+    },
+    {
+      "index": 466,
+      "name": "§ 13a",
+      "identisch": true,
+      "xml_zeichen": 765,
+      "pdf_zeichen": 765,
+      "sha256_xml_text": "bd1f58a552ee9754b99c1072fe5c869ff6b7e5bfae8179dc5e6e45f78390cda8",
+      "sha256_pdf_text": "bd1f58a552ee9754b99c1072fe5c869ff6b7e5bfae8179dc5e6e45f78390cda8"
+    },
+    {
+      "index": 467,
+      "name": "§ 14",
+      "identisch": true,
+      "xml_zeichen": 832,
+      "pdf_zeichen": 832,
+      "sha256_xml_text": "cd32f1600f9594e78a72ca4b02a70c501060b8a5715cec0b354a486fcf0fa9c6",
+      "sha256_pdf_text": "cd32f1600f9594e78a72ca4b02a70c501060b8a5715cec0b354a486fcf0fa9c6"
+    },
+    {
+      "index": 468,
+      "name": "§ 15",
+      "identisch": true,
+      "xml_zeichen": 861,
+      "pdf_zeichen": 861,
+      "sha256_xml_text": "12609e8feecb982f68b51e0a545a3993cf3f2c3b3bcaa1fe4ba2d845bf41ead7",
+      "sha256_pdf_text": "12609e8feecb982f68b51e0a545a3993cf3f2c3b3bcaa1fe4ba2d845bf41ead7"
+    },
+    {
+      "index": 469,
+      "name": "§ 16",
+      "identisch": true,
+      "xml_zeichen": 345,
+      "pdf_zeichen": 345,
+      "sha256_xml_text": "58716304a4764fbcd3592a224257e918bf38bd852de2cba2b05fcc5752dbc324",
+      "sha256_pdf_text": "58716304a4764fbcd3592a224257e918bf38bd852de2cba2b05fcc5752dbc324"
+    },
+    {
+      "index": 470,
+      "name": "Abschnitt 4Informationspflichten von Zahlungsempfängern, Bargeldabhebungsdienstleistern und Dritten",
+      "identisch": true,
+      "xml_zeichen": 93,
+      "pdf_zeichen": 93,
+      "sha256_xml_text": "1a7e8f4a1995e573806e27c78442bf60d91c4a36479af17db9491e1fe0a5846e",
+      "sha256_pdf_text": "1a7e8f4a1995e573806e27c78442bf60d91c4a36479af17db9491e1fe0a5846e"
+    },
+    {
+      "index": 471,
+      "name": "§ 17",
+      "identisch": true,
+      "xml_zeichen": 525,
+      "pdf_zeichen": 525,
+      "sha256_xml_text": "60da58b1e3fcdfb84d34be80d11d7271a7aa20626715668f3f8c4d159e4bf477",
+      "sha256_pdf_text": "60da58b1e3fcdfb84d34be80d11d7271a7aa20626715668f3f8c4d159e4bf477"
+    },
+    {
+      "index": 472,
+      "name": "§ 17a",
+      "identisch": true,
+      "xml_zeichen": 302,
+      "pdf_zeichen": 302,
+      "sha256_xml_text": "dccd555b19e661dfb4774e3f8e4a0034e19b1f46403163a686c75adf52c4b92d",
+      "sha256_pdf_text": "dccd555b19e661dfb4774e3f8e4a0034e19b1f46403163a686c75adf52c4b92d"
+    },
+    {
+      "index": 473,
+      "name": "§ 18",
+      "identisch": true,
+      "xml_zeichen": 258,
+      "pdf_zeichen": 258,
+      "sha256_xml_text": "64066344c86410f445e4affe673b625de1b9980db9b843ed665b01df5f0393a6",
+      "sha256_pdf_text": "64066344c86410f445e4affe673b625de1b9980db9b843ed665b01df5f0393a6"
+    },
+    {
+      "index": 474,
+      "name": "§ 19",
+      "identisch": true,
+      "xml_zeichen": 175,
+      "pdf_zeichen": 175,
+      "sha256_xml_text": "17ef9dbb95d3bce76e9132c52710305f1aedd7327540cf609f1720087baab0de",
+      "sha256_pdf_text": "17ef9dbb95d3bce76e9132c52710305f1aedd7327540cf609f1720087baab0de"
+    },
+    {
+      "index": 475,
+      "name": "Art 249Informationspflichten bei Verbraucherbauverträgen",
+      "identisch": true,
+      "xml_zeichen": 53,
+      "pdf_zeichen": 53,
+      "sha256_xml_text": "86b95de1a03c99cc7d1526b34ffbc885ded5a4fe0f30181fa9eb02af67154ebd",
+      "sha256_pdf_text": "86b95de1a03c99cc7d1526b34ffbc885ded5a4fe0f30181fa9eb02af67154ebd"
+    },
+    {
+      "index": 476,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 225,
+      "pdf_zeichen": 225,
+      "sha256_xml_text": "e30c4954b7f16017ed1cabc3d740657345841cb5e171e79a1eff0f494d915d4e",
+      "sha256_pdf_text": "e30c4954b7f16017ed1cabc3d740657345841cb5e171e79a1eff0f494d915d4e"
+    },
+    {
+      "index": 477,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1147,
+      "pdf_zeichen": 1147,
+      "sha256_xml_text": "755544379dc0dc0a0fd0dbbdcb440dd45be02e2c3806f964a4b7623c49a24ea4",
+      "sha256_pdf_text": "755544379dc0dc0a0fd0dbbdcb440dd45be02e2c3806f964a4b7623c49a24ea4"
+    },
+    {
+      "index": 478,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 1209,
+      "pdf_zeichen": 1209,
+      "sha256_xml_text": "2c4496237a3e0843580c1071a61ee93aa4f7f790796ae7cde998c2e7af4d8184",
+      "sha256_pdf_text": "2c4496237a3e0843580c1071a61ee93aa4f7f790796ae7cde998c2e7af4d8184"
+    },
+    {
+      "index": 479,
+      "name": "Art 250Informationspflichten bei Pauschalreiseverträgen",
+      "identisch": true,
+      "xml_zeichen": 52,
+      "pdf_zeichen": 52,
+      "sha256_xml_text": "761a66ed1364517f3b2175439b7e1f26c81886fd8023adf7de622aa64930f026",
+      "sha256_pdf_text": "761a66ed1364517f3b2175439b7e1f26c81886fd8023adf7de622aa64930f026"
+    },
+    {
+      "index": 480,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 455,
+      "pdf_zeichen": 455,
+      "sha256_xml_text": "6e07afa246c98abd5446c193c7dfdbcc2838386654c4159e4571dd787d80bed1",
+      "sha256_pdf_text": "6e07afa246c98abd5446c193c7dfdbcc2838386654c4159e4571dd787d80bed1"
+    },
+    {
+      "index": 481,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 520,
+      "pdf_zeichen": 520,
+      "sha256_xml_text": "fb4dd122899ba493a19dcf00018d474ccbfb77f3d7d1d4c9cd52f2e9beb120dc",
+      "sha256_pdf_text": "fb4dd122899ba493a19dcf00018d474ccbfb77f3d7d1d4c9cd52f2e9beb120dc"
+    },
+    {
+      "index": 482,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 2979,
+      "pdf_zeichen": 2979,
+      "sha256_xml_text": "0f4cb8cd4b17f365c90f21a97bef8439c74ae4f339185d1f783d0724ec0108ce",
+      "sha256_pdf_text": "0f4cb8cd4b17f365c90f21a97bef8439c74ae4f339185d1f783d0724ec0108ce"
+    },
+    {
+      "index": 483,
+      "name": "§ 4",
+      "identisch": true,
+      "xml_zeichen": 660,
+      "pdf_zeichen": 660,
+      "sha256_xml_text": "d1c41e4c70c3b8216f4b4bcd5c9e3c70110d2deea2efb9031b6599b2bac7f385",
+      "sha256_pdf_text": "d1c41e4c70c3b8216f4b4bcd5c9e3c70110d2deea2efb9031b6599b2bac7f385"
+    },
+    {
+      "index": 484,
+      "name": "§ 5",
+      "identisch": true,
+      "xml_zeichen": 147,
+      "pdf_zeichen": 147,
+      "sha256_xml_text": "e2ca436da06c48612ba5bb2e1523d742328dee6c21f5dc4c36f0f588494bafac",
+      "sha256_pdf_text": "e2ca436da06c48612ba5bb2e1523d742328dee6c21f5dc4c36f0f588494bafac"
+    },
+    {
+      "index": 485,
+      "name": "§ 6",
+      "identisch": true,
+      "xml_zeichen": 2715,
+      "pdf_zeichen": 2715,
+      "sha256_xml_text": "2538e4ba00f79d1b17cad45dc80566dc50ec9a7c3380b60d84528d008c45bb1d",
+      "sha256_pdf_text": "2538e4ba00f79d1b17cad45dc80566dc50ec9a7c3380b60d84528d008c45bb1d"
+    },
+    {
+      "index": 486,
+      "name": "§ 7",
+      "identisch": true,
+      "xml_zeichen": 764,
+      "pdf_zeichen": 764,
+      "sha256_xml_text": "f0158d3e8aa2943ed4a98072d5ba06988c942d9bfa1a381d7dc19f0174c916ba",
+      "sha256_pdf_text": "f0158d3e8aa2943ed4a98072d5ba06988c942d9bfa1a381d7dc19f0174c916ba"
+    },
+    {
+      "index": 487,
+      "name": "§ 8",
+      "identisch": true,
+      "xml_zeichen": 837,
+      "pdf_zeichen": 837,
+      "sha256_xml_text": "494c162d9c52be88ba57fba60cd7d59afe23be14f96268480529c086fe795b0f",
+      "sha256_pdf_text": "494c162d9c52be88ba57fba60cd7d59afe23be14f96268480529c086fe795b0f"
+    },
+    {
+      "index": 488,
+      "name": "§ 9",
+      "identisch": true,
+      "xml_zeichen": 526,
+      "pdf_zeichen": 526,
+      "sha256_xml_text": "98c86752442011f670413938f6cb45ee7dfcf2cccc03e24ea9a94c09e98fa597",
+      "sha256_pdf_text": "98c86752442011f670413938f6cb45ee7dfcf2cccc03e24ea9a94c09e98fa597"
+    },
+    {
+      "index": 489,
+      "name": "§ 10",
+      "identisch": true,
+      "xml_zeichen": 857,
+      "pdf_zeichen": 857,
+      "sha256_xml_text": "addcbb64db5b74102a515b18b37f22729d0e91d244a56100cf0d20d2d7183185",
+      "sha256_pdf_text": "addcbb64db5b74102a515b18b37f22729d0e91d244a56100cf0d20d2d7183185"
+    },
+    {
+      "index": 490,
+      "name": "Art 251Informationspflichten bei Vermittlung verbundener Reiseleistungen",
+      "identisch": true,
+      "xml_zeichen": 67,
+      "pdf_zeichen": 67,
+      "sha256_xml_text": "dfe9ea251daf0699619dbf2239d60aa56c857e50072bea3af863dec077466af8",
+      "sha256_pdf_text": "dfe9ea251daf0699619dbf2239d60aa56c857e50072bea3af863dec077466af8"
+    },
+    {
+      "index": 491,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 357,
+      "pdf_zeichen": 357,
+      "sha256_xml_text": "72e3be5431b4df3e0e54295c04d84fedb9c1f8d688b698caf18a50e1bd0d350b",
+      "sha256_pdf_text": "72e3be5431b4df3e0e54295c04d84fedb9c1f8d688b698caf18a50e1bd0d350b"
+    },
+    {
+      "index": 492,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 1510,
+      "pdf_zeichen": 1510,
+      "sha256_xml_text": "0c4434fce84b2e61a7c471357b61fe8f070dcbfe3a1e06a215ff074b000891b4",
+      "sha256_pdf_text": "0c4434fce84b2e61a7c471357b61fe8f070dcbfe3a1e06a215ff074b000891b4"
+    },
+    {
+      "index": 493,
+      "name": "Art 252Sicherungsschein; Mitteilungspflicht des Absicherers",
+      "identisch": true,
+      "xml_zeichen": 1525,
+      "pdf_zeichen": 1525,
+      "sha256_xml_text": "6e49f686225efd08dc71d6279389e98ba3a01bcee67f45f7da5f1548be004638",
+      "sha256_pdf_text": "6e49f686225efd08dc71d6279389e98ba3a01bcee67f45f7da5f1548be004638"
+    },
+    {
+      "index": 494,
+      "name": "Art 253Zentrale Kontaktstelle",
+      "identisch": true,
+      "xml_zeichen": 27,
+      "pdf_zeichen": 27,
+      "sha256_xml_text": "45eebcac59995151ef330850a71128805f3be12900b0e170a5fc683e2704d0bc",
+      "sha256_pdf_text": "45eebcac59995151ef330850a71128805f3be12900b0e170a5fc683e2704d0bc"
+    },
+    {
+      "index": 495,
+      "name": "§ 1",
+      "identisch": true,
+      "xml_zeichen": 560,
+      "pdf_zeichen": 560,
+      "sha256_xml_text": "4d444b68ccb1bf30d0618a852fb125f259b4d5a7ff582a3aef461293f405121f",
+      "sha256_pdf_text": "4d444b68ccb1bf30d0618a852fb125f259b4d5a7ff582a3aef461293f405121f"
+    },
+    {
+      "index": 496,
+      "name": "§ 2",
+      "identisch": true,
+      "xml_zeichen": 442,
+      "pdf_zeichen": 442,
+      "sha256_xml_text": "591dc247c4cc0a453d7a851378109f9f0aecfba352d7a36cfc10411b66a681b7",
+      "sha256_pdf_text": "591dc247c4cc0a453d7a851378109f9f0aecfba352d7a36cfc10411b66a681b7"
+    },
+    {
+      "index": 497,
+      "name": "§ 3",
+      "identisch": true,
+      "xml_zeichen": 882,
+      "pdf_zeichen": 882,
+      "sha256_xml_text": "20360cf60ebfd105fbb52fcdfed7b3ba09ec76f2b334b3e83bf88256c0ae169c",
+      "sha256_pdf_text": "20360cf60ebfd105fbb52fcdfed7b3ba09ec76f2b334b3e83bf88256c0ae169c"
+    },
+    {
+      "index": 498,
+      "name": "Anlage 1",
+      "identisch": true,
+      "xml_zeichen": 6164,
+      "pdf_zeichen": 6164,
+      "sha256_xml_text": "9072d4eb1d5f9ed5239446f24abbaa766fa8780ed528acdcd41eec098a49b647",
+      "sha256_pdf_text": "9072d4eb1d5f9ed5239446f24abbaa766fa8780ed528acdcd41eec098a49b647"
+    },
+    {
+      "index": 499,
+      "name": "Anlage 2",
+      "identisch": true,
+      "xml_zeichen": 694,
+      "pdf_zeichen": 694,
+      "sha256_xml_text": "d47bf1b3bad61812eadb265c73b786b34d16508379eed65e5ee65459e4d775d8",
+      "sha256_pdf_text": "d47bf1b3bad61812eadb265c73b786b34d16508379eed65e5ee65459e4d775d8"
+    },
+    {
+      "index": 500,
+      "name": "Anlage 3",
+      "identisch": true,
+      "xml_zeichen": 20,
+      "pdf_zeichen": 20,
+      "sha256_xml_text": "a233d5ba9db073aebd7f844c6abcbbd9180d770d532ab498880ac579f3a74ae0",
+      "sha256_pdf_text": "a233d5ba9db073aebd7f844c6abcbbd9180d770d532ab498880ac579f3a74ae0"
+    },
+    {
+      "index": 501,
+      "name": "Anlage 3a",
+      "identisch": true,
+      "xml_zeichen": 21,
+      "pdf_zeichen": 21,
+      "sha256_xml_text": "9e215502e593ef514d875a4f3eb21395b1f902f404211a1dc681325cd2925797",
+      "sha256_pdf_text": "9e215502e593ef514d875a4f3eb21395b1f902f404211a1dc681325cd2925797"
+    },
+    {
+      "index": 502,
+      "name": "Anlage 3b",
+      "identisch": true,
+      "xml_zeichen": 21,
+      "pdf_zeichen": 21,
+      "sha256_xml_text": "00417533c2bdb7382997abeca8acaf276c82bcd864d61aa2b4cbddb0a1b90a95",
+      "sha256_pdf_text": "00417533c2bdb7382997abeca8acaf276c82bcd864d61aa2b4cbddb0a1b90a95"
+    },
+    {
+      "index": 503,
+      "name": "Anlage 4",
+      "identisch": false,
+      "xml_zeichen": 6177,
+      "pdf_zeichen": 6177,
+      "sha256_xml_text": "a539edfb9ff9d216bf5101ad3d95d7b7879a022a4e44b21650d2ee92288d3ebd",
+      "sha256_pdf_text": "3cd87de76fc609c2a9db6dce0d069c284db19ab29bf1a32d07b6ef17bb313312",
+      "abweichungen": [
+        {
+          "art": "delete",
+          "xml": "Fax*)Internet-Adresse*)",
+          "pdf": "",
+          "davor": "ebers/KreditvermittlersKreditgeberAnschriftTelefon*)E-Mail*)",
+          "danach": "[Name][LadungsfähigeAnschriftfürKontaktedesVerbrauchers](fal"
+        },
+        {
+          "art": "insert",
+          "xml": "",
+          "pdf": "Fax*)Internet-Adresse*)",
+          "davor": "se*)[Name][LadungsfähigeAnschriftfürKontaktedesVerbrauchers]",
+          "danach": "(fallszutreffend)KreditvermittlerAnschriftTelefon*)E-Mail*)F"
+        }
+      ],
+      "ausnahmepruefung": {
+        "grund": "Ein zusammenhängender Teil der linken Formularzelle wird beim PDF-Textabruf nach der rechten Zelle ausgegeben. Genau derselbe Textblock einmal gelöscht/einmal eingefügt; alle übrigen Zeichen in gleicher Reihenfolge. Zellzuordnung anhand Originalseiten vor und nach dem Seitenumbruch geprüft. Markdown bewahrt XML-Zellen.",
+        "verschobener_text": "Fax*)Internet-Adresse*)",
+        "visuelle_seiten": [
+          111,
+          112
+        ],
+        "vollstaendig_bestaetigt": true
+      }
+    },
+    {
+      "index": 504,
+      "name": "Anlage 5",
+      "identisch": false,
+      "xml_zeichen": 5084,
+      "pdf_zeichen": 5084,
+      "sha256_xml_text": "a5a5b5166330a1e86f0065bf5c5490534fb30efde17bd2e2acdbc9ce093f0c71",
+      "sha256_pdf_text": "968c5b97bdcbaa833a79fdddbecfb5c0ac816d90d8641a024aa37924c02e22f4",
+      "abweichungen": [
+        {
+          "art": "delete",
+          "xml": "Internet-Adresse*)*)FreiwilligeAngabendesKreditgebers.",
+          "pdf": "",
+          "davor": "at,indemSieIhrenWohnsitzhabenAnschriftTelefon*)E-Mail*)Fax*)",
+          "danach": "[Name][LadungsfähigeAnschriftfürKontaktedesVerbrauchers](fal"
+        },
+        {
+          "art": "insert",
+          "xml": "",
+          "pdf": "Internet-Adresse*)*)FreiwilligeAngabendesKreditgebers.",
+          "davor": "ers.[Name][LadungsfähigeAnschriftfürKontaktedesVerbrauchers]",
+          "danach": "(fallszutreffend)EintragimHandelsregister[Handelsregister,in"
+        }
+      ],
+      "ausnahmepruefung": {
+        "grund": "Ein zusammenhängender Teil der linken Formularzelle wird beim PDF-Textabruf nach der rechten Zelle ausgegeben. Genau derselbe Textblock einmal gelöscht/einmal eingefügt; alle übrigen Zeichen in gleicher Reihenfolge. Zellzuordnung anhand Originalseiten vor und nach dem Seitenumbruch geprüft. Markdown bewahrt XML-Zellen.",
+        "verschobener_text": "Internet-Adresse*)*)FreiwilligeAngabendesKreditgebers.",
+        "visuelle_seiten": [
+          116,
+          117
+        ],
+        "vollstaendig_bestaetigt": true
+      }
+    },
+    {
+      "index": 505,
+      "name": "Anlage 6",
+      "identisch": true,
+      "xml_zeichen": 38242,
+      "pdf_zeichen": 38242,
+      "sha256_xml_text": "7a21735a633ee35a2c6bc0df1f13e96fa83249a0112825fbab9c56f8f6d453f6",
+      "sha256_pdf_text": "7a21735a633ee35a2c6bc0df1f13e96fa83249a0112825fbab9c56f8f6d453f6"
+    },
+    {
+      "index": 506,
+      "name": "Anlage 7",
+      "identisch": true,
+      "xml_zeichen": 19267,
+      "pdf_zeichen": 19267,
+      "sha256_xml_text": "cc648458e364c8f15d25c8f6f88d5785e0bc3bd06f6b4b91087dc9efc24a4149",
+      "sha256_pdf_text": "cc648458e364c8f15d25c8f6f88d5785e0bc3bd06f6b4b91087dc9efc24a4149"
+    },
+    {
+      "index": 507,
+      "name": "Anlage 8",
+      "identisch": true,
+      "xml_zeichen": 12405,
+      "pdf_zeichen": 12405,
+      "sha256_xml_text": "d76958379df79a09ec9cd43a1ad2c8056e7c189f783f5074f9bfe228123aed8d",
+      "sha256_pdf_text": "d76958379df79a09ec9cd43a1ad2c8056e7c189f783f5074f9bfe228123aed8d"
+    },
+    {
+      "index": 508,
+      "name": "Anlage 9",
+      "identisch": true,
+      "xml_zeichen": 10312,
+      "pdf_zeichen": 10312,
+      "sha256_xml_text": "b039f56810f7fbdb5ab8bf75ee18373d3d9ba76b0a362d88baf48ba284c6f62d",
+      "sha256_pdf_text": "b039f56810f7fbdb5ab8bf75ee18373d3d9ba76b0a362d88baf48ba284c6f62d"
+    },
+    {
+      "index": 509,
+      "name": "Anlage 10",
+      "identisch": true,
+      "xml_zeichen": 1200,
+      "pdf_zeichen": 1200,
+      "sha256_xml_text": "7c7833b61a77fcd79e352e6b028c48b795b9a04cce0b7f9bb64bcbcbf35ce6cc",
+      "sha256_pdf_text": "7c7833b61a77fcd79e352e6b028c48b795b9a04cce0b7f9bb64bcbcbf35ce6cc"
+    },
+    {
+      "index": 510,
+      "name": "Anlage 11",
+      "identisch": true,
+      "xml_zeichen": 6308,
+      "pdf_zeichen": 6308,
+      "sha256_xml_text": "6ee6ebb0ad02f3c76149c6b2e6cbcbfaa99e5b3104d7f5e1c3f4c76be72cdf30",
+      "sha256_pdf_text": "6ee6ebb0ad02f3c76149c6b2e6cbcbfaa99e5b3104d7f5e1c3f4c76be72cdf30"
+    },
+    {
+      "index": 511,
+      "name": "Anlage 12",
+      "identisch": true,
+      "xml_zeichen": 6445,
+      "pdf_zeichen": 6445,
+      "sha256_xml_text": "3aaf3a50faf12e88460b6a235c95a474502e40b10d78dd2e5ae9849ed8197ca1",
+      "sha256_pdf_text": "3aaf3a50faf12e88460b6a235c95a474502e40b10d78dd2e5ae9849ed8197ca1"
+    },
+    {
+      "index": 512,
+      "name": "Anlage 13",
+      "identisch": true,
+      "xml_zeichen": 5726,
+      "pdf_zeichen": 5726,
+      "sha256_xml_text": "d45daea37ce6662b855866d896e9bdc7dc839dc682c5bf53d1685353f9b271a9",
+      "sha256_pdf_text": "d45daea37ce6662b855866d896e9bdc7dc839dc682c5bf53d1685353f9b271a9"
+    },
+    {
+      "index": 513,
+      "name": "Anlage 14",
+      "identisch": true,
+      "xml_zeichen": 3032,
+      "pdf_zeichen": 3032,
+      "sha256_xml_text": "84dd0e019f9f762d5202867cf7050422dcc6564fb6e9191c8f8e170375c596cc",
+      "sha256_pdf_text": "84dd0e019f9f762d5202867cf7050422dcc6564fb6e9191c8f8e170375c596cc"
+    },
+    {
+      "index": 514,
+      "name": "Anlage 15",
+      "identisch": true,
+      "xml_zeichen": 2923,
+      "pdf_zeichen": 2923,
+      "sha256_xml_text": "99a5f3cf128da90b5bc15f3746f39a1a8e043760e2a3bb31083a8ad6235c00ce",
+      "sha256_pdf_text": "99a5f3cf128da90b5bc15f3746f39a1a8e043760e2a3bb31083a8ad6235c00ce"
+    },
+    {
+      "index": 515,
+      "name": "Anlage 16",
+      "identisch": true,
+      "xml_zeichen": 4560,
+      "pdf_zeichen": 4560,
+      "sha256_xml_text": "fa01457806b360bb9154ac1ea622152a2b8ba1829cb6224ab4618c97506fb92b",
+      "sha256_pdf_text": "fa01457806b360bb9154ac1ea622152a2b8ba1829cb6224ab4618c97506fb92b"
+    },
+    {
+      "index": 516,
+      "name": "Anlage 17",
+      "identisch": true,
+      "xml_zeichen": 3310,
+      "pdf_zeichen": 3310,
+      "sha256_xml_text": "88696925ccc65a5445d3902f748d84f22f260dd07bfaf2403890da6feb7780e1",
+      "sha256_pdf_text": "88696925ccc65a5445d3902f748d84f22f260dd07bfaf2403890da6feb7780e1"
+    },
+    {
+      "index": 517,
+      "name": "Anlage 18",
+      "identisch": true,
+      "xml_zeichen": 2589,
+      "pdf_zeichen": 2589,
+      "sha256_xml_text": "8f0569d7e06ef1348f0f912a558c057f1a8729503b5dae9ace2ed0e9d9b70d72",
+      "sha256_pdf_text": "8f0569d7e06ef1348f0f912a558c057f1a8729503b5dae9ace2ed0e9d9b70d72"
+    },
+    {
+      "index": 518,
+      "name": "Anlage 19",
+      "identisch": true,
+      "xml_zeichen": 1977,
+      "pdf_zeichen": 1977,
+      "sha256_xml_text": "9afbb9af5bf0a2da6d21c3a4e9f8f6812dce50f6f49725522a390f522c240294",
+      "sha256_pdf_text": "9afbb9af5bf0a2da6d21c3a4e9f8f6812dce50f6f49725522a390f522c240294"
+    }
+  ]
+}

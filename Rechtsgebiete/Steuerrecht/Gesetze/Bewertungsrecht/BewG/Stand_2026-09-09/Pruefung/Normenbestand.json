@@ -1,0 +1,1634 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR010350934",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR010350934BJNE002927123",
+    "enbez": "Inhaltsübersicht",
+    "titel": ""
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR010350934BJNG000102301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR010350934BJNE003002301",
+    "enbez": "§ 1",
+    "titel": "Geltungsbereich"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR010350934BJNE003102301",
+    "enbez": "§ 2",
+    "titel": "Wirtschaftliche Einheit"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR010350934BJNE003202301",
+    "enbez": "§ 3",
+    "titel": "Wertermittlung bei mehreren Beteiligten"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR010350934BJNE003303301",
+    "enbez": "§ 3a",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR010350934BJNE003402301",
+    "enbez": "§ 4",
+    "titel": "Aufschiebend bedingter Erwerb"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR010350934BJNE003502301",
+    "enbez": "§ 5",
+    "titel": "Auflösend bedingter Erwerb"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR010350934BJNE003602301",
+    "enbez": "§ 6",
+    "titel": "Aufschiebend bedingte Lasten"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR010350934BJNE003702301",
+    "enbez": "§ 7",
+    "titel": "Auflösend bedingte Lasten"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR010350934BJNE003802301",
+    "enbez": "§ 8",
+    "titel": "Befristung auf einen unbestimmten Zeitpunkt"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR010350934BJNE003902301",
+    "enbez": "§ 9",
+    "titel": "Bewertungsgrundsatz, gemeiner Wert"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR010350934BJNE004003301",
+    "enbez": "§ 10",
+    "titel": "Begriff des Teilwerts"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR010350934BJNE004113119",
+    "enbez": "§ 11",
+    "titel": "Wertpapiere und Anteile"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR010350934BJNE004206140",
+    "enbez": "§ 12",
+    "titel": "Kapitalforderungen und Schulden"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR010350934BJNE004304301",
+    "enbez": "§ 13",
+    "titel": "Kapitalwert von wiederkehrenden Nutzungen und Leistungen"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR010350934BJNE004405140",
+    "enbez": "§ 14",
+    "titel": "Lebenslängliche Nutzungen und Leistungen"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR010350934BJNE004503301",
+    "enbez": "§ 15",
+    "titel": "Jahreswert von Nutzungen und Leistungen"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR010350934BJNE004603301",
+    "enbez": "§ 16",
+    "titel": "Begrenzung des Jahreswerts von Nutzungen"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR010350934BJNG000202301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR010350934BJNE004706123",
+    "enbez": "§ 17",
+    "titel": "Geltungsbereich"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR010350934BJNE004804123",
+    "enbez": "§ 18",
+    "titel": "Vermögensarten"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR010350934BJNG000302301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR010350934BJNG000402301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR010350934BJNE004908123",
+    "enbez": "§ 19",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR010350934BJNE005004123",
+    "enbez": "§ 20",
+    "titel": "Abweichende Feststellung von Besteuerungsgrundlagen aus Billigkeitsgründen"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR010350934BJNE005106123",
+    "enbez": "(XXXX) §§ 21 bis 29",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR010350934BJNE006106301",
+    "enbez": "§ 30",
+    "titel": "Abrundung"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR010350934BJNE006202301",
+    "enbez": "§ 31",
+    "titel": "Bewertung von ausländischem Sachvermögen"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR010350934BJNE006305123",
+    "enbez": "§ 32",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR010350934BJNG000502301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR010350934BJNG000602301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR010350934BJNE006403123",
+    "enbez": "(XXXX) §§ 33 bis 48a",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR010350934BJNE008103301",
+    "enbez": "§ 49",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR010350934BJNG000702301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR010350934BJNG000802301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR010350934BJNE008203123",
+    "enbez": "(XXXX) §§ 50 bis 52",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR010350934BJNG000902301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR010350934BJNE008603123",
+    "enbez": "(XXXX) §§ 53 bis 55",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 40,
+    "doknr": "BJNR010350934BJNG001002301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 41,
+    "doknr": "BJNR010350934BJNE008904123",
+    "enbez": "(XXXX) §§ 56 bis 58",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 42,
+    "doknr": "BJNR010350934BJNG001102301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 43,
+    "doknr": "BJNR010350934BJNE009203123",
+    "enbez": "(XXXX) §§ 59 bis 61",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 44,
+    "doknr": "BJNR010350934BJNG001202301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 45,
+    "doknr": "BJNR010350934BJNE009503123",
+    "enbez": "§ 62",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 46,
+    "doknr": "BJNR010350934BJNG001302301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 47,
+    "doknr": "BJNR010350934BJNE009605123",
+    "enbez": "(XXXX) §§ 63 bis 67",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 48,
+    "doknr": "BJNR010350934BJNG001402301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 49,
+    "doknr": "BJNR010350934BJNG001502301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 50,
+    "doknr": "BJNR010350934BJNE010104123",
+    "enbez": "(XXXX) §§ 68 und 69",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 51,
+    "doknr": "BJNR010350934BJNE010302301",
+    "enbez": "§ 70",
+    "titel": "Grundstück"
+  },
+  {
+    "index": 52,
+    "doknr": "BJNR010350934BJNE010404123",
+    "enbez": "§ 71",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 53,
+    "doknr": "BJNR010350934BJNG001602301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 54,
+    "doknr": "BJNR010350934BJNE010503123",
+    "enbez": "(XXXX) §§ 72 und 73",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 55,
+    "doknr": "BJNR010350934BJNG001702301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 56,
+    "doknr": "BJNR010350934BJNG001802301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 57,
+    "doknr": "BJNR010350934BJNE010703123",
+    "enbez": "(XXXX) §§ 74 bis 77",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 58,
+    "doknr": "BJNR010350934BJNG001902301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 59,
+    "doknr": "BJNR010350934BJNG002002301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 60,
+    "doknr": "BJNR010350934BJNE011103123",
+    "enbez": "(XXXX) §§ 78 bis 82",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 61,
+    "doknr": "BJNR010350934BJNG002102301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 62,
+    "doknr": "BJNR010350934BJNE011603123",
+    "enbez": "(XXXX) §§ 83 bis 90",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 63,
+    "doknr": "BJNR010350934BJNG002202301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 64,
+    "doknr": "BJNR010350934BJNE012405123",
+    "enbez": "(XXXX) §§ 91 bis 94",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 65,
+    "doknr": "BJNR010350934BJNG002302301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 66,
+    "doknr": "BJNR010350934BJNE012808123",
+    "enbez": "§ 95",
+    "titel": "Begriff des Betriebsvermögens"
+  },
+  {
+    "index": 67,
+    "doknr": "BJNR010350934BJNE012903301",
+    "enbez": "§ 96",
+    "titel": "Freie Berufe"
+  },
+  {
+    "index": 68,
+    "doknr": "BJNR010350934BJNE034603123",
+    "enbez": "§ 97",
+    "titel": "Betriebsvermögen von Körperschaften, Personenvereinigungen und Vermögensmassen"
+  },
+  {
+    "index": 69,
+    "doknr": "BJNR010350934BJNE013104301",
+    "enbez": "§ 98",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 70,
+    "doknr": "BJNR010350934BJNE013206140",
+    "enbez": "§ 98a",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 71,
+    "doknr": "BJNR010350934BJNE013304140",
+    "enbez": "§ 99",
+    "titel": "Betriebsgrundstücke"
+  },
+  {
+    "index": 72,
+    "doknr": "BJNR010350934BJNE013508301",
+    "enbez": "(XXXX) §§ 100 bis 102",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 73,
+    "doknr": "BJNR010350934BJNE013705301",
+    "enbez": "§ 103",
+    "titel": "Schulden und sonstige Abzüge"
+  },
+  {
+    "index": 74,
+    "doknr": "BJNR010350934BJNE013910140",
+    "enbez": "§ 104",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 75,
+    "doknr": "BJNR010350934BJNE014205301",
+    "enbez": "(XXXX) §§ 105 bis 108",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 76,
+    "doknr": "BJNR010350934BJNE014508140",
+    "enbez": "§ 109",
+    "titel": "Bewertung"
+  },
+  {
+    "index": 77,
+    "doknr": "BJNR010350934BJNE021200301",
+    "enbez": "§ 109a",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 78,
+    "doknr": "BJNR010350934BJNG002403301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 79,
+    "doknr": "BJNR010350934BJNE014713301",
+    "enbez": "(XXXX) §§ 110 bis 120",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 80,
+    "doknr": "BJNR010350934BJNE015908301",
+    "enbez": "§ 121",
+    "titel": "Inlandsvermögen"
+  },
+  {
+    "index": 81,
+    "doknr": "BJNR010350934BJNE016005123",
+    "enbez": "§ 121a",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 82,
+    "doknr": "BJNR010350934BJNE016206123",
+    "enbez": "§ 122",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 83,
+    "doknr": "BJNR010350934BJNE016306123",
+    "enbez": "§ 123",
+    "titel": "Ermächtigungen"
+  },
+  {
+    "index": 84,
+    "doknr": "BJNR010350934BJNE016419301",
+    "enbez": "§ 124",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 85,
+    "doknr": "BJNR010350934BJNG002903123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 86,
+    "doknr": "BJNR010350934BJNG003800301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 87,
+    "doknr": "BJNR010350934BJNE028100123",
+    "enbez": "(XXXX) §§ 125 bis 128",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 88,
+    "doknr": "BJNR010350934BJNG003900301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 89,
+    "doknr": "BJNR010350934BJNE018303123",
+    "enbez": "(XXXX) §§ 129 bis 133",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 90,
+    "doknr": "BJNR010350934BJNG004000301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 91,
+    "doknr": "BJNR010350934BJNE021101301",
+    "enbez": "(XXXX) §§ 134 bis 136",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 92,
+    "doknr": "BJNR010350934BJNE017905123",
+    "enbez": "§ 137",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 93,
+    "doknr": "BJNR010350934BJNG003001140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 94,
+    "doknr": "BJNR010350934BJNG003100301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 95,
+    "doknr": "BJNR010350934BJNE019403123",
+    "enbez": "(XXXX) §§ 138 und 139",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 96,
+    "doknr": "BJNR010350934BJNG003200301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 97,
+    "doknr": "BJNR010350934BJNE019601123",
+    "enbez": "(XXXX) §§ 140 bis 144",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 98,
+    "doknr": "BJNR010350934BJNG003300301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 99,
+    "doknr": "BJNR010350934BJNG003400301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 100,
+    "doknr": "BJNR010350934BJNE020103123",
+    "enbez": "§ 145",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 101,
+    "doknr": "BJNR010350934BJNG003500301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 102,
+    "doknr": "BJNR010350934BJNE020202123",
+    "enbez": "(XXXX) §§ 146 bis 150",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 103,
+    "doknr": "BJNR010350934BJNG004100301",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 104,
+    "doknr": "BJNR010350934BJNE021404123",
+    "enbez": "§ 151",
+    "titel": "Gesonderte Feststellungen"
+  },
+  {
+    "index": 105,
+    "doknr": "BJNR010350934BJNE021500301",
+    "enbez": "§ 152",
+    "titel": "Örtliche Zuständigkeit"
+  },
+  {
+    "index": 106,
+    "doknr": "BJNR010350934BJNE021605123",
+    "enbez": "§ 153",
+    "titel": "Erklärungspflicht, Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist"
+  },
+  {
+    "index": 107,
+    "doknr": "BJNR010350934BJNE021704123",
+    "enbez": "§ 154",
+    "titel": "Beteiligte am Feststellungsverfahren"
+  },
+  {
+    "index": 108,
+    "doknr": "BJNR010350934BJNE021801140",
+    "enbez": "§ 155",
+    "titel": "Rechtsbehelfsbefugnis"
+  },
+  {
+    "index": 109,
+    "doknr": "BJNR010350934BJNE021900301",
+    "enbez": "§ 156",
+    "titel": "Außenprüfung"
+  },
+  {
+    "index": 110,
+    "doknr": "BJNR010350934BJNG004200140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 111,
+    "doknr": "BJNR010350934BJNG004300140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 112,
+    "doknr": "BJNR010350934BJNE022001123",
+    "enbez": "§ 157",
+    "titel": "Feststellung von Grundbesitzwerten, von Anteilswerten und von Betriebsvermögenswerten"
+  },
+  {
+    "index": 113,
+    "doknr": "BJNR010350934BJNG004400140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 114,
+    "doknr": "BJNR010350934BJNG004500140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 115,
+    "doknr": "BJNR010350934BJNE022101123",
+    "enbez": "§ 158",
+    "titel": "Begriff des land- und forstwirtschaftlichen Vermögens"
+  },
+  {
+    "index": 116,
+    "doknr": "BJNR010350934BJNE022200140",
+    "enbez": "§ 159",
+    "titel": "Abgrenzung land- und forstwirtschaftlich genutzter Flächen zum Grundvermögen"
+  },
+  {
+    "index": 117,
+    "doknr": "BJNR010350934BJNE022301123",
+    "enbez": "§ 160",
+    "titel": "Betrieb der Land- und Forstwirtschaft"
+  },
+  {
+    "index": 118,
+    "doknr": "BJNR010350934BJNE022400140",
+    "enbez": "§ 161",
+    "titel": "Bewertungsstichtag"
+  },
+  {
+    "index": 119,
+    "doknr": "BJNR010350934BJNE022500140",
+    "enbez": "§ 162",
+    "titel": "Bewertung des Wirtschaftsteils"
+  },
+  {
+    "index": 120,
+    "doknr": "BJNR010350934BJNE022600140",
+    "enbez": "§ 163",
+    "titel": "Ermittlung der Wirtschaftswerte"
+  },
+  {
+    "index": 121,
+    "doknr": "BJNR010350934BJNE022700140",
+    "enbez": "§ 164",
+    "titel": "Mindestwert"
+  },
+  {
+    "index": 122,
+    "doknr": "BJNR010350934BJNE022800140",
+    "enbez": "§ 165",
+    "titel": "Bewertung des Wirtschaftsteils mit dem Fortführungswert"
+  },
+  {
+    "index": 123,
+    "doknr": "BJNR010350934BJNE022901140",
+    "enbez": "§ 166",
+    "titel": "Bewertung des Wirtschaftsteils mit dem Liquidationswert"
+  },
+  {
+    "index": 124,
+    "doknr": "BJNR010350934BJNE023000140",
+    "enbez": "§ 167",
+    "titel": "Bewertung der Betriebswohnungen und des Wohnteils"
+  },
+  {
+    "index": 125,
+    "doknr": "BJNR010350934BJNE023100140",
+    "enbez": "§ 168",
+    "titel": "Grundbesitzwert des Betriebs der Land- und Forstwirtschaft"
+  },
+  {
+    "index": 126,
+    "doknr": "BJNR010350934BJNG004600140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 127,
+    "doknr": "BJNR010350934BJNG004700140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 128,
+    "doknr": "BJNR010350934BJNE023200140",
+    "enbez": "§ 169",
+    "titel": "Tierbestände"
+  },
+  {
+    "index": 129,
+    "doknr": "BJNR010350934BJNE023300140",
+    "enbez": "§ 170",
+    "titel": "Umlaufende Betriebsmittel"
+  },
+  {
+    "index": 130,
+    "doknr": "BJNR010350934BJNG004800140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 131,
+    "doknr": "BJNR010350934BJNE023400140",
+    "enbez": "§ 171",
+    "titel": "Umlaufende Betriebsmittel"
+  },
+  {
+    "index": 132,
+    "doknr": "BJNR010350934BJNE023500140",
+    "enbez": "§ 172",
+    "titel": "Abweichender Bewertungsstichtag"
+  },
+  {
+    "index": 133,
+    "doknr": "BJNR010350934BJNG004900140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 134,
+    "doknr": "BJNR010350934BJNE023600140",
+    "enbez": "§ 173",
+    "titel": "Umlaufende Betriebsmittel"
+  },
+  {
+    "index": 135,
+    "doknr": "BJNR010350934BJNG005000140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 136,
+    "doknr": "BJNR010350934BJNE023700140",
+    "enbez": "§ 174",
+    "titel": "Abweichende Bewertungsverhältnisse"
+  },
+  {
+    "index": 137,
+    "doknr": "BJNR010350934BJNG005100140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 138,
+    "doknr": "BJNR010350934BJNE023800140",
+    "enbez": "§ 175",
+    "titel": "Übrige land- und forstwirtschaftliche Nutzungen"
+  },
+  {
+    "index": 139,
+    "doknr": "BJNR010350934BJNG005200140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 140,
+    "doknr": "BJNR010350934BJNG005300140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 141,
+    "doknr": "BJNR010350934BJNE023900140",
+    "enbez": "§ 176",
+    "titel": "Grundvermögen"
+  },
+  {
+    "index": 142,
+    "doknr": "BJNR010350934BJNE024002123",
+    "enbez": "§ 177",
+    "titel": "Bewertung"
+  },
+  {
+    "index": 143,
+    "doknr": "BJNR010350934BJNG005400140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 144,
+    "doknr": "BJNR010350934BJNE024100140",
+    "enbez": "§ 178",
+    "titel": "Begriff der unbebauten Grundstücke"
+  },
+  {
+    "index": 145,
+    "doknr": "BJNR010350934BJNE024202123",
+    "enbez": "§ 179",
+    "titel": "Bewertung der unbebauten Grundstücke"
+  },
+  {
+    "index": 146,
+    "doknr": "BJNR010350934BJNG005500140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 147,
+    "doknr": "BJNR010350934BJNE024300140",
+    "enbez": "§ 180",
+    "titel": "Begriff der bebauten Grundstücke"
+  },
+  {
+    "index": 148,
+    "doknr": "BJNR010350934BJNE024401123",
+    "enbez": "§ 181",
+    "titel": "Grundstücksarten"
+  },
+  {
+    "index": 149,
+    "doknr": "BJNR010350934BJNE024500140",
+    "enbez": "§ 182",
+    "titel": "Bewertung der bebauten Grundstücke"
+  },
+  {
+    "index": 150,
+    "doknr": "BJNR010350934BJNE024603123",
+    "enbez": "§ 183",
+    "titel": "Bewertung im Vergleichswertverfahren"
+  },
+  {
+    "index": 151,
+    "doknr": "BJNR010350934BJNE024701123",
+    "enbez": "§ 184",
+    "titel": "Bewertung im Ertragswertverfahren"
+  },
+  {
+    "index": 152,
+    "doknr": "BJNR010350934BJNE024801123",
+    "enbez": "§ 185",
+    "titel": "Ermittlung des Gebäudeertragswerts"
+  },
+  {
+    "index": 153,
+    "doknr": "BJNR010350934BJNE024900140",
+    "enbez": "§ 186",
+    "titel": "Rohertrag des Grundstücks"
+  },
+  {
+    "index": 154,
+    "doknr": "BJNR010350934BJNE025002123",
+    "enbez": "§ 187",
+    "titel": "Bewirtschaftungskosten"
+  },
+  {
+    "index": 155,
+    "doknr": "BJNR010350934BJNE025102123",
+    "enbez": "§ 188",
+    "titel": "Liegenschaftszinssatz"
+  },
+  {
+    "index": 156,
+    "doknr": "BJNR010350934BJNE025201123",
+    "enbez": "§ 189",
+    "titel": "Bewertung im Sachwertverfahren"
+  },
+  {
+    "index": 157,
+    "doknr": "BJNR010350934BJNE025302123",
+    "enbez": "§ 190",
+    "titel": "Ermittlung des Gebäudesachwerts"
+  },
+  {
+    "index": 158,
+    "doknr": "BJNR010350934BJNE025402123",
+    "enbez": "§ 191",
+    "titel": "Wertzahlen"
+  },
+  {
+    "index": 159,
+    "doknr": "BJNR010350934BJNG005600140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 160,
+    "doknr": "BJNR010350934BJNE025501140",
+    "enbez": "§ 192",
+    "titel": "Bewertung in Erbbaurechtsfällen"
+  },
+  {
+    "index": 161,
+    "doknr": "BJNR010350934BJNE025602123",
+    "enbez": "§ 193",
+    "titel": "Bewertung des Erbbaurechts"
+  },
+  {
+    "index": 162,
+    "doknr": "BJNR010350934BJNE025701123",
+    "enbez": "§ 194",
+    "titel": "Bewertung des Erbbaugrundstücks"
+  },
+  {
+    "index": 163,
+    "doknr": "BJNR010350934BJNE025802123",
+    "enbez": "§ 195",
+    "titel": "Gebäude auf fremdem Grund und Boden"
+  },
+  {
+    "index": 164,
+    "doknr": "BJNR010350934BJNE025900140",
+    "enbez": "§ 196",
+    "titel": "Grundstücke im Zustand der Bebauung"
+  },
+  {
+    "index": 165,
+    "doknr": "BJNR010350934BJNE026000140",
+    "enbez": "§ 197",
+    "titel": "Gebäude und Gebäudeteile für den Zivilschutz"
+  },
+  {
+    "index": 166,
+    "doknr": "BJNR010350934BJNG005700140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 167,
+    "doknr": "BJNR010350934BJNE026101123",
+    "enbez": "§ 198",
+    "titel": "Nachweis des niedrigeren gemeinen Werts"
+  },
+  {
+    "index": 168,
+    "doknr": "BJNR010350934BJNG005800140",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 169,
+    "doknr": "BJNR010350934BJNE026200140",
+    "enbez": "§ 199",
+    "titel": "Anwendung des vereinfachten Ertragswertverfahrens"
+  },
+  {
+    "index": 170,
+    "doknr": "BJNR010350934BJNE026300140",
+    "enbez": "§ 200",
+    "titel": "Vereinfachtes Ertragswertverfahren"
+  },
+  {
+    "index": 171,
+    "doknr": "BJNR010350934BJNE026400140",
+    "enbez": "§ 201",
+    "titel": "Ermittlung des Jahresertrags"
+  },
+  {
+    "index": 172,
+    "doknr": "BJNR010350934BJNE026500140",
+    "enbez": "§ 202",
+    "titel": "Betriebsergebnis"
+  },
+  {
+    "index": 173,
+    "doknr": "BJNR010350934BJNE026601377",
+    "enbez": "§ 203",
+    "titel": "Kapitalisierungsfaktor"
+  },
+  {
+    "index": 174,
+    "doknr": "BJNR010350934BJNG005900123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 175,
+    "doknr": "BJNR010350934BJNG006000123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 176,
+    "doknr": "BJNR010350934BJNE028200123",
+    "enbez": "§ 218",
+    "titel": "Vermögensarten"
+  },
+  {
+    "index": 177,
+    "doknr": "BJNR010350934BJNE028300123",
+    "enbez": "§ 219",
+    "titel": "Feststellung von Grundsteuerwerten"
+  },
+  {
+    "index": 178,
+    "doknr": "BJNR010350934BJNE028401123",
+    "enbez": "§ 220",
+    "titel": "Ermittlung der Grundsteuerwerte"
+  },
+  {
+    "index": 179,
+    "doknr": "BJNR010350934BJNE028500123",
+    "enbez": "§ 221",
+    "titel": "Hauptfeststellung"
+  },
+  {
+    "index": 180,
+    "doknr": "BJNR010350934BJNE028600123",
+    "enbez": "§ 222",
+    "titel": "Fortschreibungen"
+  },
+  {
+    "index": 181,
+    "doknr": "BJNR010350934BJNE028700123",
+    "enbez": "§ 223",
+    "titel": "Nachfeststellung"
+  },
+  {
+    "index": 182,
+    "doknr": "BJNR010350934BJNE028800123",
+    "enbez": "§ 224",
+    "titel": "Aufhebung des Grundsteuerwerts"
+  },
+  {
+    "index": 183,
+    "doknr": "BJNR010350934BJNE028900123",
+    "enbez": "§ 225",
+    "titel": "Änderung von Feststellungsbescheiden"
+  },
+  {
+    "index": 184,
+    "doknr": "BJNR010350934BJNE029000123",
+    "enbez": "§ 226",
+    "titel": "Nachholung einer Feststellung"
+  },
+  {
+    "index": 185,
+    "doknr": "BJNR010350934BJNE029100123",
+    "enbez": "§ 227",
+    "titel": "Wertverhältnisse bei Fortschreibungen und Nachfeststellungen"
+  },
+  {
+    "index": 186,
+    "doknr": "BJNR010350934BJNE029203123",
+    "enbez": "§ 228",
+    "titel": "Erklärungs- und Anzeigepflicht"
+  },
+  {
+    "index": 187,
+    "doknr": "BJNR010350934BJNE029300123",
+    "enbez": "§ 229",
+    "titel": "Auskünfte, Erhebungen und Mitteilungen"
+  },
+  {
+    "index": 188,
+    "doknr": "BJNR010350934BJNE029400123",
+    "enbez": "§ 230",
+    "titel": "Abrundung"
+  },
+  {
+    "index": 189,
+    "doknr": "BJNR010350934BJNE029500123",
+    "enbez": "§ 231",
+    "titel": "Abgrenzung von in- und ausländischem Vermögen"
+  },
+  {
+    "index": 190,
+    "doknr": "BJNR010350934BJNG006100123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 191,
+    "doknr": "BJNR010350934BJNG006200123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 192,
+    "doknr": "BJNR010350934BJNE029600123",
+    "enbez": "§ 232",
+    "titel": "Begriff des land- und forstwirtschaftlichen Vermögens"
+  },
+  {
+    "index": 193,
+    "doknr": "BJNR010350934BJNE029700123",
+    "enbez": "§ 233",
+    "titel": "Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Grundvermögen in Sonderfällen"
+  },
+  {
+    "index": 194,
+    "doknr": "BJNR010350934BJNE029800123",
+    "enbez": "§ 234",
+    "titel": "Betrieb der Land- und Forstwirtschaft"
+  },
+  {
+    "index": 195,
+    "doknr": "BJNR010350934BJNE029901123",
+    "enbez": "§ 235",
+    "titel": "Feststellungszeitpunkt"
+  },
+  {
+    "index": 196,
+    "doknr": "BJNR010350934BJNE030000123",
+    "enbez": "§ 236",
+    "titel": "Bewertungsgrundsätze"
+  },
+  {
+    "index": 197,
+    "doknr": "BJNR010350934BJNE030100123",
+    "enbez": "§ 237",
+    "titel": "Bewertung des Betriebs der Land- und Forstwirtschaft"
+  },
+  {
+    "index": 198,
+    "doknr": "BJNR010350934BJNE030200123",
+    "enbez": "§ 238",
+    "titel": "Zuschläge zum Reinertrag"
+  },
+  {
+    "index": 199,
+    "doknr": "BJNR010350934BJNE030300123",
+    "enbez": "§ 239",
+    "titel": "Grundsteuerwert des Betriebs der Land- und Forstwirtschaft"
+  },
+  {
+    "index": 200,
+    "doknr": "BJNR010350934BJNE030400123",
+    "enbez": "§ 240",
+    "titel": "Kleingartenland und Dauerkleingartenland"
+  },
+  {
+    "index": 201,
+    "doknr": "BJNR010350934BJNG006300123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 202,
+    "doknr": "BJNR010350934BJNG006400123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 203,
+    "doknr": "BJNR010350934BJNE030500123",
+    "enbez": "§ 241",
+    "titel": "Tierbestände"
+  },
+  {
+    "index": 204,
+    "doknr": "BJNR010350934BJNG006500123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 205,
+    "doknr": "BJNR010350934BJNE030600123",
+    "enbez": "§ 242",
+    "titel": "Übrige land- und forstwirtschaftliche Nutzungen"
+  },
+  {
+    "index": 206,
+    "doknr": "BJNR010350934BJNG006600123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 207,
+    "doknr": "BJNR010350934BJNG006700123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 208,
+    "doknr": "BJNR010350934BJNE030700123",
+    "enbez": "§ 243",
+    "titel": "Begriff des Grundvermögens"
+  },
+  {
+    "index": 209,
+    "doknr": "BJNR010350934BJNE030801123",
+    "enbez": "§ 244",
+    "titel": "Grundstück"
+  },
+  {
+    "index": 210,
+    "doknr": "BJNR010350934BJNE030900123",
+    "enbez": "§ 245",
+    "titel": "Gebäude, Gebäudeteile und Anlagen für den Zivilschutz"
+  },
+  {
+    "index": 211,
+    "doknr": "BJNR010350934BJNG006800123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 212,
+    "doknr": "BJNR010350934BJNE031000123",
+    "enbez": "§ 246",
+    "titel": "Begriff der unbebauten Grundstücke"
+  },
+  {
+    "index": 213,
+    "doknr": "BJNR010350934BJNE031102123",
+    "enbez": "§ 247",
+    "titel": "Bewertung der unbebauten Grundstücke"
+  },
+  {
+    "index": 214,
+    "doknr": "BJNR010350934BJNG006900123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 215,
+    "doknr": "BJNR010350934BJNE031200123",
+    "enbez": "§ 248",
+    "titel": "Begriff der bebauten Grundstücke"
+  },
+  {
+    "index": 216,
+    "doknr": "BJNR010350934BJNE031300123",
+    "enbez": "§ 249",
+    "titel": "Grundstücksarten"
+  },
+  {
+    "index": 217,
+    "doknr": "BJNR010350934BJNE031400123",
+    "enbez": "§ 250",
+    "titel": "Bewertung der bebauten Grundstücke"
+  },
+  {
+    "index": 218,
+    "doknr": "BJNR010350934BJNE031500123",
+    "enbez": "§ 251",
+    "titel": "Mindestwert"
+  },
+  {
+    "index": 219,
+    "doknr": "BJNR010350934BJNE031600123",
+    "enbez": "§ 252",
+    "titel": "Bewertung im Ertragswertverfahren"
+  },
+  {
+    "index": 220,
+    "doknr": "BJNR010350934BJNE031701123",
+    "enbez": "§ 253",
+    "titel": "Ermittlung des kapitalisierten Reinertrags"
+  },
+  {
+    "index": 221,
+    "doknr": "BJNR010350934BJNE031800123",
+    "enbez": "§ 254",
+    "titel": "Rohertrag des Grundstücks"
+  },
+  {
+    "index": 222,
+    "doknr": "BJNR010350934BJNE031900123",
+    "enbez": "§ 255",
+    "titel": "Bewirtschaftungskosten"
+  },
+  {
+    "index": 223,
+    "doknr": "BJNR010350934BJNE032001123",
+    "enbez": "§ 256",
+    "titel": "Liegenschaftszinssätze"
+  },
+  {
+    "index": 224,
+    "doknr": "BJNR010350934BJNE032100123",
+    "enbez": "§ 257",
+    "titel": "Ermittlung des abgezinsten Bodenwerts"
+  },
+  {
+    "index": 225,
+    "doknr": "BJNR010350934BJNE032200123",
+    "enbez": "§ 258",
+    "titel": "Bewertung im Sachwertverfahren"
+  },
+  {
+    "index": 226,
+    "doknr": "BJNR010350934BJNE032301123",
+    "enbez": "§ 259",
+    "titel": "Ermittlung des Gebäudesachwerts"
+  },
+  {
+    "index": 227,
+    "doknr": "BJNR010350934BJNE032400123",
+    "enbez": "§ 260",
+    "titel": "Wertzahlen"
+  },
+  {
+    "index": 228,
+    "doknr": "BJNR010350934BJNG007000123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 229,
+    "doknr": "BJNR010350934BJNE032501123",
+    "enbez": "§ 261",
+    "titel": "Erbbaurecht"
+  },
+  {
+    "index": 230,
+    "doknr": "BJNR010350934BJNE032600123",
+    "enbez": "§ 262",
+    "titel": "Gebäude auf fremdem Grund und Boden"
+  },
+  {
+    "index": 231,
+    "doknr": "BJNR010350934BJNG007100123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 232,
+    "doknr": "BJNR010350934BJNE032701123",
+    "enbez": "§ 263",
+    "titel": "Ermächtigungen"
+  },
+  {
+    "index": 233,
+    "doknr": "BJNR010350934BJNG003702123",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 234,
+    "doknr": "BJNR010350934BJNE020803123",
+    "enbez": "§ 264",
+    "titel": "Bekanntmachung"
+  },
+  {
+    "index": 235,
+    "doknr": "BJNR010350934BJNE020919123",
+    "enbez": "§ 265",
+    "titel": "Anwendungsvorschriften"
+  },
+  {
+    "index": 236,
+    "doknr": "BJNR010350934BJNE032805123",
+    "enbez": "§ 266",
+    "titel": "Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils"
+  },
+  {
+    "index": 237,
+    "doknr": "BJNR010350934BJNE016504123",
+    "enbez": "Anlage 1 bis 8",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 238,
+    "doknr": "BJNR010350934BJNE017307140",
+    "enbez": "Anlage 9",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 239,
+    "doknr": "BJNR010350934BJNE019103301",
+    "enbez": "Anlage 9a",
+    "titel": "(zu § 13)Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro"
+  },
+  {
+    "index": 240,
+    "doknr": "BJNR010350934BJNE017405140",
+    "enbez": "(XXXX) Anlagen 10 bis 13",
+    "titel": "(weggefallen)"
+  },
+  {
+    "index": 241,
+    "doknr": "BJNR010350934BJNE026700140",
+    "enbez": "Anlage 14",
+    "titel": "(zu § 163 Abs. 3, § 164 Abs. 2 und 4)Landwirtschaftliche Nutzung"
+  },
+  {
+    "index": 242,
+    "doknr": "BJNR010350934BJNE026802123",
+    "enbez": "Anlage 15",
+    "titel": "(zu § 163 Abs. 4 und § 164 Abs. 2)Forstwirtschaftliche Nutzung"
+  },
+  {
+    "index": 243,
+    "doknr": "BJNR010350934BJNE026900140",
+    "enbez": "Anlage 15a",
+    "titel": "(zu § 164 Abs. 4)Forstwirtschaftliche Nutzung"
+  },
+  {
+    "index": 244,
+    "doknr": "BJNR010350934BJNE027000140",
+    "enbez": "Anlage 16",
+    "titel": "(zu § 163 Abs. 5 und § 164 Abs. 2 und 4)Weinbauliche Nutzung"
+  },
+  {
+    "index": 245,
+    "doknr": "BJNR010350934BJNE027100140",
+    "enbez": "Anlage 17",
+    "titel": "(zu § 163 Abs. 6 und § 164 Abs. 2 und 4)Gärtnerische Nutzung"
+  },
+  {
+    "index": 246,
+    "doknr": "BJNR010350934BJNE027200140",
+    "enbez": "Anlage 18",
+    "titel": "(zu § 163 Abs. 7 und § 164 Abs. 2 und 4)Sondernutzungen"
+  },
+  {
+    "index": 247,
+    "doknr": "BJNR010350934BJNE027301140",
+    "enbez": "Anlage 19",
+    "titel": "(zu § 169)Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf"
+  },
+  {
+    "index": 248,
+    "doknr": "BJNR010350934BJNE027400140",
+    "enbez": "Anlage 20",
+    "titel": "(zu § 169 Abs. 5)Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit"
+  },
+  {
+    "index": 249,
+    "doknr": "BJNR010350934BJNE027502123",
+    "enbez": "Anlage 21",
+    "titel": "(zu § 185 Absatz 3 Satz 1, § 193 Absatz 4 Satz 1, § 194 Absatz 5 Satz 1 und § 195 Absatz 3 Satz 1 und Absatz 7 Satz 1)Vervielfältiger"
+  },
+  {
+    "index": 250,
+    "doknr": "BJNR010350934BJNE027602123",
+    "enbez": "Anlage 22",
+    "titel": "(zu § 185 Absatz 3 Satz 3, § 190 Absatz 6 Satz 1 und 2) Gesamtnutzungsdauer"
+  },
+  {
+    "index": 251,
+    "doknr": "BJNR010350934BJNE027702123",
+    "enbez": "Anlage 23",
+    "titel": "(zu § 187 Absatz 2 und 3)Bewirtschaftungskosten"
+  },
+  {
+    "index": 252,
+    "doknr": "BJNR010350934BJNE027804123",
+    "enbez": "Anlage 24",
+    "titel": "(zu § 190 Absatz 1 Satz 3 und Absatz 2 und Anlage 23)Regelherstellungskosten"
+  },
+  {
+    "index": 253,
+    "doknr": "BJNR010350934BJNE027902123",
+    "enbez": "Anlage 25",
+    "titel": "(zu § 191 Satz 2)"
+  },
+  {
+    "index": 254,
+    "doknr": "BJNR010350934BJNE028002123",
+    "enbez": "Anlage 26",
+    "titel": "(zu § 193 Absatz 5 Satz 3, § 194 Absatz 4 Satz 1 sowie § 195 Absatz 4 Satz 3 und Absatz 6 Satz 1)Abzinsungsfaktoren"
+  },
+  {
+    "index": 255,
+    "doknr": "BJNR010350934BJNE032901123",
+    "enbez": "Anlage 27",
+    "titel": "(zu § 237 Absatz 2) Landwirtschaftliche Nutzung"
+  },
+  {
+    "index": 256,
+    "doknr": "BJNR010350934BJNE033001123",
+    "enbez": "Anlage 28",
+    "titel": "(zu § 237 Absatz 3) Forstwirtschaftliche Nutzung"
+  },
+  {
+    "index": 257,
+    "doknr": "BJNR010350934BJNE033101123",
+    "enbez": "Anlage 29",
+    "titel": "(zu § 237 Absatz 4) Weinbauliche Nutzung"
+  },
+  {
+    "index": 258,
+    "doknr": "BJNR010350934BJNE033201123",
+    "enbez": "Anlage 30",
+    "titel": "(zu § 237 Absatz 5) Gärtnerische Nutzung"
+  },
+  {
+    "index": 259,
+    "doknr": "BJNR010350934BJNE033302123",
+    "enbez": "Anlage 31",
+    "titel": "(zu § 237 Absatz 6 und 7) Übrige land- und forstwirtschaftliche Nutzungen sowie Abbauland, Geringstland und Unland"
+  },
+  {
+    "index": 260,
+    "doknr": "BJNR010350934BJNE033401123",
+    "enbez": "Anlage 32",
+    "titel": "(zu § 237 Absatz 8) Nutzungsart Hofstelle"
+  },
+  {
+    "index": 261,
+    "doknr": "BJNR010350934BJNE033501123",
+    "enbez": "Anlage 33",
+    "titel": "(zu § 238 Absatz 2) Weitere den Ertragswert erhöhende Umstände"
+  },
+  {
+    "index": 262,
+    "doknr": "BJNR010350934BJNE033600123",
+    "enbez": "Anlage 34",
+    "titel": "(zu § 241 Absatz 5) Umrechnungsschlüssel für Tierbestände in Vieheinheiten (VE) nach dem Futterbedarf"
+  },
+  {
+    "index": 263,
+    "doknr": "BJNR010350934BJNE033700123",
+    "enbez": "Anlage 35",
+    "titel": "(zu § 241 Absatz 5) Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit"
+  },
+  {
+    "index": 264,
+    "doknr": "BJNR010350934BJNE033800123",
+    "enbez": "Anlage 36",
+    "titel": "(zu den §§ 251 und 257 Absatz 1) Umrechnungskoeffizienten zur Berücksichtigung abweichender Grundstücksgrößen beim Bodenwert von Ein- und Zweifamilienhäusern"
+  },
+  {
+    "index": 265,
+    "doknr": "BJNR010350934BJNE033900123",
+    "enbez": "Anlage 37",
+    "titel": "(zu § 253 Absatz 2) Vervielfältiger"
+  },
+  {
+    "index": 266,
+    "doknr": "BJNR010350934BJNE034000123",
+    "enbez": "Anlage 38",
+    "titel": "(zu § 253 Absatz 2 und § 259 Absatz 4) Wirtschaftliche Gesamtnutzungsdauer"
+  },
+  {
+    "index": 267,
+    "doknr": "BJNR010350934BJNE034102123",
+    "enbez": "Anlage 39",
+    "titel": "(zu § 254) Ermittlung des Rohertrags"
+  },
+  {
+    "index": 268,
+    "doknr": "BJNR010350934BJNE034201123",
+    "enbez": "Anlage 40",
+    "titel": "(zu § 255)  Bewirtschaftungskosten"
+  },
+  {
+    "index": 269,
+    "doknr": "BJNR010350934BJNE034300123",
+    "enbez": "Anlage 41",
+    "titel": "(zu § 257 Absatz 2) Abzinsungsfaktoren"
+  },
+  {
+    "index": 270,
+    "doknr": "BJNR010350934BJNE034400123",
+    "enbez": "Anlage 42",
+    "titel": "(zu § 259 Absatz 1)  Normalherstellungskosten"
+  },
+  {
+    "index": 271,
+    "doknr": "BJNR010350934BJNE034501123",
+    "enbez": "Anlage 43",
+    "titel": "(zu § 260) Wertzahlen  für Teileigentum, Geschäftsgrundstücke, gemischt genutzte Grundstücke und sonstige bebaute Grundstücke nach § 249 Absatz 1 Nummer 5 bis 8"
+  }
+]

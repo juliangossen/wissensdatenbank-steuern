@@ -1,0 +1,646 @@
+{
+  "kuerzel": "BattDG",
+  "datum": "2026-09-09",
+  "methode": "Normweise Vergleich aller Überschriften, Texte und Fußnoten einschließlich aus XML-Attributen rekonstruierter Fußnotenmarker; NFC und Entfernung nur von Whitespace, PDF-Servicezeilen und Seitenzählern. Abweichungen einzeln dokumentiert.",
+  "normdatensaetze": 90,
+  "exakt_identisch": 90,
+  "abweichend": 0,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "technische_xml_praefixe": {
+    "regel": "Nur das GII-interne Kennzeichen (XXXX) vor enbez wird beim PDF-Vergleich entfernt. Die Vorschrift und ihr Wegfallhinweis bleiben erhalten.",
+    "anzahl": 0
+  },
+  "pdf_leertext_platzhalter": [],
+  "normen": [
+    {
+      "norm_index": 0,
+      "name": "Gesetzeskopf",
+      "pdf_zeichen": 217,
+      "xml_zeichen": 217,
+      "identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_zeichen": 3654,
+      "xml_zeichen": 3654,
+      "identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Teil 1Allgemeine Vorschriften",
+      "pdf_zeichen": 27,
+      "xml_zeichen": 27,
+      "identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_zeichen": 167,
+      "xml_zeichen": 167,
+      "identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 2",
+      "pdf_zeichen": 1045,
+      "xml_zeichen": 1045,
+      "identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3",
+      "pdf_zeichen": 2375,
+      "xml_zeichen": 2375,
+      "identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "Teil 2Bewirtschaftung von Altbatterien",
+      "pdf_zeichen": 35,
+      "xml_zeichen": 35,
+      "identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "Kapitel 1Vertrieb von Batterien",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 4",
+      "pdf_zeichen": 989,
+      "xml_zeichen": 989,
+      "identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 5",
+      "pdf_zeichen": 2115,
+      "xml_zeichen": 2115,
+      "identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "Kapitel 2Rücknahme von Altbatterien",
+      "pdf_zeichen": 32,
+      "xml_zeichen": 32,
+      "identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "Abschnitt 1Pflichten des Endnutzers",
+      "pdf_zeichen": 32,
+      "xml_zeichen": 32,
+      "identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 6",
+      "pdf_zeichen": 1150,
+      "xml_zeichen": 1150,
+      "identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "Abschnitt 2Organisationen für Herstellerverantwortung",
+      "pdf_zeichen": 50,
+      "xml_zeichen": 50,
+      "identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 7",
+      "pdf_zeichen": 1463,
+      "xml_zeichen": 1463,
+      "identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 8",
+      "pdf_zeichen": 6609,
+      "xml_zeichen": 6609,
+      "identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 9",
+      "pdf_zeichen": 2863,
+      "xml_zeichen": 2863,
+      "identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 10",
+      "pdf_zeichen": 1451,
+      "xml_zeichen": 1451,
+      "identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 11",
+      "pdf_zeichen": 4706,
+      "xml_zeichen": 4706,
+      "identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 12",
+      "pdf_zeichen": 1718,
+      "xml_zeichen": 1718,
+      "identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "Abschnitt 3Rücknahme von Gerätealtbatterien und LV-Altbatterien",
+      "pdf_zeichen": 58,
+      "xml_zeichen": 58,
+      "identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 13",
+      "pdf_zeichen": 2758,
+      "xml_zeichen": 2758,
+      "identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 14",
+      "pdf_zeichen": 1702,
+      "xml_zeichen": 1702,
+      "identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 15",
+      "pdf_zeichen": 1009,
+      "xml_zeichen": 1009,
+      "identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 16",
+      "pdf_zeichen": 960,
+      "xml_zeichen": 960,
+      "identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 17",
+      "pdf_zeichen": 1147,
+      "xml_zeichen": 1147,
+      "identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "Abschnitt 4Rücknahme von Starter-, Industrie- und Elektrofahrzeugbatterien",
+      "pdf_zeichen": 68,
+      "xml_zeichen": 68,
+      "identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 18",
+      "pdf_zeichen": 1547,
+      "xml_zeichen": 1547,
+      "identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 19",
+      "pdf_zeichen": 1181,
+      "xml_zeichen": 1181,
+      "identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 20",
+      "pdf_zeichen": 1031,
+      "xml_zeichen": 1031,
+      "identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 21",
+      "pdf_zeichen": 1354,
+      "xml_zeichen": 1354,
+      "identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 22",
+      "pdf_zeichen": 1251,
+      "xml_zeichen": 1251,
+      "identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "Kapitel 3Behandlungspflichten",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 23",
+      "pdf_zeichen": 356,
+      "xml_zeichen": 356,
+      "identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "Kapitel 4Informationspflichten",
+      "pdf_zeichen": 29,
+      "xml_zeichen": 29,
+      "identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 24",
+      "pdf_zeichen": 1352,
+      "xml_zeichen": 1352,
+      "identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 25",
+      "pdf_zeichen": 2013,
+      "xml_zeichen": 2013,
+      "identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "Kapitel 5Mitteilungspflichten",
+      "pdf_zeichen": 28,
+      "xml_zeichen": 28,
+      "identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 26",
+      "pdf_zeichen": 3190,
+      "xml_zeichen": 3190,
+      "identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 27",
+      "pdf_zeichen": 1120,
+      "xml_zeichen": 1120,
+      "identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 28",
+      "pdf_zeichen": 1062,
+      "xml_zeichen": 1062,
+      "identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§ 29",
+      "pdf_zeichen": 1544,
+      "xml_zeichen": 1544,
+      "identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "Kapitel 6Aufgaben und Befugnisse der zuständigen Behörden",
+      "pdf_zeichen": 51,
+      "xml_zeichen": 51,
+      "identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "Abschnitt 1Zuständige Behörde nach Kapitel VIII der Verordnung (EU) 2023/1542",
+      "pdf_zeichen": 68,
+      "xml_zeichen": 68,
+      "identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 30",
+      "pdf_zeichen": 169,
+      "xml_zeichen": 169,
+      "identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 31",
+      "pdf_zeichen": 5471,
+      "xml_zeichen": 5471,
+      "identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "§ 32",
+      "pdf_zeichen": 3730,
+      "xml_zeichen": 3730,
+      "identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 33",
+      "pdf_zeichen": 2546,
+      "xml_zeichen": 2546,
+      "identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 34",
+      "pdf_zeichen": 306,
+      "xml_zeichen": 306,
+      "identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "Abschnitt 2Altbatteriekommission",
+      "pdf_zeichen": 31,
+      "xml_zeichen": 31,
+      "identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "§ 35",
+      "pdf_zeichen": 1885,
+      "xml_zeichen": 1885,
+      "identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 36",
+      "pdf_zeichen": 1052,
+      "xml_zeichen": 1052,
+      "identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "Abschnitt 3Beleihung",
+      "pdf_zeichen": 19,
+      "xml_zeichen": 19,
+      "identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 37",
+      "pdf_zeichen": 1851,
+      "xml_zeichen": 1851,
+      "identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "§ 38",
+      "pdf_zeichen": 553,
+      "xml_zeichen": 553,
+      "identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 39",
+      "pdf_zeichen": 646,
+      "xml_zeichen": 646,
+      "identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "Kapitel 7Beauftragung Dritter, Vollzug",
+      "pdf_zeichen": 35,
+      "xml_zeichen": 35,
+      "identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 40",
+      "pdf_zeichen": 903,
+      "xml_zeichen": 903,
+      "identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "§ 41",
+      "pdf_zeichen": 571,
+      "xml_zeichen": 571,
+      "identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "Teil 3Beteiligung von Bundesbehörden an Verfahren zur Änderung von Beschränkungen für Stoffe",
+      "pdf_zeichen": 81,
+      "xml_zeichen": 81,
+      "identisch": true
+    },
+    {
+      "norm_index": 60,
+      "name": "§ 42",
+      "pdf_zeichen": 3770,
+      "xml_zeichen": 3770,
+      "identisch": true
+    },
+    {
+      "norm_index": 61,
+      "name": "Teil 4Konformitätsbewertung",
+      "pdf_zeichen": 26,
+      "xml_zeichen": 26,
+      "identisch": true
+    },
+    {
+      "norm_index": 62,
+      "name": "Kapitel 1Bestimmungen über die notifizierende Behörde",
+      "pdf_zeichen": 48,
+      "xml_zeichen": 48,
+      "identisch": true
+    },
+    {
+      "norm_index": 63,
+      "name": "§ 43",
+      "pdf_zeichen": 245,
+      "xml_zeichen": 245,
+      "identisch": true
+    },
+    {
+      "norm_index": 64,
+      "name": "§ 44",
+      "pdf_zeichen": 533,
+      "xml_zeichen": 533,
+      "identisch": true
+    },
+    {
+      "norm_index": 65,
+      "name": "§ 45",
+      "pdf_zeichen": 2816,
+      "xml_zeichen": 2816,
+      "identisch": true
+    },
+    {
+      "norm_index": 66,
+      "name": "Kapitel 2Notifizierungsverfahren",
+      "pdf_zeichen": 31,
+      "xml_zeichen": 31,
+      "identisch": true
+    },
+    {
+      "norm_index": 67,
+      "name": "§ 46",
+      "pdf_zeichen": 1363,
+      "xml_zeichen": 1363,
+      "identisch": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 47",
+      "pdf_zeichen": 542,
+      "xml_zeichen": 542,
+      "identisch": true
+    },
+    {
+      "norm_index": 69,
+      "name": "§ 48",
+      "pdf_zeichen": 842,
+      "xml_zeichen": 842,
+      "identisch": true
+    },
+    {
+      "norm_index": 70,
+      "name": "Kapitel 3Überwachung",
+      "pdf_zeichen": 19,
+      "xml_zeichen": 19,
+      "identisch": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 49",
+      "pdf_zeichen": 265,
+      "xml_zeichen": 265,
+      "identisch": true
+    },
+    {
+      "norm_index": 72,
+      "name": "§ 50",
+      "pdf_zeichen": 1496,
+      "xml_zeichen": 1496,
+      "identisch": true
+    },
+    {
+      "norm_index": 73,
+      "name": "§ 51",
+      "pdf_zeichen": 339,
+      "xml_zeichen": 339,
+      "identisch": true
+    },
+    {
+      "norm_index": 74,
+      "name": "Teil 5Sorgfaltspflichten in der Lieferkette",
+      "pdf_zeichen": 39,
+      "xml_zeichen": 39,
+      "identisch": true
+    },
+    {
+      "norm_index": 75,
+      "name": "§ 52",
+      "pdf_zeichen": 387,
+      "xml_zeichen": 387,
+      "identisch": true
+    },
+    {
+      "norm_index": 76,
+      "name": "§ 53",
+      "pdf_zeichen": 2947,
+      "xml_zeichen": 2947,
+      "identisch": true
+    },
+    {
+      "norm_index": 77,
+      "name": "§ 54",
+      "pdf_zeichen": 860,
+      "xml_zeichen": 860,
+      "identisch": true
+    },
+    {
+      "norm_index": 78,
+      "name": "§ 55",
+      "pdf_zeichen": 614,
+      "xml_zeichen": 614,
+      "identisch": true
+    },
+    {
+      "norm_index": 79,
+      "name": "§ 56",
+      "pdf_zeichen": 2240,
+      "xml_zeichen": 2240,
+      "identisch": true
+    },
+    {
+      "norm_index": 80,
+      "name": "§ 57",
+      "pdf_zeichen": 916,
+      "xml_zeichen": 916,
+      "identisch": true
+    },
+    {
+      "norm_index": 81,
+      "name": "§ 58",
+      "pdf_zeichen": 189,
+      "xml_zeichen": 189,
+      "identisch": true
+    },
+    {
+      "norm_index": 82,
+      "name": "Teil 6Ermächtigung zum Erlass von Rechtsverordnungen",
+      "pdf_zeichen": 47,
+      "xml_zeichen": 47,
+      "identisch": true
+    },
+    {
+      "norm_index": 83,
+      "name": "§ 59",
+      "pdf_zeichen": 1029,
+      "xml_zeichen": 1029,
+      "identisch": true
+    },
+    {
+      "norm_index": 84,
+      "name": "Teil 7Bußgeldvorschriften, Schlussbestimmungen",
+      "pdf_zeichen": 44,
+      "xml_zeichen": 44,
+      "identisch": true
+    },
+    {
+      "norm_index": 85,
+      "name": "§ 60",
+      "pdf_zeichen": 6715,
+      "xml_zeichen": 6715,
+      "identisch": true
+    },
+    {
+      "norm_index": 86,
+      "name": "§ 61",
+      "pdf_zeichen": 618,
+      "xml_zeichen": 618,
+      "identisch": true
+    },
+    {
+      "norm_index": 87,
+      "name": "§ 62",
+      "pdf_zeichen": 279,
+      "xml_zeichen": 279,
+      "identisch": true
+    },
+    {
+      "norm_index": 88,
+      "name": "§ 63",
+      "pdf_zeichen": 824,
+      "xml_zeichen": 824,
+      "identisch": true
+    },
+    {
+      "norm_index": 89,
+      "name": "§ 64",
+      "pdf_zeichen": 4679,
+      "xml_zeichen": 4679,
+      "identisch": true
+    }
+  ]
+}

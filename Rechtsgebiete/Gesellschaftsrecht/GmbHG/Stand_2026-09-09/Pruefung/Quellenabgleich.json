@@ -1,0 +1,58 @@
+{
+  "kuerzel": "GmbHG",
+  "abgleichdatum": "2026-09-09",
+  "quelle_url": "https://www.gesetze-im-internet.de/gmbhg/",
+  "pdf_url": "https://www.gesetze-im-internet.de/gmbhg/GmbHG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/gmbhg/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+  "original_dateiname": "GmbHG.pdf",
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "pdf_seiten": 36,
+  "dateien": [
+    {
+      "datei": "Quellen/Dateianlagen/bgbl1_2021_j3364_0010_Seite_1.png",
+      "sha256": "4f9b32f00406798d1c329ec2dec439fc1b417731e231dd50fb9a5468a51d6cd5"
+    },
+    {
+      "datei": "Quellen/Dateianlagen/bgbl1_2021_j3364_0010_Seite_2.png",
+      "sha256": "f1183709fec5dfb265f645ba63ed42262773217e175bb21bd90c8b56280f1cae"
+    },
+    {
+      "datei": "Quellen/Dateianlagen/bgbl1_2021_j3364_0010_Text.txt",
+      "sha256": "9e8c7ed5aac3f6e6453c5046850071dfadf6ac0edb17274eb8252f631ef35429"
+    },
+    {
+      "datei": "Quellen/Gesamtausgabe.html",
+      "sha256": "1de71e07d94b3187f551e32d039a594ca0a6d7ec1525438331b583d39d867c2a"
+    },
+    {
+      "datei": "Quellen/GmbHG_aktuell.pdf",
+      "sha256": "81fba1a18a253e6da28f99cfde7d311511a162576082d7ee4e59683c40f127f8"
+    },
+    {
+      "datei": "Quellen/GmbHG_bereitgestellt.pdf",
+      "sha256": "81fba1a18a253e6da28f99cfde7d311511a162576082d7ee4e59683c40f127f8"
+    },
+    {
+      "datei": "Quellen/GmbHG_PDF_Rohtext.txt",
+      "sha256": "773b8c0085e4de2c9a24273e7228686ea511421f4542ff95cc7a7921a1b79db4"
+    },
+    {
+      "datei": "Quellen/index.html",
+      "sha256": "12ab0073718fbd2400661636b36b06511dae46bce7a1b9dd095a8a3f6be7857c"
+    },
+    {
+      "datei": "Quellen/XML/bgbl1_2021_j3364_0010.pdf",
+      "sha256": "37334a664f4e5262d91486a15625a735a11be7d068d6904b56648d65038cac8a"
+    },
+    {
+      "datei": "Quellen/XML/BJNR004770892.xml",
+      "sha256": "7edd80dab48bb8e08c548b856d04e9225d7e75af36b986994898857be853681f"
+    },
+    {
+      "datei": "Quellen/xml.zip",
+      "sha256": "df2deac8fcbf049c3732199d4b904b82bce5f884cef90a8a642ac23940f93515"
+    }
+  ]
+}

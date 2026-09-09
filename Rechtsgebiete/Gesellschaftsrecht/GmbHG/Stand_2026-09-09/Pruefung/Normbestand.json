@@ -1,0 +1,1110 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR004770892",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "60099facfca95eb5ce32ada69c7a509561d768d5900c9eee99e2ec3c48e836a3"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR004770892BJNE014806360",
+    "enbez": "Inhaltsübersicht",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "17ece04638eb1a56b5dcac52c3e36ecdf31ad5e74a5cd3d99c3c0382d389706f"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR004770892BJNG000201140",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010",
+      "gliederungsbez": "Abschnitt 1",
+      "gliederungstitel": "Errichtung der Gesellschaft"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR004770892BJNE000301140",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Zweck; Gründerzahl",
+    "sha256_xml_text": "5b6a290b47997c14d0019e21244fd9d2d5109193aca9ec365511074ff394aa1f"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR004770892BJNE000404360",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Form des Gesellschaftsvertrags",
+    "sha256_xml_text": "f0d90b96bd89136f03a9f82694440eb002b2fcee0a329320a23c557418b4e810"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR004770892BJNE000501140",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Inhalt des Gesellschaftsvertrags",
+    "sha256_xml_text": "726e42944816013f39564d35b994edd3b654648b568b818711b6f6092cdd836a"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR004770892BJNE000603308",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Firma",
+    "sha256_xml_text": "a737e0c608a10a425a9227a58e5d2add0201626b0c67d64cf17cadabbefb42f3"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR004770892BJNE014601140",
+    "enbez": "§ 4a",
+    "gliederung": null,
+    "titel": "Sitz der Gesellschaft",
+    "sha256_xml_text": "7dddd5a199c60a219c98ec53b6af0f0b604229bc2ca959bece76f645b3e90d5c"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR004770892BJNE000702140",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Stammkapital; Geschäftsanteil",
+    "sha256_xml_text": "9b316bba5ecb935733053e6032682f62d3ddcf2a854f92f20b13b9db9f9d9320"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR004770892BJNE014900140",
+    "enbez": "§ 5a",
+    "gliederung": null,
+    "titel": "Unternehmergesellschaft",
+    "sha256_xml_text": "f2818c19d88645b1b15e1b54f3ae7a4f40abe8e4dbf473115101821aee7d1216"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR004770892BJNE000806360",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Geschäftsführer",
+    "sha256_xml_text": "cc509548549f880f813835171ef2ab91ae8ea11b1c5ab8a81304198e63a69ad5"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR004770892BJNE009302140",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Anmeldung der Gesellschaft",
+    "sha256_xml_text": "4a5e48c82e815ccb7f1bdf86ae2e6df5cabe26198fd5aac4183ce8a4d84499a9"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR004770892BJNE009406360",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Inhalt der Anmeldung",
+    "sha256_xml_text": "6c79933c76b8061acea7ddf1464fd720f86ee1b506a91381de5c8867a17205f7"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR004770892BJNE009502140",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": "Überbewertung der Sacheinlagen",
+    "sha256_xml_text": "bd2d74fc789990ac300fcd3216ae8b7cff3c9ce532409146ec80505ed19ead3f"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR004770892BJNE009601140",
+    "enbez": "§ 9a",
+    "gliederung": null,
+    "titel": "Ersatzansprüche der Gesellschaft",
+    "sha256_xml_text": "c8e388790f90090cfab0991bb7eef061747c43c1d4e5134002e63ecfb438f54b"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR004770892BJNE009702140",
+    "enbez": "§ 9b",
+    "gliederung": null,
+    "titel": "Verzicht auf Ersatzansprüche",
+    "sha256_xml_text": "b077dd51fdae6c2f46fdc85e73edc0186da145cbb1b891515c80dfb6c82d39a3"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR004770892BJNE009802140",
+    "enbez": "§ 9c",
+    "gliederung": null,
+    "titel": "Ablehnung der Eintragung",
+    "sha256_xml_text": "725fbf83593899fe5ca0c0738faa2f70e8e73d70984395ccfe3e9249abeb2d8a"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR004770892BJNE001203140",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Inhalt der Eintragung",
+    "sha256_xml_text": "5b839ef87ab0736ec994c7a2d1f0cc89fa4444d66781960ef9b1e8375e5cc7ca"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR004770892BJNE001301140",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Rechtszustand vor der Eintragung",
+    "sha256_xml_text": "80f984d9d9a6aa429d3bb80d82e87ee171074cb27082bdb43d5f216bf35efeed"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR004770892BJNE001404360",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Bekanntmachungen der Gesellschaft",
+    "sha256_xml_text": "01fb8648e804e62cc43e633952fae4b5a2111b0213aa22d27a1fbb67daff5047"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR004770892BJNG001501140",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020",
+      "gliederungsbez": "Abschnitt 2",
+      "gliederungstitel": "Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR004770892BJNE001601140",
+    "enbez": "§ 13",
+    "gliederung": null,
+    "titel": "Juristische Person; Handelsgesellschaft",
+    "sha256_xml_text": "1c5dc328f530f69f6bcd31dc55240c74e087fcedb40120300f87082c08adf9e7"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR004770892BJNE001701140",
+    "enbez": "§ 14",
+    "gliederung": null,
+    "titel": "Einlagepflicht",
+    "sha256_xml_text": "0c41c1a9c4c80912f477861a103a32fdf47dfd262520362b852f96b46036a4c0"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR004770892BJNE001801140",
+    "enbez": "§ 15",
+    "gliederung": null,
+    "titel": "Übertragung von Geschäftsanteilen",
+    "sha256_xml_text": "2c791cd72b95c79387d840c2dd60c51724b124eae784acd330aed0f7125ac63d"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR004770892BJNE001901140",
+    "enbez": "§ 16",
+    "gliederung": null,
+    "titel": "Rechtsstellung bei Wechsel der Gesellschafter oder Veränderung des Umfangs ihrer Beteiligung; Erwerb vom Nichtberechtigten",
+    "sha256_xml_text": "19db11255dbe470dda195865a3d11f0a3ad4f2c343007e4edf9e3caee41f1448"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR004770892BJNE002001140",
+    "enbez": "§ 17",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR004770892BJNE002101140",
+    "enbez": "§ 18",
+    "gliederung": null,
+    "titel": "Mitberechtigung am Geschäftsanteil",
+    "sha256_xml_text": "ff2cde5f780a6664f6f572000dc2367c727c1d0ae08b0e6ba2bb69c58d7f0b89"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR004770892BJNE009903140",
+    "enbez": "§ 19",
+    "gliederung": null,
+    "titel": "Leistung der Einlagen",
+    "sha256_xml_text": "70cc8a16fcdc2fff22b5c015a54620f953caa6a70e257b87ecf19b4952a8f0cb"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR004770892BJNE002301140",
+    "enbez": "§ 20",
+    "gliederung": null,
+    "titel": "Verzugszinsen",
+    "sha256_xml_text": "7e0126fa20cc68a1df90ae8dd49c0247782c0a3761a48adfca60283229b17bfe"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR004770892BJNE002401140",
+    "enbez": "§ 21",
+    "gliederung": null,
+    "titel": "Kaduzierung",
+    "sha256_xml_text": "3beedb4ee356e0fd91114ed39f70c6448eddd437d2ce992be0a3012e9d9a1512"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR004770892BJNE002501140",
+    "enbez": "§ 22",
+    "gliederung": null,
+    "titel": "Haftung der Rechtsvorgänger",
+    "sha256_xml_text": "a8a9582271feba21af879f4d0f3c052031061c450c801d5bf63f7c160a890655"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR004770892BJNE002602125",
+    "enbez": "§ 23",
+    "gliederung": null,
+    "titel": "Versteigerung des Geschäftsanteils",
+    "sha256_xml_text": "0dd9077e1cc8f374dcb1a5baef256444102e40f0bc43707eef73ca735d98bf33"
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR004770892BJNE002701140",
+    "enbez": "§ 24",
+    "gliederung": null,
+    "titel": "Aufbringung von Fehlbeträgen",
+    "sha256_xml_text": "3d2b6261772a055bbce2c5cc1825bdc0598f9c8b045f1b2f1c386d786a39a61e"
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR004770892BJNE002801140",
+    "enbez": "§ 25",
+    "gliederung": null,
+    "titel": "Zwingende Vorschriften",
+    "sha256_xml_text": "8b5c951f5af9d600415f64f01d0fe77d06139f8ed6b37265c8a961f2c4e3989c"
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR004770892BJNE002901140",
+    "enbez": "§ 26",
+    "gliederung": null,
+    "titel": "Nachschusspflicht",
+    "sha256_xml_text": "f88a095ed546cca81a72c56c85808896c207ea4373e19e84c5f60e1d9da10e9e"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR004770892BJNE003001140",
+    "enbez": "§ 27",
+    "gliederung": null,
+    "titel": "Unbeschränkte Nachschusspflicht",
+    "sha256_xml_text": "522e502a55c13da62ebf357ce8beed0688b5e273d4184b63e29b5fec9442bdfe"
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR004770892BJNE003101140",
+    "enbez": "§ 28",
+    "gliederung": null,
+    "titel": "Beschränkte Nachschusspflicht",
+    "sha256_xml_text": "535d6a6c86a3bd97af6fdd9fec8865661079da1e352676b2ad7a3d4b6de68861"
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR004770892BJNE010002360",
+    "enbez": "§ 29",
+    "gliederung": null,
+    "titel": "Ergebnisverwendung",
+    "sha256_xml_text": "d7823a495aa38c76c3a24bdeba890782461c45f3988bf226ce9a14356f622a3f"
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR004770892BJNE003302140",
+    "enbez": "§ 30",
+    "gliederung": null,
+    "titel": "Kapitalerhaltung",
+    "sha256_xml_text": "211ebe64745412f996570ce4634f837a05045f0a5efeb5455a249360ea7c82a8"
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR004770892BJNE003402140",
+    "enbez": "§ 31",
+    "gliederung": null,
+    "titel": "Erstattung verbotener Rückzahlungen",
+    "sha256_xml_text": "61425ff9f3c5debf47772e1ccb2ae230ea79b9844feda263408c84179be296aa"
+  },
+  {
+    "index": 40,
+    "doknr": "BJNR004770892BJNE003501140",
+    "enbez": "§ 32",
+    "gliederung": null,
+    "titel": "Rückzahlung von Gewinn",
+    "sha256_xml_text": "46d1ac1ef9fff7ff73e646b03a616d974d644b9087f51a1fa44207ff9de74504"
+  },
+  {
+    "index": 41,
+    "doknr": "BJNR004770892BJNE010107140",
+    "enbez": "§ 32a",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 42,
+    "doknr": "BJNR004770892BJNE010202140",
+    "enbez": "§ 32b",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 43,
+    "doknr": "BJNR004770892BJNE010305360",
+    "enbez": "§ 33",
+    "gliederung": null,
+    "titel": "Erwerb eigener Geschäftsanteile",
+    "sha256_xml_text": "7d7a70902cfb4af18391668f876b7bc5fa1e313069288c7fb7adde8d14c48180"
+  },
+  {
+    "index": 44,
+    "doknr": "BJNR004770892BJNE003701140",
+    "enbez": "§ 34",
+    "gliederung": null,
+    "titel": "Einziehung von Geschäftsanteilen",
+    "sha256_xml_text": "3e3d0b72914928a7c54b14f1aa03ad6afc399c8517caac27ea9827f663fc058a"
+  },
+  {
+    "index": 45,
+    "doknr": "BJNR004770892BJNG003801140",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030",
+      "gliederungsbez": "Abschnitt 3",
+      "gliederungstitel": "Vertretung und Geschäftsführung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 46,
+    "doknr": "BJNR004770892BJNE003902140",
+    "enbez": "§ 35",
+    "gliederung": null,
+    "titel": "Vertretung der Gesellschaft",
+    "sha256_xml_text": "f70e3ba8d44ef91d3f048aa3f5e4afe287531d5909f1166ec393dfbbf7b58537"
+  },
+  {
+    "index": 47,
+    "doknr": "BJNR004770892BJNE004003140",
+    "enbez": "§ 35a",
+    "gliederung": null,
+    "titel": "Angaben auf Geschäftsbriefen",
+    "sha256_xml_text": "f0b7fefd59914f216c1df24ce87205f729cebd8d082bb423b5a68af511d35036"
+  },
+  {
+    "index": 48,
+    "doknr": "BJNR004770892BJNE004103360",
+    "enbez": "§ 36",
+    "gliederung": null,
+    "titel": "Zielgrößen und Fristen zur gleichberechtigten Teilhabe von Frauen und Männern",
+    "sha256_xml_text": "0c4ca08323c983579c2d633a7d0c9b72febcd170b849f2335988a7ccdacbcee1"
+  },
+  {
+    "index": 49,
+    "doknr": "BJNR004770892BJNE004201140",
+    "enbez": "§ 37",
+    "gliederung": null,
+    "titel": "Beschränkungen der Vertretungsbefugnis",
+    "sha256_xml_text": "b3d1a9a64aef3a39048a257509eed1ef8bc1ba42e973175c36e34f46e1359b17"
+  },
+  {
+    "index": 50,
+    "doknr": "BJNR004770892BJNE004302360",
+    "enbez": "§ 38",
+    "gliederung": null,
+    "titel": "Widerruf der Bestellung",
+    "sha256_xml_text": "abd373d59601607ca0c1df42bd9e5af556cda5c1a5a894ba42cc2bb461f2b5fe"
+  },
+  {
+    "index": 51,
+    "doknr": "BJNR004770892BJNE004404360",
+    "enbez": "§ 39",
+    "gliederung": null,
+    "titel": "Anmeldung der Geschäftsführer",
+    "sha256_xml_text": "f358403aeaa8da656ce9760b714d4b32c9cfe26b5504f47c401dfde4a5ee6f91"
+  },
+  {
+    "index": 52,
+    "doknr": "BJNR004770892BJNE004506360",
+    "enbez": "§ 40",
+    "gliederung": null,
+    "titel": "Liste der Gesellschafter, Verordnungsermächtigung",
+    "sha256_xml_text": "53d03ec1412a22a930336cacc7e9d52a02bd3fb20ab99ff4f4cef628ce540084"
+  },
+  {
+    "index": 53,
+    "doknr": "BJNR004770892BJNE004601140",
+    "enbez": "§ 41",
+    "gliederung": null,
+    "titel": "Buchführung",
+    "sha256_xml_text": "444cd8e4099ba892258f703b10bf185d076b154dd05292cae56af3fc8fb01775"
+  },
+  {
+    "index": 54,
+    "doknr": "BJNR004770892BJNE010401140",
+    "enbez": "§ 42",
+    "gliederung": null,
+    "titel": "Bilanz",
+    "sha256_xml_text": "5359ca39a03dbb690a9963119177ac96e0d7d9de340f75a4bf62a8bc46679582"
+  },
+  {
+    "index": 55,
+    "doknr": "BJNR004770892BJNE010503140",
+    "enbez": "§ 42a",
+    "gliederung": null,
+    "titel": "Vorlage des Jahresabschlusses und des Lageberichts",
+    "sha256_xml_text": "bf087efc37799c6d99afd98d08a62bed5d52ede7509ea1981ddad362ad76ef38"
+  },
+  {
+    "index": 56,
+    "doknr": "BJNR004770892BJNE004901140",
+    "enbez": "§ 43",
+    "gliederung": null,
+    "titel": "Haftung der Geschäftsführer",
+    "sha256_xml_text": "fe21bee2240758632b67fdda400abf569daa07f74fbeb6c71962e86eab82d71e"
+  },
+  {
+    "index": 57,
+    "doknr": "BJNR004770892BJNE010601140",
+    "enbez": "§ 43a",
+    "gliederung": null,
+    "titel": "Kreditgewährung aus Gesellschaftsvermögen",
+    "sha256_xml_text": "a798aec7142bcfe5d6e065109dd3a1432e9a4f97658a8b47c3ab1894a472af90"
+  },
+  {
+    "index": 58,
+    "doknr": "BJNR004770892BJNE005001140",
+    "enbez": "§ 44",
+    "gliederung": null,
+    "titel": "Stellvertreter von Geschäftsführern",
+    "sha256_xml_text": "07e1cae9fca473e2ba050db307bcd8079dff28f766de06849940b87e7e54d8da"
+  },
+  {
+    "index": 59,
+    "doknr": "BJNR004770892BJNE005101140",
+    "enbez": "§ 45",
+    "gliederung": null,
+    "titel": "Rechte der Gesellschafter",
+    "sha256_xml_text": "6a2b792874aaf99bb40c8e3dcad954936f1f305a204c7ff084698410d26d2a4e"
+  },
+  {
+    "index": 60,
+    "doknr": "BJNR004770892BJNE005202140",
+    "enbez": "§ 46",
+    "gliederung": null,
+    "titel": "Aufgabenkreis der Gesellschafter",
+    "sha256_xml_text": "42ba0afb3983d71b7e6aa29a576591fe1ae27640cc19c665611a3e80d8bd1bfb"
+  },
+  {
+    "index": 61,
+    "doknr": "BJNR004770892BJNE005303140",
+    "enbez": "§ 47",
+    "gliederung": null,
+    "titel": "Abstimmung",
+    "sha256_xml_text": "73090a6961723aea61658d27594e47b6351a99b8a789831fc011cf76a0d5b756"
+  },
+  {
+    "index": 62,
+    "doknr": "BJNR004770892BJNE005404125",
+    "enbez": "§ 48",
+    "gliederung": null,
+    "titel": "Gesellschafterversammlung",
+    "sha256_xml_text": "4592e960de940f8b283b4fd93cb67716311569978c629b67c85f1dfd34a43ed3"
+  },
+  {
+    "index": 63,
+    "doknr": "BJNR004770892BJNE005501140",
+    "enbez": "§ 49",
+    "gliederung": null,
+    "titel": "Einberufung der Versammlung",
+    "sha256_xml_text": "94be5ecb91dad67e3110972d2d2c0f4bb0fa681949767e1b6d48fc5a23deb18f"
+  },
+  {
+    "index": 64,
+    "doknr": "BJNR004770892BJNE005601140",
+    "enbez": "§ 50",
+    "gliederung": null,
+    "titel": "Minderheitsrechte",
+    "sha256_xml_text": "023de20e604d6d881793299fdb272959d97f499e744220d3169ea751d0860c0c"
+  },
+  {
+    "index": 65,
+    "doknr": "BJNR004770892BJNE005701140",
+    "enbez": "§ 51",
+    "gliederung": null,
+    "titel": "Form der Einberufung",
+    "sha256_xml_text": "b05409ff36243165de6b8fdffd1788470ad0ab7815bfc2a0fbdcd9e538ee4d5a"
+  },
+  {
+    "index": 66,
+    "doknr": "BJNR004770892BJNE010701140",
+    "enbez": "§ 51a",
+    "gliederung": null,
+    "titel": "Auskunfts- und Einsichtsrecht",
+    "sha256_xml_text": "8624f2415398a213876b4742126ee026199a242007973a66eee53cb626fd71ee"
+  },
+  {
+    "index": 67,
+    "doknr": "BJNR004770892BJNE010802301",
+    "enbez": "§ 51b",
+    "gliederung": null,
+    "titel": "Gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht",
+    "sha256_xml_text": "d98c29914891c3633784c7bbff15686cb163a5e5d008ea4efc59be362187e995"
+  },
+  {
+    "index": 68,
+    "doknr": "BJNR004770892BJNE005810360",
+    "enbez": "§ 52",
+    "gliederung": null,
+    "titel": "Aufsichtsrat",
+    "sha256_xml_text": "60f1965aec9e36c5b73ca16fb8b89b1a63bd090f16ed1deb29a214068107b4be"
+  },
+  {
+    "index": 69,
+    "doknr": "BJNR004770892BJNG005901140",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040",
+      "gliederungsbez": "Abschnitt 4",
+      "gliederungstitel": "Abänderungen des Gesellschaftsvertrags"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 70,
+    "doknr": "BJNR004770892BJNE006002360",
+    "enbez": "§ 53",
+    "gliederung": null,
+    "titel": "Form der Satzungsänderung",
+    "sha256_xml_text": "50ecceca0c28d267eb8aa0bf1aa2f712933b8f84db049d137fb873bfde58803d"
+  },
+  {
+    "index": 71,
+    "doknr": "BJNR004770892BJNE006103140",
+    "enbez": "§ 54",
+    "gliederung": null,
+    "titel": "Anmeldung und Eintragung der Satzungsänderung",
+    "sha256_xml_text": "b908ba5d76f62b53621ed2d7bdc2bd6ff203ce06ddfe660391ab745e5497db05"
+  },
+  {
+    "index": 72,
+    "doknr": "BJNR004770892BJNE006203360",
+    "enbez": "§ 55",
+    "gliederung": null,
+    "titel": "Erhöhung des Stammkapitals",
+    "sha256_xml_text": "da1932a353c13d8f8e2e8fc7a94c8d8d8dec756f21b59899ebf793e48a6effaf"
+  },
+  {
+    "index": 73,
+    "doknr": "BJNR004770892BJNE015000140",
+    "enbez": "§ 55a",
+    "gliederung": null,
+    "titel": "Genehmigtes Kapital",
+    "sha256_xml_text": "0782c55a58e6b19ed2cde60d941166a02a2c80ca251eb4c7b41474454fd010e3"
+  },
+  {
+    "index": 74,
+    "doknr": "BJNR004770892BJNE010901140",
+    "enbez": "§ 56",
+    "gliederung": null,
+    "titel": "Kapitalerhöhung mit Sacheinlagen",
+    "sha256_xml_text": "76d430c4c3a8d602c6437d406c723389f7943157698d5c309dca8e711854d671"
+  },
+  {
+    "index": 75,
+    "doknr": "BJNR004770892BJNE011001140",
+    "enbez": "§ 56a",
+    "gliederung": null,
+    "titel": "Leistungen auf das neue Stammkapital",
+    "sha256_xml_text": "0818ab7f6a67de36253724a8e14d48fe4d9f0fc9d3f4b477005cb3d44c5b4baa"
+  },
+  {
+    "index": 76,
+    "doknr": "BJNR004770892BJNE006402360",
+    "enbez": "§ 57",
+    "gliederung": null,
+    "titel": "Anmeldung der Erhöhung",
+    "sha256_xml_text": "bfab895233ff03a4f832270c8956a39d6c8bda6130da79b855f463d11f34dee2"
+  },
+  {
+    "index": 77,
+    "doknr": "BJNR004770892BJNE011102140",
+    "enbez": "§ 57a",
+    "gliederung": null,
+    "titel": "Ablehnung der Eintragung",
+    "sha256_xml_text": "2f72b27dd1808467dd66652d9d9ca85646248f7697ce1b185542e6f7e185a194"
+  },
+  {
+    "index": 78,
+    "doknr": "BJNR004770892BJNE011201140",
+    "enbez": "§ 57b",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 79,
+    "doknr": "BJNR004770892BJNE012601140",
+    "enbez": "§ 57c",
+    "gliederung": null,
+    "titel": "Kapitalerhöhung aus Gesellschaftsmitteln",
+    "sha256_xml_text": "127edf9982dd610f9822633119295de2839650ff86710f8ba3aef7dbc07a594b"
+  },
+  {
+    "index": 80,
+    "doknr": "BJNR004770892BJNE012701140",
+    "enbez": "§ 57d",
+    "gliederung": null,
+    "titel": "Ausweisung von Kapital- und Gewinnrücklagen",
+    "sha256_xml_text": "b42212317988099fc9aedcac842e333da8c47db2c1414b039696862165b69d0b"
+  },
+  {
+    "index": 81,
+    "doknr": "BJNR004770892BJNE012801140",
+    "enbez": "§ 57e",
+    "gliederung": null,
+    "titel": "Zugrundelegung der letzten Jahresbilanz; Prüfung",
+    "sha256_xml_text": "b54ead712c87c5b948eb717baced37f90f0f58d873545b10f5b62721cca3cc87"
+  },
+  {
+    "index": 82,
+    "doknr": "BJNR004770892BJNE012905360",
+    "enbez": "§ 57f",
+    "gliederung": null,
+    "titel": "Anforderungen an die Bilanz",
+    "sha256_xml_text": "1a7c53efa16c98355fc022da4eb721f0b6aad3ef4c74b8b9e7eaae99d037ad82"
+  },
+  {
+    "index": 83,
+    "doknr": "BJNR004770892BJNE013001140",
+    "enbez": "§ 57g",
+    "gliederung": null,
+    "titel": "Vorherige Bekanntgabe des Jahresabschlusses",
+    "sha256_xml_text": "cbe23e9602b613d670103e29bb4b916b28d01e71f14e4b4d8cfda94550fca1a0"
+  },
+  {
+    "index": 84,
+    "doknr": "BJNR004770892BJNE013102140",
+    "enbez": "§ 57h",
+    "gliederung": null,
+    "titel": "Arten der Kapitalerhöhung",
+    "sha256_xml_text": "0343f935cb0c73c54f3eb2a7c878879c49994c1889d0eef4526f94f5a6575392"
+  },
+  {
+    "index": 85,
+    "doknr": "BJNR004770892BJNE013202140",
+    "enbez": "§ 57i",
+    "gliederung": null,
+    "titel": "Anmeldung und Eintragung des Erhöhungsbeschlusses",
+    "sha256_xml_text": "d8bbaf477376156ba8903a6bb0e43cae65fbbc23e0fddbbef7b839f160597678"
+  },
+  {
+    "index": 86,
+    "doknr": "BJNR004770892BJNE013301140",
+    "enbez": "§ 57j",
+    "gliederung": null,
+    "titel": "Verteilung der Geschäftsanteile",
+    "sha256_xml_text": "c621168ec3ff9ff5a0069b17e834629ea357218a13114ecd073b2504b0354ed3"
+  },
+  {
+    "index": 87,
+    "doknr": "BJNR004770892BJNE013401140",
+    "enbez": "§ 57k",
+    "gliederung": null,
+    "titel": "Teilrechte; Ausübung der Rechte",
+    "sha256_xml_text": "e64ef7778ad4f75692d92d75e5b88b5a4645b1532433b0dea09a2cea50f8edd9"
+  },
+  {
+    "index": 88,
+    "doknr": "BJNR004770892BJNE013501140",
+    "enbez": "§ 57l",
+    "gliederung": null,
+    "titel": "Teilnahme an der Erhöhung des Stammkapitals",
+    "sha256_xml_text": "faee504867c7819bff37d85703d61c08dd9ef6c01c8cb7bb68595c2bdf81f569"
+  },
+  {
+    "index": 89,
+    "doknr": "BJNR004770892BJNE013601140",
+    "enbez": "§ 57m",
+    "gliederung": null,
+    "titel": "Verhältnis der Rechte; Beziehungen zu Dritten",
+    "sha256_xml_text": "f237a6902b2be6e3980518bfc912d4c11f83a305e7a9478e909d9db8d46e06cc"
+  },
+  {
+    "index": 90,
+    "doknr": "BJNR004770892BJNE013702140",
+    "enbez": "§ 57n",
+    "gliederung": null,
+    "titel": "Gewinnbeteiligung der neuen Geschäftsanteile",
+    "sha256_xml_text": "71891c04d687b1db4b2774032b8b8fa5a1e96f661858018f504d2f9f0f9300ba"
+  },
+  {
+    "index": 91,
+    "doknr": "BJNR004770892BJNE013801140",
+    "enbez": "§ 57o",
+    "gliederung": null,
+    "titel": "Anschaffungskosten",
+    "sha256_xml_text": "2f9c114073ed33a5a947afa2b4bc3cdea48bc1d336b5c90bf0ada13c186eb9e6"
+  },
+  {
+    "index": 92,
+    "doknr": "BJNR004770892BJNE006503140",
+    "enbez": "§ 58",
+    "gliederung": null,
+    "titel": "Herabsetzung des Stammkapitals",
+    "sha256_xml_text": "ba3c146e99640619309986b3a47e920a31d026295b1508b8e589bc6b6e6c7331"
+  },
+  {
+    "index": 93,
+    "doknr": "BJNR004770892BJNE013903140",
+    "enbez": "§ 58a",
+    "gliederung": null,
+    "titel": "Vereinfachte Kapitalherabsetzung",
+    "sha256_xml_text": "a0ef1925c1b0047425160d9aaae47ef75be3af4da4d1a5cd8b8b45a9ea158788"
+  },
+  {
+    "index": 94,
+    "doknr": "BJNR004770892BJNE014001140",
+    "enbez": "§ 58b",
+    "gliederung": null,
+    "titel": "Beträge aus Rücklagenauflösung und Kapitalherabsetzung",
+    "sha256_xml_text": "d60d872e280360229d0e5d6da5ceed7c0a561fb4b85739d0272cd84ddec72882"
+  },
+  {
+    "index": 95,
+    "doknr": "BJNR004770892BJNE014101140",
+    "enbez": "§ 58c",
+    "gliederung": null,
+    "titel": "Nichteintritt angenommener Verluste",
+    "sha256_xml_text": "53eae6040e5a77d6323a741227318bad0278a98edcf0cde5f2f9dff4f03f71c4"
+  },
+  {
+    "index": 96,
+    "doknr": "BJNR004770892BJNE014203360",
+    "enbez": "§ 58d",
+    "gliederung": null,
+    "titel": "Gewinnausschüttung",
+    "sha256_xml_text": "4cee70eeb05ba9885b5d198f3a6439c010fa781346c3f40d23387017d2c2ebfd"
+  },
+  {
+    "index": 97,
+    "doknr": "BJNR004770892BJNE014302140",
+    "enbez": "§ 58e",
+    "gliederung": null,
+    "titel": "Beschluss über die Kapitalherabsetzung",
+    "sha256_xml_text": "1379b98ebe5a9ae78c3fac702cf7420fa516fd99a7be36e4408959b093e11d09"
+  },
+  {
+    "index": 98,
+    "doknr": "BJNR004770892BJNE014402140",
+    "enbez": "§ 58f",
+    "gliederung": null,
+    "titel": "Kapitalherabsetzung bei gleichzeitiger Erhöhung des Stammkapitals",
+    "sha256_xml_text": "74e760673d0a3bbaba95adc2d42b7171eddb37499f8c4e7709d7c01cacc7fd0f"
+  },
+  {
+    "index": 99,
+    "doknr": "BJNR004770892BJNE006601377",
+    "enbez": "§ 59",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 100,
+    "doknr": "BJNR004770892BJNG006701140",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050",
+      "gliederungsbez": "Abschnitt 5",
+      "gliederungstitel": "Auflösung und Nichtigkeit der Gesellschaft"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 101,
+    "doknr": "BJNR004770892BJNE006804140",
+    "enbez": "§ 60",
+    "gliederung": null,
+    "titel": "Auflösungsgründe",
+    "sha256_xml_text": "55921ebdb35fbe870be067e36444b8fdefe59c3b4219b097e469ab3adbd1b538"
+  },
+  {
+    "index": 102,
+    "doknr": "BJNR004770892BJNE006901140",
+    "enbez": "§ 61",
+    "gliederung": null,
+    "titel": "Auflösung durch Urteil",
+    "sha256_xml_text": "104a75630b5c8d11ace07300f4af4f2c6cd0ebcdf599865b2c3fa00643a579dd"
+  },
+  {
+    "index": 103,
+    "doknr": "BJNR004770892BJNE007001140",
+    "enbez": "§ 62",
+    "gliederung": null,
+    "titel": "Auflösung durch eine Verwaltungsbehörde",
+    "sha256_xml_text": "28d52d8e59334a6349eb2b134f964595939e4025cf570d18d4785bd070f0046b"
+  },
+  {
+    "index": 104,
+    "doknr": "BJNR004770892BJNE007101307",
+    "enbez": "§ 63",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 105,
+    "doknr": "BJNR004770892BJNE007203360",
+    "enbez": "§ 64",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 106,
+    "doknr": "BJNR004770892BJNE007305140",
+    "enbez": "§ 65",
+    "gliederung": null,
+    "titel": "Anmeldung und Eintragung der Auflösung",
+    "sha256_xml_text": "27dec22f795a5582c54c6df9405c33018688fa9740faea62e8fed51811ded73c"
+  },
+  {
+    "index": 107,
+    "doknr": "BJNR004770892BJNE007405360",
+    "enbez": "§ 66",
+    "gliederung": null,
+    "titel": "Liquidatoren",
+    "sha256_xml_text": "aaf578f9f46726de10397e37f6b64f16332aa351504ea30f2cfbc3ad24665370"
+  },
+  {
+    "index": 108,
+    "doknr": "BJNR004770892BJNE007504360",
+    "enbez": "§ 67",
+    "gliederung": null,
+    "titel": "Anmeldung der Liquidatoren",
+    "sha256_xml_text": "efcb7a311124193e8737777ab39eefa755cefe48dffa8efaa4071a130c8239ff"
+  },
+  {
+    "index": 109,
+    "doknr": "BJNR004770892BJNE007602125",
+    "enbez": "§ 68",
+    "gliederung": null,
+    "titel": "Zeichnung der Liquidatoren",
+    "sha256_xml_text": "ccfab3573984e3cdf884c44e9f13df4efcdad4f3fc8ed870ab885c6a59235ea7"
+  },
+  {
+    "index": 110,
+    "doknr": "BJNR004770892BJNE007701140",
+    "enbez": "§ 69",
+    "gliederung": null,
+    "titel": "Rechtsverhältnisse von Gesellschaft und Gesellschaftern",
+    "sha256_xml_text": "48d0b800eb1ac045b391b6078382232553d140d2acde782928399f428010ff99"
+  },
+  {
+    "index": 111,
+    "doknr": "BJNR004770892BJNE007801140",
+    "enbez": "§ 70",
+    "gliederung": null,
+    "titel": "Aufgaben der Liquidatoren",
+    "sha256_xml_text": "e0fbd526f40fa4b7d79c477077b4c2b0574b7208480824112599075b45dcf34d"
+  },
+  {
+    "index": 112,
+    "doknr": "BJNR004770892BJNE011303360",
+    "enbez": "§ 71",
+    "gliederung": null,
+    "titel": "Eröffnungsbilanz; Rechte und Pflichten",
+    "sha256_xml_text": "0301bfeef21707d94634853df2e9563591f62e8eebed56b55a8b54cb2b2b4f5e"
+  },
+  {
+    "index": 113,
+    "doknr": "BJNR004770892BJNE008001140",
+    "enbez": "§ 72",
+    "gliederung": null,
+    "titel": "Vermögensverteilung",
+    "sha256_xml_text": "46b936566bc9f807235df86199005a1a52d3e4679d5b6de545fc3c3413459eb1"
+  },
+  {
+    "index": 114,
+    "doknr": "BJNR004770892BJNE008103140",
+    "enbez": "§ 73",
+    "gliederung": null,
+    "titel": "Sperrjahr",
+    "sha256_xml_text": "1f54ce84e89b63b3e9604afea951fd55ac0d50982ac4d30cc0d51391c8dfe8ce"
+  },
+  {
+    "index": 115,
+    "doknr": "BJNR004770892BJNE008203140",
+    "enbez": "§ 74",
+    "gliederung": null,
+    "titel": "Schluss der Liquidation",
+    "sha256_xml_text": "940c4d27475c29190a5d6f8a0d7e1fbcfe7203a0923f883499cd2f237ab6e0d4"
+  },
+  {
+    "index": 116,
+    "doknr": "BJNR004770892BJNE008302140",
+    "enbez": "§ 75",
+    "gliederung": null,
+    "titel": "Nichtigkeitsklage",
+    "sha256_xml_text": "282167c03373f0929167378e18659367cf07ba0d3a878f6c6748803c5943ab39"
+  },
+  {
+    "index": 117,
+    "doknr": "BJNR004770892BJNE008401140",
+    "enbez": "§ 76",
+    "gliederung": null,
+    "titel": "Heilung von Mängeln durch Gesellschafterbeschluss",
+    "sha256_xml_text": "251daedab041874d71d44cdf3c735ede7a375712049517ea780e2673f4b9e03f"
+  },
+  {
+    "index": 118,
+    "doknr": "BJNR004770892BJNE008501140",
+    "enbez": "§ 77",
+    "gliederung": null,
+    "titel": "Wirkung der Nichtigkeit",
+    "sha256_xml_text": "38da2f2621ae7f901748775471298a6ebe690b5930f6e45083fc13026c20c4f7"
+  },
+  {
+    "index": 119,
+    "doknr": "BJNR004770892BJNG008700360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060",
+      "gliederungsbez": "Abschnitt 6",
+      "gliederungstitel": "Sondervorschriften bei Beteiligung des Bundes"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 120,
+    "doknr": "BJNR004770892BJNE015500360",
+    "enbez": "§ 77a",
+    "gliederung": null,
+    "titel": "Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes",
+    "sha256_xml_text": "6406b26f58d624c7aea60edc3474da67ea76bdac37111c4a1b64beafce4fe9d2"
+  },
+  {
+    "index": 121,
+    "doknr": "BJNR004770892BJNG008602360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "070",
+      "gliederungsbez": "Abschnitt 7",
+      "gliederungstitel": "Ordnungs-, Straf- und Bußgeldvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 122,
+    "doknr": "BJNR004770892BJNE008702140",
+    "enbez": "§ 78",
+    "gliederung": null,
+    "titel": "Anmeldepflichtige",
+    "sha256_xml_text": "59e64c5fcfc1e005420c0e47e33e03403c8a29586dad879ca55eb654841603fb"
+  },
+  {
+    "index": 123,
+    "doknr": "BJNR004770892BJNE008802140",
+    "enbez": "§ 79",
+    "gliederung": null,
+    "titel": "Zwangsgelder",
+    "sha256_xml_text": "15b982a7f356ebee5300dd493eeef65ec7776e10644c96376c6705afdad0fd6e"
+  },
+  {
+    "index": 124,
+    "doknr": "BJNR004770892BJNE011400308",
+    "enbez": "§ 80",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 125,
+    "doknr": "BJNR004770892BJNE011800308",
+    "enbez": "§ 81",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 126,
+    "doknr": "BJNR004770892BJNE011503140",
+    "enbez": "§ 82",
+    "gliederung": null,
+    "titel": "Falsche Angaben",
+    "sha256_xml_text": "a1b3e1b4a1d80dd2973a958ca871bd8112ba0c478c1afbd0fd8dfa0fb7e798c0"
+  },
+  {
+    "index": 127,
+    "doknr": "BJNR004770892BJNE009000308",
+    "enbez": "§ 83",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 128,
+    "doknr": "BJNR004770892BJNE011603140",
+    "enbez": "§ 84",
+    "gliederung": null,
+    "titel": "Verletzung der Verlustanzeigepflicht",
+    "sha256_xml_text": "d395e3d33aa7604c622fac3d8ae85fa09a5938e0cd0371447f9c8d9a1f2b27af"
+  },
+  {
+    "index": 129,
+    "doknr": "BJNR004770892BJNE011701140",
+    "enbez": "§ 85",
+    "gliederung": null,
+    "titel": "Verletzung der Geheimhaltungspflicht",
+    "sha256_xml_text": "95e269e0285341d13584613c03f83c3f5cdfd36237a4ae20b8d235426099c4f5"
+  },
+  {
+    "index": 130,
+    "doknr": "BJNR004770892BJNE015202360",
+    "enbez": "§ 86",
+    "gliederung": null,
+    "titel": "Verletzung der Pflichten bei Abschlussprüfungen",
+    "sha256_xml_text": "d5323a6075d0ea08cbe7536d7eefca537e429c35b6ee49c696e73781f571d0be"
+  },
+  {
+    "index": 131,
+    "doknr": "BJNR004770892BJNE015302360",
+    "enbez": "§ 87",
+    "gliederung": null,
+    "titel": "Bußgeldvorschriften",
+    "sha256_xml_text": "f6c0191a21df0ac8c18a31b4fc56e6a05865232b853520f156a54047bd267a61"
+  },
+  {
+    "index": 132,
+    "doknr": "BJNR004770892BJNE015400123",
+    "enbez": "§ 88",
+    "gliederung": null,
+    "titel": "Mitteilungen an die Abschlussprüferaufsichtsstelle",
+    "sha256_xml_text": "840f14b865fb4f013f216f9e3761e70105fa34e872bf1d4e895480c72ae89d48"
+  },
+  {
+    "index": 133,
+    "doknr": "BJNR004770892BJNE015101360",
+    "enbez": "Anlage 1",
+    "gliederung": null,
+    "titel": "(zu § 2 Abs. 1a)",
+    "sha256_xml_text": "cf3bf6eeba32fd67bf61bbc51ae4e98623d1bb81102c3aa7fbceef974a86cc3a"
+  },
+  {
+    "index": 134,
+    "doknr": "BJNR004770892BJNE015600360",
+    "enbez": "Anlage 2",
+    "gliederung": null,
+    "titel": "(zu § 2 Absatz 3)",
+    "sha256_xml_text": "2a63928bf5dc33f5cdf4e51b9ea5740cbb4876cd643a811f34ed66aa5bfa997e"
+  }
+]

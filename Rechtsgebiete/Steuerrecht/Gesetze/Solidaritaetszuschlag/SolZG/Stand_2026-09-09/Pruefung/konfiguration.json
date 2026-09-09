@@ -1,0 +1,35 @@
+{
+  "kuerzel": "SolZG",
+  "titel": "Solidaritätszuschlaggesetz",
+  "rechtsgebiet": "Steuerrecht / Solidaritaetszuschlag",
+  "quelle_url": "https://www.gesetze-im-internet.de/solzg/",
+  "quelle_html": "https://www.gesetze-im-internet.de/solzg/BJNR113180991.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/solzg/SolZG.pdf",
+  "quelle_xml": "https://www.gesetze-im-internet.de/solzg/xml.zip",
+  "lokale_pdf": "SolZG.pdf",
+  "aktuelle_pdf": "SolZG_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR113180991.xml",
+  "ausfertigungsdatum": "1991-06-24",
+  "stand": [
+    "Geändert durch Art. 19 G v. 25.2.1992 I 297"
+  ],
+  "vollzitat": "\"Solidaritätszuschlaggesetz vom 24. Juni 1991 (BGBl. I S. 1318), das durch Artikel 19 des Gesetzes vom 25. Februar 1992 (BGBl. I S. 297) geändert worden ist\"",
+  "pdf_seiten": 2,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20130405131115",
+  "sha256_lokale_pdf": "0c64c0645c09da7d310c5cd3303ee9f320964cba3196ecb5c0b1143c3f1d815b",
+  "sha256_aktuelle_pdf": "0c64c0645c09da7d310c5cd3303ee9f320964cba3196ecb5c0b1143c3f1d815b",
+  "sha256_xml": "9203f15ea09e52fa99ac272b208ed675f092365338aacf9917d48aa71d71a738",
+  "historische_fassung": true,
+  "normenbestand": {
+    "normdatensaetze": 6,
+    "gliederungsteile": 0,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 5,
+    "anlagen": 0,
+    "tabellen": 1,
+    "tabellenzeilen": 2,
+    "tabellenzellen": 6,
+    "aufzaehlungskennzeichen": 11
+  }
+}

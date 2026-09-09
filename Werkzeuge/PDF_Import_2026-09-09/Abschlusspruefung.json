@@ -1,0 +1,258 @@
+{
+  "pruefung_erfolgreich": true,
+  "neue_dokumente": 31,
+  "neue_pdf_seiten": 1370,
+  "gepruefte_lokale_links": 5402,
+  "bestand_dokumente": 55,
+  "unbearbeitete_pdfs": [],
+  "dokumente": [
+    {
+      "kuerzel": "AAG",
+      "pdf_seiten": 5,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "AktG",
+      "pdf_seiten": 131,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "AStG",
+      "pdf_seiten": 20,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "BewG",
+      "pdf_seiten": 174,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "DSGVO",
+      "pdf_seiten": 88,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "DVO (EU) 282/2011",
+      "pdf_seiten": 22,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "DVStB",
+      "pdf_seiten": 16,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "EGBGB",
+      "pdf_seiten": 154,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "ErbStG",
+      "pdf_seiten": 36,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "FzgLiefgMeldV",
+      "pdf_seiten": 2,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "GewStDV",
+      "pdf_seiten": 6,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "GmbHG",
+      "pdf_seiten": 36,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "GrEStG",
+      "pdf_seiten": 17,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "GrStG",
+      "pdf_seiten": 15,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "InsO",
+      "pdf_seiten": 90,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "InvStG",
+      "pdf_seiten": 42,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "KassenSichV",
+      "pdf_seiten": 6,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "KStDV",
+      "pdf_seiten": 2,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "LStDV",
+      "pdf_seiten": 4,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "MiLoG",
+      "pdf_seiten": 11,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "MwStSystRL",
+      "pdf_seiten": 118,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "PAngV",
+      "pdf_seiten": 13,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "PStTG",
+      "pdf_seiten": 18,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "PublG",
+      "pdf_seiten": 13,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "SGB_4",
+      "pdf_seiten": 105,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "SolZG",
+      "pdf_seiten": 2,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "StBerG",
+      "pdf_seiten": 89,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "StBVV",
+      "pdf_seiten": 25,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "SvEV",
+      "pdf_seiten": 4,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "UmwG",
+      "pdf_seiten": 86,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    },
+    {
+      "kuerzel": "UmwStG",
+      "pdf_seiten": 20,
+      "pdf_unveraendert": true,
+      "markdown_unveraendert": true,
+      "im_bestand_registriert": true,
+      "lokale_links_gueltig": true
+    }
+  ]
+}

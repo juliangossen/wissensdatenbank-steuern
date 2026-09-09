@@ -1,0 +1,604 @@
+{
+  "kuerzel": "GwG",
+  "datum": "2026-09-09",
+  "methode": "Normweise Vergleich aller Überschriften, Texte und Fußnoten einschließlich aus XML-Attributen rekonstruierter Fußnotenmarker; NFC und Entfernung nur von Whitespace, PDF-Servicezeilen und Seitenzählern. Abweichungen einzeln dokumentiert.",
+  "normdatensaetze": 84,
+  "exakt_identisch": 84,
+  "abweichend": 0,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "technische_xml_praefixe": {
+    "regel": "Nur das GII-interne Kennzeichen (XXXX) vor enbez wird beim PDF-Vergleich entfernt. Die Vorschrift und ihr Wegfallhinweis bleiben erhalten.",
+    "anzahl": 0
+  },
+  "pdf_leertext_platzhalter": [],
+  "normen": [
+    {
+      "norm_index": 0,
+      "name": "Gesetzeskopf",
+      "pdf_zeichen": 440,
+      "xml_zeichen": 440,
+      "identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_zeichen": 4200,
+      "xml_zeichen": 4200,
+      "identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Abschnitt 1Begriffsbestimmungen, Verpflichtete und risikobasierter Ansatz",
+      "pdf_zeichen": 68,
+      "xml_zeichen": 68,
+      "identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 1",
+      "pdf_zeichen": 14962,
+      "xml_zeichen": 14962,
+      "identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 2",
+      "pdf_zeichen": 8566,
+      "xml_zeichen": 8566,
+      "identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3",
+      "pdf_zeichen": 3307,
+      "xml_zeichen": 3307,
+      "identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 3a",
+      "pdf_zeichen": 802,
+      "xml_zeichen": 802,
+      "identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "Abschnitt 2Risikomanagement",
+      "pdf_zeichen": 26,
+      "xml_zeichen": 26,
+      "identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 4",
+      "pdf_zeichen": 1500,
+      "xml_zeichen": 1500,
+      "identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 5",
+      "pdf_zeichen": 1003,
+      "xml_zeichen": 1003,
+      "identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 6",
+      "pdf_zeichen": 5005,
+      "xml_zeichen": 5005,
+      "identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 7",
+      "pdf_zeichen": 3047,
+      "xml_zeichen": 3047,
+      "identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 8",
+      "pdf_zeichen": 4637,
+      "xml_zeichen": 4637,
+      "identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 9",
+      "pdf_zeichen": 3698,
+      "xml_zeichen": 3698,
+      "identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "Abschnitt 3Sorgfaltspflichten in Bezug auf Kunden",
+      "pdf_zeichen": 44,
+      "xml_zeichen": 44,
+      "identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 10",
+      "pdf_zeichen": 8090,
+      "xml_zeichen": 8090,
+      "identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 11",
+      "pdf_zeichen": 4703,
+      "xml_zeichen": 4703,
+      "identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 11a",
+      "pdf_zeichen": 923,
+      "xml_zeichen": 923,
+      "identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 12",
+      "pdf_zeichen": 5044,
+      "xml_zeichen": 5044,
+      "identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 13",
+      "pdf_zeichen": 1499,
+      "xml_zeichen": 1499,
+      "identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 14",
+      "pdf_zeichen": 2578,
+      "xml_zeichen": 2578,
+      "identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 15",
+      "pdf_zeichen": 9598,
+      "xml_zeichen": 9598,
+      "identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 15a",
+      "pdf_zeichen": 1274,
+      "xml_zeichen": 1274,
+      "identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 16",
+      "pdf_zeichen": 3260,
+      "xml_zeichen": 3260,
+      "identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 16a",
+      "pdf_zeichen": 4007,
+      "xml_zeichen": 4007,
+      "identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 17",
+      "pdf_zeichen": 5237,
+      "xml_zeichen": 5237,
+      "identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "Abschnitt 4Transparenzregister",
+      "pdf_zeichen": 29,
+      "xml_zeichen": 29,
+      "identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 18",
+      "pdf_zeichen": 2319,
+      "xml_zeichen": 2319,
+      "identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 19",
+      "pdf_zeichen": 1708,
+      "xml_zeichen": 1708,
+      "identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 19a",
+      "pdf_zeichen": 467,
+      "xml_zeichen": 467,
+      "identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 19b",
+      "pdf_zeichen": 1551,
+      "xml_zeichen": 1551,
+      "identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 20",
+      "pdf_zeichen": 3774,
+      "xml_zeichen": 3774,
+      "identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 20a",
+      "pdf_zeichen": 1958,
+      "xml_zeichen": 1958,
+      "identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "§ 21",
+      "pdf_zeichen": 2750,
+      "xml_zeichen": 2750,
+      "identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 22",
+      "pdf_zeichen": 2820,
+      "xml_zeichen": 2820,
+      "identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 23",
+      "pdf_zeichen": 7381,
+      "xml_zeichen": 7381,
+      "identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 23a",
+      "pdf_zeichen": 3736,
+      "xml_zeichen": 3736,
+      "identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 23b",
+      "pdf_zeichen": 1096,
+      "xml_zeichen": 1096,
+      "identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 24",
+      "pdf_zeichen": 2057,
+      "xml_zeichen": 2057,
+      "identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 25",
+      "pdf_zeichen": 3614,
+      "xml_zeichen": 3614,
+      "identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 26",
+      "pdf_zeichen": 2921,
+      "xml_zeichen": 2921,
+      "identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "§ 26a",
+      "pdf_zeichen": 2424,
+      "xml_zeichen": 2424,
+      "identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "Abschnitt 5Zentralstelle für Finanztransaktionsuntersuchungen",
+      "pdf_zeichen": 58,
+      "xml_zeichen": 58,
+      "identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 27",
+      "pdf_zeichen": 389,
+      "xml_zeichen": 389,
+      "identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 28",
+      "pdf_zeichen": 3501,
+      "xml_zeichen": 3501,
+      "identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 28a",
+      "pdf_zeichen": 780,
+      "xml_zeichen": 780,
+      "identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "§ 29",
+      "pdf_zeichen": 5244,
+      "xml_zeichen": 5244,
+      "identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 30",
+      "pdf_zeichen": 3714,
+      "xml_zeichen": 3714,
+      "identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 31",
+      "pdf_zeichen": 9495,
+      "xml_zeichen": 9495,
+      "identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "§ 32",
+      "pdf_zeichen": 5708,
+      "xml_zeichen": 5708,
+      "identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "§ 32a",
+      "pdf_zeichen": 1530,
+      "xml_zeichen": 1530,
+      "identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "§ 33",
+      "pdf_zeichen": 4791,
+      "xml_zeichen": 4791,
+      "identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "§ 34",
+      "pdf_zeichen": 1410,
+      "xml_zeichen": 1410,
+      "identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 35",
+      "pdf_zeichen": 5139,
+      "xml_zeichen": 5139,
+      "identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "§ 36",
+      "pdf_zeichen": 599,
+      "xml_zeichen": 599,
+      "identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 37",
+      "pdf_zeichen": 2362,
+      "xml_zeichen": 2362,
+      "identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§ 38",
+      "pdf_zeichen": 2184,
+      "xml_zeichen": 2184,
+      "identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 38a",
+      "pdf_zeichen": 1877,
+      "xml_zeichen": 1877,
+      "identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "§ 39",
+      "pdf_zeichen": 1417,
+      "xml_zeichen": 1417,
+      "identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "§ 40",
+      "pdf_zeichen": 2242,
+      "xml_zeichen": 2242,
+      "identisch": true
+    },
+    {
+      "norm_index": 60,
+      "name": "§ 41",
+      "pdf_zeichen": 733,
+      "xml_zeichen": 733,
+      "identisch": true
+    },
+    {
+      "norm_index": 61,
+      "name": "§ 42",
+      "pdf_zeichen": 1122,
+      "xml_zeichen": 1122,
+      "identisch": true
+    },
+    {
+      "norm_index": 62,
+      "name": "Abschnitt 6Pflichten im Zusammenhang mit Meldungen von Sachverhalten",
+      "pdf_zeichen": 61,
+      "xml_zeichen": 61,
+      "identisch": true
+    },
+    {
+      "norm_index": 63,
+      "name": "§ 43",
+      "pdf_zeichen": 2953,
+      "xml_zeichen": 2953,
+      "identisch": true
+    },
+    {
+      "norm_index": 64,
+      "name": "§ 44",
+      "pdf_zeichen": 523,
+      "xml_zeichen": 523,
+      "identisch": true
+    },
+    {
+      "norm_index": 65,
+      "name": "§ 45",
+      "pdf_zeichen": 1156,
+      "xml_zeichen": 1156,
+      "identisch": true
+    },
+    {
+      "norm_index": 66,
+      "name": "§ 46",
+      "pdf_zeichen": 1251,
+      "xml_zeichen": 1251,
+      "identisch": true
+    },
+    {
+      "norm_index": 67,
+      "name": "§ 47",
+      "pdf_zeichen": 4581,
+      "xml_zeichen": 4581,
+      "identisch": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 48",
+      "pdf_zeichen": 690,
+      "xml_zeichen": 690,
+      "identisch": true
+    },
+    {
+      "norm_index": 69,
+      "name": "§ 49",
+      "pdf_zeichen": 2503,
+      "xml_zeichen": 2503,
+      "identisch": true
+    },
+    {
+      "norm_index": 70,
+      "name": "Abschnitt 7Aufsicht, Zusammenarbeit, Bußgeldvorschriften, Datenschutz",
+      "pdf_zeichen": 65,
+      "xml_zeichen": 65,
+      "identisch": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 50",
+      "pdf_zeichen": 2790,
+      "xml_zeichen": 2790,
+      "identisch": true
+    },
+    {
+      "norm_index": 72,
+      "name": "§ 51",
+      "pdf_zeichen": 11367,
+      "xml_zeichen": 11367,
+      "identisch": true
+    },
+    {
+      "norm_index": 73,
+      "name": "§ 51a",
+      "pdf_zeichen": 2489,
+      "xml_zeichen": 2489,
+      "identisch": true
+    },
+    {
+      "norm_index": 74,
+      "name": "§ 52",
+      "pdf_zeichen": 3383,
+      "xml_zeichen": 3383,
+      "identisch": true
+    },
+    {
+      "norm_index": 75,
+      "name": "§ 53",
+      "pdf_zeichen": 3260,
+      "xml_zeichen": 3260,
+      "identisch": true
+    },
+    {
+      "norm_index": 76,
+      "name": "§ 54",
+      "pdf_zeichen": 2811,
+      "xml_zeichen": 2811,
+      "identisch": true
+    },
+    {
+      "norm_index": 77,
+      "name": "§ 55",
+      "pdf_zeichen": 5043,
+      "xml_zeichen": 5043,
+      "identisch": true
+    },
+    {
+      "norm_index": 78,
+      "name": "§ 56",
+      "pdf_zeichen": 15966,
+      "xml_zeichen": 15966,
+      "identisch": true
+    },
+    {
+      "norm_index": 79,
+      "name": "§ 57",
+      "pdf_zeichen": 2024,
+      "xml_zeichen": 2024,
+      "identisch": true
+    },
+    {
+      "norm_index": 80,
+      "name": "§ 58",
+      "pdf_zeichen": 16,
+      "xml_zeichen": 16,
+      "identisch": true
+    },
+    {
+      "norm_index": 81,
+      "name": "§ 59",
+      "pdf_zeichen": 6139,
+      "xml_zeichen": 6139,
+      "identisch": true
+    },
+    {
+      "norm_index": 82,
+      "name": "Anlage 1",
+      "pdf_zeichen": 2265,
+      "xml_zeichen": 2265,
+      "identisch": true
+    },
+    {
+      "norm_index": 83,
+      "name": "Anlage 2",
+      "pdf_zeichen": 2915,
+      "xml_zeichen": 2915,
+      "identisch": true
+    }
+  ]
+}

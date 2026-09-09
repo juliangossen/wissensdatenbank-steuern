@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR338510006",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "5252b75c2138e4b5458af74ed7fa2b8064d75643d6a14df5edff87267821561e"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR338510006BJNE000115126",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen",
+    "sha256_xml_text": "b64d9e752c9110ca1f87f1f84f91e1f7701f923e663e859455aabfa305014a76"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR338510006BJNE000218126",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Verpflegung, Unterkunft und Wohnung als Sachbezug",
+    "sha256_xml_text": "2a4d445facd6871b34e81ac20d363fecd6514acf1f458a1c4a76c2434b2b982d"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR338510006BJNE000301301",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Sonstige Sachbezüge",
+    "sha256_xml_text": "08957df9293e62fc17bff36df5ff2b40b8772d342cd5698650b30251bd1cf1b5"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR338510006BJNE000401308",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+  }
+]

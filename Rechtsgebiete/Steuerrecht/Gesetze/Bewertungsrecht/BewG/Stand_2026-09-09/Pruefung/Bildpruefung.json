@@ -1,0 +1,168 @@
+{
+  "pdf_sha256": "554fcacb1c36a889d78d4888ba1ef4fe7d0508c81c7d8b24b8f65d4f6ababb82",
+  "xml_sha256": "579c8ebeb7f1daec155d201715a7e4fa26d7a9833c21915489887bf70b4ecdc9",
+  "abbildungen": 20,
+  "alle_bildvorkommen_in_originalreihenfolge_bytegleich": true,
+  "vergleich": [
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2024_j03870_0010.jpg",
+      "sha256": "83c90adba4950fff49d6f66e204fab1e5ac8ab5f85c57172f727561f3ef915f6",
+      "pdf_seite": 118,
+      "pdf_objekt": 462,
+      "breite": 51,
+      "hoehe": 28
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2024_j03870_0020.jpg",
+      "sha256": "692db24fbae6a40c9f0600970b7aeaf9cc6dee8fed9dc0385026c379210163b6",
+      "pdf_seite": 118,
+      "pdf_objekt": 570,
+      "breite": 18,
+      "hoehe": 23
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0010.jpg",
+      "sha256": "c2ff659190e33326ecad72f3d3d55a7814abf3c97fb5e05eb997584f1588d689",
+      "pdf_seite": 121,
+      "pdf_objekt": 478,
+      "breite": 99,
+      "hoehe": 95
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0020.jpg",
+      "sha256": "46807c26155bf7edc33a5b712bd22ad60e38a0cf3aabab3ef98fd936789e4624",
+      "pdf_seite": 121,
+      "pdf_objekt": 480,
+      "breite": 97,
+      "hoehe": 87
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0030.jpg",
+      "sha256": "b732f45913107c7622d48bced67d4404601b7203459ce7275d20a9349c071982",
+      "pdf_seite": 121,
+      "pdf_objekt": 482,
+      "breite": 76,
+      "hoehe": 55
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0040.jpg",
+      "sha256": "a8518222b409cf2aed06ffaef2afcd4db332dab5f1aba33a22eb32b2d96e1bac",
+      "pdf_seite": 121,
+      "pdf_objekt": 484,
+      "breite": 93,
+      "hoehe": 116
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0050.jpg",
+      "sha256": "13cf9118fda441e0ac7dc92497c979b21450545955f782dd6c23a1817f39cbd1",
+      "pdf_seite": 121,
+      "pdf_objekt": 486,
+      "breite": 99,
+      "hoehe": 105
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0060.jpg",
+      "sha256": "7dc88bc3df76fc22a2056b36a73d785b012a5f69a70efb7e0adc5951746e9628",
+      "pdf_seite": 122,
+      "pdf_objekt": 491,
+      "breite": 75,
+      "hoehe": 56
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0070.jpg",
+      "sha256": "c24db89df5a08e889fc7e2282b822ff73162b3aa390ec984347bf083d2a00b15",
+      "pdf_seite": 122,
+      "pdf_objekt": 493,
+      "breite": 100,
+      "hoehe": 75
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0080.jpg",
+      "sha256": "35dfe30e9aeda70137c0139cd6ef69c7270777342e11d9365d5dc0eb785904b6",
+      "pdf_seite": 122,
+      "pdf_objekt": 495,
+      "breite": 97,
+      "hoehe": 77
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0090.jpg",
+      "sha256": "a9107b15ad340274ea2620057e9fe07526c64fa47899e923971ec71d7052b39f",
+      "pdf_seite": 122,
+      "pdf_objekt": 497,
+      "breite": 63,
+      "hoehe": 35
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0100.jpg",
+      "sha256": "f4524f41ed7f43e6ad7b813a738b38e34389d3984236a7fb9a6b6d6110a83f7c",
+      "pdf_seite": 122,
+      "pdf_objekt": 499,
+      "breite": 99,
+      "hoehe": 93
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0110.jpg",
+      "sha256": "4d6f73d8296c60875c3ed9cc7a334a67834d259960edf745464160c39754ec40",
+      "pdf_seite": 122,
+      "pdf_objekt": 501,
+      "breite": 97,
+      "hoehe": 88
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2015_j1834-1_0120.jpg",
+      "sha256": "048ee75b107b748f80ea2d6ddd25a81e56c21dea651ddfd1512f044b1ade40dc",
+      "pdf_seite": 122,
+      "pdf_objekt": 503,
+      "breite": 60,
+      "hoehe": 47
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2024_j03870_0030.jpg",
+      "sha256": "3fb6fd6cf3623468bf31138c5b22954fd8457ae04893f850476e8a551bb827d2",
+      "pdf_seite": 143,
+      "pdf_objekt": 568,
+      "breite": 12,
+      "hoehe": 28
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2024_j03870_0040.jpg",
+      "sha256": "692db24fbae6a40c9f0600970b7aeaf9cc6dee8fed9dc0385026c379210163b6",
+      "pdf_seite": 143,
+      "pdf_objekt": 570,
+      "breite": 18,
+      "hoehe": 23
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2019_j1794-1_0010.jpg",
+      "sha256": "e1aa0f43d810d10151c73e3c0083d2f898d5d48404275a4cd1680fdb341dee94",
+      "pdf_seite": 158,
+      "pdf_objekt": 617,
+      "breite": 137,
+      "hoehe": 29
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2019_j1794-1_0020.jpg",
+      "sha256": "029b5f8ac2433ad13efa2b63645bfc2d4b88458547ff20006f816bec4e6ae375",
+      "pdf_seite": 158,
+      "pdf_objekt": 665,
+      "breite": 48,
+      "hoehe": 24
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2019_j1794-1_0030.jpg",
+      "sha256": "2794433792ee45f990552784cf8b7e3c007388394fabfdd14f01c23d1c036adb",
+      "pdf_seite": 172,
+      "pdf_objekt": 663,
+      "breite": 125,
+      "hoehe": 29
+    },
+    {
+      "xml_datei": "Quellen/XML/bgbl1_2019_j1794-1_0040.jpg",
+      "sha256": "029b5f8ac2433ad13efa2b63645bfc2d4b88458547ff20006f816bec4e6ae375",
+      "pdf_seite": 172,
+      "pdf_objekt": 665,
+      "breite": 48,
+      "hoehe": 24
+    }
+  ]
+}

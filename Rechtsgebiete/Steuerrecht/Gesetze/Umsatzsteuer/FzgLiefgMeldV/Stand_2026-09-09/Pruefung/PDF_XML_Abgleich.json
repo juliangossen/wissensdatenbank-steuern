@@ -1,0 +1,75 @@
+{
+  "kuerzel": "FzgLiefgMeldV",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Fußnote",
+      "pdf_chars": 38,
+      "xml_chars": 38,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Eingangsformel",
+      "pdf_chars": 169,
+      "xml_chars": 169,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "§ 1",
+      "pdf_chars": 1211,
+      "xml_chars": 1211,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 2",
+      "pdf_chars": 924,
+      "xml_chars": 924,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 3",
+      "pdf_chars": 169,
+      "xml_chars": 169,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 4",
+      "pdf_chars": 215,
+      "xml_chars": 215,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 5",
+      "pdf_chars": 55,
+      "xml_chars": 55,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "Schlussformel",
+      "pdf_chars": 39,
+      "xml_chars": 39,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 8,
+  "gesamt": 8,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "c39f7890556dd8e97c013a103c5b1905685a6975d9234eb0b952266bbc4bcd5c",
+  "xml_sha256": "742c3feae488dac4a190362ab49ebbd8752c4e3f2795e1ca3036d207a28bd427"
+}

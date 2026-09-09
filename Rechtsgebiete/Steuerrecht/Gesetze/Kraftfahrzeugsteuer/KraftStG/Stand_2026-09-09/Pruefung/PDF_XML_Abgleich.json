@@ -1,0 +1,269 @@
+{
+  "kuerzel": "KraftStG",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "Dieses Gesetz dient der Umsetzung folgender Richtlinien:1.Richtlinie 1999/62/EG des Europäischen Par",
+      "pdf_chars": 926,
+      "xml_chars": 926,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_chars": 963,
+      "xml_chars": 963,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "§ 1",
+      "pdf_chars": 1200,
+      "xml_chars": 1200,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 2",
+      "pdf_chars": 1118,
+      "xml_chars": 1118,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 3",
+      "pdf_chars": 6510,
+      "xml_chars": 6510,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 3a",
+      "pdf_chars": 1417,
+      "xml_chars": 1417,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 3b",
+      "pdf_chars": 1326,
+      "xml_chars": 1326,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 3c",
+      "pdf_chars": 16,
+      "xml_chars": 16,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 3d",
+      "pdf_chars": 1341,
+      "xml_chars": 1341,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§§ 3e bis 3h",
+      "pdf_chars": 22,
+      "xml_chars": 22,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 4",
+      "pdf_chars": 1008,
+      "xml_chars": 1008,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 5",
+      "pdf_chars": 2460,
+      "xml_chars": 2460,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 6",
+      "pdf_chars": 146,
+      "xml_chars": 146,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 7",
+      "pdf_chars": 356,
+      "xml_chars": 356,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 8",
+      "pdf_chars": 1549,
+      "xml_chars": 1549,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "§ 9",
+      "pdf_chars": 9877,
+      "xml_chars": 9786,
+      "equal": false,
+      "diffs": [
+        {
+          "kind": "insert",
+          "xml": "",
+          "pdf": "durchFremdzündungsmotorenangetriebenwerdenunddurchSelbstzündungsmotorenangetriebenwerdenund",
+          "before": "999geltendenFassungnichtgalt21,07EUR33,29EUR,",
+          "after": "ee)nichtdieVoraussetzungenfürdieAnwendungderS"
+        }
+      ],
+      "nach_layoutabgleich_identisch": true,
+      "layoutpruefung": [
+        {
+          "art": "Tabellenkopf-Lesereihenfolge und/oder Wiederholung am Seitenumbruch",
+          "pdf_kopf": "durchFremdzündungsmotorenangetriebenwerdenunddurchSelbstzündungsmotorenangetriebenwerdenund",
+          "xml_kopf": "durchFremdzündungsmotorenangetriebenwerdenunddurchSelbstzündungsmotorenangetriebenwerdenund",
+          "pdf_vorkommen": 2,
+          "zeichenbestand_kopf_identisch": true
+        }
+      ]
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 9a",
+      "pdf_chars": 476,
+      "xml_chars": 476,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 10",
+      "pdf_chars": 1247,
+      "xml_chars": 1247,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "§ 10a",
+      "pdf_chars": 2031,
+      "xml_chars": 2031,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "§ 10b",
+      "pdf_chars": 1138,
+      "xml_chars": 1138,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 11",
+      "pdf_chars": 2104,
+      "xml_chars": 2104,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 12",
+      "pdf_chars": 2093,
+      "xml_chars": 2093,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 12a",
+      "pdf_chars": 2904,
+      "xml_chars": 2904,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 12b",
+      "pdf_chars": 17,
+      "xml_chars": 17,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 13",
+      "pdf_chars": 2028,
+      "xml_chars": 2028,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 14",
+      "pdf_chars": 600,
+      "xml_chars": 600,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 15",
+      "pdf_chars": 2174,
+      "xml_chars": 2174,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 16",
+      "pdf_chars": 323,
+      "xml_chars": 323,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 17",
+      "pdf_chars": 468,
+      "xml_chars": 468,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "§ 18",
+      "pdf_chars": 4270,
+      "xml_chars": 4270,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 29,
+  "gesamt": 30,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "3a3b08fc24a98b74cc351a1b0d9a17c360c4f72471e2c6b02e63c39e81851540",
+  "xml_sha256": "296752748f0e36b6d7fd6eee1f3a0d910ceda97813cfe0a32820678724fab48e"
+}

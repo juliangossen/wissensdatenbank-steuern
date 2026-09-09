@@ -1,0 +1,183 @@
+{
+  "quellenabgleich": "2026-09-09",
+  "dokument": "Erbschaftsteuer-Durchführungsverordnung (ErbStDV) vom 8. September 1998 (BGBl. I S. 2658)",
+  "stand_der_webkopie": "Tab-Metazeile „Text gilt vom 30.12.2025 bis unbestimmt“; Kopfzeile „Zuletzt geändert durch Art. 11 Gesetz zur Digitalisierung des Vollzugs von Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften und der steuerlichen Anzeigen der Notare vom 22.6.2026 (BGBl. 2026 I Nr. 192)“",
+  "amtliche_quelle": "Gesetze im Internet (Bundesministerium der Justiz / juris), https://www.gesetze-im-internet.de/erbstdv_1998/",
+  "stand_amtlich": {
+    "standkommentar_xml": "Zuletzt geändert durch Art. 11 G v. 22.6.2026 I Nr. 192",
+    "builddate_xml": "20260630215606",
+    "last_modified_xml_zip": "Tue, 30 Jun 2026 19:56:06 GMT",
+    "last_modified_pdf": "Tue, 30 Jun 2026 19:55:42 GMT",
+    "last_modified_html": "Wed, 09 Sep 2026 00:15:51 GMT",
+    "hinweis": "Die HTML-Gesamtausgabe nennt „Stand: Zuletzt geändert durch Art. 11 G v. 22.6.2026 I Nr. 192“; Übersichtsseite und Gesamtausgabe enthalten keinen Hinweis auf eine künftige Fassung."
+  },
+  "stand_stimmt_ueberein": true,
+  "stand_hinweis": "Die Kopie weist „Text gilt vom 30.12.2025“ aus, nennt aber als letzte Änderung das Gesetz vom 22.6.2026. Der Normtext der Kopie ist mit der amtlichen Fassung vom 30.6.2026 (nach diesem Gesetz) bis auf die unten aufgeführten Stellen identisch; eine textliche Wirkung des Art. 11 G v. 22.6.2026 auf die ErbStDV ist aus beiden Fassungen nicht ersichtlich.",
+  "wortlautabgleich_durchgefuehrt": true,
+  "wortlautabgleich_datei": "Quellen/Onlineabgleich/Wortlautabgleich.json",
+  "wortlautabgleich_skript": "Pruefung/wortlautabgleich.py",
+  "normalisierung": [
+    "Anbieterfußnoten der Kopie ausgelassen",
+    "Fußnotenmarker [n] entfernt",
+    "Satznummern der Kopie entfernt",
+    "Leerzeichen nach angeklebten Aufzählungszeichen eingefügt",
+    "U+2004, U+2009, U+00A0 zu Leerzeichen; U+00AD entfernt; Leerraum zusammengezogen",
+    "Muster: Vergleich als Wortmengen (Token [0-9A-Za-zÄÖÜäöüß]+), Layoutzeichen bleiben unberücksichtigt"
+  ],
+  "paragraphen_gesamt": 13,
+  "paragraphentitel_identisch": 13,
+  "paragraphen_zeichenidentisch": [
+    "§ 1",
+    "§ 4",
+    "§ 5",
+    "§ 6",
+    "§ 7",
+    "§ 8",
+    "§ 9",
+    "§ 12"
+  ],
+  "paragraphen_mit_abweichungen": [
+    "§ 2",
+    "§ 3",
+    "§ 10",
+    "§ 11",
+    "§ 13"
+  ],
+  "abweichungen_normtext": {
+    "§ 2": "Nur Typografie: Gedankenstrich „–“ der Kopie gegenüber Bindestrich „-“ der XML in Nr. 3.",
+    "§ 3": "Nur Leerzeichen: Kopie „Lebens-(Sterbegeld-)“, XML „Lebens- (Sterbegeld-)“.",
+    "§ 10": "Drei Wortformen weichen ab: Kopie „Anerkennungen“ / XML „Anerkennung“ (Satz 1), Kopie „Rechtsgeschäfte“ / XML „Rechtsgeschäfts“ (Satz 3), Kopie „Erwerben“ / XML „Erwerbern“ (Satz 4 Nr. 4). Die amtliche PDF-Gesamtausgabe lautet wie die XML. Die Kopie wird nicht geändert.",
+    "§ 11": "Eine Wortform weicht ab: Kopie „ihres Zuständigkeitsbereichs“, XML „ihre Zuständigkeitsbereichs“. Die amtliche PDF-Gesamtausgabe lautet wie die XML. Die Kopie wird nicht geändert.",
+    "§ 13": "Die Kopie enthält zusätzlich Satz 2 (Außerkrafttreten der ErbStDV in der Fassung BGBl. III 611-8-1); XML und PDF von Gesetze im Internet enthalten nur Satz 1."
+  },
+  "nur_in_der_amtlichen_fassung": [
+    "Eingangsformel",
+    "Schlußformel"
+  ],
+  "gegenprobe_pdf_gesamtausgabe": {
+    "§ 10 Satz 1 „erteilten Anerkennung oder Genehmigungen“": true,
+    "§ 10 Satz 3 „auf Rechtsgeschäfts der“": true,
+    "§ 10 Satz 4 Nr. 4 „bei Erwerbern von Todes wegen“": true,
+    "§ 11 „Finanzämtern ihre Zuständigkeitsbereichs“": true,
+    "§ 13 nur Satz 1 („Diese Verordnung tritt am 1. August 1998 in Kraft.“, kein „außer Kraft“)": true,
+    "Muster 2 „als Begünstigter“": true,
+    "Eingangsformel vorhanden": true,
+    "Schlußformel vorhanden": true
+  },
+  "muster": {
+    "Muster 1": "Differenzen sind Layoutartefakte der ASCII-Tabelle in der XML: Spaltentrenner „I“ und Silbentrennungen an Zellenumbrüchen („Todes-/tag“, „Rücknahme-/preis“, „Wert-/papiere“, „Wertpapier-/kenn-Nr.“). Kein abweichendes Wort im Formulartext. Bezugszeile: Kopie „(zu § 1 ErbStDV)“, XML-Titel „(§ 1 ErbStDV)“.",
+    "Muster 2": "Differenzen sind Spaltentrenner „I“ der XML. Sachliche Abweichung: Kopie „als Begünstiger*“ (Zeile 554) gegenüber XML „als Begünstigter“ (Nr. 4). Die Kopie wird nicht geändert.",
+    "Muster 3": "Differenzen sind Spaltentrenner „I“ und Silbentrennungen der XML („Sterbe-/registers“, „minder-/jährigen“, „Einzelhandels-/geschäft“, „Groß-/handel“, „Handwerks-/betrieb“, „Land-“), die Groß-/Kleinschreibung „Bei/bei minderjährigen“ sowie Verklebungen und eine Wortdopplung der Kopie: „einenWohnsitz“ (Zeile 678), „welchenWert“ (Zeile 760), „angeben angeben“ (Zeile 768); XML „Land-“ gegenüber Kopie „land-“ (Zeile 764). Die Kopie wird nicht geändert.",
+    "Muster 4": "Einzige Differenz ist die Groß-/Kleinschreibung „Im Standesamtsbezirk“ (Kopie, Zeile 810) gegenüber „im Standesamtsbezirk“ (XML, nach einer Trennlinie). Kein weiteres abweichendes Wort.",
+    "Muster 5": "Vergleichsgrundlage ist die pdftotext-Extraktion des BGBl-Auszugs (BGBl. 2025 I Nr. 372, S. 9–10) aus dem XML-Paket. Differenzen sind Silbentrennungen an Zeilenumbrüchen der PDF („Testamentsvoll-/streckerzeugnisses“, „Eigentums-/umschreibung“). Sachliche Abweichung: Kopie „Testament­vollstrecker­zeugnisses“ (ohne Fugen-s, mit weichen Trennzeichen, Zeile 934) gegenüber amtlich „Testamentsvollstreckerzeugnisses“. Die Kopie wird nicht geändert.",
+    "Muster 6": "Differenzen sind Spaltentrenner „I“ der XML. Kein abweichendes Wort im Formulartext."
+  },
+  "ergebnis": "Stand der Kopie und der amtlichen Fassung stimmen überein (zuletzt geändert durch Art. 11 G v. 22.6.2026, BGBl. 2026 I Nr. 192). 8 von 13 Paragraphen sind nach Normalisierung zeichenidentisch; § 2 und § 3 weichen nur typografisch ab (Gedankenstrich, Leerzeichen). Sachliche Wortabweichungen: § 10 (drei Wortformen), § 11 (eine Wortform), § 13 (Satz 2 nur in der Kopie), Muster 2 („Begünstiger“), Muster 3 (Verklebungen, Wortdopplung), Muster 5 („Testament­vollstrecker­zeugnisses“). Die PDF-Gesamtausgabe von Gesetze im Internet lautet an allen geprüften Stellen wie die XML. Eingangsformel und Schlußformel fehlen in der Kopie. Die Kopie wird an keiner Stelle geändert.",
+  "einschraenkung": "Der Vergleich der Muster erfolgt als Wortmengenvergleich (Layout der amtlichen ASCII-Tabellen und Zeilenumbrüche der PDF bleiben unberücksichtigt); Muster 5 liegt amtlich nur als PDF vor. Welche Fassung (Kopie oder Gesetze im Internet) bei den Wortabweichungen dem Bundesgesetzblatt entspricht, wurde nicht gegen das Bundesgesetzblatt geprüft.",
+  "dateien": [
+    {
+      "datei": "Quellen/Onlineabgleich/GII_ErbStDV_Uebersichtsseite_2026-09-09.html",
+      "url": "https://www.gesetze-im-internet.de/erbstdv_1998/",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 9139,
+      "sha256": "9f15a7255a01ea6657c19ca4eee47cb904d98255194ca1fac3a74a8a83613d89",
+      "hinweis": "Übersichtsseite mit nichtamtlichem Inhaltsverzeichnis (HTTP 200, text/html, ISO-8859-1)."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/GII_ErbStDV_Uebersichtsseite_2026-09-09.html.headers.txt",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 333,
+      "sha256": "f3dbeb348eb0dec46042265d0c6232edbb7e8ef1c1b27c58e0763682381586a6",
+      "hinweis": "HTTP-Antwortkopf des Abrufs (curl -D)."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/GII_ErbStDV_BJNR265800998.html",
+      "url": "https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 60738,
+      "sha256": "b4a233848e91cdb27d0d0a5d15874eb94d67c7c2ce44f902fd031c46422f7dc8",
+      "hinweis": "HTML-Gesamtausgabe mit Standangabe (HTTP 200, text/html); Gegenprobe."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/GII_ErbStDV_BJNR265800998.html.headers.txt",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 334,
+      "sha256": "326cacf072313310eda15ab773f8a3144a12121d73d1b3725f63c6febdf03308",
+      "hinweis": "HTTP-Antwortkopf des Abrufs (curl -D)."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/GII_ErbStDV_xml.zip",
+      "url": "https://www.gesetze-im-internet.de/erbstdv_1998/xml.zip",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 89222,
+      "sha256": "91378f69d86abec585e0f8bf3467c67b5b7bed98959d0749fa04515a6c7435a2",
+      "hinweis": "XML-Paket der Gesamtausgabe (HTTP 200, application/zip); enthält BJNR265800998.xml und bgbl1_2025_j0372_0010.pdf."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/GII_ErbStDV_xml.zip.headers.txt",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 318,
+      "sha256": "a66144e3af31f7c8fc69a55029e58017fb1c8641165a80104c7e2f44cc074136",
+      "hinweis": "HTTP-Antwortkopf des Abrufs (curl -D)."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/BJNR265800998.xml",
+      "url": "https://www.gesetze-im-internet.de/erbstdv_1998/xml.zip",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 50493,
+      "sha256": "7696d496c8c94a771af67cbe835806545a4849217b056ed758d37465bd0ca200",
+      "hinweis": "Aus dem XML-Paket entpackte Gesamtausgabe (builddate 20260630215606); Grundlage des Wortlautabgleichs."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/bgbl1_2025_j0372_0010.pdf",
+      "url": "https://www.gesetze-im-internet.de/erbstdv_1998/xml.zip",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 82804,
+      "sha256": "ab39836548e31980ce19f472f2d00ac2f8b0b9c8ccc73e30f14a277de22bc0c6",
+      "hinweis": "Aus dem XML-Paket entpackter BGBl-Auszug (BGBl. 2025 I Nr. 372, S. 9–10) mit Muster 5."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/GII_ErbStDV.pdf",
+      "url": "https://www.gesetze-im-internet.de/erbstdv_1998/ErbStDV.pdf",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 96862,
+      "sha256": "5f58dbef57a9a2a94771e06944c93456f08c5040350590815bcbe5b2ca829716",
+      "hinweis": "PDF-Gesamtausgabe (HTTP 200, application/pdf); Gegenprobe der Abweichungen."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/GII_ErbStDV.pdf.headers.txt",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 318,
+      "sha256": "00ae2f5d7549f0fd14b4338a5411c0e6ff61fa84a59a79c2c66a6a8c66e77e97",
+      "hinweis": "HTTP-Antwortkopf des Abrufs (curl -D)."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/GII_ErbStDV_pdftotext.txt",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 44790,
+      "sha256": "7a704426b0072d9136ca13ce0870fae90dc4f5d29d7df01128cf7dcf2f1e5fc6",
+      "hinweis": "Textextraktion der PDF-Gesamtausgabe mit Poppler pdftotext -layout -enc UTF-8."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/bgbl1_2025_j0372_0010_pdftotext.txt",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 4849,
+      "sha256": "d0f64e6a1de72c749c07f36d7f6e656d43ae0e6a742f66f0adacc8154d161237",
+      "hinweis": "Textextraktion des BGBl-Auszugs mit Poppler pdftotext -layout -enc UTF-8; Vergleichsgrundlage für Muster 5."
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/Wortlautabgleich.json",
+      "url": null,
+      "abgerufen_am": "2026-09-09",
+      "bytes": 16948,
+      "sha256": "c83e11efd15f4fc76565cfac694918f2dc5d16d9cf70d5995406c2c69ceceafc",
+      "hinweis": "Ergebnis von Pruefung/wortlautabgleich.py: Abweichungen je Paragraph und Muster."
+    }
+  ]
+}

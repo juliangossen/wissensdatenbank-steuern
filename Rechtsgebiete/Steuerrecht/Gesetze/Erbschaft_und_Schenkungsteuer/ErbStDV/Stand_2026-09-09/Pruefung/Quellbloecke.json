@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "z2-2",
+    "zeile_von": 2,
+    "zeile_bis": 2,
+    "datei": "ErbStDV.md",
+    "art": "dokumentkopf",
+    "sha256_sichtbarer_quelltext": "0a6217a502539ea8af99de1d506d3076fe426e3235393667e090ed4b17696d18"
+  },
+  {
+    "id": "z3-7",
+    "zeile_von": 3,
+    "zeile_bis": 7,
+    "datei": "ErbStDV.md",
+    "art": "dokumentkopf",
+    "sha256_sichtbarer_quelltext": "49c70e405a35763f9af3bc51a83e09b655a85dca3362002e8cbba62e6bd15fcc"
+  },
+  {
+    "id": "z9-10",
+    "zeile_von": 9,
+    "zeile_bis": 10,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "06565df2edcb1b7fe340ce3f04edae6f0f2380d3b8496bb5441e7bf18d4f0fb9"
+  },
+  {
+    "id": "z12-12",
+    "zeile_von": 12,
+    "zeile_bis": 12,
+    "datei": "ErbStDV.md",
+    "art": "gliederungsgruppe",
+    "sha256_sichtbarer_quelltext": "9bf471ba813baa3e9d09d524ae29d44190a40a6ae9957d9aca4a46c496602f34"
+  },
+  {
+    "id": "z13-13",
+    "zeile_von": 13,
+    "zeile_bis": 13,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "039bde2a9ff20f155efe05155076d2eb486ea879e99cccb0e1313b30814542d1"
+  },
+  {
+    "id": "z14-14",
+    "zeile_von": 14,
+    "zeile_bis": 14,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "d072cacbe15307ef96f19c62404bf5d06c2f8ff5e1017b8a8981689e1f7f6b4c"
+  },
+  {
+    "id": "z16-16",
+    "zeile_von": 16,
+    "zeile_bis": 16,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "ab5acb7a24e144fabacde74215838dc9503fd2a6405c21f6efea52a476971748"
+  },
+  {
+    "id": "z18-18",
+    "zeile_von": 18,
+    "zeile_bis": 18,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "b507afaec377ef2f731c3df42ded507d72e5029ad5a05fc6bfa31813cab1f197"
+  },
+  {
+    "id": "z20-20",
+    "zeile_von": 20,
+    "zeile_bis": 20,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "6b3285c9338007e1b594e7901f75c7589be5c18f971d38bfae476b7ad97d643b"
+  },
+  {
+    "id": "z22-24",
+    "zeile_von": 22,
+    "zeile_bis": 24,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "5983ab11ca36d603a61043f93c9672e98c8b11b55ba6513ab0b75e7c9c5a4180"
+  },
+  {
+    "id": "z26-27",
+    "zeile_von": 26,
+    "zeile_bis": 27,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "60db8d81ce453b67ceedc5213e688818c0351f48a2d498d2b8ddcfde2d8833c1"
+  },
+  {
+    "id": "z29-30",
+    "zeile_von": 29,
+    "zeile_bis": 30,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "28c5030da83221b6f04819b14f93fd70fc336d49f7d9ce4adec98df082be394b"
+  },
+  {
+    "id": "z32-32",
+    "zeile_von": 32,
+    "zeile_bis": 32,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "0fd6c946fcefc6588c7c5352ade13ca73ea7c388fdf101e3dda921a273d94836"
+  },
+  {
+    "id": "z33-33",
+    "zeile_von": 33,
+    "zeile_bis": 33,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "2119054f8d837598e140a855e2fb980755db78a7915243714ed46b6c3070cba4"
+  },
+  {
+    "id": "z35-41",
+    "zeile_von": 35,
+    "zeile_bis": 41,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "8e81fb92e3b9aaa734aff24dae1116e815cea0e21de2138eba1aa4feb48c5178"
+  },
+  {
+    "id": "z43-43",
+    "zeile_von": 43,
+    "zeile_bis": 43,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "407f338882aef1acc1dce9bc9eb8aa355db5b5ffc21104b1e60c76c588750dc1"
+  },
+  {
+    "id": "z45-46",
+    "zeile_von": 45,
+    "zeile_bis": 46,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "351aef76bbd6d4b3b17905c875259cb56302e486234b6abae7528bcf1f76c495"
+  },
+  {
+    "id": "z48-49",
+    "zeile_von": 48,
+    "zeile_bis": 49,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "3af3208fe380f8ce5194d441922be7566fa4e3b3f3ce9d41013737628977a408"
+  },
+  {
+    "id": "z51-52",
+    "zeile_von": 51,
+    "zeile_bis": 52,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "a5b8d01f2df1729eb0a1f282473fb4fbeeeb4def14bb44a25608a7aaf5f64951"
+  },
+  {
+    "id": "z54-54",
+    "zeile_von": 54,
+    "zeile_bis": 54,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "f6b759540bfcfbb6b053404f3facf9f998e4b7432d9d3c8e82b8913970e37e5c"
+  },
+  {
+    "id": "z55-55",
+    "zeile_von": 55,
+    "zeile_bis": 55,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "a2fbcc7a9dafc6f29a40be898f2181f557a70552e79ce1f87e531b6d90c03cc6"
+  },
+  {
+    "id": "z57-57",
+    "zeile_von": 57,
+    "zeile_bis": 57,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "9cc079581d216ec2b1486331524de597442322db02b479b4262f80ee1faab226"
+  },
+  {
+    "id": "z59-59",
+    "zeile_von": 59,
+    "zeile_bis": 59,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "1ccbe1f4498281a66f7c16e630e05ca4c6d0e1a9a005ee80c3075a5cfed968b9"
+  },
+  {
+    "id": "z61-62",
+    "zeile_von": 61,
+    "zeile_bis": 62,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "737d455aacf88f2d135924b2077f570ff3df22d73156983419b9b7377eafda7d"
+  },
+  {
+    "id": "z64-65",
+    "zeile_von": 64,
+    "zeile_bis": 65,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "6d6322dcda9686cba77c32c89688ffae5785c99e2db92c6bb5d1cbd1eb0af3fd"
+  },
+  {
+    "id": "z67-67",
+    "zeile_von": 67,
+    "zeile_bis": 67,
+    "datei": "ErbStDV.md",
+    "art": "gliederungsgruppe",
+    "sha256_sichtbarer_quelltext": "1617ace5791b69679888371e1f59607030583aebe2893c4fa62b1d87daceb2bf"
+  },
+  {
+    "id": "z68-68",
+    "zeile_von": 68,
+    "zeile_bis": 68,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "d3e30593728021b977c1cce9b5b5fd68b6ee815e75b5cf106c4cb22b760c1312"
+  },
+  {
+    "id": "z69-69",
+    "zeile_von": 69,
+    "zeile_bis": 69,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "2561bf48e8eb15fb74b09e6180173dfe3c67d023373b675725c37e05d8915cf3"
+  },
+  {
+    "id": "z71-71",
+    "zeile_von": 71,
+    "zeile_bis": 71,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "8632548606bc6fb4c7bc6d2f5e014e11b1defa749773d9c9054f2adc482e019c"
+  },
+  {
+    "id": "z73-73",
+    "zeile_von": 73,
+    "zeile_bis": 73,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "45ffa91453f1717d6a9c9a9419d91094873c5f62f695c41e9ed65383da82959c"
+  },
+  {
+    "id": "z75-79",
+    "zeile_von": 75,
+    "zeile_bis": 79,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "a285aa1ed21b686cd06b34fc615ecb6be74303a38a72d62c0aae8499a3e10f15"
+  },
+  {
+    "id": "z81-81",
+    "zeile_von": 81,
+    "zeile_bis": 81,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "38edc447d542bde93cfa116548d8eb795737df1a6794ea36d2aa63e71045e3c4"
+  },
+  {
+    "id": "z83-85",
+    "zeile_von": 83,
+    "zeile_bis": 85,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "931e937a41b0e7086f4d36404b23fbf7849bfef9c072137ae1bee94010fbdcc8"
+  },
+  {
+    "id": "z87-87",
+    "zeile_von": 87,
+    "zeile_bis": 87,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "e527947aa95ba8a9cc4cd23491ade96a6b54c2c5f45a60de1c9fc1c7f3f9f662"
+  },
+  {
+    "id": "z89-90",
+    "zeile_von": 89,
+    "zeile_bis": 90,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "baa12d0058099a29d014217006fc4dbffc4e1965f0deae92cec5212200d9d403"
+  },
+  {
+    "id": "z92-93",
+    "zeile_von": 92,
+    "zeile_bis": 93,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "a9f6f70fed2bb94df390d1e58997544f0122f3ac71afbee79ac87c0b6fa9a1a3"
+  },
+  {
+    "id": "z95-96",
+    "zeile_von": 95,
+    "zeile_bis": 96,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "230cf661b6199d914f811789cc3b81391a1fdc81296b3b75e2ce3027cc4c14ba"
+  },
+  {
+    "id": "z98-99",
+    "zeile_von": 98,
+    "zeile_bis": 99,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "79015066ea997e5052da8aa1e964885905d60da04851c4df30ceb0e18745e6c0"
+  },
+  {
+    "id": "z101-101",
+    "zeile_von": 101,
+    "zeile_bis": 101,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "82a1f9c1a4a5ee2b258ddb1cd67e14207679d04f2486c95c1593fe59af49f001"
+  },
+  {
+    "id": "z102-102",
+    "zeile_von": 102,
+    "zeile_bis": 102,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "beecbd764e0c5d8562559b3d0eb39a407c6dc833739b930b814240d321961946"
+  },
+  {
+    "id": "z104-104",
+    "zeile_von": 104,
+    "zeile_bis": 104,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "a0cd1147c208ed055a142a082fda5f97a94d25ab15995470ebba647c620683aa"
+  },
+  {
+    "id": "z106-106",
+    "zeile_von": 106,
+    "zeile_bis": 106,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "de9fb43b20151c580dfa2a7867a4d069a2fa1b6a50a0656af419e31b086d0bc4"
+  },
+  {
+    "id": "z107-107",
+    "zeile_von": 107,
+    "zeile_bis": 107,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "20b799ac5a4c145767d33fa4c9efe9c2d26b5b010d92384748cf7d215d21d339"
+  },
+  {
+    "id": "z109-109",
+    "zeile_von": 109,
+    "zeile_bis": 109,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "f9242a425fed1d1f89d2577e7e4ea61a9cd7f44e6647a45126ffbb777b77be54"
+  },
+  {
+    "id": "z111-111",
+    "zeile_von": 111,
+    "zeile_bis": 111,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "1812ed6f0a87a1ee2ca048939403c0ac50c36473489616d6687563fd914599ea"
+  },
+  {
+    "id": "z112-112",
+    "zeile_von": 112,
+    "zeile_bis": 112,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "8155ba22a89935d3bc85018df20514182185c2ed0aa761239aa72552ec5684ba"
+  },
+  {
+    "id": "z114-128",
+    "zeile_von": 114,
+    "zeile_bis": 128,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "9cf5e07c94177113cb2039bb6181be10abd136f03c7679ed3149ee87ed007942"
+  },
+  {
+    "id": "z130-130",
+    "zeile_von": 130,
+    "zeile_bis": 130,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "656a81e4e3258a898daa1fba544890abc4a2e1b876288e7dfffadc8316842967"
+  },
+  {
+    "id": "z132-132",
+    "zeile_von": 132,
+    "zeile_bis": 132,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "8e7c1e1be1b9cc74ee2d53fabd1118ba9f14c90ea1208792a2d1cea788bfb527"
+  },
+  {
+    "id": "z134-136",
+    "zeile_von": 134,
+    "zeile_bis": 136,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "fb21e573aa8880d697c84e0080e6ef916983c8d43ba5d9036ebcccb86a43f925"
+  },
+  {
+    "id": "z138-138",
+    "zeile_von": 138,
+    "zeile_bis": 138,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "7fdd2647ad0be1553ad4ad9c9d30eb7f608d207dc5badcc7f27645e09d46a7d6"
+  },
+  {
+    "id": "z140-148",
+    "zeile_von": 140,
+    "zeile_bis": 148,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "714720a86ce7468948f6441f061c8ffb84889ea82d360023d1c3a1ca9be3b7bb"
+  },
+  {
+    "id": "z150-150",
+    "zeile_von": 150,
+    "zeile_bis": 150,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "deeb8f9f9fbba44ee7eb984b8b692298c6e09cb322698c9bd3f2c72e86fa0399"
+  },
+  {
+    "id": "z152-158",
+    "zeile_von": 152,
+    "zeile_bis": 158,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "6ca94cea5f3f4f60d530d2f532e98acd8f5e4069a771159038743166d82cdbb3"
+  },
+  {
+    "id": "z160-160",
+    "zeile_von": 160,
+    "zeile_bis": 160,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "2132bca023c0d5ea1b527cc03cfe98ee5f4d95353ddbafc1552e2ac9c66858e3"
+  },
+  {
+    "id": "z162-163",
+    "zeile_von": 162,
+    "zeile_bis": 163,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "f2e17cb79a1e5dd128f9a4675f801ae48da6fb2b7e09fb3ddd8180059290e2a1"
+  },
+  {
+    "id": "z165-166",
+    "zeile_von": 165,
+    "zeile_bis": 166,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "a9c23b0e8a6017398b252d0eea9e747c04e9cdb650ee8cb42218285ee15ae69b"
+  },
+  {
+    "id": "z168-169",
+    "zeile_von": 168,
+    "zeile_bis": 169,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "cedf2b48b1dcebbf727aff7e44c26d09cc294bc5c9bceb3c9d71ebc497b58081"
+  },
+  {
+    "id": "z171-172",
+    "zeile_von": 171,
+    "zeile_bis": 172,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "7d6297ce99a66b48f9e6d9338a279b12552784bb69e5230ac2c607a1edb8c7cf"
+  },
+  {
+    "id": "z174-175",
+    "zeile_von": 174,
+    "zeile_bis": 175,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "1c12fe384b2744d4cdce041febb5cd45f2ef63d29527a6064b2e722f33871e39"
+  },
+  {
+    "id": "z177-178",
+    "zeile_von": 177,
+    "zeile_bis": 178,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "eac3570385b6c24bc32ca79217ec60c0196f328bcfd7996b6fd7e8f9102b16b7"
+  },
+  {
+    "id": "z180-181",
+    "zeile_von": 180,
+    "zeile_bis": 181,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "6e8c12cb8050d373bceb4e70173c5cb43323fc17f137c1ae4458ec2222f966ce"
+  },
+  {
+    "id": "z183-184",
+    "zeile_von": 183,
+    "zeile_bis": 184,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "10bcaf0891f7b0d5eb53e341c14c5a8a5d1dc2ad69a1698be2f5a7aec53c755f"
+  },
+  {
+    "id": "z186-187",
+    "zeile_von": 186,
+    "zeile_bis": 187,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "fc9e742fdb4a1fe23b9d4f4e79ef8ef4de93e8fe3aa0794a47acacfc2676e84d"
+  },
+  {
+    "id": "z189-190",
+    "zeile_von": 189,
+    "zeile_bis": 190,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "69fdf9ca5f2ddf6827fdd7440df86d45dbb2a1310610021e6075b586c677a34c"
+  },
+  {
+    "id": "z192-193",
+    "zeile_von": 192,
+    "zeile_bis": 193,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "301632d1f93f18d8b550096b700b9f23fdb2ce2fc3627aa1b59e4a2f787e04d6"
+  },
+  {
+    "id": "z195-195",
+    "zeile_von": 195,
+    "zeile_bis": 195,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "121006a89f72cdd08d697b45c3699c377b4a6750487399dd97e37ae69b539d28"
+  },
+  {
+    "id": "z196-196",
+    "zeile_von": 196,
+    "zeile_bis": 196,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "fb14516941e36eb86442a0baa7244032f33a812bdb8163c0fdf9a12bb63e4f02"
+  },
+  {
+    "id": "z198-200",
+    "zeile_von": 198,
+    "zeile_bis": 200,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "da630039101cfa77b0497c45134989c922d7d95602d49eba8ba1b97d03d70470"
+  },
+  {
+    "id": "z202-202",
+    "zeile_von": 202,
+    "zeile_bis": 202,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "f10e7f80c9d023c52c8aa37b917317e6ecf46812ca8db73ca52c563395c5b1ac"
+  },
+  {
+    "id": "z204-204",
+    "zeile_von": 204,
+    "zeile_bis": 204,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "94359e03a8ebbf3bdec9187744b48bfac069a8fa503e6f7e9198fef7143e0fde"
+  },
+  {
+    "id": "z206-206",
+    "zeile_von": 206,
+    "zeile_bis": 206,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "c6731dbe83334ff15d08cc0cf6e3eda1efb1fde526908f4b37804fa30afc9570"
+  },
+  {
+    "id": "z208-208",
+    "zeile_von": 208,
+    "zeile_bis": 208,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "bb683628e9afc2507a72d50a30ee8272d11b4707dd6e94e2caae41cfe3d1270b"
+  },
+  {
+    "id": "z210-211",
+    "zeile_von": 210,
+    "zeile_bis": 211,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "757ba3c8f26c77957598fa7491d395e8081af6b974b28cd3f8e8e3484a26e398"
+  },
+  {
+    "id": "z213-214",
+    "zeile_von": 213,
+    "zeile_bis": 214,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "7da3936c7f6c2433cbb1458eaf32d2e4c0ac2bcd3d8b9c10d7dabd14346d9930"
+  },
+  {
+    "id": "z216-217",
+    "zeile_von": 216,
+    "zeile_bis": 217,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "394f9dd11bc5833f9cfb747683dcc3df2546558d1f935aa4bb46c4ced1b20e7c"
+  },
+  {
+    "id": "z219-220",
+    "zeile_von": 219,
+    "zeile_bis": 220,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "a386fde6904ced94d9ba0eb54974f2a5ae48f5e3868bf4a114201ac54333b278"
+  },
+  {
+    "id": "z222-222",
+    "zeile_von": 222,
+    "zeile_bis": 222,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "1daf06d6de8e89377540c8f0ede5eac72f705cc864be85a12e0b157b392953cf"
+  },
+  {
+    "id": "z223-223",
+    "zeile_von": 223,
+    "zeile_bis": 223,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "2f54f751f871d8ca6bb22a1e363fd5068aacb4f4ed27ae6721b19a4376bb1c11"
+  },
+  {
+    "id": "z225-227",
+    "zeile_von": 225,
+    "zeile_bis": 227,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "99ebb68b511eaf05064004c9a9c7284329026350555e887b0e86874469d29786"
+  },
+  {
+    "id": "z229-229",
+    "zeile_von": 229,
+    "zeile_bis": 229,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "52dfbbf46648fd74935cc22d48efbb23b0b78e62851d934dcede9ff94a2329b6"
+  },
+  {
+    "id": "z231-232",
+    "zeile_von": 231,
+    "zeile_bis": 232,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "e526ef0c8ea12444c9c96f5739a847bedbc6aab95329f80c481e0959a18f78bd"
+  },
+  {
+    "id": "z234-234",
+    "zeile_von": 234,
+    "zeile_bis": 234,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "c8710aadff6983f5e115f006c3d69755ca48108e668505c255cef2abfe3acd06"
+  },
+  {
+    "id": "z235-235",
+    "zeile_von": 235,
+    "zeile_bis": 235,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "82401f630edf888005167f57abafc3d1eaa68eb9d4a38cbb64d41b1ad0e03b76"
+  },
+  {
+    "id": "z237-247",
+    "zeile_von": 237,
+    "zeile_bis": 247,
+    "datei": "ErbStDV.md",
+    "art": "aufzaehlung",
+    "sha256_sichtbarer_quelltext": "e6a24cd71fa5f9a665d9b0c2d0dcf99deaca03f13057053e42b9329634e0c5ab"
+  },
+  {
+    "id": "z249-249",
+    "zeile_von": 249,
+    "zeile_bis": 249,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "5fadb1cecf27587f66fefa605fd986d5f34bfcdfbc34f071a5ecda4e7e3db78e"
+  },
+  {
+    "id": "z251-252",
+    "zeile_von": 251,
+    "zeile_bis": 252,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "65e6d5bed085b5659232650305080814c427ebd8bd907e839aefb983c384f037"
+  },
+  {
+    "id": "z254-255",
+    "zeile_von": 254,
+    "zeile_bis": 255,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "dbca6631357c11b922ef3f56a6a18f7ed3b3bd64b8f69e2b9dcf19c94eb02880"
+  },
+  {
+    "id": "z257-258",
+    "zeile_von": 257,
+    "zeile_bis": 258,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "c7168d5d21d573f72a766e67eec5252009159eaac398f5b2863f850cbc780442"
+  },
+  {
+    "id": "z260-260",
+    "zeile_von": 260,
+    "zeile_bis": 260,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "a3fde12cfee8f99c6557d14d94ba3aa97d620bd7f4ed7d55ff64ec90ea466412"
+  },
+  {
+    "id": "z261-261",
+    "zeile_von": 261,
+    "zeile_bis": 261,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "f3eab838f70ff1d4ba6643ee595795261479743ce5ceaf934ad5b3aa59963dcb"
+  },
+  {
+    "id": "z263-263",
+    "zeile_von": 263,
+    "zeile_bis": 263,
+    "datei": "ErbStDV.md",
+    "art": "gliederungsgruppe",
+    "sha256_sichtbarer_quelltext": "6f4cc9af28840b97a0d2a3c744fae954896f5cd23944c33993af58dfc24de7dd"
+  },
+  {
+    "id": "z264-264",
+    "zeile_von": 264,
+    "zeile_bis": 264,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "3cf213f7ef0e41377a87d52855a8c73555b115c9b162ad12dd723a3984e9f032"
+  },
+  {
+    "id": "z265-265",
+    "zeile_von": 265,
+    "zeile_bis": 265,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "86b6ae80caabaecd8d89b2405889bdfc622353b15e83fe514c21092e8c4f9f94"
+  },
+  {
+    "id": "z267-267",
+    "zeile_von": 267,
+    "zeile_bis": 267,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "37ab1374d65298c740a4a6bd86c0dbbc916030b2715ba90a8a051acc11a6092d"
+  },
+  {
+    "id": "z269-269",
+    "zeile_von": 269,
+    "zeile_bis": 269,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "6434004aa3e047ef5d96b28d8dcbeadf3ce9055ebc753fc5ae290b482bbafa6d"
+  },
+  {
+    "id": "z271-271",
+    "zeile_von": 271,
+    "zeile_bis": 271,
+    "datei": "ErbStDV.md",
+    "art": "absatz",
+    "sha256_sichtbarer_quelltext": "7d46d5661fab66a19cf7106356bc35f6ca4a9349258f9c410b32ac6a45e4fe47"
+  },
+  {
+    "id": "z273-274",
+    "zeile_von": 273,
+    "zeile_bis": 274,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "6bc9d0bd1cef90e0e5269c8e1cfe2fd941fc1c080758d3970d65ed44c1bc3e0f"
+  },
+  {
+    "id": "z276-277",
+    "zeile_von": 276,
+    "zeile_bis": 277,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "d017b5cef98722d98c7aba1a8bd95f08c83ef5c31200b308b44796e9ca03f1d9"
+  },
+  {
+    "id": "z279-280",
+    "zeile_von": 279,
+    "zeile_bis": 280,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "cd4192b5e0f614226e42ba72b1f10b8bf354459ebd827724115b69c608cd47b9"
+  },
+  {
+    "id": "z282-282",
+    "zeile_von": 282,
+    "zeile_bis": 282,
+    "datei": "ErbStDV.md",
+    "art": "paragraph",
+    "sha256_sichtbarer_quelltext": "a67202db6f09fac1ff4f4c768a333a7f4e20ef262e3fa67a1561d55db288d143"
+  },
+  {
+    "id": "z283-283",
+    "zeile_von": 283,
+    "zeile_bis": 283,
+    "datei": "ErbStDV.md",
+    "art": "absatztext",
+    "sha256_sichtbarer_quelltext": "6fee6542a550adf1dda60d80b93e3cf7ad1bd421f991aa1c4694e778abc0713e"
+  },
+  {
+    "id": "z285-285",
+    "zeile_von": 285,
+    "zeile_bis": 285,
+    "datei": "ErbStDV.md",
+    "art": "anlage",
+    "sha256_sichtbarer_quelltext": "c5750e0b51fa7634132f4ff7cc57f62efd992e9f0d66a9d7536438802820c116"
+  },
+  {
+    "id": "z286-286",
+    "zeile_von": 286,
+    "zeile_bis": 286,
+    "datei": "ErbStDV.md",
+    "art": "anlage_bezug",
+    "sha256_sichtbarer_quelltext": "f03a8ae80307ccf00d3cd9ab2f6ed8da09f60b2884be0dddbb6282a90aec5df8"
+  },
+  {
+    "id": "z288-298",
+    "zeile_von": 288,
+    "zeile_bis": 298,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "31d7d25d4661deb677c580a5c94fde2f99abde4cd161862e02f880400110ab9e"
+  },
+  {
+    "id": "z302-302",
+    "zeile_von": 302,
+    "zeile_bis": 302,
+    "datei": "ErbStDV.md",
+    "art": "formulartitel",
+    "sha256_sichtbarer_quelltext": "2e2f6d648fdd0619987362ec8e1bd5c47742c1b1083abc8c78e7fff6ef11cda4"
+  },
+  {
+    "id": "z304-304",
+    "zeile_von": 304,
+    "zeile_bis": 304,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "d8e89ebee1c9768fe40223357a152082ad4c3090045060c078b34b733453b275"
+  },
+  {
+    "id": "z308-338",
+    "zeile_von": 308,
+    "zeile_bis": 338,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "9f2c28be25adfac403b39a6665a68f6ec6443015847dc1ea18aa046d6285c090"
+  },
+  {
+    "id": "z340-368",
+    "zeile_von": 340,
+    "zeile_bis": 368,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "71bba3fbe4cac306e9e55899a87b5ea1caba3544224d2cb3b3e1eb2d099b64fb"
+  },
+  {
+    "id": "z370-404",
+    "zeile_von": 370,
+    "zeile_bis": 404,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "da0dd08b7d6d6cb1ff748b9b77b57b5000fda4a2a8b9f3aabb73fe6ee0bf316d"
+  },
+  {
+    "id": "z406-412",
+    "zeile_von": 406,
+    "zeile_bis": 412,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "becbf6bff26f35df94891afa1b238709c774a6d3ca1bd5726df661fa606ef2b6"
+  },
+  {
+    "id": "z414-428",
+    "zeile_von": 414,
+    "zeile_bis": 428,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "afc1ce286f42130838a422f935c89ea96e36f159a6826b690a43b4c0bb5b64ec"
+  },
+  {
+    "id": "z430-431",
+    "zeile_von": 430,
+    "zeile_bis": 431,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "3f3365830853bfcc9cc097031358941d2b976e8c5d14690f84ece3f2a49d7488"
+  },
+  {
+    "id": "z433-433",
+    "zeile_von": 433,
+    "zeile_bis": 433,
+    "datei": "ErbStDV.md",
+    "art": "anlage",
+    "sha256_sichtbarer_quelltext": "b3d8c2cad785dfab388e8589ecc97a6fff1c4c9e78411a9d1e008c0448066090"
+  },
+  {
+    "id": "z434-434",
+    "zeile_von": 434,
+    "zeile_bis": 434,
+    "datei": "ErbStDV.md",
+    "art": "anlage_bezug",
+    "sha256_sichtbarer_quelltext": "67bf22bcf26f3fc369d551103fd0a876cce7859908b51003e3d619a98e99fdec"
+  },
+  {
+    "id": "z436-446",
+    "zeile_von": 436,
+    "zeile_bis": 446,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "31d7d25d4661deb677c580a5c94fde2f99abde4cd161862e02f880400110ab9e"
+  },
+  {
+    "id": "z450-450",
+    "zeile_von": 450,
+    "zeile_bis": 450,
+    "datei": "ErbStDV.md",
+    "art": "formulartitel",
+    "sha256_sichtbarer_quelltext": "2e2f6d648fdd0619987362ec8e1bd5c47742c1b1083abc8c78e7fff6ef11cda4"
+  },
+  {
+    "id": "z452-452",
+    "zeile_von": 452,
+    "zeile_bis": 452,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "369c3fed31c48aa8c324c1a2603bb5aab907688e1072088fb121e2ab25bf9463"
+  },
+  {
+    "id": "z456-516",
+    "zeile_von": 456,
+    "zeile_bis": 516,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "133e9783a68adf5589c8943f3ca3b378a973b07b0c7090a4ce60e9bf8b17e648"
+  },
+  {
+    "id": "z518-520",
+    "zeile_von": 518,
+    "zeile_bis": 520,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "1109b23a8445b6bc64f26919e12b63c6834b3c626b50a7457d78cfcd12c4f89e"
+  },
+  {
+    "id": "z522-538",
+    "zeile_von": 522,
+    "zeile_bis": 538,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "b2aa6ee5954aca3f7c512d5d4471336df36a751244171256249ac85301b02562"
+  },
+  {
+    "id": "z540-562",
+    "zeile_von": 540,
+    "zeile_bis": 562,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "5f077456fa14e64e5c6edc50c197f7fa628bfdd87a142413df244bb22978685c"
+  },
+  {
+    "id": "z564-566",
+    "zeile_von": 564,
+    "zeile_bis": 566,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "dafdcf5c70fdfb979237371921d759281f2a3b7c4dc7f4999d5f1d8a08206efc"
+  },
+  {
+    "id": "z568-574",
+    "zeile_von": 568,
+    "zeile_bis": 574,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "efd4105505c5c5d4d4b3540110b66c1e11fd5bf4d06d2c9ed20aa451c350ebfb"
+  },
+  {
+    "id": "z576-592",
+    "zeile_von": 576,
+    "zeile_bis": 592,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "777f94d69947a0115c36695903d54a8273d12fbd753d30eaa099465c4a296d8e"
+  },
+  {
+    "id": "z594-595",
+    "zeile_von": 594,
+    "zeile_bis": 595,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "2fdc3f1edc5efbfa92fada534493096b537b362c16fb1cc1b7e1c37096ab5d1a"
+  },
+  {
+    "id": "z597-597",
+    "zeile_von": 597,
+    "zeile_bis": 597,
+    "datei": "ErbStDV.md",
+    "art": "anlage",
+    "sha256_sichtbarer_quelltext": "9dbd281dee8851d2c35277ccbccfe7112f6056ee53ac5714f638ecefb59b390b"
+  },
+  {
+    "id": "z598-598",
+    "zeile_von": 598,
+    "zeile_bis": 598,
+    "datei": "ErbStDV.md",
+    "art": "anlage_bezug",
+    "sha256_sichtbarer_quelltext": "2430be5b4a11f8c94321dea5ffa26179344b8044501815610c0a32cc567d864e"
+  },
+  {
+    "id": "z600-604",
+    "zeile_von": 600,
+    "zeile_bis": 604,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "d6fb50591c4cbc1a6f38b6e0bcefcea695ac2e1175f2504a1341a32cde5c9656"
+  },
+  {
+    "id": "z606-606",
+    "zeile_von": 606,
+    "zeile_bis": 606,
+    "datei": "ErbStDV.md",
+    "art": "formulartitel",
+    "sha256_sichtbarer_quelltext": "17037e83b7c99ca2d4720876d4494ba9e2aa301762668674cdf605b87e625be8"
+  },
+  {
+    "id": "z608-616",
+    "zeile_von": 608,
+    "zeile_bis": 616,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "e05a5c694ddc41d9c94b89212792f8f6e45aee7a2c9552b67b9a59bb46cf93dc"
+  },
+  {
+    "id": "z620-620",
+    "zeile_von": 620,
+    "zeile_bis": 620,
+    "datei": "ErbStDV.md",
+    "art": "formulartitel",
+    "sha256_sichtbarer_quelltext": "03186f7531dd6e353ba5509f85492e0b91f8094d7a54c0da32ffadec4ea77374"
+  },
+  {
+    "id": "z622-624",
+    "zeile_von": 622,
+    "zeile_bis": 624,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "67ffcd737c33e2b2e48e83b6d6147ff652b15b6ad7eca732865f56d0569f83df"
+  },
+  {
+    "id": "z626-636",
+    "zeile_von": 626,
+    "zeile_bis": 636,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "cdae9d826004751b93c755f67b51000ff0610dd11cf97586992b123f3925c058"
+  },
+  {
+    "id": "z638-660",
+    "zeile_von": 638,
+    "zeile_bis": 660,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "4f6fc4cac285feef964bde770897c982818b43997fbac1d7751279e674d2fd6e"
+  },
+  {
+    "id": "z662-664",
+    "zeile_von": 662,
+    "zeile_bis": 664,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "250da3892689159bb0a5c205f479d1b3e8ccde56e727219e147a86e4915c98d6"
+  },
+  {
+    "id": "z666-696",
+    "zeile_von": 666,
+    "zeile_bis": 696,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "b545266c09d792e40d2483b7e1bca923a8ed3ef96d6def8f9ab438397bf84636"
+  },
+  {
+    "id": "z698-698",
+    "zeile_von": 698,
+    "zeile_bis": 698,
+    "datei": "ErbStDV.md",
+    "art": "seitenmarker",
+    "sha256_sichtbarer_quelltext": "7437d46a2c3996d76bdb9c1cb965be62fd3a056f557da190fcb8a60055589369"
+  },
+  {
+    "id": "z702-738",
+    "zeile_von": 702,
+    "zeile_bis": 738,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "c7611916fbb555bd24fea26f4c46234ce1b49ca0633a242c25afd7867805da40"
+  },
+  {
+    "id": "z744-744",
+    "zeile_von": 744,
+    "zeile_bis": 744,
+    "datei": "ErbStDV.md",
+    "art": "seitenmarker",
+    "sha256_sichtbarer_quelltext": "898c20191a38b7eb041efa4228add68d753bcc74d9f7732ef19bd7a2fabe4d7d"
+  },
+  {
+    "id": "z748-784",
+    "zeile_von": 748,
+    "zeile_bis": 784,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "bb968154be3cb3cd20298da5f0f575c9ac049d078b68f6a3bec8aa2e01169c2e"
+  },
+  {
+    "id": "z786-787",
+    "zeile_von": 786,
+    "zeile_bis": 787,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "ece3f441b3ca31a84384e6e7db670c81178e5f89a26440f012aa08b68e014677"
+  },
+  {
+    "id": "z789-789",
+    "zeile_von": 789,
+    "zeile_bis": 789,
+    "datei": "ErbStDV.md",
+    "art": "anlage",
+    "sha256_sichtbarer_quelltext": "5d9b9474fd2d25797cf8576718fd818d36a701aba13fdabddf286cccdd3e8e14"
+  },
+  {
+    "id": "z790-790",
+    "zeile_von": 790,
+    "zeile_bis": 790,
+    "datei": "ErbStDV.md",
+    "art": "anlage_bezug",
+    "sha256_sichtbarer_quelltext": "2430be5b4a11f8c94321dea5ffa26179344b8044501815610c0a32cc567d864e"
+  },
+  {
+    "id": "z792-802",
+    "zeile_von": 792,
+    "zeile_bis": 802,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "b858565ae818a2a04d9040d48a89638ae068bb2efb1db337597519d6b40e41ff"
+  },
+  {
+    "id": "z806-806",
+    "zeile_von": 806,
+    "zeile_bis": 806,
+    "datei": "ErbStDV.md",
+    "art": "formulartitel",
+    "sha256_sichtbarer_quelltext": "506ac8336dfc1d253ba53f7d40091fd86e71891f7317d24f1d3c152ada73d8a6"
+  },
+  {
+    "id": "z810-834",
+    "zeile_von": 810,
+    "zeile_bis": 834,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "31883d931f09419dd0708f9d5858e8376c0a9b61cd12cab4c750266e37e5f197"
+  },
+  {
+    "id": "z836-837",
+    "zeile_von": 836,
+    "zeile_bis": 837,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "8de299fcc2fdf0d7193003b8d67d8cdb85adb96555a3d722b28c3c43cf092359"
+  },
+  {
+    "id": "z839-839",
+    "zeile_von": 839,
+    "zeile_bis": 839,
+    "datei": "ErbStDV.md",
+    "art": "anlage",
+    "sha256_sichtbarer_quelltext": "ee8c204f9c42850c11b5ace3d3157ca250eb5f6a2131307680bdc56b7fa87142"
+  },
+  {
+    "id": "z840-840",
+    "zeile_von": 840,
+    "zeile_bis": 840,
+    "datei": "ErbStDV.md",
+    "art": "anlage_bezug",
+    "sha256_sichtbarer_quelltext": "b3abde4166196dc103242c6abfc5b56877f720bc63f4efb4dde7e2d1dc4f9a73"
+  },
+  {
+    "id": "z842-1006",
+    "zeile_von": 842,
+    "zeile_bis": 1006,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "1fa7795e33731324b5270ba66f6dbef4eaf085efc808164f955d5a0b3ea0fd0a"
+  },
+  {
+    "id": "z1008-1009",
+    "zeile_von": 1008,
+    "zeile_bis": 1009,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "7029d8c10d0640788dee2ec15f51f239e9618e38b26c3bd3e560405372f7f441"
+  },
+  {
+    "id": "z1011-1011",
+    "zeile_von": 1011,
+    "zeile_bis": 1011,
+    "datei": "ErbStDV.md",
+    "art": "anlage",
+    "sha256_sichtbarer_quelltext": "fa202881282d329a53a2e466e5034fef59e5812d6bdaaa0b7d8640be6e4ec784"
+  },
+  {
+    "id": "z1012-1012",
+    "zeile_von": 1012,
+    "zeile_bis": 1012,
+    "datei": "ErbStDV.md",
+    "art": "anlage_bezug",
+    "sha256_sichtbarer_quelltext": "75cead52063797314d80d110ed4a3bc03c7d3e93d9395a3089575e503bb7329c"
+  },
+  {
+    "id": "z1014-1028",
+    "zeile_von": 1014,
+    "zeile_bis": 1028,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "2db4d039f8c5d06f850a0444ed29025c98ad3f0df5a3c6651c86bb869f0af6ee"
+  },
+  {
+    "id": "z1030-1042",
+    "zeile_von": 1030,
+    "zeile_bis": 1042,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "85186e362f4fbf57dea872f899852d29f6168ab26bd61ea5c917b6f42c240afb"
+  },
+  {
+    "id": "z1044-1056",
+    "zeile_von": 1044,
+    "zeile_bis": 1056,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "873229b6ed3c26228626c61563a3f6d489eb71764e617e2140c18541c71644af"
+  },
+  {
+    "id": "z1058-1064",
+    "zeile_von": 1058,
+    "zeile_bis": 1064,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "7d3a52684ff79378d0aa52060317a68fff3bab2bb25ca98580a1cbc2c414c31c"
+  },
+  {
+    "id": "z1066-1084",
+    "zeile_von": 1066,
+    "zeile_bis": 1084,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "fb7099e1113a973ad35c984370ab89ce15729a03f2d8745cf77ffe72db7dc9a9"
+  },
+  {
+    "id": "z1086-1110",
+    "zeile_von": 1086,
+    "zeile_bis": 1110,
+    "datei": "ErbStDV.md",
+    "art": "formularblock",
+    "sha256_sichtbarer_quelltext": "7d18bf91adc80340969c666cfe47851e8d60f99915757ecf709121186f635973"
+  },
+  {
+    "id": "z1112-1113",
+    "zeile_von": 1112,
+    "zeile_bis": 1113,
+    "datei": "ErbStDV.md",
+    "art": "fussnote",
+    "sha256_sichtbarer_quelltext": "5594e69cae40c6a9669bc269ac870cb3b89e657a979e8362552c99179a34db6d"
+  }
+]

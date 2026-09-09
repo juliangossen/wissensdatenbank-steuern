@@ -1,0 +1,4070 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR321010994",
+    "enbez": null,
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "8cbe60ae429d2018f891c9c10a0c49bdb5a5d2a9cfac832bac1af01d3d634bc6"
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR321010994BJNE000207360",
+    "enbez": "Inhaltsübersicht",
+    "gliederung": null,
+    "titel": null,
+    "sha256_xml_text": "378e28a59f082ace670e8cc18b3ff1504909a927506865440fdffc43466ef7ab"
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR321010994BJNG036800000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "010",
+      "gliederungsbez": "Erstes Buch",
+      "gliederungstitel": "Möglichkeiten von Umwandlungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR321010994BJNE000301377",
+    "enbez": "§ 1",
+    "gliederung": null,
+    "titel": "Arten der Umwandlung; gesetzliche Beschränkungen",
+    "sha256_xml_text": "4bfecec570dfc0446619260a5b0448473845cb803e3f4d0cbcf9c58e2f0a0e43"
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR321010994BJNG036900000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020",
+      "gliederungsbez": "Zweites Buch",
+      "gliederungstitel": "Verschmelzung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR321010994BJNG037000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020010",
+      "gliederungsbez": "Erster Teil",
+      "gliederungstitel": "Allgemeine Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR321010994BJNG000400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020010010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Möglichkeit der Verschmelzung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR321010994BJNE000502377",
+    "enbez": "§ 2",
+    "gliederung": null,
+    "titel": "Arten der Verschmelzung",
+    "sha256_xml_text": "c9b5fbcc734f085d22c86902ff75a7179bc90d3c9c79457044c17ddb4b19b33b"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR321010994BJNE000602360",
+    "enbez": "§ 3",
+    "gliederung": null,
+    "titel": "Verschmelzungsfähige Rechtsträger",
+    "sha256_xml_text": "ede7d246334fe7adc76887c9406324992b38a771379536b55b47f6a662ea323b"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR321010994BJNG000700000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020010020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Verschmelzung durch Aufnahme"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR321010994BJNE000801377",
+    "enbez": "§ 4",
+    "gliederung": null,
+    "titel": "Verschmelzungsvertrag",
+    "sha256_xml_text": "4265771b5fd6c1a334c56df0e8a07042a0febf93abbdb83e5494e366db2adc4f"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR321010994BJNE000901307",
+    "enbez": "§ 5",
+    "gliederung": null,
+    "titel": "Inhalt des Verschmelzungsvertrags",
+    "sha256_xml_text": "e8e5dfaa2a54d6e252f7f1013612052acde6ada4efec9dc145c1dc2f5f906aa8"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR321010994BJNE001000000",
+    "enbez": "§ 6",
+    "gliederung": null,
+    "titel": "Form des Verschmelzungsvertrags",
+    "sha256_xml_text": "57adfe99d0600865307069e14d7a71f94e0eb9d5d8ed22455a4d1ad3f2f98d32"
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR321010994BJNE001100000",
+    "enbez": "§ 7",
+    "gliederung": null,
+    "titel": "Kündigung des Verschmelzungsvertrags",
+    "sha256_xml_text": "95e3c34751781de2833a8f2e06a4e4fcc1efb68360918f118de16c280a8a35e8"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR321010994BJNE001201360",
+    "enbez": "§ 8",
+    "gliederung": null,
+    "titel": "Verschmelzungsbericht",
+    "sha256_xml_text": "8603afd4219c6b54241ddd880326a230f96289520c44f50c039b65173739c1fe"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR321010994BJNE001301360",
+    "enbez": "§ 9",
+    "gliederung": null,
+    "titel": "Prüfung der Verschmelzung",
+    "sha256_xml_text": "c87342678f3d8a0c34c00b73cbe9d96be1a368484feb6620501cd6730dba6f4e"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR321010994BJNE001403140",
+    "enbez": "§ 10",
+    "gliederung": null,
+    "titel": "Bestellung der Verschmelzungsprüfer",
+    "sha256_xml_text": "421dc1716700aadeb7ac37052208974fb392a2e47ecd3014440f1848af6e38af"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR321010994BJNE001503360",
+    "enbez": "§ 11",
+    "gliederung": null,
+    "titel": "Stellung und Verantwortlichkeit der Verschmelzungsprüfer",
+    "sha256_xml_text": "8683b33b77232233d832a34ab7f1e92a525a466741d586daad9c4ce378297240"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR321010994BJNE001601360",
+    "enbez": "§ 12",
+    "gliederung": null,
+    "titel": "Prüfungsbericht",
+    "sha256_xml_text": "e66c42786868b16c7fc5245bc61f9ea60235d1387c788f065ce0c01fc56500a8"
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR321010994BJNE001700000",
+    "enbez": "§ 13",
+    "gliederung": null,
+    "titel": "Beschlüsse über den Verschmelzungsvertrag",
+    "sha256_xml_text": "ff3ff587daf5882ce965d157744db9ce13e61ddc1fd519b03fcc971bfe840c76"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR321010994BJNE001801360",
+    "enbez": "§ 14",
+    "gliederung": null,
+    "titel": "Befristung und Ausschluß von Klagen gegen den Verschmelzungsbeschluß",
+    "sha256_xml_text": "3b6fe35b68cd364b206ec1a9290ad03d8dcb28423504454a43aaa7ce4e5a95cc"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR321010994BJNE001905360",
+    "enbez": "§ 15",
+    "gliederung": null,
+    "titel": "Verbesserung des Umtauschverhältnisses",
+    "sha256_xml_text": "e6c95ab653ef9fe876a458ef5a8448f1b7f4b00c1a4a78f37b0b1706c01f7328"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR321010994BJNE002004360",
+    "enbez": "§ 16",
+    "gliederung": null,
+    "titel": "Anmeldung der Verschmelzung",
+    "sha256_xml_text": "ccbefe9a44698b5bff5c880badb300859017205a6f0b96e69713fb7c60f2f742"
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR321010994BJNE002103360",
+    "enbez": "§ 17",
+    "gliederung": null,
+    "titel": "Anlagen der Anmeldung",
+    "sha256_xml_text": "5ea184f0393d72eba2d65603ceb9435f8b4020122eb9756c015c3f84d13d7b00"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR321010994BJNE002202307",
+    "enbez": "§ 18",
+    "gliederung": null,
+    "titel": "Firma oder Name des übernehmenden Rechtsträgers",
+    "sha256_xml_text": "1eb439c310bfa8a854da13f28b228276933b532a337ada23881187523398ebb6"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR321010994BJNE002303360",
+    "enbez": "§ 19",
+    "gliederung": null,
+    "titel": "Eintragung und Bekanntmachung der Verschmelzung",
+    "sha256_xml_text": "9f4b9c9212770855854f07119420327f6eca6a498c36aac7e9e32ba3a3a5dd2f"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR321010994BJNE002400000",
+    "enbez": "§ 20",
+    "gliederung": null,
+    "titel": "Wirkungen der Eintragung",
+    "sha256_xml_text": "e98c436d987f30551f48e83b7a43dcef7c2c1627d6634db10418130eed0696f6"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR321010994BJNE002500000",
+    "enbez": "§ 21",
+    "gliederung": null,
+    "titel": "Wirkung auf gegenseitige Verträge",
+    "sha256_xml_text": "4c52ccb71d0681592a02d61698434d3230ab3880fa8e289ca990110ae1a4e4e7"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR321010994BJNE002603125",
+    "enbez": "§ 22",
+    "gliederung": null,
+    "titel": "Gläubigerschutz",
+    "sha256_xml_text": "74e2462d649fe00192380f32367fed7d04322eb0b88666201cfb41dfd931ffe2"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR321010994BJNE002700000",
+    "enbez": "§ 23",
+    "gliederung": null,
+    "titel": "Schutz der Inhaber von Sonderrechten",
+    "sha256_xml_text": "6fe78118a7bf13c7cf6810b7e2058ad836a3ece6c3c71af9226cd6b33c116b3f"
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR321010994BJNE002800000",
+    "enbez": "§ 24",
+    "gliederung": null,
+    "titel": "Wertansätze des übernehmenden Rechtsträgers",
+    "sha256_xml_text": "69156b76a1836215e2e97f701631990cfd041086794b719d9ce32447c47effe3"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR321010994BJNE002901377",
+    "enbez": "§ 25",
+    "gliederung": null,
+    "titel": "Schadenersatzpflicht der Verwaltungsträger der übertragenden\nRechtsträger",
+    "sha256_xml_text": "96b3a36f07dea607ba0e320ac4b5eb9af9fb7058b11eb6c2c5b407e6433a51d7"
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR321010994BJNE003005360",
+    "enbez": "§ 26",
+    "gliederung": null,
+    "titel": "Geltendmachung des Schadenersatzanspruchs",
+    "sha256_xml_text": "3722074553593dec485171eed2a5de71865e5293ee15a47861930a61975ba007"
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR321010994BJNE003101377",
+    "enbez": "§ 27",
+    "gliederung": null,
+    "titel": "Schadenersatzpflicht der Verwaltungsträger des übernehmenden\nRechtsträgers",
+    "sha256_xml_text": "4beb8564bb0b75f344a1df115051237b8302c12c467e2a90bdf5f2a36b2b6964"
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR321010994BJNE003200000",
+    "enbez": "§ 28",
+    "gliederung": null,
+    "titel": "Unwirksamkeit des Verschmelzungsbeschlusses eines\nübertragenden Rechtsträgers",
+    "sha256_xml_text": "93e16e29fbdfc545fc042cbd65378e830d6ad9855fcfd7deabd6c1b71b8db7c5"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR321010994BJNE003303360",
+    "enbez": "§ 29",
+    "gliederung": null,
+    "titel": "Abfindungsangebot im Verschmelzungsvertrag",
+    "sha256_xml_text": "ae742e97a2c14ce0c41f51af0d9060328c2900526ac0141c9f47e46c23c19499"
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR321010994BJNE003400000",
+    "enbez": "§ 30",
+    "gliederung": null,
+    "titel": "Inhalt des Anspruchs auf Barabfindung und Prüfung\nder Barabfindung",
+    "sha256_xml_text": "e611b6693b736c04073610bff296f0b18a28551a3e34677bea79c47f01815778"
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR321010994BJNE003502360",
+    "enbez": "§ 31",
+    "gliederung": null,
+    "titel": "Annahme des Angebots",
+    "sha256_xml_text": "b3b0ba6d0b3d137c92dfeb5853e91ab47d3c0626427d355ee64556dd4584f9e1"
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR321010994BJNE003601360",
+    "enbez": "§ 32",
+    "gliederung": null,
+    "titel": "Ausschluß von Klagen gegen den Verschmelzungsbeschluß",
+    "sha256_xml_text": "602cd987252520b64ec7318ecd7c912dfa5b9bdd51114f32be954d121cb3e5a6"
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR321010994BJNE003702360",
+    "enbez": "§ 33",
+    "gliederung": null,
+    "titel": "Anderweitige Veräußerung",
+    "sha256_xml_text": "ef71d8292e4c79deca9def7480d0b06722134487458caa38b5bc56380cca74cb"
+  },
+  {
+    "index": 40,
+    "doknr": "BJNR321010994BJNE003802360",
+    "enbez": "§ 34",
+    "gliederung": null,
+    "titel": "Gerichtliche Nachprüfung der Abfindung",
+    "sha256_xml_text": "0b953b35b54384795810469e0236d5d2441f8d633332777dff976feca68b28e5"
+  },
+  {
+    "index": 41,
+    "doknr": "BJNR321010994BJNE003901377",
+    "enbez": "§ 35",
+    "gliederung": null,
+    "titel": "Bezeichnung unbekannter Aktionäre; Ruhen des Stimmrechts",
+    "sha256_xml_text": "f1783bf653800b0be448853846ded833ba437b3d903cf0d36ce88113bb8c83df"
+  },
+  {
+    "index": 42,
+    "doknr": "BJNR321010994BJNE040200360",
+    "enbez": "§ 35a",
+    "gliederung": null,
+    "titel": "Interessenausgleich und Betriebsübergang",
+    "sha256_xml_text": "9d1f5c285393566eb491194ddde49699c2adb89b8dc1b7b01b28eff7149ccce1"
+  },
+  {
+    "index": 43,
+    "doknr": "BJNR321010994BJNG004000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020010030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Verschmelzung durch Neugründung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 44,
+    "doknr": "BJNR321010994BJNE004100000",
+    "enbez": "§ 36",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "c369e7a2f1a32982ca18d492f10ad762e734f2cb7ba31cf2eaea35a1cc0b7a76"
+  },
+  {
+    "index": 45,
+    "doknr": "BJNR321010994BJNE004202377",
+    "enbez": "§ 37",
+    "gliederung": null,
+    "titel": "Inhalt des Verschmelzungsvertrags",
+    "sha256_xml_text": "64ee51b1e3fd051a36e28dc7fc3986aca93a31f8f8cee74e5aea651d3ac28ec6"
+  },
+  {
+    "index": 46,
+    "doknr": "BJNR321010994BJNE004300000",
+    "enbez": "§ 38",
+    "gliederung": null,
+    "titel": "Anmeldung der Verschmelzung und des neuen Rechtsträgers",
+    "sha256_xml_text": "f1e78951af0a4472841dc5e732112c3d4611c4e8d4d7861263df4a6d6575b094"
+  },
+  {
+    "index": 47,
+    "doknr": "BJNR321010994BJNG037101307",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020",
+      "gliederungsbez": "Zweiter Teil",
+      "gliederungstitel": "Besondere Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 48,
+    "doknr": "BJNR321010994BJNG004401307",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Verschmelzung unter Beteiligung von Personengesellschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 49,
+    "doknr": "BJNR321010994BJNG041400360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020010010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Verschmelzung unter Beteiligung von Gesellschaften bürgerlichen Rechts"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 50,
+    "doknr": "BJNR321010994BJNE039000360",
+    "enbez": "§ 39",
+    "gliederung": null,
+    "titel": "Ausschluss der Verschmelzung",
+    "sha256_xml_text": "e24b224c60ee1e08442b41c39c9b96b9e18c60bb8bf7044a1507fb1c4dfc1ed7"
+  },
+  {
+    "index": 51,
+    "doknr": "BJNR321010994BJNE039100360",
+    "enbez": "§ 39a",
+    "gliederung": null,
+    "titel": "Verschmelzungsbericht",
+    "sha256_xml_text": "274fd0c70788affaebe3b9cfc574915a9119e76d2f8b62e3e4b992ca3bf67fb6"
+  },
+  {
+    "index": 52,
+    "doknr": "BJNR321010994BJNE039200360",
+    "enbez": "§ 39b",
+    "gliederung": null,
+    "titel": "Unterrichtung der Gesellschafter",
+    "sha256_xml_text": "086d53c236fe4ebb2ae70769a71b0620dd967a8000e40b27b45a96bdf32ba85f"
+  },
+  {
+    "index": 53,
+    "doknr": "BJNR321010994BJNE039300360",
+    "enbez": "§ 39c",
+    "gliederung": null,
+    "titel": "Beschluss der Gesellschafterversammlung",
+    "sha256_xml_text": "61f7aa3ce5ab9da6dd4f7461617418e2e117633039b8744846553c3dd0050efa"
+  },
+  {
+    "index": 54,
+    "doknr": "BJNR321010994BJNE039400360",
+    "enbez": "§ 39d",
+    "gliederung": null,
+    "titel": "Widerspruch gegen den Beschluss der Gesellschafterversammlung",
+    "sha256_xml_text": "391dbadab7bcaef10dd9eea80891066c3e526dd236935e9f9865718340b1aad9"
+  },
+  {
+    "index": 55,
+    "doknr": "BJNR321010994BJNE039500360",
+    "enbez": "§ 39e",
+    "gliederung": null,
+    "titel": "Prüfung der Verschmelzung",
+    "sha256_xml_text": "c9ff30816dff69826a2306f6ce2d3865bafb54c9b019bc4c9dc2ba5b7819f13a"
+  },
+  {
+    "index": 56,
+    "doknr": "BJNR321010994BJNE039600360",
+    "enbez": "§ 39f",
+    "gliederung": null,
+    "titel": "Zeitliche Begrenzung der Haftung persönlich haftender Gesellschafter",
+    "sha256_xml_text": "9b59c5bf7ad4fc580338961c4a89ff7c980362183965dccf0bfb6761ecd8db9d"
+  },
+  {
+    "index": 57,
+    "doknr": "BJNR321010994BJNG040901360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020010010",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Verschmelzung unter Beteiligung von Personenhandelsgesellschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 58,
+    "doknr": "BJNR321010994BJNE004600000",
+    "enbez": "§ 40",
+    "gliederung": null,
+    "titel": "Inhalt des Verschmelzungsvertrags",
+    "sha256_xml_text": "93ba524c5319a118433809776e234c3a6f83f49b4a3293a1c2c3c64c296e0243"
+  },
+  {
+    "index": 59,
+    "doknr": "BJNR321010994BJNE004701360",
+    "enbez": "§ 41",
+    "gliederung": null,
+    "titel": "Widerspruch gegen den Beschluss der Gesellschafterversammlung",
+    "sha256_xml_text": "e5645a93948918513622a25d567cd6a9927411a30b6a4b0565c1cad70d02cc88"
+  },
+  {
+    "index": 60,
+    "doknr": "BJNR321010994BJNE004801360",
+    "enbez": "§ 42",
+    "gliederung": null,
+    "titel": "Entsprechend anzuwendende Vorschriften",
+    "sha256_xml_text": "fe0122f9c8e973731cdb5864720245518193c23a0dedd7cf3ed0a6f03e5dd0fb"
+  },
+  {
+    "index": 61,
+    "doknr": "BJNR321010994BJNE004902360",
+    "enbez": "§ 43",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 62,
+    "doknr": "BJNR321010994BJNE005002360",
+    "enbez": "§ 44",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 63,
+    "doknr": "BJNR321010994BJNE005103360",
+    "enbez": "§ 45",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 64,
+    "doknr": "BJNR321010994BJNG041001360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020010020",
+      "gliederungsbez": "Dritter Unterabschnitt",
+      "gliederungstitel": "Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 65,
+    "doknr": "BJNR321010994BJNE036800307",
+    "enbez": "§ 45a",
+    "gliederung": null,
+    "titel": "Möglichkeit der Verschmelzung",
+    "sha256_xml_text": "e96657b8d2030b0be8447408a62ba97e3af390872944115a6831c16b8fee6ce7"
+  },
+  {
+    "index": 66,
+    "doknr": "BJNR321010994BJNE036900307",
+    "enbez": "§ 45b",
+    "gliederung": null,
+    "titel": "Inhalt des Verschmelzungsvertrages",
+    "sha256_xml_text": "6af7908c4d09a65a307df97748424c74fd6578f1c6265a9ae9aae44359224f21"
+  },
+  {
+    "index": 67,
+    "doknr": "BJNR321010994BJNE037001360",
+    "enbez": "§ 45c",
+    "gliederung": null,
+    "titel": "Verschmelzungsbericht und Unterrichtung der Partner",
+    "sha256_xml_text": "e5406904df2a1efe7ab4c3408bd5ce5522f3e7b210ac2915fdc58b0b12a53747"
+  },
+  {
+    "index": 68,
+    "doknr": "BJNR321010994BJNE037100307",
+    "enbez": "§ 45d",
+    "gliederung": null,
+    "titel": "Beschluß der Gesellschafterversammlung",
+    "sha256_xml_text": "14649a652890edbf059bb6ebeafb84924e7f352960732c818a95a34a0ea6660e"
+  },
+  {
+    "index": 69,
+    "doknr": "BJNR321010994BJNE037201360",
+    "enbez": "§ 45e",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "73cdc9d9aa3bfbae2837e0f73bb63c2dfad816f839d9c89098aad5ecd36389e2"
+  },
+  {
+    "index": 70,
+    "doknr": "BJNR321010994BJNG005200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Verschmelzung unter Beteiligung von Gesellschaften\nmit beschränkter Haftung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 71,
+    "doknr": "BJNR321010994BJNG037200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020020010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Verschmelzung durch Aufnahme"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 72,
+    "doknr": "BJNR321010994BJNE005305140",
+    "enbez": "§ 46",
+    "gliederung": null,
+    "titel": "Inhalt des Verschmelzungsvertrags",
+    "sha256_xml_text": "c8f20d4a8a3a2802677fb93e5cf978df92b9057a3d34affd281307f1e8d922f5"
+  },
+  {
+    "index": 73,
+    "doknr": "BJNR321010994BJNE005400000",
+    "enbez": "§ 47",
+    "gliederung": null,
+    "titel": "Unterrichtung der Gesellschafter",
+    "sha256_xml_text": "16aae1102eb98ba24459d4bc74a9a9549134fa227c78d68754a2ea6e5675ff3c"
+  },
+  {
+    "index": 74,
+    "doknr": "BJNR321010994BJNE005502360",
+    "enbez": "§ 48",
+    "gliederung": null,
+    "titel": "Prüfung der Verschmelzung",
+    "sha256_xml_text": "2e98de5b2af02e342a27a1a73d00c034834272ff189a8e857b798140149c232d"
+  },
+  {
+    "index": 75,
+    "doknr": "BJNR321010994BJNE005600000",
+    "enbez": "§ 49",
+    "gliederung": null,
+    "titel": "Vorbereitung der Gesellschafterversammlung",
+    "sha256_xml_text": "217d8a98f20a9101ed00b2ad2d32fbc5f4ecb390a2492c830279bbba0b9daa43"
+  },
+  {
+    "index": 76,
+    "doknr": "BJNR321010994BJNE005700000",
+    "enbez": "§ 50",
+    "gliederung": null,
+    "titel": "Beschluß der Gesellschafterversammlung",
+    "sha256_xml_text": "970c605eedf08761a3e814209ffc36e81009a72519f560f9c646ee2617781f36"
+  },
+  {
+    "index": 77,
+    "doknr": "BJNR321010994BJNE005805360",
+    "enbez": "§ 51",
+    "gliederung": null,
+    "titel": "Zustimmungserfordernisse in Sonderfällen",
+    "sha256_xml_text": "80ebc50e49bcb7f9ed2cf600cdb6c49dbc9910c6ee0290a663f712bf4129d6ee"
+  },
+  {
+    "index": 78,
+    "doknr": "BJNR321010994BJNE005904360",
+    "enbez": "§ 52",
+    "gliederung": null,
+    "titel": "Anmeldung der Verschmelzung",
+    "sha256_xml_text": "9001630a517bce7f8f29b7dbe3830763561b75ec5bc0cbc29dad6ffb93d4e693"
+  },
+  {
+    "index": 79,
+    "doknr": "BJNR321010994BJNE006000000",
+    "enbez": "§ 53",
+    "gliederung": null,
+    "titel": "Eintragung bei Erhöhung des Stammkapitals",
+    "sha256_xml_text": "ad37667dbac692154b0284ef96726f111804ebbfe0bdb9d654ed068c4b19adc9"
+  },
+  {
+    "index": 80,
+    "doknr": "BJNR321010994BJNE006103140",
+    "enbez": "§ 54",
+    "gliederung": null,
+    "titel": "Verschmelzung ohne Kapitalerhöhung",
+    "sha256_xml_text": "f43c7f4cee915952c24846977ced3acc5c98c1dd2d9015023643c07493272069"
+  },
+  {
+    "index": 81,
+    "doknr": "BJNR321010994BJNE006203360",
+    "enbez": "§ 55",
+    "gliederung": null,
+    "titel": "Verschmelzung mit Kapitalerhöhung",
+    "sha256_xml_text": "644cc6de69b169911fa3b4abc28c59361889b9b00ce584a2a88091506719eba9"
+  },
+  {
+    "index": 82,
+    "doknr": "BJNR321010994BJNG037300000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020020020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Verschmelzung durch Neugründung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 83,
+    "doknr": "BJNR321010994BJNE006301360",
+    "enbez": "§ 56",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "ab095cd87ade5146278a2b3b6716def2e4e84d4e6fe767ca2a62879921f6e59c"
+  },
+  {
+    "index": 84,
+    "doknr": "BJNR321010994BJNE006402377",
+    "enbez": "§ 57",
+    "gliederung": null,
+    "titel": "Inhalt des Gesellschaftsvertrags",
+    "sha256_xml_text": "603bd10b291bb2d6c254e0b47a8eb4a1c5aeb9e5c5fb6fd509939cb6f88e4d91"
+  },
+  {
+    "index": 85,
+    "doknr": "BJNR321010994BJNE006500000",
+    "enbez": "§ 58",
+    "gliederung": null,
+    "titel": "Sachgründungsbericht",
+    "sha256_xml_text": "806eaea9af91a53cc1cfb7dd8027e093c2078d88c9430da0cfad5489f47d869c"
+  },
+  {
+    "index": 86,
+    "doknr": "BJNR321010994BJNE006601377",
+    "enbez": "§ 59",
+    "gliederung": null,
+    "titel": "Verschmelzungsbeschlüsse",
+    "sha256_xml_text": "d70c66c886c1e77eb3fed79833bc1b038c86d3bcfb9691e9537cd4c37ad0348a"
+  },
+  {
+    "index": 87,
+    "doknr": "BJNR321010994BJNG006700000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Verschmelzung unter Beteiligung von Aktiengesellschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 88,
+    "doknr": "BJNR321010994BJNG037400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020030010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Verschmelzung durch Aufnahme"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 89,
+    "doknr": "BJNR321010994BJNE006802360",
+    "enbez": "§ 60",
+    "gliederung": null,
+    "titel": "Prüfung der Verschmelzung, Bestellung der Verschmelzungsprüfer",
+    "sha256_xml_text": "da15936fb9f8756c2f6c0e941cdd2257f63d518534627e0ab3628fc6e0b55891"
+  },
+  {
+    "index": 90,
+    "doknr": "BJNR321010994BJNE006902360",
+    "enbez": "§ 61",
+    "gliederung": null,
+    "titel": "Bekanntmachung des Verschmelzungsvertrags",
+    "sha256_xml_text": "8fd8d5ba38f22c16b3986387cb7b3c39c0d028cb7980567933bbb821dcc9e813"
+  },
+  {
+    "index": 91,
+    "doknr": "BJNR321010994BJNE007003360",
+    "enbez": "§ 62",
+    "gliederung": null,
+    "titel": "Konzernverschmelzungen",
+    "sha256_xml_text": "042e2e374088c1bb280c1721e87dec36f18faaa6138100059b72d0db031c01ff"
+  },
+  {
+    "index": 92,
+    "doknr": "BJNR321010994BJNE007104360",
+    "enbez": "§ 63",
+    "gliederung": null,
+    "titel": "Vorbereitung der Hauptversammlung",
+    "sha256_xml_text": "fb48cf733214f04efa3d87155caa7f7757523e99c60db159c9b4af8d6c5a574c"
+  },
+  {
+    "index": 93,
+    "doknr": "BJNR321010994BJNE007203360",
+    "enbez": "§ 64",
+    "gliederung": null,
+    "titel": "Durchführung der Hauptversammlung",
+    "sha256_xml_text": "bfc19aff08d504290544c2990db4be7eea30f44cbfbc25033684b78ea79268ed"
+  },
+  {
+    "index": 94,
+    "doknr": "BJNR321010994BJNE007300000",
+    "enbez": "§ 65",
+    "gliederung": null,
+    "titel": "Beschluß der Hauptversammlung",
+    "sha256_xml_text": "68d336ac3682664cbe2062fbec27b43d56b2d1cfdfa1f6ba26275e27bb29d9ca"
+  },
+  {
+    "index": 95,
+    "doknr": "BJNR321010994BJNE007400000",
+    "enbez": "§ 66",
+    "gliederung": null,
+    "titel": "Eintragung bei Erhöhung des Grundkapitals",
+    "sha256_xml_text": "c12613b0d9706c4a479c43e06be30795e414d020916c2939d5cde3ce213d84d1"
+  },
+  {
+    "index": 96,
+    "doknr": "BJNR321010994BJNE007502377",
+    "enbez": "§ 67",
+    "gliederung": null,
+    "titel": "Anwendung der Vorschriften über die Nachgründung",
+    "sha256_xml_text": "27a1e6ba0faf6c7cf61eb778cade10a8b62c982acf78d8fe88a502ce11f9c490"
+  },
+  {
+    "index": 97,
+    "doknr": "BJNR321010994BJNE007602377",
+    "enbez": "§ 68",
+    "gliederung": null,
+    "titel": "Verschmelzung ohne Kapitalerhöhung",
+    "sha256_xml_text": "3e7c398868059b46039b3855c802534507063abaf535b76628362a96c719110e"
+  },
+  {
+    "index": 98,
+    "doknr": "BJNR321010994BJNE007707360",
+    "enbez": "§ 69",
+    "gliederung": null,
+    "titel": "Verschmelzung mit Kapitalerhöhung",
+    "sha256_xml_text": "7e471d1b9da69ef5978151a128e4ed2d402c099f182f892d3f5fe1b87e9864e9"
+  },
+  {
+    "index": 99,
+    "doknr": "BJNR321010994BJNE007800000",
+    "enbez": "§ 70",
+    "gliederung": null,
+    "titel": "Geltendmachung eines Schadenersatzanspruchs",
+    "sha256_xml_text": "253aae356e7df1c76cf5d58265f2aa9097e3be3cbaad5d04ed267967493e3fb6"
+  },
+  {
+    "index": 100,
+    "doknr": "BJNR321010994BJNE007900000",
+    "enbez": "§ 71",
+    "gliederung": null,
+    "titel": "Bestellung eines Treuhänders",
+    "sha256_xml_text": "a8385296db54ed8b3504918961e450e234ecc5b1f1017afbe89502796a0f6282"
+  },
+  {
+    "index": 101,
+    "doknr": "BJNR321010994BJNE008000000",
+    "enbez": "§ 72",
+    "gliederung": null,
+    "titel": "Umtausch von Aktien",
+    "sha256_xml_text": "1f4c8a7107952eddf1ecb5bdea50516a0d6d440d0b67d873fb0d1e0e2000fbfe"
+  },
+  {
+    "index": 102,
+    "doknr": "BJNR321010994BJNE040300360",
+    "enbez": "§ 72a",
+    "gliederung": null,
+    "titel": "Gewährung zusätzlicher Aktien",
+    "sha256_xml_text": "417e652ea6f059790183617d895cd669c571f844fcf71ca16b51629152e3bb8c"
+  },
+  {
+    "index": 103,
+    "doknr": "BJNR321010994BJNE040400360",
+    "enbez": "§ 72b",
+    "gliederung": null,
+    "titel": "Kapitalerhöhung zur Gewährung zusätzlicher Aktien",
+    "sha256_xml_text": "782e87e1cb10b754b521336e83c97ca352b7e3b362bf319e84a5d8c5ec29b1b3"
+  },
+  {
+    "index": 104,
+    "doknr": "BJNR321010994BJNG037500000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020030020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Verschmelzung durch Neugründung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 105,
+    "doknr": "BJNR321010994BJNE008101360",
+    "enbez": "§ 73",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "720e2d4f2ba833dbccc755c79598e4f0652991056c126be6121b3f79faa09a15"
+  },
+  {
+    "index": 106,
+    "doknr": "BJNR321010994BJNE008202377",
+    "enbez": "§ 74",
+    "gliederung": null,
+    "titel": "Inhalt der Satzung",
+    "sha256_xml_text": "a70d527632d176f4737ecc07904114bf0a2a1512a8e523fcc5dc59b11e58d8da"
+  },
+  {
+    "index": 107,
+    "doknr": "BJNR321010994BJNE008301360",
+    "enbez": "§ 75",
+    "gliederung": null,
+    "titel": "Gründungsbericht und Gründungsprüfung",
+    "sha256_xml_text": "ebdb0182eb4fec25519803919e07d63c9c9c9d25532a736482ea02d941d63d03"
+  },
+  {
+    "index": 108,
+    "doknr": "BJNR321010994BJNE008402360",
+    "enbez": "§ 76",
+    "gliederung": null,
+    "titel": "Verschmelzungsbeschlüsse",
+    "sha256_xml_text": "d7fa7940ed7540dd911780f0c7e748f688598707717e4923d44fcf438af0c7f5"
+  },
+  {
+    "index": 109,
+    "doknr": "BJNR321010994BJNE008501377",
+    "enbez": "§ 77",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+  },
+  {
+    "index": 110,
+    "doknr": "BJNR321010994BJNG008600000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020040",
+      "gliederungsbez": "Vierter Abschnitt",
+      "gliederungstitel": "Verschmelzung unter Beteiligung von Kommanditgesellschaften\nauf Aktien"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 111,
+    "doknr": "BJNR321010994BJNE008700000",
+    "enbez": "§ 78",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "bc1d82c62e93ea47f99a2ee38477981e8ff99f068bde2232d8a32106a5414866"
+  },
+  {
+    "index": 112,
+    "doknr": "BJNR321010994BJNG008800000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020050",
+      "gliederungsbez": "Fünfter Abschnitt",
+      "gliederungstitel": "Verschmelzung unter Beteiligung eingetragener Genossenschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 113,
+    "doknr": "BJNR321010994BJNG037600000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020050010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Verschmelzung durch Aufnahme"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 114,
+    "doknr": "BJNR321010994BJNE008901377",
+    "enbez": "§ 79",
+    "gliederung": null,
+    "titel": "Möglichkeit der Verschmelzung",
+    "sha256_xml_text": "110da1ba9920e67b56bbca308ea8714406683465088d7af385d10605deb17355"
+  },
+  {
+    "index": 115,
+    "doknr": "BJNR321010994BJNE009002377",
+    "enbez": "§ 80",
+    "gliederung": null,
+    "titel": "Inhalt des Verschmelzungsvertrags bei Aufnahme durch\neine Genossenschaft",
+    "sha256_xml_text": "b371c3f7a133309093fb5c07bae698311a87ad320b965bf876244c3a8d1de2a8"
+  },
+  {
+    "index": 116,
+    "doknr": "BJNR321010994BJNE009101377",
+    "enbez": "§ 81",
+    "gliederung": null,
+    "titel": "Gutachten des Prüfungsverbandes",
+    "sha256_xml_text": "ca1a9c9b70cfa6f98e241babe5840efe85d5089c66e4ce63e74889ffeab6ed20"
+  },
+  {
+    "index": 117,
+    "doknr": "BJNR321010994BJNE009203123",
+    "enbez": "§ 82",
+    "gliederung": null,
+    "titel": "Vorbereitung der Generalversammlung",
+    "sha256_xml_text": "601e661c4f48d0a912ceabc92c85f68dde149b17f895ac99723e4491651fd9ea"
+  },
+  {
+    "index": 118,
+    "doknr": "BJNR321010994BJNE009300000",
+    "enbez": "§ 83",
+    "gliederung": null,
+    "titel": "Durchführung der Generalversammlung",
+    "sha256_xml_text": "7eb89660052e56a2cd927be3cd30f11f0238f49ea7c442f408eb95dadd4e2c36"
+  },
+  {
+    "index": 119,
+    "doknr": "BJNR321010994BJNE009401377",
+    "enbez": "§ 84",
+    "gliederung": null,
+    "titel": "Beschluß der Generalversammlung",
+    "sha256_xml_text": "8fa6c09f0813c84b9398cd8edb7d0c82c7395a77d9c1811cbec90428bafb2c1e"
+  },
+  {
+    "index": 120,
+    "doknr": "BJNR321010994BJNE009502360",
+    "enbez": "§ 85",
+    "gliederung": null,
+    "titel": "Verbesserung des Umtauschverhältnisses",
+    "sha256_xml_text": "2fed6fb70e58f21fc52cce6248693f25d639aa7dadf1ab3099e193bb403ca600"
+  },
+  {
+    "index": 121,
+    "doknr": "BJNR321010994BJNE009600000",
+    "enbez": "§ 86",
+    "gliederung": null,
+    "titel": "Anlagen der Anmeldung",
+    "sha256_xml_text": "4921d5b97c29ef6dabd0318194039678d2cc5db9753fed19170005e5d945e869"
+  },
+  {
+    "index": 122,
+    "doknr": "BJNR321010994BJNE009703140",
+    "enbez": "§ 87",
+    "gliederung": null,
+    "titel": "Anteilstausch",
+    "sha256_xml_text": "8309aba142aa1232895de52119f9a0142187dcf6a3d136d28f187c64d1aa50a7"
+  },
+  {
+    "index": 123,
+    "doknr": "BJNR321010994BJNE009802377",
+    "enbez": "§ 88",
+    "gliederung": null,
+    "titel": "Geschäftsguthaben bei der Aufnahme von Kapitalgesellschaften\nund rechtsfähigen Vereinen",
+    "sha256_xml_text": "571a3d12738299923dc04ba68cb08090156477c82e41a1a5286242a81bf9523c"
+  },
+  {
+    "index": 124,
+    "doknr": "BJNR321010994BJNE009902377",
+    "enbez": "§ 89",
+    "gliederung": null,
+    "titel": "Eintragung der Genossen in die Mitgliederliste; Benachrichtigung",
+    "sha256_xml_text": "8954e041afbba630a26875f3ed278867a7495ba68d30fe32f0040bedd35e47fd"
+  },
+  {
+    "index": 125,
+    "doknr": "BJNR321010994BJNE010001377",
+    "enbez": "§ 90",
+    "gliederung": null,
+    "titel": "Ausschlagung durch einzelne Anteilsinhaber",
+    "sha256_xml_text": "7f4ae3ea827b9d916b50bd8d28e3709fb7010eb9c401f4bfb0d90b580aeef3c9"
+  },
+  {
+    "index": 126,
+    "doknr": "BJNR321010994BJNE010101377",
+    "enbez": "§ 91",
+    "gliederung": null,
+    "titel": "Form und Frist der Ausschlagung",
+    "sha256_xml_text": "34d6960fc82897978c83bde8c0288e6f341cea16ff72b478a9f1df9d36198500"
+  },
+  {
+    "index": 127,
+    "doknr": "BJNR321010994BJNE010201377",
+    "enbez": "§ 92",
+    "gliederung": null,
+    "titel": "Eintragung der Ausschlagung in die Mitgliederliste",
+    "sha256_xml_text": "cb7818bf0c88db674c4574038ed77e5c351b7c5d1f42fa7a90cd6b29f4c90154"
+  },
+  {
+    "index": 128,
+    "doknr": "BJNR321010994BJNE010302377",
+    "enbez": "§ 93",
+    "gliederung": null,
+    "titel": "Auseinandersetzung",
+    "sha256_xml_text": "d75e0ec67ec3f2aab3ba21250b1212837f8b32917a732c82a98e900556246825"
+  },
+  {
+    "index": 129,
+    "doknr": "BJNR321010994BJNE010401377",
+    "enbez": "§ 94",
+    "gliederung": null,
+    "titel": "Auszahlung des Auseinandersetzungsguthabens",
+    "sha256_xml_text": "6bd544c94f1ce7278252c70fce8f140c138bd5478a45aaebcf8821e9a409f666"
+  },
+  {
+    "index": 130,
+    "doknr": "BJNR321010994BJNE010502377",
+    "enbez": "§ 95",
+    "gliederung": null,
+    "titel": "Fortdauer der Nachschußpflicht",
+    "sha256_xml_text": "f3d89b47775d33e54227e67219f2708054dfc10cde3a4ea03330583f8b130df2"
+  },
+  {
+    "index": 131,
+    "doknr": "BJNR321010994BJNG037700000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020050020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Verschmelzung durch Neugründung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 132,
+    "doknr": "BJNR321010994BJNE010600000",
+    "enbez": "§ 96",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "95c20dacbef92ac361bd47481a553227ad05156731d041c97f3036e3b8f27a1e"
+  },
+  {
+    "index": 133,
+    "doknr": "BJNR321010994BJNE010701377",
+    "enbez": "§ 97",
+    "gliederung": null,
+    "titel": "Pflichten der Vertretungsorgane der übertragenden\nRechtsträger",
+    "sha256_xml_text": "03d2a2a61123157fe435196e52b8b4d8013d9baaee127d5cf256b8fcdb5f7b83"
+  },
+  {
+    "index": 134,
+    "doknr": "BJNR321010994BJNE010801377",
+    "enbez": "§ 98",
+    "gliederung": null,
+    "titel": "Verschmelzungsbeschlüsse",
+    "sha256_xml_text": "d1a0293a61969f35772fd116c53b669718b7b8c60916b206b3fc0b2b89a5a12b"
+  },
+  {
+    "index": 135,
+    "doknr": "BJNR321010994BJNG010900000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020060",
+      "gliederungsbez": "Sechster Abschnitt",
+      "gliederungstitel": "Verschmelzung unter Beteiligung rechtsfähiger Vereine"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 136,
+    "doknr": "BJNR321010994BJNE011001307",
+    "enbez": "§ 99",
+    "gliederung": null,
+    "titel": "Möglichkeit der Verschmelzung",
+    "sha256_xml_text": "84de7dfc838f13e91a82b53a4b27f34f3724bf3c39f93506f6cc294e638eb4d2"
+  },
+  {
+    "index": 137,
+    "doknr": "BJNR321010994BJNE011101125",
+    "enbez": "§ 100",
+    "gliederung": null,
+    "titel": "Prüfung der Verschmelzung",
+    "sha256_xml_text": "58ab3a31643f95633595ca69171d56bf35475bc14e381f71af32b40fa46fe1a7"
+  },
+  {
+    "index": 138,
+    "doknr": "BJNR321010994BJNE011201360",
+    "enbez": "§ 101",
+    "gliederung": null,
+    "titel": "Vorbereitung der Mitgliederversammlung",
+    "sha256_xml_text": "fc984f93e97aeff43998fc338369447e24561a8df17562987e38f9e08984f9a9"
+  },
+  {
+    "index": 139,
+    "doknr": "BJNR321010994BJNE011300000",
+    "enbez": "§ 102",
+    "gliederung": null,
+    "titel": "Durchführung der Mitgliederversammlung",
+    "sha256_xml_text": "a888183600326e49640af97f1895a34d225aba8c4267712c54cb54caaa98ec67"
+  },
+  {
+    "index": 140,
+    "doknr": "BJNR321010994BJNE011401140",
+    "enbez": "§ 103",
+    "gliederung": null,
+    "titel": "Beschluß der Mitgliederversammlung",
+    "sha256_xml_text": "0bde6d660c79ae98e0cdacf75dc81e36a8eb2dce95a88f418d160d8d55a20913"
+  },
+  {
+    "index": 141,
+    "doknr": "BJNR321010994BJNE011503360",
+    "enbez": "§ 104",
+    "gliederung": null,
+    "titel": "Bekanntmachung der Verschmelzung",
+    "sha256_xml_text": "29f80aa6ced7c129c9f43d8dc457994b79128750b0913aac9533bc873fbc526e"
+  },
+  {
+    "index": 142,
+    "doknr": "BJNR321010994BJNE011600000",
+    "enbez": "§ 104a",
+    "gliederung": null,
+    "titel": "Ausschluß der Barabfindung in bestimmten Fällen",
+    "sha256_xml_text": "9c163fc2a5d015226074547b5ba531bd9d0d5d13f3dde4018fa1fe10f5e1f68f"
+  },
+  {
+    "index": 143,
+    "doknr": "BJNR321010994BJNG011700000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020070",
+      "gliederungsbez": "Siebenter Abschnitt",
+      "gliederungstitel": "Verschmelzung genossenschaftlicher Prüfungsverbände"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 144,
+    "doknr": "BJNR321010994BJNE011802123",
+    "enbez": "§ 105",
+    "gliederung": null,
+    "titel": "Möglichkeit der Verschmelzung",
+    "sha256_xml_text": "56a618cc0c68ed101021995d7161d1db12fc7e39aa1c1f61217b3451b12c40fe"
+  },
+  {
+    "index": 145,
+    "doknr": "BJNR321010994BJNE011900000",
+    "enbez": "§ 106",
+    "gliederung": null,
+    "titel": "Vorbereitung, Durchführung und Beschluß der Mitgliederversammlung",
+    "sha256_xml_text": "cfbc0a520ceeaa233d84915bde3e55f27e8af5a44d6b85cdada9879888abf68a"
+  },
+  {
+    "index": 146,
+    "doknr": "BJNR321010994BJNE012001377",
+    "enbez": "§ 107",
+    "gliederung": null,
+    "titel": "Pflichten der Vorstände",
+    "sha256_xml_text": "8d7a6d365ef4063449d1173dd893e5f624cb17b208ef9cf7a666f0c0a7c1b786"
+  },
+  {
+    "index": 147,
+    "doknr": "BJNR321010994BJNE012100000",
+    "enbez": "§ 108",
+    "gliederung": null,
+    "titel": "Austritt von Mitgliedern des übertragenden Verbandes",
+    "sha256_xml_text": "d19072bfb9028a1e36434ffba909a35f6dfd13b2b09a8a93b4b5807074862c42"
+  },
+  {
+    "index": 148,
+    "doknr": "BJNR321010994BJNG012200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020080",
+      "gliederungsbez": "Achter Abschnitt",
+      "gliederungstitel": "Verschmelzung von Versicherungsvereinen auf Gegenseitigkeit"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 149,
+    "doknr": "BJNR321010994BJNG037800000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020080010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Möglichkeit der Verschmelzung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 150,
+    "doknr": "BJNR321010994BJNE012300000",
+    "enbez": "§ 109",
+    "gliederung": null,
+    "titel": "Verschmelzungsfähige Rechtsträger",
+    "sha256_xml_text": "b38e3755af0bf9f23176a069db1494aa19de952ac88a12c826690ccbd50a366a"
+  },
+  {
+    "index": 151,
+    "doknr": "BJNR321010994BJNG037900000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020080020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Verschmelzung durch Aufnahme"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 152,
+    "doknr": "BJNR321010994BJNE012400000",
+    "enbez": "§ 110",
+    "gliederung": null,
+    "titel": "Inhalt des Verschmelzungsvertrags",
+    "sha256_xml_text": "a84a03fc98b30ba86c7241f20ee157ef03806ec9bebae8af0a9c86f7b56435c4"
+  },
+  {
+    "index": 153,
+    "doknr": "BJNR321010994BJNE012501377",
+    "enbez": "§ 111",
+    "gliederung": null,
+    "titel": "Bekanntmachung des Verschmelzungsvertrags",
+    "sha256_xml_text": "e84bd6e8da060e7ffa59a51360a37cedad530983bac93eb18d95e45b03a16071"
+  },
+  {
+    "index": 154,
+    "doknr": "BJNR321010994BJNE012601360",
+    "enbez": "§ 112",
+    "gliederung": null,
+    "titel": "Vorbereitung, Durchführung und Beschluß der Versammlung der obersten Vertretung",
+    "sha256_xml_text": "dfb0acffd9522e6cee70e62b872a4bd42519b99728c8be9134740d1e1a12558d"
+  },
+  {
+    "index": 155,
+    "doknr": "BJNR321010994BJNE012700000",
+    "enbez": "§ 113",
+    "gliederung": null,
+    "titel": "Keine gerichtliche Nachprüfung",
+    "sha256_xml_text": "cabb8f6b7c26cee8ab6f8ad85e07719f3e7c72748305ac0d81a7eaf61733bf28"
+  },
+  {
+    "index": 156,
+    "doknr": "BJNR321010994BJNG038000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020080030",
+      "gliederungsbez": "Dritter Unterabschnitt",
+      "gliederungstitel": "Verschmelzung durch Neugründung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 157,
+    "doknr": "BJNR321010994BJNE012800000",
+    "enbez": "§ 114",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "82e2aa4f787890d9fcdb6450f5b8c4e9a186509faff9982d7aa64fb6e77950af"
+  },
+  {
+    "index": 158,
+    "doknr": "BJNR321010994BJNE012900000",
+    "enbez": "§ 115",
+    "gliederung": null,
+    "titel": "Bestellung der Vereinsorgane",
+    "sha256_xml_text": "f8e9e41469f75771aaf540f6815e0899fe4d68e7fd3a9cd5a62b86825202c92c"
+  },
+  {
+    "index": 159,
+    "doknr": "BJNR321010994BJNE013001360",
+    "enbez": "§ 116",
+    "gliederung": null,
+    "titel": "Beschlüsse der obersten Vertretungen",
+    "sha256_xml_text": "b4706f3d78961f7bd537c4442b6e347d6fac0d27df88cb0388c147b30c8e8b7a"
+  },
+  {
+    "index": 160,
+    "doknr": "BJNR321010994BJNE013101377",
+    "enbez": "§ 117",
+    "gliederung": null,
+    "titel": "Entstehung und Bekanntmachung des neuen Vereins",
+    "sha256_xml_text": "a793010fe16b4350e6e778281030b5314171d9ca2c47befa53e6f9e2d0fd4736"
+  },
+  {
+    "index": 161,
+    "doknr": "BJNR321010994BJNG038100000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020080040",
+      "gliederungsbez": "Vierter Unterabschnitt",
+      "gliederungstitel": "Verschmelzung kleinerer Vereine"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 162,
+    "doknr": "BJNR321010994BJNE013203360",
+    "enbez": "§ 118",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "71676ee3b355074a782bace67d7a2634b3a3a330ae09938ebbecc4791d5ec7f7"
+  },
+  {
+    "index": 163,
+    "doknr": "BJNR321010994BJNE013302360",
+    "enbez": "§ 119",
+    "gliederung": null,
+    "titel": "Bekanntmachung der Verschmelzung",
+    "sha256_xml_text": "8af57d8efa48d8bd6e09e87823b67f624243bdde9f9e1f38ba04c3d49dcf1ea0"
+  },
+  {
+    "index": 164,
+    "doknr": "BJNR321010994BJNG013400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "020020090",
+      "gliederungsbez": "Neunter Abschnitt",
+      "gliederungstitel": "Verschmelzung von Kapitalgesellschaften mit dem\nVermögen eines Alleingesellschafters"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 165,
+    "doknr": "BJNR321010994BJNE013500000",
+    "enbez": "§ 120",
+    "gliederung": null,
+    "titel": "Möglichkeit der Verschmelzung",
+    "sha256_xml_text": "adb5e40b43512080cbd7f45669275bbf335181f5b7b0438c1ff08ff2de35f2cb"
+  },
+  {
+    "index": 166,
+    "doknr": "BJNR321010994BJNE013600000",
+    "enbez": "§ 121",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "ceeeb5a442c04c299097f01f19f94ccd0e888ddc33cc83ad37a0797d9d311700"
+  },
+  {
+    "index": 167,
+    "doknr": "BJNR321010994BJNE013701307",
+    "enbez": "§ 122",
+    "gliederung": null,
+    "titel": "Eintragung in das Handelsregister",
+    "sha256_xml_text": "c6922705c1c53cf442d483ee36602a11e28e69519a7ac59f3f82df998c42b1e8"
+  },
+  {
+    "index": 168,
+    "doknr": "BJNR321010994BJNG038200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030",
+      "gliederungsbez": "Drittes Buch",
+      "gliederungstitel": "Spaltung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 169,
+    "doknr": "BJNR321010994BJNG038300000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030010",
+      "gliederungsbez": "Erster Teil",
+      "gliederungstitel": "Allgemeine Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 170,
+    "doknr": "BJNR321010994BJNG013800000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030010010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Möglichkeit der Spaltung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 171,
+    "doknr": "BJNR321010994BJNE013900000",
+    "enbez": "§ 123",
+    "gliederung": null,
+    "titel": "Arten der Spaltung",
+    "sha256_xml_text": "0a3f242caf9e33fe323750004e82c16872928dd779bfee58efd70e4ddbc539c3"
+  },
+  {
+    "index": 172,
+    "doknr": "BJNR321010994BJNE014000000",
+    "enbez": "§ 124",
+    "gliederung": null,
+    "titel": "Spaltungsfähige Rechtsträger",
+    "sha256_xml_text": "e820e7ba007f2b0c27667565554862e94a045953048e3ee6bab373a3f4701cb4"
+  },
+  {
+    "index": 173,
+    "doknr": "BJNR321010994BJNE014103360",
+    "enbez": "§ 125",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "8920c2af8bb02ea20e4619be67221285378ee7944481eebf774b7074c3cf3166"
+  },
+  {
+    "index": 174,
+    "doknr": "BJNR321010994BJNG014200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030010020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Spaltung zur Aufnahme"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 175,
+    "doknr": "BJNR321010994BJNE014301307",
+    "enbez": "§ 126",
+    "gliederung": null,
+    "titel": "Inhalt des Spaltungs- und Übernahmevertrags",
+    "sha256_xml_text": "563009d190c7c915e6438896cb4bfd7543f05cd7fe8877492c691192bad5c8c9"
+  },
+  {
+    "index": 176,
+    "doknr": "BJNR321010994BJNE014401360",
+    "enbez": "§ 127",
+    "gliederung": null,
+    "titel": "Spaltungsbericht",
+    "sha256_xml_text": "efcbdd8df738e99a4dddb2902491dd1b966413f8d265dfca415aa1f9e4d923f7"
+  },
+  {
+    "index": 177,
+    "doknr": "BJNR321010994BJNE014500000",
+    "enbez": "§ 128",
+    "gliederung": null,
+    "titel": "Zustimmung zur Spaltung in Sonderfällen",
+    "sha256_xml_text": "56cbeb2ad2f97ccb33ec507b9078a7dadf5e3023556132922b3611ac06d8e1e1"
+  },
+  {
+    "index": 178,
+    "doknr": "BJNR321010994BJNE014600000",
+    "enbez": "§ 129",
+    "gliederung": null,
+    "titel": "Anmeldung der Spaltung",
+    "sha256_xml_text": "e4899eba186b6b2d01f5a3bd791414bbbde75570f3f907c2b0a5d907221a15c1"
+  },
+  {
+    "index": 179,
+    "doknr": "BJNR321010994BJNE014704377",
+    "enbez": "§ 130",
+    "gliederung": null,
+    "titel": "Eintragung der Spaltung",
+    "sha256_xml_text": "58620595c1f0a32af42da1071cd0d8967f1d749c7e0d7c14f6cc605ddf89c17a"
+  },
+  {
+    "index": 180,
+    "doknr": "BJNR321010994BJNE014802377",
+    "enbez": "§ 131",
+    "gliederung": null,
+    "titel": "Wirkungen der Eintragung",
+    "sha256_xml_text": "79c82adef2095c5b79fbe64a5674ad05f88aa0fb2a943bd975f0376e343fab5e"
+  },
+  {
+    "index": 181,
+    "doknr": "BJNR321010994BJNE014902360",
+    "enbez": "§ 132",
+    "gliederung": null,
+    "titel": "Kündigungsschutzrecht",
+    "sha256_xml_text": "b26bb003541fc142a283dd8df9c66eff9c432e0428aaba8ab3ea6b96ed5b07d1"
+  },
+  {
+    "index": 182,
+    "doknr": "BJNR321010994BJNE040500360",
+    "enbez": "§ 132a",
+    "gliederung": null,
+    "titel": "Mitbestimmungsbeibehaltung",
+    "sha256_xml_text": "98504b39c9ae355d5fb6ca71d031ae4914551f09641139e27e8f21ff6a2800fc"
+  },
+  {
+    "index": 183,
+    "doknr": "BJNR321010994BJNE015004360",
+    "enbez": "§ 133",
+    "gliederung": null,
+    "titel": "Schutz der Gläubiger und der Inhaber von Sonderrechten",
+    "sha256_xml_text": "762420a40910a66a599b2e66b1183ade0f3dbc6ca326e3f2d4cd47b652efed5a"
+  },
+  {
+    "index": 184,
+    "doknr": "BJNR321010994BJNE015101377",
+    "enbez": "§ 134",
+    "gliederung": null,
+    "titel": "Schutz der Gläubiger in besonderen Fällen",
+    "sha256_xml_text": "1775fc33e50e58f48deda29ea33dc272d50499cf392f841d751729571ffa0f01"
+  },
+  {
+    "index": 185,
+    "doknr": "BJNR321010994BJNG015200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030010030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Spaltung zur Neugründung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 186,
+    "doknr": "BJNR321010994BJNE015301360",
+    "enbez": "§ 135",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "52d4a83364bfc2234a56bbca5aeb29186d70ccb57de6206bc2853c1cd8cfdb7a"
+  },
+  {
+    "index": 187,
+    "doknr": "BJNR321010994BJNE015400000",
+    "enbez": "§ 136",
+    "gliederung": null,
+    "titel": "Spaltungsplan",
+    "sha256_xml_text": "6b04036427ba12e5a6f48acad20e11642d8044c089166196feb22462e28b1a8f"
+  },
+  {
+    "index": 188,
+    "doknr": "BJNR321010994BJNE015504360",
+    "enbez": "§ 137",
+    "gliederung": null,
+    "titel": "Anmeldung und Eintragung der neuen Rechtsträger und der Spaltung",
+    "sha256_xml_text": "3b6fd89d9a43f7bb2b1638274728151ad93eb144cae08d84f384ee29d3a1a2c9"
+  },
+  {
+    "index": 189,
+    "doknr": "BJNR321010994BJNG038400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020",
+      "gliederungsbez": "Zweiter Teil",
+      "gliederungstitel": "Besondere Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 190,
+    "doknr": "BJNR321010994BJNG015600000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Spaltung unter Beteiligung von Gesellschaften mit\nbeschränkter Haftung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 191,
+    "doknr": "BJNR321010994BJNE015700000",
+    "enbez": "§ 138",
+    "gliederung": null,
+    "titel": "Sachgründungsbericht",
+    "sha256_xml_text": "326eb5788eb3efcce97531d666c094c3403524973feb9fc012eecd0c40bb4e6c"
+  },
+  {
+    "index": 192,
+    "doknr": "BJNR321010994BJNE015800000",
+    "enbez": "§ 139",
+    "gliederung": null,
+    "titel": "Herabsetzung des Stammkapitals",
+    "sha256_xml_text": "3c0a6b7ce64f5da79a83d8a0753c6d131c123c7afe6eb3a03415b92bea70de4e"
+  },
+  {
+    "index": 193,
+    "doknr": "BJNR321010994BJNE015900000",
+    "enbez": "§ 140",
+    "gliederung": null,
+    "titel": "Anmeldung der Abspaltung oder der Ausgliederung",
+    "sha256_xml_text": "bb47861461a712b6fefbdcba215121a0c0539f72c74d534334c1c10688692c8f"
+  },
+  {
+    "index": 194,
+    "doknr": "BJNR321010994BJNG016000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Spaltung unter Beteiligung von Aktiengesellschaften\nund Kommanditgesellschaften auf Aktien"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 195,
+    "doknr": "BJNR321010994BJNE016101377",
+    "enbez": "§ 141",
+    "gliederung": null,
+    "titel": "Ausschluss der Spaltung",
+    "sha256_xml_text": "4d1744f5de36f772d13edcfee848b309bfd455ad56e201f15826c6e409674921"
+  },
+  {
+    "index": 196,
+    "doknr": "BJNR321010994BJNE016201360",
+    "enbez": "§ 142",
+    "gliederung": null,
+    "titel": "Spaltung mit Kapitalerhöhung, Spaltungsbericht",
+    "sha256_xml_text": "d900185ee8b865c0a68ca298cfad515b494415fbc5f0b177faa0a6ea18ea65ab"
+  },
+  {
+    "index": 197,
+    "doknr": "BJNR321010994BJNE040600360",
+    "enbez": "§ 142a",
+    "gliederung": null,
+    "titel": "Verpflichtungen nach § 72a",
+    "sha256_xml_text": "5d5a770ae2ef03a286c6aa8306204c02b816f132978c997e583afc91c10a78cf"
+  },
+  {
+    "index": 198,
+    "doknr": "BJNR321010994BJNE016301360",
+    "enbez": "§ 143",
+    "gliederung": null,
+    "titel": "Verhältniswahrende Spaltung zur Neugründung",
+    "sha256_xml_text": "b11aa15090344938cb3f375e12340f32132bd1959a09be1c65494c7dbf56b768"
+  },
+  {
+    "index": 199,
+    "doknr": "BJNR321010994BJNE016400000",
+    "enbez": "§ 144",
+    "gliederung": null,
+    "titel": "Gründungsbericht und Gründungsprüfung",
+    "sha256_xml_text": "c1a1d31947ade519610752b9cdfc141171da795528cfd58cae3bfb71b8133422"
+  },
+  {
+    "index": 200,
+    "doknr": "BJNR321010994BJNE016500000",
+    "enbez": "§ 145",
+    "gliederung": null,
+    "titel": "Herabsetzung des Grundkapitals",
+    "sha256_xml_text": "cd3764232818e966f683190bf0dc9a4f6ecf210011ad142fdf2fa7ad8c3b9fdd"
+  },
+  {
+    "index": 201,
+    "doknr": "BJNR321010994BJNE016600000",
+    "enbez": "§ 146",
+    "gliederung": null,
+    "titel": "Anmeldung der Abspaltung oder der Ausgliederung",
+    "sha256_xml_text": "d4218e0c4c08576ce65d125ae49d98b7fed382bfafccd8b09f84f20135050cec"
+  },
+  {
+    "index": 202,
+    "doknr": "BJNR321010994BJNG016700000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Spaltung unter Beteiligung eingetragener Genossenschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 203,
+    "doknr": "BJNR321010994BJNE016801377",
+    "enbez": "§ 147",
+    "gliederung": null,
+    "titel": "Möglichkeit der Spaltung",
+    "sha256_xml_text": "ba6fec68fe0b50176c9c8ba48525629686d1054580bd555d20eccb033da6ad2d"
+  },
+  {
+    "index": 204,
+    "doknr": "BJNR321010994BJNE016901377",
+    "enbez": "§ 148",
+    "gliederung": null,
+    "titel": "Anmeldung der Abspaltung oder der Ausgliederung",
+    "sha256_xml_text": "454dae810aa08845aabe68b46241a6eff20bede530f99b03b733d98eb235f18c"
+  },
+  {
+    "index": 205,
+    "doknr": "BJNR321010994BJNG017000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020040",
+      "gliederungsbez": "Vierter Abschnitt",
+      "gliederungstitel": "Spaltung unter Beteiligung rechtsfähiger Vereine"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 206,
+    "doknr": "BJNR321010994BJNE017100000",
+    "enbez": "§ 149",
+    "gliederung": null,
+    "titel": "Möglichkeit der Spaltung",
+    "sha256_xml_text": "49f9fc178f15d8e61507165232aa7babc3e101907e00127ab86af826d433df7b"
+  },
+  {
+    "index": 207,
+    "doknr": "BJNR321010994BJNG017200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020050",
+      "gliederungsbez": "Fünfter Abschnitt",
+      "gliederungstitel": "Spaltung unter Beteiligung genossenschaftlicher\nPrüfungsverbände"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 208,
+    "doknr": "BJNR321010994BJNE017300000",
+    "enbez": "§ 150",
+    "gliederung": null,
+    "titel": "Möglichkeit der Spaltung",
+    "sha256_xml_text": "14c1ecb4740cc019cdeee1d6ddb2fa6d2d28ce48402cde7f27ac49b2f6b3d6d4"
+  },
+  {
+    "index": 209,
+    "doknr": "BJNR321010994BJNG017400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020060",
+      "gliederungsbez": "Sechster Abschnitt",
+      "gliederungstitel": "Spaltung unter Beteiligung von Versicherungsvereinen\nauf Gegenseitigkeit"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 210,
+    "doknr": "BJNR321010994BJNE017501377",
+    "enbez": "§ 151",
+    "gliederung": null,
+    "titel": "Möglichkeit der Spaltung",
+    "sha256_xml_text": "950088c532754bf174fb320b3392711528d4f4e15645652824621647c4c6e3bd"
+  },
+  {
+    "index": 211,
+    "doknr": "BJNR321010994BJNG017600000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020070",
+      "gliederungsbez": "Siebenter Abschnitt",
+      "gliederungstitel": "Ausgliederung aus dem Vermögen eines Einzelkaufmanns"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 212,
+    "doknr": "BJNR321010994BJNG038500000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020070010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Möglichkeit der Ausgliederung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 213,
+    "doknr": "BJNR321010994BJNE017700000",
+    "enbez": "§ 152",
+    "gliederung": null,
+    "titel": "Übernehmende oder neue Rechtsträger",
+    "sha256_xml_text": "fc1eccc6474108bb94e177bfc14650c9f16f37f677ab2619a680b6b6126a1ee9"
+  },
+  {
+    "index": 214,
+    "doknr": "BJNR321010994BJNG038600000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020070020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Ausgliederung zur Aufnahme"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 215,
+    "doknr": "BJNR321010994BJNE017800000",
+    "enbez": "§ 153",
+    "gliederung": null,
+    "titel": "Ausgliederungsbericht",
+    "sha256_xml_text": "6c35b3db96f47bf36ba48a93c88469f517baf210da69aefe683bf5e9de81482a"
+  },
+  {
+    "index": 216,
+    "doknr": "BJNR321010994BJNE017900000",
+    "enbez": "§ 154",
+    "gliederung": null,
+    "titel": "Eintragung der Ausgliederung",
+    "sha256_xml_text": "37c265ec1c4cb771648595ad334b3caa827b614f01e14c2edb708eaa733e5d62"
+  },
+  {
+    "index": 217,
+    "doknr": "BJNR321010994BJNE018000000",
+    "enbez": "§ 155",
+    "gliederung": null,
+    "titel": "Wirkungen der Ausgliederung",
+    "sha256_xml_text": "107f8263b03a96165c5ee01b77631952b41845473e072a7dca14b26d097d0220"
+  },
+  {
+    "index": 218,
+    "doknr": "BJNR321010994BJNE018100000",
+    "enbez": "§ 156",
+    "gliederung": null,
+    "titel": "Haftung des Einzelkaufmanns",
+    "sha256_xml_text": "c4b374cc79298b2502b47e0be6a3569b0eaacfcc418487adf4d338b720fc0dbe"
+  },
+  {
+    "index": 219,
+    "doknr": "BJNR321010994BJNE018203360",
+    "enbez": "§ 157",
+    "gliederung": null,
+    "titel": "Zeitliche Begrenzung der Haftung für übertragene Verbindlichkeiten",
+    "sha256_xml_text": "afb03bd39245fb18dacb8db534ecfb78ad2af2e5c67a2a9a3776c20e9fe87087"
+  },
+  {
+    "index": 220,
+    "doknr": "BJNR321010994BJNG038700000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020070030",
+      "gliederungsbez": "Dritter Unterabschnitt",
+      "gliederungstitel": "Ausgliederung zur Neugründung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 221,
+    "doknr": "BJNR321010994BJNE018300000",
+    "enbez": "§ 158",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "838cd174e2c35a083e705a59424b42bed7a0970c1710ba1ca80f2e07c30c3ef8"
+  },
+  {
+    "index": 222,
+    "doknr": "BJNR321010994BJNE018400000",
+    "enbez": "§ 159",
+    "gliederung": null,
+    "titel": "Sachgründungsbericht, Gründungsbericht und Gründungsprüfung",
+    "sha256_xml_text": "bbf8a7eb447bcd35adcf62954d2d1ce80b4c656f0c5f11d4a7a8fad791b38209"
+  },
+  {
+    "index": 223,
+    "doknr": "BJNR321010994BJNE018500000",
+    "enbez": "§ 160",
+    "gliederung": null,
+    "titel": "Anmeldung und Eintragung",
+    "sha256_xml_text": "c6e5d049f39c1d5be3cec3953647c0e4954cefd416f9f6b9a900875e110050b7"
+  },
+  {
+    "index": 224,
+    "doknr": "BJNR321010994BJNG018600000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020080",
+      "gliederungsbez": "Achter Abschnitt",
+      "gliederungstitel": "Ausgliederung aus dem Vermögen rechtsfähiger Stiftungen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 225,
+    "doknr": "BJNR321010994BJNE018700000",
+    "enbez": "§ 161",
+    "gliederung": null,
+    "titel": "Möglichkeit der Ausgliederung",
+    "sha256_xml_text": "0412511c950084b443a2839b1199c6c09602ceae798c4272e7166d323cdf169f"
+  },
+  {
+    "index": 226,
+    "doknr": "BJNR321010994BJNE018800000",
+    "enbez": "§ 162",
+    "gliederung": null,
+    "titel": "Ausgliederungsbericht",
+    "sha256_xml_text": "3a2d5af3011322991b5a8579393dd9906aef5201daf6d8fa931d7b328f0acb78"
+  },
+  {
+    "index": 227,
+    "doknr": "BJNR321010994BJNE018900000",
+    "enbez": "§ 163",
+    "gliederung": null,
+    "titel": "Beschluß über den Vertrag",
+    "sha256_xml_text": "37e495670c9b0bf5d5c39c9ec4357365e29002b021680be20a34175b3bb08b53"
+  },
+  {
+    "index": 228,
+    "doknr": "BJNR321010994BJNE019000000",
+    "enbez": "§ 164",
+    "gliederung": null,
+    "titel": "Genehmigung der Ausgliederung",
+    "sha256_xml_text": "f82a4ae7279ac129eb0a31742f5c89171dd8f955c90da3d0ec18694ae10f8d15"
+  },
+  {
+    "index": 229,
+    "doknr": "BJNR321010994BJNE019100000",
+    "enbez": "§ 165",
+    "gliederung": null,
+    "titel": "Sachgründungsbericht und Gründungsbericht",
+    "sha256_xml_text": "1e1f8e5a9c5af6725d178ecd61bdaa10f314547adb7db8b08ca66721ea4a89bf"
+  },
+  {
+    "index": 230,
+    "doknr": "BJNR321010994BJNE019200000",
+    "enbez": "§ 166",
+    "gliederung": null,
+    "titel": "Haftung der Stiftung",
+    "sha256_xml_text": "ca613e2b59ce6fcf8f29e9aaf007fb92be0ff87df33084fc8e17c62fda387fbe"
+  },
+  {
+    "index": 231,
+    "doknr": "BJNR321010994BJNE019300000",
+    "enbez": "§ 167",
+    "gliederung": null,
+    "titel": "Zeitliche Begrenzung der Haftung für übertragene\nVerbindlichkeiten",
+    "sha256_xml_text": "100158a6973da36c262772b61aecc1d547014bbc63128bd646b5182f583caf65"
+  },
+  {
+    "index": 232,
+    "doknr": "BJNR321010994BJNG019400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "030020090",
+      "gliederungsbez": "Neunter Abschnitt",
+      "gliederungstitel": "Ausgliederung aus dem Vermögen von Gebietskörperschaften\noder Zusammenschlüssen von Gebietskörperschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 233,
+    "doknr": "BJNR321010994BJNE019500000",
+    "enbez": "§ 168",
+    "gliederung": null,
+    "titel": "Möglichkeit der Ausgliederung",
+    "sha256_xml_text": "9eec104011b84b8ebccb404d362b06111df0f93fec563ce68bf1cde1802d1daa"
+  },
+  {
+    "index": 234,
+    "doknr": "BJNR321010994BJNE019600000",
+    "enbez": "§ 169",
+    "gliederung": null,
+    "titel": "Ausgliederungsbericht, Ausgliederungsbeschluß",
+    "sha256_xml_text": "f2a3c44f7c98f83bc3f83aefd7df03d1955935884badd7d7b637bc3c3125d33c"
+  },
+  {
+    "index": 235,
+    "doknr": "BJNR321010994BJNE019700000",
+    "enbez": "§ 170",
+    "gliederung": null,
+    "titel": "Sachgründungsbericht und Gründungsbericht",
+    "sha256_xml_text": "1e1f8e5a9c5af6725d178ecd61bdaa10f314547adb7db8b08ca66721ea4a89bf"
+  },
+  {
+    "index": 236,
+    "doknr": "BJNR321010994BJNE019800000",
+    "enbez": "§ 171",
+    "gliederung": null,
+    "titel": "Wirksamwerden der Ausgliederung",
+    "sha256_xml_text": "cd39ae5156b349fa69b21741c5b4ff198c004352764f3cd5a04d6b4b20058d5d"
+  },
+  {
+    "index": 237,
+    "doknr": "BJNR321010994BJNE019900000",
+    "enbez": "§ 172",
+    "gliederung": null,
+    "titel": "Haftung der Körperschaft oder des Zusammenschlusses",
+    "sha256_xml_text": "2d8b7a8a71ac93d031152723316821a215c054a1dca722fae7ad9b3ec22ba38f"
+  },
+  {
+    "index": 238,
+    "doknr": "BJNR321010994BJNE020000000",
+    "enbez": "§ 173",
+    "gliederung": null,
+    "titel": "Zeitliche Begrenzung der Haftung für übertragene\nVerbindlichkeiten",
+    "sha256_xml_text": "0eddee68eb4cfb1c9d1f300dffee81e6309a4a5bf4213e9d07dc4ce8ab132e66"
+  },
+  {
+    "index": 239,
+    "doknr": "BJNR321010994BJNG038800000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040",
+      "gliederungsbez": "Viertes Buch",
+      "gliederungstitel": "Vermögensübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 240,
+    "doknr": "BJNR321010994BJNG038900000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040010",
+      "gliederungsbez": "Erster Teil",
+      "gliederungstitel": "Möglichkeit der Vermögensübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 241,
+    "doknr": "BJNR321010994BJNE020100000",
+    "enbez": "§ 174",
+    "gliederung": null,
+    "titel": "Arten der Vermögensübertragung",
+    "sha256_xml_text": "ad732e51d8827bab77038e3ac2686935a8da413b28b5f23ad3c050b3a632fa91"
+  },
+  {
+    "index": 242,
+    "doknr": "BJNR321010994BJNE020200000",
+    "enbez": "§ 175",
+    "gliederung": null,
+    "titel": "Beteiligte Rechtsträger",
+    "sha256_xml_text": "ba48f715b88481246386bfe9a1f23ceffd4218dea9ec5611a13df526e9314b5f"
+  },
+  {
+    "index": 243,
+    "doknr": "BJNR321010994BJNG039000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040020",
+      "gliederungsbez": "Zweiter Teil",
+      "gliederungstitel": "Übertragung des Vermögens oder von Vermögensteilen\neiner Kapitalgesellschaft auf die öffentliche Hand"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 244,
+    "doknr": "BJNR321010994BJNG020300000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040020010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Vollübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 245,
+    "doknr": "BJNR321010994BJNE020400000",
+    "enbez": "§ 176",
+    "gliederung": null,
+    "titel": "Anwendung der Verschmelzungsvorschriften",
+    "sha256_xml_text": "025962d81049652e3b9ff8cd68f53b493f5ce8c3f7261c01d792c03d39f15bca"
+  },
+  {
+    "index": 246,
+    "doknr": "BJNR321010994BJNG020500000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040020020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Teilübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 247,
+    "doknr": "BJNR321010994BJNE020600000",
+    "enbez": "§ 177",
+    "gliederung": null,
+    "titel": "Anwendung der Spaltungsvorschriften",
+    "sha256_xml_text": "47dae575108ef267d3ac7e3dfa77fa4c30b50cb47fe316ddf5f6fcd9a032e29b"
+  },
+  {
+    "index": 248,
+    "doknr": "BJNR321010994BJNG039100000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030",
+      "gliederungsbez": "Dritter Teil",
+      "gliederungstitel": "Vermögensübertragung unter Versicherungsunternehmen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 249,
+    "doknr": "BJNR321010994BJNG020700000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Übertragung des Vermögens einer Aktiengesellschaft\nauf Versicherungsvereine auf Gegenseitigkeit oder\nöffentlich-rechtliche Versicherungsunternehmen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 250,
+    "doknr": "BJNR321010994BJNG039200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030010010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Vollübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 251,
+    "doknr": "BJNR321010994BJNE020800000",
+    "enbez": "§ 178",
+    "gliederung": null,
+    "titel": "Anwendung der Verschmelzungsvorschriften",
+    "sha256_xml_text": "ff9091f873b3ebbb94ff88ff25e5f1b6c8080cb8b3c31ca89fcbfdeb18a936ce"
+  },
+  {
+    "index": 252,
+    "doknr": "BJNR321010994BJNG039300000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030010020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Teilübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 253,
+    "doknr": "BJNR321010994BJNE020900000",
+    "enbez": "§ 179",
+    "gliederung": null,
+    "titel": "Anwendung der Spaltungsvorschriften",
+    "sha256_xml_text": "914275ad614ede1d8fa29d50287c57355040bbcbd97c8a9c8bfe9b3410b78049"
+  },
+  {
+    "index": 254,
+    "doknr": "BJNR321010994BJNG021000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Übertragung des Vermögens eines Versicherungsvereins\nauf Gegenseitigkeit auf Aktiengesellschaften oder\nöffentlich-rechtliche Versicherungsunternehmen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 255,
+    "doknr": "BJNR321010994BJNG039400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030020010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Vollübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 256,
+    "doknr": "BJNR321010994BJNE021100000",
+    "enbez": "§ 180",
+    "gliederung": null,
+    "titel": "Anwendung der Verschmelzungsvorschriften",
+    "sha256_xml_text": "82610b56d830d1d412aee350b16fbb196e8fe337fecdf26498597c356476d30f"
+  },
+  {
+    "index": 257,
+    "doknr": "BJNR321010994BJNE021200000",
+    "enbez": "§ 181",
+    "gliederung": null,
+    "titel": "Gewährung der Gegenleistung",
+    "sha256_xml_text": "c85f37b218f7a5b7aaaa25940ff1d9ecf9f3d081bfdd418cdd508547ccab08d2"
+  },
+  {
+    "index": 258,
+    "doknr": "BJNR321010994BJNE021301377",
+    "enbez": "§ 182",
+    "gliederung": null,
+    "titel": "Unterrichtung der Mitglieder",
+    "sha256_xml_text": "1ca60beeb455d02981ec87a041cbb56dd86674e6c721447c37bed5dc715397b4"
+  },
+  {
+    "index": 259,
+    "doknr": "BJNR321010994BJNE021400000",
+    "enbez": "§ 183",
+    "gliederung": null,
+    "titel": "Bestellung eines Treuhänders",
+    "sha256_xml_text": "8e10671d623164137779951d27c1262ae90ada66321c142dab8583ece264612f"
+  },
+  {
+    "index": 260,
+    "doknr": "BJNR321010994BJNG039500000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030020020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Teilübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 261,
+    "doknr": "BJNR321010994BJNE021500000",
+    "enbez": "§ 184",
+    "gliederung": null,
+    "titel": "Anwendung der Spaltungsvorschriften",
+    "sha256_xml_text": "6e0b521a41acd21d016e05678b8a5e54b9af51f4ebb33c040e2578b8f2cf9fbe"
+  },
+  {
+    "index": 262,
+    "doknr": "BJNR321010994BJNG021600000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Übertragung des Vermögens eines kleineren Versicherungsvereins\nauf Gegenseitigkeit auf eine Aktiengesellschaft\noder auf ein öffentlich-rechtliches Versicherungsunternehmen"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 263,
+    "doknr": "BJNR321010994BJNE021700000",
+    "enbez": "§ 185",
+    "gliederung": null,
+    "titel": "Möglichkeit der Vermögensübertragung",
+    "sha256_xml_text": "59f77064239bc209ee7144c644b6a44c036f7912940d344790332019a1f71101"
+  },
+  {
+    "index": 264,
+    "doknr": "BJNR321010994BJNE021802360",
+    "enbez": "§ 186",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "e0ada97dd939aec681b6b00f944e9681e1c59e1e325a1ec04f9910c199d09cbc"
+  },
+  {
+    "index": 265,
+    "doknr": "BJNR321010994BJNE021902360",
+    "enbez": "§ 187",
+    "gliederung": null,
+    "titel": "Bekanntmachung der Vermögensübertragung",
+    "sha256_xml_text": "6847229ed9904cbb3305480a082cdd534d7873532ea35ba5f7ef721ab438ef53"
+  },
+  {
+    "index": 266,
+    "doknr": "BJNR321010994BJNG022000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030040",
+      "gliederungsbez": "Vierter Abschnitt",
+      "gliederungstitel": "Übertragung des Vermögens eines öffentlich-rechtlichen\nVersicherungsunternehmens auf Aktiengesellschaften\noder Versicherungsvereine auf Gegenseitigkeit"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 267,
+    "doknr": "BJNR321010994BJNG039600000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030040010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Vollübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 268,
+    "doknr": "BJNR321010994BJNE022102360",
+    "enbez": "§ 188",
+    "gliederung": null,
+    "titel": "Anwendung der Verschmelzungsvorschriften",
+    "sha256_xml_text": "53e7be6e591b36deadd972776adebe6c61f4a8343b866de4c8e35d8032002900"
+  },
+  {
+    "index": 269,
+    "doknr": "BJNR321010994BJNG039700000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "040030040020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Teilübertragung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 270,
+    "doknr": "BJNR321010994BJNE022200000",
+    "enbez": "§ 189",
+    "gliederung": null,
+    "titel": "Anwendung der Spaltungsvorschriften",
+    "sha256_xml_text": "93655700fcb7269a878eb631bd8d41005319fcaabfdcad084253b4c56fac06aa"
+  },
+  {
+    "index": 271,
+    "doknr": "BJNR321010994BJNG039800000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050",
+      "gliederungsbez": "Fünftes Buch",
+      "gliederungstitel": "Formwechsel"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 272,
+    "doknr": "BJNR321010994BJNG022300000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050010",
+      "gliederungsbez": "Erster Teil",
+      "gliederungstitel": "Allgemeine Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 273,
+    "doknr": "BJNR321010994BJNE022400000",
+    "enbez": "§ 190",
+    "gliederung": null,
+    "titel": "Allgemeiner Anwendungsbereich",
+    "sha256_xml_text": "1b68e5d3a3e1742cdadf4e928b3a3e3cebfdb7d0a69153bf4539146f363901b2"
+  },
+  {
+    "index": 274,
+    "doknr": "BJNR321010994BJNE022502360",
+    "enbez": "§ 191",
+    "gliederung": null,
+    "titel": "Einbezogene Rechtsträger",
+    "sha256_xml_text": "6c10fde4039608a7fe019bca2141a4ad78924c00a955b2d9d3d9a67e459b3713"
+  },
+  {
+    "index": 275,
+    "doknr": "BJNR321010994BJNE022602360",
+    "enbez": "§ 192",
+    "gliederung": null,
+    "titel": "Formwechselbericht",
+    "sha256_xml_text": "1e1fcce2cca67b80259e8caa72e52f7df885d3f4925e8ca26260e8e2f7947b5d"
+  },
+  {
+    "index": 276,
+    "doknr": "BJNR321010994BJNE022701360",
+    "enbez": "§ 193",
+    "gliederung": null,
+    "titel": "Formwechselbeschluss",
+    "sha256_xml_text": "797b7661e2c792ebfeb3240285a633ca6db513207426c0bed013f05f7a6fef83"
+  },
+  {
+    "index": 277,
+    "doknr": "BJNR321010994BJNE022801360",
+    "enbez": "§ 194",
+    "gliederung": null,
+    "titel": "Inhalt des Formwechselbeschlusses",
+    "sha256_xml_text": "cb24ae20af519d4661cb8bbbf983cf13149b23621e0a7e023821bd69ddb21ebb"
+  },
+  {
+    "index": 278,
+    "doknr": "BJNR321010994BJNE022901360",
+    "enbez": "§ 195",
+    "gliederung": null,
+    "titel": "Befristung und Ausschluß von Klagen gegen den Formwechselbeschluss",
+    "sha256_xml_text": "8072770206b52b9abfe7a472a7788532edc72f9f3f4cdf911913b6f9c4551129"
+  },
+  {
+    "index": 279,
+    "doknr": "BJNR321010994BJNE023002360",
+    "enbez": "§ 196",
+    "gliederung": null,
+    "titel": "Verbesserung des Beteiligungsverhältnisses",
+    "sha256_xml_text": "521255091560a1a3a957d7fd61b5f59794fa279c824ede4b6aa5beee0dc71050"
+  },
+  {
+    "index": 280,
+    "doknr": "BJNR321010994BJNE023101377",
+    "enbez": "§ 197",
+    "gliederung": null,
+    "titel": "Anzuwendende Gründungsvorschriften",
+    "sha256_xml_text": "d2b14f76ca7930c7996bf41cbdd6c73d47687dc1b0fb9a16c245fdc4a990a064"
+  },
+  {
+    "index": 281,
+    "doknr": "BJNR321010994BJNE023201377",
+    "enbez": "§ 198",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "3baa4e5d3677e2e66ee276797a4ec63839f6a0f7c8cfb2dd8276a67ce2e25ed8"
+  },
+  {
+    "index": 282,
+    "doknr": "BJNR321010994BJNE023302360",
+    "enbez": "§ 199",
+    "gliederung": null,
+    "titel": "Anlagen der Anmeldung",
+    "sha256_xml_text": "65e45b179f0ee6424cf755b9aa272883a788032768404d0902e62faf4851c6a2"
+  },
+  {
+    "index": 283,
+    "doknr": "BJNR321010994BJNE023403377",
+    "enbez": "§ 200",
+    "gliederung": null,
+    "titel": "Firma oder Name des Rechtsträgers",
+    "sha256_xml_text": "3f3837bd4d00c7f5de416100cdb596ca61a0b063017a34d83d5906a20804174e"
+  },
+  {
+    "index": 284,
+    "doknr": "BJNR321010994BJNE023502360",
+    "enbez": "§ 201",
+    "gliederung": null,
+    "titel": "Bekanntmachung des Formwechsels",
+    "sha256_xml_text": "cef677d1ef1d5b0d3d7a5072bc9eb4327186b82991987f2fd68920c875fcd089"
+  },
+  {
+    "index": 285,
+    "doknr": "BJNR321010994BJNE023601360",
+    "enbez": "§ 202",
+    "gliederung": null,
+    "titel": "Wirkungen der Eintragung",
+    "sha256_xml_text": "15ecdccd8c4b7bda6a9be624910eff4c8c64f4e18a0c089fa955d559b0b477ff"
+  },
+  {
+    "index": 286,
+    "doknr": "BJNR321010994BJNE023701360",
+    "enbez": "§ 203",
+    "gliederung": null,
+    "titel": "Amtsdauer von Aufsichtsratsmitgliedern",
+    "sha256_xml_text": "c5afaccf9a86b05dc756ceed7dc91ed9ea953b64284bec93cbba644ea230eeff"
+  },
+  {
+    "index": 287,
+    "doknr": "BJNR321010994BJNE023800000",
+    "enbez": "§ 204",
+    "gliederung": null,
+    "titel": "Schutz der Gläubiger und der Inhaber von Sonderrechten",
+    "sha256_xml_text": "b6ec36aacc98f860c8ca34caf35000773a0144c0319198e23400daa1449b5993"
+  },
+  {
+    "index": 288,
+    "doknr": "BJNR321010994BJNE023901377",
+    "enbez": "§ 205",
+    "gliederung": null,
+    "titel": "Schadenersatzpflicht der Verwaltungsträger des formwechselnden\nRechtsträgers",
+    "sha256_xml_text": "fae65022e6a618b93ad90c9ecad4e9c8ee8c02a9014d8fba388e6c815baff802"
+  },
+  {
+    "index": 289,
+    "doknr": "BJNR321010994BJNE024000000",
+    "enbez": "§ 206",
+    "gliederung": null,
+    "titel": "Geltendmachung des Schadenersatzanspruchs",
+    "sha256_xml_text": "970142168c7dfabaab43ec6aaca5e100c1cfaade423b7c2c61d7b34711b75917"
+  },
+  {
+    "index": 290,
+    "doknr": "BJNR321010994BJNE024101360",
+    "enbez": "§ 207",
+    "gliederung": null,
+    "titel": "Angebot der Barabfindung",
+    "sha256_xml_text": "ed614b6cba6081330da61de02eaebf01b309fd15d6c353378e9f34939680107c"
+  },
+  {
+    "index": 291,
+    "doknr": "BJNR321010994BJNE024200000",
+    "enbez": "§ 208",
+    "gliederung": null,
+    "titel": "Inhalt des Anspruchs auf Barabfindung und Prüfung\nder Barabfindung",
+    "sha256_xml_text": "976c35ecad96ea10532a9efdd9646e1531a931d5a168279fd3f32584e9c90ab5"
+  },
+  {
+    "index": 292,
+    "doknr": "BJNR321010994BJNE024302360",
+    "enbez": "§ 209",
+    "gliederung": null,
+    "titel": "Annahme des Angebots",
+    "sha256_xml_text": "26949b8c40e2c730597f6d4c10d6ce2ce1a7db50593a74583b755ccf0a1c7e63"
+  },
+  {
+    "index": 293,
+    "doknr": "BJNR321010994BJNE024401360",
+    "enbez": "§ 210",
+    "gliederung": null,
+    "titel": "Ausschluß von Klagen gegen den Formwechselbeschluss",
+    "sha256_xml_text": "cc0865b4ea47da001921fe704a6d66d6371a8bcc987622b516df87ff6bc969af"
+  },
+  {
+    "index": 294,
+    "doknr": "BJNR321010994BJNE024502360",
+    "enbez": "§ 211",
+    "gliederung": null,
+    "titel": "Anderweitige Veräußerung",
+    "sha256_xml_text": "c130548e8979e136a9e0ff77a022966c4ec8c18313b42906db2b12b13eba5fb2"
+  },
+  {
+    "index": 295,
+    "doknr": "BJNR321010994BJNE024602360",
+    "enbez": "§ 212",
+    "gliederung": null,
+    "titel": "Gerichtliche Nachprüfung der Abfindung",
+    "sha256_xml_text": "4f5fbd4a7eb0faa2735ae5671dc4f8f8fc502e16281e0bbdafd726d041488c31"
+  },
+  {
+    "index": 296,
+    "doknr": "BJNR321010994BJNE024701377",
+    "enbez": "§ 213",
+    "gliederung": null,
+    "titel": "Unbekannte Aktionäre",
+    "sha256_xml_text": "0e53e8997af8e76abb03af406a464d2134ec1ddbe5eee93521e178ed86ae4188"
+  },
+  {
+    "index": 297,
+    "doknr": "BJNR321010994BJNG024801307",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020",
+      "gliederungsbez": "Zweiter Teil",
+      "gliederungstitel": "Besondere Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 298,
+    "doknr": "BJNR321010994BJNG024901307",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020010",
+      "gliederungsbez": "Erster Abschnitt",
+      "gliederungstitel": "Formwechsel von Personengesellschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 299,
+    "doknr": "BJNR321010994BJNG041101360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020010010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Formwechsel von Gesellschaften bürgerlichen Rechts und Personenhandelsgesellschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 300,
+    "doknr": "BJNR321010994BJNE025003360",
+    "enbez": "§ 214",
+    "gliederung": null,
+    "titel": "Möglichkeit des Formwechsels",
+    "sha256_xml_text": "91bf8beb6714cc0c6141685086e1a6fc932c1ee9b009d12cd5bc4f26a0731ddd"
+  },
+  {
+    "index": 301,
+    "doknr": "BJNR321010994BJNE025101360",
+    "enbez": "§ 215",
+    "gliederung": null,
+    "titel": "Formwechselbericht",
+    "sha256_xml_text": "918a71497df9432e32aaa545c1a8ff64e0373ea66a25caac80507a3be1a02370"
+  },
+  {
+    "index": 302,
+    "doknr": "BJNR321010994BJNE025202360",
+    "enbez": "§ 216",
+    "gliederung": null,
+    "titel": "Unterrichtung der Gesellschafter",
+    "sha256_xml_text": "c5c5a850b0440bde5382b939721329553a11a0d5a1d9d911434fa1ed029ee920"
+  },
+  {
+    "index": 303,
+    "doknr": "BJNR321010994BJNE025302360",
+    "enbez": "§ 217",
+    "gliederung": null,
+    "titel": "Beschluß der Gesellschafterversammlung",
+    "sha256_xml_text": "bc6ad19b98cade1098f3e4795848e2d3c7f7fbd47afbfb10605e41cb3eb738ed"
+  },
+  {
+    "index": 304,
+    "doknr": "BJNR321010994BJNE025402360",
+    "enbez": "§ 218",
+    "gliederung": null,
+    "titel": "Inhalt des Formwechselbeschlusses",
+    "sha256_xml_text": "6f5447a814e1082c7e297bafca8386d9ecb5a227bdd6f083f8e9aab74f7f9381"
+  },
+  {
+    "index": 305,
+    "doknr": "BJNR321010994BJNE025500000",
+    "enbez": "§ 219",
+    "gliederung": null,
+    "titel": "Rechtsstellung als Gründer",
+    "sha256_xml_text": "ffe9ebf8d07b72dc1589c66312157381ea25c4f8397ef8057919388919aab7e6"
+  },
+  {
+    "index": 306,
+    "doknr": "BJNR321010994BJNE025600000",
+    "enbez": "§ 220",
+    "gliederung": null,
+    "titel": "Kapitalschutz",
+    "sha256_xml_text": "26881d7d3d826e52975f6f91173f5770c9871a884cf484a00012c1e43864cc2b"
+  },
+  {
+    "index": 307,
+    "doknr": "BJNR321010994BJNE025701360",
+    "enbez": "§ 221",
+    "gliederung": null,
+    "titel": "Beitritt persönlich haftender Gesellschafter",
+    "sha256_xml_text": "f0d90eae3ddce69f8921d7e5ba3844d563b686035a19e77ee3eca3dab3bee747"
+  },
+  {
+    "index": 308,
+    "doknr": "BJNR321010994BJNE025801377",
+    "enbez": "§ 222",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "cbf84c18d2197fb0fb54c0187f87b6d9dc53282ac33c97a2ad2c46001cbd51cc"
+  },
+  {
+    "index": 309,
+    "doknr": "BJNR321010994BJNE025900000",
+    "enbez": "§ 223",
+    "gliederung": null,
+    "titel": "Anlagen der Anmeldung",
+    "sha256_xml_text": "8d4c74fc7bffba3a74a567e01ca93531ddc58e0da6142d03d5320ebf1c48e303"
+  },
+  {
+    "index": 310,
+    "doknr": "BJNR321010994BJNE026003360",
+    "enbez": "§ 224",
+    "gliederung": null,
+    "titel": "Fortdauer und zeitliche Begrenzung der persönlichen Haftung",
+    "sha256_xml_text": "b28d2dd2e3c43f3c07a5338bc01d986c366dc7f9f68f383401ced0e19abb79fc"
+  },
+  {
+    "index": 311,
+    "doknr": "BJNR321010994BJNE026100000",
+    "enbez": "§ 225",
+    "gliederung": null,
+    "titel": "Prüfung des Abfindungsangebots",
+    "sha256_xml_text": "8d19ea962de27e267808ce0e8435bcf12052ede3ab6cf7f9cab146abda6fa23e"
+  },
+  {
+    "index": 312,
+    "doknr": "BJNR321010994BJNG041200307",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020010020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Formwechsel von Partnerschaftsgesellschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 313,
+    "doknr": "BJNR321010994BJNE037301360",
+    "enbez": "§ 225a",
+    "gliederung": null,
+    "titel": "Möglichkeit des Formwechsels",
+    "sha256_xml_text": "541cbc8f0c67d7b9595a87bc12d2c12381070bc487fa26fc62f4677a5873f788"
+  },
+  {
+    "index": 314,
+    "doknr": "BJNR321010994BJNE037401360",
+    "enbez": "§ 225b",
+    "gliederung": null,
+    "titel": "Formwechselbericht und Unterrichtung der Partner",
+    "sha256_xml_text": "812e7b34396f75c83babf2be08dc6845a72363002fee58c462f46241808caef5"
+  },
+  {
+    "index": 315,
+    "doknr": "BJNR321010994BJNE037500307",
+    "enbez": "§ 225c",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "159235245aee18765e6b8090e23c8921e4423016341e3eec989ed48352d5455e"
+  },
+  {
+    "index": 316,
+    "doknr": "BJNR321010994BJNG026200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020020",
+      "gliederungsbez": "Zweiter Abschnitt",
+      "gliederungstitel": "Formwechsel von Kapitalgesellschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 317,
+    "doknr": "BJNR321010994BJNG039900000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020020010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Allgemeine Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 318,
+    "doknr": "BJNR321010994BJNE026302360",
+    "enbez": "§ 226",
+    "gliederung": null,
+    "titel": "Möglichkeit des Formwechsels",
+    "sha256_xml_text": "b60a547e33c4f5738c5076c7b6eacf0d2d3330eb8e3d2fde18a8384528c6c80f"
+  },
+  {
+    "index": 319,
+    "doknr": "BJNR321010994BJNE026400000",
+    "enbez": "§ 227",
+    "gliederung": null,
+    "titel": "Nicht anzuwendende Vorschriften",
+    "sha256_xml_text": "c695328ed7c42459f92f960110581b0c60627099c62e2b0c8070343d255508fd"
+  },
+  {
+    "index": 320,
+    "doknr": "BJNR321010994BJNG040000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020020020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Formwechsel in eine Personengesellschaft"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 321,
+    "doknr": "BJNR321010994BJNE026504360",
+    "enbez": "§ 228",
+    "gliederung": null,
+    "titel": "Möglichkeit des Formwechsels",
+    "sha256_xml_text": "ad49059cb39eabec0afcf5612f51a03f16a5c23112053496a374ce48610586ed"
+  },
+  {
+    "index": 322,
+    "doknr": "BJNR321010994BJNE026601377",
+    "enbez": "§ 229",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+  },
+  {
+    "index": 323,
+    "doknr": "BJNR321010994BJNE026704360",
+    "enbez": "§ 230",
+    "gliederung": null,
+    "titel": "Vorbereitung der Versammlung der Anteilsinhaber",
+    "sha256_xml_text": "a4bcd4606f127ab1b507c8b7875a3de78efcc8b419487cdb074941065594f337"
+  },
+  {
+    "index": 324,
+    "doknr": "BJNR321010994BJNE026802360",
+    "enbez": "§ 231",
+    "gliederung": null,
+    "titel": "Mitteilung des Abfindungsangebots",
+    "sha256_xml_text": "4f614dddbdbc79d396f6bd985e02f7def56a3d4ffaaf21d57ce09eb86e30329e"
+  },
+  {
+    "index": 325,
+    "doknr": "BJNR321010994BJNE026902360",
+    "enbez": "§ 232",
+    "gliederung": null,
+    "titel": "Durchführung der Versammlung der Anteilsinhaber",
+    "sha256_xml_text": "71861b8a32e6985aa32c486803b563dc06f2524d9acc6de27804ae17f76dccdc"
+  },
+  {
+    "index": 326,
+    "doknr": "BJNR321010994BJNE027002360",
+    "enbez": "§ 233",
+    "gliederung": null,
+    "titel": "Beschluß der Versammlung der Anteilsinhaber",
+    "sha256_xml_text": "458ce768f8260b6d07636dad3e3bdc721839fd15a7f08b9de6f3e4836e703e7a"
+  },
+  {
+    "index": 327,
+    "doknr": "BJNR321010994BJNE027105360",
+    "enbez": "§ 234",
+    "gliederung": null,
+    "titel": "Inhalt des Formwechselbeschlusses",
+    "sha256_xml_text": "b36b00ba08e486c1933c87b6786ef95a1d5409a9f5de425af43f19d813043564"
+  },
+  {
+    "index": 328,
+    "doknr": "BJNR321010994BJNE027201360",
+    "enbez": "§ 235",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "3025eb282a0f90405d2ad22c0d6a8f215c49733bec4959432b9fbee8ddb80a57"
+  },
+  {
+    "index": 329,
+    "doknr": "BJNR321010994BJNE027300000",
+    "enbez": "§ 236",
+    "gliederung": null,
+    "titel": "Wirkungen des Formwechsels",
+    "sha256_xml_text": "450a2c544a45939760f0060845c0c515e295c337054b8cc863cdc5647fd1a55d"
+  },
+  {
+    "index": 330,
+    "doknr": "BJNR321010994BJNE027400000",
+    "enbez": "§ 237",
+    "gliederung": null,
+    "titel": "Fortdauer und zeitliche Begrenzung der persönlichen\nHaftung",
+    "sha256_xml_text": "75013bfd9328133e7cfb44e23d81a322facedc79ec789b192c16d13a98b7be13"
+  },
+  {
+    "index": 331,
+    "doknr": "BJNR321010994BJNG040100000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020020030",
+      "gliederungsbez": "Dritter Unterabschnitt",
+      "gliederungstitel": "Formwechsel in eine Kapitalgesellschaft anderer\nRechtsform"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 332,
+    "doknr": "BJNR321010994BJNE027501377",
+    "enbez": "§ 238",
+    "gliederung": null,
+    "titel": "Vorbereitung der Versammlung der Anteilsinhaber",
+    "sha256_xml_text": "f67c81297952ffa9ff2882593d77a1dc64eb9e13024593944e4003a46a18df75"
+  },
+  {
+    "index": 333,
+    "doknr": "BJNR321010994BJNE027602360",
+    "enbez": "§ 239",
+    "gliederung": null,
+    "titel": "Durchführung der Versammlung der Anteilsinhaber",
+    "sha256_xml_text": "71861b8a32e6985aa32c486803b563dc06f2524d9acc6de27804ae17f76dccdc"
+  },
+  {
+    "index": 334,
+    "doknr": "BJNR321010994BJNE027701360",
+    "enbez": "§ 240",
+    "gliederung": null,
+    "titel": "Beschluß der Versammlung der Anteilsinhaber",
+    "sha256_xml_text": "8e1e577f55f081db8c1e6c1fa4d03cafb68cfa36c69d32b760aed54e1e30e877"
+  },
+  {
+    "index": 335,
+    "doknr": "BJNR321010994BJNE027803360",
+    "enbez": "§ 241",
+    "gliederung": null,
+    "titel": "Zustimmungserfordernisse beim Formwechsel einer Gesellschaft mit beschränkter Haftung",
+    "sha256_xml_text": "a5d0bf5e1c71b7e576c66efdcda40afba20e8634808fa917675715b53367af00"
+  },
+  {
+    "index": 336,
+    "doknr": "BJNR321010994BJNE027903360",
+    "enbez": "§ 242",
+    "gliederung": null,
+    "titel": "Zustimmungserfordernis beim Formwechsel einer Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien",
+    "sha256_xml_text": "18a4dd41a2b267cb6eca85401e49948cd7ff0973b23a2abbbad691ec39d14491"
+  },
+  {
+    "index": 337,
+    "doknr": "BJNR321010994BJNE028004360",
+    "enbez": "§ 243",
+    "gliederung": null,
+    "titel": "Inhalt des Formwechselbeschlusses",
+    "sha256_xml_text": "3493d3e08122bc3f5215977428f15b412ad2fefaf7626ba5e1f4722fac5cc7f4"
+  },
+  {
+    "index": 338,
+    "doknr": "BJNR321010994BJNE028101360",
+    "enbez": "§ 244",
+    "gliederung": null,
+    "titel": "Niederschrift über den Formwechselbeschluss, Gesellschaftsvertrag",
+    "sha256_xml_text": "bb02a8f28aeebf9cb3554bc2bc41633dd6a558a8e14617d6172869aa2b32697a"
+  },
+  {
+    "index": 339,
+    "doknr": "BJNR321010994BJNE028201377",
+    "enbez": "§ 245",
+    "gliederung": null,
+    "titel": "Rechtsstellung als Gründer; Kapitalschutz",
+    "sha256_xml_text": "4a301884d0d1cdcac9a2bf8746b8764641dce9b4a6e87889c927e0a8c14c44ac"
+  },
+  {
+    "index": 340,
+    "doknr": "BJNR321010994BJNE028300000",
+    "enbez": "§ 246",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "c83455824ceb1ff2d0f7210d5799d8d9b2caf16034caade4f55c90536522f124"
+  },
+  {
+    "index": 341,
+    "doknr": "BJNR321010994BJNE028401377",
+    "enbez": "§ 247",
+    "gliederung": null,
+    "titel": "Wirkungen des Formwechsels",
+    "sha256_xml_text": "2621508d96e6baa3d48b563987bc61564033d477f3e3a51e6d4adfd9502d01ae"
+  },
+  {
+    "index": 342,
+    "doknr": "BJNR321010994BJNE028500000",
+    "enbez": "§ 248",
+    "gliederung": null,
+    "titel": "Umtausch der Anteile",
+    "sha256_xml_text": "5ebb3923d47a5b0e31d2abff691827ed19638f901cddb23dea9d9532d5a63144"
+  },
+  {
+    "index": 343,
+    "doknr": "BJNR321010994BJNE040700360",
+    "enbez": "§ 248a",
+    "gliederung": null,
+    "titel": "Gewährung zusätzlicher Aktien",
+    "sha256_xml_text": "074fb952fec18a8eba54fb8fcf1b6b8224d698ead8ed522fd905128dcb2b8cb8"
+  },
+  {
+    "index": 344,
+    "doknr": "BJNR321010994BJNE028600000",
+    "enbez": "§ 249",
+    "gliederung": null,
+    "titel": "Gläubigerschutz",
+    "sha256_xml_text": "124be24554e6d9fc458a284a6ea5a64b3afa9289b6bb77eecb824479dd98f2d8"
+  },
+  {
+    "index": 345,
+    "doknr": "BJNR321010994BJNE028700000",
+    "enbez": "§ 250",
+    "gliederung": null,
+    "titel": "Nicht anzuwendende Vorschriften",
+    "sha256_xml_text": "9e29fc79dfa01228b5555a1dd092e71b62946a5310fb9beac8dad702cc2b0176"
+  },
+  {
+    "index": 346,
+    "doknr": "BJNR321010994BJNG040200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020020040",
+      "gliederungsbez": "Vierter Unterabschnitt",
+      "gliederungstitel": "Formwechsel in eine eingetragene Genossenschaft"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 347,
+    "doknr": "BJNR321010994BJNE028802140",
+    "enbez": "§ 251",
+    "gliederung": null,
+    "titel": "Vorbereitung und Durchführung der Versammlung der Anteilsinhaber",
+    "sha256_xml_text": "d625cfc89b1c42e06198fab3158a32bbd37e6d1dd2ceb80e5c7ab58c4cc247d8"
+  },
+  {
+    "index": 348,
+    "doknr": "BJNR321010994BJNE028902360",
+    "enbez": "§ 252",
+    "gliederung": null,
+    "titel": "Beschluß der Versammlung der Anteilsinhaber",
+    "sha256_xml_text": "3c508e25bf82af9b336e782f2820ef9fef87b62a73fccf53d36eee244c71b927"
+  },
+  {
+    "index": 349,
+    "doknr": "BJNR321010994BJNE029002360",
+    "enbez": "§ 253",
+    "gliederung": null,
+    "titel": "Inhalt des Formwechselbeschlusses",
+    "sha256_xml_text": "23df0607fb526b74d2541f276baf4bfbe7fb69ea4a3154d5f09642bc0b0eb0f9"
+  },
+  {
+    "index": 350,
+    "doknr": "BJNR321010994BJNE029101377",
+    "enbez": "§ 254",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "ce1e31fffb1f9d632bdd509445cfe7749ba1742730873679550cfd125e45f1c8"
+  },
+  {
+    "index": 351,
+    "doknr": "BJNR321010994BJNE029202360",
+    "enbez": "§ 255",
+    "gliederung": null,
+    "titel": "Wirkungen des Formwechsels",
+    "sha256_xml_text": "ef0ad1d3c87d1e4d42b6ac9be4b17a903ef874dbec16e246ff938ffad7f65654"
+  },
+  {
+    "index": 352,
+    "doknr": "BJNR321010994BJNE029304140",
+    "enbez": "§ 256",
+    "gliederung": null,
+    "titel": "Geschäftsguthaben, Benachrichtigung der Mitglieder",
+    "sha256_xml_text": "7c4575674b3ac0f321d7bc58fa7b183ecdbe2c2e34a24915a7540266df026431"
+  },
+  {
+    "index": 353,
+    "doknr": "BJNR321010994BJNE029400000",
+    "enbez": "§ 257",
+    "gliederung": null,
+    "titel": "Gläubigerschutz",
+    "sha256_xml_text": "03448dedf3bb1a3b1514c03d37b4e49bb626fae4cded7addbdeb014acf415d38"
+  },
+  {
+    "index": 354,
+    "doknr": "BJNR321010994BJNG029500000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020030",
+      "gliederungsbez": "Dritter Abschnitt",
+      "gliederungstitel": "Formwechsel eingetragener Genossenschaften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 355,
+    "doknr": "BJNR321010994BJNE029605360",
+    "enbez": "§ 258",
+    "gliederung": null,
+    "titel": "Möglichkeit des Formwechsels",
+    "sha256_xml_text": "c88212cd8ca3ddfdd72850c434c4d6977a116193864a1f2715e6e19858206971"
+  },
+  {
+    "index": 356,
+    "doknr": "BJNR321010994BJNE029701377",
+    "enbez": "§ 259",
+    "gliederung": null,
+    "titel": "Gutachten des Prüfungsverbandes",
+    "sha256_xml_text": "636eb3cfd2ea59c5f19e594dfad2cf9a2264b3e78c2dc07a782be50decf5f9e1"
+  },
+  {
+    "index": 357,
+    "doknr": "BJNR321010994BJNE029805123",
+    "enbez": "§ 260",
+    "gliederung": null,
+    "titel": "Vorbereitung der Generalversammlung",
+    "sha256_xml_text": "d035039ae8d82cbebd637a5155a69afbebc9efc713af3cfc176b8211deeeeb5f"
+  },
+  {
+    "index": 358,
+    "doknr": "BJNR321010994BJNE029901360",
+    "enbez": "§ 261",
+    "gliederung": null,
+    "titel": "Durchführung der Generalversammlung",
+    "sha256_xml_text": "42c849439d1fdf5d4501f6c130d45f65d35ebb5155a2c3629953145bb1c64a51"
+  },
+  {
+    "index": 359,
+    "doknr": "BJNR321010994BJNE030002360",
+    "enbez": "§ 262",
+    "gliederung": null,
+    "titel": "Beschluß der Generalversammlung",
+    "sha256_xml_text": "73b8064a4596f4c85b62e4cc3be7a00cb97bf50cd90a90fe17c4d6b98c1acfc8"
+  },
+  {
+    "index": 360,
+    "doknr": "BJNR321010994BJNE030104360",
+    "enbez": "§ 263",
+    "gliederung": null,
+    "titel": "Inhalt des Formwechselbeschlusses",
+    "sha256_xml_text": "f3835805b2ba02e37f6d6ca96a2db87c2626aa7ca26f53c1e68acb18dbbf048e"
+  },
+  {
+    "index": 361,
+    "doknr": "BJNR321010994BJNE030201377",
+    "enbez": "§ 264",
+    "gliederung": null,
+    "titel": "Kapitalschutz",
+    "sha256_xml_text": "e82ee9ac62d29fdf5c81bb9b3cb07b04f69820afee5930ec212730ceed4ba195"
+  },
+  {
+    "index": 362,
+    "doknr": "BJNR321010994BJNE030300000",
+    "enbez": "§ 265",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "6b7e9877d0907d150608f0c8586618085e7b975f9b74df0fb98ca05bf16bc078"
+  },
+  {
+    "index": 363,
+    "doknr": "BJNR321010994BJNE030400000",
+    "enbez": "§ 266",
+    "gliederung": null,
+    "titel": "Wirkungen des Formwechsels",
+    "sha256_xml_text": "32071402f8247eb1e32826ffe759918802e07a8e78ca6542f4e8cbff6112b5a1"
+  },
+  {
+    "index": 364,
+    "doknr": "BJNR321010994BJNE030502377",
+    "enbez": "§ 267",
+    "gliederung": null,
+    "titel": "Benachrichtigung der Anteilsinhaber",
+    "sha256_xml_text": "9829b961d655ebd653016c3f50de4b24eeea838ab5ac81bc9c0557ff6fd0ff62"
+  },
+  {
+    "index": 365,
+    "doknr": "BJNR321010994BJNE030600000",
+    "enbez": "§ 268",
+    "gliederung": null,
+    "titel": "Aufforderung an die Aktionäre; Veräußerung von Aktien",
+    "sha256_xml_text": "dd12d6e8971421755919ae899c2ba72608ec5226863a070c8b753c915d1a62ae"
+  },
+  {
+    "index": 366,
+    "doknr": "BJNR321010994BJNE030701307",
+    "enbez": "§ 269",
+    "gliederung": null,
+    "titel": "Hauptversammlungsbeschlüsse, genehmigtes Kapital",
+    "sha256_xml_text": "1e039486695fd24837c18b59e25a2aa72bff87a7d0d88bd5213143507ff6f64d"
+  },
+  {
+    "index": 367,
+    "doknr": "BJNR321010994BJNE030803360",
+    "enbez": "§ 270",
+    "gliederung": null,
+    "titel": "Abfindungsangebot",
+    "sha256_xml_text": "81ca7d7aa4a9b01166e5c46b857a1c56b072f7f27cbcca25f94d6c0be6668ffa"
+  },
+  {
+    "index": 368,
+    "doknr": "BJNR321010994BJNE030902377",
+    "enbez": "§ 271",
+    "gliederung": null,
+    "titel": "Fortdauer der Nachschußpflicht",
+    "sha256_xml_text": "403dd555ffab4d0715556aa49f65ca7462dcd1a8d72c55171d042ce00f9130ea"
+  },
+  {
+    "index": 369,
+    "doknr": "BJNR321010994BJNG031000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020040",
+      "gliederungsbez": "Vierter Abschnitt",
+      "gliederungstitel": "Formwechsel rechtsfähiger Vereine"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 370,
+    "doknr": "BJNR321010994BJNG040300000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020040010",
+      "gliederungsbez": "Erster Unterabschnitt",
+      "gliederungstitel": "Allgemeine Vorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 371,
+    "doknr": "BJNR321010994BJNE031101360",
+    "enbez": "§ 272",
+    "gliederung": null,
+    "titel": "Möglichkeit des Formwechsels",
+    "sha256_xml_text": "5ec4c402d0eb5045d0fe64f24336a610e3fce8c344d19f264604580e6a36e3e3"
+  },
+  {
+    "index": 372,
+    "doknr": "BJNR321010994BJNG040400000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020040020",
+      "gliederungsbez": "Zweiter Unterabschnitt",
+      "gliederungstitel": "Formwechsel in eine Kapitalgesellschaft"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 373,
+    "doknr": "BJNR321010994BJNE031203140",
+    "enbez": "§ 273",
+    "gliederung": null,
+    "titel": "Möglichkeit des Formwechsels",
+    "sha256_xml_text": "a3cbb7d0ef212be775bfa10f8e85405e73e3b14020b8285c7242dc955798bc6b"
+  },
+  {
+    "index": 374,
+    "doknr": "BJNR321010994BJNE031302140",
+    "enbez": "§ 274",
+    "gliederung": null,
+    "titel": "Vorbereitung und Durchführung der Mitgliederversammlung",
+    "sha256_xml_text": "90a6c62781ad86e6b50928145a0a0295fb0f76d06dd563b1cd37e6e2eba4b310"
+  },
+  {
+    "index": 375,
+    "doknr": "BJNR321010994BJNE031402360",
+    "enbez": "§ 275",
+    "gliederung": null,
+    "titel": "Beschluß der Mitgliederversammlung",
+    "sha256_xml_text": "c4dca21893fdbb19023173fb8b5ae0c77c902251dd635cbe94a1f4d8db5ae58d"
+  },
+  {
+    "index": 376,
+    "doknr": "BJNR321010994BJNE031502360",
+    "enbez": "§ 276",
+    "gliederung": null,
+    "titel": "Inhalt des Formwechselbeschlusses",
+    "sha256_xml_text": "91b1a3b5c24a79eace7476dd49beadabff0706a24340eb5f47bd479a27e53642"
+  },
+  {
+    "index": 377,
+    "doknr": "BJNR321010994BJNE031600000",
+    "enbez": "§ 277",
+    "gliederung": null,
+    "titel": "Kapitalschutz",
+    "sha256_xml_text": "cff71dc53f327c774b223920e705c59eaf6d4c7ccb2a038a1d421d11179aa517"
+  },
+  {
+    "index": 378,
+    "doknr": "BJNR321010994BJNE031700000",
+    "enbez": "§ 278",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "fa7019fac0cc7c657a524c760fdb12c9e8f22868f71d85619a6b5f8bdfd3a79c"
+  },
+  {
+    "index": 379,
+    "doknr": "BJNR321010994BJNE031801377",
+    "enbez": "§ 279",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+  },
+  {
+    "index": 380,
+    "doknr": "BJNR321010994BJNE031900000",
+    "enbez": "§ 280",
+    "gliederung": null,
+    "titel": "Wirkungen des Formwechsels",
+    "sha256_xml_text": "575b9bcb8f83eda66a0c9532db55c7851d8a34aaea465c2e230afb898aa05aae"
+  },
+  {
+    "index": 381,
+    "doknr": "BJNR321010994BJNE032000000",
+    "enbez": "§ 281",
+    "gliederung": null,
+    "titel": "Benachrichtigung der Anteilsinhaber, Veräußerung\nvon Aktien, Hauptversammlungsbeschlüsse",
+    "sha256_xml_text": "073578c75c80a6471a5b1a571ff73ffcf93dbdee8bcdfc7b00741593a751aba2"
+  },
+  {
+    "index": 382,
+    "doknr": "BJNR321010994BJNE032101307",
+    "enbez": "§ 282",
+    "gliederung": null,
+    "titel": "Abfindungsangebot",
+    "sha256_xml_text": "83a8b4073770f8edfd31208441ac3f668525875a024c111b2acd22bce5d23ebe"
+  },
+  {
+    "index": 383,
+    "doknr": "BJNR321010994BJNG040500000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020040030",
+      "gliederungsbez": "Dritter Unterabschnitt",
+      "gliederungstitel": "Formwechsel in eine eingetragene Genossenschaft"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 384,
+    "doknr": "BJNR321010994BJNE032202140",
+    "enbez": "§ 283",
+    "gliederung": null,
+    "titel": "Vorbereitung und Durchführung der Mitgliederversammlung",
+    "sha256_xml_text": "d0e80ea565e1718e93db085da672f944000995a91f2a9c979440df9b9fc5075f"
+  },
+  {
+    "index": 385,
+    "doknr": "BJNR321010994BJNE032302360",
+    "enbez": "§ 284",
+    "gliederung": null,
+    "titel": "Beschluß der Mitgliederversammlung",
+    "sha256_xml_text": "3027d89e7f99cd70e01544cef29e14c0ccc2a6e8933df8ac4b1eee274145e5e4"
+  },
+  {
+    "index": 386,
+    "doknr": "BJNR321010994BJNE032401360",
+    "enbez": "§ 285",
+    "gliederung": null,
+    "titel": "Inhalt des Formwechselbeschlusses",
+    "sha256_xml_text": "ef36c2a529ae1fd86238224152912ed1be5b63728f7cad1e5927d9abecdfe66c"
+  },
+  {
+    "index": 387,
+    "doknr": "BJNR321010994BJNE032500000",
+    "enbez": "§ 286",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "d0f8e64a72427557c62ef8c1575d08243cedb449da2237f31805e374dce4acb0"
+  },
+  {
+    "index": 388,
+    "doknr": "BJNR321010994BJNE032601377",
+    "enbez": "§ 287",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+  },
+  {
+    "index": 389,
+    "doknr": "BJNR321010994BJNE032702360",
+    "enbez": "§ 288",
+    "gliederung": null,
+    "titel": "Wirkungen des Formwechsels",
+    "sha256_xml_text": "72565e64f583fb1620935f62f53457c52d69eda351496a7e87a0f28a81b62c11"
+  },
+  {
+    "index": 390,
+    "doknr": "BJNR321010994BJNE032801377",
+    "enbez": "§ 289",
+    "gliederung": null,
+    "titel": "Geschäftsguthaben, Benachrichtigung der Mitglieder",
+    "sha256_xml_text": "80a37132b7e6b66b714ac32efca7fb26c213b6667b1aeb04c6cc9ba93bc5d25e"
+  },
+  {
+    "index": 391,
+    "doknr": "BJNR321010994BJNE032901307",
+    "enbez": "§ 290",
+    "gliederung": null,
+    "titel": "Abfindungsangebot",
+    "sha256_xml_text": "06080c165975f44ca3af3e185359474e1f70cab99d0a24184ac0247ff4378655"
+  },
+  {
+    "index": 392,
+    "doknr": "BJNR321010994BJNG033000000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020050",
+      "gliederungsbez": "Fünfter Abschnitt",
+      "gliederungstitel": "Formwechsel von Versicherungsvereinen auf Gegenseitigkeit"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 393,
+    "doknr": "BJNR321010994BJNE033103360",
+    "enbez": "§ 291",
+    "gliederung": null,
+    "titel": "Möglichkeit des Formwechsels",
+    "sha256_xml_text": "8a1a6dc2e6dde53dade3a1591d66b1fa22688b319c4a8a5dcc26aabf69664f0b"
+  },
+  {
+    "index": 394,
+    "doknr": "BJNR321010994BJNE033201140",
+    "enbez": "§ 292",
+    "gliederung": null,
+    "titel": "Vorbereitung und Durchführung der Versammlung der obersten Vertretung",
+    "sha256_xml_text": "5c48be43cec04c3fced3a5bb2bb341b781fdebf05a6ace30cde7d281e225b4fa"
+  },
+  {
+    "index": 395,
+    "doknr": "BJNR321010994BJNE033301360",
+    "enbez": "§ 293",
+    "gliederung": null,
+    "titel": "Beschluß der obersten Vertretung",
+    "sha256_xml_text": "e079ce118cbd7c95c04277a4c86279424c85988b117a389f95b39daf5f892a5f"
+  },
+  {
+    "index": 396,
+    "doknr": "BJNR321010994BJNE033402360",
+    "enbez": "§ 294",
+    "gliederung": null,
+    "titel": "Inhalt des Formwechselbeschlusses",
+    "sha256_xml_text": "2d2b7245e7e350d0ef4bb4c67e08d86862d5332d129d08aba174e10383206eeb"
+  },
+  {
+    "index": 397,
+    "doknr": "BJNR321010994BJNE033600000",
+    "enbez": "§ 295",
+    "gliederung": null,
+    "titel": "Kapitalschutz",
+    "sha256_xml_text": "a557093cbbf2bde77f164b94fe751e8291e5e07fec726335d81af47c38b5b035"
+  },
+  {
+    "index": 398,
+    "doknr": "BJNR321010994BJNE033700000",
+    "enbez": "§ 296",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "435c5379a9dc8b9701c67d1bb5cfafdf67526db91246a0fb3aa6c0d96892bafa"
+  },
+  {
+    "index": 399,
+    "doknr": "BJNR321010994BJNE033801377",
+    "enbez": "§ 297",
+    "gliederung": null,
+    "titel": "(weggefallen)",
+    "sha256_xml_text": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+  },
+  {
+    "index": 400,
+    "doknr": "BJNR321010994BJNE033900000",
+    "enbez": "§ 298",
+    "gliederung": null,
+    "titel": "Wirkungen des Formwechsels",
+    "sha256_xml_text": "049faaaa4aad027e89859914e0488faf2840ce339a7f6f279cac6e95486aeefb"
+  },
+  {
+    "index": 401,
+    "doknr": "BJNR321010994BJNE034000000",
+    "enbez": "§ 299",
+    "gliederung": null,
+    "titel": "Benachrichtigung der Aktionäre, Veräußerung von\nAktien, Hauptversammlungsbeschlüsse",
+    "sha256_xml_text": "47dff289681de84f2e0c6fde55f8e3b2c9a112c79ff94dfd12d49e1b74302fc1"
+  },
+  {
+    "index": 402,
+    "doknr": "BJNR321010994BJNE034101307",
+    "enbez": "§ 300",
+    "gliederung": null,
+    "titel": "Abfindungsangebot",
+    "sha256_xml_text": "b64b28853d1615341b36b121484a896c2d7aec3852f70b0fe398edd793314999"
+  },
+  {
+    "index": 403,
+    "doknr": "BJNR321010994BJNG034200000",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "050020060",
+      "gliederungsbez": "Sechster Abschnitt",
+      "gliederungstitel": "Formwechsel von Körperschaften und Anstalten des\nöffentlichen Rechts"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 404,
+    "doknr": "BJNR321010994BJNE034300000",
+    "enbez": "§ 301",
+    "gliederung": null,
+    "titel": "Möglichkeit des Formwechsels",
+    "sha256_xml_text": "76d4905d105206b51ed9ea1df3d8ff95519cb183c151794d9a5eb1b8c8299106"
+  },
+  {
+    "index": 405,
+    "doknr": "BJNR321010994BJNE034400000",
+    "enbez": "§ 302",
+    "gliederung": null,
+    "titel": "Anzuwendende Vorschriften",
+    "sha256_xml_text": "37c6dd130ee0da05dbaf0b84bc49b2116402d217146924d305b71758a0b199bf"
+  },
+  {
+    "index": 406,
+    "doknr": "BJNR321010994BJNE034500000",
+    "enbez": "§ 303",
+    "gliederung": null,
+    "titel": "Kapitalschutz, Zustimmungserfordernisse",
+    "sha256_xml_text": "cdad8e2010a241ed00531b747ea18fa16940cadccffe5e3ed8bba6df9d6a10d3"
+  },
+  {
+    "index": 407,
+    "doknr": "BJNR321010994BJNE034600000",
+    "enbez": "§ 304",
+    "gliederung": null,
+    "titel": "Wirksamwerden des Formwechsels",
+    "sha256_xml_text": "488b74e0a1cbf46d563d2a095582d9d254e40e3e353756050b41d5da5f446a95"
+  },
+  {
+    "index": 408,
+    "doknr": "BJNR321010994BJNG041500360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060",
+      "gliederungsbez": "Sechstes Buch",
+      "gliederungstitel": "Grenzüberschreitende Umwandlung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 409,
+    "doknr": "BJNR321010994BJNG041600360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060010",
+      "gliederungsbez": "Erster Teil",
+      "gliederungstitel": "Grenzüberschreitende Verschmelzung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 410,
+    "doknr": "BJNR321010994BJNE034703360",
+    "enbez": "§ 305",
+    "gliederung": null,
+    "titel": "Grenzüberschreitende Verschmelzung",
+    "sha256_xml_text": "2820f5bcaaaaebf43e98dda920df332f22d8bd932b9cd9f62169f2e5e5918b97"
+  },
+  {
+    "index": 411,
+    "doknr": "BJNR321010994BJNE040900360",
+    "enbez": "§ 306",
+    "gliederung": null,
+    "titel": "Verschmelzungsfähige Gesellschaften",
+    "sha256_xml_text": "9eb51e78a2b15ed35144ea94f8f475d1c754c09191cb87061e8553f16dfec850"
+  },
+  {
+    "index": 412,
+    "doknr": "BJNR321010994BJNE041000360",
+    "enbez": "§ 307",
+    "gliederung": null,
+    "titel": "Verschmelzungsplan",
+    "sha256_xml_text": "e51ae9a5e9f0a3095a0ad67948e40c7bea82fcd455056ec45848690b0a25bc89"
+  },
+  {
+    "index": 413,
+    "doknr": "BJNR321010994BJNE041100360",
+    "enbez": "§ 308",
+    "gliederung": null,
+    "titel": "Bekanntmachung des Verschmelzungsplans",
+    "sha256_xml_text": "d6b8b6e27514a385724b4a72f1808b40e2d4c8c774e9631e741f0abde0890652"
+  },
+  {
+    "index": 414,
+    "doknr": "BJNR321010994BJNE041200360",
+    "enbez": "§ 309",
+    "gliederung": null,
+    "titel": "Verschmelzungsbericht",
+    "sha256_xml_text": "12f6e326ba405f572c209dc9a485274bdf621b2a87b5ca78e7a7d4742064558c"
+  },
+  {
+    "index": 415,
+    "doknr": "BJNR321010994BJNE041300360",
+    "enbez": "§ 310",
+    "gliederung": null,
+    "titel": "Zugänglichmachung des Verschmelzungsberichts",
+    "sha256_xml_text": "f75a3ec8b2f092a7844e68368f3986d950689545629dd6b65cd5e702ce3d431b"
+  },
+  {
+    "index": 416,
+    "doknr": "BJNR321010994BJNE041401360",
+    "enbez": "§ 311",
+    "gliederung": null,
+    "titel": "Verschmelzungsprüfung",
+    "sha256_xml_text": "1953ca130821ae7e513faf9bee3edfe64443e9c8b11220b0be222ff63ce6330a"
+  },
+  {
+    "index": 417,
+    "doknr": "BJNR321010994BJNE041500360",
+    "enbez": "§ 312",
+    "gliederung": null,
+    "titel": "Zustimmung der Anteilsinhaber",
+    "sha256_xml_text": "96bfc6c8e69c4c7796de386698fd175ffa0501d321e661bce3017714b6bef747"
+  },
+  {
+    "index": 418,
+    "doknr": "BJNR321010994BJNE041600360",
+    "enbez": "§ 313",
+    "gliederung": null,
+    "titel": "Barabfindung",
+    "sha256_xml_text": "cdde31a86e083a0ff16175cfc7394512d93e6dc0426f7e3254ba09186d2f3316"
+  },
+  {
+    "index": 419,
+    "doknr": "BJNR321010994BJNE041700360",
+    "enbez": "§ 314",
+    "gliederung": null,
+    "titel": "Schutz der Gläubiger der übertragenden Gesellschaft",
+    "sha256_xml_text": "fe9357b5d39484c5ed0cf7a867d02335c2f6904be2f36d2cd5b4d4f4e0a9cbbe"
+  },
+  {
+    "index": 420,
+    "doknr": "BJNR321010994BJNE041800360",
+    "enbez": "§ 315",
+    "gliederung": null,
+    "titel": "Anmeldung der Verschmelzung",
+    "sha256_xml_text": "6d90810242f0cd2d34a8ad971d5057bb3f124d15ed223cee062ef3f6165408af"
+  },
+  {
+    "index": 421,
+    "doknr": "BJNR321010994BJNE041900360",
+    "enbez": "§ 316",
+    "gliederung": null,
+    "titel": "Verschmelzungsbescheinigung",
+    "sha256_xml_text": "e8545bcdbab62bf30bcfef4fb5c2de0be09748ee3b764ba48520e801d7e17aab"
+  },
+  {
+    "index": 422,
+    "doknr": "BJNR321010994BJNE042000360",
+    "enbez": "§ 317",
+    "gliederung": null,
+    "titel": "Informationen des Registergerichts",
+    "sha256_xml_text": "5ab398e70dd2efbf97a12e8c747173aeda6f4e95eea77cf8a9fb3522a72a0389"
+  },
+  {
+    "index": 423,
+    "doknr": "BJNR321010994BJNE042100360",
+    "enbez": "§ 318",
+    "gliederung": null,
+    "titel": "Eintragung der grenzüberschreitenden Hereinverschmelzung",
+    "sha256_xml_text": "543311847ad56dc6826bb84fd18e0a6f14138ae91e117ea9de5e096774f374e4"
+  },
+  {
+    "index": 424,
+    "doknr": "BJNR321010994BJNE042200360",
+    "enbez": "§ 319",
+    "gliederung": null,
+    "titel": "Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union",
+    "sha256_xml_text": "d14e5abfadd782a8b6d9e8824ec852ed557cfac1882024b4b12956e5198f898b"
+  },
+  {
+    "index": 425,
+    "doknr": "BJNR321010994BJNG041700360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060020",
+      "gliederungsbez": "Zweiter Teil",
+      "gliederungstitel": "Grenzüberschreitende Spaltung"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 426,
+    "doknr": "BJNR321010994BJNE042300360",
+    "enbez": "§ 320",
+    "gliederung": null,
+    "titel": "Grenzüberschreitende Spaltung",
+    "sha256_xml_text": "8cf01594da11363337ab846f348d363dbd26bb5ac409e13a93cbde700c052e3f"
+  },
+  {
+    "index": 427,
+    "doknr": "BJNR321010994BJNE042400360",
+    "enbez": "§ 321",
+    "gliederung": null,
+    "titel": "Spaltungsfähige Gesellschaften",
+    "sha256_xml_text": "bf5283dfdc664f05f3c01f97595ea51de6224d6cc5ce9f596012b346cf9ddec8"
+  },
+  {
+    "index": 428,
+    "doknr": "BJNR321010994BJNE042500360",
+    "enbez": "§ 322",
+    "gliederung": null,
+    "titel": "Spaltungsplan",
+    "sha256_xml_text": "e183634830eb784a5d5025886ecff64e6828f1b591c0f669a6835adfa57031cf"
+  },
+  {
+    "index": 429,
+    "doknr": "BJNR321010994BJNE042600360",
+    "enbez": "§ 323",
+    "gliederung": null,
+    "titel": "Bekanntmachung des Spaltungsplans",
+    "sha256_xml_text": "41b08f1879d681bdc7f73ac965587f130944e2db8c1b023ffc4870dc91e732e7"
+  },
+  {
+    "index": 430,
+    "doknr": "BJNR321010994BJNE042700360",
+    "enbez": "§ 324",
+    "gliederung": null,
+    "titel": "Spaltungsbericht",
+    "sha256_xml_text": "c01ce52f464062616b019656f26083c9f41907d32d1ba9346dba686bf7473dcc"
+  },
+  {
+    "index": 431,
+    "doknr": "BJNR321010994BJNE042800360",
+    "enbez": "§ 325",
+    "gliederung": null,
+    "titel": "Spaltungsprüfung",
+    "sha256_xml_text": "01c87a6512597c94b4971370d5c9d4f3ce78ba931694af2cf911054063b60ea0"
+  },
+  {
+    "index": 432,
+    "doknr": "BJNR321010994BJNE042900360",
+    "enbez": "§ 326",
+    "gliederung": null,
+    "titel": "Zustimmung der Anteilsinhaber",
+    "sha256_xml_text": "01832067f585686e2947bb1d3f1ff20771cf24ec2f3960f57c539a550d2857ed"
+  },
+  {
+    "index": 433,
+    "doknr": "BJNR321010994BJNE043000360",
+    "enbez": "§ 327",
+    "gliederung": null,
+    "titel": "Barabfindung",
+    "sha256_xml_text": "bdef113a029d597dbe728108cd0b3a339fe24857ba70e205d0400736e2875239"
+  },
+  {
+    "index": 434,
+    "doknr": "BJNR321010994BJNE043100360",
+    "enbez": "§ 328",
+    "gliederung": null,
+    "titel": "Schutz der Gläubiger der übertragenden Gesellschaft",
+    "sha256_xml_text": "07b71dd4d7ecf88e956fce268d2c8eca0c054ff490c045f0c437d3fb3841c0ad"
+  },
+  {
+    "index": 435,
+    "doknr": "BJNR321010994BJNE043200360",
+    "enbez": "§ 329",
+    "gliederung": null,
+    "titel": "Anmeldung und Spaltungsbescheinigung",
+    "sha256_xml_text": "bad861b21d93e5aeed90e9243749fc9c8309d24091307e8bcc7539ab988d208b"
+  },
+  {
+    "index": 436,
+    "doknr": "BJNR321010994BJNE043300360",
+    "enbez": "§ 330",
+    "gliederung": null,
+    "titel": "Eintragung der grenzüberschreitenden Hinausspaltung",
+    "sha256_xml_text": "71a0cbaae94325e18fd64f556989b6b24cb73d458ea624baccfb6a6713973172"
+  },
+  {
+    "index": 437,
+    "doknr": "BJNR321010994BJNE043400360",
+    "enbez": "§ 331",
+    "gliederung": null,
+    "titel": "Eintragung der neuen Gesellschaft",
+    "sha256_xml_text": "af06a7c2a8dc097d9fe2a5ec50074458b8d4347b49b35d8fd08123883549ff6f"
+  },
+  {
+    "index": 438,
+    "doknr": "BJNR321010994BJNE043500360",
+    "enbez": "§ 332",
+    "gliederung": null,
+    "titel": "Spaltung zur Aufnahme",
+    "sha256_xml_text": "6761aeebefb3d1f00b38738af8b3ed5e0b29a2a595d5b1e5f0f6562d3e6e3d8a"
+  },
+  {
+    "index": 439,
+    "doknr": "BJNR321010994BJNG041800360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "060030",
+      "gliederungsbez": "Dritter Teil",
+      "gliederungstitel": "Grenzüberschreitender Formwechsel"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 440,
+    "doknr": "BJNR321010994BJNE043600360",
+    "enbez": "§ 333",
+    "gliederung": null,
+    "titel": "Grenzüberschreitender Formwechsel",
+    "sha256_xml_text": "8af773f7949d62e2bfa4aa7d21f62ca2fa3f131ae2527f593824b1067c98cf17"
+  },
+  {
+    "index": 441,
+    "doknr": "BJNR321010994BJNE043700360",
+    "enbez": "§ 334",
+    "gliederung": null,
+    "titel": "Formwechselfähige Gesellschaften",
+    "sha256_xml_text": "534cc7abc05a279193390ef977bc24de5c59e3920efa10f5c7ea80c935b99931"
+  },
+  {
+    "index": 442,
+    "doknr": "BJNR321010994BJNE043800360",
+    "enbez": "§ 335",
+    "gliederung": null,
+    "titel": "Formwechselplan",
+    "sha256_xml_text": "b3dfa792cfe6b8dc58424aac3d96ce36eb6b72f34a228950c0d5bc7c5c9a1bfa"
+  },
+  {
+    "index": 443,
+    "doknr": "BJNR321010994BJNE043900360",
+    "enbez": "§ 336",
+    "gliederung": null,
+    "titel": "Bekanntmachung des Formwechselplans",
+    "sha256_xml_text": "23e5f1b24aa913b76cd98d1e977c88eb09cae3c7ebd94366d46cf28ba2a93a9f"
+  },
+  {
+    "index": 444,
+    "doknr": "BJNR321010994BJNE044000360",
+    "enbez": "§ 337",
+    "gliederung": null,
+    "titel": "Formwechselbericht",
+    "sha256_xml_text": "c0d2952c8d462f17d292b7c4add1e59a6699a27c23f7953ef8751a5d6122465a"
+  },
+  {
+    "index": 445,
+    "doknr": "BJNR321010994BJNE044100360",
+    "enbez": "§ 338",
+    "gliederung": null,
+    "titel": "Formwechselprüfung",
+    "sha256_xml_text": "604d5affb5ac0e06694144335e56e540f63151234ae7c18768b066761fb64652"
+  },
+  {
+    "index": 446,
+    "doknr": "BJNR321010994BJNE044200360",
+    "enbez": "§ 339",
+    "gliederung": null,
+    "titel": "Zustimmung der Anteilsinhaber",
+    "sha256_xml_text": "34bfe61ec515a05ea17d7ef4b767f1986ae0316ad32fd56c289043a12cb37229"
+  },
+  {
+    "index": 447,
+    "doknr": "BJNR321010994BJNE044300360",
+    "enbez": "§ 340",
+    "gliederung": null,
+    "titel": "Barabfindung",
+    "sha256_xml_text": "966ab228529e0d7aa77b4be7b91ebf0fc3033e30d72df7968d6eef094fc57574"
+  },
+  {
+    "index": 448,
+    "doknr": "BJNR321010994BJNE044400360",
+    "enbez": "§ 341",
+    "gliederung": null,
+    "titel": "Gläubigerschutz",
+    "sha256_xml_text": "08f74e776c92aa76b897ae436bf3913814a6c5574dbc3d2814dbcbd300a20490"
+  },
+  {
+    "index": 449,
+    "doknr": "BJNR321010994BJNE044500360",
+    "enbez": "§ 342",
+    "gliederung": null,
+    "titel": "Anmeldung des Formwechsels",
+    "sha256_xml_text": "e23feaac2d7b94155020e08d961e66e46d00005e872cb0dc5b9e5c90abf6ff1c"
+  },
+  {
+    "index": 450,
+    "doknr": "BJNR321010994BJNE044600360",
+    "enbez": "§ 343",
+    "gliederung": null,
+    "titel": "Formwechselbescheinigung",
+    "sha256_xml_text": "2598592790ac7c3046250c9aefdfa612c2066fb548b7497f67f01b50b5afb396"
+  },
+  {
+    "index": 451,
+    "doknr": "BJNR321010994BJNE044700360",
+    "enbez": "§ 344",
+    "gliederung": null,
+    "titel": "Informationen des Registergerichts",
+    "sha256_xml_text": "1789c6e4bab6dff58595ab8beb906f8b404c489fb250052faf81e0772928cbba"
+  },
+  {
+    "index": 452,
+    "doknr": "BJNR321010994BJNE044800360",
+    "enbez": "§ 345",
+    "gliederung": null,
+    "titel": "Eintragung des grenzüberschreitenden Hereinformwechsels",
+    "sha256_xml_text": "8eb7eecc047d6eb591402d80b946b60a5063d4a547a1474f4b385ac141f6e426"
+  },
+  {
+    "index": 453,
+    "doknr": "BJNR321010994BJNG040702360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "070",
+      "gliederungsbez": "Siebentes Buch",
+      "gliederungstitel": "Strafvorschriften und Zwangsgelder"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 454,
+    "doknr": "BJNR321010994BJNE035504360",
+    "enbez": "§ 346",
+    "gliederung": null,
+    "titel": "Unrichtige Darstellung",
+    "sha256_xml_text": "7b39590048b346cbd068ff3db726ba96f82e7381c6d1cf41e69153fe04dc5583"
+  },
+  {
+    "index": 455,
+    "doknr": "BJNR321010994BJNE035601360",
+    "enbez": "§ 347",
+    "gliederung": null,
+    "titel": "Verletzung der Berichtspflicht",
+    "sha256_xml_text": "5579900e21118a96a814f70d0039ad1a4ea61acb5143a037e038446fe9b30106"
+  },
+  {
+    "index": 456,
+    "doknr": "BJNR321010994BJNE038801360",
+    "enbez": "§ 348",
+    "gliederung": null,
+    "titel": "Falsche Angaben",
+    "sha256_xml_text": "9cc75ed28a5c428179ed0c7cbad8d3f674bb0f62116904156ad51ff7e47f12e4"
+  },
+  {
+    "index": 457,
+    "doknr": "BJNR321010994BJNE035704360",
+    "enbez": "§ 349",
+    "gliederung": null,
+    "titel": "Verletzung der Geheimhaltungspflicht",
+    "sha256_xml_text": "7bf08212f0449565bd111c03e159ec926aaf9792a890b99929dcd646ba07fe2b"
+  },
+  {
+    "index": 458,
+    "doknr": "BJNR321010994BJNE035804360",
+    "enbez": "§ 350",
+    "gliederung": null,
+    "titel": "Zwangsgelder",
+    "sha256_xml_text": "0ee98ed93cdb1cde9620b824f9e3c480bd0b5fb9001923fb778d11f3121a7c3c"
+  },
+  {
+    "index": 459,
+    "doknr": "BJNR321010994BJNG040802360",
+    "enbez": null,
+    "gliederung": {
+      "gliederungskennzahl": "080",
+      "gliederungsbez": "Achtes Buch",
+      "gliederungstitel": "Übergangs- und Schlußvorschriften"
+    },
+    "titel": null,
+    "sha256_xml_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "index": 460,
+    "doknr": "BJNR321010994BJNE035901360",
+    "enbez": "§ 351",
+    "gliederung": null,
+    "titel": "Umwandlung alter juristischer Personen",
+    "sha256_xml_text": "7d5da3c14169ab279d9399f8adff96d2877a430098754225096ca6ffb69e7a5d"
+  },
+  {
+    "index": 461,
+    "doknr": "BJNR321010994BJNE036002360",
+    "enbez": "§ 352",
+    "gliederung": null,
+    "titel": "Eingeleitete Umwandlungen. Umstellung auf den Euro",
+    "sha256_xml_text": "367db49d957a8d7723dfdcb6329cb3e545a61bc5df823f3928899f7f2df1cf01"
+  },
+  {
+    "index": 462,
+    "doknr": "BJNR321010994BJNE036102360",
+    "enbez": "§ 353",
+    "gliederung": null,
+    "titel": "Enthaftung bei Altverbindlichkeiten",
+    "sha256_xml_text": "b30446154a1c0eff36583276ac57944d8ef2696459306fdfbd68e21d7550fe66"
+  },
+  {
+    "index": 463,
+    "doknr": "BJNR321010994BJNE036305360",
+    "enbez": "§ 354",
+    "gliederung": null,
+    "titel": "Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie, zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes und zum Finanzmarktintegritätsstärkungsgesetz",
+    "sha256_xml_text": "13a214156c6f55896786917de684d1f0e93f096a4b4529c2a23d74dd57de7ab9"
+  },
+  {
+    "index": 464,
+    "doknr": "BJNR321010994BJNE040800360",
+    "enbez": "§ 355",
+    "gliederung": null,
+    "titel": "Übergangsvorschrift zum Gesetz zur Umsetzung der Umwandlungsrichtlinie und zur Änderung weiterer Gesetze",
+    "sha256_xml_text": "b671b6f5c093d1ba4260c8d1cbbc100b089101d5d5b194f2c4a4898f9d03326b"
+  }
+]

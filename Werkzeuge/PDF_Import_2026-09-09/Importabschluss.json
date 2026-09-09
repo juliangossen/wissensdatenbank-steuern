@@ -1,0 +1,610 @@
+{
+  "erfasst_am": "2026-09-09",
+  "neue_pdf_dokumente": 31,
+  "neue_pdf_seiten": 1370,
+  "originaldateien_unveraendert": true,
+  "sha256_archivregister": "de8279cbbb1931f72fce774b7f7d8037b1b98d1404197b6d45e9a11c5a775a9c",
+  "eintraege": [
+    {
+      "dokument": "Gesetz über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung",
+      "kuerzel": "AAG",
+      "bereich": "Sozialrecht",
+      "urspruenglicher_dateiname": "AAG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Sozialrecht/AAG/AAG.pdf",
+      "markdown": "Rechtsgebiete/Sozialrecht/AAG/Stand_2026-09-09/AAG.md",
+      "pruefbericht": "Rechtsgebiete/Sozialrecht/AAG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 5,
+      "sha256_pdf": "61994cad2908a15473c00fd83fad37861d6f1085c596537ae731ac09738cadba",
+      "sha256_markdown": "2b36e583238c3f6b5022aa10a35164cb0d72a75ca1a893dc5e5c739aa74f5a2b",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 7a G v. 24.7.2026 I Nr. 228"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/aufag/BJNR368610005.html"
+    },
+    {
+      "dokument": "Aktiengesetz",
+      "kuerzel": "AktG",
+      "bereich": "Gesellschaftsrecht",
+      "urspruenglicher_dateiname": "AktG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Gesellschaftsrecht/AktG/AktG.pdf",
+      "markdown": "Rechtsgebiete/Gesellschaftsrecht/AktG/Stand_2026-09-09/AktG.md",
+      "pruefbericht": "Rechtsgebiete/Gesellschaftsrecht/AktG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 131,
+      "sha256_pdf": "791f5e6e371a0e2eeb8eb92c281065147fba54e4329444728427f58c27a01bd0",
+      "sha256_markdown": "6142b561f746eaad9bd230899e453bfd39d8860bf100d0d3c08697f98c242e89",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html"
+    },
+    {
+      "dokument": "Gesetz über die Besteuerung bei Auslandsbeziehungen",
+      "kuerzel": "AStG",
+      "bereich": "Steuerrecht / Internationales_Steuerrecht",
+      "urspruenglicher_dateiname": "AStG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Internationales_Steuerrecht/AStG/AStG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Internationales_Steuerrecht/AStG/Stand_2026-09-09/AStG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Internationales_Steuerrecht/AStG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 20,
+      "sha256_pdf": "d92333fdb6c421d3f444b97c9f714b88e3c08ad201000ac01ff5dbc86869392f",
+      "sha256_markdown": "4700416f76575b4ebc5639b592b243f980c94e9f1c3926b87a76b237231222dd",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 353"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/astg/BJNR117130972.html"
+    },
+    {
+      "dokument": "Bewertungsgesetz",
+      "kuerzel": "BewG",
+      "bereich": "Steuerrecht / Bewertungsrecht",
+      "urspruenglicher_dateiname": "BewG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Bewertungsrecht/BewG/BewG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Bewertungsrecht/BewG/Stand_2026-09-09/BewG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Bewertungsrecht/BewG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 174,
+      "sha256_pdf": "554fcacb1c36a889d78d4888ba1ef4fe7d0508c81c7d8b24b8f65d4f6ababb82",
+      "sha256_markdown": "4cebe531b049939d67fe010e9d31e0cf5b0833605ba5af58e967dda6225154ee",
+      "quellenstand": [
+        "Neugefasst durch Bek. v. 1.2.1991 I 230; zuletzt geändert durch Art. 19 G v. 22.6.2026 I Nr. 192"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/bewg/BJNR010350934.html"
+    },
+    {
+      "dokument": "Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates (Datenschutz-Grundverordnung)",
+      "kuerzel": "DSGVO",
+      "bereich": "Datenschutzrecht",
+      "urspruenglicher_dateiname": "DSGVO 2016_679.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Datenschutzrecht/DSGVO/DSGVO 2016_679.pdf",
+      "markdown": "Rechtsgebiete/Datenschutzrecht/DSGVO/Stand_2026-09-09/DSGVO.md",
+      "pruefbericht": "Rechtsgebiete/Datenschutzrecht/DSGVO/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 88,
+      "sha256_pdf": "27b720c812be1bdf1462ff468ad6410fe94da80b48f6d10fa7e2269b9e5a1597",
+      "sha256_markdown": "a8a300efbe43b978a7a6c2d51765263b51cd1135010a724772d2e45ec13bbfa3",
+      "quellenstand": [
+        "Ursprüngliche Amtsblattfassung vom 04.05.2016, ABl. L 119, S. 1–88; Rechtsakt vom 2016-04-27.",
+        "Keine konsolidierte Fassung: spätere Änderungen und Berichtigungen sind nicht in diese Originalfassung eingearbeitet.",
+        "Import und Abgleich am 2026-09-09; das Ordnerdatum bezeichnet den Importstand, nicht einen aktuellen Rechtsstand."
+      ],
+      "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679"
+    },
+    {
+      "dokument": "Durchführungsverordnung (EU) Nr. 282/2011 des Rates zur Festlegung von Durchführungsvorschriften zur Richtlinie 2006/112/EG über das gemeinsame Mehrwertsteuersystem",
+      "kuerzel": "DVO (EU) 282/2011",
+      "bereich": "Steuerrecht / Verordnungen / Umsatzsteuer",
+      "urspruenglicher_dateiname": "DVO (EU) 282_2011.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Verordnungen/Umsatzsteuer/DVO_EU_282_2011/DVO (EU) 282_2011.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Verordnungen/Umsatzsteuer/DVO_EU_282_2011/Stand_2026-09-09/DVO_EU_282_2011.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Verordnungen/Umsatzsteuer/DVO_EU_282_2011/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 22,
+      "sha256_pdf": "3458aa87c914ce7ecd52889f465c0165c50a7f4e7d8c1a2ed0c41d70c2ad700e",
+      "sha256_markdown": "f7abca1b162e8ad4a877ee36c467886c57d5f43d4c364708e69bd33847ed013b",
+      "quellenstand": [
+        "Ursprüngliche Amtsblattfassung vom 23.03.2011, ABl. L 77, S. 1–22; Rechtsakt vom 2011-03-15.",
+        "Keine konsolidierte Fassung: spätere Änderungen und Berichtigungen sind nicht in diese Originalfassung eingearbeitet.",
+        "Import und Abgleich am 2026-09-09; das Ordnerdatum bezeichnet den Importstand, nicht einen aktuellen Rechtsstand."
+      ],
+      "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32011R0282"
+    },
+    {
+      "dokument": "Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften",
+      "kuerzel": "DVStB",
+      "bereich": "Steuerrecht / Berufsrecht",
+      "urspruenglicher_dateiname": "DVStB.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Berufsrecht/DVStB/DVStB.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Berufsrecht/DVStB/Stand_2026-09-09/DVStB.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Berufsrecht/DVStB/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 16,
+      "sha256_pdf": "ca5e29edaa78e107e69280dd1c5fb635a9bd2e685c5a20b259bd949fe10dcc26",
+      "sha256_markdown": "ab16e0f397df5bdb5602c3e76cf725aae6a1c97c1f617446f740497a4c60f20e",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 4 V v. 19.12.2025 I Nr. 372"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html"
+    },
+    {
+      "dokument": "Einführungsgesetz zum Bürgerlichen Gesetzbuche",
+      "kuerzel": "EGBGB",
+      "bereich": "Zivilrecht",
+      "urspruenglicher_dateiname": "EGBGB.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Zivilrecht/EGBGB/EGBGB.pdf",
+      "markdown": "Rechtsgebiete/Zivilrecht/EGBGB/Stand_2026-09-09/EGBGB.md",
+      "pruefbericht": "Rechtsgebiete/Zivilrecht/EGBGB/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 154,
+      "sha256_pdf": "9a4a0234d93fa68326f8f837af600e010c6f56e59582803d19f3eb028c820f6f",
+      "sha256_markdown": "78a18f7715f2f0ecf177f21280676a256bc946d1d887bc90c0a6fbc8be446eb3",
+      "quellenstand": [
+        "Neugefasst durch Bek. v. 21.9.1994 I 2494; 1997, 1061;",
+        "zuletzt geändert durch Art. 1 G v. 2.7.2026 I Nr. 198",
+        "Änderung durch Art. 2 G v. 16.7.2026 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html"
+    },
+    {
+      "dokument": "Erbschaftsteuer- und Schenkungsteuergesetz",
+      "kuerzel": "ErbStG",
+      "bereich": "Steuerrecht / Erbschaft_und_Schenkungsteuer",
+      "urspruenglicher_dateiname": "ErbStG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Erbschaft_und_Schenkungsteuer/ErbStG/ErbStG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Erbschaft_und_Schenkungsteuer/ErbStG/Stand_2026-09-09/ErbStG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Erbschaft_und_Schenkungsteuer/ErbStG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 36,
+      "sha256_pdf": "a99eb7335fac93a98590d2a2f0a46c4926077a193769bbddf96dedf3b63b6015",
+      "sha256_markdown": "f17a54454c1ae6c1a8720612e0c346ac3ff87e0cb98841cd2d74dbe5ec1834a9",
+      "quellenstand": [
+        "Neugefasst durch Bek. v. 27.2.1997 I 378; zuletzt geändert durch Art. 10 G v. 22.6.2026 I Nr. 192"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html"
+    },
+    {
+      "dokument": "Fahrzeuglieferungs-Meldepflichtverordnung",
+      "kuerzel": "FzgLiefgMeldV",
+      "bereich": "Steuerrecht / Umsatzsteuer",
+      "urspruenglicher_dateiname": "FzgLiefgMeldV.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Umsatzsteuer/FzgLiefgMeldV/FzgLiefgMeldV.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Umsatzsteuer/FzgLiefgMeldV/Stand_2026-09-09/FzgLiefgMeldV.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Umsatzsteuer/FzgLiefgMeldV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 2,
+      "sha256_pdf": "c39f7890556dd8e97c013a103c5b1905685a6975d9234eb0b952266bbc4bcd5c",
+      "sha256_markdown": "334d47c2438e39c811fd772707dfd71958e55f134d3cdd8258c7b2b6452644f7",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 11 V v. 19.12.2025 I Nr. 372"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html"
+    },
+    {
+      "dokument": "Gewerbesteuer-Durchführungsverordnung",
+      "kuerzel": "GewStDV",
+      "bereich": "Steuerrecht / Gewerbesteuer",
+      "urspruenglicher_dateiname": "GewStDV.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Gewerbesteuer/GewStDV/GewStDV.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Gewerbesteuer/GewStDV/Stand_2026-09-09/GewStDV.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Gewerbesteuer/GewStDV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 6,
+      "sha256_pdf": "d93eba2c1bc152eae10250cea0c7c06cf701905791a210077bc76d9faf7dbac3",
+      "sha256_markdown": "474a23df4750f3e450e92d64adffefa027d86743d63feeff0d831877201565df",
+      "quellenstand": [
+        "Neugefasst durch Bek. v. 15.10.2002 I 4180; zuletzt geändert durch Art. 10 G v. 2.12.2024 I Nr. 387"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html"
+    },
+    {
+      "dokument": "Gesetz betreffend die Gesellschaften mit beschränkter Haftung",
+      "kuerzel": "GmbHG",
+      "bereich": "Gesellschaftsrecht",
+      "urspruenglicher_dateiname": "GmbHG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Gesellschaftsrecht/GmbHG/GmbHG.pdf",
+      "markdown": "Rechtsgebiete/Gesellschaftsrecht/GmbHG/Stand_2026-09-09/GmbHG.md",
+      "pruefbericht": "Rechtsgebiete/Gesellschaftsrecht/GmbHG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 36,
+      "sha256_pdf": "81fba1a18a253e6da28f99cfde7d311511a162576082d7ee4e59683c40f127f8",
+      "sha256_markdown": "59ee7970ef3f311408f1d662eaffd30429011dbd3aa7d83822b0471743aa9832",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 21 G v. 23.10.2024 I Nr. 323"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html"
+    },
+    {
+      "dokument": "Grunderwerbsteuergesetz",
+      "kuerzel": "GrEStG",
+      "bereich": "Steuerrecht / Grunderwerbsteuer",
+      "urspruenglicher_dateiname": "GrEStG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Grunderwerbsteuer/GrEStG/GrEStG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Grunderwerbsteuer/GrEStG/Stand_2026-09-09/GrEStG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Grunderwerbsteuer/GrEStG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 17,
+      "sha256_pdf": "d27726ada00c65f14da5fa54c6c0db5321c8cfaedb4ac2edd8e6902033e52bf2",
+      "sha256_markdown": "3046fe011189ecf99f75204e40aa9435996124e90e1f6c67740ccaf5ac10030d",
+      "quellenstand": [
+        "Neugefasst durch Bek. v. 26.2.1997 I 418, 1804; zuletzt geändert durch Art. 9 G v. 29.6.2026 I Nr. 197 Hinweis: Mittelbare Änderung durch Art. 10 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html"
+    },
+    {
+      "dokument": "Grundsteuergesetz",
+      "kuerzel": "GrStG",
+      "bereich": "Steuerrecht / Grundsteuer",
+      "urspruenglicher_dateiname": "GrStG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Grundsteuer/GrStG/GrStG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Grundsteuer/GrStG/Stand_2026-09-09/GrStG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Grundsteuer/GrStG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 15,
+      "sha256_pdf": "d1501382c2269e1c723296204e20f434767ab0e3e86b06e304205510b3861c66",
+      "sha256_markdown": "712c511078d09cf24777657015f9ca841cf38d045cfbb90a2ca3654e80210f6b",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 32 G v. 2.12.2024 I Nr. 387"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html"
+    },
+    {
+      "dokument": "Insolvenzordnung",
+      "kuerzel": "InsO",
+      "bereich": "Insolvenzrecht",
+      "urspruenglicher_dateiname": "InsO.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Insolvenzrecht/InsO/InsO.pdf",
+      "markdown": "Rechtsgebiete/Insolvenzrecht/InsO/Stand_2026-09-09/InsO.md",
+      "pruefbericht": "Rechtsgebiete/Insolvenzrecht/InsO/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 90,
+      "sha256_pdf": "4ed5d81dafd60986a38ff26587bd632954eae2163f1d783acd481f4d44c404f2",
+      "sha256_markdown": "b5d671510deb70d97e803b5fe67a9747cb57f0a4e8535b9225be50e8addc2362",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 6 G v. 15.7.2024 I Nr. 236",
+        "Mittelbare Änderung durch Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/inso/BJNR286600994.html"
+    },
+    {
+      "dokument": "Investmentsteuergesetz",
+      "kuerzel": "InvStG",
+      "bereich": "Steuerrecht / Investmentsteuer",
+      "urspruenglicher_dateiname": "InvStG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Investmentsteuer/InvStG/InvStG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Investmentsteuer/InvStG/Stand_2026-09-09/InvStG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Investmentsteuer/InvStG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 42,
+      "sha256_pdf": "7571848ce2718b71de2b35ad7f580d0312cbeaa94306ce7324ed336c9b9af54e",
+      "sha256_markdown": "b3a170787e3548396bfc77f74508348957ec30e748c7114c63625f434937a301",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 28 G v. 4.2.2026 I Nr. 33 Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html"
+    },
+    {
+      "dokument": "Verordnung zur Bestimmung der technischen Anforderungen an elektronische Aufzeichnungs- und Sicherungssysteme im Geschäftsverkehr",
+      "kuerzel": "KassenSichV",
+      "bereich": "Steuerrecht / Allgemeines_Steuerrecht",
+      "urspruenglicher_dateiname": "KassenSichV.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Allgemeines_Steuerrecht/KassenSichV/KassenSichV.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Allgemeines_Steuerrecht/KassenSichV/Stand_2026-09-09/KassenSichV.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Allgemeines_Steuerrecht/KassenSichV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 6,
+      "sha256_pdf": "e5351ca28768ece983f25c28376c74d06fc2f22d2ed3f5195c97f9074030c303",
+      "sha256_markdown": "bec0dd2a465c12fd4587de4f669d8ea8f8e0504a766bf782d1371bff838cc477",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 3 V v. 14.1.2026 I Nr. 10"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html"
+    },
+    {
+      "dokument": "Körperschaftsteuer-Durchführungsverordnung 1994",
+      "kuerzel": "KStDV",
+      "bereich": "Steuerrecht / Koerperschaftsteuer",
+      "urspruenglicher_dateiname": "KStDV_1994.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Koerperschaftsteuer/KStDV/KStDV_1994.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Koerperschaftsteuer/KStDV/Stand_2026-09-09/KStDV.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Koerperschaftsteuer/KStDV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 2,
+      "sha256_pdf": "dcb08e4c18e3430953f6b2b3fce5119428f9212db5aeb0ae8c272c4f5587a812",
+      "sha256_markdown": "d6b7d668f9c78aef6ad0673823a149836e72620c85d77126ee282d40308d9968",
+      "quellenstand": [
+        "Neugefasst durch Bek. v. 22.2.1996 I 365; zuletzt geändert durch Art. 2 Abs. 11 G v. 1.4.2015 I 434"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html"
+    },
+    {
+      "dokument": "Lohnsteuer-Durchführungsverordnung",
+      "kuerzel": "LStDV",
+      "bereich": "Steuerrecht / Einkommensteuer",
+      "urspruenglicher_dateiname": "LStDV.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Einkommensteuer/LStDV/LStDV.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Einkommensteuer/LStDV/Stand_2026-09-09/LStDV.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Einkommensteuer/LStDV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 4,
+      "sha256_pdf": "99f25cd116d4655a8a7777468490fb9d05f471c46caafeea5002ae5aa6aa6a8f",
+      "sha256_markdown": "6f98162a12bddd9d7cfe662baf558889bd31853d0b940163fd7dcd204713355c",
+      "quellenstand": [
+        "Neugefasst durch Bek. v. 10.10.1989 I 1848; zuletzt geändert durch Art. 3 V v. 19.12.2025 I Nr. 372"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html"
+    },
+    {
+      "dokument": "Gesetz zur Regelung eines allgemeinen Mindestlohns",
+      "kuerzel": "MiLoG",
+      "bereich": "Arbeitsrecht",
+      "urspruenglicher_dateiname": "MiLoG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Arbeitsrecht/MiLoG/MiLoG.pdf",
+      "markdown": "Rechtsgebiete/Arbeitsrecht/MiLoG/Stand_2026-09-09/MiLoG.md",
+      "pruefbericht": "Rechtsgebiete/Arbeitsrecht/MiLoG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 11,
+      "sha256_pdf": "738f2e35b2c7c3a47b2f8dc31407420b8671ca0d0fdf04a24bdb833adf31949e",
+      "sha256_markdown": "cfea35f837dc58d9c0ee7e1f6064c897406eb4489b7a7c2ffe9ba922593b0a14",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 8 Abs. 3 G v. 12.5.2026 I Nr. 137"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/milog/BJNR134810014.html"
+    },
+    {
+      "dokument": "Richtlinie 2006/112/EG des Rates über das gemeinsame Mehrwertsteuersystem",
+      "kuerzel": "MwStSystRL",
+      "bereich": "Steuerrecht / Richtlinien / Umsatzsteuer",
+      "urspruenglicher_dateiname": "MwStSystRL 2006_112_EG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Richtlinien/Umsatzsteuer/MwStSystRL/MwStSystRL 2006_112_EG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Richtlinien/Umsatzsteuer/MwStSystRL/Stand_2026-09-09/MwStSystRL.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Richtlinien/Umsatzsteuer/MwStSystRL/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 118,
+      "sha256_pdf": "5d2c9170a56c40fc2df7f8b7e78f7066a4c4b3d4846b486561b2453165430f3b",
+      "sha256_markdown": "917c8070f48fd6019e4eb36e7bd9454ad9baf90b7a2dbe6485655042d01f9699",
+      "quellenstand": [
+        "Ursprüngliche Amtsblattfassung vom 11.12.2006, ABl. L 347, S. 1–118; Rechtsakt vom 2006-11-28.",
+        "Keine konsolidierte Fassung: spätere Änderungen und Berichtigungen sind nicht in diese Originalfassung eingearbeitet.",
+        "Import und Abgleich am 2026-09-09; das Ordnerdatum bezeichnet den Importstand, nicht einen aktuellen Rechtsstand."
+      ],
+      "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32006L0112"
+    },
+    {
+      "dokument": "Preisangabenverordnung",
+      "kuerzel": "PAngV",
+      "bereich": "Wettbewerbsrecht",
+      "urspruenglicher_dateiname": "PAngV.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Wettbewerbsrecht/PAngV/PAngV.pdf",
+      "markdown": "Rechtsgebiete/Wettbewerbsrecht/PAngV/Stand_2026-09-09/PAngV.md",
+      "pruefbericht": "Rechtsgebiete/Wettbewerbsrecht/PAngV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 13,
+      "sha256_pdf": "fc8d84968214be8c50bf637e6ddf528b6bc09c48f9d599e8df0910287c9f7142",
+      "sha256_markdown": "f644c263af7883198b167dfdbf8582d1d6cf598cb431bed71f53ac777cfdca4c",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 8 G v. 12.5.2026 I Nr. 139",
+        "Ersetzt V 720-17-1 v. 14.3.1985 I 580 (PAngV)"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html"
+    },
+    {
+      "dokument": "Gesetz über die Meldepflicht und den automatischen Austausch von Informationen meldender Plattformbetreiber in Steuersachen",
+      "kuerzel": "PStTG",
+      "bereich": "Steuerrecht / Internationales_Steuerrecht",
+      "urspruenglicher_dateiname": "PStTG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Internationales_Steuerrecht/PStTG/PStTG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Internationales_Steuerrecht/PStTG/Stand_2026-09-09/PStTG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Internationales_Steuerrecht/PStTG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 18,
+      "sha256_pdf": "68faf85905d8db3bb1ae7f2c0ff140b2c397324e38e9315521db3773af5c2d71",
+      "sha256_markdown": "acae16b8c677347f55f004e584293018d03c908ffe1d0f39e7ffe4e3f19ac91b",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 5 G v. 22.12.2025 I Nr. 352"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/psttg/BJNR273010022.html"
+    },
+    {
+      "dokument": "Gesetz über die Rechnungslegung von bestimmten Unternehmen und Konzernen",
+      "kuerzel": "PublG",
+      "bereich": "Handelsrecht",
+      "urspruenglicher_dateiname": "PublG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Handelsrecht/PublG/PublG.pdf",
+      "markdown": "Rechtsgebiete/Handelsrecht/PublG/Stand_2026-09-09/PublG.md",
+      "pruefbericht": "Rechtsgebiete/Handelsrecht/PublG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 13,
+      "sha256_pdf": "edd500689b70acc24120f81b1965c24c38a6a9779f1ea819a341b2acd84c6876",
+      "sha256_markdown": "a220b405638704cfd353c5e98dc2fe5289653200bc212fa7d1d554793a91a0ee",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 59 G v. 10.8.2021 I 3436"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/publg/BJNR011890969.html"
+    },
+    {
+      "dokument": "Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",
+      "kuerzel": "SGB_4",
+      "bereich": "Sozialrecht",
+      "urspruenglicher_dateiname": "SGB_4.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Sozialrecht/SGB_4/SGB_4.pdf",
+      "markdown": "Rechtsgebiete/Sozialrecht/SGB_4/Stand_2026-09-09/SGB_4.md",
+      "pruefbericht": "Rechtsgebiete/Sozialrecht/SGB_4/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 105,
+      "sha256_pdf": "eb2891e82029f31a8332f6f6f13a1e47027f62672e8a008fd8d6dbaa605ca2b4",
+      "sha256_markdown": "e875d25135309eba67cc634af8700d91e748e976ee8720a5d52e502d739efff9",
+      "quellenstand": [
+        "Neugefasst durch Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;",
+        "zuletzt geändert durch Art. 2 G v. 24.7.2026 I Nr. 228"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html"
+    },
+    {
+      "dokument": "Solidaritätszuschlaggesetz",
+      "kuerzel": "SolZG",
+      "bereich": "Steuerrecht / Solidaritaetszuschlag",
+      "urspruenglicher_dateiname": "SolZG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Solidaritaetszuschlag/SolZG/SolZG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Solidaritaetszuschlag/SolZG/Stand_2026-09-09/SolZG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Solidaritaetszuschlag/SolZG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 2,
+      "sha256_pdf": "0c64c0645c09da7d310c5cd3303ee9f320964cba3196ecb5c0b1143c3f1d815b",
+      "sha256_markdown": "98280d8f2ab4ae264d58c1cc25b54dc45b39e8d0b1e2d4312c3a4a6a9a39f5ea",
+      "quellenstand": [
+        "Geändert durch Art. 19 G v. 25.2.1992 I 297"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/solzg/BJNR113180991.html"
+    },
+    {
+      "dokument": "Steuerberatungsgesetz",
+      "kuerzel": "StBerG",
+      "bereich": "Steuerrecht / Berufsrecht",
+      "urspruenglicher_dateiname": "StBerG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Berufsrecht/StBerG/StBerG.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Berufsrecht/StBerG/Stand_2026-09-09/StBerG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Berufsrecht/StBerG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 89,
+      "sha256_pdf": "3a1c32085f44a6f4732586160269b4ee042ef9c926e96f6627ec354fc5861c29",
+      "sha256_markdown": "ae04fbe1c7cb38a2f5d9b92518e3741d99176992486dd300c4f8bcf138190e73",
+      "quellenstand": [
+        "Neugefasst durch Bek. v. 4.11.1975 I 2735;",
+        "zuletzt geändert durch Art. 1 G v. 29.6.2026 I Nr. 197"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/stberg/BJNR013010961.html"
+    },
+    {
+      "dokument": "Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften",
+      "kuerzel": "StBVV",
+      "bereich": "Steuerrecht / Berufsrecht",
+      "urspruenglicher_dateiname": "StBVV.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Berufsrecht/StBVV/StBVV.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Berufsrecht/StBVV/Stand_2026-09-09/StBVV.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Berufsrecht/StBVV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 25,
+      "sha256_pdf": "a19bb551e4ba0d59c9b9de68855ace5af19a62bb3299f0eefcb02bddad1969c1",
+      "sha256_markdown": "6512e74b49dfe8c940b1133527481535fd69bf4eb3e2697ce16045fe2f824aea",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 5 V v. 19.12.2025 I Nr. 372"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html"
+    },
+    {
+      "dokument": "Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt",
+      "kuerzel": "SvEV",
+      "bereich": "Sozialrecht",
+      "urspruenglicher_dateiname": "SvEV.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Sozialrecht/SvEV/SvEV.pdf",
+      "markdown": "Rechtsgebiete/Sozialrecht/SvEV/Stand_2026-09-09/SvEV.md",
+      "pruefbericht": "Rechtsgebiete/Sozialrecht/SvEV/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 4,
+      "sha256_pdf": "86636fe5ec430899b8599c8f0acdfb2b248c0f9e0470405aa545eccdb1629fd6",
+      "sha256_markdown": "e0944fff35c89e7f871f0fae57a509461c2c87f61bec2fc1a61b35a4c200ef60",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 11 G v. 16.1.2026 I Nr. 14"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/svev/BJNR338510006.html"
+    },
+    {
+      "dokument": "Umwandlungsgesetz",
+      "kuerzel": "UmwG",
+      "bereich": "Gesellschaftsrecht",
+      "urspruenglicher_dateiname": "UmwG.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Gesellschaftsrecht/UmwG/UmwG.pdf",
+      "markdown": "Rechtsgebiete/Gesellschaftsrecht/UmwG/Stand_2026-09-09/UmwG.md",
+      "pruefbericht": "Rechtsgebiete/Gesellschaftsrecht/UmwG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 86,
+      "sha256_pdf": "18daee2bd1423c97bb8c36295b8d53060433cf0fbf9600e96b382f06ac4c8f9e",
+      "sha256_markdown": "add76756f3e623f922da50622ef52a0f87bed5958fd92b325fa25ed3143635f5",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 17 G v. 23.10.2024 I Nr. 323"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html"
+    },
+    {
+      "dokument": "Umwandlungssteuergesetz",
+      "kuerzel": "UmwStG",
+      "bereich": "Steuerrecht / Umwandlungssteuer",
+      "urspruenglicher_dateiname": "UmwStG_2006.pdf",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-09",
+      "quellenabgleich": "2026-09-09",
+      "pdf": "PDF_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-09/Steuerrecht/Gesetze/Umwandlungssteuer/UmwStG/UmwStG_2006.pdf",
+      "markdown": "Rechtsgebiete/Steuerrecht/Gesetze/Umwandlungssteuer/UmwStG/Stand_2026-09-09/UmwStG.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Gesetze/Umwandlungssteuer/UmwStG/Stand_2026-09-09/Pruefung/Pruefbericht.md",
+      "pdf_seiten": 20,
+      "sha256_pdf": "725d545b8586350d939f469800cc06015b572f6328c77c56fc70f486110e7daa",
+      "sha256_markdown": "ef4bec6032451c4fc92165e1ffcb2c219d55910843f7b5326d57a11beacdd336",
+      "quellenstand": [
+        "Zuletzt geändert durch Art. 13 G v. 2.12.2024 I Nr. 387"
+      ],
+      "quelle": "https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html"
+    }
+  ]
+}

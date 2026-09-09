@@ -1,0 +1,123 @@
+{
+  "kuerzel": "KassenSichV",
+  "methode": "Alle Normdatensätze vollständig in Reihenfolge; NFC, Leerraum und unsichtbare weiche Trennzeichen normalisiert. Fußnotenkennzeichen aus XML-Attributen ergänzt. Technische (XXXX)-Kennungen in Überschriften entsprechen der PDF ohne diesen XML-Marker. Wiederholte Tabellenköpfe und abweichende Lesereihenfolgen werden einzeln mit exakten Zeichenbeständen und unverändertem Resttext geprüft.",
+  "norms": [
+    {
+      "norm_index": 0,
+      "name": "*Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. Se",
+      "pdf_chars": 479,
+      "xml_chars": 479,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Eingangsformel",
+      "pdf_chars": 316,
+      "xml_chars": 316,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "§ 1",
+      "pdf_chars": 823,
+      "xml_chars": 823,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "§ 2",
+      "pdf_chars": 981,
+      "xml_chars": 981,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "§ 3",
+      "pdf_chars": 945,
+      "xml_chars": 945,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 4",
+      "pdf_chars": 1203,
+      "xml_chars": 1203,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 5",
+      "pdf_chars": 890,
+      "xml_chars": 890,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 6",
+      "pdf_chars": 1672,
+      "xml_chars": 1672,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 7",
+      "pdf_chars": 1631,
+      "xml_chars": 1631,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 8",
+      "pdf_chars": 1153,
+      "xml_chars": 1153,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 9",
+      "pdf_chars": 430,
+      "xml_chars": 430,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 10",
+      "pdf_chars": 362,
+      "xml_chars": 362,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 11",
+      "pdf_chars": 1959,
+      "xml_chars": 1959,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "Schlussformel",
+      "pdf_chars": 39,
+      "xml_chars": 39,
+      "equal": true,
+      "nach_layoutabgleich_identisch": true
+    }
+  ],
+  "gleich": 14,
+  "gesamt": 14,
+  "alle_normen_vollstaendig_gleich": true,
+  "pdf_sha256": "e5351ca28768ece983f25c28376c74d06fc2f22d2ed3f5195c97f9074030c303",
+  "xml_sha256": "9ffb459d864c27f639ac1e4e084d06b1122fd13c0d58eb78254dc18e14b91741"
+}

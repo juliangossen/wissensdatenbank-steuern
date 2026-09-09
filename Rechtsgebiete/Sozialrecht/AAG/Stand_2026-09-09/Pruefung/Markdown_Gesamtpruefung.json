@@ -1,0 +1,117 @@
+{
+  "kuerzel": "AAG",
+  "pruefdatum": "2026-09-09",
+  "methode": "Fertige Markdown-Datei unabhängig normweise an Überschriftsankern zerlegt; alle sichtbaren Texte aus dem gerenderten Markdown gegen sämtliche XML-Normen in derselben Reihenfolge verglichen. Nur redaktionelle Metadaten und markierte Ergänzungen, PDF-technischer (XXXX)-Präfix, NFC/Whitespace ausgenommen. Aus XML-Attributen stammende Fußnotenmarker werden zusätzlich auf vollständige Zahl und Kennzeichnung geprüft.",
+  "sha256_markdown": "2b36e583238c3f6b5022aa10a35164cb0d72a75ca1a893dc5e5c739aa74f5a2b",
+  "normen_erwartet": 13,
+  "normen_vorhanden": 13,
+  "alle_normtexte_identisch": true,
+  "alle_fussnotenverweise_erhalten": true,
+  "fussnoten": [],
+  "normen": [
+    {
+      "xml_index": 0,
+      "doknr": "BJNR368610005",
+      "anzeige": "Dokumentkopf",
+      "identisch": true,
+      "zeichen": 249,
+      "sha256": "7a79a20161e7b3589d3c4b529c0731a5ca62247b5c45827997e91e709eed5867"
+    },
+    {
+      "xml_index": 1,
+      "doknr": "BJNR368610005BJNE000104131",
+      "anzeige": "§ 1",
+      "identisch": true,
+      "zeichen": 1726,
+      "sha256": "0f5845f3f5c0e04b0155e86716e03735fa1dc0322b83878e391d7e56637ffdc4"
+    },
+    {
+      "xml_index": 2,
+      "doknr": "BJNR368610005BJNE000208126",
+      "anzeige": "§ 2",
+      "identisch": true,
+      "zeichen": 1887,
+      "sha256": "baf5051ee4ddf596fbb6d5a6ccfb0fa24f9d56ff240bcdd57d6d5240723fdb67"
+    },
+    {
+      "xml_index": 3,
+      "doknr": "BJNR368610005BJNE000301308",
+      "anzeige": "§ 3",
+      "identisch": true,
+      "zeichen": 1760,
+      "sha256": "fffbf3187c99cb686f18a7b0d229891d91de288dfdef7d6eacf89e6286c91ab7"
+    },
+    {
+      "xml_index": 4,
+      "doknr": "BJNR368610005BJNE000401360",
+      "anzeige": "§ 4",
+      "identisch": true,
+      "zeichen": 775,
+      "sha256": "67241dd15ea573cdc4b03d4c224ac238ecd9a22a1728281e134be5b4d8438519"
+    },
+    {
+      "xml_index": 5,
+      "doknr": "BJNR368610005BJNE000500000",
+      "anzeige": "§ 5",
+      "identisch": true,
+      "zeichen": 271,
+      "sha256": "9bc90dc29bd347c498bb42aea98a3a35b2fdf141c24e433d25a10f4ea3e54359"
+    },
+    {
+      "xml_index": 6,
+      "doknr": "BJNR368610005BJNE000600000",
+      "anzeige": "§ 6",
+      "identisch": true,
+      "zeichen": 612,
+      "sha256": "9c2b45c73dadf5c7ea6eee973914e04bf6419f39a812121ba9ed6dd5e56f8d56"
+    },
+    {
+      "xml_index": 7,
+      "doknr": "BJNR368610005BJNE000701308",
+      "anzeige": "§ 7",
+      "identisch": true,
+      "zeichen": 1124,
+      "sha256": "b92644c2fdd9f02576a2fd2121becc0a449f384fb954518ca9fb8a07e9d7c435"
+    },
+    {
+      "xml_index": 8,
+      "doknr": "BJNR368610005BJNE000800000",
+      "anzeige": "§ 8",
+      "identisch": true,
+      "zeichen": 571,
+      "sha256": "1e5df721ac562e491230143217a236a76f6348412a64b7309bcba790ac832bb7"
+    },
+    {
+      "xml_index": 9,
+      "doknr": "BJNR368610005BJNE000902360",
+      "anzeige": "§ 9",
+      "identisch": true,
+      "zeichen": 1026,
+      "sha256": "31c335035d8660e1f423f68af1c4b7ad264a572e381df7793820840b80b27d30"
+    },
+    {
+      "xml_index": 10,
+      "doknr": "BJNR368610005BJNE001000000",
+      "anzeige": "§ 10",
+      "identisch": true,
+      "zeichen": 183,
+      "sha256": "7062081c9bdfe33fa33f856cbb8b4aa3163bf7695c475cdb479435962550024e"
+    },
+    {
+      "xml_index": 11,
+      "doknr": "BJNR368610005BJNE001302119",
+      "anzeige": "§ 11",
+      "identisch": true,
+      "zeichen": 2220,
+      "sha256": "030b41308330b10868309406ca939902968acbf7b8393f70edbaeea8daf07c0e"
+    },
+    {
+      "xml_index": 12,
+      "doknr": "BJNR368610005BJNE001200000",
+      "anzeige": "§ 12",
+      "identisch": true,
+      "zeichen": 730,
+      "sha256": "45a428b6de12ee853fd480cc548b6e292f2129074ece05de3f4171c4589f8622"
+    }
+  ]
+}

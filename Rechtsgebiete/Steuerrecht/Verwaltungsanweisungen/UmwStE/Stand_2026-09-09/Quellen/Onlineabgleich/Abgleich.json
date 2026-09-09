@@ -1,0 +1,296 @@
+{
+  "quellenabgleich": "2026-09-09",
+  "stand_der_webkopie": "BMF-Schreiben vom 2.1.2025 (BStBl. I S. 92), geändert durch BMF v. 1.8.2025 (BStBl. I S. 1591); Zeile 7 der Kopie.",
+  "amtliche_quellen": {
+    "grundfassung": {
+      "datei": "Quellen/Onlineabgleich/2025-01-02-umwStE.pdf",
+      "pdf_seiten": 89,
+      "pdf_titel": "Anwendung des Umwandlungssteuergesetzes",
+      "pdf_erstellt": "D:20250102130511+01'00'"
+    },
+    "aenderungsschreiben": {
+      "datei": "Quellen/Onlineabgleich/2025-08-01-aenderung-bmf-schreiben-umwste.pdf",
+      "pdf_seiten": 3
+    },
+    "themenseite": {
+      "url": "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Umwandlungssteuer/umwandlungssteuer.html",
+      "abruf": "nicht möglich: Aufruf wird auf eine Bot-Prüfseite (validate.perfdrive.com) umgeleitet; deshalb keine amtliche Bestätigung, dass nach dem 1.8.2025 kein weiteres Änderungsschreiben ergangen ist."
+    }
+  },
+  "randnummern": {
+    "kopie": 572,
+    "pdf_randmarken": 572,
+    "fehlen_in_pdf": [],
+    "fehlen_in_kopie": [],
+    "gleiche_reihenfolge": true,
+    "hinweis": "Randmarken der PDF aus den Seitenrändern (x < 70 pt oder x > 510 pt) mit PyMuPDF gelesen; „27.09 bis 27.11“ steht in Kopie und PDF als Sammelangabe."
+  },
+  "wortlautvergleich": {
+    "verfahren": "Je Randnummer wird der Text der Kopie (Rn-Zeile bis zur nächsten Rn-Zeile ohne Gliederungsüberschriften) mit dem Haupttext der PDF zwischen den Randmarken verglichen (Schriftgrad ≥ 7,4 pt; Fußnoten, Seitenzahlen, hochgestellte Ziffern und Gliederungsüberschriften ausgeschlossen). Ähnlichkeit = difflib.SequenceMatcher.ratio auf den normalisierten Zeichenketten.",
+    "normalisierung": [
+      "Leerraum, Bindestriche, Gedankenstriche, Kommas und schmale Leerzeichen entfernt; Kleinschreibung",
+      "Absatz→Abs., Nummer→Nr., Buchstabe→Buchst., Artikel→Art.; ausgeschriebene Monatsnamen → numerisches Datum; BStBl→BStBl.; Jahresangabe in BStBl-Zitaten vereinheitlicht",
+      "Leerzeichen in Buchstabenabkürzungen (i. S. d.) entfernt; „im Sinne des/der“ und i.S.d./i.S.v., „in Höhe von/des“ und i.H.v./i.H.d., „im Rahmen des/der/einer“ und i.R.d./i.R. jeweils auf eine neutrale Form ohne Artikel gebracht (auch am Satzanfang); im Übrigen→i.ü., in Verbindung mit→i.V.m., in der Fassung→i.d.F., zum Beispiel→z.B.",
+      "Tausenderpunkte der PDF entfernt; Anführungszeichen entfernt; × → x; ½ ¼ ⅕ ⅘ → 1/2 1/4 1/5 4/5",
+      "Silbentrennung am Zeilenende der PDF zusammengeführt (Bindestrich + Kleinbuchstabe)"
+    ],
+    "klassen": {
+      "uebereinstimmend (>= 0,995)": 549,
+      "geringe_abweichung (0,98–0,995)": 10,
+      "abweichung (0,95–0,98)": 5,
+      "deutliche_abweichung (< 0,95)": 8
+    },
+    "randnummern_unter_0995": [
+      {
+        "rn": "01.10",
+        "aehnlichkeit": 0.0922,
+        "pdf_seite": 11
+      },
+      {
+        "rn": "01.12",
+        "aehnlichkeit": 0.4067,
+        "pdf_seite": 11
+      },
+      {
+        "rn": "01.17",
+        "aehnlichkeit": 0.0551,
+        "pdf_seite": 12
+      },
+      {
+        "rn": "01.19",
+        "aehnlichkeit": 0.1793,
+        "pdf_seite": 13
+      },
+      {
+        "rn": "01.38b",
+        "aehnlichkeit": 0.985,
+        "pdf_seite": 15
+      },
+      {
+        "rn": "01.39",
+        "aehnlichkeit": 0.9852,
+        "pdf_seite": 15
+      },
+      {
+        "rn": "03.09",
+        "aehnlichkeit": 0.97,
+        "pdf_seite": 26
+      },
+      {
+        "rn": "03.23",
+        "aehnlichkeit": 0.9718,
+        "pdf_seite": 28
+      },
+      {
+        "rn": "03.24",
+        "aehnlichkeit": 0.9567,
+        "pdf_seite": 29
+      },
+      {
+        "rn": "04.12",
+        "aehnlichkeit": 0.9897,
+        "pdf_seite": 31
+      },
+      {
+        "rn": "04.27",
+        "aehnlichkeit": 0.9911,
+        "pdf_seite": 33
+      },
+      {
+        "rn": "15.30",
+        "aehnlichkeit": 0.9822,
+        "pdf_seite": 49
+      },
+      {
+        "rn": "15.35a",
+        "aehnlichkeit": 0.5811,
+        "pdf_seite": 50
+      },
+      {
+        "rn": "20.19a",
+        "aehnlichkeit": 0.9924,
+        "pdf_seite": 58
+      },
+      {
+        "rn": "22.43",
+        "aehnlichkeit": 0.981,
+        "pdf_seite": 74
+      },
+      {
+        "rn": "24.14",
+        "aehnlichkeit": 0.9931,
+        "pdf_seite": 78
+      },
+      {
+        "rn": "24.16",
+        "aehnlichkeit": 0.9944,
+        "pdf_seite": 80
+      },
+      {
+        "rn": "27.02",
+        "aehnlichkeit": 0.9264,
+        "pdf_seite": 82
+      },
+      {
+        "rn": "Org.03",
+        "aehnlichkeit": 0.7854,
+        "pdf_seite": 83
+      },
+      {
+        "rn": "K.01",
+        "aehnlichkeit": 0.7819,
+        "pdf_seite": 85
+      },
+      {
+        "rn": "K.08",
+        "aehnlichkeit": 0.9784,
+        "pdf_seite": 87
+      },
+      {
+        "rn": "K.13",
+        "aehnlichkeit": 0.9808,
+        "pdf_seite": 87
+      },
+      {
+        "rn": "K.16",
+        "aehnlichkeit": 0.9684,
+        "pdf_seite": 88
+      }
+    ],
+    "einzelwerte": "Quellen/Onlineabgleich/Randnummernabgleich.json",
+    "abweichungsprotokoll": "Quellen/Onlineabgleich/Textabgleich_Abweichungen.txt"
+  },
+  "aenderungsschreiben_2025_08_01": {
+    "rn_15_35a_aehnlichkeit_neufassung": 0.9997,
+    "rn_15_35a_aehnlichkeit_grundfassung_pdf": 0.5811,
+    "rn_org_03_aehnlichkeit_neufassung": 1.0,
+    "rn_org_03_aehnlichkeit_grundfassung_pdf": 0.7854
+  },
+  "amtliche_fussnoten": {
+    "kopie_amtl_anm": 34,
+    "pdf_fussnoten_erkannt": 28,
+    "kopie_fussnoten_mit_pdf_entsprechung": 30,
+    "kopie_fussnoten_ohne_pdf_entsprechung": [
+      {
+        "fussnote": 2,
+        "text": "BStBl. 2007 I S. 4."
+      },
+      {
+        "fussnote": 3,
+        "text": "BStBl. I S. 1484."
+      },
+      {
+        "fussnote": 4,
+        "text": "BStBl. I S. 1157, BStBl. 2003 I S. 380."
+      },
+      {
+        "fussnote": 5,
+        "text": "BStBl. 2007 I S. 4."
+      }
+    ],
+    "pdf_fussnoten_ohne_kopie_entsprechung": [
+      {
+        "pdf_seite": 31,
+        "text": "Jetzt § 52 Absatz 2 EStG."
+      }
+    ],
+    "hinweis": "PDF-Fußnoten = Zeilen mit Schriftgrad < 7,4 pt am linken Rand im unteren Seitendrittel sowie die tabelleninternen Anmerkungen „Residualgröße“ und „DBA-Quellensteuerrecht“ (Zeichen ❶); Zuordnung über Textgleichheit (Teilstring oder Ähnlichkeit > 0,9 nach Normalisierung). Die Fußnoten [2] bis [5] der Kopie (BStBl-Fundstellen) sind Zusätze der BStBl-Fassung."
+  },
+  "inhaltsverzeichnis": {
+    "eintraege_kopie": 338,
+    "eintraege_pdf": 336,
+    "eintraege_mit_rn_angabe_kopie": 327,
+    "rn_angaben_pdf": 265,
+    "nur_in_kopie": [
+      "a) Umwandlungen nach dem UmwG (inländische Umwandlungen)",
+      "bb) Prüfung und Maßstab der Vergleichbarkeit",
+      "a) Umwandlungen mit steuerlichem Übertragungsstichtag vor dem 1.1.2022",
+      "b) Umwandlungen mit steuerlichem Übertragungsstichtag nach dem 31.12.2021",
+      "III. Gewährung neuer Anteile, Gewährung sonstiger Gegenleistungen",
+      "III. Die die rückwirkende Einbringungsgewinnbesteuerung auslösenden Ereignisse i.S.d. § 22 Abs. 1 Satz 6 i.V.m. Abs. 2 Satz 6 UmwStG"
+    ],
+    "nur_in_pdf": [
+      "a) Umwandlungen nach § 1 UmwG (inländische Umwandlungen)",
+      "bb) Prüfung der Vergleichbarkeit",
+      "I. Gewährung neuer Anteile, Gewährung sonstiger Gegenleistungen",
+      "III. Die die rückwirkende Einbringungsgewinnbesteuerung auslösenden Ereignisse i. S. d. § 22 Absatz 1 Satz 6 i. V m. Absatz 2 Satz 6 UmwStG"
+    ]
+  },
+  "pdf_schriftgrade": {
+    "6": 649,
+    "7": 612,
+    "8": 6004,
+    "9": 82
+  },
+  "abbildungen": [
+    {
+      "datei": "Quellen/Abbildungen/BMF_2025-01-02_Seite-11.png",
+      "pdf_seite": 11,
+      "randnummern": [
+        "01.10",
+        "01.12"
+      ],
+      "hinweis": "Verschmelzungstabelle (Rn. 01.10) mit Fußnoten 1 bis 9 und Beginn der Formwechseltabelle (Rn. 01.12).",
+      "bytes": 398338,
+      "sha256": "af3aac51679995ef803ce0e2a8fb5d2568fc2e202f4cee8ff78b8407ad4c4a0b",
+      "erzeugt_mit": "pdftoppm -r 150 -png aus der gesicherten PDF"
+    },
+    {
+      "datei": "Quellen/Abbildungen/BMF_2025-01-02_Seite-12.png",
+      "pdf_seite": 12,
+      "randnummern": [
+        "01.12",
+        "01.17"
+      ],
+      "hinweis": "Ende der Formwechseltabelle (Rn. 01.12), Spaltungstabelle (Rn. 01.17) mit Fußnoten 1 bis 3.",
+      "bytes": 313685,
+      "sha256": "da03d9eed0d93d1d1ee75eceb600fd8b83c4863321afd425aed3c101a881da2c",
+      "erzeugt_mit": "pdftoppm -r 150 -png aus der gesicherten PDF"
+    },
+    {
+      "datei": "Quellen/Abbildungen/BMF_2025-01-02_Seite-13.png",
+      "pdf_seite": 13,
+      "randnummern": [
+        "01.19"
+      ],
+      "hinweis": "Vermögensübertragungstabelle (Rn. 01.19).",
+      "bytes": 473895,
+      "sha256": "8453a52c838b4845f494668f0969b362a963e6021f06f753f79f16f6547d012e",
+      "erzeugt_mit": "pdftoppm -r 150 -png aus der gesicherten PDF"
+    }
+  ],
+  "dateien": [
+    {
+      "datei": "Quellen/Onlineabgleich/2025-01-02-umwStE.pdf",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Koerperschaftsteuer_Umwandlungssteuer/2025-01-02-umwStE.pdf?__blob=publicationFile",
+      "hinweis": "BMF-Schreiben vom 2.1.2025 (UmwStE 2025) in der Ursprungsfassung; Anschreiben S. 1, Inhaltsverzeichnis S. 2 bis oberer Teil von S. 9, Erlasstext ab S. 9 bis S. 89 mit Randnummern am Seitenrand (HTTP 200, application/pdf, curl mit Browser-User-Agent).",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 2320322,
+      "sha256": "9d903e6930ba62c4b45ec7f4be5eb3dba15903a1e56e1541f6096b7aba9e5d20"
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/2025-01-02-umwStE_pdftotext.txt",
+      "url": null,
+      "hinweis": "Textextraktion der PDF mit Poppler pdftotext -layout -enc UTF-8 (nur zur Einsicht; der Abgleich nutzt PyMuPDF).",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 637314,
+      "sha256": "c9af132ae75f22635e66ff06a06131dc6a35dd14bd9ae63996ecc210a78ac695"
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/2025-08-01-aenderung-bmf-schreiben-umwste.pdf",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Koerperschaftsteuer_Umwandlungssteuer/2025-08-01-aenderung-bmf-schreiben-umwste.pdf?__blob=publicationFile&v=7",
+      "hinweis": "BMF-Schreiben vom 1.8.2025 (GZ IV C 2 - S 1978/00051/004/026): Neufassung der Rn. 15.35a und Org.03, 3 Seiten (HTTP 200, application/pdf).",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 162386,
+      "sha256": "8b9682d5d472db5ca8707550dfd2163fc6cf7b7bd48046edde1f4cb188479b8a"
+    },
+    {
+      "datei": "Quellen/Onlineabgleich/2025-08-01-aenderung-bmf-schreiben-umwste_pdftotext.txt",
+      "url": null,
+      "hinweis": "Textextraktion des Änderungsschreibens mit Poppler pdftotext -layout -enc UTF-8; Grundlage des Vergleichs der Neufassungen.",
+      "abgerufen_am": "2026-09-09",
+      "bytes": 8000,
+      "sha256": "dbbc22bc1120a27e208f00d0b2b864ff189f3da9e1060e1293f157db067889db"
+    }
+  ]
+}

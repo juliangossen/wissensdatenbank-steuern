@@ -1,0 +1,34 @@
+{
+  "kuerzel": "EStG",
+  "titel": "Einkommensteuergesetz",
+  "rechtsgebiet": "Steuerrecht / Einkommensteuer",
+  "quelle_url": "https://www.gesetze-im-internet.de/estg/",
+  "quelle_html": "https://www.gesetze-im-internet.de/estg/BJNR010050934.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/estg/EStG.pdf",
+  "lokale_pdf": "EStG.pdf",
+  "aktuelle_pdf": "EStG_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR010050934.xml",
+  "ausfertigungsdatum": "1934-10-16",
+  "stand": [
+    "Neugefasst durch Bek. v. 8.10.2009 I 3366, 3862;",
+    "zuletzt geändert durch Art. 7 G v. 29.6.2026 I Nr. 197"
+  ],
+  "vollzitat": "\"Einkommensteuergesetz in der Fassung der Bekanntmachung vom 8. Oktober 2009 (BGBl. I S. 3366, 3862), das zuletzt durch Artikel 7 des Gesetzes vom 29. Juni 2026 (BGBl. 2026 I Nr. 197) geändert worden ist\"",
+  "pdf_seiten": 284,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260804215509",
+  "sha256_lokale_pdf": "e9480c773127a89216c2439b02534d56321c9174f28f1f4d591afa8b754a5445",
+  "sha256_aktuelle_pdf": "e9480c773127a89216c2439b02534d56321c9174f28f1f4d591afa8b754a5445",
+  "sha256_xml": "13ff1917a1080a63f1dddb8900a14ba1624f516fa7eb7a547e8bb0f910e2fd5c",
+  "normenbestand": {
+    "normdatensaetze": 293,
+    "gliederungsteile": 44,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 243,
+    "anlagen": 4,
+    "tabellen": 65,
+    "tabellenzeilen": 565,
+    "tabellenzellen": 1463,
+    "aufzaehlungskennzeichen": 1651
+  }
+}

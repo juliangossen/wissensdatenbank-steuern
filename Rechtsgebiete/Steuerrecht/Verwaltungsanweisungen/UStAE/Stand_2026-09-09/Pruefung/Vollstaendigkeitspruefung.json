@@ -1,0 +1,18 @@
+{
+  "pruefung_erfolgreich": true,
+  "sha256_original_quelle": "20ac2d39600b1d406389aebffb4eaf2040425dc1d9a936c13f395c2ec294ed4d",
+  "sha256_markdown": "709d61b554c5fc3365e26132a2955513ab2299558e7f8535dafc17a31c21e594",
+  "sha256_redaktionelle_synopse": "64c608573da53dc80f990bfec9004a9703476e8145f529d92f6649695b95ea4b",
+  "quellzeilen_gesamt": 27139,
+  "quellzeilen_sachinhalt_nichtleer": 14835,
+  "quellbloecke": 9837,
+  "abschnittsbloecke_kopie": 428,
+  "amtliche_abschnittspositionen": 432,
+  "anlagen": 8,
+  "abkuerzungen": 171,
+  "fussnoten": 829,
+  "uebernahme": "Alle nichtleeren Sachtextzeilen 293 bis 27139 genau einmal; vollständiger sichtbarer Textrückvergleich pro Quellblock.",
+  "ergaenzung_25d_1": "25d.1. - gestrichen -; amtliche PDF Seite 849",
+  "abbildungen": 35,
+  "einschraenkung": "Vollständigkeit der übernommenen Textkopie geprüft; kein vollständiger Wortlautvergleich Webkopie gegen amtliche PDF. Redaktionelle Hinweise bleiben als solche erkennbar."
+}

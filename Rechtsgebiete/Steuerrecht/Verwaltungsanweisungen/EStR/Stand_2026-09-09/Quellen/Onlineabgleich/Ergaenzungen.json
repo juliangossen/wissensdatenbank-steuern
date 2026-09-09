@@ -1,0 +1,29 @@
+[
+  {
+    "titel": "Amtliche Vergleichsfassung zu Anlage 2 (EStH 2025)",
+    "datei": "Ergaenzungen/Anlage_2_BMF_2025.md",
+    "sha256": "10964e8f875bbe304f7cdc95fae1ac297156448aa9cc483d1c1d83e333ac1f87",
+    "quelle_datei": "Quellen/Onlineabgleich/EStH_2025_Anhang_01_I_2.html",
+    "quelle_sha256": "ed0441fdbc9277cc2f073417867d3a070b53a2871a0890cf96bbf7ef86b3f87d",
+    "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-01/I-2/inhalt.html",
+    "pruefung": {
+      "tabellenzeilen": 14,
+      "sichtbarer_tabellentext_vollstaendig": true,
+      "zellspans_unveraendert": true,
+      "fussnoten_in_sachinhalt": 0
+    }
+  },
+  {
+    "titel": "Amtliche Vergleichsfassung zu Anlage 6 (EStH 2025)",
+    "datei": "Ergaenzungen/Anlage_6_BMF_2025.md",
+    "sha256": "fad2af3bbfe6ba66f23e11b3a4c8f8b05ec83e8bddd34633fd8f6cc2bf12bf74",
+    "quelle_datei": "Quellen/Onlineabgleich/EStH_2025_Anhang_12_II_1.html",
+    "quelle_sha256": "2c749d7954d129123e886ca5f3e35f6b320eed1b4f91ecf7e42628f5c58e4c09",
+    "url": "https://amtliche-handbuecher.bundesfinanzministerium.de/esth/2025/B-Anhaenge/Anhang-12/II-1/inhalt.html",
+    "pruefung": {
+      "laender_gebiete": 79,
+      "sichtbarer_tabellentext_vollstaendig": true,
+      "endet_mit": "Uganda; withholding tax (Quellensteuer für Beratungsleistungen (15 %)"
+    }
+  }
+]

@@ -1,0 +1,4473 @@
+{
+  "kuerzel": "StGB",
+  "datum": "2026-09-09",
+  "methode": "Normweise Vergleich aller Überschriften, Texte und Fußnoten einschließlich aus XML-Attributen rekonstruierter Fußnotenmarker; NFC und Entfernung nur von Whitespace, PDF-Servicezeilen und Seitenzählern. Abweichungen einzeln dokumentiert.",
+  "normdatensaetze": 630,
+  "exakt_identisch": 629,
+  "abweichend": 1,
+  "alle_normen_vollstaendig_bestaetigt": true,
+  "technische_xml_praefixe": {
+    "regel": "Nur das GII-interne Kennzeichen (XXXX) vor enbez wird beim PDF-Vergleich entfernt. Die Vorschrift und ihr Wegfallhinweis bleiben erhalten.",
+    "anzahl": 9
+  },
+  "pdf_leertext_platzhalter": [],
+  "normen": [
+    {
+      "norm_index": 0,
+      "name": "Gesetzeskopf",
+      "pdf_zeichen": 794,
+      "xml_zeichen": 794,
+      "identisch": true
+    },
+    {
+      "norm_index": 1,
+      "name": "Inhaltsübersicht",
+      "pdf_zeichen": 21685,
+      "xml_zeichen": 21685,
+      "identisch": true
+    },
+    {
+      "norm_index": 2,
+      "name": "Allgemeiner Teil",
+      "pdf_zeichen": 15,
+      "xml_zeichen": 15,
+      "identisch": true
+    },
+    {
+      "norm_index": 3,
+      "name": "Erster AbschnittDas Strafgesetz",
+      "pdf_zeichen": 29,
+      "xml_zeichen": 29,
+      "identisch": true
+    },
+    {
+      "norm_index": 4,
+      "name": "Erster TitelGeltungsbereich",
+      "pdf_zeichen": 26,
+      "xml_zeichen": 26,
+      "identisch": true
+    },
+    {
+      "norm_index": 5,
+      "name": "§ 1",
+      "pdf_zeichen": 118,
+      "xml_zeichen": 118,
+      "identisch": true
+    },
+    {
+      "norm_index": 6,
+      "name": "§ 2",
+      "pdf_zeichen": 713,
+      "xml_zeichen": 713,
+      "identisch": true
+    },
+    {
+      "norm_index": 7,
+      "name": "§ 3",
+      "pdf_zeichen": 84,
+      "xml_zeichen": 84,
+      "identisch": true
+    },
+    {
+      "norm_index": 8,
+      "name": "§ 4",
+      "pdf_zeichen": 276,
+      "xml_zeichen": 276,
+      "identisch": true
+    },
+    {
+      "norm_index": 9,
+      "name": "§ 5",
+      "pdf_zeichen": 6052,
+      "xml_zeichen": 6052,
+      "identisch": true
+    },
+    {
+      "norm_index": 10,
+      "name": "§ 6",
+      "pdf_zeichen": 817,
+      "xml_zeichen": 817,
+      "identisch": true
+    },
+    {
+      "norm_index": 11,
+      "name": "§ 7",
+      "pdf_zeichen": 684,
+      "xml_zeichen": 684,
+      "identisch": true
+    },
+    {
+      "norm_index": 12,
+      "name": "§ 8",
+      "pdf_zeichen": 171,
+      "xml_zeichen": 171,
+      "identisch": true
+    },
+    {
+      "norm_index": 13,
+      "name": "§ 9",
+      "pdf_zeichen": 582,
+      "xml_zeichen": 582,
+      "identisch": true
+    },
+    {
+      "norm_index": 14,
+      "name": "§ 10",
+      "pdf_zeichen": 166,
+      "xml_zeichen": 166,
+      "identisch": true
+    },
+    {
+      "norm_index": 15,
+      "name": "Zweiter TitelSprachgebrauch",
+      "pdf_zeichen": 26,
+      "xml_zeichen": 26,
+      "identisch": true
+    },
+    {
+      "norm_index": 16,
+      "name": "§ 11",
+      "pdf_zeichen": 2538,
+      "xml_zeichen": 2538,
+      "identisch": true
+    },
+    {
+      "norm_index": 17,
+      "name": "§ 12",
+      "pdf_zeichen": 410,
+      "xml_zeichen": 410,
+      "identisch": true
+    },
+    {
+      "norm_index": 18,
+      "name": "Zweiter AbschnittDie Tat",
+      "pdf_zeichen": 22,
+      "xml_zeichen": 22,
+      "identisch": true
+    },
+    {
+      "norm_index": 19,
+      "name": "Erster TitelGrundlagen der Strafbarkeit",
+      "pdf_zeichen": 36,
+      "xml_zeichen": 36,
+      "identisch": true
+    },
+    {
+      "norm_index": 20,
+      "name": "§ 13",
+      "pdf_zeichen": 334,
+      "xml_zeichen": 334,
+      "identisch": true
+    },
+    {
+      "norm_index": 21,
+      "name": "§ 14",
+      "pdf_zeichen": 1249,
+      "xml_zeichen": 1249,
+      "identisch": true
+    },
+    {
+      "norm_index": 22,
+      "name": "§ 15",
+      "pdf_zeichen": 139,
+      "xml_zeichen": 139,
+      "identisch": true
+    },
+    {
+      "norm_index": 23,
+      "name": "§ 16",
+      "pdf_zeichen": 358,
+      "xml_zeichen": 358,
+      "identisch": true
+    },
+    {
+      "norm_index": 24,
+      "name": "§ 17",
+      "pdf_zeichen": 308,
+      "xml_zeichen": 308,
+      "identisch": true
+    },
+    {
+      "norm_index": 25,
+      "name": "§ 18",
+      "pdf_zeichen": 208,
+      "xml_zeichen": 208,
+      "identisch": true
+    },
+    {
+      "norm_index": 26,
+      "name": "§ 19",
+      "pdf_zeichen": 95,
+      "xml_zeichen": 95,
+      "identisch": true
+    },
+    {
+      "norm_index": 27,
+      "name": "§ 20",
+      "pdf_zeichen": 307,
+      "xml_zeichen": 307,
+      "identisch": true
+    },
+    {
+      "norm_index": 28,
+      "name": "§ 21",
+      "pdf_zeichen": 226,
+      "xml_zeichen": 226,
+      "identisch": true
+    },
+    {
+      "norm_index": 29,
+      "name": "Zweiter TitelVersuch",
+      "pdf_zeichen": 19,
+      "xml_zeichen": 19,
+      "identisch": true
+    },
+    {
+      "norm_index": 30,
+      "name": "§ 22",
+      "pdf_zeichen": 126,
+      "xml_zeichen": 126,
+      "identisch": true
+    },
+    {
+      "norm_index": 31,
+      "name": "§ 23",
+      "pdf_zeichen": 463,
+      "xml_zeichen": 463,
+      "identisch": true
+    },
+    {
+      "norm_index": 32,
+      "name": "§ 24",
+      "pdf_zeichen": 550,
+      "xml_zeichen": 550,
+      "identisch": true
+    },
+    {
+      "norm_index": 33,
+      "name": "Dritter TitelTäterschaft und Teilnahme",
+      "pdf_zeichen": 35,
+      "xml_zeichen": 35,
+      "identisch": true
+    },
+    {
+      "norm_index": 34,
+      "name": "§ 25",
+      "pdf_zeichen": 169,
+      "xml_zeichen": 169,
+      "identisch": true
+    },
+    {
+      "norm_index": 35,
+      "name": "§ 26",
+      "pdf_zeichen": 138,
+      "xml_zeichen": 138,
+      "identisch": true
+    },
+    {
+      "norm_index": 36,
+      "name": "§ 27",
+      "pdf_zeichen": 223,
+      "xml_zeichen": 223,
+      "identisch": true
+    },
+    {
+      "norm_index": 37,
+      "name": "§ 28",
+      "pdf_zeichen": 359,
+      "xml_zeichen": 359,
+      "identisch": true
+    },
+    {
+      "norm_index": 38,
+      "name": "§ 29",
+      "pdf_zeichen": 120,
+      "xml_zeichen": 120,
+      "identisch": true
+    },
+    {
+      "norm_index": 39,
+      "name": "§ 30",
+      "pdf_zeichen": 382,
+      "xml_zeichen": 382,
+      "identisch": true
+    },
+    {
+      "norm_index": 40,
+      "name": "§ 31",
+      "pdf_zeichen": 576,
+      "xml_zeichen": 576,
+      "identisch": true
+    },
+    {
+      "norm_index": 41,
+      "name": "Vierter TitelNotwehr und Notstand",
+      "pdf_zeichen": 30,
+      "xml_zeichen": 30,
+      "identisch": true
+    },
+    {
+      "norm_index": 42,
+      "name": "§ 32",
+      "pdf_zeichen": 204,
+      "xml_zeichen": 204,
+      "identisch": true
+    },
+    {
+      "norm_index": 43,
+      "name": "§ 33",
+      "pdf_zeichen": 124,
+      "xml_zeichen": 124,
+      "identisch": true
+    },
+    {
+      "norm_index": 44,
+      "name": "§ 34",
+      "pdf_zeichen": 475,
+      "xml_zeichen": 475,
+      "identisch": true
+    },
+    {
+      "norm_index": 45,
+      "name": "§ 35",
+      "pdf_zeichen": 729,
+      "xml_zeichen": 729,
+      "identisch": true
+    },
+    {
+      "norm_index": 46,
+      "name": "Fünfter TitelStraflosigkeit parlamentarischer\nÄußerungen und Berichte",
+      "pdf_zeichen": 64,
+      "xml_zeichen": 64,
+      "identisch": true
+    },
+    {
+      "norm_index": 47,
+      "name": "§ 36",
+      "pdf_zeichen": 333,
+      "xml_zeichen": 333,
+      "identisch": true
+    },
+    {
+      "norm_index": 48,
+      "name": "§ 37",
+      "pdf_zeichen": 170,
+      "xml_zeichen": 170,
+      "identisch": true
+    },
+    {
+      "norm_index": 49,
+      "name": "Dritter AbschnittRechtsfolgen der Tat",
+      "pdf_zeichen": 34,
+      "xml_zeichen": 34,
+      "identisch": true
+    },
+    {
+      "norm_index": 50,
+      "name": "Erster TitelStrafen",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 51,
+      "name": "Freiheitsstrafe",
+      "pdf_zeichen": 15,
+      "xml_zeichen": 15,
+      "identisch": true
+    },
+    {
+      "norm_index": 52,
+      "name": "§ 38",
+      "pdf_zeichen": 189,
+      "xml_zeichen": 189,
+      "identisch": true
+    },
+    {
+      "norm_index": 53,
+      "name": "§ 39",
+      "pdf_zeichen": 156,
+      "xml_zeichen": 156,
+      "identisch": true
+    },
+    {
+      "norm_index": 54,
+      "name": "Geldstrafe",
+      "pdf_zeichen": 10,
+      "xml_zeichen": 10,
+      "identisch": true
+    },
+    {
+      "norm_index": 55,
+      "name": "§ 40",
+      "pdf_zeichen": 746,
+      "xml_zeichen": 746,
+      "identisch": true
+    },
+    {
+      "norm_index": 56,
+      "name": "§ 41",
+      "pdf_zeichen": 292,
+      "xml_zeichen": 292,
+      "identisch": true
+    },
+    {
+      "norm_index": 57,
+      "name": "§ 42",
+      "pdf_zeichen": 643,
+      "xml_zeichen": 643,
+      "identisch": true
+    },
+    {
+      "norm_index": 58,
+      "name": "§ 43",
+      "pdf_zeichen": 193,
+      "xml_zeichen": 193,
+      "identisch": true
+    },
+    {
+      "norm_index": 59,
+      "name": "Nebenstrafe",
+      "pdf_zeichen": 11,
+      "xml_zeichen": 11,
+      "identisch": true
+    },
+    {
+      "norm_index": 60,
+      "name": "§ 44",
+      "pdf_zeichen": 2254,
+      "xml_zeichen": 2254,
+      "identisch": true
+    },
+    {
+      "norm_index": 61,
+      "name": "Nebenfolgen",
+      "pdf_zeichen": 11,
+      "xml_zeichen": 11,
+      "identisch": true
+    },
+    {
+      "norm_index": 62,
+      "name": "§ 45",
+      "pdf_zeichen": 902,
+      "xml_zeichen": 902,
+      "identisch": true
+    },
+    {
+      "norm_index": 63,
+      "name": "§ 45a",
+      "pdf_zeichen": 661,
+      "xml_zeichen": 661,
+      "identisch": true
+    },
+    {
+      "norm_index": 64,
+      "name": "§ 45b",
+      "pdf_zeichen": 416,
+      "xml_zeichen": 416,
+      "identisch": true
+    },
+    {
+      "norm_index": 65,
+      "name": "Zweiter TitelStrafbemessung",
+      "pdf_zeichen": 26,
+      "xml_zeichen": 26,
+      "identisch": true
+    },
+    {
+      "norm_index": 66,
+      "name": "§ 46",
+      "pdf_zeichen": 964,
+      "xml_zeichen": 964,
+      "identisch": true
+    },
+    {
+      "norm_index": 67,
+      "name": "§ 46a",
+      "pdf_zeichen": 590,
+      "xml_zeichen": 590,
+      "identisch": true
+    },
+    {
+      "norm_index": 68,
+      "name": "§ 46b",
+      "pdf_zeichen": 1775,
+      "xml_zeichen": 1775,
+      "identisch": true
+    },
+    {
+      "norm_index": 69,
+      "name": "§ 47",
+      "pdf_zeichen": 712,
+      "xml_zeichen": 712,
+      "identisch": true
+    },
+    {
+      "norm_index": 70,
+      "name": "§ 48",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 71,
+      "name": "§ 49",
+      "pdf_zeichen": 843,
+      "xml_zeichen": 843,
+      "identisch": true
+    },
+    {
+      "norm_index": 72,
+      "name": "§ 50",
+      "pdf_zeichen": 224,
+      "xml_zeichen": 224,
+      "identisch": true
+    },
+    {
+      "norm_index": 73,
+      "name": "§ 51",
+      "pdf_zeichen": 1265,
+      "xml_zeichen": 1265,
+      "identisch": true
+    },
+    {
+      "norm_index": 74,
+      "name": "Dritter TitelStrafbemessung bei mehreren\nGesetzesverletzungen",
+      "pdf_zeichen": 57,
+      "xml_zeichen": 57,
+      "identisch": true
+    },
+    {
+      "norm_index": 75,
+      "name": "§ 52",
+      "pdf_zeichen": 526,
+      "xml_zeichen": 526,
+      "identisch": true
+    },
+    {
+      "norm_index": 76,
+      "name": "§ 53",
+      "pdf_zeichen": 456,
+      "xml_zeichen": 456,
+      "identisch": true
+    },
+    {
+      "norm_index": 77,
+      "name": "§ 54",
+      "pdf_zeichen": 694,
+      "xml_zeichen": 694,
+      "identisch": true
+    },
+    {
+      "norm_index": 78,
+      "name": "§ 55",
+      "pdf_zeichen": 572,
+      "xml_zeichen": 572,
+      "identisch": true
+    },
+    {
+      "norm_index": 79,
+      "name": "Vierter TitelStrafaussetzung zur Bewährung",
+      "pdf_zeichen": 39,
+      "xml_zeichen": 39,
+      "identisch": true
+    },
+    {
+      "norm_index": 80,
+      "name": "§ 56",
+      "pdf_zeichen": 1187,
+      "xml_zeichen": 1187,
+      "identisch": true
+    },
+    {
+      "norm_index": 81,
+      "name": "§ 56a",
+      "pdf_zeichen": 312,
+      "xml_zeichen": 312,
+      "identisch": true
+    },
+    {
+      "norm_index": 82,
+      "name": "§ 56b",
+      "pdf_zeichen": 841,
+      "xml_zeichen": 841,
+      "identisch": true
+    },
+    {
+      "norm_index": 83,
+      "name": "§ 56c",
+      "pdf_zeichen": 1397,
+      "xml_zeichen": 1397,
+      "identisch": true
+    },
+    {
+      "norm_index": 84,
+      "name": "§ 56d",
+      "pdf_zeichen": 1079,
+      "xml_zeichen": 1079,
+      "identisch": true
+    },
+    {
+      "norm_index": 85,
+      "name": "§ 56e",
+      "pdf_zeichen": 120,
+      "xml_zeichen": 120,
+      "identisch": true
+    },
+    {
+      "norm_index": 86,
+      "name": "§ 56f",
+      "pdf_zeichen": 1476,
+      "xml_zeichen": 1476,
+      "identisch": true
+    },
+    {
+      "norm_index": 87,
+      "name": "§ 56g",
+      "pdf_zeichen": 472,
+      "xml_zeichen": 472,
+      "identisch": true
+    },
+    {
+      "norm_index": 88,
+      "name": "§ 57",
+      "pdf_zeichen": 2452,
+      "xml_zeichen": 2452,
+      "identisch": true
+    },
+    {
+      "norm_index": 89,
+      "name": "§ 57a",
+      "pdf_zeichen": 751,
+      "xml_zeichen": 751,
+      "identisch": true
+    },
+    {
+      "norm_index": 90,
+      "name": "§ 57b",
+      "pdf_zeichen": 250,
+      "xml_zeichen": 250,
+      "identisch": true
+    },
+    {
+      "norm_index": 91,
+      "name": "§ 58",
+      "pdf_zeichen": 521,
+      "xml_zeichen": 521,
+      "identisch": true
+    },
+    {
+      "norm_index": 92,
+      "name": "Fünfter TitelVerwarnung mit Strafvorbehalt\n\nAbsehen von Strafe",
+      "pdf_zeichen": 55,
+      "xml_zeichen": 55,
+      "identisch": true
+    },
+    {
+      "norm_index": 93,
+      "name": "§ 59",
+      "pdf_zeichen": 709,
+      "xml_zeichen": 709,
+      "identisch": true
+    },
+    {
+      "norm_index": 94,
+      "name": "§ 59a",
+      "pdf_zeichen": 1122,
+      "xml_zeichen": 1122,
+      "identisch": true
+    },
+    {
+      "norm_index": 95,
+      "name": "§ 59b",
+      "pdf_zeichen": 252,
+      "xml_zeichen": 252,
+      "identisch": true
+    },
+    {
+      "norm_index": 96,
+      "name": "§ 59c",
+      "pdf_zeichen": 442,
+      "xml_zeichen": 442,
+      "identisch": true
+    },
+    {
+      "norm_index": 97,
+      "name": "§ 60",
+      "pdf_zeichen": 244,
+      "xml_zeichen": 244,
+      "identisch": true
+    },
+    {
+      "norm_index": 98,
+      "name": "Sechster TitelMaßregeln der Besserung und\nSicherung",
+      "pdf_zeichen": 46,
+      "xml_zeichen": 46,
+      "identisch": true
+    },
+    {
+      "norm_index": 99,
+      "name": "§ 61",
+      "pdf_zeichen": 261,
+      "xml_zeichen": 261,
+      "identisch": true
+    },
+    {
+      "norm_index": 100,
+      "name": "§ 62",
+      "pdf_zeichen": 218,
+      "xml_zeichen": 218,
+      "identisch": true
+    },
+    {
+      "norm_index": 101,
+      "name": "Freiheitsentziehende Maßregeln",
+      "pdf_zeichen": 29,
+      "xml_zeichen": 29,
+      "identisch": true
+    },
+    {
+      "norm_index": 102,
+      "name": "§ 63",
+      "pdf_zeichen": 795,
+      "xml_zeichen": 795,
+      "identisch": true
+    },
+    {
+      "norm_index": 103,
+      "name": "§ 64",
+      "pdf_zeichen": 978,
+      "xml_zeichen": 978,
+      "identisch": true
+    },
+    {
+      "norm_index": 104,
+      "name": "§ 65",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 105,
+      "name": "§ 66",
+      "pdf_zeichen": 4183,
+      "xml_zeichen": 4183,
+      "identisch": true
+    },
+    {
+      "norm_index": 106,
+      "name": "§ 66a",
+      "pdf_zeichen": 1728,
+      "xml_zeichen": 1728,
+      "identisch": true
+    },
+    {
+      "norm_index": 107,
+      "name": "§ 66b",
+      "pdf_zeichen": 1454,
+      "xml_zeichen": 1454,
+      "identisch": true
+    },
+    {
+      "norm_index": 108,
+      "name": "§ 66c",
+      "pdf_zeichen": 2022,
+      "xml_zeichen": 2022,
+      "identisch": true
+    },
+    {
+      "norm_index": 109,
+      "name": "§ 67",
+      "pdf_zeichen": 2868,
+      "xml_zeichen": 2868,
+      "identisch": true
+    },
+    {
+      "norm_index": 110,
+      "name": "§ 67a",
+      "pdf_zeichen": 1455,
+      "xml_zeichen": 1455,
+      "identisch": true
+    },
+    {
+      "norm_index": 111,
+      "name": "§ 67b",
+      "pdf_zeichen": 471,
+      "xml_zeichen": 471,
+      "identisch": true
+    },
+    {
+      "norm_index": 112,
+      "name": "§ 67c",
+      "pdf_zeichen": 1444,
+      "xml_zeichen": 1444,
+      "identisch": true
+    },
+    {
+      "norm_index": 113,
+      "name": "§ 67d",
+      "pdf_zeichen": 2771,
+      "xml_zeichen": 2771,
+      "identisch": true
+    },
+    {
+      "norm_index": 114,
+      "name": "§ 67e",
+      "pdf_zeichen": 684,
+      "xml_zeichen": 684,
+      "identisch": true
+    },
+    {
+      "norm_index": 115,
+      "name": "§ 67f",
+      "pdf_zeichen": 138,
+      "xml_zeichen": 138,
+      "identisch": true
+    },
+    {
+      "norm_index": 116,
+      "name": "§ 67g",
+      "pdf_zeichen": 1357,
+      "xml_zeichen": 1357,
+      "identisch": true
+    },
+    {
+      "norm_index": 117,
+      "name": "§ 67h",
+      "pdf_zeichen": 665,
+      "xml_zeichen": 665,
+      "identisch": true
+    },
+    {
+      "norm_index": 118,
+      "name": "Führungsaufsicht",
+      "pdf_zeichen": 16,
+      "xml_zeichen": 16,
+      "identisch": true
+    },
+    {
+      "norm_index": 119,
+      "name": "§ 68",
+      "pdf_zeichen": 385,
+      "xml_zeichen": 385,
+      "identisch": true
+    },
+    {
+      "norm_index": 120,
+      "name": "§ 68a",
+      "pdf_zeichen": 2484,
+      "xml_zeichen": 2484,
+      "identisch": true
+    },
+    {
+      "norm_index": 121,
+      "name": "§ 68b",
+      "pdf_zeichen": 4785,
+      "xml_zeichen": 4785,
+      "identisch": true
+    },
+    {
+      "norm_index": 122,
+      "name": "§ 68c",
+      "pdf_zeichen": 2377,
+      "xml_zeichen": 2377,
+      "identisch": true
+    },
+    {
+      "norm_index": 123,
+      "name": "§ 68d",
+      "pdf_zeichen": 323,
+      "xml_zeichen": 323,
+      "identisch": true
+    },
+    {
+      "norm_index": 124,
+      "name": "§ 68e",
+      "pdf_zeichen": 1666,
+      "xml_zeichen": 1666,
+      "identisch": true
+    },
+    {
+      "norm_index": 125,
+      "name": "§ 68f",
+      "pdf_zeichen": 629,
+      "xml_zeichen": 629,
+      "identisch": true
+    },
+    {
+      "norm_index": 126,
+      "name": "§ 68g",
+      "pdf_zeichen": 848,
+      "xml_zeichen": 848,
+      "identisch": true
+    },
+    {
+      "norm_index": 127,
+      "name": "Entziehung der Fahrerlaubnis",
+      "pdf_zeichen": 26,
+      "xml_zeichen": 26,
+      "identisch": true
+    },
+    {
+      "norm_index": 128,
+      "name": "§ 69",
+      "pdf_zeichen": 1099,
+      "xml_zeichen": 1099,
+      "identisch": true
+    },
+    {
+      "norm_index": 129,
+      "name": "§ 69a",
+      "pdf_zeichen": 1610,
+      "xml_zeichen": 1610,
+      "identisch": true
+    },
+    {
+      "norm_index": 130,
+      "name": "§ 69b",
+      "pdf_zeichen": 1093,
+      "xml_zeichen": 1093,
+      "identisch": true
+    },
+    {
+      "norm_index": 131,
+      "name": "Berufsverbot",
+      "pdf_zeichen": 12,
+      "xml_zeichen": 12,
+      "identisch": true
+    },
+    {
+      "norm_index": 132,
+      "name": "§ 70",
+      "pdf_zeichen": 1588,
+      "xml_zeichen": 1588,
+      "identisch": true
+    },
+    {
+      "norm_index": 133,
+      "name": "§ 70a",
+      "pdf_zeichen": 775,
+      "xml_zeichen": 775,
+      "identisch": true
+    },
+    {
+      "norm_index": 134,
+      "name": "§ 70b",
+      "pdf_zeichen": 988,
+      "xml_zeichen": 988,
+      "identisch": true
+    },
+    {
+      "norm_index": 135,
+      "name": "Gemeinsame Vorschriften",
+      "pdf_zeichen": 22,
+      "xml_zeichen": 22,
+      "identisch": true
+    },
+    {
+      "norm_index": 136,
+      "name": "§ 71",
+      "pdf_zeichen": 306,
+      "xml_zeichen": 306,
+      "identisch": true
+    },
+    {
+      "norm_index": 137,
+      "name": "§ 72",
+      "pdf_zeichen": 607,
+      "xml_zeichen": 607,
+      "identisch": true
+    },
+    {
+      "norm_index": 138,
+      "name": "Siebenter TitelEinziehung",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 139,
+      "name": "§ 73",
+      "pdf_zeichen": 480,
+      "xml_zeichen": 480,
+      "identisch": true
+    },
+    {
+      "norm_index": 140,
+      "name": "§ 73a",
+      "pdf_zeichen": 491,
+      "xml_zeichen": 491,
+      "identisch": true
+    },
+    {
+      "norm_index": 141,
+      "name": "§ 73b",
+      "pdf_zeichen": 1178,
+      "xml_zeichen": 1178,
+      "identisch": true
+    },
+    {
+      "norm_index": 142,
+      "name": "§ 73c",
+      "pdf_zeichen": 451,
+      "xml_zeichen": 451,
+      "identisch": true
+    },
+    {
+      "norm_index": 143,
+      "name": "§ 73d",
+      "pdf_zeichen": 449,
+      "xml_zeichen": 449,
+      "identisch": true
+    },
+    {
+      "norm_index": 144,
+      "name": "§ 73e",
+      "pdf_zeichen": 816,
+      "xml_zeichen": 816,
+      "identisch": true
+    },
+    {
+      "norm_index": 145,
+      "name": "§ 74",
+      "pdf_zeichen": 592,
+      "xml_zeichen": 592,
+      "identisch": true
+    },
+    {
+      "norm_index": 146,
+      "name": "§ 74a",
+      "pdf_zeichen": 595,
+      "xml_zeichen": 595,
+      "identisch": true
+    },
+    {
+      "norm_index": 147,
+      "name": "§ 74b",
+      "pdf_zeichen": 1267,
+      "xml_zeichen": 1267,
+      "identisch": true
+    },
+    {
+      "norm_index": 148,
+      "name": "§ 74c",
+      "pdf_zeichen": 807,
+      "xml_zeichen": 807,
+      "identisch": true
+    },
+    {
+      "norm_index": 149,
+      "name": "§ 74d",
+      "pdf_zeichen": 1761,
+      "xml_zeichen": 1761,
+      "identisch": true
+    },
+    {
+      "norm_index": 150,
+      "name": "§ 74e",
+      "pdf_zeichen": 1030,
+      "xml_zeichen": 1030,
+      "identisch": true
+    },
+    {
+      "norm_index": 151,
+      "name": "§ 74f",
+      "pdf_zeichen": 915,
+      "xml_zeichen": 915,
+      "identisch": true
+    },
+    {
+      "norm_index": 152,
+      "name": "§ 75",
+      "pdf_zeichen": 1318,
+      "xml_zeichen": 1318,
+      "identisch": true
+    },
+    {
+      "norm_index": 153,
+      "name": "§ 76",
+      "pdf_zeichen": 300,
+      "xml_zeichen": 300,
+      "identisch": true
+    },
+    {
+      "norm_index": 154,
+      "name": "§ 76a",
+      "pdf_zeichen": 3651,
+      "xml_zeichen": 3651,
+      "identisch": true
+    },
+    {
+      "norm_index": 155,
+      "name": "§ 76b",
+      "pdf_zeichen": 536,
+      "xml_zeichen": 536,
+      "identisch": true
+    },
+    {
+      "norm_index": 156,
+      "name": "Vierter AbschnittStrafantrag, Ermächtigung,\nStrafverlangen",
+      "pdf_zeichen": 55,
+      "xml_zeichen": 55,
+      "identisch": true
+    },
+    {
+      "norm_index": 157,
+      "name": "§ 77",
+      "pdf_zeichen": 993,
+      "xml_zeichen": 993,
+      "identisch": true
+    },
+    {
+      "norm_index": 158,
+      "name": "§ 77a",
+      "pdf_zeichen": 888,
+      "xml_zeichen": 888,
+      "identisch": true
+    },
+    {
+      "norm_index": 159,
+      "name": "§ 77b",
+      "pdf_zeichen": 932,
+      "xml_zeichen": 932,
+      "identisch": true
+    },
+    {
+      "norm_index": 160,
+      "name": "§ 77c",
+      "pdf_zeichen": 362,
+      "xml_zeichen": 362,
+      "identisch": true
+    },
+    {
+      "norm_index": 161,
+      "name": "§ 77d",
+      "pdf_zeichen": 551,
+      "xml_zeichen": 551,
+      "identisch": true
+    },
+    {
+      "norm_index": 162,
+      "name": "§ 77e",
+      "pdf_zeichen": 127,
+      "xml_zeichen": 127,
+      "identisch": true
+    },
+    {
+      "norm_index": 163,
+      "name": "Fünfter AbschnittVerjährung",
+      "pdf_zeichen": 26,
+      "xml_zeichen": 26,
+      "identisch": true
+    },
+    {
+      "norm_index": 164,
+      "name": "Erster TitelVerfolgungsverjährung",
+      "pdf_zeichen": 32,
+      "xml_zeichen": 32,
+      "identisch": true
+    },
+    {
+      "norm_index": 165,
+      "name": "§ 78",
+      "pdf_zeichen": 847,
+      "xml_zeichen": 847,
+      "identisch": true
+    },
+    {
+      "norm_index": 166,
+      "name": "§ 78a",
+      "pdf_zeichen": 146,
+      "xml_zeichen": 146,
+      "identisch": true
+    },
+    {
+      "norm_index": 167,
+      "name": "§ 78b",
+      "pdf_zeichen": 2678,
+      "xml_zeichen": 2678,
+      "identisch": true
+    },
+    {
+      "norm_index": 168,
+      "name": "§ 78c",
+      "pdf_zeichen": 2619,
+      "xml_zeichen": 2619,
+      "identisch": true
+    },
+    {
+      "norm_index": 169,
+      "name": "Zweiter TitelVollstreckungsverjährung",
+      "pdf_zeichen": 36,
+      "xml_zeichen": 36,
+      "identisch": true
+    },
+    {
+      "norm_index": 170,
+      "name": "§ 79",
+      "pdf_zeichen": 1248,
+      "xml_zeichen": 1248,
+      "identisch": true
+    },
+    {
+      "norm_index": 171,
+      "name": "§ 79a",
+      "pdf_zeichen": 401,
+      "xml_zeichen": 401,
+      "identisch": true
+    },
+    {
+      "norm_index": 172,
+      "name": "§ 79b",
+      "pdf_zeichen": 261,
+      "xml_zeichen": 261,
+      "identisch": true
+    },
+    {
+      "norm_index": 173,
+      "name": "Besonderer Teil",
+      "pdf_zeichen": 14,
+      "xml_zeichen": 14,
+      "identisch": true
+    },
+    {
+      "norm_index": 174,
+      "name": "Erster AbschnittFriedensverrat, Hochverrat\nund Gefährdung des demokratischen Rechtsstaates",
+      "pdf_zeichen": 83,
+      "xml_zeichen": 83,
+      "identisch": true
+    },
+    {
+      "norm_index": 175,
+      "name": "Erster TitelFriedensverrat",
+      "pdf_zeichen": 25,
+      "xml_zeichen": 25,
+      "identisch": true
+    },
+    {
+      "norm_index": 176,
+      "name": "§ 80",
+      "pdf_zeichen": 16,
+      "xml_zeichen": 16,
+      "identisch": true
+    },
+    {
+      "norm_index": 177,
+      "name": "§ 80a",
+      "pdf_zeichen": 286,
+      "xml_zeichen": 286,
+      "identisch": true
+    },
+    {
+      "norm_index": 178,
+      "name": "Zweiter TitelHochverrat",
+      "pdf_zeichen": 22,
+      "xml_zeichen": 22,
+      "identisch": true
+    },
+    {
+      "norm_index": 179,
+      "name": "§ 81",
+      "pdf_zeichen": 396,
+      "xml_zeichen": 396,
+      "identisch": true
+    },
+    {
+      "norm_index": 180,
+      "name": "§ 82",
+      "pdf_zeichen": 436,
+      "xml_zeichen": 436,
+      "identisch": true
+    },
+    {
+      "norm_index": 181,
+      "name": "§ 83",
+      "pdf_zeichen": 380,
+      "xml_zeichen": 380,
+      "identisch": true
+    },
+    {
+      "norm_index": 182,
+      "name": "§ 83a",
+      "pdf_zeichen": 804,
+      "xml_zeichen": 804,
+      "identisch": true
+    },
+    {
+      "norm_index": 183,
+      "name": "Dritter TitelGefährdung des demokratischen\nRechtsstaates",
+      "pdf_zeichen": 52,
+      "xml_zeichen": 52,
+      "identisch": true
+    },
+    {
+      "norm_index": 184,
+      "name": "§ 84",
+      "pdf_zeichen": 1647,
+      "xml_zeichen": 1647,
+      "identisch": true
+    },
+    {
+      "norm_index": 185,
+      "name": "§ 85",
+      "pdf_zeichen": 897,
+      "xml_zeichen": 897,
+      "identisch": true
+    },
+    {
+      "norm_index": 186,
+      "name": "§ 86",
+      "pdf_zeichen": 2348,
+      "xml_zeichen": 2348,
+      "identisch": true
+    },
+    {
+      "norm_index": 187,
+      "name": "§ 86a",
+      "pdf_zeichen": 763,
+      "xml_zeichen": 763,
+      "identisch": true
+    },
+    {
+      "norm_index": 188,
+      "name": "§ 87",
+      "pdf_zeichen": 1729,
+      "xml_zeichen": 1729,
+      "identisch": true
+    },
+    {
+      "norm_index": 189,
+      "name": "§ 87a",
+      "pdf_zeichen": 395,
+      "xml_zeichen": 395,
+      "identisch": true
+    },
+    {
+      "norm_index": 190,
+      "name": "§ 88",
+      "pdf_zeichen": 966,
+      "xml_zeichen": 966,
+      "identisch": true
+    },
+    {
+      "norm_index": 191,
+      "name": "§ 89",
+      "pdf_zeichen": 551,
+      "xml_zeichen": 551,
+      "identisch": true
+    },
+    {
+      "norm_index": 192,
+      "name": "§ 89a",
+      "pdf_zeichen": 5797,
+      "xml_zeichen": 5797,
+      "identisch": true
+    },
+    {
+      "norm_index": 193,
+      "name": "§ 89b",
+      "pdf_zeichen": 1041,
+      "xml_zeichen": 1041,
+      "identisch": true
+    },
+    {
+      "norm_index": 194,
+      "name": "§ 89c",
+      "pdf_zeichen": 3529,
+      "xml_zeichen": 3529,
+      "identisch": true
+    },
+    {
+      "norm_index": 195,
+      "name": "§ 90",
+      "pdf_zeichen": 632,
+      "xml_zeichen": 632,
+      "identisch": true
+    },
+    {
+      "norm_index": 196,
+      "name": "§ 90a",
+      "pdf_zeichen": 933,
+      "xml_zeichen": 933,
+      "identisch": true
+    },
+    {
+      "norm_index": 197,
+      "name": "§ 90b",
+      "pdf_zeichen": 586,
+      "xml_zeichen": 586,
+      "identisch": true
+    },
+    {
+      "norm_index": 198,
+      "name": "§ 90c",
+      "pdf_zeichen": 434,
+      "xml_zeichen": 434,
+      "identisch": true
+    },
+    {
+      "norm_index": 199,
+      "name": "§ 91",
+      "pdf_zeichen": 1001,
+      "xml_zeichen": 1001,
+      "identisch": true
+    },
+    {
+      "norm_index": 200,
+      "name": "§ 91a",
+      "pdf_zeichen": 140,
+      "xml_zeichen": 140,
+      "identisch": true
+    },
+    {
+      "norm_index": 201,
+      "name": "Vierter TitelGemeinsame Vorschriften",
+      "pdf_zeichen": 34,
+      "xml_zeichen": 34,
+      "identisch": true
+    },
+    {
+      "norm_index": 202,
+      "name": "§ 92",
+      "pdf_zeichen": 1408,
+      "xml_zeichen": 1408,
+      "identisch": true
+    },
+    {
+      "norm_index": 203,
+      "name": "§ 92a",
+      "pdf_zeichen": 296,
+      "xml_zeichen": 296,
+      "identisch": true
+    },
+    {
+      "norm_index": 204,
+      "name": "§ 92b",
+      "pdf_zeichen": 297,
+      "xml_zeichen": 297,
+      "identisch": true
+    },
+    {
+      "norm_index": 205,
+      "name": "Zweiter AbschnittLandesverrat und Gefährdung der\näußeren Sicherheit",
+      "pdf_zeichen": 61,
+      "xml_zeichen": 61,
+      "identisch": true
+    },
+    {
+      "norm_index": 206,
+      "name": "§ 93",
+      "pdf_zeichen": 517,
+      "xml_zeichen": 517,
+      "identisch": true
+    },
+    {
+      "norm_index": 207,
+      "name": "§ 94",
+      "pdf_zeichen": 771,
+      "xml_zeichen": 771,
+      "identisch": true
+    },
+    {
+      "norm_index": 208,
+      "name": "§ 95",
+      "pdf_zeichen": 522,
+      "xml_zeichen": 522,
+      "identisch": true
+    },
+    {
+      "norm_index": 209,
+      "name": "§ 96",
+      "pdf_zeichen": 400,
+      "xml_zeichen": 400,
+      "identisch": true
+    },
+    {
+      "norm_index": 210,
+      "name": "§ 97",
+      "pdf_zeichen": 833,
+      "xml_zeichen": 833,
+      "identisch": true
+    },
+    {
+      "norm_index": 211,
+      "name": "§ 97a",
+      "pdf_zeichen": 408,
+      "xml_zeichen": 408,
+      "identisch": true
+    },
+    {
+      "norm_index": 212,
+      "name": "§ 97b",
+      "pdf_zeichen": 877,
+      "xml_zeichen": 877,
+      "identisch": true
+    },
+    {
+      "norm_index": 213,
+      "name": "§ 98",
+      "pdf_zeichen": 920,
+      "xml_zeichen": 920,
+      "identisch": true
+    },
+    {
+      "norm_index": 214,
+      "name": "§ 99",
+      "pdf_zeichen": 628,
+      "xml_zeichen": 628,
+      "identisch": true
+    },
+    {
+      "norm_index": 215,
+      "name": "§ 100",
+      "pdf_zeichen": 750,
+      "xml_zeichen": 750,
+      "identisch": true
+    },
+    {
+      "norm_index": 216,
+      "name": "§ 100a",
+      "pdf_zeichen": 1295,
+      "xml_zeichen": 1295,
+      "identisch": true
+    },
+    {
+      "norm_index": 217,
+      "name": "§ 101",
+      "pdf_zeichen": 309,
+      "xml_zeichen": 309,
+      "identisch": true
+    },
+    {
+      "norm_index": 218,
+      "name": "§ 101a",
+      "pdf_zeichen": 610,
+      "xml_zeichen": 610,
+      "identisch": true
+    },
+    {
+      "norm_index": 219,
+      "name": "Dritter AbschnittStraftaten gegen ausländische\nStaaten",
+      "pdf_zeichen": 50,
+      "xml_zeichen": 50,
+      "identisch": true
+    },
+    {
+      "norm_index": 220,
+      "name": "§ 102",
+      "pdf_zeichen": 692,
+      "xml_zeichen": 692,
+      "identisch": true
+    },
+    {
+      "norm_index": 221,
+      "name": "§ 103",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 222,
+      "name": "§ 104",
+      "pdf_zeichen": 657,
+      "xml_zeichen": 657,
+      "identisch": true
+    },
+    {
+      "norm_index": 223,
+      "name": "§ 104a",
+      "pdf_zeichen": 221,
+      "xml_zeichen": 221,
+      "identisch": true
+    },
+    {
+      "norm_index": 224,
+      "name": "Vierter AbschnittStraftaten gegen Verfassungsorgane\nsowie bei Wahlen und Abstimmungen",
+      "pdf_zeichen": 77,
+      "xml_zeichen": 77,
+      "identisch": true
+    },
+    {
+      "norm_index": 225,
+      "name": "§ 105",
+      "pdf_zeichen": 474,
+      "xml_zeichen": 474,
+      "identisch": true
+    },
+    {
+      "norm_index": 226,
+      "name": "§ 106",
+      "pdf_zeichen": 550,
+      "xml_zeichen": 550,
+      "identisch": true
+    },
+    {
+      "norm_index": 227,
+      "name": "§ 106a",
+      "pdf_zeichen": 19,
+      "xml_zeichen": 19,
+      "identisch": true
+    },
+    {
+      "norm_index": 228,
+      "name": "§ 106b",
+      "pdf_zeichen": 791,
+      "xml_zeichen": 791,
+      "identisch": true
+    },
+    {
+      "norm_index": 229,
+      "name": "§ 107",
+      "pdf_zeichen": 273,
+      "xml_zeichen": 273,
+      "identisch": true
+    },
+    {
+      "norm_index": 230,
+      "name": "§ 107a",
+      "pdf_zeichen": 450,
+      "xml_zeichen": 450,
+      "identisch": true
+    },
+    {
+      "norm_index": 231,
+      "name": "§ 107b",
+      "pdf_zeichen": 633,
+      "xml_zeichen": 633,
+      "identisch": true
+    },
+    {
+      "norm_index": 232,
+      "name": "§ 107c",
+      "pdf_zeichen": 246,
+      "xml_zeichen": 246,
+      "identisch": true
+    },
+    {
+      "norm_index": 233,
+      "name": "§ 108",
+      "pdf_zeichen": 445,
+      "xml_zeichen": 445,
+      "identisch": true
+    },
+    {
+      "norm_index": 234,
+      "name": "§ 108a",
+      "pdf_zeichen": 238,
+      "xml_zeichen": 238,
+      "identisch": true
+    },
+    {
+      "norm_index": 235,
+      "name": "§ 108b",
+      "pdf_zeichen": 347,
+      "xml_zeichen": 347,
+      "identisch": true
+    },
+    {
+      "norm_index": 236,
+      "name": "§ 108c",
+      "pdf_zeichen": 265,
+      "xml_zeichen": 265,
+      "identisch": true
+    },
+    {
+      "norm_index": 237,
+      "name": "§ 108d",
+      "pdf_zeichen": 457,
+      "xml_zeichen": 457,
+      "identisch": true
+    },
+    {
+      "norm_index": 238,
+      "name": "§ 108e",
+      "pdf_zeichen": 1704,
+      "xml_zeichen": 1704,
+      "identisch": true
+    },
+    {
+      "norm_index": 239,
+      "name": "§ 108f",
+      "pdf_zeichen": 1248,
+      "xml_zeichen": 1248,
+      "identisch": true
+    },
+    {
+      "norm_index": 240,
+      "name": "Fünfter AbschnittStraftaten gegen die\nLandesverteidigung",
+      "pdf_zeichen": 52,
+      "xml_zeichen": 52,
+      "identisch": true
+    },
+    {
+      "norm_index": 241,
+      "name": "§ 109",
+      "pdf_zeichen": 422,
+      "xml_zeichen": 422,
+      "identisch": true
+    },
+    {
+      "norm_index": 242,
+      "name": "§ 109a",
+      "pdf_zeichen": 310,
+      "xml_zeichen": 310,
+      "identisch": true
+    },
+    {
+      "norm_index": 243,
+      "name": "(XXXX) §§ 109b und 109c",
+      "pdf_zeichen": 26,
+      "xml_zeichen": 26,
+      "identisch": true
+    },
+    {
+      "norm_index": 244,
+      "name": "§ 109d",
+      "pdf_zeichen": 434,
+      "xml_zeichen": 434,
+      "identisch": true
+    },
+    {
+      "norm_index": 245,
+      "name": "§ 109e",
+      "pdf_zeichen": 970,
+      "xml_zeichen": 970,
+      "identisch": true
+    },
+    {
+      "norm_index": 246,
+      "name": "§ 109f",
+      "pdf_zeichen": 814,
+      "xml_zeichen": 814,
+      "identisch": true
+    },
+    {
+      "norm_index": 247,
+      "name": "§ 109g",
+      "pdf_zeichen": 1153,
+      "xml_zeichen": 1153,
+      "identisch": true
+    },
+    {
+      "norm_index": 248,
+      "name": "§ 109h",
+      "pdf_zeichen": 305,
+      "xml_zeichen": 305,
+      "identisch": true
+    },
+    {
+      "norm_index": 249,
+      "name": "§ 109i",
+      "pdf_zeichen": 295,
+      "xml_zeichen": 295,
+      "identisch": true
+    },
+    {
+      "norm_index": 250,
+      "name": "§ 109k",
+      "pdf_zeichen": 519,
+      "xml_zeichen": 519,
+      "identisch": true
+    },
+    {
+      "norm_index": 251,
+      "name": "Sechster AbschnittWiderstand gegen die Staatsgewalt",
+      "pdf_zeichen": 47,
+      "xml_zeichen": 47,
+      "identisch": true
+    },
+    {
+      "norm_index": 252,
+      "name": "§ 110",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 253,
+      "name": "§ 111",
+      "pdf_zeichen": 405,
+      "xml_zeichen": 405,
+      "identisch": true
+    },
+    {
+      "norm_index": 254,
+      "name": "§ 112",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 255,
+      "name": "§ 113",
+      "pdf_zeichen": 1487,
+      "xml_zeichen": 1487,
+      "identisch": true
+    },
+    {
+      "norm_index": 256,
+      "name": "§ 114",
+      "pdf_zeichen": 430,
+      "xml_zeichen": 430,
+      "identisch": true
+    },
+    {
+      "norm_index": 257,
+      "name": "§ 115",
+      "pdf_zeichen": 687,
+      "xml_zeichen": 687,
+      "identisch": true
+    },
+    {
+      "norm_index": 258,
+      "name": "(XXXX) §§ 116 bis 119",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 259,
+      "name": "§ 120",
+      "pdf_zeichen": 480,
+      "xml_zeichen": 480,
+      "identisch": true
+    },
+    {
+      "norm_index": 260,
+      "name": "§ 121",
+      "pdf_zeichen": 915,
+      "xml_zeichen": 915,
+      "identisch": true
+    },
+    {
+      "norm_index": 261,
+      "name": "§ 122",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 262,
+      "name": "Siebenter AbschnittStraftaten gegen die\nöffentliche Ordnung",
+      "pdf_zeichen": 54,
+      "xml_zeichen": 54,
+      "identisch": true
+    },
+    {
+      "norm_index": 263,
+      "name": "§ 123",
+      "pdf_zeichen": 387,
+      "xml_zeichen": 387,
+      "identisch": true
+    },
+    {
+      "norm_index": 264,
+      "name": "§ 124",
+      "pdf_zeichen": 431,
+      "xml_zeichen": 431,
+      "identisch": true
+    },
+    {
+      "norm_index": 265,
+      "name": "§ 125",
+      "pdf_zeichen": 610,
+      "xml_zeichen": 610,
+      "identisch": true
+    },
+    {
+      "norm_index": 266,
+      "name": "§ 125a",
+      "pdf_zeichen": 452,
+      "xml_zeichen": 452,
+      "identisch": true
+    },
+    {
+      "norm_index": 267,
+      "name": "§ 126",
+      "pdf_zeichen": 1421,
+      "xml_zeichen": 1421,
+      "identisch": true
+    },
+    {
+      "norm_index": 268,
+      "name": "§ 126a",
+      "pdf_zeichen": 712,
+      "xml_zeichen": 712,
+      "identisch": true
+    },
+    {
+      "norm_index": 269,
+      "name": "§ 127",
+      "pdf_zeichen": 2012,
+      "xml_zeichen": 2009,
+      "identisch": false,
+      "abweichungen": [
+        {
+          "art": "replace",
+          "xml": "ö",
+          "pdf": "̈o",
+          "davor": "erichtetist,dieBegehungvonrechtswidrigenTatenzuerm",
+          "danach": "glichenoderzufördern,wirdmitFreiheitsstrafebiszufü"
+        },
+        {
+          "art": "replace",
+          "xml": "ö",
+          "pdf": "̈o",
+          "davor": "BegehungvonrechtswidrigenTatenzuermöglichenoderzuf",
+          "danach": "rdern,wirdmitFreiheitsstrafebiszufünfJahrenodermit"
+        },
+        {
+          "art": "replace",
+          "xml": "tä",
+          "pdf": "ẗa",
+          "davor": "1,auchinVerbindungmitAbsatz6,sowieAbsatz2und3desBe",
+          "danach": "ubungsmittelgesetzes,d)§19Absatz1bis3desGrundstoff"
+        },
+        {
+          "art": "replace",
+          "xml": "ü",
+          "pdf": "̈u",
+          "davor": "ubungsmittelgesetzes,d)§19Absatz1bis3desGrundstoff",
+          "danach": "berwachungsgesetzes,e)§4Absatz1und2desNeue-psychoa"
+        }
+      ],
+      "ausnahmepruefung": {
+        "grund": "Vier im PDF-Text vor statt nach dem Vokal ausgegebene kombinierende Umlautzeichen; Original-PDF Seite 84 visuell geprüft. XML enthält korrekt zugeordnete Zeichen. Nur diese vier konkret benannten Zeichenfolgen werden für den Vergleich korrigiert.",
+        "ersetzungen": {
+          "erm̈oglichen": "ermöglichen",
+          "f̈ordern": "fördern",
+          "Beẗaubungsmittelgesetzes": "Betäubungsmittelgesetzes",
+          "Grundstoff̈uberwachungsgesetzes": "Grundstoffüberwachungsgesetzes"
+        },
+        "vorkommen": {
+          "erm̈oglichen": 1,
+          "f̈ordern": 1,
+          "Beẗaubungsmittelgesetzes": 1,
+          "Grundstoff̈uberwachungsgesetzes": 1
+        },
+        "nach_gezielter_korrektur_identisch": true,
+        "visueller_beleg": "StGB_Seite_84.png"
+      }
+    },
+    {
+      "norm_index": 270,
+      "name": "§ 128",
+      "pdf_zeichen": 273,
+      "xml_zeichen": 273,
+      "identisch": true
+    },
+    {
+      "norm_index": 271,
+      "name": "§ 129",
+      "pdf_zeichen": 2368,
+      "xml_zeichen": 2368,
+      "identisch": true
+    },
+    {
+      "norm_index": 272,
+      "name": "§ 129a",
+      "pdf_zeichen": 3221,
+      "xml_zeichen": 3221,
+      "identisch": true
+    },
+    {
+      "norm_index": 273,
+      "name": "§ 129b",
+      "pdf_zeichen": 976,
+      "xml_zeichen": 976,
+      "identisch": true
+    },
+    {
+      "norm_index": 274,
+      "name": "§ 130",
+      "pdf_zeichen": 2941,
+      "xml_zeichen": 2941,
+      "identisch": true
+    },
+    {
+      "norm_index": 275,
+      "name": "§ 130a",
+      "pdf_zeichen": 708,
+      "xml_zeichen": 708,
+      "identisch": true
+    },
+    {
+      "norm_index": 276,
+      "name": "§ 131",
+      "pdf_zeichen": 1122,
+      "xml_zeichen": 1122,
+      "identisch": true
+    },
+    {
+      "norm_index": 277,
+      "name": "§ 132",
+      "pdf_zeichen": 219,
+      "xml_zeichen": 219,
+      "identisch": true
+    },
+    {
+      "norm_index": 278,
+      "name": "§ 132a",
+      "pdf_zeichen": 1070,
+      "xml_zeichen": 1070,
+      "identisch": true
+    },
+    {
+      "norm_index": 279,
+      "name": "§ 133",
+      "pdf_zeichen": 742,
+      "xml_zeichen": 742,
+      "identisch": true
+    },
+    {
+      "norm_index": 280,
+      "name": "§ 134",
+      "pdf_zeichen": 276,
+      "xml_zeichen": 276,
+      "identisch": true
+    },
+    {
+      "norm_index": 281,
+      "name": "§ 135",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 282,
+      "name": "§ 136",
+      "pdf_zeichen": 760,
+      "xml_zeichen": 760,
+      "identisch": true
+    },
+    {
+      "norm_index": 283,
+      "name": "§ 137",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 284,
+      "name": "§ 138",
+      "pdf_zeichen": 1899,
+      "xml_zeichen": 1899,
+      "identisch": true
+    },
+    {
+      "norm_index": 285,
+      "name": "§ 139",
+      "pdf_zeichen": 1558,
+      "xml_zeichen": 1558,
+      "identisch": true
+    },
+    {
+      "norm_index": 286,
+      "name": "§ 140",
+      "pdf_zeichen": 476,
+      "xml_zeichen": 476,
+      "identisch": true
+    },
+    {
+      "norm_index": 287,
+      "name": "§ 141",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 288,
+      "name": "§ 142",
+      "pdf_zeichen": 1602,
+      "xml_zeichen": 1602,
+      "identisch": true
+    },
+    {
+      "norm_index": 289,
+      "name": "§ 143",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 290,
+      "name": "§ 144",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 291,
+      "name": "§ 145",
+      "pdf_zeichen": 814,
+      "xml_zeichen": 814,
+      "identisch": true
+    },
+    {
+      "norm_index": 292,
+      "name": "§ 145a",
+      "pdf_zeichen": 300,
+      "xml_zeichen": 300,
+      "identisch": true
+    },
+    {
+      "norm_index": 293,
+      "name": "§ 145b",
+      "pdf_zeichen": 19,
+      "xml_zeichen": 19,
+      "identisch": true
+    },
+    {
+      "norm_index": 294,
+      "name": "§ 145c",
+      "pdf_zeichen": 281,
+      "xml_zeichen": 281,
+      "identisch": true
+    },
+    {
+      "norm_index": 295,
+      "name": "§ 145d",
+      "pdf_zeichen": 1446,
+      "xml_zeichen": 1446,
+      "identisch": true
+    },
+    {
+      "norm_index": 296,
+      "name": "Achter AbschnittGeld- und Wertzeichenfälschung",
+      "pdf_zeichen": 43,
+      "xml_zeichen": 43,
+      "identisch": true
+    },
+    {
+      "norm_index": 297,
+      "name": "§ 146",
+      "pdf_zeichen": 796,
+      "xml_zeichen": 796,
+      "identisch": true
+    },
+    {
+      "norm_index": 298,
+      "name": "§ 147",
+      "pdf_zeichen": 192,
+      "xml_zeichen": 192,
+      "identisch": true
+    },
+    {
+      "norm_index": 299,
+      "name": "§ 148",
+      "pdf_zeichen": 697,
+      "xml_zeichen": 697,
+      "identisch": true
+    },
+    {
+      "norm_index": 300,
+      "name": "§ 149",
+      "pdf_zeichen": 1344,
+      "xml_zeichen": 1344,
+      "identisch": true
+    },
+    {
+      "norm_index": 301,
+      "name": "§ 150",
+      "pdf_zeichen": 174,
+      "xml_zeichen": 174,
+      "identisch": true
+    },
+    {
+      "norm_index": 302,
+      "name": "§ 151",
+      "pdf_zeichen": 535,
+      "xml_zeichen": 535,
+      "identisch": true
+    },
+    {
+      "norm_index": 303,
+      "name": "§ 152",
+      "pdf_zeichen": 154,
+      "xml_zeichen": 154,
+      "identisch": true
+    },
+    {
+      "norm_index": 304,
+      "name": "§ 152a",
+      "pdf_zeichen": 1043,
+      "xml_zeichen": 1043,
+      "identisch": true
+    },
+    {
+      "norm_index": 305,
+      "name": "§ 152b",
+      "pdf_zeichen": 885,
+      "xml_zeichen": 885,
+      "identisch": true
+    },
+    {
+      "norm_index": 306,
+      "name": "§ 152c",
+      "pdf_zeichen": 743,
+      "xml_zeichen": 743,
+      "identisch": true
+    },
+    {
+      "norm_index": 307,
+      "name": "Neunter AbschnittFalsche uneidliche Aussage\nund Meineid",
+      "pdf_zeichen": 50,
+      "xml_zeichen": 50,
+      "identisch": true
+    },
+    {
+      "norm_index": 308,
+      "name": "§ 153",
+      "pdf_zeichen": 239,
+      "xml_zeichen": 239,
+      "identisch": true
+    },
+    {
+      "norm_index": 309,
+      "name": "§ 154",
+      "pdf_zeichen": 228,
+      "xml_zeichen": 228,
+      "identisch": true
+    },
+    {
+      "norm_index": 310,
+      "name": "§ 155",
+      "pdf_zeichen": 145,
+      "xml_zeichen": 145,
+      "identisch": true
+    },
+    {
+      "norm_index": 311,
+      "name": "§ 156",
+      "pdf_zeichen": 256,
+      "xml_zeichen": 256,
+      "identisch": true
+    },
+    {
+      "norm_index": 312,
+      "name": "§ 157",
+      "pdf_zeichen": 568,
+      "xml_zeichen": 568,
+      "identisch": true
+    },
+    {
+      "norm_index": 313,
+      "name": "§ 158",
+      "pdf_zeichen": 639,
+      "xml_zeichen": 639,
+      "identisch": true
+    },
+    {
+      "norm_index": 314,
+      "name": "§ 159",
+      "pdf_zeichen": 201,
+      "xml_zeichen": 201,
+      "identisch": true
+    },
+    {
+      "norm_index": 315,
+      "name": "§ 160",
+      "pdf_zeichen": 385,
+      "xml_zeichen": 385,
+      "identisch": true
+    },
+    {
+      "norm_index": 316,
+      "name": "§ 161",
+      "pdf_zeichen": 335,
+      "xml_zeichen": 335,
+      "identisch": true
+    },
+    {
+      "norm_index": 317,
+      "name": "§ 162",
+      "pdf_zeichen": 432,
+      "xml_zeichen": 432,
+      "identisch": true
+    },
+    {
+      "norm_index": 318,
+      "name": "§ 163",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 319,
+      "name": "Zehnter AbschnittFalsche Verdächtigung",
+      "pdf_zeichen": 36,
+      "xml_zeichen": 36,
+      "identisch": true
+    },
+    {
+      "norm_index": 320,
+      "name": "§ 164",
+      "pdf_zeichen": 1086,
+      "xml_zeichen": 1086,
+      "identisch": true
+    },
+    {
+      "norm_index": 321,
+      "name": "§ 165",
+      "pdf_zeichen": 436,
+      "xml_zeichen": 436,
+      "identisch": true
+    },
+    {
+      "norm_index": 322,
+      "name": "Elfter AbschnittStraftaten, welche sich auf\nReligion und Weltanschauung beziehen",
+      "pdf_zeichen": 72,
+      "xml_zeichen": 72,
+      "identisch": true
+    },
+    {
+      "norm_index": 323,
+      "name": "§ 166",
+      "pdf_zeichen": 608,
+      "xml_zeichen": 608,
+      "identisch": true
+    },
+    {
+      "norm_index": 324,
+      "name": "§ 167",
+      "pdf_zeichen": 450,
+      "xml_zeichen": 450,
+      "identisch": true
+    },
+    {
+      "norm_index": 325,
+      "name": "§ 167a",
+      "pdf_zeichen": 151,
+      "xml_zeichen": 151,
+      "identisch": true
+    },
+    {
+      "norm_index": 326,
+      "name": "§ 168",
+      "pdf_zeichen": 485,
+      "xml_zeichen": 485,
+      "identisch": true
+    },
+    {
+      "norm_index": 327,
+      "name": "Zwölfter AbschnittStraftaten gegen den\nPersonenstand, die Ehe und die Familie",
+      "pdf_zeichen": 68,
+      "xml_zeichen": 68,
+      "identisch": true
+    },
+    {
+      "norm_index": 328,
+      "name": "§ 169",
+      "pdf_zeichen": 304,
+      "xml_zeichen": 304,
+      "identisch": true
+    },
+    {
+      "norm_index": 329,
+      "name": "§ 170",
+      "pdf_zeichen": 537,
+      "xml_zeichen": 537,
+      "identisch": true
+    },
+    {
+      "norm_index": 330,
+      "name": "§ 171",
+      "pdf_zeichen": 391,
+      "xml_zeichen": 391,
+      "identisch": true
+    },
+    {
+      "norm_index": 331,
+      "name": "§ 172",
+      "pdf_zeichen": 671,
+      "xml_zeichen": 671,
+      "identisch": true
+    },
+    {
+      "norm_index": 332,
+      "name": "§ 173",
+      "pdf_zeichen": 546,
+      "xml_zeichen": 546,
+      "identisch": true
+    },
+    {
+      "norm_index": 333,
+      "name": "Dreizehnter AbschnittStraftaten gegen die\nsexuelle Selbstbestimmung",
+      "pdf_zeichen": 62,
+      "xml_zeichen": 62,
+      "identisch": true
+    },
+    {
+      "norm_index": 334,
+      "name": "§ 174",
+      "pdf_zeichen": 2270,
+      "xml_zeichen": 2270,
+      "identisch": true
+    },
+    {
+      "norm_index": 335,
+      "name": "§ 174a",
+      "pdf_zeichen": 942,
+      "xml_zeichen": 942,
+      "identisch": true
+    },
+    {
+      "norm_index": 336,
+      "name": "§ 174b",
+      "pdf_zeichen": 583,
+      "xml_zeichen": 583,
+      "identisch": true
+    },
+    {
+      "norm_index": 337,
+      "name": "§ 174c",
+      "pdf_zeichen": 888,
+      "xml_zeichen": 888,
+      "identisch": true
+    },
+    {
+      "norm_index": 338,
+      "name": "§ 175",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 339,
+      "name": "§ 176",
+      "pdf_zeichen": 697,
+      "xml_zeichen": 697,
+      "identisch": true
+    },
+    {
+      "norm_index": 340,
+      "name": "§ 176a",
+      "pdf_zeichen": 814,
+      "xml_zeichen": 814,
+      "identisch": true
+    },
+    {
+      "norm_index": 341,
+      "name": "§ 176b",
+      "pdf_zeichen": 705,
+      "xml_zeichen": 705,
+      "identisch": true
+    },
+    {
+      "norm_index": 342,
+      "name": "§ 176c",
+      "pdf_zeichen": 1657,
+      "xml_zeichen": 1657,
+      "identisch": true
+    },
+    {
+      "norm_index": 343,
+      "name": "§ 176d",
+      "pdf_zeichen": 226,
+      "xml_zeichen": 226,
+      "identisch": true
+    },
+    {
+      "norm_index": 344,
+      "name": "§ 176e",
+      "pdf_zeichen": 1736,
+      "xml_zeichen": 1736,
+      "identisch": true
+    },
+    {
+      "norm_index": 345,
+      "name": "§ 177",
+      "pdf_zeichen": 2688,
+      "xml_zeichen": 2688,
+      "identisch": true
+    },
+    {
+      "norm_index": 346,
+      "name": "§ 178",
+      "pdf_zeichen": 275,
+      "xml_zeichen": 275,
+      "identisch": true
+    },
+    {
+      "norm_index": 347,
+      "name": "§ 179",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 348,
+      "name": "§ 180",
+      "pdf_zeichen": 828,
+      "xml_zeichen": 828,
+      "identisch": true
+    },
+    {
+      "norm_index": 349,
+      "name": "§ 180a",
+      "pdf_zeichen": 522,
+      "xml_zeichen": 522,
+      "identisch": true
+    },
+    {
+      "norm_index": 350,
+      "name": "(XXXX) §§ 180b und 181",
+      "pdf_zeichen": 25,
+      "xml_zeichen": 25,
+      "identisch": true
+    },
+    {
+      "norm_index": 351,
+      "name": "§ 181a",
+      "pdf_zeichen": 939,
+      "xml_zeichen": 939,
+      "identisch": true
+    },
+    {
+      "norm_index": 352,
+      "name": "§ 181b",
+      "pdf_zeichen": 122,
+      "xml_zeichen": 122,
+      "identisch": true
+    },
+    {
+      "norm_index": 353,
+      "name": "§ 182",
+      "pdf_zeichen": 1361,
+      "xml_zeichen": 1361,
+      "identisch": true
+    },
+    {
+      "norm_index": 354,
+      "name": "§ 183",
+      "pdf_zeichen": 780,
+      "xml_zeichen": 780,
+      "identisch": true
+    },
+    {
+      "norm_index": 355,
+      "name": "§ 183a",
+      "pdf_zeichen": 232,
+      "xml_zeichen": 232,
+      "identisch": true
+    },
+    {
+      "norm_index": 356,
+      "name": "§ 184",
+      "pdf_zeichen": 1925,
+      "xml_zeichen": 1925,
+      "identisch": true
+    },
+    {
+      "norm_index": 357,
+      "name": "§ 184a",
+      "pdf_zeichen": 530,
+      "xml_zeichen": 530,
+      "identisch": true
+    },
+    {
+      "norm_index": 358,
+      "name": "§ 184b",
+      "pdf_zeichen": 2780,
+      "xml_zeichen": 2780,
+      "identisch": true
+    },
+    {
+      "norm_index": 359,
+      "name": "§ 184c",
+      "pdf_zeichen": 2121,
+      "xml_zeichen": 2121,
+      "identisch": true
+    },
+    {
+      "norm_index": 360,
+      "name": "§ 184d",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 361,
+      "name": "§ 184e",
+      "pdf_zeichen": 443,
+      "xml_zeichen": 443,
+      "identisch": true
+    },
+    {
+      "norm_index": 362,
+      "name": "§ 184f",
+      "pdf_zeichen": 287,
+      "xml_zeichen": 287,
+      "identisch": true
+    },
+    {
+      "norm_index": 363,
+      "name": "§ 184g",
+      "pdf_zeichen": 327,
+      "xml_zeichen": 327,
+      "identisch": true
+    },
+    {
+      "norm_index": 364,
+      "name": "§ 184h",
+      "pdf_zeichen": 269,
+      "xml_zeichen": 269,
+      "identisch": true
+    },
+    {
+      "norm_index": 365,
+      "name": "§ 184i",
+      "pdf_zeichen": 600,
+      "xml_zeichen": 600,
+      "identisch": true
+    },
+    {
+      "norm_index": 366,
+      "name": "§ 184j",
+      "pdf_zeichen": 357,
+      "xml_zeichen": 357,
+      "identisch": true
+    },
+    {
+      "norm_index": 367,
+      "name": "§ 184k",
+      "pdf_zeichen": 1137,
+      "xml_zeichen": 1137,
+      "identisch": true
+    },
+    {
+      "norm_index": 368,
+      "name": "§ 184l",
+      "pdf_zeichen": 1395,
+      "xml_zeichen": 1395,
+      "identisch": true
+    },
+    {
+      "norm_index": 369,
+      "name": "Vierzehnter AbschnittBeleidigung",
+      "pdf_zeichen": 31,
+      "xml_zeichen": 31,
+      "identisch": true
+    },
+    {
+      "norm_index": 370,
+      "name": "§ 185",
+      "pdf_zeichen": 272,
+      "xml_zeichen": 272,
+      "identisch": true
+    },
+    {
+      "norm_index": 371,
+      "name": "§ 186",
+      "pdf_zeichen": 421,
+      "xml_zeichen": 421,
+      "identisch": true
+    },
+    {
+      "norm_index": 372,
+      "name": "§ 187",
+      "pdf_zeichen": 433,
+      "xml_zeichen": 433,
+      "identisch": true
+    },
+    {
+      "norm_index": 373,
+      "name": "§ 188",
+      "pdf_zeichen": 694,
+      "xml_zeichen": 694,
+      "identisch": true
+    },
+    {
+      "norm_index": 374,
+      "name": "§ 189",
+      "pdf_zeichen": 149,
+      "xml_zeichen": 149,
+      "identisch": true
+    },
+    {
+      "norm_index": 375,
+      "name": "§ 190",
+      "pdf_zeichen": 327,
+      "xml_zeichen": 327,
+      "identisch": true
+    },
+    {
+      "norm_index": 376,
+      "name": "§ 191",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 377,
+      "name": "§ 192",
+      "pdf_zeichen": 261,
+      "xml_zeichen": 261,
+      "identisch": true
+    },
+    {
+      "norm_index": 378,
+      "name": "§ 192a",
+      "pdf_zeichen": 553,
+      "xml_zeichen": 553,
+      "identisch": true
+    },
+    {
+      "norm_index": 379,
+      "name": "§ 193",
+      "pdf_zeichen": 527,
+      "xml_zeichen": 527,
+      "identisch": true
+    },
+    {
+      "norm_index": 380,
+      "name": "§ 194",
+      "pdf_zeichen": 2187,
+      "xml_zeichen": 2187,
+      "identisch": true
+    },
+    {
+      "norm_index": 381,
+      "name": "(XXXX) §§ 195 bis 198",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 382,
+      "name": "§ 199",
+      "pdf_zeichen": 153,
+      "xml_zeichen": 153,
+      "identisch": true
+    },
+    {
+      "norm_index": 383,
+      "name": "§ 200",
+      "pdf_zeichen": 474,
+      "xml_zeichen": 474,
+      "identisch": true
+    },
+    {
+      "norm_index": 384,
+      "name": "Fünfzehnter AbschnittVerletzung des persönlichen\nLebens- und Geheimbereichs",
+      "pdf_zeichen": 69,
+      "xml_zeichen": 69,
+      "identisch": true
+    },
+    {
+      "norm_index": 385,
+      "name": "§ 201",
+      "pdf_zeichen": 1121,
+      "xml_zeichen": 1121,
+      "identisch": true
+    },
+    {
+      "norm_index": 386,
+      "name": "§ 201a",
+      "pdf_zeichen": 2004,
+      "xml_zeichen": 2004,
+      "identisch": true
+    },
+    {
+      "norm_index": 387,
+      "name": "§ 202",
+      "pdf_zeichen": 675,
+      "xml_zeichen": 675,
+      "identisch": true
+    },
+    {
+      "norm_index": 388,
+      "name": "§ 202a",
+      "pdf_zeichen": 395,
+      "xml_zeichen": 395,
+      "identisch": true
+    },
+    {
+      "norm_index": 389,
+      "name": "§ 202b",
+      "pdf_zeichen": 375,
+      "xml_zeichen": 375,
+      "identisch": true
+    },
+    {
+      "norm_index": 390,
+      "name": "§ 202c",
+      "pdf_zeichen": 454,
+      "xml_zeichen": 454,
+      "identisch": true
+    },
+    {
+      "norm_index": 391,
+      "name": "§ 202d",
+      "pdf_zeichen": 917,
+      "xml_zeichen": 917,
+      "identisch": true
+    },
+    {
+      "norm_index": 392,
+      "name": "§ 203",
+      "pdf_zeichen": 5166,
+      "xml_zeichen": 5166,
+      "identisch": true
+    },
+    {
+      "norm_index": 393,
+      "name": "§ 204",
+      "pdf_zeichen": 262,
+      "xml_zeichen": 262,
+      "identisch": true
+    },
+    {
+      "norm_index": 394,
+      "name": "§ 205",
+      "pdf_zeichen": 777,
+      "xml_zeichen": 777,
+      "identisch": true
+    },
+    {
+      "norm_index": 395,
+      "name": "§ 206",
+      "pdf_zeichen": 1807,
+      "xml_zeichen": 1807,
+      "identisch": true
+    },
+    {
+      "norm_index": 396,
+      "name": "(XXXX) §§ 207 bis 210",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 397,
+      "name": "Sechzehnter AbschnittStraftaten gegen das Leben",
+      "pdf_zeichen": 43,
+      "xml_zeichen": 43,
+      "identisch": true
+    },
+    {
+      "norm_index": 398,
+      "name": "§ 211",
+      "pdf_zeichen": 395,
+      "xml_zeichen": 395,
+      "identisch": true
+    },
+    {
+      "norm_index": 399,
+      "name": "§ 212",
+      "pdf_zeichen": 191,
+      "xml_zeichen": 191,
+      "identisch": true
+    },
+    {
+      "norm_index": 400,
+      "name": "§ 213",
+      "pdf_zeichen": 322,
+      "xml_zeichen": 322,
+      "identisch": true
+    },
+    {
+      "norm_index": 401,
+      "name": "(XXXX) §§ 214 und 215",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 402,
+      "name": "§ 216",
+      "pdf_zeichen": 202,
+      "xml_zeichen": 202,
+      "identisch": true
+    },
+    {
+      "norm_index": 403,
+      "name": "§ 217",
+      "pdf_zeichen": 534,
+      "xml_zeichen": 534,
+      "identisch": true
+    },
+    {
+      "norm_index": 404,
+      "name": "§ 218",
+      "pdf_zeichen": 1071,
+      "xml_zeichen": 1071,
+      "identisch": true
+    },
+    {
+      "norm_index": 405,
+      "name": "§ 218a",
+      "pdf_zeichen": 1920,
+      "xml_zeichen": 1920,
+      "identisch": true
+    },
+    {
+      "norm_index": 406,
+      "name": "§ 218b",
+      "pdf_zeichen": 1553,
+      "xml_zeichen": 1553,
+      "identisch": true
+    },
+    {
+      "norm_index": 407,
+      "name": "§ 218c",
+      "pdf_zeichen": 682,
+      "xml_zeichen": 682,
+      "identisch": true
+    },
+    {
+      "norm_index": 408,
+      "name": "§ 219",
+      "pdf_zeichen": 1271,
+      "xml_zeichen": 1271,
+      "identisch": true
+    },
+    {
+      "norm_index": 409,
+      "name": "§ 219a",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 410,
+      "name": "§ 219b",
+      "pdf_zeichen": 790,
+      "xml_zeichen": 790,
+      "identisch": true
+    },
+    {
+      "norm_index": 411,
+      "name": "§ 219c",
+      "pdf_zeichen": 368,
+      "xml_zeichen": 368,
+      "identisch": true
+    },
+    {
+      "norm_index": 412,
+      "name": "§ 219d",
+      "pdf_zeichen": 368,
+      "xml_zeichen": 368,
+      "identisch": true
+    },
+    {
+      "norm_index": 413,
+      "name": "§ 220",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 414,
+      "name": "§ 220a",
+      "pdf_zeichen": 19,
+      "xml_zeichen": 19,
+      "identisch": true
+    },
+    {
+      "norm_index": 415,
+      "name": "§ 221",
+      "pdf_zeichen": 830,
+      "xml_zeichen": 830,
+      "identisch": true
+    },
+    {
+      "norm_index": 416,
+      "name": "§ 222",
+      "pdf_zeichen": 136,
+      "xml_zeichen": 136,
+      "identisch": true
+    },
+    {
+      "norm_index": 417,
+      "name": "Siebzehnter AbschnittStraftaten gegen die\nkörperliche Unversehrtheit",
+      "pdf_zeichen": 63,
+      "xml_zeichen": 63,
+      "identisch": true
+    },
+    {
+      "norm_index": 418,
+      "name": "§ 223",
+      "pdf_zeichen": 178,
+      "xml_zeichen": 178,
+      "identisch": true
+    },
+    {
+      "norm_index": 419,
+      "name": "§ 224",
+      "pdf_zeichen": 472,
+      "xml_zeichen": 472,
+      "identisch": true
+    },
+    {
+      "norm_index": 420,
+      "name": "§ 225",
+      "pdf_zeichen": 938,
+      "xml_zeichen": 938,
+      "identisch": true
+    },
+    {
+      "norm_index": 421,
+      "name": "§ 226",
+      "pdf_zeichen": 741,
+      "xml_zeichen": 741,
+      "identisch": true
+    },
+    {
+      "norm_index": 422,
+      "name": "§ 226a",
+      "pdf_zeichen": 234,
+      "xml_zeichen": 234,
+      "identisch": true
+    },
+    {
+      "norm_index": 423,
+      "name": "§ 227",
+      "pdf_zeichen": 252,
+      "xml_zeichen": 252,
+      "identisch": true
+    },
+    {
+      "norm_index": 424,
+      "name": "§ 228",
+      "pdf_zeichen": 167,
+      "xml_zeichen": 167,
+      "identisch": true
+    },
+    {
+      "norm_index": 425,
+      "name": "§ 229",
+      "pdf_zeichen": 164,
+      "xml_zeichen": 164,
+      "identisch": true
+    },
+    {
+      "norm_index": 426,
+      "name": "§ 230",
+      "pdf_zeichen": 711,
+      "xml_zeichen": 711,
+      "identisch": true
+    },
+    {
+      "norm_index": 427,
+      "name": "§ 231",
+      "pdf_zeichen": 413,
+      "xml_zeichen": 413,
+      "identisch": true
+    },
+    {
+      "norm_index": 428,
+      "name": "Achtzehnter AbschnittStraftaten gegen die\npersönliche Freiheit",
+      "pdf_zeichen": 57,
+      "xml_zeichen": 57,
+      "identisch": true
+    },
+    {
+      "norm_index": 429,
+      "name": "§ 232",
+      "pdf_zeichen": 2206,
+      "xml_zeichen": 2206,
+      "identisch": true
+    },
+    {
+      "norm_index": 430,
+      "name": "§ 232a",
+      "pdf_zeichen": 2239,
+      "xml_zeichen": 2239,
+      "identisch": true
+    },
+    {
+      "norm_index": 431,
+      "name": "§ 232b",
+      "pdf_zeichen": 1021,
+      "xml_zeichen": 1021,
+      "identisch": true
+    },
+    {
+      "norm_index": 432,
+      "name": "§ 233",
+      "pdf_zeichen": 1619,
+      "xml_zeichen": 1619,
+      "identisch": true
+    },
+    {
+      "norm_index": 433,
+      "name": "§ 233a",
+      "pdf_zeichen": 736,
+      "xml_zeichen": 736,
+      "identisch": true
+    },
+    {
+      "norm_index": 434,
+      "name": "§ 233b",
+      "pdf_zeichen": 141,
+      "xml_zeichen": 141,
+      "identisch": true
+    },
+    {
+      "norm_index": 435,
+      "name": "§ 234",
+      "pdf_zeichen": 371,
+      "xml_zeichen": 371,
+      "identisch": true
+    },
+    {
+      "norm_index": 436,
+      "name": "§ 234a",
+      "pdf_zeichen": 720,
+      "xml_zeichen": 720,
+      "identisch": true
+    },
+    {
+      "norm_index": 437,
+      "name": "§ 234b",
+      "pdf_zeichen": 615,
+      "xml_zeichen": 615,
+      "identisch": true
+    },
+    {
+      "norm_index": 438,
+      "name": "§ 235",
+      "pdf_zeichen": 1391,
+      "xml_zeichen": 1391,
+      "identisch": true
+    },
+    {
+      "norm_index": 439,
+      "name": "§ 236",
+      "pdf_zeichen": 1761,
+      "xml_zeichen": 1761,
+      "identisch": true
+    },
+    {
+      "norm_index": 440,
+      "name": "§ 237",
+      "pdf_zeichen": 680,
+      "xml_zeichen": 680,
+      "identisch": true
+    },
+    {
+      "norm_index": 441,
+      "name": "§ 238",
+      "pdf_zeichen": 2387,
+      "xml_zeichen": 2387,
+      "identisch": true
+    },
+    {
+      "norm_index": 442,
+      "name": "§ 239",
+      "pdf_zeichen": 717,
+      "xml_zeichen": 717,
+      "identisch": true
+    },
+    {
+      "norm_index": 443,
+      "name": "§ 239a",
+      "pdf_zeichen": 801,
+      "xml_zeichen": 801,
+      "identisch": true
+    },
+    {
+      "norm_index": 444,
+      "name": "§ 239b",
+      "pdf_zeichen": 454,
+      "xml_zeichen": 454,
+      "identisch": true
+    },
+    {
+      "norm_index": 445,
+      "name": "§ 239c",
+      "pdf_zeichen": 97,
+      "xml_zeichen": 97,
+      "identisch": true
+    },
+    {
+      "norm_index": 446,
+      "name": "§ 240",
+      "pdf_zeichen": 601,
+      "xml_zeichen": 601,
+      "identisch": true
+    },
+    {
+      "norm_index": 447,
+      "name": "§ 241",
+      "pdf_zeichen": 988,
+      "xml_zeichen": 988,
+      "identisch": true
+    },
+    {
+      "norm_index": 448,
+      "name": "§ 241a",
+      "pdf_zeichen": 884,
+      "xml_zeichen": 884,
+      "identisch": true
+    },
+    {
+      "norm_index": 449,
+      "name": "Neunzehnter AbschnittDiebstahl und Unterschlagung",
+      "pdf_zeichen": 46,
+      "xml_zeichen": 46,
+      "identisch": true
+    },
+    {
+      "norm_index": 450,
+      "name": "§ 242",
+      "pdf_zeichen": 216,
+      "xml_zeichen": 216,
+      "identisch": true
+    },
+    {
+      "norm_index": 451,
+      "name": "§ 243",
+      "pdf_zeichen": 1393,
+      "xml_zeichen": 1393,
+      "identisch": true
+    },
+    {
+      "norm_index": 452,
+      "name": "§ 244",
+      "pdf_zeichen": 1014,
+      "xml_zeichen": 1014,
+      "identisch": true
+    },
+    {
+      "norm_index": 453,
+      "name": "§ 244a",
+      "pdf_zeichen": 422,
+      "xml_zeichen": 422,
+      "identisch": true
+    },
+    {
+      "norm_index": 454,
+      "name": "§ 245",
+      "pdf_zeichen": 95,
+      "xml_zeichen": 95,
+      "identisch": true
+    },
+    {
+      "norm_index": 455,
+      "name": "§ 246",
+      "pdf_zeichen": 359,
+      "xml_zeichen": 359,
+      "identisch": true
+    },
+    {
+      "norm_index": 456,
+      "name": "§ 247",
+      "pdf_zeichen": 210,
+      "xml_zeichen": 210,
+      "identisch": true
+    },
+    {
+      "norm_index": 457,
+      "name": "§ 248",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 458,
+      "name": "§ 248a",
+      "pdf_zeichen": 296,
+      "xml_zeichen": 296,
+      "identisch": true
+    },
+    {
+      "norm_index": 459,
+      "name": "§ 248b",
+      "pdf_zeichen": 464,
+      "xml_zeichen": 464,
+      "identisch": true
+    },
+    {
+      "norm_index": 460,
+      "name": "§ 248c",
+      "pdf_zeichen": 629,
+      "xml_zeichen": 629,
+      "identisch": true
+    },
+    {
+      "norm_index": 461,
+      "name": "Zwanzigster AbschnittRaub und Erpressung",
+      "pdf_zeichen": 37,
+      "xml_zeichen": 37,
+      "identisch": true
+    },
+    {
+      "norm_index": 462,
+      "name": "§ 249",
+      "pdf_zeichen": 348,
+      "xml_zeichen": 348,
+      "identisch": true
+    },
+    {
+      "norm_index": 463,
+      "name": "§ 250",
+      "pdf_zeichen": 953,
+      "xml_zeichen": 953,
+      "identisch": true
+    },
+    {
+      "norm_index": 464,
+      "name": "§ 251",
+      "pdf_zeichen": 193,
+      "xml_zeichen": 193,
+      "identisch": true
+    },
+    {
+      "norm_index": 465,
+      "name": "§ 252",
+      "pdf_zeichen": 233,
+      "xml_zeichen": 233,
+      "identisch": true
+    },
+    {
+      "norm_index": 466,
+      "name": "§ 253",
+      "pdf_zeichen": 694,
+      "xml_zeichen": 694,
+      "identisch": true
+    },
+    {
+      "norm_index": 467,
+      "name": "§ 254",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 468,
+      "name": "§ 255",
+      "pdf_zeichen": 187,
+      "xml_zeichen": 187,
+      "identisch": true
+    },
+    {
+      "norm_index": 469,
+      "name": "§ 256",
+      "pdf_zeichen": 94,
+      "xml_zeichen": 94,
+      "identisch": true
+    },
+    {
+      "norm_index": 470,
+      "name": "Einundzwanzigster AbschnittBegünstigung und Hehlerei",
+      "pdf_zeichen": 49,
+      "xml_zeichen": 49,
+      "identisch": true
+    },
+    {
+      "norm_index": 471,
+      "name": "§ 257",
+      "pdf_zeichen": 638,
+      "xml_zeichen": 638,
+      "identisch": true
+    },
+    {
+      "norm_index": 472,
+      "name": "§ 258",
+      "pdf_zeichen": 752,
+      "xml_zeichen": 752,
+      "identisch": true
+    },
+    {
+      "norm_index": 473,
+      "name": "§ 258a",
+      "pdf_zeichen": 455,
+      "xml_zeichen": 455,
+      "identisch": true
+    },
+    {
+      "norm_index": 474,
+      "name": "§ 259",
+      "pdf_zeichen": 357,
+      "xml_zeichen": 357,
+      "identisch": true
+    },
+    {
+      "norm_index": 475,
+      "name": "§ 260",
+      "pdf_zeichen": 281,
+      "xml_zeichen": 281,
+      "identisch": true
+    },
+    {
+      "norm_index": 476,
+      "name": "§ 260a",
+      "pdf_zeichen": 320,
+      "xml_zeichen": 320,
+      "identisch": true
+    },
+    {
+      "norm_index": 477,
+      "name": "§ 261",
+      "pdf_zeichen": 4637,
+      "xml_zeichen": 4637,
+      "identisch": true
+    },
+    {
+      "norm_index": 478,
+      "name": "§ 262",
+      "pdf_zeichen": 94,
+      "xml_zeichen": 94,
+      "identisch": true
+    },
+    {
+      "norm_index": 479,
+      "name": "Zweiundzwanzigster AbschnittBetrug und Untreue",
+      "pdf_zeichen": 43,
+      "xml_zeichen": 43,
+      "identisch": true
+    },
+    {
+      "norm_index": 480,
+      "name": "§ 263",
+      "pdf_zeichen": 1518,
+      "xml_zeichen": 1518,
+      "identisch": true
+    },
+    {
+      "norm_index": 481,
+      "name": "§ 263a",
+      "pdf_zeichen": 948,
+      "xml_zeichen": 948,
+      "identisch": true
+    },
+    {
+      "norm_index": 482,
+      "name": "§ 264",
+      "pdf_zeichen": 2871,
+      "xml_zeichen": 2871,
+      "identisch": true
+    },
+    {
+      "norm_index": 483,
+      "name": "§ 264a",
+      "pdf_zeichen": 960,
+      "xml_zeichen": 960,
+      "identisch": true
+    },
+    {
+      "norm_index": 484,
+      "name": "§ 265",
+      "pdf_zeichen": 421,
+      "xml_zeichen": 421,
+      "identisch": true
+    },
+    {
+      "norm_index": 485,
+      "name": "§ 265a",
+      "pdf_zeichen": 455,
+      "xml_zeichen": 455,
+      "identisch": true
+    },
+    {
+      "norm_index": 486,
+      "name": "§ 265b",
+      "pdf_zeichen": 1421,
+      "xml_zeichen": 1421,
+      "identisch": true
+    },
+    {
+      "norm_index": 487,
+      "name": "§ 265c",
+      "pdf_zeichen": 2266,
+      "xml_zeichen": 2266,
+      "identisch": true
+    },
+    {
+      "norm_index": 488,
+      "name": "§ 265d",
+      "pdf_zeichen": 1757,
+      "xml_zeichen": 1757,
+      "identisch": true
+    },
+    {
+      "norm_index": 489,
+      "name": "§ 265e",
+      "pdf_zeichen": 417,
+      "xml_zeichen": 417,
+      "identisch": true
+    },
+    {
+      "norm_index": 490,
+      "name": "§ 266",
+      "pdf_zeichen": 504,
+      "xml_zeichen": 504,
+      "identisch": true
+    },
+    {
+      "norm_index": 491,
+      "name": "§ 266a",
+      "pdf_zeichen": 2710,
+      "xml_zeichen": 2710,
+      "identisch": true
+    },
+    {
+      "norm_index": 492,
+      "name": "§ 266b",
+      "pdf_zeichen": 293,
+      "xml_zeichen": 293,
+      "identisch": true
+    },
+    {
+      "norm_index": 493,
+      "name": "Dreiundzwanzigster AbschnittUrkundenfälschung",
+      "pdf_zeichen": 44,
+      "xml_zeichen": 44,
+      "identisch": true
+    },
+    {
+      "norm_index": 494,
+      "name": "§ 267",
+      "pdf_zeichen": 1029,
+      "xml_zeichen": 1029,
+      "identisch": true
+    },
+    {
+      "norm_index": 495,
+      "name": "§ 268",
+      "pdf_zeichen": 875,
+      "xml_zeichen": 875,
+      "identisch": true
+    },
+    {
+      "norm_index": 496,
+      "name": "§ 269",
+      "pdf_zeichen": 356,
+      "xml_zeichen": 356,
+      "identisch": true
+    },
+    {
+      "norm_index": 497,
+      "name": "§ 270",
+      "pdf_zeichen": 151,
+      "xml_zeichen": 151,
+      "identisch": true
+    },
+    {
+      "norm_index": 498,
+      "name": "§ 271",
+      "pdf_zeichen": 791,
+      "xml_zeichen": 791,
+      "identisch": true
+    },
+    {
+      "norm_index": 499,
+      "name": "§ 272",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 500,
+      "name": "§ 273",
+      "pdf_zeichen": 400,
+      "xml_zeichen": 400,
+      "identisch": true
+    },
+    {
+      "norm_index": 501,
+      "name": "§ 274",
+      "pdf_zeichen": 721,
+      "xml_zeichen": 721,
+      "identisch": true
+    },
+    {
+      "norm_index": 502,
+      "name": "§ 275",
+      "pdf_zeichen": 1262,
+      "xml_zeichen": 1262,
+      "identisch": true
+    },
+    {
+      "norm_index": 503,
+      "name": "§ 276",
+      "pdf_zeichen": 610,
+      "xml_zeichen": 610,
+      "identisch": true
+    },
+    {
+      "norm_index": 504,
+      "name": "§ 276a",
+      "pdf_zeichen": 211,
+      "xml_zeichen": 211,
+      "identisch": true
+    },
+    {
+      "norm_index": 505,
+      "name": "§ 277",
+      "pdf_zeichen": 729,
+      "xml_zeichen": 729,
+      "identisch": true
+    },
+    {
+      "norm_index": 506,
+      "name": "§ 278",
+      "pdf_zeichen": 607,
+      "xml_zeichen": 607,
+      "identisch": true
+    },
+    {
+      "norm_index": 507,
+      "name": "§ 279",
+      "pdf_zeichen": 291,
+      "xml_zeichen": 291,
+      "identisch": true
+    },
+    {
+      "norm_index": 508,
+      "name": "§ 280",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 509,
+      "name": "§ 281",
+      "pdf_zeichen": 440,
+      "xml_zeichen": 440,
+      "identisch": true
+    },
+    {
+      "norm_index": 510,
+      "name": "§ 282",
+      "pdf_zeichen": 259,
+      "xml_zeichen": 259,
+      "identisch": true
+    },
+    {
+      "norm_index": 511,
+      "name": "Vierundzwanzigster AbschnittInsolvenzstraftaten",
+      "pdf_zeichen": 46,
+      "xml_zeichen": 46,
+      "identisch": true
+    },
+    {
+      "norm_index": 512,
+      "name": "§ 283",
+      "pdf_zeichen": 2676,
+      "xml_zeichen": 2676,
+      "identisch": true
+    },
+    {
+      "norm_index": 513,
+      "name": "§ 283a",
+      "pdf_zeichen": 347,
+      "xml_zeichen": 347,
+      "identisch": true
+    },
+    {
+      "norm_index": 514,
+      "name": "§ 283b",
+      "pdf_zeichen": 843,
+      "xml_zeichen": 843,
+      "identisch": true
+    },
+    {
+      "norm_index": 515,
+      "name": "§ 283c",
+      "pdf_zeichen": 376,
+      "xml_zeichen": 376,
+      "identisch": true
+    },
+    {
+      "norm_index": 516,
+      "name": "§ 283d",
+      "pdf_zeichen": 1088,
+      "xml_zeichen": 1088,
+      "identisch": true
+    },
+    {
+      "norm_index": 517,
+      "name": "Fünfundzwanzigster AbschnittStrafbarer Eigennutz",
+      "pdf_zeichen": 46,
+      "xml_zeichen": 46,
+      "identisch": true
+    },
+    {
+      "norm_index": 518,
+      "name": "§ 284",
+      "pdf_zeichen": 677,
+      "xml_zeichen": 677,
+      "identisch": true
+    },
+    {
+      "norm_index": 519,
+      "name": "§ 285",
+      "pdf_zeichen": 190,
+      "xml_zeichen": 190,
+      "identisch": true
+    },
+    {
+      "norm_index": 520,
+      "name": "§ 286",
+      "pdf_zeichen": 253,
+      "xml_zeichen": 253,
+      "identisch": true
+    },
+    {
+      "norm_index": 521,
+      "name": "§ 287",
+      "pdf_zeichen": 511,
+      "xml_zeichen": 511,
+      "identisch": true
+    },
+    {
+      "norm_index": 522,
+      "name": "§ 288",
+      "pdf_zeichen": 286,
+      "xml_zeichen": 286,
+      "identisch": true
+    },
+    {
+      "norm_index": 523,
+      "name": "§ 289",
+      "pdf_zeichen": 366,
+      "xml_zeichen": 366,
+      "identisch": true
+    },
+    {
+      "norm_index": 524,
+      "name": "§ 290",
+      "pdf_zeichen": 193,
+      "xml_zeichen": 193,
+      "identisch": true
+    },
+    {
+      "norm_index": 525,
+      "name": "§ 291",
+      "pdf_zeichen": 1124,
+      "xml_zeichen": 1124,
+      "identisch": true
+    },
+    {
+      "norm_index": 526,
+      "name": "§ 292",
+      "pdf_zeichen": 853,
+      "xml_zeichen": 853,
+      "identisch": true
+    },
+    {
+      "norm_index": 527,
+      "name": "§ 293",
+      "pdf_zeichen": 255,
+      "xml_zeichen": 255,
+      "identisch": true
+    },
+    {
+      "norm_index": 528,
+      "name": "§ 294",
+      "pdf_zeichen": 217,
+      "xml_zeichen": 217,
+      "identisch": true
+    },
+    {
+      "norm_index": 529,
+      "name": "§ 295",
+      "pdf_zeichen": 164,
+      "xml_zeichen": 164,
+      "identisch": true
+    },
+    {
+      "norm_index": 530,
+      "name": "§ 296",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 531,
+      "name": "§ 297",
+      "pdf_zeichen": 916,
+      "xml_zeichen": 916,
+      "identisch": true
+    },
+    {
+      "norm_index": 532,
+      "name": "Sechsundzwanzigster AbschnittStraftaten gegen\nden Wettbewerb",
+      "pdf_zeichen": 56,
+      "xml_zeichen": 56,
+      "identisch": true
+    },
+    {
+      "norm_index": 533,
+      "name": "§ 298",
+      "pdf_zeichen": 796,
+      "xml_zeichen": 796,
+      "identisch": true
+    },
+    {
+      "norm_index": 534,
+      "name": "§ 299",
+      "pdf_zeichen": 1265,
+      "xml_zeichen": 1265,
+      "identisch": true
+    },
+    {
+      "norm_index": 535,
+      "name": "§ 299a",
+      "pdf_zeichen": 754,
+      "xml_zeichen": 754,
+      "identisch": true
+    },
+    {
+      "norm_index": 536,
+      "name": "§ 299b",
+      "pdf_zeichen": 663,
+      "xml_zeichen": 663,
+      "identisch": true
+    },
+    {
+      "norm_index": 537,
+      "name": "§ 300",
+      "pdf_zeichen": 426,
+      "xml_zeichen": 426,
+      "identisch": true
+    },
+    {
+      "norm_index": 538,
+      "name": "§ 301",
+      "pdf_zeichen": 464,
+      "xml_zeichen": 464,
+      "identisch": true
+    },
+    {
+      "norm_index": 539,
+      "name": "§ 302",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 540,
+      "name": "Siebenundzwanzigster AbschnittSachbeschädigung",
+      "pdf_zeichen": 45,
+      "xml_zeichen": 45,
+      "identisch": true
+    },
+    {
+      "norm_index": 541,
+      "name": "§ 303",
+      "pdf_zeichen": 286,
+      "xml_zeichen": 286,
+      "identisch": true
+    },
+    {
+      "norm_index": 542,
+      "name": "§ 303a",
+      "pdf_zeichen": 260,
+      "xml_zeichen": 260,
+      "identisch": true
+    },
+    {
+      "norm_index": 543,
+      "name": "§ 303b",
+      "pdf_zeichen": 1149,
+      "xml_zeichen": 1149,
+      "identisch": true
+    },
+    {
+      "norm_index": 544,
+      "name": "§ 303c",
+      "pdf_zeichen": 240,
+      "xml_zeichen": 240,
+      "identisch": true
+    },
+    {
+      "norm_index": 545,
+      "name": "§ 304",
+      "pdf_zeichen": 728,
+      "xml_zeichen": 728,
+      "identisch": true
+    },
+    {
+      "norm_index": 546,
+      "name": "§ 305",
+      "pdf_zeichen": 279,
+      "xml_zeichen": 279,
+      "identisch": true
+    },
+    {
+      "norm_index": 547,
+      "name": "§ 305a",
+      "pdf_zeichen": 708,
+      "xml_zeichen": 708,
+      "identisch": true
+    },
+    {
+      "norm_index": 548,
+      "name": "Achtundzwanzigster AbschnittGemeingefährliche\nStraftaten",
+      "pdf_zeichen": 54,
+      "xml_zeichen": 54,
+      "identisch": true
+    },
+    {
+      "norm_index": 549,
+      "name": "§ 306",
+      "pdf_zeichen": 487,
+      "xml_zeichen": 487,
+      "identisch": true
+    },
+    {
+      "norm_index": 550,
+      "name": "§ 306a",
+      "pdf_zeichen": 708,
+      "xml_zeichen": 708,
+      "identisch": true
+    },
+    {
+      "norm_index": 551,
+      "name": "§ 306b",
+      "pdf_zeichen": 511,
+      "xml_zeichen": 511,
+      "identisch": true
+    },
+    {
+      "norm_index": 552,
+      "name": "§ 306c",
+      "pdf_zeichen": 219,
+      "xml_zeichen": 219,
+      "identisch": true
+    },
+    {
+      "norm_index": 553,
+      "name": "§ 306d",
+      "pdf_zeichen": 356,
+      "xml_zeichen": 356,
+      "identisch": true
+    },
+    {
+      "norm_index": 554,
+      "name": "§ 306e",
+      "pdf_zeichen": 465,
+      "xml_zeichen": 465,
+      "identisch": true
+    },
+    {
+      "norm_index": 555,
+      "name": "§ 306f",
+      "pdf_zeichen": 813,
+      "xml_zeichen": 813,
+      "identisch": true
+    },
+    {
+      "norm_index": 556,
+      "name": "§ 307",
+      "pdf_zeichen": 864,
+      "xml_zeichen": 864,
+      "identisch": true
+    },
+    {
+      "norm_index": 557,
+      "name": "§ 308",
+      "pdf_zeichen": 1366,
+      "xml_zeichen": 1366,
+      "identisch": true
+    },
+    {
+      "norm_index": 558,
+      "name": "§ 309",
+      "pdf_zeichen": 1430,
+      "xml_zeichen": 1430,
+      "identisch": true
+    },
+    {
+      "norm_index": 559,
+      "name": "§ 310",
+      "pdf_zeichen": 860,
+      "xml_zeichen": 860,
+      "identisch": true
+    },
+    {
+      "norm_index": 560,
+      "name": "§ 311",
+      "pdf_zeichen": 812,
+      "xml_zeichen": 812,
+      "identisch": true
+    },
+    {
+      "norm_index": 561,
+      "name": "§ 312",
+      "pdf_zeichen": 1156,
+      "xml_zeichen": 1156,
+      "identisch": true
+    },
+    {
+      "norm_index": 562,
+      "name": "§ 313",
+      "pdf_zeichen": 254,
+      "xml_zeichen": 254,
+      "identisch": true
+    },
+    {
+      "norm_index": 563,
+      "name": "§ 314",
+      "pdf_zeichen": 457,
+      "xml_zeichen": 457,
+      "identisch": true
+    },
+    {
+      "norm_index": 564,
+      "name": "§ 314a",
+      "pdf_zeichen": 1080,
+      "xml_zeichen": 1080,
+      "identisch": true
+    },
+    {
+      "norm_index": 565,
+      "name": "§ 315",
+      "pdf_zeichen": 1257,
+      "xml_zeichen": 1257,
+      "identisch": true
+    },
+    {
+      "norm_index": 566,
+      "name": "§ 315a",
+      "pdf_zeichen": 883,
+      "xml_zeichen": 883,
+      "identisch": true
+    },
+    {
+      "norm_index": 567,
+      "name": "§ 315b",
+      "pdf_zeichen": 858,
+      "xml_zeichen": 858,
+      "identisch": true
+    },
+    {
+      "norm_index": 568,
+      "name": "§ 315c",
+      "pdf_zeichen": 1182,
+      "xml_zeichen": 1182,
+      "identisch": true
+    },
+    {
+      "norm_index": 569,
+      "name": "§ 315d",
+      "pdf_zeichen": 1149,
+      "xml_zeichen": 1149,
+      "identisch": true
+    },
+    {
+      "norm_index": 570,
+      "name": "§ 315e",
+      "pdf_zeichen": 157,
+      "xml_zeichen": 157,
+      "identisch": true
+    },
+    {
+      "norm_index": 571,
+      "name": "§ 315f",
+      "pdf_zeichen": 145,
+      "xml_zeichen": 145,
+      "identisch": true
+    },
+    {
+      "norm_index": 572,
+      "name": "§ 316",
+      "pdf_zeichen": 361,
+      "xml_zeichen": 361,
+      "identisch": true
+    },
+    {
+      "norm_index": 573,
+      "name": "§ 316a",
+      "pdf_zeichen": 609,
+      "xml_zeichen": 609,
+      "identisch": true
+    },
+    {
+      "norm_index": 574,
+      "name": "§ 316b",
+      "pdf_zeichen": 902,
+      "xml_zeichen": 902,
+      "identisch": true
+    },
+    {
+      "norm_index": 575,
+      "name": "§ 316c",
+      "pdf_zeichen": 1382,
+      "xml_zeichen": 1382,
+      "identisch": true
+    },
+    {
+      "norm_index": 576,
+      "name": "§ 317",
+      "pdf_zeichen": 467,
+      "xml_zeichen": 467,
+      "identisch": true
+    },
+    {
+      "norm_index": 577,
+      "name": "§ 318",
+      "pdf_zeichen": 1086,
+      "xml_zeichen": 1086,
+      "identisch": true
+    },
+    {
+      "norm_index": 578,
+      "name": "§ 319",
+      "pdf_zeichen": 811,
+      "xml_zeichen": 811,
+      "identisch": true
+    },
+    {
+      "norm_index": 579,
+      "name": "§ 320",
+      "pdf_zeichen": 946,
+      "xml_zeichen": 946,
+      "identisch": true
+    },
+    {
+      "norm_index": 580,
+      "name": "§ 321",
+      "pdf_zeichen": 179,
+      "xml_zeichen": 179,
+      "identisch": true
+    },
+    {
+      "norm_index": 581,
+      "name": "§ 322",
+      "pdf_zeichen": 299,
+      "xml_zeichen": 299,
+      "identisch": true
+    },
+    {
+      "norm_index": 582,
+      "name": "§ 323",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 583,
+      "name": "§ 323a",
+      "pdf_zeichen": 592,
+      "xml_zeichen": 592,
+      "identisch": true
+    },
+    {
+      "norm_index": 584,
+      "name": "§ 323b",
+      "pdf_zeichen": 393,
+      "xml_zeichen": 393,
+      "identisch": true
+    },
+    {
+      "norm_index": 585,
+      "name": "§ 323c",
+      "pdf_zeichen": 448,
+      "xml_zeichen": 448,
+      "identisch": true
+    },
+    {
+      "norm_index": 586,
+      "name": "Neunundzwanzigster AbschnittStraftaten gegen\ndie Umwelt",
+      "pdf_zeichen": 51,
+      "xml_zeichen": 51,
+      "identisch": true
+    },
+    {
+      "norm_index": 587,
+      "name": "§ 324",
+      "pdf_zeichen": 287,
+      "xml_zeichen": 287,
+      "identisch": true
+    },
+    {
+      "norm_index": 588,
+      "name": "§ 324a",
+      "pdf_zeichen": 518,
+      "xml_zeichen": 518,
+      "identisch": true
+    },
+    {
+      "norm_index": 589,
+      "name": "§ 325",
+      "pdf_zeichen": 1436,
+      "xml_zeichen": 1436,
+      "identisch": true
+    },
+    {
+      "norm_index": 590,
+      "name": "§ 325a",
+      "pdf_zeichen": 968,
+      "xml_zeichen": 968,
+      "identisch": true
+    },
+    {
+      "norm_index": 591,
+      "name": "§ 326",
+      "pdf_zeichen": 1570,
+      "xml_zeichen": 1570,
+      "identisch": true
+    },
+    {
+      "norm_index": 592,
+      "name": "§ 327",
+      "pdf_zeichen": 1730,
+      "xml_zeichen": 1730,
+      "identisch": true
+    },
+    {
+      "norm_index": 593,
+      "name": "§ 328",
+      "pdf_zeichen": 2103,
+      "xml_zeichen": 2103,
+      "identisch": true
+    },
+    {
+      "norm_index": 594,
+      "name": "§ 329",
+      "pdf_zeichen": 3267,
+      "xml_zeichen": 3267,
+      "identisch": true
+    },
+    {
+      "norm_index": 595,
+      "name": "§ 330",
+      "pdf_zeichen": 1174,
+      "xml_zeichen": 1174,
+      "identisch": true
+    },
+    {
+      "norm_index": 596,
+      "name": "§ 330a",
+      "pdf_zeichen": 896,
+      "xml_zeichen": 896,
+      "identisch": true
+    },
+    {
+      "norm_index": 597,
+      "name": "§ 330b",
+      "pdf_zeichen": 580,
+      "xml_zeichen": 580,
+      "identisch": true
+    },
+    {
+      "norm_index": 598,
+      "name": "§ 330c",
+      "pdf_zeichen": 380,
+      "xml_zeichen": 380,
+      "identisch": true
+    },
+    {
+      "norm_index": 599,
+      "name": "§ 330d",
+      "pdf_zeichen": 2047,
+      "xml_zeichen": 2047,
+      "identisch": true
+    },
+    {
+      "norm_index": 600,
+      "name": "Dreißigster AbschnittStraftaten im Amt",
+      "pdf_zeichen": 35,
+      "xml_zeichen": 35,
+      "identisch": true
+    },
+    {
+      "norm_index": 601,
+      "name": "§ 331",
+      "pdf_zeichen": 863,
+      "xml_zeichen": 863,
+      "identisch": true
+    },
+    {
+      "norm_index": 602,
+      "name": "§ 332",
+      "pdf_zeichen": 1272,
+      "xml_zeichen": 1272,
+      "identisch": true
+    },
+    {
+      "norm_index": 603,
+      "name": "§ 333",
+      "pdf_zeichen": 798,
+      "xml_zeichen": 798,
+      "identisch": true
+    },
+    {
+      "norm_index": 604,
+      "name": "§ 334",
+      "pdf_zeichen": 1321,
+      "xml_zeichen": 1321,
+      "identisch": true
+    },
+    {
+      "norm_index": 605,
+      "name": "§ 335",
+      "pdf_zeichen": 694,
+      "xml_zeichen": 694,
+      "identisch": true
+    },
+    {
+      "norm_index": 606,
+      "name": "§ 335a",
+      "pdf_zeichen": 1619,
+      "xml_zeichen": 1619,
+      "identisch": true
+    },
+    {
+      "norm_index": 607,
+      "name": "§ 336",
+      "pdf_zeichen": 151,
+      "xml_zeichen": 151,
+      "identisch": true
+    },
+    {
+      "norm_index": 608,
+      "name": "§ 337",
+      "pdf_zeichen": 282,
+      "xml_zeichen": 282,
+      "identisch": true
+    },
+    {
+      "norm_index": 609,
+      "name": "§ 338",
+      "pdf_zeichen": 17,
+      "xml_zeichen": 17,
+      "identisch": true
+    },
+    {
+      "norm_index": 610,
+      "name": "§ 339",
+      "pdf_zeichen": 254,
+      "xml_zeichen": 254,
+      "identisch": true
+    },
+    {
+      "norm_index": 611,
+      "name": "§ 340",
+      "pdf_zeichen": 378,
+      "xml_zeichen": 378,
+      "identisch": true
+    },
+    {
+      "norm_index": 612,
+      "name": "(XXXX) §§ 341 und 342",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 613,
+      "name": "§ 343",
+      "pdf_zeichen": 578,
+      "xml_zeichen": 578,
+      "identisch": true
+    },
+    {
+      "norm_index": 614,
+      "name": "§ 344",
+      "pdf_zeichen": 1141,
+      "xml_zeichen": 1141,
+      "identisch": true
+    },
+    {
+      "norm_index": 615,
+      "name": "§ 345",
+      "pdf_zeichen": 1212,
+      "xml_zeichen": 1212,
+      "identisch": true
+    },
+    {
+      "norm_index": 616,
+      "name": "(XXXX) §§ 346 und 347",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 617,
+      "name": "§ 348",
+      "pdf_zeichen": 317,
+      "xml_zeichen": 317,
+      "identisch": true
+    },
+    {
+      "norm_index": 618,
+      "name": "(XXXX) §§ 349 bis 351",
+      "pdf_zeichen": 24,
+      "xml_zeichen": 24,
+      "identisch": true
+    },
+    {
+      "norm_index": 619,
+      "name": "§ 352",
+      "pdf_zeichen": 365,
+      "xml_zeichen": 365,
+      "identisch": true
+    },
+    {
+      "norm_index": 620,
+      "name": "§ 353",
+      "pdf_zeichen": 516,
+      "xml_zeichen": 516,
+      "identisch": true
+    },
+    {
+      "norm_index": 621,
+      "name": "§ 353a",
+      "pdf_zeichen": 430,
+      "xml_zeichen": 430,
+      "identisch": true
+    },
+    {
+      "norm_index": 622,
+      "name": "§ 353b",
+      "pdf_zeichen": 2339,
+      "xml_zeichen": 2339,
+      "identisch": true
+    },
+    {
+      "norm_index": 623,
+      "name": "§ 353c",
+      "pdf_zeichen": 19,
+      "xml_zeichen": 19,
+      "identisch": true
+    },
+    {
+      "norm_index": 624,
+      "name": "§ 353d",
+      "pdf_zeichen": 903,
+      "xml_zeichen": 903,
+      "identisch": true
+    },
+    {
+      "norm_index": 625,
+      "name": "§ 354",
+      "pdf_zeichen": 18,
+      "xml_zeichen": 18,
+      "identisch": true
+    },
+    {
+      "norm_index": 626,
+      "name": "§ 355",
+      "pdf_zeichen": 1744,
+      "xml_zeichen": 1744,
+      "identisch": true
+    },
+    {
+      "norm_index": 627,
+      "name": "§ 356",
+      "pdf_zeichen": 382,
+      "xml_zeichen": 382,
+      "identisch": true
+    },
+    {
+      "norm_index": 628,
+      "name": "§ 357",
+      "pdf_zeichen": 532,
+      "xml_zeichen": 532,
+      "identisch": true
+    },
+    {
+      "norm_index": 629,
+      "name": "§ 358",
+      "pdf_zeichen": 238,
+      "xml_zeichen": 238,
+      "identisch": true
+    }
+  ]
+}

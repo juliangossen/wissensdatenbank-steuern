@@ -1,0 +1,35 @@
+{
+  "kuerzel": "KStDV",
+  "titel": "Körperschaftsteuer-Durchführungsverordnung 1994",
+  "rechtsgebiet": "Steuerrecht / Koerperschaftsteuer",
+  "quelle_url": "https://www.gesetze-im-internet.de/kstdv_1977/",
+  "quelle_html": "https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html",
+  "quelle_pdf": "https://www.gesetze-im-internet.de/kstdv_1977/KStDV_1994.pdf",
+  "quelle_xml": "https://www.gesetze-im-internet.de/kstdv_1977/xml.zip",
+  "lokale_pdf": "KStDV_1994.pdf",
+  "aktuelle_pdf": "KStDV_Gesetze_im_Internet.pdf",
+  "xml_datei": "Quellen/XML/BJNR008480977.xml",
+  "ausfertigungsdatum": "1977-06-14",
+  "stand": [
+    "Neugefasst durch Bek. v. 22.2.1996 I 365; zuletzt geändert durch Art. 2 Abs. 11 G v. 1.4.2015 I 434"
+  ],
+  "vollzitat": "\"Körperschaftsteuer-Durchführungsverordnung 1994 in der Fassung der Bekanntmachung vom 22. Februar 1996 (BGBl. I S. 365), die zuletzt durch Artikel 2 Absatz 11 des Gesetzes vom 1. April 2015 (BGBl. I S. 434) geändert worden ist\"",
+  "pdf_seiten": 2,
+  "pdf_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "xml_builddate": "20260506174845",
+  "sha256_lokale_pdf": "dcb08e4c18e3430953f6b2b3fce5119428f9212db5aeb0ae8c272c4f5587a812",
+  "sha256_aktuelle_pdf": "dcb08e4c18e3430953f6b2b3fce5119428f9212db5aeb0ae8c272c4f5587a812",
+  "sha256_xml": "3f7a5df179222fbd146bd048d9ae348aa4893f5846539b70cddeea1bb1e23b21",
+  "normenbestand": {
+    "normdatensaetze": 13,
+    "gliederungsteile": 4,
+    "vorschriften_einschliesslich_bereichsdatensaetzen": 7,
+    "anlagen": 1,
+    "tabellen": 2,
+    "tabellenzeilen": 9,
+    "tabellenzellen": 27,
+    "aufzaehlungskennzeichen": 10
+  },
+  "amtliche_abkuerzung": "KStDV 1994"
+}

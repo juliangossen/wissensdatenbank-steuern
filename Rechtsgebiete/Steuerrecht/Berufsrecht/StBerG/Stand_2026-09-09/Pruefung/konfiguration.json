@@ -1,0 +1,24 @@
+{
+  "kuerzel": "StBerG",
+  "titel": "Steuerberatungsgesetz",
+  "rechtsgebiet": "Steuerrecht / Berufsrecht",
+  "quelle_url": "https://www.gesetze-im-internet.de/stberg/",
+  "quelle_html": "https://www.gesetze-im-internet.de/stberg/BJNR013010961.html",
+  "lokale_pdf": "StBerG_bereitgestellt.pdf",
+  "aktuelle_pdf": "StBerG_aktuell.pdf",
+  "xml_datei": "Quellen/XML/BJNR013010961.xml",
+  "ausfertigungsdatum": "1961-08-16",
+  "stand": [
+    "Neugefasst durch Bek. v. 4.11.1975 I 2735;",
+    "zuletzt geändert durch Art. 1 G v. 29.6.2026 I Nr. 197"
+  ],
+  "vollzitat": "\"Steuerberatungsgesetz in der Fassung der Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735), das zuletzt durch Artikel 1 des Gesetzes vom 29. Juni 2026 (BGBl. 2026 I Nr. 197) geändert worden ist\"",
+  "pdf_seiten": 89,
+  "pdf_identisch_aktuell": true,
+  "pdf_text_identisch_aktuell": true,
+  "quellenabgleich": "2026-09-09",
+  "pdf_url": "https://www.gesetze-im-internet.de/stberg/StBerG.pdf",
+  "xml_url": "https://www.gesetze-im-internet.de/stberg/xml.zip",
+  "html_url": "https://www.gesetze-im-internet.de/stberg/BJNR013010961.html",
+  "original_dateiname": "StBerG.pdf"
+}

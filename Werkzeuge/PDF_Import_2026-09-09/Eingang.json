@@ -1,0 +1,222 @@
+{
+  "erfasst_am": "2026-09-09",
+  "pdfs": [
+    {
+      "datei": "AAG.pdf",
+      "seiten": 5,
+      "bytes": 63603,
+      "sha256_pdf": "61994cad2908a15473c00fd83fad37861d6f1085c596537ae731ac09738cadba",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nGesetz über den Ausgleich der Arbeitgeberaufwend"
+    },
+    {
+      "datei": "AktG.pdf",
+      "seiten": 131,
+      "bytes": 710867,
+      "sha256_pdf": "791f5e6e371a0e2eeb8eb92c281065147fba54e4329444728427f58c27a01bd0",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nAktiengesetz\nAktG\nAusfertigungsdatum: 06.09.1965"
+    },
+    {
+      "datei": "AStG.pdf",
+      "seiten": 20,
+      "bytes": 131811,
+      "sha256_pdf": "d92333fdb6c421d3f444b97c9f714b88e3c08ad201000ac01ff5dbc86869392f",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nGesetz über die Besteuerung bei Auslandsbeziehun"
+    },
+    {
+      "datei": "BewG.pdf",
+      "seiten": 174,
+      "bytes": 942477,
+      "sha256_pdf": "554fcacb1c36a889d78d4888ba1ef4fe7d0508c81c7d8b24b8f65d4f6ababb82",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nBewertungsgesetz (BewG)\nBewG\nAusfertigungsdatum:"
+    },
+    {
+      "datei": "DSGVO 2016_679.pdf",
+      "seiten": 88,
+      "bytes": 1071559,
+      "sha256_pdf": "27b720c812be1bdf1462ff468ad6410fe94da80b48f6d10fa7e2269b9e5a1597",
+      "kopf": "I \n(Gesetzgebungsakte) \nVER ORDNUNGEN \nVER ORDNUNG (EU) 2016/679 DES EUR OP ÄISCHEN P ARL AMENTS UND DES RA TES \nv om 27. Apr il 2016 \nzum Schutz natürlicher P ersonen bei der V er"
+    },
+    {
+      "datei": "DVO (EU) 282_2011.pdf",
+      "seiten": 22,
+      "bytes": 1075141,
+      "sha256_pdf": "3458aa87c914ce7ecd52889f465c0165c50a7f4e7d8c1a2ed0c41d70c2ad700e",
+      "kopf": "II \n(Rechtsakte ohne Gesetzescharakter)  \nVERORDNUNGEN \nDURCHFÜHRUNGSVERORDNUNG (EU) Nr. 282/2011 DES RATES  \nvom 15. März 2011  \nzur Festlegung von Durchführungsvorschriften zur R"
+    },
+    {
+      "datei": "DVStB.pdf",
+      "seiten": 16,
+      "bytes": 115565,
+      "sha256_pdf": "ca5e29edaa78e107e69280dd1c5fb635a9bd2e685c5a20b259bd949fe10dcc26",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nVerordnung zur Durchführung der Vorschriften übe"
+    },
+    {
+      "datei": "EGBGB.pdf",
+      "seiten": 154,
+      "bytes": 901602,
+      "sha256_pdf": "9a4a0234d93fa68326f8f837af600e010c6f56e59582803d19f3eb028c820f6f",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nEinführungsgesetz zum Bürgerlichen Gesetzbuche\nB"
+    },
+    {
+      "datei": "ErbStG.pdf",
+      "seiten": 36,
+      "bytes": 202923,
+      "sha256_pdf": "a99eb7335fac93a98590d2a2f0a46c4926077a193769bbddf96dedf3b63b6015",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nErbschaftsteuer- und Schenkungsteuergesetz (ErbS"
+    },
+    {
+      "datei": "FzgLiefgMeldV.pdf",
+      "seiten": 2,
+      "bytes": 50373,
+      "sha256_pdf": "c39f7890556dd8e97c013a103c5b1905685a6975d9234eb0b952266bbc4bcd5c",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nFahrzeuglieferungs-Meldepflichtverordnung (FzgLi"
+    },
+    {
+      "datei": "GewStDV.pdf",
+      "seiten": 6,
+      "bytes": 77896,
+      "sha256_pdf": "d93eba2c1bc152eae10250cea0c7c06cf701905791a210077bc76d9faf7dbac3",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nGewerbesteuer-Durchführungsverordnung (GewStDV)\n"
+    },
+    {
+      "datei": "GmbHG.pdf",
+      "seiten": 36,
+      "bytes": 216328,
+      "sha256_pdf": "81fba1a18a253e6da28f99cfde7d311511a162576082d7ee4e59683c40f127f8",
+      "kopf": "Ein Service des Bundesministeriums der Justiz sowie des Bundesamts für\nJustiz ‒ www.gesetze-im-internet.de\nGesetz betreffend die Gesellschaften mit beschränkter Haftung\n(GmbHG)\nGmb"
+    },
+    {
+      "datei": "GrEStG.pdf",
+      "seiten": 17,
+      "bytes": 126456,
+      "sha256_pdf": "d27726ada00c65f14da5fa54c6c0db5321c8cfaedb4ac2edd8e6902033e52bf2",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nGrunderwerbsteuergesetz (GrEStG)\nGrEStG\nAusferti"
+    },
+    {
+      "datei": "GrStG.pdf",
+      "seiten": 15,
+      "bytes": 117729,
+      "sha256_pdf": "d1501382c2269e1c723296204e20f434767ab0e3e86b06e304205510b3861c66",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nGrundsteuergesetz (GrStG)\nGrStG\nAusfertigungsdat"
+    },
+    {
+      "datei": "InsO.pdf",
+      "seiten": 90,
+      "bytes": 531466,
+      "sha256_pdf": "4ed5d81dafd60986a38ff26587bd632954eae2163f1d783acd481f4d44c404f2",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nInsolvenzordnung (InsO)\nInsO\nAusfertigungsdatum:"
+    },
+    {
+      "datei": "InvStG.pdf",
+      "seiten": 42,
+      "bytes": 224311,
+      "sha256_pdf": "7571848ce2718b71de2b35ad7f580d0312cbeaa94306ce7324ed336c9b9af54e",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nInvestmentsteuergesetz (InvStG)\nInvStG\nAusfertig"
+    },
+    {
+      "datei": "KassenSichV.pdf",
+      "seiten": 6,
+      "bytes": 73089,
+      "sha256_pdf": "e5351ca28768ece983f25c28376c74d06fc2f22d2ed3f5195c97f9074030c303",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nVerordnung zur Bestimmung der technischen Anford"
+    },
+    {
+      "datei": "KStDV_1994.pdf",
+      "seiten": 2,
+      "bytes": 54871,
+      "sha256_pdf": "dcb08e4c18e3430953f6b2b3fce5119428f9212db5aeb0ae8c272c4f5587a812",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nKörperschaftsteuer-Durchführungsverordnung 1994 "
+    },
+    {
+      "datei": "LStDV.pdf",
+      "seiten": 4,
+      "bytes": 61493,
+      "sha256_pdf": "99f25cd116d4655a8a7777468490fb9d05f471c46caafeea5002ae5aa6aa6a8f",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nLohnsteuer-Durchführungsverordnung\nLStDV\nAusfert"
+    },
+    {
+      "datei": "MiLoG.pdf",
+      "seiten": 11,
+      "bytes": 98174,
+      "sha256_pdf": "738f2e35b2c7c3a47b2f8dc31407420b8671ca0d0fdf04a24bdb833adf31949e",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nGesetz zur Regelung eines allgemeinen Mindestloh"
+    },
+    {
+      "datei": "MwStSystRL 2006_112_EG.pdf",
+      "seiten": 118,
+      "bytes": 516653,
+      "sha256_pdf": "5d2c9170a56c40fc2df7f8b7e78f7066a4c4b3d4846b486561b2453165430f3b",
+      "kopf": "I\n(Veröffentlichungsbedürftige Rechtsakte)\nRICHTLINIE 2006/112/EG DES RATES\nvom 28. November 2006\nüber das gemeinsame Mehrwertsteuersystem\nDER RAT DER EUROPÄISCHEN UNION –\ngestützt"
+    },
+    {
+      "datei": "PAngV.pdf",
+      "seiten": 13,
+      "bytes": 112056,
+      "sha256_pdf": "fc8d84968214be8c50bf637e6ddf528b6bc09c48f9d599e8df0910287c9f7142",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nPreisangabenverordnung (PAngV)\nPAngV\nAusfertigun"
+    },
+    {
+      "datei": "PStTG.pdf",
+      "seiten": 18,
+      "bytes": 117954,
+      "sha256_pdf": "68faf85905d8db3bb1ae7f2c0ff140b2c397324e38e9315521db3773af5c2d71",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nGesetz über die Meldepflicht und den automatisch"
+    },
+    {
+      "datei": "PublG.pdf",
+      "seiten": 13,
+      "bytes": 101026,
+      "sha256_pdf": "edd500689b70acc24120f81b1965c24c38a6a9779f1ea819a341b2acd84c6876",
+      "kopf": "Ein Service des Bundesministeriums der Justiz sowie des Bundesamts für\nJustiz ‒ www.gesetze-im-internet.de\n- Seite 1 von 13 -\nGesetz über die Rechnungslegung von bestimmten Unterne"
+    },
+    {
+      "datei": "SGB_4.pdf",
+      "seiten": 105,
+      "bytes": 569705,
+      "sha256_pdf": "eb2891e82029f31a8332f6f6f13a1e47027f62672e8a008fd8d6dbaa605ca2b4",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nSozialgesetzbuch (SGB) Viertes Buch (IV) - Gemei"
+    },
+    {
+      "datei": "SolZG.pdf",
+      "seiten": 2,
+      "bytes": 46678,
+      "sha256_pdf": "0c64c0645c09da7d310c5cd3303ee9f320964cba3196ecb5c0b1143c3f1d815b",
+      "kopf": "Ein Service des Bundesministeriums der Justiz sowie des Bundesamts für\nJustiz ‒ www.gesetze-im-internet.de\n- Seite 1 von 2 -\nSolidaritätszuschlaggesetz (SolZG)\nSolZG\nAusfertigungsd"
+    },
+    {
+      "datei": "StBerG.pdf",
+      "seiten": 89,
+      "bytes": 480038,
+      "sha256_pdf": "3a1c32085f44a6f4732586160269b4ee042ef9c926e96f6627ec354fc5861c29",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nSteuerberatungsgesetz (StBerG)\nStBerG\nAusfertigu"
+    },
+    {
+      "datei": "StBVV.pdf",
+      "seiten": 25,
+      "bytes": 133740,
+      "sha256_pdf": "a19bb551e4ba0d59c9b9de68855ace5af19a62bb3299f0eefcb02bddad1969c1",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nVergütungsverordnung für Steuerberater,\nSteuerbe"
+    },
+    {
+      "datei": "SvEV.pdf",
+      "seiten": 4,
+      "bytes": 57289,
+      "sha256_pdf": "86636fe5ec430899b8599c8f0acdfb2b248c0f9e0470405aa545eccdb1629fd6",
+      "kopf": "Ein Service des Bundesministerium der Justiz und für Verbraucherschutz\nsowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de\nVerordnung über die sozialversicherungsrechtlich"
+    },
+    {
+      "datei": "UmwG.pdf",
+      "seiten": 86,
+      "bytes": 558095,
+      "sha256_pdf": "18daee2bd1423c97bb8c36295b8d53060433cf0fbf9600e96b382f06ac4c8f9e",
+      "kopf": "Ein Service des Bundesministeriums der Justiz sowie des Bundesamts für\nJustiz ‒ www.gesetze-im-internet.de\nUmwandlungsgesetz (UmwG)\nUmwG\nAusfertigungsdatum: 28.10.1994\nVollzitat:\n\""
+    },
+    {
+      "datei": "UmwStG_2006.pdf",
+      "seiten": 20,
+      "bytes": 135227,
+      "sha256_pdf": "725d545b8586350d939f469800cc06015b572f6328c77c56fc70f486110e7daa",
+      "kopf": "Ein Service des Bundesministeriums der Justiz sowie des Bundesamts für\nJustiz ‒ www.gesetze-im-internet.de\nUmwandlungssteuergesetz\nUmwStG 2006\nAusfertigungsdatum: 07.12.2006\nVollzi"
+    }
+  ]
+}

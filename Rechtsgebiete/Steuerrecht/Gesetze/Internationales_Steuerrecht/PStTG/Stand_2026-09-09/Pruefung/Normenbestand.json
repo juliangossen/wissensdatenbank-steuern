@@ -1,0 +1,242 @@
+[
+  {
+    "index": 0,
+    "doknr": "BJNR273010022",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 1,
+    "doknr": "BJNR273010022BJNE000100000",
+    "enbez": "Inhaltsübersicht",
+    "titel": ""
+  },
+  {
+    "index": 2,
+    "doknr": "BJNR273010022BJNG000100000",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 3,
+    "doknr": "BJNR273010022BJNG000200000",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 4,
+    "doknr": "BJNR273010022BJNE000200000",
+    "enbez": "§ 1",
+    "titel": "Anwendungsbereich"
+  },
+  {
+    "index": 5,
+    "doknr": "BJNR273010022BJNG000300000",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 6,
+    "doknr": "BJNR273010022BJNE000300000",
+    "enbez": "§ 2",
+    "titel": "Begriffsbestimmungen"
+  },
+  {
+    "index": 7,
+    "doknr": "BJNR273010022BJNE000400000",
+    "enbez": "§ 3",
+    "titel": "Plattform; Plattformbetreiber"
+  },
+  {
+    "index": 8,
+    "doknr": "BJNR273010022BJNE000500000",
+    "enbez": "§ 4",
+    "titel": "Nutzer; Anbieter"
+  },
+  {
+    "index": 9,
+    "doknr": "BJNR273010022BJNE000600000",
+    "enbez": "§ 5",
+    "titel": "Relevante Tätigkeit; Vergütung"
+  },
+  {
+    "index": 10,
+    "doknr": "BJNR273010022BJNE000702123",
+    "enbez": "§ 6",
+    "titel": "Sonstige Begriffsbestimmungen"
+  },
+  {
+    "index": 11,
+    "doknr": "BJNR273010022BJNE000800000",
+    "enbez": "§ 7",
+    "titel": "Qualifizierter Plattformbetreiber, qualifizierter Drittstaat, qualifizierte Vereinbarung, qualifizierte relevante Tätigkeit"
+  },
+  {
+    "index": 12,
+    "doknr": "BJNR273010022BJNG000400000",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 13,
+    "doknr": "BJNR273010022BJNE000900000",
+    "enbez": "§ 8",
+    "titel": "Zuständige Behörde"
+  },
+  {
+    "index": 14,
+    "doknr": "BJNR273010022BJNE001002123",
+    "enbez": "§ 9",
+    "titel": "Aufgaben des Bundeszentralamts für Steuern"
+  },
+  {
+    "index": 15,
+    "doknr": "BJNR273010022BJNE001100000",
+    "enbez": "§ 10",
+    "titel": "Auskunft"
+  },
+  {
+    "index": 16,
+    "doknr": "BJNR273010022BJNE001200000",
+    "enbez": "§ 11",
+    "titel": "Verfahren zur Feststellung eines freigestellten Plattformbetreibers"
+  },
+  {
+    "index": 17,
+    "doknr": "BJNR273010022BJNE001301123",
+    "enbez": "§ 12",
+    "titel": "Registrierung"
+  },
+  {
+    "index": 18,
+    "doknr": "BJNR273010022BJNG000500000",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 19,
+    "doknr": "BJNR273010022BJNE001400000",
+    "enbez": "§ 13",
+    "titel": "Meldepflicht"
+  },
+  {
+    "index": 20,
+    "doknr": "BJNR273010022BJNE001501123",
+    "enbez": "§ 14",
+    "titel": "Meldepflichtige Informationen"
+  },
+  {
+    "index": 21,
+    "doknr": "BJNR273010022BJNE001600000",
+    "enbez": "§ 15",
+    "titel": "Meldeverfahren"
+  },
+  {
+    "index": 22,
+    "doknr": "BJNR273010022BJNG000600000",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 23,
+    "doknr": "BJNR273010022BJNE001700000",
+    "enbez": "§ 16",
+    "titel": "Anwendung der Sorgfaltspflichten"
+  },
+  {
+    "index": 24,
+    "doknr": "BJNR273010022BJNE001801123",
+    "enbez": "§ 17",
+    "titel": "Erhebung meldepflichtiger Informationen"
+  },
+  {
+    "index": 25,
+    "doknr": "BJNR273010022BJNE001900000",
+    "enbez": "§ 18",
+    "titel": "Überprüfung meldepflichtiger Informationen"
+  },
+  {
+    "index": 26,
+    "doknr": "BJNR273010022BJNE002000000",
+    "enbez": "§ 19",
+    "titel": "Identifizierung freigestellter Anbieter"
+  },
+  {
+    "index": 27,
+    "doknr": "BJNR273010022BJNE002100000",
+    "enbez": "§ 20",
+    "titel": "Frist zur Erfüllung der Sorgfaltspflichten"
+  },
+  {
+    "index": 28,
+    "doknr": "BJNR273010022BJNE002200000",
+    "enbez": "§ 21",
+    "titel": "Erfüllung der Sorgfaltspflichten durch Dritte"
+  },
+  {
+    "index": 29,
+    "doknr": "BJNR273010022BJNG000700000",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 30,
+    "doknr": "BJNR273010022BJNE002300000",
+    "enbez": "§ 22",
+    "titel": "Information der Anbieter"
+  },
+  {
+    "index": 31,
+    "doknr": "BJNR273010022BJNE002400000",
+    "enbez": "§ 23",
+    "titel": "Durchsetzung von Mitwirkungspflichten"
+  },
+  {
+    "index": 32,
+    "doknr": "BJNR273010022BJNE002500000",
+    "enbez": "§ 24",
+    "titel": "Aufzeichnungen; Aufbewahrungsfristen"
+  },
+  {
+    "index": 33,
+    "doknr": "BJNR273010022BJNG000800000",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 34,
+    "doknr": "BJNR273010022BJNE002600000",
+    "enbez": "§ 25",
+    "titel": "Bußgeldvorschriften"
+  },
+  {
+    "index": 35,
+    "doknr": "BJNR273010022BJNE002700000",
+    "enbez": "§ 26",
+    "titel": "Weitere Maßnahmen"
+  },
+  {
+    "index": 36,
+    "doknr": "BJNR273010022BJNE002800000",
+    "enbez": "§ 27",
+    "titel": "Koordination"
+  },
+  {
+    "index": 37,
+    "doknr": "BJNR273010022BJNG000900000",
+    "enbez": "",
+    "titel": ""
+  },
+  {
+    "index": 38,
+    "doknr": "BJNR273010022BJNE002900000",
+    "enbez": "§ 28",
+    "titel": "Rechtsweg"
+  },
+  {
+    "index": 39,
+    "doknr": "BJNR273010022BJNE003002123",
+    "enbez": "§ 29",
+    "titel": "Anwendungsbestimmungen"
+  }
+]
