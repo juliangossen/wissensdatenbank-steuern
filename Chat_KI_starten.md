@@ -2,6 +2,8 @@
 
 Die Verbindung läuft über den offiziellen Supabase-MCP. Dafür brauchst du keinen eigenen Server und kein laufendes Recherchefenster auf diesem PC.
 
+Für Claude gibt es zusätzlich den [Skill steuerrecht-recherche](Werkzeuge/Claude_Skill/README.md). Er enthält den Rechercheablauf und unterstützt auch einen eigenständigen Zugang zu den Quellen im GitHub-Repository. In Claude kann er die ausführliche Projektanweisung aus Abschnitt 2 übernehmen; für ChatGPT bleibt diese Anweisung direkt verwendbar.
+
 **Stand 10.09.2026:** Alle **58 registrierten Dokumente** sind vollständig in Supabase veröffentlicht. Aktiv ist `r-2ba1572b7978ca909270331f` mit **14.099 Fundstellen**, **23.261 Suchabschnitten samt Vektoren** und **1.173 Dateieinträgen**. Texte, Metadaten, Vektoren und Dateien wurden zurückgelesen und verglichen; ein separater Lesezugang bestätigt die neue aktive Fassung. [Prüfnachweis](Werkzeuge/Recherche/cloud/Vollimport_Pruefung.md)
 
 Deine bereits bestätigte Supabase-MCP-Verbindung bleibt dieselbe. Hat der Chat sich noch die alte Drei-Dokumente-Fassung gemerkt, sende einmal:
@@ -85,9 +87,10 @@ Suchvektoren und behaupte keine automatisch ausgeführte semantische Suche.
 Lies relevante Treffer vollständig, bevor du daraus Schlussfolgerungen ziehst:
 SELECT kb.read_item('RELEASE_ID', 'p', 'PROVISION_ID', 0, 12000);
 Verwende die Kennungen aus dem Suchtreffer. Das Ergebnis enthält text, offset,
-total_chars und Metadaten. Die Funktion liefert höchstens 12000 Zeichen pro
-Aufruf. Solange offset + 12000 kleiner als total_chars ist, rufe kb.read_item
-mit offset + 12000 erneut auf. Prüfe, dass die Toolausgabe selbst nicht gekürzt
+total_chars und Metadaten. Das Beispiel liest 12000 Zeichen pro Aufruf; die
+Funktion erlaubt höchstens 20000. Solange offset plus Länge des erhaltenen
+text kleiner als total_chars ist, rufe kb.read_item mit diesem Folgeoffset
+erneut auf. Prüfe, dass die Toolausgabe selbst nicht gekürzt
 wurde; bei gekürzter Ausgabe wiederhole mit kleineren Textfenstern und passe
 auch den Offset-Schritt an diese Fenstergröße an. Bewahre dabei
 dieselbe release_id und provision_id. Ein Suchauszug ersetzt keinen Volltext.

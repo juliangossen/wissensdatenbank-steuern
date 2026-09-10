@@ -2,6 +2,8 @@
 
 **Fragen direkt in Claude oder ChatGPT stellen:** [Supabase-Verbindung einrichten](Chat_KI_starten.md). Der offizielle Supabase-MCP liest die Cloud-Wissensdatenbank; ein eigenes Recherchefenster muss dafür nicht laufen.
 
+**Claude-Skill:** [Installation und Verwendung](Werkzeuge/Claude_Skill/README.md) · [Skill-ZIP](dist/steuerrecht-recherche.zip). Der Skill unterstützt Recherche über Supabase und direkt aus diesem GitHub-Repository.
+
 **58 Dokumente: 52 PDF-Dokumente (3.401 Seiten) und 6 Webkopien. Erfassung/Quellenprüfung: 09.09.2026.**
 
 Das Git-Repository enthält die registrierten Quellen, unveränderten Originaldateien, Prüfberichte, Werkzeuge und Anleitungen. Lokale Python-Umgebungen, heruntergeladene Modelle, erzeugte Suchindizes und Exportpakete werden nicht versioniert. Die [Recherche-Anleitung](Werkzeuge/Recherche/README.md) beschreibt die lokale Einrichtung; die [Cloud-Anleitung](Werkzeuge/Recherche/cloud/READMECloudSetup.md) beschreibt Supabase. Zugangsdaten werden separat eingerichtet. Git erhält die ursprünglichen Dateibytes einschließlich der Zeilenenden, damit die registrierten SHA-256-Prüfsummen gültig bleiben.

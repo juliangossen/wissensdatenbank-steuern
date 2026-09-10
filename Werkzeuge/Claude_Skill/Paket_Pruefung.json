@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-09-10T00:45:59.022895+00:00",
+  "archive": "dist/steuerrecht-recherche.zip",
+  "archive_sha256": "7ff156dc021b31e1e686f71602c420838943634c207b536b6a9b438123ca7599",
+  "archive_bytes": 15322,
+  "files": [
+    "steuerrecht-recherche/references/github.md",
+    "steuerrecht-recherche/references/supabase.md",
+    "steuerrecht-recherche/scripts/github_recherche.py",
+    "steuerrecht-recherche/SKILL.md"
+  ],
+  "byte_equal_to_skill_folder": true,
+  "reproducible_build": true,
+  "standalone_extracted_cli_passed": true,
+  "live_github_commit": "d5bf35baa89881ffc44d152da8b06db1e52874fb",
+  "live_catalog_documents": 58,
+  "live_document": "UStG",
+  "live_reference": "§ 25a",
+  "live_source_url": "https://github.com/juliangossen/wissensdatenbank-steuern/blob/d5bf35baa89881ffc44d152da8b06db1e52874fb/Rechtsgebiete/Steuerrecht/Gesetze/Umsatzsteuer/UStG/Stand_2026-09-09/UStG.md?plain=1#L2844-L2858",
+  "source_sha256_verified": true,
+  "claude_ui_installed": false
+}

@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-09-10T00:40:59.821758+00:00",
+  "release_id": "r-2ba1572b7978ca909270331f",
+  "sql_examples": [
+    {
+      "example": 1,
+      "status": "passed",
+      "rows": 1
+    },
+    {
+      "example": 2,
+      "status": "passed",
+      "rows": 15
+    },
+    {
+      "example": 3,
+      "status": "passed",
+      "rows": 8
+    },
+    {
+      "example": 4,
+      "status": "passed",
+      "rows": 1
+    },
+    {
+      "example": 5,
+      "status": "passed",
+      "rows": 1
+    },
+    {
+      "example": 6,
+      "status": "passed",
+      "rows": 1
+    },
+    {
+      "example": 7,
+      "status": "passed",
+      "rows": 1,
+      "document": "UStAE",
+      "reference": "3.14",
+      "rendered_image": false
+    }
+  ],
+  "paged_exact_reads": [
+    {
+      "document": "UStG",
+      "reference": "25a",
+      "pages": 1,
+      "chars": 5122,
+      "sha256_verified": true
+    },
+    {
+      "document": "UStAE",
+      "reference": "25a.1",
+      "pages": 4,
+      "chars": 36823,
+      "sha256_verified": true
+    },
+    {
+      "document": "EStG",
+      "reference": "7",
+      "pages": 2,
+      "chars": 12522,
+      "sha256_verified": true
+    }
+  ],
+  "github_worktree_register_source_hash_matches": 58,
+  "mutations": false,
+  "claude_ui_tested": false
+}
