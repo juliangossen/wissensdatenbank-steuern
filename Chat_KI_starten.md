@@ -4,13 +4,13 @@ Die Verbindung läuft über den offiziellen Supabase-MCP. Dafür brauchst du kei
 
 Für Claude gibt es zusätzlich den [Skill steuerrecht-recherche](Werkzeuge/Claude_Skill/README.md). Er enthält den Rechercheablauf und unterstützt auch einen eigenständigen Zugang zu den Quellen im GitHub-Repository. In Claude kann er die ausführliche Projektanweisung aus Abschnitt 2 übernehmen; für ChatGPT bleibt diese Anweisung direkt verwendbar.
 
-**Stand 10.09.2026:** Alle **58 registrierten Dokumente** sind vollständig in Supabase veröffentlicht. Aktiv ist `r-2ba1572b7978ca909270331f` mit **14.099 Fundstellen**, **23.261 Suchabschnitten samt Vektoren** und **1.173 Dateieinträgen**. Texte, Metadaten, Vektoren und Dateien wurden zurückgelesen und verglichen; ein separater Lesezugang bestätigt die neue aktive Fassung. [Prüfnachweis](Werkzeuge/Recherche/cloud/Vollimport_Pruefung.md)
+**Stand 14.09.2026:** Alle **60 registrierten Dokumente** sind vollständig in Supabase veröffentlicht. Aktiv ist `r-d3c4b6a7e0e2bb66a0693478` mit **14.195 Fundstellen**, **23.358 Suchabschnitten samt Vektoren** und **1.187 Dateieinträgen**. Texte, Metadaten, Vektoren und Dateien wurden zurückgelesen und verglichen; die aktive Fassung wurde nach dem COMMIT im Importlauf erneut abgefragt. [Prüfnachweis](Werkzeuge/BFH_Import_2026-09-14/Abschluss.md)
 
-Deine bereits bestätigte Supabase-MCP-Verbindung bleibt dieselbe. Hat der Chat sich noch die alte Drei-Dokumente-Fassung gemerkt, sende einmal:
+Deine bereits bestätigte Supabase-MCP-Verbindung bleibt dieselbe. Hat der Chat sich noch einen älteren Datenstand gemerkt, sende einmal:
 
-> Prüfe den aktiven Bestand mit `SELECT kb.release_info();` erneut. Erwartet werden 58 Dokumente in der Fassung `r-2ba1572b7978ca909270331f`. Ermittle die verfügbaren Quellen neu und verwende diese Fassung für meine nächsten Fragen.
+> Prüfe den aktiven Bestand mit `SELECT kb.release_info();` erneut. Erwartet werden 60 Dokumente in der Fassung `r-d3c4b6a7e0e2bb66a0693478`. Ermittle die verfügbaren Quellen neu und verwende diese Fassung für meine nächsten Fragen.
 
-Die neue Fassung wurde über die Datenbank-Lesezugänge geprüft; der Aufruf aus deiner Chatoberfläche wurde für diese Fassung noch nicht beobachtet.
+Die neue Fassung wurde über die Lese-API innerhalb des Importlaufs geprüft. Eine zusätzliche Prüfung mit einer separaten Leseranmeldung und ein erneuter Aufruf aus deiner Chatoberfläche sind für diese Fassung nicht dokumentiert.
 
 ## 1. Verbindung einmalig hinzufügen
 

@@ -1,16 +1,16 @@
 # Supabase mit Claude und ChatGPT verwenden
 
-Stand: 10.09.2026. Die gewählte persönliche Verbindung nutzt den **offiziellen Supabase-MCP**. Supabase stellt den Remote-Endpunkt und die Anmeldung bereit. Ein eigener Python-Server oder ein selbst eingerichteter OAuth-Dienst ist für diesen Zugang nicht erforderlich. Die Schrittfolge und kopierbare Projektanweisung stehen in **[Chat_KI_starten.md](../../../Chat_KI_starten.md)**.
+Stand: 14.09.2026. Die gewählte persönliche Verbindung nutzt den **offiziellen Supabase-MCP**. Supabase stellt den Remote-Endpunkt und die Anmeldung bereit. Ein eigener Python-Server oder ein selbst eingerichteter OAuth-Dienst ist für diesen Zugang nicht erforderlich. Die Schrittfolge und kopierbare Projektanweisung stehen in **[Chat_KI_starten.md](../../../Chat_KI_starten.md)**.
 
 ## Verbindungs- und Importstand
 
 Die Lesefunktionen im privaten Schema `kb` sind für den Supabase-MCP freigegeben. Der Nutzer hat die Anmeldung und den Abruf der früheren Pilotfassung aus Claude bestätigt. Ein Abruf der neuen Vollfassung innerhalb der Claude-Oberfläche ist noch nicht dokumentiert. ChatGPT erhält eine eigene Verbindung mit derselben Projektadresse.
 
-**Der vollständige Bestand ist in Supabase gespeichert und aktiviert.** Die aktive Fassung `r-2ba1572b7978ca909270331f` umfasst **58 Dokumente, 14.099 Fundstellen und Dokumentteile, 23.261 Suchvektoren sowie 1.173 Dateieinträge**. Die Originaldateien umfassen zusammen **280.675.147 Bytes**. Der Import wurde am **10.09.2026 um 00:11 Uhr (Berlin)** erfolgreich festgeschrieben; die separate Prüfung nach dem COMMIT bestätigte die aktive Fassung.
+**Der vollständige Bestand ist in Supabase gespeichert und aktiviert.** Die aktive Fassung `r-d3c4b6a7e0e2bb66a0693478` umfasst **60 Dokumente, 14.195 Fundstellen und Dokumentteile, 23.358 Suchvektoren sowie 1.187 Dateieinträge**. Die Dateiinhalte umfassen zusammen **280.955.832 Bytes**. Der Import wurde am **14.09.2026 um 21:24 Uhr (UTC)** erfolgreich festgeschrieben; der Importlauf fragte die aktive Fassung nach dem COMMIT erneut ab.
 
-Alle Datenzeilen einschließlich Texte, Metadaten und Vektoren sowie alle Dateibytes wurden verglichen. Die Lese-API lieferte sämtliche Fundstellen vollständig über **14.389 Textfenster**; Volltextsuche und **1.089 exakte Referenz- und Aliasprüfungen** deckten alle 58 Dokumente ab. Nachweise: [Vollimport-Prüfung](Vollimport_Pruefung.md) und [Importbericht mit `committed=true`](Importpruefung_apply.json). Die frühere Pilotfassung `r-ad68e666980668e7ca4e6b81` bleibt als historische Fassung erhalten; ihr [Importbericht ist separat archiviert](Importpruefung_Pilot_2026-09-09.json).
+Alle Datenzeilen einschließlich Texte, Metadaten und Vektoren sowie alle Dateibytes wurden verglichen. Die Lese-API lieferte sämtliche Fundstellen vollständig über **14.485 Textfenster**; Volltextsuche und **1.095 exakte Referenz- und Aliasprüfungen** deckten alle 60 Dokumente ab. Nachweise: [BFH-Importabschluss](../../BFH_Import_2026-09-14/Abschluss.md) und [fester Importbericht mit `committed=true`](../../BFH_Import_2026-09-14/Cloud_Importpruefung.json). Die frühere Pilotfassung `r-ad68e666980668e7ca4e6b81` bleibt als historische Fassung erhalten; ihr [Importbericht ist separat archiviert](Importpruefung_Pilot_2026-09-09.json).
 
-Eine [gesonderte Leserprüfung nach COMMIT](Vollimport_Lesepruefung.json) bestätigte den aktiven Umfang über die eigene Leseranmeldung, vollständige Abrufe von EStG § 7 mit 12.522 Zeichen und AO § 146 mit 5.583 Zeichen einschließlich SHA-256 sowie einen passenden Volltextsuchtreffer für EStG § 7. Diese Prüfung betrifft den Datenbankleser; sie ist keine Bestätigung einer erneuten Abfrage in der Claude-Oberfläche.
+Die [gesonderte Leserprüfung nach COMMIT](Vollimport_Lesepruefung.json) gehört zur historischen Fassung `r-2ba1572b7978ca909270331f` mit 58 Dokumenten. Sie bestätigte damals den Umfang über die eigene Leseranmeldung, vollständige Abrufe von EStG § 7 und AO § 146 einschließlich SHA-256 sowie einen passenden Volltextsuchtreffer. Für die aktuelle Fassung wurde kein zusätzlicher Test mit separater Leseranmeldung und kein erneuter Abruf aus einer Claude- oder ChatGPT-Oberfläche durchgeführt; die aktuellen Leseprüfungen gehören zum Importlauf.
 
 ## Persönliche MCP-Verbindung
 
@@ -28,7 +28,7 @@ Ohne übergebenen Suchvektor arbeitet `kb.hybrid_search` als deutsche Volltextsu
 
 ## Umfang und Ablage
 
-Die **58 registrierten Hauptdokumente stammen aus 52 PDF- und 6 TXT-Originalen**. Die zugehörigen Markdown-Haupttexte werden vollständig erschlossen. Alle Dateien der registrierten Standordner werden zusätzlich archiviert: Originale, Quellenabbildungen, Ergänzungen und Prüfbelege. Programmcode, Modelle und Cache sind nicht Bestandteil dieses Quellenarchivs.
+Die **60 registrierten Hauptdokumente stammen aus 52 PDF- und 8 TXT-Originalen**. Die zugehörigen Markdown-Haupttexte werden vollständig erschlossen. Alle Dateien der registrierten Standordner werden zusätzlich archiviert: Originale, Quellenabbildungen, Ergänzungen und Prüfbelege. Programmcode, Modelle und Cache sind nicht Bestandteil dieses Quellenarchivs.
 
 | Inhalt | Private Datenbankablage |
 | --- | --- |
@@ -65,9 +65,10 @@ Der vorhandene [Python-Adapter](postgres_store.py) unterstützt weiterhin `searc
 
 ## Nachweise
 
-- [Vollimport und Abnahme](Vollimport_Pruefung.md), [Projektstatus](projekt.json) und [abgeschlossene Cloud-Importprüfung](Importpruefung_apply.json)
-- [Vollimport-Exportvertrag](Vollimport_Exportvertrag.json): lokaler Vertragstest, keine Cloudübertragung
+- [Aktueller BFH-Importabschluss](../../BFH_Import_2026-09-14/Abschluss.md), [fester Cloud-Importnachweis](../../BFH_Import_2026-09-14/Cloud_Importpruefung.json) und [Projektstatus](projekt.json)
+- Historische Fassung mit 58 Dokumenten: [Vollimport und Abnahme](Vollimport_Pruefung.md), [damaliger Importbericht](../../BFH_Import_2026-09-14/Cloud_Vorbestand.json) und [separate Leserprüfung](Vollimport_Lesepruefung.json)
+- [Historischer Vollimport-Exportvertrag für 58 Dokumente](Vollimport_Exportvertrag.json): lokaler Vertragstest, keine Cloudübertragung
 - [Supabase-MCP-Berechtigungen und Benutzerbestätigung](Supabase_MCP_Berechtigungen.json)
 - Historische Pilotprüfungen: [Cloudimport vom 09.09.2026](Importpruefung_Pilot_2026-09-09.json), [Rechercheprüfung](../Pruefung.md), [Python-MCP mit Cloudreader](MCP_Cloudpruefung.json), [lokaler HTTP-Transport](HTTP_Cloudpruefung.json)
 
-Die historischen Pilotmessungen beziehen sich auf drei Dokumente. Der vollständige neue Cloudimport ist separat im aktuellen Importbericht nachgewiesen. Der dokumentierte Quellenimport bleibt der 09.09.2026; der Abschluss am 10.09.2026 ist kein neues rechtliches Geltungsdatum.
+Die historischen Pilotmessungen beziehen sich auf drei Dokumente; die Vollimport- und Leserprüfung vom 10.09.2026 betrifft 58 Dokumente. Der aktuelle Cloudimport mit 60 Dokumenten ist im BFH-Importbericht separat nachgewiesen. Die bisherigen Quellen behalten ihre Erfassung vom 09.09.2026; die beiden BFH-Webkopien wurden am 14.09.2026 ergänzt. Weder Erfassung noch Cloudabschluss sind neue rechtliche Geltungsdaten.

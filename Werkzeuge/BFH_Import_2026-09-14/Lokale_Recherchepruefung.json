@@ -1,0 +1,17 @@
+{
+  "exact_references": [
+    {
+      "document": "BFH V R 6/12",
+      "reference": "Rn. 46",
+      "characters": 1118,
+      "release_id": "r-d3c4b6a7e0e2bb66a0693478"
+    },
+    {
+      "document": "BFH V R 7/12",
+      "reference": "Rn. 58",
+      "characters": 437,
+      "release_id": "r-d3c4b6a7e0e2bb66a0693478"
+    }
+  ],
+  "missing_margin_correctly_rejected": true
+}

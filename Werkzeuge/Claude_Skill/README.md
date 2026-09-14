@@ -21,6 +21,8 @@ Die Installation in deinem Claude-Konto ist ein eigener Schritt. Die lokale Pake
 
 ## Supabase und GitHub
 
+**Veröffentlichter Cloudbestand (14.09.2026):** 60 Dokumente in der Fassung `r-d3c4b6a7e0e2bb66a0693478`. Die beiden BFH-Webkopien sind in der Cloudsuche enthalten. [Importabschluss und Prüfnachweis](../BFH_Import_2026-09-14/Abschluss.md). Der GitHub-Zugang liest den jeweils veröffentlichten Repository-Commit; ein lokaler Quellenimport veröffentlicht diesen nicht automatisch.
+
 | Zugang | Arbeitsweise | Voraussetzung |
 | --- | --- | --- |
 | Supabase | Deutsche Volltextsuche über den veröffentlichten Gesamtbestand, gezielte Normabfrage und vollständige Textfenster | Bestehender Supabase-MCP mit Lesezugriff |
@@ -30,7 +32,7 @@ Der Skill hält für jede Recherche die konkrete Release-ID oder Commit-SHA fest
 
 Die vorhandenen e5-Vektoren werden durch den Skill nicht um einen automatischen Dienst für Fragevektoren ergänzt. Die beiden genannten Zugänge verwenden ohne zusätzliches Modell keine semantische Suche. Ebenso führt der Skill keine tägliche Aktualisierung der Quellen durch.
 
-Die normale GitHub-Integration von Claude übernimmt ausgewählte Dateien in den Kontext. Ein Repository-Link allein aktiviert keine Suche in allen 58 großen Dokumenten. Der mitgelieferte Helfer lädt die jeweils ausgewählten Dateien vollständig und prüft sie vor der Ausgabe gegen das Register. Bei gesperrtem Netzwerk kann der Supabase-MCP weiterhin verwendet werden, soweit er im Chat verfügbar ist.
+Die normale GitHub-Integration von Claude übernimmt ausgewählte Dateien in den Kontext. Ein Repository-Link allein aktiviert keine Suche in allen 60 registrierten Dokumenten. Der mitgelieferte Helfer lädt die jeweils ausgewählten Dateien vollständig und prüft sie vor der Ausgabe gegen das Register. Bei gesperrtem Netzwerk kann der Supabase-MCP weiterhin verwendet werden, soweit er im Chat verfügbar ist.
 
 ## In Claude Code
 

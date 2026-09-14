@@ -1,5 +1,7 @@
 # Vollständiger Import nach Supabase
 
+**Historischer Nachweis:** Dieser Bericht beschreibt die Fassung mit 58 Dokumenten vom 10.09.2026. Den aktuellen Bestand mit der BFH-Ergänzung dokumentiert der [Importabschluss vom 14.09.2026](../../BFH_Import_2026-09-14/Abschluss.md).
+
 Abgeschlossen am **10.09.2026 um 00:11 Uhr (Europe/Berlin)**. Alle 58 in `Bestand.json` registrierten Dokumente sind in Supabase veröffentlicht; der Quellenimport bleibt auf den **09.09.2026** datiert.
 
 Aktive Fassung: `r-2ba1572b7978ca909270331f` im Projekt `vtriyndfmuwzqwrkpkde`.
@@ -36,7 +38,7 @@ Die bestehende Verbindung verwendet dieselbe Adresse. Ein laufender Chat muss de
 
 ## Nachweise
 
-- [Vollständiger Importbericht mit erfolgreichem Commit](Importpruefung_apply.json)
+- [Vollständiger Importbericht mit erfolgreichem Commit](../../BFH_Import_2026-09-14/Cloud_Vorbestand.json)
 - [Unabhängige Prüfung über den separaten Leserlogin nach dem Commit](Vollimport_Lesepruefung.json)
 - [Historischer Bericht zum Drei-Dokumente-Piloten](Importpruefung_Pilot_2026-09-09.json)
 - [Freigabe für den offiziellen Supabase-MCP](Supabase_MCP_Berechtigungen.json)

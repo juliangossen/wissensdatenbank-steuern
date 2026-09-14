@@ -16,13 +16,13 @@
   "files_uploaded": true,
   "remote_mcp_deployed": false,
   "custom_remote_mcp_deployed": false,
-  "note": "Cloudfassung mit 58 registrierten Dokumenten vollständig hochgeladen, zurückgelesen und aktiviert. Die MCP-Clientverbindung wird gesondert geprüft.",
+  "note": "Cloudfassung mit 60 registrierten Dokumenten vollständig hochgeladen, zurückgelesen und aktiviert. Die MCP-Clientverbindung wird gesondert geprüft.",
   "connection_check": {
     "database": "postgres",
     "postgres_version": "17.6",
     "kb_schema_present": true
   },
-  "active_release": "r-2ba1572b7978ca909270331f",
+  "active_release": "r-d3c4b6a7e0e2bb66a0693478",
   "asset_storage": "private_postgres_bytea",
   "storage_bucket_created": false,
   "reader_login_tested": true,

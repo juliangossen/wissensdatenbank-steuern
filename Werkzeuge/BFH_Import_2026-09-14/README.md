@@ -16,3 +16,5 @@ Wiederholung im Projektordner:
 Der Konverter verwendet bereits archivierte Originale erneut. Beim Erstimport wurden die beiden Eingangsdateien nach erfolgreicher Prüfung ihrer identischen SHA-256-Prüfsummen aus dem Hauptordner in das Web-Archiv verschoben. Der erneute Konverterlauf verschiebt oder löscht keine Eingangsdateien.
 
 Die gesamte registrierte Sammlung einschließlich beider Urteile wird mit `Werkzeuge/Recherche/cloud/sync.py` lokal indexiert, übertragen, zurückgelesen und erst nach erfolgreicher Prüfung in Supabase aktiviert. Für einen regulären Import keinen auf einzelne Dokumente begrenzten Pilotlauf aktivieren.
+
+Der [Importabschluss](Abschluss.md) enthält den aktivierten Cloudbestand und den festen Prüfbericht. Nach erfolgreichem Cloud-Sync aktualisiert `dokumentation_aktualisieren.py` die Bestandsangaben in den Anleitungen aus diesem Bericht. Die [lokale Rechercheprüfung](Lokale_Recherchepruefung.json) bestätigt den Abruf der letzten Randnummer beider Kopien und die korrekte Abweisung der fehlenden Rn. 16 in V R 6/12.

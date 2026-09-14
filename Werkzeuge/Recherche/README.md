@@ -1,18 +1,18 @@
 # Wissensdatenbank für Claude und ChatGPT
 
-Stand: 10.09.2026. Die Fragen werden direkt in Claude oder ChatGPT gestellt. Die persönliche Verbindung verwendet den offiziellen Supabase-MCP und die gemeinsame Datenbank `steuerrecht-wissensdatenbank`. Dafür sind kein eigener MCP-Server und kein laufendes Recherchefenster auf diesem PC erforderlich. Einrichtung und Projektanweisung: **[Chat_KI_starten.md](../../Chat_KI_starten.md)**.
+Stand: 14.09.2026. Die Fragen werden direkt in Claude oder ChatGPT gestellt. Die persönliche Verbindung verwendet den offiziellen Supabase-MCP und die gemeinsame Datenbank `steuerrecht-wissensdatenbank`. Dafür sind kein eigener MCP-Server und kein laufendes Recherchefenster auf diesem PC erforderlich. Einrichtung und Projektanweisung: **[Chat_KI_starten.md](../../Chat_KI_starten.md)**.
 
 ## Aktueller Stand
 
-**Alle 58 registrierten Dokumente sind vollständig in Supabase gespeichert und aktiviert.** Die Cloudfassung `r-2ba1572b7978ca909270331f` enthält **14.099 Fundstellen und Dokumentteile**, **23.261 Suchvektoren** sowie **1.173 Dateieinträge mit insgesamt 280.675.147 Bytes**. Der Import wurde am **10.09.2026 um 00:11 Uhr (Berlin)** erfolgreich abgeschlossen. Alle gespeicherten Texte, Metadaten, Vektoren und Dateiinhalte wurden zurückgelesen und verglichen; sämtliche Fundstellen wurden zusätzlich über **14.389 Textfenster** der Lese-API geprüft.
+**Alle 60 registrierten Dokumente sind vollständig in Supabase gespeichert und aktiviert.** Die Cloudfassung `r-d3c4b6a7e0e2bb66a0693478` enthält **14.195 Fundstellen und Dokumentteile**, **23.358 Suchvektoren** sowie **1.187 Dateieinträge mit insgesamt 280.955.832 Bytes**. Der Import wurde am **14.09.2026 um 21:24 Uhr (UTC)** erfolgreich abgeschlossen. Alle gespeicherten Texte, Metadaten, Vektoren und Dateiinhalte wurden zurückgelesen und verglichen; sämtliche Fundstellen wurden zusätzlich über **14.485 Textfenster** der Lese-API geprüft.
 
-Die persönliche Supabase-Anmeldung und der Abruf der früheren Pilotfassung aus Claude wurden vom Nutzer bestätigt. Die neue Vollfassung ist in der Datenbank geprüft; ihr erneuter Abruf innerhalb der Claude-Oberfläche ist damit noch nicht dokumentiert. Die Verbindung in ChatGPT wird separat eingerichtet und geprüft. Eine bestehende Claude-Verbindung muss wegen des neuen Datenstands nicht erneut eingerichtet werden. Den freigegebenen Bestand zeigt `SELECT kb.release_info();`.
+Die persönliche Supabase-Anmeldung und der Abruf der früheren Pilotfassung aus Claude wurden vom Nutzer bestätigt. Die aktuelle Fassung ist im Importlauf über die Datenbank-Lese-API geprüft; ein neuer Test mit separater Leseranmeldung oder innerhalb der Claude- beziehungsweise ChatGPT-Oberfläche ist damit nicht dokumentiert. Eine bestehende Verbindung muss wegen des neuen Datenstands nicht erneut eingerichtet werden. Den freigegebenen Bestand zeigt `SELECT kb.release_info();`.
 
 ## Was zum vollständigen Bestand gehört
 
-Das Register [Bestand.json](../../Bestand.json) enthält **58 Hauptdokumente mit 52 PDF- und 6 TXT-Ursprungsdateien**. Durchsucht werden die zugehörigen aufbereiteten Markdown-Texte: Paragraphen, Artikel, Richtlinienabschnitte, Randnummern und bislang nicht zugeordnete Textteile. Ergänzungen bleiben als eigene Quellen gekennzeichnet und behalten ihren eigenen Quellpfad und ihre Prüfsumme.
+Das Register [Bestand.json](../../Bestand.json) enthält **60 Hauptdokumente mit 52 PDF- und 8 TXT-Ursprungsdateien**. Durchsucht werden die zugehörigen aufbereiteten Markdown-Texte: Paragraphen, Artikel, Richtlinienabschnitte, Randnummern und bislang nicht zugeordnete Textteile. Ergänzungen bleiben als eigene Quellen gekennzeichnet und behalten ihren eigenen Quellpfad und ihre Prüfsumme.
 
-Alle Dateien der zugehörigen Standordner werden zusätzlich unverändert archiviert, einschließlich Originalen, Quellenabbildungen, Ergänzungen und Prüfbelegen. Die Dateieinträge sind deshalb zahlreicher als die 58 Hauptdokumente. Prüfunterlagen bleiben von Rechtsnormen unterscheidbar. Programmcode, virtuelle Umgebung, Modelle und Cache gehören nicht zu diesem Quellenarchiv.
+Alle Dateien der zugehörigen Standordner werden zusätzlich unverändert archiviert, einschließlich Originalen, Quellenabbildungen, Ergänzungen und Prüfbelegen. Die Dateieinträge sind deshalb zahlreicher als die 60 Hauptdokumente. Prüfunterlagen bleiben von Rechtsnormen unterscheidbar. Programmcode, virtuelle Umgebung, Modelle und Cache gehören nicht zu diesem Quellenarchiv.
 
 Texte, Metadaten, Fußnoten, HTML-Tabellen und Verweise bleiben erhalten. Lange Texte werden in aufeinanderfolgenden Textfenstern gelesen. Importdatum, dokumentierter Quellenstand und fachlich belegte Geltungszeiträume bleiben getrennt; ein aktiver Sammlungsstand beweist keine rechtliche Geltung an einem bestimmten Tag.
 
@@ -46,8 +46,9 @@ Der eigene Python-MCP mit `search`, `fetch`, `get_provision`, `list_versions` un
 Die lokale Datenbank verwendet SQLite/FTS5 und NumPy; Supabase verwendet PostgreSQL mit deutscher Volltextsuche und pgvector. Originaldateien liegen privat als unveränderte Bytes in `kb.asset_contents`. Ein Supabase-Storagebucket ist nicht Teil dieser Ablage. Der lokale Export unter `.daten/Cloud_Pakete/` enthält JSONL-Dateien, Originaldateien und ein Prüfsummenmanifest. Der aktuelle Paketpfad steht in `.daten/Cloud_Paketpfad.json`; ein zweites normalisiertes Dateipaket ist beim neuen Aktualisierungslauf nicht erforderlich.
 
 - [Cloud-Einrichtung und Leserechte](cloud/READMECloudSetup.md)
-- [Vollimport und Abnahme](cloud/Vollimport_Pruefung.md), [aktueller Projektstatus](cloud/projekt.json), [abgeschlossene Cloud-Importprüfung](cloud/Importpruefung_apply.json) und [gesonderte Leserprüfung nach COMMIT](cloud/Vollimport_Lesepruefung.json)
-- [Lokaler Exportvertrag für den Vollbestand](cloud/Vollimport_Exportvertrag.json): ausdrücklich ein Test ohne Cloudübertragung
+- [BFH-Ergänzung und aktueller Cloudabschluss](../BFH_Import_2026-09-14/Abschluss.md), [fester Importnachweis](../BFH_Import_2026-09-14/Cloud_Importpruefung.json) und [aktueller Projektstatus](cloud/projekt.json)
+- Historische Fassung mit 58 Dokumenten: [Vollimport und Abnahme](cloud/Vollimport_Pruefung.md) und [damalige separate Leserprüfung](cloud/Vollimport_Lesepruefung.json)
+- [Historischer lokaler Exportvertrag für 58 Dokumente](cloud/Vollimport_Exportvertrag.json): ausdrücklich ein Test ohne Cloudübertragung
 - [Supabase-MCP-Freigabe und vom Nutzer bestätigte Anmeldung](cloud/Supabase_MCP_Berechtigungen.json)
 - Historische Pilotnachweise: [Cloudimport vom 09.09.2026](cloud/Importpruefung_Pilot_2026-09-09.json), [Pruefung.md](Pruefung.md), [Python-MCP mit Cloudreader](cloud/MCP_Cloudpruefung.json), [lokaler HTTP-Transport mit Cloudreader](cloud/HTTP_Cloudpruefung.json)
 
