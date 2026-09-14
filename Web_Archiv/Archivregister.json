@@ -164,6 +164,52 @@
       "anlagen": 2,
       "fussnoten": 224,
       "typ": "Verwaltungsanweisung (Webkopie)"
+    },
+    {
+      "dokument": "BFH V R 6/12 vom 19.12.2013 – Zeitliche Grenze der Rücknahme des Verzichts auf Steuerbefreiungen; Beendigung der Stellung eines „Dritten” durch Verschmelzung",
+      "kuerzel": "BFH V R 6/12",
+      "bereich": "Steuerrecht / Rechtsprechung / Umsatzsteuer / BFH",
+      "typ": "Rechtsprechung (Webkopie)",
+      "urspruenglicher_dateiname": "v_r_6_12.txt",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-14",
+      "erfasst_am": "2026-09-14",
+      "quellenabgleich": "2026-09-14",
+      "quellenstand": [
+        "BFH-Urteil vom 19.12.2013, V R 6/12; Verlagskopie aus DStR 2014, 1109.",
+        "Amtliche BFH-Seite am 14.09.2026: Aktenzeichen, Entscheidungsdatum und Randnummernfolge 1–46 geprüft. Die Vorinstanz ist dort mit 25.10.2011, in der gelieferten Kopie mit 26.10.2011 angegeben. Kein vollständiger Wortlautvergleich; keine Prüfung späterer Rechtsprechung."
+      ],
+      "quellformat": "Webkopie (TXT)",
+      "original_quelle": "Web_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-14/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_6_12/v_r_6_12.txt",
+      "markdown": "Rechtsgebiete/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_6_12/Stand_2026-09-14/V_R_6_12.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_6_12/Stand_2026-09-14/Pruefung/Pruefbericht.md",
+      "sha256_original_quelle": "ebe999633a0d85201c9a5bdd69faf3daacbe4964c3f0b39e4034d847b64b987b",
+      "sha256_markdown": "825070913d8882195a9c1a751402e07681fe27cb65783359ac215033d825205e",
+      "quelle": "Vom Nutzer bereitgestellte Verlags-/Webtextkopie; genaue Ausgangs-URL nicht mitkopiert. Amtliche BFH-Entscheidung: https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201410110/",
+      "vollstaendigkeit": "Alle 48 nichtleeren Quellzeilen vollständig und zeichengetreu übertragen; 29 Randnummern mit Sprungmarken. Die gelieferte Kopie enthält Rn. 1–15 und 33–46. Statt Rn. 16–32 steht dort wörtlich „6-32 (inhaltsgleich zu BFH v. 19. 12. 2013, V R 7/12, DStR 2014, 1104 – in diesem Heft –, Rz. 16-31)“. Dieser Auslassungsvermerk bleibt unverändert; fehlende Randnummern werden nicht aus dem Parallelurteil ergänzt."
+    },
+    {
+      "dokument": "BFH V R 7/12 vom 19.12.2013 – Zeitliche Grenze der Rücknahme des Verzichts auf Steuerbefreiungen; Änderungsmöglichkeit nach § 174 Abs. 3 AO bei unterlassenem Steuerbescheid",
+      "kuerzel": "BFH V R 7/12",
+      "bereich": "Steuerrecht / Rechtsprechung / Umsatzsteuer / BFH",
+      "typ": "Rechtsprechung (Webkopie)",
+      "urspruenglicher_dateiname": "v_r_7_12.txt",
+      "status": "in_markdown_umgewandelt",
+      "archivversion": "Stand_2026-09-14",
+      "erfasst_am": "2026-09-14",
+      "quellenabgleich": "2026-09-14",
+      "quellenstand": [
+        "BFH-Urteil vom 19.12.2013, V R 7/12; Verlagskopie aus MwStR 2014, 480.",
+        "Amtliche BFH-Seite am 14.09.2026: Aktenzeichen, Entscheidungsdatum und Randnummernfolge 1–58 geprüft. Die Vorinstanz ist dort mit 25.10.2011, in der gelieferten Kopie mit 26.10.2011 angegeben. Kein vollständiger Wortlautvergleich; keine Prüfung späterer Rechtsprechung."
+      ],
+      "quellformat": "Webkopie (TXT)",
+      "original_quelle": "Web_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-14/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_7_12/v_r_7_12.txt",
+      "markdown": "Rechtsgebiete/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_7_12/Stand_2026-09-14/V_R_7_12.md",
+      "pruefbericht": "Rechtsgebiete/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_7_12/Stand_2026-09-14/Pruefung/Pruefbericht.md",
+      "sha256_original_quelle": "41255cef41050f5e992c17e2d9fca602c1f6c82a971515130028794f1bbf7e68",
+      "sha256_markdown": "807a1d2d75882bd800afce85fabc3278f0ebb3ed3678eafcc69077b2a303b714",
+      "quelle": "Vom Nutzer bereitgestellte Verlags-/Webtextkopie; genaue Ausgangs-URL nicht mitkopiert. Amtliche BFH-Entscheidung: https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201410111/",
+      "vollstaendigkeit": "Alle 116 nichtleeren Quellzeilen vollständig und zeichengetreu übertragen; 58 Randnummern mit Sprungmarken. Die gelieferte Kopie enthält Rn. 1–58 sowie die gesonderte „Erste Einordnung“ von Ursula Slapio. Die Anmerkung und die redaktionellen Zwischenüberschriften sind keine gerichtlichen Entscheidungsgründe. Die Zwischenüberschrift vor Rn. 58 nennt „§ 173 Abs. 3 AO“, der folgende Absatz dagegen § 174 Abs. 3 AO; die abweichende Überschrift wird unverändert erhalten."
     }
   ]
 }

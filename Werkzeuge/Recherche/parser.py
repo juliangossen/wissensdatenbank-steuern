@@ -16,7 +16,7 @@ import re
 import unicodedata
 from urllib.parse import unquote, urlsplit
 
-PARSER_VERSION = "registered-provisions-v4"
+PARSER_VERSION = "registered-provisions-v5"
 
 
 class ParseError(ValueError):
@@ -252,6 +252,12 @@ def _provision_headings(markdown: str, abbreviation: str) -> list[dict]:
         anchor = heading["anchor"] or ""
         if not anchor:
             heading["reference"] = None
+        # Court decisions use explicit Markdown headings for integer margin
+        # numbers. Require a matching source anchor so quoted margin headings
+        # and incidental numeric anchors do not become independent provisions.
+        margin = re.fullmatch(r"Rn\.\s+(\d+)", heading["title"])
+        if margin and anchor == "rn-" + margin.group(1):
+            heading["reference"] = "Rn. " + margin.group(1)
         if anchor.startswith("historisch-") and heading["reference"]:
             historical = re.match(r"(.+?\b(?:EStR|EStH)\s+\d{4})\b", heading["title"])
             _require(bool(historical), f"Historische Fassung ohne eindeutige Bezeichnung: {heading['title']}")

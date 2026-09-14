@@ -1,5 +1,6 @@
 """Erstellt den zentralen Index aus den archivierten Konfigurationen und Quellen."""
 from pathlib import Path
+from datetime import date
 import hashlib,json,re,subprocess
 ROOT=Path(__file__).resolve().parent.parent
 DATE='2026-09-09'
@@ -44,7 +45,7 @@ for item in items:
 web_register=ROOT/'Web_Archiv/Archivregister.json'
 if web_register.is_file():
  web_archive=json.loads(web_register.read_text(encoding='utf-8'))
- web_entries=[e for e in web_archive['eintraege'] if e['archivversion']=='Stand_'+DATE]
+ web_entries=[e for e in web_archive['eintraege'] if e['status']=='in_markdown_umgewandelt']
  assert len(web_entries)==len({e['original_quelle'] for e in web_entries}), 'Doppelte Webquelle im Archivregister'
  for entry in web_entries:
   assert entry['status']=='in_markdown_umgewandelt'
@@ -74,9 +75,20 @@ pending_web=[p for p in (ROOT/'Web_Archiv/01_Unbearbeitet').rglob('*') if p.is_f
 pdf_count=sum('original_pdf' in x for x in items)
 web_count=len(items)-pdf_count
 web_label='Webkopie' if web_count==1 else 'Webkopien'
-manifest={'quellenabgleich':DATE,'dokumente':len(items),'pdf_dokumente':pdf_count,'webkopien':web_count,'pdf_seiten_gesamt':sum(x.get('pdf_seiten',0) for x in items),'originaldateien_unveraendert':True,'unbearbeitete_pdfs':[p.relative_to(ROOT).as_posix() for p in pending],'unbearbeitete_webquellen':[p.relative_to(ROOT).as_posix() for p in pending_web],'eintraege':items}
+checked_dates=sorted({date.fromisoformat(x['quellenabgleich']) for x in items})
+collection_date=checked_dates[-1].isoformat()
+checked_label=checked_dates[0].strftime('%d.%m.%Y')
+if len(checked_dates)>1:
+ checked_label+=' bis '+checked_dates[-1].strftime('%d.%m.%Y')
+manifest={'quellenabgleich':collection_date,'dokumente':len(items),'pdf_dokumente':pdf_count,'webkopien':web_count,'pdf_seiten_gesamt':sum(x.get('pdf_seiten',0) for x in items),'originaldateien_unveraendert':True,'unbearbeitete_pdfs':[p.relative_to(ROOT).as_posix() for p in pending],'unbearbeitete_webquellen':[p.relative_to(ROOT).as_posix() for p in pending_web],'eintraege':items}
 (ROOT/'Bestand.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-parts=['# Rechts- und Steuerwissensdatenbank',f'**{len(items)} Dokumente: {pdf_count} PDF-Dokumente ({manifest["pdf_seiten_gesamt"]:,} Seiten) und {web_count} {web_label}. Erfassung/Quellenprüfung: 09.09.2026.**'.replace(',','.'),'Die registrierten Quellen sind in Markdown umgewandelt und gegen die bereitgestellten Dateien geprüft. Die Original-PDFs liegen unverändert im [versionierten PDF-Archiv](PDF_Archiv/README.md). Dort sind Bearbeitungsstatus, PDF und zugehöriger Markdown-Volltext direkt verknüpft. Neue PDFs kommen in [01_Unbearbeitet](PDF_Archiv/01_Unbearbeitet/README.md). Zu jedem Dokument gehören Quellen und nachvollziehbare Prüfberichte. Änderungsstand, Umfang und Einschränkungen des Quellenabgleichs stehen im jeweiligen Dokument. Das Datum des Stand-Ordners bezeichnet die Erfassung beziehungsweise Quellenprüfung und bestätigt für sich allein keine aktuelle amtliche Gesamtfassung.',f'**Bearbeitungsstatus:** {len(items)} in Markdown umgewandelt; unbearbeitete PDFs: {len(pending)}; unbearbeitete Webquellen: {len(pending_web)}.']
+parts=['# Rechts- und Steuerwissensdatenbank',
+ '**Fragen direkt in Claude oder ChatGPT stellen:** [Supabase-Verbindung einrichten](Chat_KI_starten.md). Der offizielle Supabase-MCP liest die Cloud-Wissensdatenbank; ein eigenes Recherchefenster muss dafür nicht laufen.',
+ '**Claude-Skill:** [Installation und Verwendung](Werkzeuge/Claude_Skill/README.md) · [Skill-ZIP](dist/steuerrecht-recherche.zip). Der Skill unterstützt Recherche über Supabase und direkt aus diesem GitHub-Repository.',
+ f'**{len(items)} Dokumente: {pdf_count} PDF-Dokumente ({manifest["pdf_seiten_gesamt"]:,} Seiten) und {web_count} {web_label}. Erfassung/Quellenprüfung: {checked_label}.**'.replace(',','.'),
+ 'Das Git-Repository enthält die registrierten Quellen, unveränderten Originaldateien, Prüfberichte, Werkzeuge und Anleitungen. Lokale Python-Umgebungen, heruntergeladene Modelle, erzeugte Suchindizes und Exportpakete werden nicht versioniert. Die [Recherche-Anleitung](Werkzeuge/Recherche/README.md) beschreibt die lokale Einrichtung; die [Cloud-Anleitung](Werkzeuge/Recherche/cloud/READMECloudSetup.md) beschreibt Supabase. Zugangsdaten werden separat eingerichtet. Git erhält die ursprünglichen Dateibytes einschließlich der Zeilenenden, damit die registrierten SHA-256-Prüfsummen gültig bleiben.',
+ 'Die registrierten Quellen sind in Markdown umgewandelt und gegen die bereitgestellten Dateien geprüft. Die Original-PDFs liegen unverändert im [versionierten PDF-Archiv](PDF_Archiv/README.md). Dort sind Bearbeitungsstatus, PDF und zugehöriger Markdown-Volltext direkt verknüpft. Neue PDFs kommen in [01_Unbearbeitet](PDF_Archiv/01_Unbearbeitet/README.md). Zu jedem Dokument gehören Quellen und nachvollziehbare Prüfberichte. Änderungsstand, Umfang und Einschränkungen des Quellenabgleichs stehen im jeweiligen Dokument. Das Datum des Stand-Ordners bezeichnet die Erfassung beziehungsweise Quellenprüfung und bestätigt für sich allein keine aktuelle amtliche Gesamtfassung.',
+ f'**Bearbeitungsstatus:** {len(items)} in Markdown umgewandelt; unbearbeitete PDFs: {len(pending)}; unbearbeitete Webquellen: {len(pending_web)}.']
 if web_count:
  parts.append('Unveränderte Textkopien von Webseiten liegen im [Web-Archiv](Web_Archiv/README.md). Die dortigen Prüfberichte unterscheiden die vollständige Übertragung der gelieferten Kopie von der Vollständigkeit und Aktualität der amtlichen Gesamtfassung.')
 for group in ['Steuerrecht','Weitere Rechtsgebiete']:
@@ -90,7 +102,7 @@ for group in ['Steuerrecht','Weitere Rechtsgebiete']:
 parts.append('## GoBD: Verwaltungsanweisungen')
 parts.append('Die drei BMF-Schreiben bleiben als vollständige Einzeldokumente erhalten. Das Grundschreiben und seine beiden Änderungen werden nicht zu einer eigenständig konsolidierten Fassung vermischt. Die jüngste im Quellenabgleich gefundene Änderung datiert vom 14.07.2025. Der eingeschränkte Onlineabgleich des Grundschreibens von 2019 ist in der [GoBD-Dokumentation](Rechtsgebiete/Steuerrecht/Verwaltungsanweisungen/GoBD/Stand_2026-09-09/README.md) erläutert.')
 parts.append('\n'.join(['| Dokument | PDF-Seiten |','| --- | ---: |',*[f'| {md_link(x["titel"],x["markdown"])} | {x["pdf_seiten"]} |' for x in items if x['typ']=='BMF-Schreiben']]))
-web_items=[x for x in items if x['typ'].endswith('(Webkopie)')]
+web_items=[x for x in items if x['typ'].endswith('(Webkopie)') and not x['typ'].startswith('Rechtsprechung')]
 if web_items:
  parts.append('## Verwaltungsanweisungen und Verordnungen aus Webkopien' if any(not x['typ'].startswith('Verwaltungsanweisung') for x in web_items) else '## Verwaltungsanweisungen aus Webkopien')
  parts.append('Die Textkopien werden mit ihrer ursprünglichen Standangabe archiviert. Erfassungsdatum und ein später datierter Standordner ändern diese Standangabe nicht. Fehlende Inhalte oder Abbildungen der Ausgangskopie und der Abgleich mit amtlichen Quellen sind im jeweiligen Prüfnachweis dokumentiert.')
@@ -101,8 +113,19 @@ if web_items:
  parts.append('\n'.join(rows))
  for x in web_items:
   parts.append(f'**{x["kuerzel"]} – Übertragungsumfang:** {x["vollstaendigkeit"]}')
+case_items=[x for x in items if x['typ']=='Rechtsprechung (Webkopie)']
+if case_items:
+ parts.append('## Rechtsprechung aus Webkopien')
+ parts.append('Die Entscheidungen sind als einzelne Dokumente mit Gericht, Entscheidungsdatum und Aktenzeichen erfasst. Das Datum des Standordners bezeichnet die Erfassung beziehungsweise Quellenprüfung; es ändert das Entscheidungsdatum nicht. Der Übertragungsumfang der bereitgestellten Kopie und ein etwaiger amtlicher Abgleich stehen im jeweiligen Prüfnachweis.')
+ rows=['| Entscheidung | Originalquelle | Quellenstand | Prüfnachweis |','| --- | --- | --- | --- |']
+ for x in case_items:
+  stand='; '.join(x['quellenstand']).replace('|','\\|')
+  rows.append(f'| {md_link(x["kuerzel"],x["markdown"])} | {md_link(x["quellformat"],x["original_quelle"])} | {stand} | {md_link("Prüfbericht",x["pruefbericht"])} |')
+ parts.append('\n'.join(rows))
+ for x in case_items:
+  parts.append(f'**{x["kuerzel"]} – Übertragungsumfang:** {x["vollstaendigkeit"]}')
 parts.append('## Ablage und Prüfung')
-parts.append('Alle Rechtsgebiete liegen einheitlich unter `Rechtsgebiete/`, einschließlich `Rechtsgebiete/Steuerrecht/`. Gesetze und Verordnungen sind dort nach Thema und Abkürzung gegliedert. Jeder Ordner `Stand_2026-09-09` enthält den Markdown-Volltext der jeweiligen Quelle sowie `Quellen/` und `Pruefung/`. Bei den PDF/XML-Konvertierungen sind Anlagen, weggefallene Vorschriften, Fußnoten, Tabellen und Originalabbildungen einbezogen. Einfache Tabellen verwenden Markdown; komplexe Tabellen behalten verbundene Zellen und relevante Trennlinien als HTML innerhalb des Markdown-Dokuments. Die Übertragungsgrenzen einer Webkopie werden beim betroffenen Dokument ausgewiesen.')
+parts.append('Alle Rechtsgebiete liegen einheitlich unter `Rechtsgebiete/`, einschließlich `Rechtsgebiete/Steuerrecht/`. Gesetze und Verordnungen sind dort nach Thema und Abkürzung gegliedert. Jeder Ordner `Stand_JJJJ-MM-TT` enthält den Markdown-Volltext der jeweiligen Quelle sowie `Quellen/` und `Pruefung/`. Bei den PDF/XML-Konvertierungen sind Anlagen, weggefallene Vorschriften, Fußnoten, Tabellen und Originalabbildungen einbezogen. Einfache Tabellen verwenden Markdown; komplexe Tabellen behalten verbundene Zellen und relevante Trennlinien als HTML innerhalb des Markdown-Dokuments. Die Übertragungsgrenzen einer Webkopie werden beim betroffenen Dokument ausgewiesen.')
 parts.append('Bei Quellen von Gesetze im Internet erfolgt der Abgleich zwischen PDF und XML sowie zwischen XML und gerendertem Markdown. Für EU-Dokumente und BMF-Schreiben sind die jeweilige PDF-Übernahme und der amtliche Quellenabgleich im Prüfbericht dokumentiert. Erkannte Besonderheiten der Textextraktion, ältere Fassungen und Ergänzungen sind beim betroffenen Dokument ausgewiesen. Die gelieferte Fassung wird bei der Konvertierung nicht stillschweigend durch einen anderen Rechtsstand ersetzt.')
 parts.append('Maschinenlesbarer Gesamtbestand mit Dateipfaden und Prüfsummen: [Bestand.json](Bestand.json). Wiederholbare Werkzeuge: [Werkzeuge/README.md](Werkzeuge/README.md).')
 parts.append('Cloud-Übergabe: [Tool starten](Cloud_Sync_starten.cmd) · [Google Drive und Claude einrichten](Werkzeuge/Cloud_Sync/README.md). Das Tool stellt geprüfte Fassungen im gewählten Zielordner bereit; den Upload übernimmt Google Drive für Desktop.')

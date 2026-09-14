@@ -4,13 +4,13 @@
 
 **Claude-Skill:** [Installation und Verwendung](Werkzeuge/Claude_Skill/README.md) · [Skill-ZIP](dist/steuerrecht-recherche.zip). Der Skill unterstützt Recherche über Supabase und direkt aus diesem GitHub-Repository.
 
-**58 Dokumente: 52 PDF-Dokumente (3.401 Seiten) und 6 Webkopien. Erfassung/Quellenprüfung: 09.09.2026.**
+**60 Dokumente: 52 PDF-Dokumente (3.401 Seiten) und 8 Webkopien. Erfassung/Quellenprüfung: 09.09.2026 bis 14.09.2026.**
 
 Das Git-Repository enthält die registrierten Quellen, unveränderten Originaldateien, Prüfberichte, Werkzeuge und Anleitungen. Lokale Python-Umgebungen, heruntergeladene Modelle, erzeugte Suchindizes und Exportpakete werden nicht versioniert. Die [Recherche-Anleitung](Werkzeuge/Recherche/README.md) beschreibt die lokale Einrichtung; die [Cloud-Anleitung](Werkzeuge/Recherche/cloud/READMECloudSetup.md) beschreibt Supabase. Zugangsdaten werden separat eingerichtet. Git erhält die ursprünglichen Dateibytes einschließlich der Zeilenenden, damit die registrierten SHA-256-Prüfsummen gültig bleiben.
 
 Die registrierten Quellen sind in Markdown umgewandelt und gegen die bereitgestellten Dateien geprüft. Die Original-PDFs liegen unverändert im [versionierten PDF-Archiv](PDF_Archiv/README.md). Dort sind Bearbeitungsstatus, PDF und zugehöriger Markdown-Volltext direkt verknüpft. Neue PDFs kommen in [01_Unbearbeitet](PDF_Archiv/01_Unbearbeitet/README.md). Zu jedem Dokument gehören Quellen und nachvollziehbare Prüfberichte. Änderungsstand, Umfang und Einschränkungen des Quellenabgleichs stehen im jeweiligen Dokument. Das Datum des Stand-Ordners bezeichnet die Erfassung beziehungsweise Quellenprüfung und bestätigt für sich allein keine aktuelle amtliche Gesamtfassung.
 
-**Bearbeitungsstatus:** 58 in Markdown umgewandelt; unbearbeitete PDFs: 0; unbearbeitete Webquellen: 0.
+**Bearbeitungsstatus:** 60 in Markdown umgewandelt; unbearbeitete PDFs: 0; unbearbeitete Webquellen: 0.
 
 Unveränderte Textkopien von Webseiten liegen im [Web-Archiv](Web_Archiv/README.md). Die dortigen Prüfberichte unterscheiden die vollständige Übertragung der gelieferten Kopie von der Vollständigkeit und Aktualität der amtlichen Gesamtfassung.
 
@@ -108,9 +108,22 @@ Die Textkopien werden mit ihrer ursprünglichen Standangabe archiviert. Erfassun
 
 **UmwStE 2025 – Übertragungsumfang:** Alle 4360 bereitgestellten Sachtextzeilen vollständig übernommen; 572 Randnummern mit Sprungmarken, Inhaltsverzeichnis der Kopie verlinkt. 94 Fußnotendefinitionen ohne Verweiszeichen im Text: Zuordnung redaktionell erschlossen (91 auf Zeile, 2 nur auf Randnummer, 1 offen). Abgeflachte Tabellen bleiben Textzeilen. Keine Satznummern, keine Anlagen.
 
+## Rechtsprechung aus Webkopien
+
+Die Entscheidungen sind als einzelne Dokumente mit Gericht, Entscheidungsdatum und Aktenzeichen erfasst. Das Datum des Standordners bezeichnet die Erfassung beziehungsweise Quellenprüfung; es ändert das Entscheidungsdatum nicht. Der Übertragungsumfang der bereitgestellten Kopie und ein etwaiger amtlicher Abgleich stehen im jeweiligen Prüfnachweis.
+
+| Entscheidung | Originalquelle | Quellenstand | Prüfnachweis |
+| --- | --- | --- | --- |
+| [BFH V R 6/12](<Rechtsgebiete/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_6_12/Stand_2026-09-14/V_R_6_12.md>) | [Webkopie (TXT)](<Web_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-14/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_6_12/v_r_6_12.txt>) | BFH-Urteil vom 19.12.2013, V R 6/12; Verlagskopie aus DStR 2014, 1109.; Amtliche BFH-Seite am 14.09.2026: Aktenzeichen, Entscheidungsdatum und Randnummernfolge 1–46 geprüft. Die Vorinstanz ist dort mit 25.10.2011, in der gelieferten Kopie mit 26.10.2011 angegeben. Kein vollständiger Wortlautvergleich; keine Prüfung späterer Rechtsprechung. | [Prüfbericht](<Rechtsgebiete/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_6_12/Stand_2026-09-14/Pruefung/Pruefbericht.md>) |
+| [BFH V R 7/12](<Rechtsgebiete/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_7_12/Stand_2026-09-14/V_R_7_12.md>) | [Webkopie (TXT)](<Web_Archiv/02_In_Markdown_umgewandelt/Stand_2026-09-14/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_7_12/v_r_7_12.txt>) | BFH-Urteil vom 19.12.2013, V R 7/12; Verlagskopie aus MwStR 2014, 480.; Amtliche BFH-Seite am 14.09.2026: Aktenzeichen, Entscheidungsdatum und Randnummernfolge 1–58 geprüft. Die Vorinstanz ist dort mit 25.10.2011, in der gelieferten Kopie mit 26.10.2011 angegeben. Kein vollständiger Wortlautvergleich; keine Prüfung späterer Rechtsprechung. | [Prüfbericht](<Rechtsgebiete/Steuerrecht/Rechtsprechung/Umsatzsteuer/BFH/V_R_7_12/Stand_2026-09-14/Pruefung/Pruefbericht.md>) |
+
+**BFH V R 6/12 – Übertragungsumfang:** Alle 48 nichtleeren Quellzeilen vollständig und zeichengetreu übertragen; 29 Randnummern mit Sprungmarken. Die gelieferte Kopie enthält Rn. 1–15 und 33–46. Statt Rn. 16–32 steht dort wörtlich „6-32 (inhaltsgleich zu BFH v. 19. 12. 2013, V R 7/12, DStR 2014, 1104 – in diesem Heft –, Rz. 16-31)“. Dieser Auslassungsvermerk bleibt unverändert; fehlende Randnummern werden nicht aus dem Parallelurteil ergänzt.
+
+**BFH V R 7/12 – Übertragungsumfang:** Alle 116 nichtleeren Quellzeilen vollständig und zeichengetreu übertragen; 58 Randnummern mit Sprungmarken. Die gelieferte Kopie enthält Rn. 1–58 sowie die gesonderte „Erste Einordnung“ von Ursula Slapio. Die Anmerkung und die redaktionellen Zwischenüberschriften sind keine gerichtlichen Entscheidungsgründe. Die Zwischenüberschrift vor Rn. 58 nennt „§ 173 Abs. 3 AO“, der folgende Absatz dagegen § 174 Abs. 3 AO; die abweichende Überschrift wird unverändert erhalten.
+
 ## Ablage und Prüfung
 
-Alle Rechtsgebiete liegen einheitlich unter `Rechtsgebiete/`, einschließlich `Rechtsgebiete/Steuerrecht/`. Gesetze und Verordnungen sind dort nach Thema und Abkürzung gegliedert. Jeder Ordner `Stand_2026-09-09` enthält den Markdown-Volltext der jeweiligen Quelle sowie `Quellen/` und `Pruefung/`. Bei den PDF/XML-Konvertierungen sind Anlagen, weggefallene Vorschriften, Fußnoten, Tabellen und Originalabbildungen einbezogen. Einfache Tabellen verwenden Markdown; komplexe Tabellen behalten verbundene Zellen und relevante Trennlinien als HTML innerhalb des Markdown-Dokuments. Die Übertragungsgrenzen einer Webkopie werden beim betroffenen Dokument ausgewiesen.
+Alle Rechtsgebiete liegen einheitlich unter `Rechtsgebiete/`, einschließlich `Rechtsgebiete/Steuerrecht/`. Gesetze und Verordnungen sind dort nach Thema und Abkürzung gegliedert. Jeder Ordner `Stand_JJJJ-MM-TT` enthält den Markdown-Volltext der jeweiligen Quelle sowie `Quellen/` und `Pruefung/`. Bei den PDF/XML-Konvertierungen sind Anlagen, weggefallene Vorschriften, Fußnoten, Tabellen und Originalabbildungen einbezogen. Einfache Tabellen verwenden Markdown; komplexe Tabellen behalten verbundene Zellen und relevante Trennlinien als HTML innerhalb des Markdown-Dokuments. Die Übertragungsgrenzen einer Webkopie werden beim betroffenen Dokument ausgewiesen.
 
 Bei Quellen von Gesetze im Internet erfolgt der Abgleich zwischen PDF und XML sowie zwischen XML und gerendertem Markdown. Für EU-Dokumente und BMF-Schreiben sind die jeweilige PDF-Übernahme und der amtliche Quellenabgleich im Prüfbericht dokumentiert. Erkannte Besonderheiten der Textextraktion, ältere Fassungen und Ergänzungen sind beim betroffenen Dokument ausgewiesen. Die gelieferte Fassung wird bei der Konvertierung nicht stillschweigend durch einen anderen Rechtsstand ersetzt.
 

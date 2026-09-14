@@ -4,6 +4,7 @@ Hier liegen die registrierten Originalkopien von Webseiten nach Erfassung bezieh
 
 | Erfassung / Quellenprüfung | In Markdown umgewandelt | Übersicht |
 | --- | ---: | --- |
+| 14.09.2026 | 2 | [Stand_2026-09-14](<Stand_2026-09-14/README.md>) |
 | 09.09.2026 | 6 | [Stand_2026-09-09](<Stand_2026-09-09/README.md>) |
 
 **Offene Registrierungsbefunde: 0 Dateien.** Zusätzliche, nicht registrierte Dateien sind in der Web-Archivübersicht gesondert aufgeführt; die Ablage allein bestätigt keinen Bearbeitungsstatus.

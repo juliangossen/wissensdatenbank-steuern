@@ -301,6 +301,90 @@ Eigenständiger Inhalt des Anhangs.
             "Rn. 01.01 – Erster Sachabschnitt", "Rn. 01.02 – Erster Sachabschnitt",
             "Rn. 02.01 – Zweiter Sachabschnitt"])
 
+    def test_judgment_integer_margins_keep_editorial_text_separate(self) -> None:
+        for case_number in [6, 7]:
+            with self.subTest(case_number=case_number):
+                abbreviation = f"BFH V R {case_number}/12"
+                self.entry.update(kuerzel=abbreviation, titel=f"Urteil {abbreviation}",
+                                  typ="Rechtsprechung (Webkopie)")
+                markdown = f'''# {abbreviation}
+
+## Tatbestand
+
+<a id="rn-1"></a>
+### Rn. 1
+
+Erster Sachverhalt mit Verweis auf § 15 UStG.
+
+<a id="rn-2"></a>
+### Rn. 2
+
+Fortgesetzter Sachverhalt.
+
+## Entscheidungsgründe
+
+<a id="rn-10"></a>
+### Rn. 10
+
+Tragende Entscheidungsgründe.
+
+<a id="referat-anmerkung"></a>
+## Referat / Anmerkung
+
+Redaktionelle Würdigung zu Rn. 10, kein Urteilstext.
+'''
+                self.write_source(markdown)
+                collection = parser.parse_collection(self.root, [abbreviation])
+                document = collection["documents"][0]
+                self.assertEqual(document["doc_id"], f"bfh-v-r-{case_number}-12")
+                self.assertEqual(document["document_type"], "Rechtsprechung (Webkopie)")
+                self.assertEqual(document["markdown"], markdown)
+                margins = [p for p in collection["provisions"] if p["kind"] == "provision"]
+                self.assertEqual([p["reference"] for p in margins], ["Rn. 1", "Rn. 2", "Rn. 10"])
+                self.assertEqual([p["anchor"] for p in margins], ["rn-1", "rn-2", "rn-10"])
+                for margin in margins:
+                    self.assertEqual(margin["markdown"], markdown[margin["source_start"]:margin["source_end"]])
+                    self.assertEqual(margin["reference_aliases"], [])
+                    self.assertNotIn("Redaktionelle Würdigung", margin["markdown"])
+                self.assertNotIn("Fortgesetzter Sachverhalt", margins[0]["markdown"])
+                self.assertNotIn("Entscheidungsgründe", margins[1]["markdown"])
+                editorial = next(p for p in collection["provisions"]
+                                 if p["title"] == "Referat / Anmerkung")
+                self.assertEqual(editorial["kind"], "source_part")
+                self.assertEqual(editorial["source_anchor"], "referat-anmerkung")
+                self.assertEqual(editorial["reference_aliases"], [])
+                self.assertIn("Redaktionelle Würdigung", editorial["search_text"])
+
+    def test_integer_margins_require_a_matching_explicit_heading_anchor(self) -> None:
+        self.write_source('''# Quelle
+
+### Rn. 1
+Nicht verankerte Zitierung.
+
+<a id="abschnitt-zitat"></a>
+### Rn. 2
+Anders verankerte Zitierung.
+
+<a id="rn-3"></a>
+### Rn. 4
+Widersprüchliche Nummerierung.
+
+<a id="rn-5"></a>
+### Rn. 5
+Eindeutige Randnummer.
+
+## Weiterer Abschnitt
+<a id="rn-6"></a>
+Eine Zahl im Anker allein ist keine Randnummernüberschrift.
+''')
+        collection = self.parse()
+        margins = [p for p in collection["provisions"] if p["kind"] == "provision"]
+        self.assertEqual([p["reference"] for p in margins], ["Rn. 5"])
+        self.assertEqual(margins[0]["anchor"], "rn-5")
+        for start, end in parser._uncovered_ranges(len(collection["documents"][0]["markdown"]),
+                                                  collection["provisions"]):
+            self.assertFalse(parser.readable_text(collection["documents"][0]["markdown"][start:end]).strip())
+
 
 class ActualCollectionTests(unittest.TestCase):
     @classmethod

@@ -1,6 +1,6 @@
 # Web-Archiv
 
-**6 Webquellen in Markdown umgewandelt · 0 Webquellen unbearbeitet.**
+**8 Webquellen in Markdown umgewandelt · 0 Webquellen unbearbeitet.**
 
 | Ordner | Bedeutung |
 | --- | --- |
@@ -9,6 +9,7 @@
 
 ## Abgeschlossene Fassungen
 
+- [Stand_2026-09-14](<02_In_Markdown_umgewandelt/Stand_2026-09-14/README.md>): 2 Originalquellen mit Links zu Markdown-Dokumenten und Prüfberichten.
 - [Stand_2026-09-09](<02_In_Markdown_umgewandelt/Stand_2026-09-09/README.md>): 6 Originalquellen mit Links zu Markdown-Dokumenten und Prüfberichten.
 
 ## Versionierung und Bearbeitungsstatus

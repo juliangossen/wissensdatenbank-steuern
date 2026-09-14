@@ -10,6 +10,7 @@ Die archivierten Fassungen lassen sich aus ihren vorhandenen Quellen reproduzier
 - Die gesetzesspezifischen Konverter und Prüfprogramme liegen zusätzlich im jeweiligen Ordner `Pruefung/`. Die dortigen Prüfberichte enthalten die konkreten Aufrufe und Methoden.
 - Die ursprüngliche UStG-Konvertierung und die drei GoBD-Schreiben verwenden ihre separat archivierten Programme.
 - [PDF-Import vom 09.09.2026](PDF_Import_2026-09-09/README.md) dokumentiert den zusätzlichen Stapel von 31 PDFs, die Zuordnung zum Archiv und die abschließende Bestands- und Linkprüfung. EU-Dokumente besitzen eigene Offline-Konverter und Prüfer in ihrem jeweiligen Standordner.
+- [BFH-Textimport vom 14.09.2026](BFH_Import_2026-09-14/README.md) dokumentiert die Urteile V R 6/12 und V R 7/12, die zeichengetreue Übernahme der gelieferten Kopien und ihre amtlichen Vergleichsbelege.
 
 Voraussetzungen: Python 3, `markdown-it-py` und Poppler (`pdftotext`). Die GoBD-Werkzeuge verwenden zusätzlich die in ihrem Prüfbericht genannten PDF-Bibliotheken. Die UTF-8-Kodierung der Markdown-Dateien bleibt erhalten.
 

@@ -1,0 +1,65 @@
+﻿[
+    {
+        "document_id":  "STRE201410110",
+        "aktenzeichen":  "V R 6/12",
+        "entscheidungsdatum":  "2013-12-19",
+        "request_url":  "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201410110/",
+        "retrieved_at_utc":  "2026-09-14T21:12:14.6889406Z",
+        "http_status":  200,
+        "content_type":  "text/html; charset=utf-8",
+        "file":  "STRE201410110.html",
+        "size_bytes":  72926,
+        "sha256":  "ec09eed6c4ea73c805d9732ba8f492dc0c58976aa1993e813033824feb49f780",
+        "randnummern":  {
+                            "from":  1,
+                            "to":  46,
+                            "count":  46,
+                            "missing":  [
+
+                                        ],
+                            "source_attribute":  "data-rd"
+                        },
+        "ecli":  null,
+        "ecli_status":  "In der amtlichen HTML-Quelle nicht angegeben; nicht hergeleitet.",
+        "vorinstanz_datum_html":  "2011-10-25",
+        "vorinstanz_datum_lokaler_text":  "2011-10-26",
+        "pdf_url":  "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/pdf/STRE201410110?type=1646225765",
+        "ecli_literal_present_in_html":  false,
+        "verification_notes":  [
+                                   "Lokaler Verlagstext hat nach Rn. 15 die Passage 6-32 (inhaltsgleich ... V R 7/12 ... Rz. 16-31), danach Rn. 33. Amtliche HTML-Quelle enthält Rn. 16 bis 32 vollständig. Die lokale Auslassung wurde nicht berichtigt.",
+                                   "Rn. 3 nennt 18.838.830,07 DM, Rn. 7 nennt 18.838.380,07 DM; die Betragsabweichung ist auch in der amtlichen HTML-Quelle enthalten.",
+                                   "Die HTML-Seite nennt bei Vorinstanz 25. Oktober 2011, der lokale Verlagstext 26. Oktober 2011. Keine Auflösung oder stille Berichtigung dieser Quellenabweichung."
+                               ]
+    },
+    {
+        "document_id":  "STRE201410111",
+        "aktenzeichen":  "V R 7/12",
+        "entscheidungsdatum":  "2013-12-19",
+        "request_url":  "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201410111/",
+        "retrieved_at_utc":  "2026-09-14T21:12:15.2029026Z",
+        "http_status":  200,
+        "content_type":  "text/html; charset=utf-8",
+        "file":  "STRE201410111.html",
+        "size_bytes":  82741,
+        "sha256":  "01e8618dc88967b438f4d0481255165e9e4068779853628d4daff1d9c11113d6",
+        "randnummern":  {
+                            "from":  1,
+                            "to":  58,
+                            "count":  58,
+                            "missing":  [
+
+                                        ],
+                            "source_attribute":  "data-rd"
+                        },
+        "ecli":  null,
+        "ecli_status":  "In der amtlichen HTML-Quelle nicht angegeben; nicht hergeleitet.",
+        "vorinstanz_datum_html":  "2011-10-25",
+        "vorinstanz_datum_lokaler_text":  "2011-10-26",
+        "pdf_url":  "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/pdf/STRE201410111?type=1646225765",
+        "ecli_literal_present_in_html":  false,
+        "verification_notes":  [
+                                   "Lokaler Verlagstext enthält nach Rn. 58 eine Erste Einordnung von Ursula Slapio, Steuerberaterin, Düsseldorf. Diese Redaktion gehört nicht zum amtlichen Urteilstext.",
+                                   "Die HTML-Seite nennt bei Vorinstanz 25. Oktober 2011, der lokale Verlagstext 26. Oktober 2011. Keine Auflösung oder stille Berichtigung dieser Quellenabweichung."
+                               ]
+    }
+]
